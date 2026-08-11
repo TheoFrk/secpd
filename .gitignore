@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
+scores.csv
+scores_*.csv
+data/processed/scores_*.csv
+
+# Große Roh-/Cachedaten — nicht committen (siehe README / Zenodo):
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/edgar_8k_events_demo.csv
+
+# Regenerierbar via convert_zenodo / Training (63MB+):
+data/processed/*.csv.gz
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# Optional große Offline-Bundles lokal halten:
+vendor/wheels/
+assets/nltk_data/
+
+# LLM-Cache kann groß werden
+data/cache/llm/**
+!data/cache/llm/.gitkeep
