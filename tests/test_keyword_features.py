@@ -32,7 +32,7 @@ def test_keyword_going_concern_and_covenant():
 
 def test_model_feature_names_are_slim():
     names = text_feature_names()
-    assert names == ["llm_risk_sentiment", "llm_complexity_score"]
+    assert names == ["llm_risk_sentiment"]
     assert "llm_confidence" not in names
     assert set(keyword_feature_names()) <= set(combined_text_feature_names())
     # Cache/Debug behält alle Profilfelder

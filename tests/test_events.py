@@ -151,6 +151,18 @@ def test_pit_window_excludes_future_events():
     assert not any("bankruptcy" in c for c in cols)  # Leakage-Regel
 
 
+def test_delisting_label_is_not_a_feature():
+    fy = _firm_years([(1, "2010-12-31", "2011-03-31")])
+    ev = _events([(1, "2011-06-01", "3.01"), (9, "2030-01-01", "9.01")])
+    out = attach_default_labels(
+        fy, ev, horizon_months=12, label_concepts=("bankruptcy", "delisting")
+    )
+    assert int(out.iloc[0]["label_default"]) == 1
+    _, cols = add_event_features(out, ev, exclude_concepts=("delisting",))
+    assert "evt_n_delisting" not in cols
+    assert "evt_n_auditor_change" in cols
+
+
 # --------------------------------------------------------------------------- #
 # 6) Mini-End-to-End: Default-Label + Event-Features + Training
 # --------------------------------------------------------------------------- #

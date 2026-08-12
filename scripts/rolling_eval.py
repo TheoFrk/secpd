@@ -31,7 +31,9 @@ from secpd.data.events import (  # noqa: E402
     MIN_FYEAR_WITH_FINANCIALS,
     add_event_features,
     attach_default_labels,
+    feature_exclusions_for_labels,
     load_events,
+    parse_label_concepts,
 )
 from secpd.data.zenodo import load_dataset, resolve_columns  # noqa: E402
 from secpd.evaluation import (  # noqa: E402
@@ -60,6 +62,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--events", required=True)
     p.add_argument("--out", default="benchmarks/rolling_default_h12")
     p.add_argument("--default-horizon", type=int, default=12)
+    p.add_argument("--label-concepts", default="bankruptcy")
     p.add_argument("--min-fyear", type=int, default=MIN_FYEAR_WITH_FINANCIALS)
     p.add_argument("--allow-missing-financials", action="store_true")
     p.add_argument("--trust-legacy-regime", action="store_true")
@@ -88,11 +91,14 @@ def _prepare(args: argparse.Namespace) -> tuple[pd.DataFrame, list[str], list[st
     panel.columns = [c.lower() for c in panel.columns]
     df = df.merge(panel, on=["cik", "fyear"], how="left", suffixes=("", "_fin"))
     events = load_events(args.events)
+    concepts = parse_label_concepts(args.label_concepts)
+    exclude = feature_exclusions_for_labels(concepts)
     df = attach_default_labels(
         df,
         events,
         horizon_months=args.default_horizon,
         trust_legacy_regime=bool(args.trust_legacy_regime),
+        label_concepts=concepts,
     )
     df = df.loc[pd.to_numeric(df["fyear"], errors="coerce") >= int(args.min_fyear)].copy()
     if not args.allow_missing_financials:
@@ -101,7 +107,10 @@ def _prepare(args: argparse.Namespace) -> tuple[pd.DataFrame, list[str], list[st
     df = df.reset_index(drop=True)
     df, fin = add_financial_features(df)
     df, evt = add_event_features(
-        df, events, trust_legacy_regime=bool(args.trust_legacy_regime)
+        df,
+        events,
+        trust_legacy_regime=bool(args.trust_legacy_regime),
+        exclude_concepts=exclude,
     )
     numeric = fin + evt
     text_cols: list[str] = []
@@ -238,6 +247,8 @@ def main() -> int:
             "step_years": args.step_years,
             "calibrate": calibrate,
             "llm": args.llm,
+            "default_horizon_months": args.default_horizon,
+            "label_concepts": list(parse_label_concepts(args.label_concepts)),
         },
         "mean_fold_roc_fin": float(folds_df["fin_roc_auc"].mean()),
         "mean_fold_pr_fin": float(folds_df["fin_pr_auc"].mean()),

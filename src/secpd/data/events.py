@@ -72,6 +72,27 @@ FEATURE_CONCEPTS: tuple[str, ...] = (
 DEFAULT_LABEL_COL = "label_default"
 
 
+def parse_label_concepts(raw: str | Sequence[str] | None) -> tuple[str, ...]:
+    """``'bankruptcy,delisting'`` → Tuple; Default nur Bankruptcy."""
+    if raw is None:
+        return ("bankruptcy",)
+    if isinstance(raw, str):
+        parts = tuple(p.strip() for p in raw.split(",") if p.strip())
+    else:
+        parts = tuple(str(p).strip() for p in raw if str(p).strip())
+    if not parts:
+        return ("bankruptcy",)
+    unknown = [c for c in parts if c not in ITEM_MAP]
+    if unknown:
+        raise ValueError(f"Unbekannte Label-Konzepte: {unknown} (bekannt: {sorted(ITEM_MAP)})")
+    return parts
+
+
+def feature_exclusions_for_labels(label_concepts: Sequence[str]) -> tuple[str, ...]:
+    """Label-Konzepte, die sonst als evt_*-Feature leaken würden."""
+    return tuple(c for c in label_concepts if c in FEATURE_CONCEPTS)
+
+
 # --------------------------------------------------------------------------- #
 # Fetching (Online — Home-Setup)
 # --------------------------------------------------------------------------- #
@@ -278,17 +299,38 @@ def mark_concepts(
     return out
 
 
+def credit_event_dates(
+    events: pd.DataFrame,
+    *,
+    concepts: Sequence[str] = ("bankruptcy",),
+    trust_legacy_regime: bool = False,
+) -> pd.Series:
+    """Erstes Credit-Event-Datum je CIK (Bankruptcy und/oder Delisting)."""
+    wanted = tuple(concepts) or ("bankruptcy",)
+    unknown = [c for c in wanted if c not in ITEM_MAP]
+    if unknown:
+        raise ValueError(f"Unbekannte Label-Konzepte: {unknown}")
+    marked = mark_concepts(events, trust_legacy_regime=trust_legacy_regime)
+    mask = pd.Series(False, index=marked.index)
+    for concept in wanted:
+        mask = mask | marked[f"is_{concept}"]
+    hit = marked.loc[mask, ["cik", "filing_date_8k"]]
+    if hit.empty:
+        return pd.Series(dtype="datetime64[ns]", name="credit_event_date")
+    out = hit.groupby("cik")["filing_date_8k"].min()
+    out.name = "credit_event_date"
+    return out
+
+
 def bankruptcy_dates(
     events: pd.DataFrame,
     *,
     trust_legacy_regime: bool = False,
 ) -> pd.Series:
     """Erstes Bankruptcy-8-K je CIK (Index: cik, Werte: Timestamp)."""
-    marked = mark_concepts(events, trust_legacy_regime=trust_legacy_regime)
-    bk = marked.loc[marked["is_bankruptcy"], ["cik", "filing_date_8k"]]
-    if bk.empty:
-        return pd.Series(dtype="datetime64[ns]", name="bankruptcy_date")
-    out = bk.groupby("cik")["filing_date_8k"].min()
+    out = credit_event_dates(
+        events, concepts=("bankruptcy",), trust_legacy_regime=trust_legacy_regime
+    )
     out.name = "bankruptcy_date"
     return out
 
@@ -330,14 +372,17 @@ def attach_default_labels(
     drop_post_bankruptcy: bool = True,
     trust_legacy_regime: bool = False,
     label_col: str = DEFAULT_LABEL_COL,
+    label_concepts: Sequence[str] = ("bankruptcy",),
 ) -> pd.DataFrame:
     """Konstruiert das Default-Label über den Prognosehorizont.
 
-    ``label = 1`` ⟺ ``reporting_date < bankruptcy_date ≤ reporting_date +
-    horizon_months``. Die Insolvenz ist ZIEL, nicht Wissen des Modells —
-    deshalb existiert bewusst kein korrespondierendes Feature.
+    ``label = 1`` ⟺ ``reporting_date < event_date ≤ reporting_date +
+    horizon_months``. Das Credit-Event ist ZIEL, nicht Wissen des Modells —
+    Label-Konzepte (Default: nur Bankruptcy 1.03) existieren bewusst nicht
+    als Features.
 
-    Standard: nur Bankruptcy-8-Ks ab ``REGIME_SWITCH`` (siehe Moduldoc).
+    ``label_concepts`` kann z. B. ``("bankruptcy", "delisting")`` sein
+    (früherer Distress-Korb). Delisting fließt dann nicht mehr in ``evt_*``.
     """
     out = df.copy()
     rep = pd.to_datetime(out.get("reporting_date"), errors="coerce")
@@ -350,14 +395,17 @@ def attach_default_labels(
     out = out.loc[rep.notna()].copy()
     rep = rep.loc[rep.notna()]
 
-    bk = bankruptcy_dates(events, trust_legacy_regime=trust_legacy_regime)
+    concepts = tuple(label_concepts) or ("bankruptcy",)
+    ev_dates = credit_event_dates(
+        events, concepts=concepts, trust_legacy_regime=trust_legacy_regime
+    )
     if not trust_legacy_regime:
         logger.info(
             "Default-Label: Legacy-Regime vor %s ignoriert "
             "(trust_legacy_regime=False).",
             REGIME_SWITCH.date(),
         )
-    out["_bk_date"] = out["cik"].map(bk)
+    out["_bk_date"] = out["cik"].map(ev_dates)
     horizon_end = rep + pd.DateOffset(months=horizon_months)
 
     label = ((rep < out["_bk_date"]) & (out["_bk_date"] <= horizon_end)).fillna(False)
@@ -378,18 +426,23 @@ def attach_default_labels(
 
     out = out.drop(columns=["_bk_date"]).reset_index(drop=True)
     logger.info(
-        "Default-Label (Horizont %d M): %d Bankruptcies bekannt | %d/%d positiv "
-        "(Basisrate %.2f%%) | gedroppt: %d post-bankruptcy, %d rechtszensiert",
-        horizon_months, len(bk), int(out[label_col].sum()), len(out),
+        "Default-Label (Horizont %d M, Konzepte=%s): %d Events bekannt | "
+        "%d/%d positiv (Basisrate %.2f%%) | gedroppt: %d post-event, %d rechtszensiert",
+        horizon_months, ",".join(concepts), len(ev_dates),
+        int(out[label_col].sum()), len(out),
         100 * out[label_col].mean() if len(out) else 0.0, n_post, n_cens,
     )
     return out
 
 
 def event_feature_names(
-    prefix: str = "evt_", *, include_restatement_flag: bool = False
+    prefix: str = "evt_",
+    *,
+    include_restatement_flag: bool = False,
+    exclude_concepts: Sequence[str] = (),
 ) -> list[str]:
-    names = [f"{prefix}n_8k"] + [f"{prefix}n_{c}" for c in FEATURE_CONCEPTS]
+    concepts = [c for c in FEATURE_CONCEPTS if c not in set(exclude_concepts)]
+    names = [f"{prefix}n_8k"] + [f"{prefix}n_{c}" for c in concepts]
     if include_restatement_flag:
         names.append(f"{prefix}n_restatement")
     return names
@@ -403,6 +456,7 @@ def add_event_features(
     prefix: str = "evt_",
     include_restatement_flag: bool = False,
     trust_legacy_regime: bool = False,
+    exclude_concepts: Sequence[str] = (),
 ) -> tuple[pd.DataFrame, list[str]]:
     """PIT-saubere Event-Zähler je Firm-Year.
 
@@ -410,12 +464,15 @@ def add_event_features(
     bis einschließlich des 10-K-Filing-Datums; alles danach wäre Look-ahead.
     Kein Event ⇒ 0 (nicht NaN): die Abwesenheit von 8-Ks ist Information.
     Bankruptcy (1.03/alt-3) ist bewusst KEIN Feature (Label-Leakage).
-
-    Standard: Konzept-Treffer nur ab ``REGIME_SWITCH`` — sonst lernt das Modell
-    den Regime-Sprung (z. B. Officer-Items) statt Risiko.
+    Konzepte, die im Label stecken (z. B. Delisting), über ``exclude_concepts``
+    ebenfalls raushalten.
     """
     out = df.copy()
-    feature_cols = event_feature_names(prefix, include_restatement_flag=include_restatement_flag)
+    feature_cols = event_feature_names(
+        prefix,
+        include_restatement_flag=include_restatement_flag,
+        exclude_concepts=exclude_concepts,
+    )
     for col in feature_cols:
         out[col] = 0
 
@@ -432,7 +489,9 @@ def add_event_features(
     if events.empty or not valid.any():
         return out, feature_cols
 
-    concepts = list(FEATURE_CONCEPTS) + (["restatement"] if include_restatement_flag else [])
+    concepts = [c for c in FEATURE_CONCEPTS if c not in set(exclude_concepts)]
+    if include_restatement_flag:
+        concepts = concepts + ["restatement"]
     marked = mark_concepts(events, trust_legacy_regime=trust_legacy_regime)[
         ["cik", "filing_date_8k"] + [f"is_{c}" for c in concepts]
     ]

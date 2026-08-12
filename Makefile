@@ -37,8 +37,9 @@ rolling:
 		--data data/processed/zenodo_labeled.csv.gz \
 		--financials data/raw/financials_panel.csv \
 		--events data/raw/edgar_8k_events.csv \
+		--default-horizon 36 --label-concepts bankruptcy \
 		--llm openai --llm-cache-only --group-split \
-		--out benchmarks/rolling_default_h12
+		--out benchmarks/rolling_h36_bankruptcy
 
 ping-llm:
 	python scripts/ping_llm.py --endpoint $${SECPD_LLM_ENDPOINT:-http://172.16.3.164:1234}

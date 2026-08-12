@@ -36,7 +36,9 @@ from secpd.data.events import (  # noqa: E402
     MIN_FYEAR_WITH_FINANCIALS,
     attach_default_labels,
     add_event_features,
+    feature_exclusions_for_labels,
     load_events,
+    parse_label_concepts,
 )
 from secpd.data.zenodo import load_dataset, resolve_columns  # noqa: E402
 from secpd.evaluation import evaluate_probs, firm_overlap_stats, print_report  # noqa: E402
@@ -70,6 +72,12 @@ def parse_args() -> argparse.Namespace:
                         "aus 8-K Item 1.03 (erfordert --events)")
     p.add_argument("--default-horizon", type=int, default=12,
                    help="Prognosehorizont des Default-Labels in Monaten")
+    p.add_argument(
+        "--label-concepts",
+        default="bankruptcy",
+        help="Komma-Liste der 8-K-Konzepte fürs Default-Label "
+             "(bankruptcy und/oder delisting). Label-Konzepte sind keine Features.",
+    )
     p.add_argument(
         "--trust-legacy-regime",
         action="store_true",
@@ -141,16 +149,19 @@ def main() -> int:
         logger.info("Finanz-Panel gemerged: %d Zeilen nach Merge.", len(df))
 
     events_df = load_events(args.events) if args.events else None
+    label_concepts: tuple[str, ...] = ("bankruptcy",)
     if args.label_source == "default":
         if events_df is None:
             logger.error("--label-source default erfordert --events "
                          "(s. scripts/fetch_edgar_events.py).")
             return 2
+        label_concepts = parse_label_concepts(args.label_concepts)
         df = attach_default_labels(
             df,
             events_df,
             horizon_months=args.default_horizon,
             trust_legacy_regime=bool(args.trust_legacy_regime),
+            label_concepts=label_concepts,
         )
         if args.label_col is None:
             args.label_col = "label_default"
@@ -199,10 +210,16 @@ def main() -> int:
 
     evt_features: list[str] = []
     if events_df is not None:
+        exclude = (
+            feature_exclusions_for_labels(label_concepts)
+            if args.label_source == "default"
+            else ()
+        )
         df, evt_features = add_event_features(
             df,
             events_df,
             trust_legacy_regime=bool(args.trust_legacy_regime),
+            exclude_concepts=exclude,
         )
     numeric_features = fin_features + evt_features
 
@@ -273,6 +290,7 @@ def main() -> int:
         "label_col": cols.label_col,
         "label_source": args.label_source,
         "default_horizon_months": args.default_horizon if args.label_source == "default" else None,
+        "label_concepts": list(label_concepts) if args.label_source == "default" else None,
         "trust_legacy_regime": bool(args.trust_legacy_regime),
         "min_fyear": int(min_fyear) if min_fyear is not None else None,
         "require_financials": bool(args.require_financials),

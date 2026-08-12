@@ -70,10 +70,9 @@ class TextRiskProfile(BaseModel):
         "risk_sentiment",
         "confidence",
     )
-    #: Schlanke Modell-Features: nur Felder mit empirischem Default-Signal.
+    #: Schlanke Modell-Features: nur Sentiment (Vagheit/Confidence ohne Signal).
     MODEL_FEATURE_FIELDS: ClassVar[tuple[str, ...]] = (
         "risk_sentiment",
-        "complexity_score",
     )
 
     # ------------------------------------------------------------------ #
