@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently uncertain and outside our control",
+    "may differ, possibly materially",
+    "significant judgment is required",
+    "reasonably possible aggregate loss"
+  ],
+  "risk_summary": "The excerpt is heavily quantified and provides clear year-over-year performance, capital, revenue, credit-loss, and expense metrics, supporting relatively strong disclosure quality. Risk language is extensive and includes litigation, regulatory, market, tax, Brexit, LIBOR, and credit-loss uncertainties, but much of it is standard forward-looking and safe-harbor boilerplate. Overall tone is cautiously positive, driven by materially improved 2018 earnings and capital ratios, with residual uncertainty around legal liabilities and financial-market conditions."
+}

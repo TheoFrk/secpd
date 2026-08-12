@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.47,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we do not expect",
+    "hypothetical renewal value",
+    "unable to establish VSOE"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including revenue, margins, customer counts, contract values, and growth rates. Risk tone is moderately positive, but reliance on expectations, estimated portfolio metrics, renewal assumptions, and revenue-recognition complexity introduces uncertainty. The licensing transition created historical revenue timing pressure and prior operating losses, although management presents the transition as largely complete."
+}

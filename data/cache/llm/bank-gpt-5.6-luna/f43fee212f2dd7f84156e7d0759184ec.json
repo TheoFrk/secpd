@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ",
+    "expected to continue investing",
+    "may be unable to adjust spending",
+    "greater value than competitors"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking disclaimers and several conditional risk statements, particularly around revenue shortfalls, fixed expenses, profitability, competition, and foreign exchange. It provides useful quantitative detail on leases, aircraft costs, and currency impacts, but the business outlook relies substantially on qualitative claims and expectations."
+}

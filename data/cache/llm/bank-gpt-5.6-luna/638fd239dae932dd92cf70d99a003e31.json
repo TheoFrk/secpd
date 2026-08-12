@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not reasonably estimatable at this time",
+    "could have a material effect",
+    "confidential settlement",
+    "potential future operating results",
+    "additional details included elsewhere"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear sales, earnings, acquisition, settlement, and liquidity figures. Risk tone is mixed: operating performance is presented positively, but the Stryker Biotech indictment, potential exclusion from healthcare programs, regulatory setbacks, and unresolved legal exposure introduce material uncertainty. Repeated non-GAAP explanations and cross-references add boilerplate and may somewhat distract from underlying risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "best estimate and judgment",
+    "subjective variables",
+    "future events could occur",
+    "some degree of uncertainty",
+    "remain constrained"
+  ],
+  "risk_summary": "The excerpt is comparatively transparent, providing substantial operating metrics, trend data, and quantified year-over-year changes. Key risks include occupancy and rent dependence, resident job losses, constrained refinancing markets, buyer financing availability, credit recoverability, and potentially material impairment from subjective cash-flow assumptions."
+}

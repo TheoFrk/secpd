@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "As Adjusted non-GAAP measures",
+    "underlying business performance",
+    "non-core gains and charges",
+    "estimated tax effects",
+    "reclassifications and discontinued operations"
+  ],
+  "risk_summary": "The excerpt relies extensively on customized non-GAAP metrics and broad exclusions, which may make underlying performance and cash generation harder to compare with GAAP results or peers. It discloses a quantified provisional $80.7 million tax charge and potential further adjustments, indicating moderate financial reporting and tax-related uncertainty, but the overall tone is explanatory rather than crisis-like."
+}

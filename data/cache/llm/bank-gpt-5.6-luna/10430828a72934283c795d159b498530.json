@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "might cause actual results to differ",
+    "investigation and restatement-related costs",
+    "indemnification costs associated with former officers",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure is generally quantified and specific, but includes substantial legal, investigation, restatement, indemnification, and relocation-related costs. Operating margin declined materially in 2013, while continued DOJ-related legal costs and former-officer indemnification obligations indicate ongoing uncertainty. The tone is operationally descriptive but moderately negative due to litigation exposure and profitability pressure."
+}

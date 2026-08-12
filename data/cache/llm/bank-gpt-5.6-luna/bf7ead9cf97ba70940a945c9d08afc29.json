@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking cautionary statements",
+    "including but not limited to",
+    "risks and uncertainties",
+    "potential impacts",
+    "access to financing if at all"
+  ],
+  "risk_summary": "The excerpt is dominated by extensive boilerplate risk-factor language covering numerous macroeconomic, regulatory, liquidity, counterparty, structural, and geopolitical contingencies, with limited prioritization or probability assessment. Specific transaction disclosures are quantified, but the overall presentation is highly complex and diffuse, making the principal credit risks difficult to isolate."
+}

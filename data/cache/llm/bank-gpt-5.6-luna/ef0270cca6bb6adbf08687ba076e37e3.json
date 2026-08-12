@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may differ materially",
+    "no obligation to update",
+    "expected to decline over time",
+    "customer concentration"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes quantified losses, revenue drivers, expenses, financing terms, and regulatory activity, but contains substantial boilerplate forward-looking language. Risk tone is moderately negative due to recurring net losses, declining royalty income, reduced cash balances, customer concentration, competitive pressure, and reliance on successful product approvals and commercialization."
+}

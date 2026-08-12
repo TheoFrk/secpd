@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "attempts to maximize shareholder value",
+    "there can be no assurance",
+    "timing cannot be predicted",
+    "conditions to closing have not yet been satisfied",
+    "not audited"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified regarding portfolio size, transactions, liquidity, debt capacity, and covenant compliance. Key risks include an operator’s failure to make lease payments, uncertain legal resolution and transition timing, development and acquisition closing conditions, and reliance on lodging demand and macroeconomic conditions."
+}

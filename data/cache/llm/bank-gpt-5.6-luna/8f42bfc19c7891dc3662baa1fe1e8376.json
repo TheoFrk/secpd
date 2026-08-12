@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "other risks that might be detailed",
+    "believe our approach and robust technology",
+    "significant amount of money",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and aspirational technology and growth claims, with limited quantified operating evidence. Material risk is evident from approximately $29.5 million in delinquent payroll tax liabilities, $5.6 million in workers’ compensation claim exposure, ongoing litigation, substantial financing outflows, and reliance on future debt and equity issuance for acquisitions."
+}

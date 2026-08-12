@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.86,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "plans to raise additional capital",
+    "no guarantee",
+    "reasonably known or reasonably knowable",
+    "traditional and/or debt financing"
+  ],
+  "risk_summary": "The disclosure is highly negative from a credit-risk perspective, citing minimal cash, a $7.5 million working-capital deficiency, significant accumulated losses, ongoing operating cash burn, and substantial doubt about continued operations. Although key financial figures are quantified, funding plans are contingent and lack committed sources, creating material refinancing and liquidity risk."
+}

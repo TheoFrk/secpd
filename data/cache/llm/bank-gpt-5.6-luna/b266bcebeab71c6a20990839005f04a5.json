@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt going concern",
+    "may need to raise additional capital",
+    "cannot assure financing",
+    "if successfully cleared",
+    "no exact flow or timetable"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and continuity risk, including an auditor’s going-concern opinion, minimal revenue, substantial losses, declining cash, and reliance on uncommitted external financing. Future growth and international expansion are largely contingent on successful fundraising, regulatory and commercial execution, with no assurance that financing will be available."
+}

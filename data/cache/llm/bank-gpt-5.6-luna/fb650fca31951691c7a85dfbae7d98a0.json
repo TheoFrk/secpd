@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to numerous risks and uncertainties",
+    "ultimate impact ... is unknown",
+    "under certain circumstances",
+    "factors beyond our control",
+    "non-GAAP Adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operational, earnings, liquidity, and debt information, but includes standard forward-looking disclaimers and some uncertainty around COVID-19 and liquidity requirements. Risk tone is moderately negative due to declining sales and earnings, operational disruptions, significant indebtedness, and limited revolving capacity, although management emphasizes business continuity and available funding sources."
+}

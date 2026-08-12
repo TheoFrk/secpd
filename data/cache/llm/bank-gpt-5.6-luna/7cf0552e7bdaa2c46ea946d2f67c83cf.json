@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "may materially adversely impact earnings",
+    "inherent margin of imprecision",
+    "limited or no observable market data",
+    "actual outcomes differ from estimates"
+  ],
+  "risk_summary": "The excerpt provides some useful quantitative disclosure, including allowance adjustments and Level 3 assets, but relies heavily on standard cautionary language and subjective assumptions. Key risks involve loan-loss provisioning, fair-value measurements, deferred tax asset recoverability, and the possibility that actual outcomes materially differ from estimates."
+}

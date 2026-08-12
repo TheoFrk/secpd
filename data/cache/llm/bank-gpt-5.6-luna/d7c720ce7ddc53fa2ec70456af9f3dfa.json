@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.47,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "additional capital may be required",
+    "expected to be adequate for six months",
+    "financing may not be available",
+    "substantial doubt about going concern",
+    "further issuances of securities"
+  ],
+  "risk_summary": "The company is an early-stage, loss-making business with negative operating cash flow and substantial dependence on additional equity, debt, and shareholder financing. The going-concern qualification and lack of committed financing indicate elevated liquidity and dilution risk, while the six-month funding assertion is not supported by a detailed quantified cash runway or financing plan."
+}

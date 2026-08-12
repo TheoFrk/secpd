@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "unable to predict accurately",
+    "could negatively impact",
+    "actual results may differ materially",
+    "all aggregation criteria met"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and cost quantification, including COVID-19 expenses, facility investments, and margin impacts. However, extensive boilerplate disclaimers and repeated conditional language emphasize uncertainty around supply chains, pandemic developments, estimates, and future results. Overall tone is cautiously neutral, with positive growth framing offset by material operational and macroeconomic risks."
+}

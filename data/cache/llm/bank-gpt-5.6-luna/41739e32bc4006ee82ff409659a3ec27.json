@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "results may therefore differ materially",
+    "can fluctuate significantly",
+    "not practicable to apply",
+    "not able to assess the impact",
+    "subject to certain events"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, particularly regarding self-insurance reserves, vendor allowances, debt maturities, and covenant compliance. Key risks include actuarial uncertainty, asset impairment sensitivity, dependence on vendor allowances, self-insured exposures, and cross-default provisions. Overall tone is neutral to mildly confident, although the excerpt is truncated and contains standard forward-looking uncertainty language."
+}

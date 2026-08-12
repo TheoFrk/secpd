@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks beyond the Company’s control",
+    "other risks detailed in filings",
+    "expected to grow",
+    "subject to terms and conditions"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified cash flow, capital expenditure, debt repayment, and market data, supporting relatively transparent disclosure. Risk is moderated by commodity-price volatility, financing needs, foreign exposure, acquisition-related obligations, and declining metal prices, while management maintains a generally optimistic operating outlook. The extensive boilerplate disclaimer and truncated credit-agreement discussion limit assessment of covenant and liquidity risks."
+}

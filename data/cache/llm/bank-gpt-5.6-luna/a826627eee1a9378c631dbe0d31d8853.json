@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may differ materially",
+    "various factors",
+    "other relevant factors",
+    "Adjusted EBITDA exclusions",
+    "could negatively affect liquidity"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, including revenue drivers, cost ratios, debt balances, liquidity resources, and financing exposures. Risk is moderated by substantial leverage, dependence on vehicle values and asset-backed financing, interest-rate sensitivity, and potential credit-market disruption. The presentation remains somewhat boilerplate and uses non-GAAP adjustments and broad contingencies that can reduce comparability and obscure underlying performance."
+}

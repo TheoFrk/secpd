@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to risks and uncertainties",
+    "we believe",
+    "expected to increase",
+    "strategic project"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by revenue mix, margin, and expense figures, but relies heavily on expectations regarding regulatory approvals, product launches, partnerships, and market expansion. The broad forward-looking disclaimer and repeated use of belief-based projections limit certainty around execution, regulatory, and commercialization outcomes."
+}

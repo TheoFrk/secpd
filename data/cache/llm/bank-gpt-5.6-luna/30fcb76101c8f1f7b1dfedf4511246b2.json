@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "generally",
+    "may be negatively impacted",
+    "non-GAAP proxy",
+    "timing differences generally immaterial"
+  ],
+  "risk_summary": "The excerpt presents detailed operating metrics and quantified regional results, but relies on management attribution and caveats around Volume Points, non-GAAP measures, and timing differences. Material risks include the FTC Consent Order, regional economic and political uncertainty, China’s regulatory review, and significant declines in China contribution margin. Apparent OCR or extraction errors in several percentage figures reduce disclosure readability and reliability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "may differ materially",
+    "including but not limited to",
+    "current outlook for end market economic conditions",
+    "held for sale and discontinued operations"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantified, but uses standard forward-looking disclaimers and broad causal language. Risk is elevated by a 41% decline in operating income, substantial restructuring charges, asbestos liabilities, divestitures, and increased debt, although refinancing reduced the weighted average interest rate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "preliminarily determined",
+    "may have resulted",
+    "extensive legal and regulatory requirements",
+    "supports our long-term strategy",
+    "wide variety of applications"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial information, including sales growth, headcount, margins, expenses, acquisitions, and manufacturing capacity. However, the disclosed GSA Matter introduces material regulatory, compliance, reimbursement, and potential liability risk, with exposure described using qualifying language and without a quantified probable loss in the provided text. Overall tone is growth-oriented but moderately tempered by the government-contract pricing issue."
+}

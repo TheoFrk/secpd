@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures not standardized",
+    "more likely than not",
+    "ultimate outcomes will not have a material adverse effect",
+    "currently available information",
+    "certain items excluded"
+  ],
+  "risk_summary": "The excerpt is generally transparent and heavily quantified, with detailed sales, acquisition, restructuring, legal settlement, and tax information. Risk is moderated by disclosed regulatory, litigation, restructuring, tax-audit, and integration uncertainties, while management maintains a cautiously positive outlook. Non-GAAP emphasis and recurring qualified assurances introduce some interpretive and comparability risk."
+}

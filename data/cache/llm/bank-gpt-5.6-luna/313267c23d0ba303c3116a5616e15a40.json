@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "not under any obligation to update",
+    "may differ materially",
+    "management-defined non-GAAP measures",
+    "legacy matters having no relevance"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and legally hedged, with extensive forward-looking disclaimers and repeated non-GAAP measure explanations. Although definitions and reconciliation references provide some precision, subjective exclusions and estimates may reduce comparability and obscure underlying performance. The tone is cautious and neutral-to-slightly negative rather than indicative of an immediate crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "could reduce volume by up to",
+    "may differ from these estimates",
+    "challenging macro-economic conditions",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but it highlights significant operating pressure from declining volumes, raw material costs, currency headwinds, and weak regional demand. The coronavirus impact is excluded from the outlook because it cannot yet be estimated, creating additional uncertainty. Liquidity appears adequate based on cash and unused credit availability, although profitability deteriorated sharply into a net loss."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results may differ materially",
+    "ability to generate profits remains uncertain",
+    "significant operating expenses",
+    "related-party capital transaction"
+  ],
+  "risk_summary": "The disclosure is relatively quantified but includes substantial legal safe-harbor language and management estimates that limit forward visibility. Persistent net losses, uncertain future profitability, declining legacy revenue, reliance on Clearvale growth, and related-party arrangements indicate meaningful operating and governance risk."
+}

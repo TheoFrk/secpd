@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.25,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could continue to impact",
+    "expected to continue",
+    "we believe",
+    "most likely scenario",
+    "among other factors"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including backlog, inventory, cost, debt maturity, and market-share data. Risk tone is moderately negative due to elevated interest rates, inflation, weaker demand, dealer inventory pressure, supply-chain constraints, and reduced backlog, although refinancing and forecast disclosures provide some stability. Forward-looking statements rely on external forecasts and management judgments, with some uncertainty around the timing and strength of recovery."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "principally due to",
+    "estimated increase",
+    "factors discussed above",
+    "partially offset by",
+    "continued to manage uncertainty"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively supported, with detailed year-over-year explanations of revenue, costs, cash flow, pension impacts, and margins. Risk tone is cautiously positive, highlighting strong growth and operating performance while acknowledging macroeconomic, foreign exchange, geopolitical, and pension-related pressures. Complexity is elevated due to dense financial terminology, long sentences, and repeated attribution to other MD&A sections."
+}

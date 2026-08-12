@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "substantial doubt regarding going concern",
+    "no arrangements in place for financing",
+    "we cannot guarantee success",
+    "other factors referenced in the Form 10-K"
+  ],
+  "risk_summary": "The disclosure identifies severe liquidity and solvency risks, including recurring losses, a $6.3 million working-capital deficiency, insufficient cash for twelve months, substantial doubt about going concern, and reliance on uncommitted future financing. Litigation and restrictions on property transfers further impair asset certainty, while portions of the narrative rely on boilerplate forward-looking disclaimers and aspirational business plans."
+}

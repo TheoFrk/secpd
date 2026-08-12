@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "intended to",
+    "cannot accurately predict",
+    "numerous evolving factors",
+    "significant challenges"
+  ],
+  "risk_summary": "The excerpt presents a broad turnaround strategy and some quantified operating impacts, but relies heavily on aspirational language and extensive pandemic-related uncertainty. Material risks include supply-chain disruption, inflation, labor and capacity constraints, demand volatility, competitive pressure, operating losses, and impairment charges. Disclosure quality is weakened by boilerplate framing, a truncated passage, and an incomplete operating-segment description."
+}

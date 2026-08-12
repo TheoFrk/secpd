@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict whether or for how long",
+    "may adversely affect financial results",
+    "actual results may differ materially",
+    "assume no obligation to update",
+    "including but not limited to"
+  ],
+  "risk_summary": "The disclosure is relatively quantified regarding inflation, interest-rate impacts, COVID-19 costs, ERC proceeds, and margin pressures, but relies heavily on standard forward-looking disclaimers and broad uncertainty language. Risk tone is mildly negative because rising costs, supply-chain disruption, limited pricing pass-through, and higher interest expense are described as ongoing adverse factors, despite management’s optimistic growth framing."
+}

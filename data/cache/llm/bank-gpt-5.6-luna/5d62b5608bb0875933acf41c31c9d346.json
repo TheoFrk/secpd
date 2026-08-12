@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "anticipate that",
+    "contingent on the availability",
+    "various competitive and other factors",
+    "long-term prognosis generally favorable"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on demand, traffic declines, contracts, acquisitions, costs, and debt, but also relies on forward-looking qualifiers and broad industry explanations. Risk tone is mixed: near-term demand weakness, coal exposure, trade uncertainty, raw-material volatility, and higher leverage are acknowledged, while management remains moderately confident about stabilization and longer-term prospects."
+}

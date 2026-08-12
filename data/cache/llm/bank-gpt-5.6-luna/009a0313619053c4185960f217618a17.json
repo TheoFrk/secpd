@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurances can be provided",
+    "subject to market and other conditions",
+    "broad diversification claims",
+    "fair value assumption sensitivity"
+  ],
+  "risk_summary": "The excerpt combines detailed operating metrics with substantial promotional and boilerplate language, including broad diversification claims and repeated forward-looking disclaimers. Credit risk is elevated by a 21.4% Adjusted EBITDA decline, significant goodwill and intangible-asset impairments, advertising-market sensitivity, and uncertainty regarding future funding availability. Liquidity risks are acknowledged but mitigation measures are described without quantified results or firm assurances."
+}

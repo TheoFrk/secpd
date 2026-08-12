@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "substantial doubt about ability to continue",
+    "did not deliver the expected results",
+    "primarily driven by",
+    "for further information see Note"
+  ],
+  "risk_summary": "The disclosure is materially negative, citing a sharp sales decline, operating cash outflow, covenant noncompliance, repeated debt amendments, and substantial doubt about going-concern status. Although many impacts are quantified and attributed to specific markets and drivers, extensive cross-references, technical accounting language, and broad causal lists increase interpretive complexity."
+}

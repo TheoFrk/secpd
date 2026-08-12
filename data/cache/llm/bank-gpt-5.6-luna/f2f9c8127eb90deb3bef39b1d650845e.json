@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "cross-reference to other pages"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead redirects readers to another section of the filing. This limits standalone transparency but does not itself indicate a positive or negative risk outlook."
+}

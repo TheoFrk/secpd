@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected benefits",
+    "should strongly position",
+    "may be required",
+    "certain assumptions"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified regarding acquisitions, financing, scale, and operating metrics, but relies on management projections and optimistic assertions about synergies, growth, and liquidity. Significant risk exposure arises from substantial leverage, integration execution, advertising-market dependence, and potential impairment of large intangible asset balances."
+}

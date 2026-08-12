@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "material weakness in internal controls",
+    "restatement of financial statements",
+    "rules not finalized or fully implemented"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers, but also provides specific disclosure of a material weakness, multi-year restatement, and a $5.9 million aggregate reduction in net income. Regulatory uncertainty, derivatives-control deficiencies, and exposure to commodity and liquidity conditions create a moderately negative risk tone despite reported revenue growth."
+}

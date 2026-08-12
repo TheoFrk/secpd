@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not limited to",
+    "disclaim any obligation to update",
+    "limited estimating techniques"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on asset sales, storm-related costs, revenue mix, and litigation proceeds, but also contains extensive standard forward-looking disclaimers and some estimated competitor data. Risk tone is moderately negative, reflecting economic weakness, customer payment risk, service disruptions, subscriber declines, intense competition, and promotional pricing pressure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "unable to predict duration or severity",
+    "significant unpredictability and volatility",
+    "various macroeconomic factors",
+    "could have a significant impact",
+    "additional consideration these risks"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes substantial quantitative information on liquidity, debt, leases, and working capital. However, the outlook relies heavily on broad macroeconomic uncertainties and unquantified potential impacts, including commodity volatility, war, inflation, interest rates, weather, and renewable credit costs. Overall tone is cautiously positive, supported by strong recent earnings but tempered by considerable cyclical and external risks."
+}

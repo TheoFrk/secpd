@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "boilerplate forward-looking disclaimer",
+    "risks difficult to predict",
+    "covenant waiver",
+    "omitted cash-flow explanations",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative liquidity, investment, debt, and covenant information, but is heavily diluted by boilerplate risk language and repeated historical cash-flow discussion. Key credit concerns include declining operating cash flow, increased capital expenditures, reliance on debt draws, and a waived capital expenditure covenant. The incomplete excerpt and omitted detailed explanations of cash-flow drivers limit assessment confidence on underlying performance."
+}

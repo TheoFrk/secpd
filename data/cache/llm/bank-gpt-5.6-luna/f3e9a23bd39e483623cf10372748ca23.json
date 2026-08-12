@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to certain circumstances",
+    "most-favored pricing basis",
+    "to-be-negotiated commercially reasonable",
+    "expected for Q4 2015 was delayed",
+    "significant impact on estimated fair value"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantified but difficult to parse because of dense legal, financing, and licensing language. Risk signals include declining revenue, delayed product shipments, dependence on Total, restricted fuel commercialization rights, convertible debt features, and material valuation sensitivity in embedded derivatives."
+}

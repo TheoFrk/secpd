@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "various fluctuations in demand",
+    "significant decline in sales",
+    "more likely than not",
+    "outcome is uncertain",
+    "among other factors"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, with clear year-over-year revenue, margin, cash flow, debt, tax, and restatement figures. Risk remains moderate due to an anticipated significant sales decline from two customers, customer/program volatility, prior restatements, fully valued deferred tax assets, and reliance on working-capital improvements. Overall tone is cautiously positive because profitability, debt, and cash generation improved despite ongoing concentration and demand risks."
+}

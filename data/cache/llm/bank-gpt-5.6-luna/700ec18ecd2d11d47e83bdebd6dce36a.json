@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "As Adjusted non-GAAP measures",
+    "underlying business performance",
+    "may have a material adverse effect",
+    "not comparable to similar measures",
+    "acquisition and divestiture adjustments"
+  ],
+  "risk_summary": "The excerpt provides some quantified revenue changes and detailed definitions, but relies heavily on non-GAAP measures that exclude recurring or potentially material costs, which can obscure GAAP performance. Extensive boilerplate, complex terminology, and caveats about comparability and tax-asset realization increase interpretive risk."
+}

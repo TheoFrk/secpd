@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could be negatively impacted",
+    "highly uncertain and cannot be predicted",
+    "among other factors",
+    "subject to revision or withdrawal",
+    "ability to successfully mitigate"
+  ],
+  "risk_summary": "The excerpt is broadly balanced but highlights material exposure to macroeconomic weakness, foreign exchange volatility, supply-chain disruption, cybersecurity events, and refinancing needs. Disclosure is relatively specific on debt facilities, transaction values, maturities, and expected proceeds, though some forward-looking risk language remains conditional and non-quantified. The planned asset sale and debt repayment strategy may support deleveraging, but execution, rating preservation, and market-access risks remain."
+}

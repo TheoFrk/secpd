@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.87,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "do not unduly rely",
+    "many factors could affect",
+    "outside of the Corporation’s control",
+    "extensive risk-factor enumeration"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and legalistic, emphasizing broad uncertainties and management’s limited obligation to update forward-looking statements. It identifies substantial credit, interest-rate, liquidity, regulatory, operational, cyber, capital, and pandemic risks, but provides limited prioritization or quantified potential impact within the risk discussion. Operating results later include specific metrics, partially mitigating the otherwise evasive tone."
+}

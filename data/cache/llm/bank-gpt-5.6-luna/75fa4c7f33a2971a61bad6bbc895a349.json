@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "we believe",
+    "significant growth opportunities",
+    "not GAAP measures",
+    "not necessarily comparable"
+  ],
+  "risk_summary": "The excerpt is broadly confident and promotional, emphasizing market leadership, conversion gains, growth opportunities, and cost pass-through capabilities. It includes meaningful quantified disclosures, but relies heavily on forward-looking beliefs and standard cautionary language, with substantial discussion of non-GAAP metric limitations. Key risks include cyclicality, raw-material price volatility, competitive pricing, supply disruptions, and potentially misleading comparability of Adjusted EBITDA."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference to other pages",
+    "no quantitative disclosure",
+    "boilerplate MD&A heading",
+    "information incorporated by reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, or risk information and merely directs the reader to other pages. This limits standalone assessment and may obscure the relevant disclosures without indicating an inherently negative or positive risk condition."
+}

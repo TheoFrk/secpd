@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "significant management judgment",
+    "could materially affect",
+    "subject to estimates and assumptions",
+    "recent history of losses"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified cash-flow changes, debt repayments, tax adjustments, and valuation allowances. However, liquidity pressure, recent losses, substantial working-capital needs, and reliance on judgment-heavy impairment and inventory estimates indicate elevated financial and reporting risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may cause actual results to differ",
+    "we believe",
+    "historical results are not necessarily indicative",
+    "subjective assumptions and estimates"
+  ],
+  "risk_summary": "The excerpt combines useful quantitative disclosures on revenue, royalties, licensees, and operating results with substantial boilerplate and forward-looking disclaimers. Risk tone is mildly positive due to repeated strategic claims, but uncertainty is material around licensee performance, royalty-rate variability, seasonality, acquisitions, and subjective accounting estimates."
+}

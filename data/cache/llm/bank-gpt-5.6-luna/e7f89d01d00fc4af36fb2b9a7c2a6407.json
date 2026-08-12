@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "the Company believes",
+    "rapidly changing communications technology",
+    "strategic pricing initiatives",
+    "not as dependent on the economy"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, gross profit, backlog, segment performance, and acquisition effects, but includes extensive boilerplate business descriptions and some generalized causal explanations. Risk tone is moderately negative, reflecting revenue declines, government funding delays, weaker commercial demand, margin pressure, and competitive pricing, without indicating an immediate liquidity or solvency crisis."
+}

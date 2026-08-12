@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "primarily attributable to",
+    "not considered meaningful",
+    "subject to closing",
+    "pro forma basis"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily focused on non-GAAP definitions, transaction mechanics, and adjustments, which can make underlying performance harder to assess. It discloses meaningful risks including COVID-19-related revenue declines, impairments, restructuring costs, and transaction-contingent ownership and preference-share terms, although several amounts and mechanisms are quantified."
+}

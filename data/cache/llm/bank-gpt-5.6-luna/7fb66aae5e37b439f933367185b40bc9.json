@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding impact of foreign currency",
+    "local currency basis",
+    "significant inflation related price increases",
+    "subject to risks and uncertainties",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, with detailed attribution of sales, margin, currency, pricing, and regional drivers. Risk is concentrated in foreign exchange volatility, inflation, Venezuela-related restrictions, sales-force disruption, weaker established markets, and higher debt expense. The overall tone is balanced but mildly negative because reported sales and margins declined despite favorable constant-currency and emerging-market results."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "should not be taken as indicative of future operations",
+    "we expect",
+    "certain investments funds affiliated",
+    "for a further discussion",
+    "adequate capital for the next 12 months"
+  ],
+  "risk_summary": "The excerpt is generally constructive, emphasizing diversified assets, stable cash flows, occupancy gains, rent growth, and investment-grade ratings. It contains substantial legal-entity and transaction-structure detail, along with standard forward-looking disclaimers and broad risk-factor references, but also provides meaningful historical quantification. Key risks include tenant credit quality, occupancy and leasing performance, market conditions, operating-cost inflation, redevelopment execution, and leverage or liquidity needs."
+}

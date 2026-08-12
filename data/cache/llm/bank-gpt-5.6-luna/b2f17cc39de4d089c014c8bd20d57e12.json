@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors",
+    "may have a material adverse effect",
+    "non-core operations and adjustments",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides clear segment-level performance explanations, indicating generally improved results and liquidity. However, recurring boilerplate risk disclaimers, reliance on favorable catastrophe and reserve development, elevated claims costs, inflation, and market volatility indicate meaningful earnings sensitivity. Adjusted EBITDA exclusions and extensive technical definitions reduce comparability and moderately obscure underlying performance."
+}

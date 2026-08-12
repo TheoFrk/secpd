@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot estimate ultimate impact",
+    "believe will continue to help",
+    "factors discussed elsewhere",
+    "supplemental non-GAAP measures",
+    "case-by-case rent relief"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative operating data, including occupancy, rent collections, portfolio size, and acquisition spending, but relies substantially on standard forward-looking disclaimers and management beliefs. COVID-19, tenant rent relief, receivables, and uncollected rent remain material risks, partially mitigated by grocery-anchored properties and improving occupancy. Extensive REIT terminology and non-GAAP measures may complicate comparability and risk interpretation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP proforma basis",
+    "may continue to do so",
+    "typically",
+    "believe that",
+    "excerpt truncated at operating results"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial operational and financial quantification, but relies on non-GAAP pro forma measures and recurring qualifying language. Key risks include a 15% decline in continuing-operations revenue, customer concentration and unfavorable business terms, restructuring and business exits, and a segment operating loss. The positive tone emphasizes remediation and strategic progress, partially offsetting the underlying performance weaknesses."
+}

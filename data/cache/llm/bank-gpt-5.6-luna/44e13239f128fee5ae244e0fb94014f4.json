@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance actual results",
+    "economic uncertainty and fuel prices",
+    "we believe",
+    "materially different results"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and segment data, but its extensive forward-looking disclaimer language and reliance on management beliefs introduce moderate vagueness. Risk tone is cautiously constructive, with growth and margin improvements offset by weather, economic uncertainty, fuel prices, discretionary demand, and store-optimization execution risks."
+}

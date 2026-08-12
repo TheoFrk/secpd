@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "purpose-built solutions",
+    "we believe",
+    "we strive to",
+    "help improve",
+    "evolving technologies"
+  ],
+  "risk_summary": "The excerpt is predominantly promotional and descriptive, emphasizing market leadership, integration, reliability, and growth while providing some useful segment, revenue, margin, and expense quantification. Risk disclosure is limited in the provided portion, with substantial reliance on aspirational language and broad claims about customer benefits and technology performance."
+}

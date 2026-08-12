@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "difficult or impossible to predict",
+    "no obligation to update",
+    "full effects cannot be determined",
+    "subject to actuarial assumptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including segment results, customer concentration, the $29.8 million KC10 contract charge, and fiscal 2014 guidance. Risk tone is mixed: commercial demand and margin improvement are presented positively, but defense sequestration, contract estimates, program cost recovery, and pension assumptions create material uncertainty. Extensive legal disclaimers and technical assumptions modestly reduce transparency but are largely standard filing language."
+}

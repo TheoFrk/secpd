@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we anticipate",
+    "when and if introduced",
+    "future uncertainties"
+  ],
+  "risk_summary": "The excerpt presents an expansion-oriented and generally confident strategy, supported by several quantified cash, revenue, and contractual figures. However, it relies heavily on forward-looking language and aspirational claims, while exposure to regulatory approvals, product launches, partner dependence, milestone payments, and foreign-cash repatriation uncertainty remains material."
+}

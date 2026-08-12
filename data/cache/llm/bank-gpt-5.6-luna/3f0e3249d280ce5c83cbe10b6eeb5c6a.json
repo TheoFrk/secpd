@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures excluding recurring items",
+    "revenue can vary significantly",
+    "constant currency presentation",
+    "timing of revenue recognition",
+    "material impact of contract mix"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent on growth, cash generation, foreign exchange effects, revenue recognition, and debt, but relies heavily on non-GAAP measures and repeated caveats about comparability. Credit risk is moderated by strong operating cash flow and ARR growth, while elevated leverage, a $75 million increase in interest expense, acquisition-related debt, and contract-timing volatility remain notable risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties difficult to predict",
+    "actual results could differ materially",
+    "undertake no obligation to revise",
+    "factors currently deemed immaterial"
+  ],
+  "risk_summary": "The disclosure is numerically detailed but opens with extensive boilerplate disclaimers and broad, unquantified risk language. Credit risk is elevated by minimal cash, substantial liabilities, recurring operating cash burn, significant net losses, and heavy reliance on related-party revenue, despite improved reported earnings driven partly by non-operating gains."
+}

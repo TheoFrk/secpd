@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cautiously optimistic",
+    "do not anticipate any liquidity problems",
+    "strong balance sheet",
+    "foreseeable future",
+    "fundamental commitment"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides detailed revenue, cash flow, debt, and working-capital information, but it contains substantial promotional and boilerplate language. Key risks include the financial-statement restatement, negative working capital, regulatory pressure on customers, and significant share repurchases and dividends, although management presents liquidity and recurring revenue as mitigating factors."
+}

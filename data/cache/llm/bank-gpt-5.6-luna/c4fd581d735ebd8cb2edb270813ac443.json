@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.42,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "disclosure by cross-reference",
+    "no substantive discussion",
+    "multiple note references"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A analysis, metrics, liquidity discussion, or risk explanation, instead directing readers to other sections. This limits transparency and requires additional document review to assess financial condition and operating risks."
+}

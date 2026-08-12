@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial amount of uncertainty",
+    "flexible and responsive to a wide range of potential outcomes",
+    "where possible and practical",
+    "not readily available",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, earnings, rig counts, commodity prices, and year-over-year changes. It acknowledges cyclicality, commodity-price sensitivity, macroeconomic concerns, and data limitations, but maintains a largely favorable tone based on strong 2011 operating performance. Forward-looking discussion relies on broad forecasts and hedging language rather than firm commitments."
+}

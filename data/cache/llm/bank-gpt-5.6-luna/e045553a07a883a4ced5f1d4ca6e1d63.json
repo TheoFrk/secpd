@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "refer you to",
+    "Cautionary Statement",
+    "Forward-Looking Statements",
+    "pages 40 through 41"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion and instead directs readers to another document. This cross-reference limits transparency within the filing and relies on boilerplate forward-looking statement language."
+}

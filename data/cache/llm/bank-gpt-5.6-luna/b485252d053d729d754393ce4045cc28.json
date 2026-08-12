@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "estimated rebates and assumptions",
+    "contingent milestone payments",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively informative, particularly regarding acquisitions, development spending, and contingent consideration. It contains substantial forward-looking and estimation language, with material exposure to regulatory approval, clinical development, reimbursement, and milestone-payment uncertainty. The overall tone is commercially confident but moderated by standard risk disclaimers and limited visibility into some underlying assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.75,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "going concern assumption",
+    "related party receivable",
+    "gain on disposal masking losses"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, but includes extensive boilerplate forward-looking disclaimers and limited detail on the recoverability of a large related-party receivable. Risk is elevated due to continuing losses, only $72,907 of cash, reliance on customer deposits and accrued liabilities for operating cash flow, and an explicit going-concern qualification. Reported net income is largely driven by a one-time gain on disposal rather than continuing operations."
+}

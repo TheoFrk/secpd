@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "adequate working capital",
+    "may need capital earlier",
+    "ability to raise additional capital",
+    "predicated on raising further capital"
+  ],
+  "risk_summary": "The company reports severe liquidity and solvency pressure, including negative working capital of $1.7 million, $28,638 of cash, a $1.3 million net loss, and $683,826 of operating cash burn. Continued operations are projected for only approximately six months without additional funding, while management relies on further equity or debt financing that may not be available. Extensive forward-looking disclaimers and deferred-revenue emphasis partially temper otherwise quantified disclosure."
+}

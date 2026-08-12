@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted financial measures",
+    "non-comparable items",
+    "largely due to",
+    "partially offset",
+    "better baseline for analyzing trends"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed explanations of restructuring, impairment, disposal, tax, pricing, volume, and fuel-surcharge effects. Risk tone is cautiously positive due to economic recovery and improved operating performance, although exposure to recessionary demand, fuel prices, freight capacity, and nonrecurring adjustments remains evident. Use of adjusted non-GAAP measures and repeated causal qualifiers could modestly obscure underlying recurring performance."
+}

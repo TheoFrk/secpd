@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-binding letters of intent",
+    "we expect to work with",
+    "contemplates that the parties will establish",
+    "may seek to enter into",
+    "subject to completion of process development"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on revenue, funding, contractual commitments, production costs, and losses, but relies on optimistic commercialization projections and several contingent or non-binding arrangements. Risk is elevated by significant scale-up costs, inventory losses, dependence on partners, and production costs exceeding revenue, despite a generally promotional strategic narrative."
+}

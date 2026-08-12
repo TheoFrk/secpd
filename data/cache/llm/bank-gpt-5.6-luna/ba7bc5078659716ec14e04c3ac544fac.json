@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "including, but are not limited to",
+    "other factors",
+    "unexpected changes",
+    "future actual experience can differ"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and contains extensive standard forward-looking risk disclaimers covering consumer demand, customers, supply chains, acquisitions, impairments, pensions, and litigation. Pension disclosures are comparatively precise and include assumptions, asset allocation, discount rates, and sensitivity analysis, but the broader risk discussion is broad and non-quantified."
+}

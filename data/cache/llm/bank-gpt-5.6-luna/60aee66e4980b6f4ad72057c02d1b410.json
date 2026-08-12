@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"attempts to maximize shareholder value\"",
+    "\"low single digit\" growth",
+    "\"there is no way to predict future economic conditions\"",
+    "unaudited acquired-property results",
+    "non-GAAP measure comparability caveat"
+  ],
+  "risk_summary": "The excerpt is generally transparent and materially quantified, detailing property counts, acquisitions, dispositions, pricing, debt funding, and operating trends. Risk tone is cautiously stable, but modest growth, increased hotel supply, labor uncertainty, economic volatility, and reliance on revolving debt present meaningful forward-looking risks. Extensive definitions, cross-references, unaudited historical property data, and non-GAAP caveats limit comparability and precision in some performance measures."
+}

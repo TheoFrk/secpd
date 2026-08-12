@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "no assurance",
+    "undertakes no obligation to update",
+    "highly technical and complex provisions"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking statement disclaimers and broad, non-quantified risk categories, which reduce transparency regarding potential downside outcomes. However, the merger, debt, property, ownership, and transaction-cost disclosures are relatively detailed and quantified. Overall tone is neutral to mildly cautious, reflecting legal risk framing rather than an explicit crisis signal."
+}

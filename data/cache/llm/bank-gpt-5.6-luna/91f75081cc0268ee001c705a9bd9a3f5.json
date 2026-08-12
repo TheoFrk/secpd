@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted with confidence",
+    "extent to which COVID-19 pandemic impacts",
+    "expect this trend to continue",
+    "successful execution of operational and financial plans",
+    "additional detail referred to in notes"
+  ],
+  "risk_summary": "The excerpt presents strong operating metrics, occupancy, revenue growth, and acquisition activity, producing an overall confident and positive tone. Risk disclosure is concentrated in COVID-19 uncertainty and reliance on continued demand, rent increases, acquisitions, and development, with limited quantified downside sensitivity. The text is data-rich but lengthy and includes substantial standard MD&A and pandemic-related boilerplate."
+}

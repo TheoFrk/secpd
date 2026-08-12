@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.2,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference instead of disclosure",
+    "no substantive analysis",
+    "boilerplate section heading",
+    "missing quantitative detail"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A content and only redirects the reader to other pages. This prevents assessment of liquidity, operating performance, material risks, or management’s explanations from the text provided."
+}

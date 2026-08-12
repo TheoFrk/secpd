@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "assuming no significant impacts",
+    "would likely increase",
+    "factors that may affect",
+    "unable to specifically quantify",
+    "challenging economic conditions"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively detailed, including pandemic impacts, portfolio exposure, provisions, outlook ranges, and capital spending. Principal risks involve COVID-19 resurgence, weaker freight conditions, supplier constraints, credit losses, repossessions, and demand sensitivity, although management presents a cautiously constructive outlook."
+}

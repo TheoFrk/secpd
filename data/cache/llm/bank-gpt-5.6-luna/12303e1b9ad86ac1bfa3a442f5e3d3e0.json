@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "not necessarily indicative of future results",
+    "subject to customary closing conditions",
+    "unable to make good faith estimates",
+    "items impacting comparability",
+    "expected to incur costs over a multi-year period"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on debt repayment, divestitures, losses, restructuring charges, and tax effects, but relies on forward-looking qualifiers and does not fully quantify the remaining SCAE Plan exposure. Risk tone is mixed: operational margins and deleveraging are positive, while the net loss, major portfolio changes, executive transition, and ongoing restructuring indicate material execution and comparability risks."
+}

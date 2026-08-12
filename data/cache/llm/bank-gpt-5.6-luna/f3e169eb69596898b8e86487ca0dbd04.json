@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "reference is made to",
+    "cross-reference to other sections",
+    "broad section listing",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead redirects readers to multiple sections elsewhere in the filing. This limits standalone transparency and prevents assessment of specific trends, exposures, or management actions from the text alone."
+}

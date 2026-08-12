@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "full impact remains inherently uncertain",
+    "some of which we consider to be significant",
+    "we do not disclose quantitative information",
+    "may have a material impact",
+    "we do not believe"
+  ],
+  "risk_summary": "The disclosure is broadly detailed and includes meaningful quantitative information, but it highlights material uncertainty from COVID-19, supply-chain constraints, foreign exchange, tax audits, and prior-period error corrections. Risk language is partly boilerplate and relies on qualified assessments regarding backlogs, uncertain tax positions, and future impacts. Overall tone is cautious but not crisis-like, with management expecting backlog normalization and maintaining confidence in the business rationale for the acquisition."
+}

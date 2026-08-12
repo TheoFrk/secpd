@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "expected to be completed",
+    "subject to further regulatory reviews",
+    "growth, discount and tax rates and other assumptions",
+    "may change over time"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial transaction detail, but includes complex accounting, valuation assumptions, and conditional future events. Venezuela presents a material ongoing risk, including deconsolidation, full impairment, currency inconvertibility, and continued regulatory and operating uncertainty. Overall tone is cautiously constructive due to strong transaction gains and stated performance goals, offset by geopolitical and execution risks."
+}

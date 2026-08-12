@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could be temporarily interrupted",
+    "we do not believe",
+    "expect significant EBITDA growth",
+    "as soon as possible",
+    "excluding one-time items"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed operating metrics, targets, and year-over-year comparisons. Risk tone is cautiously optimistic, but relies on forward-looking expectations and adjusted results that exclude significant charges, while acknowledging interest-rate, consumer-confidence, margin, land-cost, and warranty risks."
+}

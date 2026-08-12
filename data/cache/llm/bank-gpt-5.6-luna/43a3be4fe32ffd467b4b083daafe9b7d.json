@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "believe likely to have a material effect",
+    "expected to continue requiring investments",
+    "estimated future demand",
+    "recovery is deemed not likely"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but it contains substantial standard MD&A and accounting-policy boilerplate. Key risks include declining sales and same-store sales, execution risk from expansion and increased operating costs, uncertain inventory demand, and potential impairment or tax valuation adjustments. Management remains cautiously growth-oriented, citing improved margins and planned investments despite weak revenue performance."
+}

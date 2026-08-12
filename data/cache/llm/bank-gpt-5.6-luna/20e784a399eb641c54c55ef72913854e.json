@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "subject to customary closing conditions",
+    "primarily driven by",
+    "certain adjustments"
+  ],
+  "risk_summary": "The excerpt presents improving operating performance, stronger cash balances, debt refinancing, and substantial quantified financial metrics, producing a generally confident tone. However, it relies on forward-looking expectations, broad strategic language, and transaction contingencies, while debt levels, covenant amendments, non-GAAP measures, and financing-related risks warrant attention."
+}

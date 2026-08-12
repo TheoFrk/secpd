@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "estimates may not be accurate",
+    "anticipated price reductions",
+    "cash flow versus reported earnings disparity",
+    "transition away from prime government contracts"
+  ],
+  "risk_summary": "The disclosure is largely quantified and transparent, but highlights material estimation risk from percentage-of-completion accounting, potential contract price reductions, and differences between reported earnings and cash receipts. Revenue and gross margins declined in 2013, interest expense increased, and the company may need to borrow to fund taxes, although management states liquidity and covenant compliance are adequate for at least the next 12 months."
+}

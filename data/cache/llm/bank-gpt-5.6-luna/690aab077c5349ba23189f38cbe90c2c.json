@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and significant uncertainties",
+    "may differ materially",
+    "based on our current interpretation",
+    "variety of factors including, but not limited to",
+    "management judgment"
+  ],
+  "risk_summary": "The excerpt is heavily structured and largely quantified, reporting strong earnings, capital, liquidity, acquisition growth, and credit metrics. Risk disclosures are primarily standardized forward-looking disclaimers, while key uncertainties include acquisition integration, elevated regulatory expectations, low interest rates, increased risk-weighted assets, and allowance adequacy. Overall tone is cautiously confident, but reliance on management assumptions and judgment introduces moderate disclosure uncertainty."
+}

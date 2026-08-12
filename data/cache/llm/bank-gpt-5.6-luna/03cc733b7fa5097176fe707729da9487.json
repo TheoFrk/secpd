@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly sensitive to patterns of supply and demand",
+    "rates may differ from actual TCE rates achieved",
+    "expected to continue",
+    "significant adverse impact"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but highlights substantial exposure to volatile tanker supply-demand conditions and depressed freight rates. Recovery assumptions depend on economic growth, oil demand, refinery utilization, and forecast market conditions, while TCE comparisons involve several management assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.43,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "various factors, including but not limited to",
+    "Adjusted EBITDA non-GAAP measure",
+    "most impactful to our results",
+    "subject to adjustment in the future"
+  ],
+  "risk_summary": "The excerpt presents strong 2022 operating performance with substantial revenue, earnings, utilization, and fleet-cost improvements, producing a generally confident tone. Key risks include interest rates, inflation, used-vehicle values, travel demand, currency movements, insurance claims, and reliance on favorable market conditions. Disclosure is relatively well quantified but includes standard legal caveats, extensive non-GAAP adjustments, and complex accounting language that may limit comparability."
+}

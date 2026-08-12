@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict full impact",
+    "may impact our ability",
+    "for the foreseeable future",
+    "various cost reduction actions",
+    "generally recovered"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, reporting sales, operating income, foreign-exchange effects, cash requirements, capital expenditures, restructuring costs, and letters of credit. It acknowledges meaningful risks from inflation, recession, supply-chain disruption, labor shortages, channel destocking, and geopolitical events, but maintains a generally confident tone regarding liquidity and execution. Some forward-looking statements rely on broad qualifiers and provide limited scenario analysis or sensitivity ranges."
+}

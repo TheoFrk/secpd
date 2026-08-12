@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "monitor and take appropriate actions as necessary",
+    "could have a significant negative impact",
+    "designed to ensure compliance",
+    "expected to be $100 million to $150 million",
+    "strategic review of select assets"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed operating, cash flow, restructuring, and credit-rating information, but includes standard broad risk language and some forward-looking uncertainty. Risk tone is mildly negative due to declining sales and operating cash flow, asset reviews, restructuring, and Moody’s negative outlook, partially offset by stable ratings from other agencies and stated liquidity sufficiency."
+}

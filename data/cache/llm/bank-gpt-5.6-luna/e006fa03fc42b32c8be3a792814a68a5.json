@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "materially different estimates",
+    "could materially affect",
+    "based on our discretion",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed but relies substantially on management estimates, forecasts, discretionary pricing inputs, and impairment assumptions. Negative risk signals include cash used in operations and financing, debt obligations, walnut-cost volatility, and an identified Kettle trade-name impairment. The excerpt is truncated, limiting assessment of the full financial condition and subsequent liquidity disclosures."
+}

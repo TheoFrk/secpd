@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "delayed SEC filings",
+    "internal accounting review",
+    "additional distributor concessions",
+    "immaterial error corrections",
+    "goodwill and tradename impairments"
+  ],
+  "risk_summary": "The excerpt discloses significant reporting and control concerns, including delayed filings, accounting reviews related to revenue concessions, prior-period corrections, and substantial goodwill and tradename impairments. While many amounts and procedures are quantified, extensive strategic and brand-oriented boilerplate somewhat dilutes the negative risk signals."
+}

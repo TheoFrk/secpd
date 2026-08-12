@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks include but are not limited to",
+    "no obligation to update",
+    "currently unaware or deem immaterial",
+    "minimal impact and well-positioned"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standard forward-looking-statement disclaimers and broad, non-quantified risk lists, limiting transparency into specific downside exposures. Management presents a generally resilient and confident operating narrative, but acknowledges material sensitivities to COVID-19, inflation, logistics, feedstock availability, financing, debt, and severe weather; the quantified Texas freeze impact is approximately $3.5 million of Adjusted EBITDA."
+}

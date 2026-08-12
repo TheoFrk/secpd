@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "we believe",
+    "expected to increase",
+    "could have an adverse effect",
+    "if the roll out project is not delayed or canceled"
+  ],
+  "risk_summary": "The excerpt presents a predominantly positive growth and operating outlook, supported by quantified revenue, admission, discharge, acquisition, and debt figures. Material risks include Medicare reimbursement reductions, pre-claim review delays, potential claim denials, higher administrative costs, and liquidity impacts, although these risks are framed conditionally. Disclosure is generally specific but includes substantial boilerplate, extensive cross-references, and complex regulatory language."
+}

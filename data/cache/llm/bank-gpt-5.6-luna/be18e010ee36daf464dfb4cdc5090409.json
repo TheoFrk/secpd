@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "among others",
+    "will not necessarily update",
+    "undue reliance"
+  ],
+  "risk_summary": "The excerpt combines detailed operating metrics and business-model disclosures with extensive standard forward-looking-statement disclaimers. Key risks include government budget and policy changes, contract renewal and implementation risk, fee-setting constraints, adoption uncertainty, competition, and cybersecurity threats. The overall tone is cautiously optimistic, supported by quantified revenue-growth data but tempered by broad non-specific risk language."
+}

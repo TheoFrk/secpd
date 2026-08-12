@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.15,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive discussion",
+    "boilerplate disclosure"
+  ],
+  "risk_summary": "The excerpt is purely a navigational cross-reference and provides no substantive financial, liquidity, or risk information. Its boilerplate format limits standalone assessment of the company’s risk profile."
+}

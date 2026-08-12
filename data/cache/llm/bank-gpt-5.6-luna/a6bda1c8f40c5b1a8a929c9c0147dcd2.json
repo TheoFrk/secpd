@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may not be able to",
+    "material adverse effect",
+    "not necessarily indicative",
+    "non-GAAP measure limitations",
+    "access to sufficient capital"
+  ],
+  "risk_summary": "The excerpt is relatively precise, with substantial quantified revenue, earnings, ownership, and allowance data, but includes standard forward-looking caveats around acquisition financing and integration. Results show declining revenue and net income despite slightly higher Adjusted EBITDA, indicating modest operating and execution risk. The lengthy transaction history and non-GAAP discussion add complexity and some boilerplate content."
+}

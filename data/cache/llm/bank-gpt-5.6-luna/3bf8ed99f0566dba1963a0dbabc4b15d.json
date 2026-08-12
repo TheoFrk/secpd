@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-comparable items",
+    "primarily due to",
+    "other tax adjustments",
+    "foreseeable future",
+    "certain leases"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with clear year-over-year operating, tax, debt, lease, and pension disclosures. Key credit risks include a materially unfunded pension position, elevated tax adjustments, automotive cyclicality, foreign-exchange exposure, and reliance on future operating cash flow or financing to fund obligations. The overall tone is moderately positive but includes limited forward-looking uncertainty and omitted table content."
+}

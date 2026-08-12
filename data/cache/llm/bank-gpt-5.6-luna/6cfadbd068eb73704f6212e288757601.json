@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "risks and uncertainties",
+    "no obligation to update",
+    "conditions remain unsettled",
+    "appropriate steps to manage exposures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative performance and asset-quality data, but relies on extensive forward-looking disclaimers and broad, non-quantified risk factors. Asset quality remained a material concern, with non-performing assets and charge-offs increasing despite fourth-quarter improvement, although capital, liquidity, earnings, and funding trends were presented positively."
+}

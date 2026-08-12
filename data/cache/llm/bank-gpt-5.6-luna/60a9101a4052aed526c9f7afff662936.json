@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "one-time inventory reserve",
+    "adjusted non-GAAP measures",
+    "various increases and decreases",
+    "based on current expectations",
+    "material impact if assumptions change"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including revenue drivers, cash flows, debt activity, and the customer bankruptcy charge. Key risks include customer concentration or program volatility, inventory exposure, reliance on borrowings, and estimation sensitivity in revenue recognition, although management presents liquidity as adequate for the next twelve months."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance financing available",
+    "may not have sufficient cash",
+    "anticipate operating losses",
+    "evolving and unpredictable business model",
+    "lack of operating history"
+  ],
+  "risk_summary": "The company has severe liquidity and going-concern risk, with only $3,618 in cash, recurring operating losses, negative operating cash flow, and reliance on equity and debt financing. Management explicitly states that additional financing may be unavailable and that continued losses are expected while product sales remain insufficient."
+}

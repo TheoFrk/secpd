@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial uncertainty",
+    "may ultimately not be effective",
+    "cannot be certain",
+    "customary closing conditions",
+    "effects may not be fully reflected"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including acquisition terms, debt maturities, revenue concentration, and customer exposure. Risk tone is cautious but not crisis-like, highlighting material dependence on major titles, concentrated customers, platform transitions, COVID-19 uncertainty, and acquisition financing. Long, heavily nested transaction and risk language increases readability and interpretive complexity."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.34,
+  "risk_sentiment": 0.0,
+  "confidence": 0.99,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cross-reference to other pages",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt is purely a procedural cross-reference and provides no direct discussion of financial condition, results, liquidity, or risks. It therefore offers minimal standalone transparency and requires review of the referenced pages."
+}

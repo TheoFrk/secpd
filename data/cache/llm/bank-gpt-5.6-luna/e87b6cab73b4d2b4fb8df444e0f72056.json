@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unaudited pro forma results",
+    "non-GAAP financial measures",
+    "primarily driven by",
+    "partially offset by",
+    "removing the impact of certain items"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but relies substantially on pro forma and non-GAAP measures that may obscure underlying performance. Reported results reflect net losses, declining organic sales, foreign-exchange and volume/mix pressures, substantial merger-related costs, and increased long-term debt, although management emphasizes integration savings and adjusted earnings growth."
+}

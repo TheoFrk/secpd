@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "expect to continue",
+    "strong positions",
+    "diversely funded",
+    "appropriate management"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent about segment performance, earnings trends, backlog, and GE Capital exposure, with an overall optimistic operating tone. Risk discussion is largely governance-oriented and uses broad control language, while adverse developments include declines in Power & Water revenue, lower productivity, higher impairments and provisions, and losses from discontinued operations."
+}

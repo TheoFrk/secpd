@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "various factors beyond our control",
+    "significant degree of judgment",
+    "qualitative factors",
+    "may differ materially and adversely"
+  ],
+  "risk_summary": "The excerpt combines detailed, quantified banking and deposit data with extensive forward-looking safe-harbor language and disclosures of material estimation uncertainty. Key risks include potentially significant changes to loan-loss reserves, loan collectibility, securities valuations, liquidity assumptions, and impairment judgments."
+}

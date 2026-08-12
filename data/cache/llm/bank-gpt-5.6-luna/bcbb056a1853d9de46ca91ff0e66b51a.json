@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may adversely affect",
+    "unable to estimate the longer-term economic impact",
+    "indeterminate period",
+    "continuously being re-evaluated",
+    "excluding these items"
+  ],
+  "risk_summary": "The excerpt describes significant operating deterioration, including a 19% revenue decline, a 23% decrease in active representatives, a 27% reduction in units sold, and disruption from the Russia-Ukraine war and inflation. It identifies material liquidity, margin, demand, supply-chain, interest-rate, and pension risks, while relying on some standard forward-looking and non-quantified language regarding the magnitude and duration of impacts."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to numerous risks",
+    "no assurance that all benefits can be achieved",
+    "based on management's ongoing assessment",
+    "market conditions",
+    "non-GAAP measure not superior to GAAP"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational and financial quantification, including fleet economics, cost behavior, depreciation, interest expense, and segment results. Risk exposure is evident in residual values, liquidity needs, interest rates, technology transformation execution, and demand sensitivity, although the overall tone remains measured rather than crisis-like. Repeated legal disclaimers and generalized caveats modestly reduce disclosure clarity."
+}

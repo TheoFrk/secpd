@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "other related information",
+    "current and developing global economic environments",
+    "broad-based growth",
+    "partially offset by",
+    "TABLE_END/TABLE_START artifacts"
+  ],
+  "risk_summary": "The excerpt is relatively specific and quantitatively detailed, including segment performance, currency impacts, restructuring charges, liquidity commentary, and contractual obligations. Risk factors include declining European sales, substantial currency losses, highly inflationary accounting in Venezuela, and significant debt and lease commitments, though the overall tone is measured rather than crisis-like."
+}

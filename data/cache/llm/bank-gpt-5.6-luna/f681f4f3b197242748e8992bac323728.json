@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to risks and uncertainties",
+    "considerable use of estimates",
+    "cannot be assured estimates will be accurate",
+    "covenant non-compliance waived"
+  ],
+  "risk_summary": "The disclosure is generally quantified and informative regarding revenue, costs, acquisitions, financing, and contract accounting, but contains substantial standard forward-looking disclaimers. Credit risk is elevated by reported leverage and net-profit covenant violations, reliance on bank waivers, contract-estimate uncertainty, and potential liquidity needs despite management’s stated 12-month sufficiency expectation."
+}

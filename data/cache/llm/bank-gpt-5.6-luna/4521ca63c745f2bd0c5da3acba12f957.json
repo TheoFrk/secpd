@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "should be read in conjunction with",
+    "primarily reflects",
+    "expected annual gross profit",
+    "risk management",
+    "residual method"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, highlighting growth in processing volume, merchants, and sales capacity. Risk disclosures are limited but acknowledge normal merchant attrition and account closures due to heightened credit risks. Dense industry terminology and long sentences reduce accessibility, though the overall tone is moderately positive."
+}

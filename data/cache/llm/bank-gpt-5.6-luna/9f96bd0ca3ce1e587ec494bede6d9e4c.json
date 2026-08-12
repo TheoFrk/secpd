@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.02,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "among other things",
+    "other risks and uncertainties",
+    "continually evolving markets",
+    "may adversely impact"
+  ],
+  "risk_summary": "The excerpt combines extensive standard forward-looking-risk disclaimers with promotional descriptions of products, market position, and growth initiatives. Several transactions, tax items, and operating metrics are quantified, but the broad risk catalog and repeated conditional language provide limited prioritization or probability assessment of material risks."
+}

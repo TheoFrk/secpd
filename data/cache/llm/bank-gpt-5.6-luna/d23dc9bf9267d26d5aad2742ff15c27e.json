@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "no assurance of additional financing",
+    "if operating performance differs significantly",
+    "foreseeable future"
+  ],
+  "risk_summary": "The excerpt provides meaningful operating and liquidity detail, including revenue mix, capital expenditures, contract terms, and covenant-related risks. However, extensive standard forward-looking disclaimers and conditional language limit accountability for forecasts, while liquidity could become strained if performance weakens or financing is unavailable."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "based on management’s best estimate",
+    "more likely than not",
+    "could impact reported financial results",
+    "expected customer demand",
+    "various other factors"
+  ],
+  "risk_summary": "The excerpt is detailed but heavily reliant on standard accounting-policy boilerplate and management estimates, particularly for revenue recognition, reserves, inventory valuation, taxes, and goodwill. Risk exposure is moderate, with disclosed historical losses, a full valuation allowance on deferred tax assets, potential inventory and warranty charges, borrowing-base limitations, and restricted access to some foreign cash."
+}

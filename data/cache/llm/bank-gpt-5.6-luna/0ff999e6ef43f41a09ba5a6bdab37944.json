@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "subject to regulatory approvals",
+    "significant growth",
+    "market reaching maturity",
+    "non-GAAP constant currency"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified and operational detail, but presents a mixed risk profile: mature and declining core vSphere license sales, foreign-exchange pressure, restructuring costs, and dependence on EMC and its pending merger. Positive growth claims are partly framed with broad descriptors and non-GAAP constant-currency measures, limiting comparability."
+}

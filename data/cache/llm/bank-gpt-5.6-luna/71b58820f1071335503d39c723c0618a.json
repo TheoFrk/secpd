@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "possibly materially",
+    "evolving needs",
+    "not linear",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic outlook, emphasizing diversification, de-risking, growth, and operational efficiencies. It acknowledges material sensitivity to market conditions, interest rates, credit spreads, real estate values, transaction timing, and insurance product performance, but much of the outlook uses broad qualitative language and forward-looking caveats. Extensive segment and non-GAAP metric definitions add technical complexity and may reduce comparability."
+}

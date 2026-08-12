@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "dynamic with uncertainties",
+    "as required",
+    "other factors",
+    "review is ongoing",
+    "more than offset the challenges"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including declining sales and operating income, inventory write-downs, restructuring costs, elevated tax expense, and a large deferred-tax valuation allowance. Risk is heightened by industry oversupply, customer vertical integration, weaker demand, debt obligations, and expected lower prices, although management presents operational initiatives as sufficient to offset these pressures."
+}

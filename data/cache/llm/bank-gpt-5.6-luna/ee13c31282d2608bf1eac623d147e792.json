@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "based on historical experience",
+    "believed to be reasonable",
+    "if any",
+    "for the foreseeable future",
+    "customarily applicable covenants"
+  ],
+  "risk_summary": "The excerpt is largely standard critical-accounting-policy and revenue-recognition boilerplate, with substantial technical complexity and limited sensitivity analysis or quantified estimation ranges. The company presents a generally confident growth narrative and reports no borrowings or covenant violations, but future cash needs, impairment, returns, tax realization, inflation, and growth assumptions remain dependent on management estimates. The contractual-obligations table appears incomplete in the excerpt, limiting assessment of liquidity commitments."
+}

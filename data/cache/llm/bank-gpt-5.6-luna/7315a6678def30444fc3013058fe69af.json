@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "could differ materially",
+    "may need additional financing",
+    "substantial doubt about going concern",
+    "incomplete risk disclosure"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on IPO proceeds, trust assets, expenses, and liquidity, but includes extensive boilerplate and broad conditional language. The most material risk is management’s explicit conclusion that mandatory liquidation raises substantial doubt about the company’s ability to continue as a going concern if a business combination is not completed. An apparent truncated or incomplete section and omitted consequences after “could result in” reduce disclosure clarity."
+}

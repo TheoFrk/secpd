@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.49,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "unable to predict timing of collection",
+    "expects sales to be relatively flat",
+    "intended to qualify as tax free",
+    "customary events of default",
+    "not material to any periods affected"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including liquidity, debt maturities, segment revenue, market production, and the $120 million PHINIA VAT dispute. Risk factors include cyclical automotive demand, EV adoption volatility, inflationary input costs, litigation-related collection uncertainty, and accounting misstatement corrections, but management presents a confident liquidity and covenant-compliance position."
+}

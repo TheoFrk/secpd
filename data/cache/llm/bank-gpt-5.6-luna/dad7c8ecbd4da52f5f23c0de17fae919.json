@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "uncertainties, risks and assumptions",
+    "not expected to have a material impact",
+    "partially offset by",
+    "opportunities to improve"
+  ],
+  "risk_summary": "The excerpt presents a consistently positive operating profile, with quantified revenue, margin, and earnings growth and limited signs of financial stress. Some boilerplate forward-looking language and repeated “partially offset” explanations qualify the discussion, while the truncated ending limits assessment of subsequent disclosures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "could differ materially",
+    "may need to raise additional funds",
+    "sole discretion",
+    "text truncation"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but includes significant boilerplate and accounting jargon. Liquidity risk is material: the company has no revenue, insufficient working capital for planned activities, and explicitly states that these conditions raise substantial doubt about its ability to continue as a going concern. Reliance on optional insider loans and uncertain future financing further heightens risk."
+}

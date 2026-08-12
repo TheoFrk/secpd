@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "expect substantially all",
+    "subject to estimates",
+    "pending formal award",
+    "could have bid if not for capacity constraints",
+    "significant judgments or an estimation process"
+  ],
+  "risk_summary": "The disclosure is detailed and highly quantified, but uses forward-looking expectations and estimate-dependent revenue recognition that could obscure execution and margin risk. Backlog declined 16.6%, capital-project win rates fell sharply, and revenue concentration with federal agencies increased to 82%, creating customer and funding exposure. Overall tone is cautiously positive, supported by fleet scale and infrastructure demand, but operational and contract-estimation risks remain material."
+}

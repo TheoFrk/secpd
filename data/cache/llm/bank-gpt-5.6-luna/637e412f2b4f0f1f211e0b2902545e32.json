@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "not necessarily indicative",
+    "among other things",
+    "no responsibility to update"
+  ],
+  "risk_summary": "The excerpt is heavily standardized and contains an extensive forward-looking risk inventory, with limited prioritization or quantification of individual exposures. It provides some useful metrics and mitigants, including a 198-basis-point gross-margin recovery, $2.58 billion of purchase obligations, and expected fiscal 2024 capital expenditures of approximately $500 million, but the overall tone reflects meaningful macroeconomic, leverage, supply-chain, and execution risks."
+}

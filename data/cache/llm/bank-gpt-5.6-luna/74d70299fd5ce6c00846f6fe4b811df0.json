@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "varying conditions in the markets we serve",
+    "may also be impacted by",
+    "primarily due to",
+    "partially offset by",
+    "currently anticipated investment and funding needs"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and strongly quantified, with clear revenue, earnings, cash flow, leverage, acquisition, pension, and credit-rating disclosures. It acknowledges meaningful exposure to cyclical demand, OEM production, foreign currency, political and regulatory risks, but presents these as manageable through geographic and product diversification. The overall tone is confident and financially healthy, though portions use standard boilerplate and broad causal language."
+}

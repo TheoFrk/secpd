@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.05,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference instead of disclosure",
+    "boilerplate section listing",
+    "no quantitative analysis",
+    "forward-looking statements reference",
+    "inconsistent page range"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and redirects the reader to other sections. Its boilerplate cross-reference and apparent page-range inconsistency limit transparency and prevent meaningful assessment of the company’s condition."
+}

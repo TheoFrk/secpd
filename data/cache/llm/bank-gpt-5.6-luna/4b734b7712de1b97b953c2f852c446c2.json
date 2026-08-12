@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot assure you",
+    "may increase or decrease",
+    "could potentially extend",
+    "additional payment delays may occur",
+    "forward-looking statements and uncertainties"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on membership, rate changes, contract terms, and expense ratios, but relies on extensive forward-looking qualifiers and cross-references. Key risks include potential early termination or failed rebidding of Florida Medicaid contracts, state payment delays, reimbursement volatility, health care reform changes, and integration costs."
+}

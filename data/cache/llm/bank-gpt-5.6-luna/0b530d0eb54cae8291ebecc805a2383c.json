@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected future net cash flows",
+    "Management believes",
+    "may continue",
+    "heightened credit risks",
+    "estimated current settlement cost"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting merchant counts, processing volumes, attrition, same-store sales, and sales-force changes. Risk is moderate: merchant attrition, economic sensitivity, credit-related account closures, impairment exposure, and estimated buyout liabilities are disclosed, although some outlook statements remain qualified and inherently uncertain."
+}

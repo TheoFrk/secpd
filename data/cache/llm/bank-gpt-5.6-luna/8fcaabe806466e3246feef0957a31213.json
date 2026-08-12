@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "possibly materially",
+    "not under any obligation to update",
+    "non-GAAP exclusions",
+    "legacy crisis matters"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate disclaimers and repeated forward-looking language that limits accountability for projections. It presents a generally confident recovery narrative, but reliance on non-GAAP measures and numerous exclusions may obscure underlying performance and risk exposure."
+}

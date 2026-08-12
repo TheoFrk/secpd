@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "possibly materially",
+    "not under any obligation to update",
+    "non-GAAP measures",
+    "believe and expected to"
+  ],
+  "risk_summary": "The excerpt is dominated by standardized forward-looking disclaimers, non-GAAP framing, and broad strategic assertions rather than quantified risk outcomes. It acknowledges material uncertainty and limited update obligations, while maintaining a cautiously optimistic tone around underwriting, claims, and capital initiatives."
+}

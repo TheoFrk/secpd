@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently uncertain and outside our control",
+    "possibly materially",
+    "significantly lower/higher",
+    "among others"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified in its operating overview, but includes extensive boilerplate forward-looking disclaimers and broad lists of potential risks. Results show meaningful deterioration versus the prior year, including a 48% decline in net earnings, higher credit-loss provisions, and a worsening efficiency ratio, although capital ratios remain strong."
+}

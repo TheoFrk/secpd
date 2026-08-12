@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "possibly materially",
+    "reasonably foreseeable contingencies",
+    "not obligated to update",
+    "such other factors"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative disclosure of recapitalization, asset sales, liquidity facilities, and improving results with extensive forward-looking disclaimers and broad risk-factor language. The tone is cautiously positive regarding liquidity and restructuring progress, but underlying exposure to market conditions, catastrophes, credit ratings, reserves, legal proceedings, and execution risk remains significant."
+}

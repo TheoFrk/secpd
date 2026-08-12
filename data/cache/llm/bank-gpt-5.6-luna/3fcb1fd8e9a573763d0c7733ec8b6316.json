@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance",
+    "substantial doubt about ability to continue",
+    "primarily dependent upon",
+    "could differ materially",
+    "currently evaluating the impact"
+  ],
+  "risk_summary": "The company has no commercial revenue, minimal cash, a working-capital deficit, substantial cumulative losses, and explicitly states that its funding is insufficient for the next twelve months. Continuation depends on additional equity financing, shareholder and director support, successful exploration and development, and eventual profitability, with auditors citing substantial doubt about going concern. Disclosure is materially risk-oriented and includes dilution, liquidity, execution, and financing risks, although much of the accounting-policy language is standard boilerplate."
+}

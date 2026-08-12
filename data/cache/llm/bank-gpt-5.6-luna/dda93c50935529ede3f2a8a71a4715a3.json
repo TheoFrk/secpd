@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "insufficient evidence to determine fair value",
+    "from time to time",
+    "subject to certain conditions",
+    "believes the initial contractual term is the best estimate",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and includes quantified customer concentration, employee costs, financing amounts, interest rate, maturity, collateral, and warrant terms. However, the discussion is highly technical and contains judgment-based accounting language, while the financing structure indicates elevated credit risk through 11% secured debt, substantial liens, subsidiary pledges, and committed funding conditions. The excerpt is truncated, limiting assessment of the full risk context."
+}

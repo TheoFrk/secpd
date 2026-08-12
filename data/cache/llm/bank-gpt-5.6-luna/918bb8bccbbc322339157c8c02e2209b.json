@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "sufficient to fund ongoing operations",
+    "forward-looking statements and risks",
+    "vertically integrated ecosystem",
+    "SEC restatement and settlement"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, citing persistent operating cash outflows, escalating net losses, prior substantial doubt about going concern, reliance on equity issuance, and an SEC settlement related to financial statement restatements. Quantification of losses and financing capacity improves precision, but extensive promotional product descriptions and boilerplate forward-looking language dilute the risk discussion."
+}

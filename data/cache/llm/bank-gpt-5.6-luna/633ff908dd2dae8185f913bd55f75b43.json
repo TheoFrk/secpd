@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.5,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainties",
+    "potential clinical advantages",
+    "preliminary promising results",
+    "expected to relapse",
+    "historical results may not reflect future results"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate forward-looking disclaimers and promotional scientific language, while clinical, regulatory, and commercial outcomes remain uncertain. Some quantitative trial and market data are provided, but key financial and operating details are incomplete or truncated, limiting assessment of liquidity and execution risk."
+}

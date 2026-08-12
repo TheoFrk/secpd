@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily reflecting",
+    "expected to",
+    "could use available cash",
+    "subject to risks and uncertainties",
+    "truncated causal explanations"
+  ],
+  "risk_summary": "The excerpt describes sustained revenue declines, margin pressure, costly restructuring, impairment risk, and significant leverage-covenant stress requiring an amendment. While it provides numerous quantified historical and projected figures, several causal explanations are incomplete or generalized, and the excerpt is visibly truncated."
+}

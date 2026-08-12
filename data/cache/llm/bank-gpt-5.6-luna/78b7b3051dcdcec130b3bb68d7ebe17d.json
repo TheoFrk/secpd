@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to certain risks and uncertainties",
+    "cannot assure you that our estimates will be accurate",
+    "no obligation to publicly release revisions",
+    "significant disparity between earnings and cash received",
+    "sufficient to meet current working capital needs"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides clear year-over-year operating detail, with a generally favorable performance tone driven by strong revenue and margin growth. However, reliance on percentage-of-completion estimates, contract termination risk, earnings-to-cash timing gaps, increased debt, and forward-looking-statement disclaimers create meaningful credit risks."
+}

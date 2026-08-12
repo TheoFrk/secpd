@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "could change significantly",
+    "based on current spot rates",
+    "primarily due to",
+    "refer to Risk Factors",
+    "subject to our performance"
+  ],
+  "risk_summary": "The disclosure is largely precise and well quantified, but reports materially lower net income, tire volumes, and segment operating income amid higher raw material costs and weak demand. Liquidity remains substantial, and management provides quantified 2018 expectations, though commodity volatility and dependence on favorable operating assumptions remain key risks."
+}

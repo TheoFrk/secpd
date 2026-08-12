@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-core gains and charges",
+    "underlying business performance",
+    "provides further insight",
+    "Financial Flexibility",
+    "not prepared in accordance with GAAP"
+  ],
+  "risk_summary": "The excerpt is largely definitional and procedural, but heavily emphasizes adjusted non-GAAP measures that exclude recurring restructuring and other charges, potentially presenting performance more favorably. Extensive management discretion, repeated qualifiers, and complex segment reclassifications reduce comparability, although the disclosure includes some quantified revenue contributions and GAAP caveats."
+}

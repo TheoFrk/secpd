@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management's opinion is adequate",
+    "as opportunities arise",
+    "expected to cover probable incurred losses",
+    "primarily due to",
+    "additional provisions as determined by management"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but indicates meaningful credit deterioration through higher delinquency, charge-off, and loan-loss provision rates, alongside increased exposure to newer borrowers. The Mexico impairment materially reduced net income, while allowance adequacy relies partly on management judgment and estimates."
+}

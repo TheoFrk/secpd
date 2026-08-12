@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believe we are progressing",
+    "should result in higher levels",
+    "inherently subjective",
+    "actual results could differ",
+    "significant change may impact earnings"
+  ],
+  "risk_summary": "The excerpt is generally quantitatively detailed and reports improving income, loan growth, and reduced expenses, but it discloses material compliance remediation, prior loan losses, discontinued operations, and financial statement restatement activity. Significant judgment and uncertainty surround credit-loss reserves, fair values, impairment assessments, and future earnings impacts."
+}

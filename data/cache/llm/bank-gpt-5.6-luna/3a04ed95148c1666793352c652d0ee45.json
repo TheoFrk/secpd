@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "reasonable estimates and judgments",
+    "more-likely-than-not recoverable",
+    "sufficient through at least the next 12 months",
+    "Adjusted EBITDA limitations"
+  ],
+  "risk_summary": "The disclosure identifies meaningful exposure to semiconductor cyclicality, macroeconomic volatility, supply-chain disruption, inventory obsolescence, tax valuation allowances, and distributor-related estimates. Liquidity is presented as adequate for at least 12 months, but the excerpt relies heavily on generalized uncertainty language and judgment-based accounting estimates rather than quantified sensitivities. The use of Adjusted EBITDA and the truncated text reduce transparency regarding underlying performance and liquidity risk."
+}

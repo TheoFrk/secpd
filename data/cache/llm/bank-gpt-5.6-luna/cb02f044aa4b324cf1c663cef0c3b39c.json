@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-public formal investigation",
+    "should no longer be relied upon",
+    "certain historical business activities",
+    "not yet finalized purchase accounting",
+    "Adjusted EBITDA may not be comparable"
+  ],
+  "risk_summary": "The disclosure presents significant reporting and governance risk due to an SEC investigation, a multi-year financial restatement, and misstated non-GAAP metrics. Although operating results and acquisition details are quantified and the business shows strong revenue growth, unresolved purchase accounting and extensive reliance on defined adjustments temper the otherwise positive performance narrative."
+}

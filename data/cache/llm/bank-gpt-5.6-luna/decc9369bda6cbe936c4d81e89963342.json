@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "rapidly changing market dynamics",
+    "we believe",
+    "may adjust our capital spend",
+    "unable to reasonably estimate",
+    "if actual settlement costs differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, with strong liquidity, cash flow, and debt-maturity detail. Key risks include commodity-price and rig-count volatility, supply-chain and inflationary pressures, uncertain tax and legal-contingency cash outflows, and potential impairment charges. Management maintains a moderately confident tone, though some forward-looking estimates and reliance on judgment introduce uncertainty."
+}

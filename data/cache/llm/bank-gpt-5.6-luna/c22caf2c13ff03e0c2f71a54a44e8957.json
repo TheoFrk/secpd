@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions and special items",
+    "management believes",
+    "may not be indicative of future results",
+    "highly contingent on many factors",
+    "excerpt is truncated"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides meaningful segment, workforce, geographic, and cash-flow detail, but relies on non-GAAP adjustments and broad management judgments that can reduce comparability. COVID-19 caused significant volatility and deterioration, while impairment charges, net loss, competitive exposure, and reliance on borrowings indicate elevated operating and financial risk despite reported sequential recovery and positive operating cash flow."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-U.S. GAAP measures not standardized",
+    "variety of factors",
+    "relatively fixed in nature",
+    "estimated deferred acquisition consideration",
+    "excerpt appears truncated"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified revenue, margin, acquisition, foreign-exchange, and expense information, supporting relatively transparent analysis. Risk factors include client concentration and retention dynamics, acquisitions and contingent consideration, foreign-exchange exposure, seasonality, and reliance on non-GAAP measures. Overall tone is cautiously positive, reflecting improved operating performance but with notable adjustments and a truncated disclosure limiting completeness."
+}

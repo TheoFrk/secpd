@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "potential effect on our business",
+    "primarily attributable to",
+    "partially offset by",
+    "historical results not necessarily indicative"
+  ],
+  "risk_summary": "The excerpt is relatively quantitative and explains major changes in membership, revenue, expenses, and net income, but relies on standard forward-looking disclaimers and broad causal language. Risk tone is cautiously positive overall due to improved earnings and operating metrics, tempered by membership declines, regulatory uncertainty in Iowa, healthcare reform exposure, and adverse prior-period cost developments."
+}

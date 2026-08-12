@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "opportunities arise",
+    "as expected",
+    "estimated ... excluding the impact",
+    "in line with historical levels",
+    "management believes allowance is sufficient"
+  ],
+  "risk_summary": "The disclosure is highly quantified and transparent about loan growth, delinquencies, charge-offs, expenses, and allowance movements. Credit risk remains material, with elevated delinquency and charge-off rates, while changes to branch incentives appear to have delayed charge-offs and reduced reported loss ratios. Profitability is positive but partly supported by a nonrecurring gain from selling charged-off accounts."
+}

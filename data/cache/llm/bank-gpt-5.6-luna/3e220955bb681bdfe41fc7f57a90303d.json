@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could have a material impact",
+    "more likely than not",
+    "significant estimates and assumptions",
+    "future profitability is uncertain",
+    "unable to develop an estimate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and reserve information, but relies heavily on management judgments regarding impairments, tax-asset recoverability, environmental liabilities, and future cash flows. Income from continuing operations declined materially, although sales increased and the disclosure is generally balanced rather than crisis-oriented."
+}

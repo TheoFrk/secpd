@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "not all inclusive",
+    "does not undertake to update",
+    "significant judgment and estimates",
+    "beyond the Company’s control"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad, non-quantified risk lists, limiting predictive transparency. Credit conditions appear improved based on lower non-performing assets, reserve levels above peers, and legal recoveries, but reported performance benefits materially from a one-time $5.8 million settlement and reserve releases. Significant estimation uncertainty remains around loan-loss reserves, securities valuations, litigation, regulatory compliance, and economic conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.25,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe cash will be sufficient",
+    "non-cash related expenses",
+    "slight increase/decrease",
+    "primarily attributable",
+    "may have to obtain financing"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, but the company remains loss-making and has recorded recurring investment impairments. Liquidity appears adequate for the next 12 months, yet continued sales weakness could require debt or equity financing and potentially dilute shareholders."
+}

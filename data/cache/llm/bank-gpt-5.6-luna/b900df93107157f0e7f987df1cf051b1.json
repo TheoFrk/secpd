@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "difficult to predict",
+    "cannot guarantee future results",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting assets, loans, deposits, provisions, nonperforming assets, and segment performance. Risk is moderated by portfolio growth, acquisitions, valuation uncertainty, modeled-loss assumptions, and extensive standard forward-looking disclaimers. Overall tone is cautiously positive, though the text is dense and includes substantial boilerplate legal language."
+}

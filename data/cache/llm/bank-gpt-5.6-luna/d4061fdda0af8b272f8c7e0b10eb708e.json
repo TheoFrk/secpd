@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance of continued funding",
+    "may have to cease or severely curtail operations",
+    "dependent upon obtaining financing",
+    "shell company seeking a reverse merger",
+    "materially impact ability to continue as a going concern"
+  ],
+  "risk_summary": "The company reports no operating revenue, minimal activity, negative working capital of $2.18 million, reliance on related-party financing, and dependence on a reverse merger or additional funding. Its disclosure explicitly indicates that failure to obtain financing could force it to cease or severely curtail operations, presenting severe going-concern and liquidity risk. The late filing history and lack of employees or substantive business activity further weaken the operating outlook."
+}

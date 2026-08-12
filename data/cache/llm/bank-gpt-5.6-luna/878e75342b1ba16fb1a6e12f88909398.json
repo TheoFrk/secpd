@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.27,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "do not disclose quantitative information",
+    "variety of risk factors",
+    "materiality assessment",
+    "initial efforts to resolve investigations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but relies on standard forward-looking disclaimers and explicitly withholds product-level information. Key risk signals include DOJ/SEC FCPA investigations, substantial leverage, financial statement errors, uncertain economic conditions, and foreign-exchange exposure, producing a mildly negative risk tone."
+}

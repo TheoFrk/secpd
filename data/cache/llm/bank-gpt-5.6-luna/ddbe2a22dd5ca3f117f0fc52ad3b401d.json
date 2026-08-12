@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonably foreseeable future",
+    "highly uncertain",
+    "not able to predict",
+    "including, but not limited to",
+    "future need"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed revenue changes, liquidity, manufacturing arrangements, and accounting policies. Key risks include COVID-19 demand and production uncertainty, dependence on forecasts for inventory reserves, foreign exchange exposure, and restructuring-related manufacturing transition risk."
+}

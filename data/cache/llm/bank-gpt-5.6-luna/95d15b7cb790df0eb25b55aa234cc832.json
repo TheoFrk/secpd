@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect volumes to remain flat",
+    "current economic climate",
+    "in some cases",
+    "historically high retail prices",
+    "lag between cost increases and pricing"
+  ],
+  "risk_summary": "The excerpt provides meaningful segment detail and some quantified sales, margin, and cost information, but relies on broad competitive and market descriptions in places. Risk tone is mildly cautious, reflecting declining milk consumption, margin erosion, commodity-cost volatility, pricing lags, and intense competition, while management emphasizes cost reduction, cash flow, and debt reduction."
+}

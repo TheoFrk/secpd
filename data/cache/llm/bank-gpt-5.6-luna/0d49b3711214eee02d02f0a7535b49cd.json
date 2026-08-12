@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may prove to be incorrect",
+    "do not undertake to update",
+    "other similar expressions",
+    "adjusted EBITDA and non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is substantially quantified regarding revenue, margins, costs, commitments, and capital expenditures, but contains extensive repetitive forward-looking disclaimers and broad assumptions. Risk factors include prior-period error corrections, continued operating losses, tariff and input-cost exposure, substantial start-up costs, and reliance on receivables and supplier-financing programs. Management presents a cautiously optimistic 2025 outlook centered on volume growth, productivity gains, and improved cash flows."
+}

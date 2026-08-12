@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "best estimate",
+    "actual results may differ",
+    "future anticipated increases in costs",
+    "material adverse effect",
+    "uncertainties regarding ability"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively supported, but relies on actuarial estimates for workers’ compensation liabilities and acknowledges uncertainty in tax-asset utilization. Geographic concentration in California and exposure to regulatory, economic, claims, and business-mix changes represent meaningful risks. The tone is largely factual and measured rather than crisis-like."
+}

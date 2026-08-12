@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "TABLE_END and truncated text",
+    "broad range of applications",
+    "highest quality standards",
+    "substantial content positions",
+    "may include strategic acquisitions"
+  ],
+  "risk_summary": "The excerpt combines specific acquisition, revenue-recognition, and sales data with promotional, generalized strategy language. Key risk areas include contract-estimate sensitivity, pricing and competitive pressure, global economic and currency exposure, restructuring, and acquisition integration, while the incomplete and truncated presentation limits transparency."
+}

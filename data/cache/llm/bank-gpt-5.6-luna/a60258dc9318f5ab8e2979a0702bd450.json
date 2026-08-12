@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "we believe",
+    "numerous factors",
+    "backlog may not be indicative"
+  ],
+  "risk_summary": "The disclosure is generally data-rich and provides substantial quantified detail on declining sales, earnings, segment performance, and backlog. Risk is elevated by material revenue and long-gun declines, excess channel inventory, demand normalization, and the uncertain predictive value of backlog, although management presents these issues in a measured and commercially confident tone."
+}

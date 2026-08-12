@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "not all inclusive",
+    "significant degree of judgment",
+    "various assumptions",
+    "does not undertake to update"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and broad, non-quantified risk factors. It highlights material judgment and potential volatility in loan-loss allowances, securities valuations, impairments, regulatory compliance, and capital availability, although later operating data is comparatively precise."
+}

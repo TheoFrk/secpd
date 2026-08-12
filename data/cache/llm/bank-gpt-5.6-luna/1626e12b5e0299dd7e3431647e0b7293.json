@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "expected to expand",
+    "subjective or complex judgments",
+    "unpredictable swings in the business cycle",
+    "positive and negative evidence"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate and promotional business-description language, though it includes useful acquisition prices, investment figures, and discussion of valuation allowances and debt-funded growth. Key risks include semiconductor cyclicality, insufficient historical earnings to offset new interest costs, and judgment-intensive tax and pension assumptions."
+}

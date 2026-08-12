@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "variety of risk factors",
+    "no obligation to update",
+    "preliminary acquisition accounting",
+    "management estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and extensive reliance on estimates, particularly for taxes, acquisitions, goodwill, and recoverability. Quantified disclosures improve transparency, but material risks include leverage, currency exposure, government spending, collections, acquisition integration, and rising ERP-related capital requirements."
+}

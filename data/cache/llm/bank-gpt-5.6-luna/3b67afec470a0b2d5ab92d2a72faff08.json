@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "underlying operational performance",
+    "continuing economic uncertainties",
+    "we anticipate",
+    "well-positioned to benefit"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative market, traffic, cash flow, and capacity information, but relies on standard non-GAAP caveats and forward-looking qualifiers. Key risks include demand softness, raw-material and energy-price volatility, supply constraints, transportation costs, foreign exchange, and underutilized facilities. Overall tone is cautiously optimistic, emphasizing infrastructure-driven growth and operational improvements despite acknowledged uncertainty."
+}

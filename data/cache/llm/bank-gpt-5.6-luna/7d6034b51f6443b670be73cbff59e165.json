@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "may or may not continue",
+    "depending on",
+    "including but not limited to",
+    "potentially all iPhones"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, but uses standard forward-looking disclaimers and conditional language around seasonality, licensing disputes, competition, and future margins. Risk is elevated by declining net income, significant customer and geographic concentration, litigation-related costs, and potential loss of Apple modem share, although management also presents growth opportunities in 4G/5G, IoT, automotive, and networking."
+}

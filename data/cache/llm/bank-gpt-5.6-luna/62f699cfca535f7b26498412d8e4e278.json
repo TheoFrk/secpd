@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures and adjusted results",
+    "meaningful to investors",
+    "forward-looking statements",
+    "significant charges/benefits",
+    "measurement period adjustment"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial reconciliation of GAAP to adjusted results, supporting relatively strong disclosure quality. However, extensive non-GAAP framing may emphasize favorable underlying trends while excluding material legal and tax charges, including the $897 million Minnesota NRD charge. The tone is operationally confident but contains meaningful litigation, tax, and adjustment-related risk."
+}

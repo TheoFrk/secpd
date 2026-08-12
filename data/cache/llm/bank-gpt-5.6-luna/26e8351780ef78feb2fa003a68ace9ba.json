@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict the outcome",
+    "could have a material, negative impact",
+    "uncertainty continues to exist",
+    "depending on how future cuts are implemented",
+    "reasonably assured"
+  ],
+  "risk_summary": "The disclosure is data-rich and identifies significant exposure to declining U.S. defense budgets, sequestration, contract cancellations, audits, and estimation risk. Risk language is generally balanced but relies on conditional phrasing around the magnitude and timing of future impacts. Contract accounting judgments and revisions could materially affect operating income, cash flows, receivables, and inventories."
+}

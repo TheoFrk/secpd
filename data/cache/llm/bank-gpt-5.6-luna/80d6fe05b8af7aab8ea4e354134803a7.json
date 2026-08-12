@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results",
+    "working capital deficit",
+    "cash flow decreased 78%",
+    "substantial acquisition financing",
+    "competitive product entrance"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, with strong sales growth across most businesses and clear segment-level drivers. Credit risk is elevated by $7.056 billion of debt, only $146 million of cash, a $1.257 billion working capital deficit, and a 78% decline in operating cash flow, although management attributes the cash-flow decline primarily to an IRS tax settlement. Extensive use of adjusted results and acquisition-related financing warrants reconciliation to GAAP results and assessment of leverage and liquidity capacity."
+}

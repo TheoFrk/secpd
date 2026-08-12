@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance",
+    "could cause actual results to differ materially",
+    "including but not limited to",
+    "long enumerated risk factors"
+  ],
+  "risk_summary": "The excerpt is dominated by broad, boilerplate forward-looking disclaimers and an extensive catalog of potential regulatory, operational, market, environmental, climate, cybersecurity, and financing risks. Some disclosures are specific, including regulatory dates, ownership percentages, and accelerated depreciation milestones, but financial exposure probabilities and quantified impacts are generally absent. Overall tone is cautious and risk-heavy rather than crisis-like."
+}

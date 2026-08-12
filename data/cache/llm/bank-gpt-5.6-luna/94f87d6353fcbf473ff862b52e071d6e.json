@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may continue to impact",
+    "including, but not limited to",
+    "for the foreseeable future",
+    "continued uncertainty",
+    "certain strategic actions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of liquidity, cash flows, acquisitions, divestitures, and operating drivers. Risk tone is cautiously confident, but it highlights substantial exposure to inflation, tariffs, currency volatility, competition, labor costs, supply-chain disruption, and cybersecurity without quantifying potential impacts. Boilerplate definitions and extensive lists of risks add complexity and partially dilute the most material risk signals."
+}

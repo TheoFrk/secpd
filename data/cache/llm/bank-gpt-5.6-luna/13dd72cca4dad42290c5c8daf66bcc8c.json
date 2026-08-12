@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "may depend to a large extent",
+    "continue to be a challenge",
+    "inherently uncertain",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but presents significant deterioration: revenue declined 31.6%, gross margin fell from 31.7% to 16.5%, and supply-chain and customer-concentration risks remain material. High-cost debt, equity dilution through warrants and private placement, inventory obsolescence, credit-loss allowances, and impairment uncertainty indicate elevated financial and operating risk."
+}

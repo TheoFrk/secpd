@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unknown at this time",
+    "unable to specifically predict",
+    "remains uncertain",
+    "it is possible",
+    "expected to remain flat"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sequestration, defense budgets, customer concentration, and potential funding impacts. However, it relies on uncertainty qualifiers regarding implementation, future appropriations, contract cancellations, and recoverability of deferred costs, indicating meaningful exposure to government budget and execution risk."
+}

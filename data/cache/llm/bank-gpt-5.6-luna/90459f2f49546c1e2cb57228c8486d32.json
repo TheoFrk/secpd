@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may impact our overall performance",
+    "other factors that may influence future results",
+    "non-GAAP performance measures",
+    "items excluded are relevant",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed portfolio, occupancy, leasing, and revenue-driver information. It identifies meaningful risks from dispositions, tenant credit quality, e-commerce, operating-cost rigidity, natural disasters, and regulatory changes, while maintaining a moderately confident strategic tone. Use of extensive boilerplate risk language and non-GAAP measures introduces some comparability and interpretation risk."
+}

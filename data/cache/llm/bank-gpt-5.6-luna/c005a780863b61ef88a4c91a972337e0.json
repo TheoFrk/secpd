@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results may differ materially",
+    "including but not limited to",
+    "customary closing conditions",
+    "pursue various exit strategies"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment revenue contributions, business descriptions, transaction terms, and identified impairment and litigation charges. Risk is present but framed in standard forward-looking disclaimer language and partly mitigated by strong reported revenue and earnings. The dense technical and organizational detail increases complexity but does not appear materially evasive."
+}

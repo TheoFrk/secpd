@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "if-converted ownership calculations",
+    "pushdown accounting comparability",
+    "complex reverse/forward stock split"
+  ],
+  "risk_summary": "The disclosure is generally specific and transaction-focused, with substantial quantitative detail on ownership, preferred-stock rights, and accounting changes. Key risks include concentrated control by Steel Partners, non-comparable predecessor/successor periods, complex capital structure terms, and extensive boilerplate forward-looking language."
+}

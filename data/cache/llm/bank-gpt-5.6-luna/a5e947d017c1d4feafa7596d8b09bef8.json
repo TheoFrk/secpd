@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot predict with any degree of certainty",
+    "among other things",
+    "no obligation to update",
+    "marked-to-market basis"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and regulatory information, but extensive forward-looking disclaimers and complex accounting explanations limit clarity regarding future performance. Risk exposure is elevated due to customer-asset safeguarding events, evolving derivatives regulation, liquidity requirements, and potential earnings volatility from accounting mismatches, although reported growth and excess segregated assets provide some offset."
+}

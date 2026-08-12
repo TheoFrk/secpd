@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance actual results",
+    "beyond our control",
+    "well positioned to manage",
+    "expected to drive growth"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking and promotional language, with frequent expectations and assurances that limit precision around future performance. It identifies meaningful risks including weakening demand, raw-material and energy inflation, supply constraints, and economic uncertainty, but presents these as manageable against a generally confident outlook. Historical net income is quantified, although much of the operating outlook lacks specific targets or sensitivity analysis."
+}

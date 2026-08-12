@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "contingent processor purchases",
+    "substantial market potential",
+    "absolutely no effect",
+    "missing comparative table"
+  ],
+  "risk_summary": "The disclosure identifies significant liquidity and going-concern risk, including recurring operating cash usage, reliance on financing, and an auditor’s substantial-doubt explanatory paragraph. Risk is partly obscured by promotional language and unquantified claims about technology, market potential, and customer commitments, while the excerpted financial table is incomplete."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "a number of factors may adversely affect",
+    "including, but are not limited to",
+    "other factors affecting",
+    "future actual experience can differ"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and forward-looking-risk boilerplate, listing numerous potential adverse factors without quantifying their likelihood or expected financial impact. It also provides substantial operational detail and quantified pension sensitivities, limiting the overall evasiveness. Risk tone is cautious but not crisis-like, with identifiable exposure to consumer weakness, customer credit and bankruptcies, supply costs, impairments, acquisitions, and pension assumptions."
+}

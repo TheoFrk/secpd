@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "continued investments for growth",
+    "challenging macro-economic climate",
+    "strategic growth and cost discipline"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed year-over-year drivers, cash spending, tax expectations, and liquidity sources. The tone is strongly positive and emphasizes earnings growth, productivity, and capital deployment, while risks are presented mainly through macroeconomic, foreign-currency, pension, pricing, and investment-related qualifiers. Some causal explanations rely on recurring phrases such as “primarily” and “partially offset by,” limiting precision regarding the relative contribution of individual factors."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.45,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "disclosure deferred"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and defers the relevant discussion to another document. This limits standalone assessability and may obscure the company’s condition without reviewing the incorporated annual report."
+}

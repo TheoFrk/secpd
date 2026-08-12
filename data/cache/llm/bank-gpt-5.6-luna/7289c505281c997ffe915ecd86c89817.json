@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "without unreasonable efforts",
+    "unusual items",
+    "dynamic and challenging environment",
+    "actuarial assumptions"
+  ],
+  "risk_summary": "The disclosure is broadly confident and quantitatively detailed, highlighting strong sales, margin expansion, backlog growth, and operational execution. Key risks include supply-chain constraints, material, logistics and labor inflation, insufficient pricing offsets, and uncertainty around excluded future items and pension assumptions. Extensive non-GAAP reconciliations and forward-looking exclusions could make underlying performance and downside exposure less transparent."
+}

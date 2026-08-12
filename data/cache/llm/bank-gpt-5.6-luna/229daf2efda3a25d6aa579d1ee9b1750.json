@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no timetable established",
+    "certain development projects may be delayed",
+    "remains uncertain",
+    "cannot predict ability to cover future cost increases",
+    "no guarantee"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantified segment, footprint, and revenue information, but relies on standard forward-looking disclaimers and optimistic qualitative assertions. Material risks include pandemic-related volume pressure, labor and supply-cost inflation, limited ability to pass costs to government payors, strategic-review uncertainty, and possible development delays."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.91,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "may differ significantly",
+    "including but not limited to",
+    "ability to",
+    "future impact"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a highly nested, non-quantified catalog of potential risks, limiting clarity on probability and magnitude. Operating commentary includes some quantified revenue and market-volume changes, but the overall disclosure is complex and risk exposure spans liquidity, leverage, controls, technology, regulation, and market conditions."
+}

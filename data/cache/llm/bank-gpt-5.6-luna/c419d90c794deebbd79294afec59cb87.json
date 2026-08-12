@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.54,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP measures",
+    "special charges",
+    "optimize organizational structure",
+    "potential to impact treatment",
+    "further discussed below"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and presents a generally confident tone, highlighting strong sales, earnings, cash flow, and capital allocation. However, reliance on adjusted measures and extensive emphasis on optimization and strategic benefits may soften the presentation of recurring litigation, recall, impairment, pension, regulatory, and execution risks. Pension obligations and deferred actuarial losses represent notable forward-looking financial pressure."
+}

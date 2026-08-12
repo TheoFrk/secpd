@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "largely driven by",
+    "primarily due to",
+    "non-GAAP financial measures",
+    "FTE basis",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with a mildly positive operating tone supported by higher net interest income, NIM, and lower non-performing assets. Credit and funding risks are evident in rising charge-offs and provisions, declining deposits, increased borrowings, and higher FDIC and operating costs. Complexity is elevated due to dense banking terminology, extensive reconciliations, and long comparative disclosures."
+}

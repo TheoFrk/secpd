@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "there can be no assurance",
+    "could have a material adverse effect",
+    "strategic actions focused on mitigating",
+    "mission-critical and market-leading claims"
+  ],
+  "risk_summary": "The excerpt combines quantified operating data with substantial boilerplate, promotional positioning, and forward-looking qualifiers. Key disclosed risks include COVID-19 effects, inflation, supply-chain constraints, labor shortages, customer access restrictions, and potential margin or revenue pressure, although management characterizes fiscal 2021 impacts as not materially adverse."
+}

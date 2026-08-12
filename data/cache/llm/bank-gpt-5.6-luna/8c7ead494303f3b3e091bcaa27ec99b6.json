@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad plan includes",
+    "currently expects to complete",
+    "when deemed appropriate",
+    "we believe",
+    "certain risks and challenges"
+  ],
+  "risk_summary": "The excerpt is generally specific and financially quantified, with detailed transaction, restructuring, sales, and operating-income impacts. However, it contains substantial forward-looking language around the proposed separation and omits the contents of several summarized sections, limiting assessment of key risks and expected 2011 performance. Risk tone is cautiously positive, supported by improved operating results but tempered by restructuring, divestitures, cost pressures, impairment judgments, and execution risk."
+}

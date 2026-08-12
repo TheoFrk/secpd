@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "challenging year",
+    "severe downturn",
+    "do not know how deep",
+    "how long it may last",
+    "taking actions across the company"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified and provides useful segment-level revenue, margin, utilization, debt, and liquidity information. Risk tone is materially negative due to the rapid oil-price decline, expected severe U.S. downturn, pricing pressure, lower utilization, and uncertainty regarding the duration of the downcycle, although management emphasizes mitigating actions and selected international or deepwater offsets. The excerpt is technically dense and contains some boilerplate outlook language, with an apparent truncation and inconsistent historical-period references that redu…"
+}

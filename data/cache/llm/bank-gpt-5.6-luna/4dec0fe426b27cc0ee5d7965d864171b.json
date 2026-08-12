@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Regulatory Agreements",
+    "adjusted net income",
+    "qualitative and environmental factors",
+    "estimated credit losses",
+    "fair value adjustments"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed explanations of earnings drivers, credit-loss provisions, asset sales, and portfolio methodology. Risk remains elevated due to the FDIC Consent Order, Federal Reserve Written Agreement, prior substantial asset-sale and legal losses, and reliance on estimates for credit losses and valuation, despite improved reported profitability."
+}

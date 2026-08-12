@@ -89,8 +89,14 @@ def parse_args() -> argparse.Namespace:
         help="Zeilen ohne total_assets droppen (sinnvoll nach --financials-Merge)",
     )
     p.add_argument("--mode", choices=["financial", "combined", "ensemble"], default="financial")
-    p.add_argument("--llm", choices=["mock", "bank"], default=None,
+    p.add_argument("--llm", choices=["mock", "bank", "lmstudio", "openai", "chatgpt"], default=None,
                    help="Überschreibt SECPD_LLM_MODE (Default: ENV bzw. mock)")
+    p.add_argument(
+        "--llm-refresh",
+        action="store_true",
+        help="Textfeatures neu via LLM bewerten (Cache überschreiben); "
+             "Default: vorhandene Cache-Treffer nutzen",
+    )
     p.add_argument("--out", default="models", help="Ausgabeverzeichnis für .joblib-Bundles")
     p.add_argument("--label-col", default=None)
     p.add_argument("--id-col", default=None)
@@ -200,7 +206,11 @@ def main() -> int:
         if cols.text_col is None:
             logger.error("Modus %r benötigt eine Textspalte (--text-col).", args.mode)
             return 2
-        client = get_llm_client(args.llm)
+        client = get_llm_client(args.llm, cached=True, force_refresh=bool(args.llm_refresh))
+        if args.llm_refresh:
+            logger.info("LLM: Force-Refresh aktiv — Cache wird überschrieben (%s)", client.name)
+        else:
+            logger.info("LLM: Cache bevorzugt (%s)", client.name)
         text_feats = extract_text_features(
             df,
             client=client,

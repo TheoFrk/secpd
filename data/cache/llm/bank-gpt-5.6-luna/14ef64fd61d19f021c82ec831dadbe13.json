@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "not limited to",
+    "management’s judgment",
+    "potential material weaknesses"
+  ],
+  "risk_summary": "The excerpt presents substantial credit and operating risk, including 81% customer concentration, significant working-capital needs, reliance on additional financing, covenant-default exposure, accounting-control weaknesses, and a leveraged acquisition. Disclosure is detailed in places but relies heavily on broad forward-looking risk boilerplate and subjective inventory-reserve assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to accurately predict",
+    "number of uncertainties",
+    "we believe",
+    "could materially affect",
+    "limited disruption"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, with clear revenue comparisons and operational context. Risk tone is cautiously positive, emphasizing resilient operations, liquidity, and limited COVID-19 impact while acknowledging substantial uncertainty around the pandemic and potential effects on future results. Some promotional and boilerplate language, along with forward-looking qualifiers, reduces precision in the risk discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown factors",
+    "material and adverse",
+    "subject to limitations and further adjustment",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is heavily technical and legally qualified, with extensive transaction and financing detail but limited operating-performance context in the provided section. Cautionary language highlights potentially material adverse variability, while the revolving-credit dependence, debt refinancing, cash overdraft, and working-capital cash uses indicate liquidity and leverage risks."
+}

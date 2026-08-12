@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "nearly all our regions",
+    "demand remains solid",
+    "challenging economic conditions",
+    "we believe",
+    "modest declines"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating outlook supported by quantified revenue, EPS, currency, acquisition, and regional disclosures. Risk factors include economic weakness in Continental Europe, foreign-exchange exposure without derivatives, client spending sensitivity, seasonality, and modest declines in certain sectors. Some qualitative assertions and repeated boilerplate temper the otherwise detailed disclosure."
+}

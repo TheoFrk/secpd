@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to periodic change",
+    "few exceptions",
+    "whenever appropriate",
+    "appropriately mitigated",
+    "unallocated component to cover uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified portfolio, underwriting, interest-rate, and reserve information, but relies heavily on standard risk-factor language and broad economic-condition caveats. Concentration in commercial real estate and construction lending, borrower performance risk, collateral-value sensitivity, and policy exceptions represent meaningful credit risks. Overall tone is controlled and mitigation-oriented, though the disclosure does not quantify stress losses, criticized assets, or reserve adequacy in the excerpt."
+}

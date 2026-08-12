@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently uncertain and outside our control",
+    "may differ, possibly materially",
+    "significant judgment is required",
+    "reasonably possible aggregate loss"
+  ],
+  "risk_summary": "The excerpt presents strong reported earnings, capital ratios, liquidity, and detailed year-over-year metrics, producing a generally positive but qualified tone. Risk disclosure relies substantially on standard forward-looking and legal-contingency language, including potentially material deviations and uncertainty around litigation estimates. The text is technically dense and partially truncated, limiting assessment of the full risk profile."
+}

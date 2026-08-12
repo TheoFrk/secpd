@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "approximately",
+    "known trends and uncertainties",
+    "guidance excludes spinoff impacts",
+    "special items"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed segment results, forecasts, margins, restructuring savings, and asbestos-related costs. Risk is moderate due to declining defense programs, asbestos liabilities, restructuring execution, and uncertainty surrounding the announced spinoff, although the overall tone remains cautiously positive and recovery-oriented."
+}

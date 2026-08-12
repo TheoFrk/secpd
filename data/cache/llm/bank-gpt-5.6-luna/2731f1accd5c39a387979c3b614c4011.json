@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "may well outweigh",
+    "not likely to be significant",
+    "increasingly difficult to predict",
+    "subjective judgment"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but relies on forecasts and conditional language regarding defense budgets, OCO funding, international demand, and pension assumptions. Key risks include high dependence on government customers, uncertain appropriations, geopolitical and economic volatility, and sensitivity to actuarial assumptions."
+}

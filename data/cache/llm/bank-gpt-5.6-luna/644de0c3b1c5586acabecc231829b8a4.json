@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "expected to",
+    "we believe",
+    "estimates of taxable income",
+    "forecast of future earnings"
+  ],
+  "risk_summary": "The excerpt is generally confident and growth-oriented, supported by substantial operational and financial quantification. Risk disclosure is partly boilerplate and relies on forecasts, estimates, and broad pandemic-related references, with limited detail on downside scenarios. Key risks include COVID-19 operating impacts, tax valuation allowances, acquisition funding, and execution of the planned spin-off."
+}

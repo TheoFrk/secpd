@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "many factors",
+    "not within our control",
+    "may differ materially",
+    "subject to judgment"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and boilerplate, providing extensive business, segment, acquisition, joint venture, and accounting-policy detail but limited quantified discussion of current financial risks. Key exposures include customer and industry cyclicality, concentration among a small number of customers, project execution, joint ventures, tax estimates, impairment assumptions, and underfunded multiemployer plans. The tone is broadly neutral, with standard cautionary language rather than crisis indicators."
+}

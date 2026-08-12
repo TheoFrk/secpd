@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "not guarantees of future performance",
+    "does not intend to update",
+    "expected to provide benefits"
+  ],
+  "risk_summary": "The excerpt is generally optimistic and strategy-focused, with substantial quantified disclosure on acquisitions, synergies, sales mix, and segment performance. Risk is partly softened by extensive forward-looking-statement disclaimers and reliance on projected synergies and earnings benefits, while the excerpt’s truncation limits assessment of adverse developments."
+}

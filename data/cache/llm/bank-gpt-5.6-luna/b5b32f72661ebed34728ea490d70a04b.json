@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot estimate ultimate impact",
+    "believe",
+    "should not be taken as indicative",
+    "non-GAAP performance measures",
+    "case-by-case rent relief"
+  ],
+  "risk_summary": "The disclosure identifies material COVID-19-driven risks, including tenant closures, rent deferrals, increased receivables, weaker leasing activity, and expected adverse effects on 2021 results. It provides some useful quantification, including portfolio size, deferred capital expenditures, dividend suspension, and debt issuance, but relies on uncertainty language and partially truncated information regarding ultimate liquidity and operating impacts. The tone is cautious and materially negative, though mitigants such as grocery exposure and financing actions are emphasized."
+}

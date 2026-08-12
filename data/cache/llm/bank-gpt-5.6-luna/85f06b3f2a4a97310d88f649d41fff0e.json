@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "beyond our ability to control or predict",
+    "unforeseen cost overruns",
+    "expected completion date"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and investment data, but is preceded by extensive boilerplate disclaimers and relies on uncertain projections for major LNG expansion. Key risks include cost overruns, construction delays, substantial additional capital requirements, supplier dependence, and declining net income despite revenue growth."
+}

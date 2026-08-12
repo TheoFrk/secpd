@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "including but not limited to",
+    "may differ materially",
+    "undertakes no obligation to update"
+  ],
+  "risk_summary": "The excerpt is dominated by lengthy safe-h harbor, transaction-related, and regulatory risk disclosures with extensive conditional language and limited direct quantification of downside exposure. Reported European sales growth is quantified, but pricing pressure, government-mandated reductions, competition, integration uncertainty, regulatory approvals, and execution risks create a moderately adverse risk tone."
+}

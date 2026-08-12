@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to a wide range of sensitivities",
+    "could cause a charge for excess and/or obsolete inventory",
+    "no assurances of disruptions, delays and/or negative business impacts",
+    "expected to continue in the foreseeable future",
+    "may fluctuate significantly on a day-to-day basis"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes quantified savings, costs, acquisition contributions, and regional growth, but relies on standard forward-looking qualifiers and broad assumptions. Key risks include narrow margins, inventory obsolescence, vendor dependence, working-capital and debt volatility, restructuring execution, and potential SAP deployment disruptions."
+}

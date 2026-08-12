@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict when or how resolved",
+    "unable to estimate amount",
+    "could materially impact results",
+    "significant level of uncertainty",
+    "non-GAAP exclusions"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed operating, liquidity, acquisition, and currency information, but it discloses meaningful pressure from declining organic revenue, cash depletion, and dependence on large transactions. The China FCPA investigation presents potentially material unquantified liabilities and collateral business effects, while optimistic 2014 targets depend on uncertain economic recovery, cost controls, and transaction execution."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-routine expenses",
+    "excluding non-routine and restructuring",
+    "unfavorable customer mix",
+    "impairment triggering events",
+    "cost reduction initiatives"
+  ],
+  "risk_summary": "The excerpt presents materially adverse performance, including increased operating losses, $217.5 million of goodwill impairments, declining gross margins, restructuring charges, supply-chain delays, and higher interest expense from additional debt. Although many impacts are quantified, repeated exclusions of non-routine and restructuring costs may obscure recurring operating weakness, and the excerpt is structurally incomplete and duplicated."
+}

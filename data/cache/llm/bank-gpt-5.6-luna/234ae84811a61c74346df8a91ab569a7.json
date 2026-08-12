@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.17,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "cannot guarantee future results",
+    "do not intend to update",
+    "subject to risks beyond control"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed operating, credit-quality, capital, and acquisition metrics. Risk tone is mildly negative because profitability, returns, mortgage banking income, and capital ratios declined materially, despite management emphasizing improved credit quality and strategic expansion. Standard forward-looking disclaimers and lengthy banking jargon modestly reduce transparency but do not appear unusually evasive."
+}

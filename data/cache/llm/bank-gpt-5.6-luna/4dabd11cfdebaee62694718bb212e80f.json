@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "immaterial errors",
+    "substantial doubt about going concern",
+    "mitigating effect of management’s plans",
+    "anticipated to be filed",
+    "n/m — Not Meaningful"
+  ],
+  "risk_summary": "The excerpt discloses prior-period accounting errors, extensive acquisition commitments, substantial anticipated funding needs, and formal going-concern evaluation requirements. Liquidity appears constrained by debt maturities, restricted cash, transaction fees, and required operational funding, while several plans remain conditional or pending approval. The tone is technically qualified and compliance-oriented rather than reassuring, with some boilerplate obscuring the severity and execution risk."
+}

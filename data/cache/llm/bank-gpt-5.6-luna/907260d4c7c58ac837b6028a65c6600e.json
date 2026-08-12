@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "oversupply conditions",
+    "non-GAAP financial measure",
+    "unpredictable and may not be recurring",
+    "partially mitigated by"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but emphasizes management’s positive execution narrative while acknowledging lower volumes, margin pressure, oversupply, inventory write-downs, currency effects, and working-capital demands. Results rely partly on nonrecurring gains, including litigation-related tax credits and exchange gains, which may reduce earnings quality. Forward-looking outcomes remain exposed to oversupply, crop variability, delayed shipments, customer demand, and foreign-exchange risk."
+}

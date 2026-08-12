@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "actual results may differ materially",
+    "based on current expectations",
+    "significant management judgment",
+    "unobservable inputs and inactive markets"
+  ],
+  "risk_summary": "The excerpt presents a generally confident performance and capital outlook, supported by substantial quantitative disclosures on earnings, capital ratios, revenue expectations, expenses, and repurchases. Risk transparency is diluted by extensive forward-looking-statement disclaimers, broad qualifying language, and reliance on management judgment for fair-value estimates. Exposure to interest-rate pressure, market liquidity, regulatory methodology changes, and subjective Level 3 valuations remains material."
+}

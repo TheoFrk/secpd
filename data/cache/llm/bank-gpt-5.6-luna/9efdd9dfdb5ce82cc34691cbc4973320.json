@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "excluding impact of acquisitions",
+    "adjusted net earnings",
+    "difficult to predict",
+    "may be materially different",
+    "not able to reasonably estimate"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally confident, highlighting strong sales growth, liquidity, investment-grade ratings, and acquisition activity. Risk disclosure is present regarding product recalls, uncertain liabilities, and future cash payments, but ultimate costs remain difficult to estimate and could materially affect financial results."
+}

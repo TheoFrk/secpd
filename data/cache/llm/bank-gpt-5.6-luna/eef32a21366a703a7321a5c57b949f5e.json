@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to uncertainty",
+    "appropriate acquisitions and investments",
+    "significant judgment and projections may vary",
+    "non-GAAP free cash flow limitations",
+    "Level 3 unobservable inputs"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating and liquidity outlook, supported by quantified cash-flow, acquisition, and performance data. Risk disclosure is substantive but includes standard forward-looking language, non-GAAP measure limitations, contingent acquisition consideration, and substantial estimation uncertainty around asset impairments."
+}

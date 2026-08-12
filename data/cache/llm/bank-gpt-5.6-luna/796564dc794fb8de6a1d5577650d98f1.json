@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to risks and uncertainties",
+    "expected to increase",
+    "additional clinical data may demonstrate",
+    "economic stagnation"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified revenue, product-mix, geographic, contract-volume, and market-share information, but relies on standard forward-looking disclaimers and some conditional projections. Key risks include declining Bausch & Lomb volumes, European weakness, regulatory and clinical uncertainty, a prior labeling-related product withdrawal, and ongoing indemnification arbitration."
+}

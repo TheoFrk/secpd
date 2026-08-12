@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "without limitation",
+    "no assurance",
+    "broad risk-factor enumeration",
+    "non-GAAP adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt relies heavily on standardized forward-looking disclaimers and an extensive, largely unquantified list of potential risks, limiting visibility into probability and magnitude. Despite confident promotional language, the disclosed cost restructuring, capital expenditure reductions, halted Kemerton construction, and care-and-maintenance status indicate meaningful operational and financial pressure. The adjusted EBITDA discussion introduces additional complexity through non-GAAP adjustments and covenant-aligned presentation."
+}

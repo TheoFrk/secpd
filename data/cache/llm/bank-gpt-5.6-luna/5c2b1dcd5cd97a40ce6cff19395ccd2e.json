@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "boilerplate cross-reference",
+    "should be read in conjunction",
+    "repeated section title",
+    "page-range deferral"
+  ],
+  "risk_summary": "This is a boilerplate cross-reference directing readers to the MD&A and financial statements rather than providing substantive information. It contains no direct risk disclosures or quantified financial analysis."
+}

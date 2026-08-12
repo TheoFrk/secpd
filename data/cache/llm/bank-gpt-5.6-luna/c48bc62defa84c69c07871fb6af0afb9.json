@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.38,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to pages 39 through 72",
+    "no substantive discussion",
+    "formal boilerplate language"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and delegates the entire MD&A discussion to another section. Assessment of underlying risks is therefore not possible from this text alone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "possibly materially",
+    "no obligation to update",
+    "non-GAAP exclusions",
+    "interim estimates based on projections"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and legally protective, emphasizing uncertainty and the possibility of materially different results without providing scenario-specific quantification. Non-GAAP measures and multiple exclusions may reduce comparability with GAAP results, although definitions and reconciliation references provide meaningful transparency."
+}

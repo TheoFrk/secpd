@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "largely due to",
+    "actual results may differ",
+    "depending on factors",
+    "high-level summary"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear year-over-year revenue, operating income, tax, impairment, and cost figures. Risk tone is mixed but modestly positive due to improved 2011 performance, offset by prior impairments, weak pricing, fuel-cost exposure, uncertain cost savings, and incomplete reinstatement of retirement contributions. The long, technical presentation and repeated causal qualifiers modestly limit clarity."
+}

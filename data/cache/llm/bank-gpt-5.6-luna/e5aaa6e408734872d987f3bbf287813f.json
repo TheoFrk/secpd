@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "expects additional capital from strategic investment and divestment",
+    "aggregate intrinsic value exceeds current public market capitalization",
+    "potential growth opportunities",
+    "large addressable market opportunity"
+  ],
+  "risk_summary": "The excerpt contains significant liquidity and going-concern risk, including only approximately $1.2 million of cash and reliance on unimplemented strategic investments or divestitures to strengthen finances. Promotional descriptions of market opportunity and subsidiary value are largely unquantified and may obscure execution, funding, and commercialization risks. The disclosure is technically detailed on accounting methodology but incomplete in the provided section regarding specific funding needs, cash burn, maturities, and mitigation outcomes."
+}

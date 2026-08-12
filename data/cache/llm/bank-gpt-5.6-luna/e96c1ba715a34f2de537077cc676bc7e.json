@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "estimates, assumptions, and judgments",
+    "could materially impact",
+    "when available",
+    "believed to be adequate",
+    "unable to fully assess impact"
+  ],
+  "risk_summary": "The excerpt is heavily caveated and relies on subjective valuation, impairment, allowance, and regulatory assumptions without providing quantitative sensitivity analyses or specific exposure amounts. It signals meaningful earnings and capital volatility from fair-value changes, credit losses, collateral values, and evolving Dodd-Frank requirements, but does not indicate an immediate crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict with certainty",
+    "ongoing negotiations",
+    "no agreement or timetable",
+    "actual results may be materially different",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed revenue, profitability, backlog, and receivable figures. Material risks remain around the $50.8 million Libyan receivable, suspended contracts, uncertain recovery timing, and subjective percentage-of-completion and tax estimates. Overall tone is cautiously optimistic, supported by improving earnings and backlog, but tempered by geopolitical and estimation risks."
+}

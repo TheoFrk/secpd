@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "we believe well positioned",
+    "non-U.S. GAAP measures",
+    "adjusted to exclude multiple items"
+  ],
+  "risk_summary": "The excerpt combines extensive product and capability claims with standard forward-looking disclaimers and acknowledges meaningful exposure to demand volatility, pricing pressure, customer concentration, capacity under-utilization, supply-chain dependencies, and COVID-19-related uncertainty. Risk disclosure is generally recognizable but largely qualitative, with limited quantified impact in the provided text. The presentation of Adjusted EBITDA and numerous exclusions may make underlying performance more difficult to assess against GAAP results."
+}

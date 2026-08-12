@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subject to a degree of uncertainty",
+    "primarily due to",
+    "not fully offset",
+    "very strong financial condition",
+    "amounts subject to estimate"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with strong operating cash flow, liquidity ratios, and positive earnings trends. Risk factors include margin pressure from customer price reductions, weaker-than-expected sales and fixed-cost absorption, substantial cash balance declines, and reliance on tax benefits for earnings growth. The overall tone is cautiously positive rather than crisis-like."
+}

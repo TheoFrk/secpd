@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "affected primarily by",
+    "aimed at improving",
+    "steps to mitigate",
+    "present investment plan",
+    "for additional details"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, particularly regarding capital spending, environmental reductions, financing capacity, and covenant compliance. Its tone is broadly confident and strategic, but it acknowledges regulatory, inflationary, supply-chain, environmental, and substantial capital-investment risks. The truncated ending limits assessment of the full liquidity and cash-flow discussion."
+}

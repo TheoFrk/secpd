@@ -166,25 +166,3 @@ def build_financials_panel(
     panel = panel.drop_duplicates(subset=["cik", "fyear"], keep="first").reset_index(drop=True)
     logger.info("Finanz-Panel: %d Firm-Years, %d CIKs", len(panel), panel["cik"].nunique())
     return panel
-
-
-def download_raw_filings(
-    identifiers: Iterable[str],
-    *,
-    form: str = "10-K",
-    dest: str = "data/raw/edgar",
-    company: str = "SEC-PD Praktikum",
-    email: str = "",
-    limit: int | None = 5,
-) -> None:
-    """Optionaler Roh-Download ganzer Filings via ``sec-edgar-downloader``.
-
-    Lazy-Import, damit das Paket auf dem air-gapped Server auch ohne dieses
-    (Online-)Extra importierbar bleibt.
-    """
-    from sec_edgar_downloader import Downloader  # noqa: PLC0415 — bewusst lazy
-
-    dl = Downloader(company, email or "unknown@example.com", dest)
-    for ident in identifiers:
-        dl.get(form, ident, limit=limit, download_details=False)
-        logger.info("Heruntergeladen: %s %s", form, ident)

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict accurately",
+    "outcome is uncertain",
+    "numerous uncertainties",
+    "significant judgment",
+    "as appropriate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail, including a 24% revenue decline, 14% reductions in representatives and units sold, and COVID-19-related operational disruption. Risk tone is moderately negative because of continuing pandemic uncertainty, cyber disruption, integration demands, and reliance on highly judgmental goodwill impairment assumptions, although recovery actions and operational normalization are noted."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment is involved",
+    "we believe",
+    "significant percentage",
+    "do not expect revenue ... to be significant",
+    "hypothetical renewal value"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative, supported by quantified operating cash flow, TCV, and TLCV metrics, but emphasizes favorable non-GAAP or operational measures during a licensing transition. Risk visibility is reduced by extensive marketing language, estimates, and reliance on assumptions regarding renewals, collections, and revenue recognition. The excerpt is structurally complex and truncated, limiting assessment of underlying financial risks."
+}

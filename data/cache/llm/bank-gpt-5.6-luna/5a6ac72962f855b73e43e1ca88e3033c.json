@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "certain data security incidents",
+    "subject to certain adjustments",
+    "among other things",
+    "customary closing conditions",
+    "we have not been able to identify the intrusion"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified and legally specific disclosure regarding the Verizon transaction, consideration reduction, retained liabilities, and two major security incidents. Risk is elevated due to breaches affecting more than 1.5 billion accounts, unresolved intrusion analysis, potential post-closing liabilities, and transaction execution conditions, although the tone is largely factual rather than crisis-oriented."
+}

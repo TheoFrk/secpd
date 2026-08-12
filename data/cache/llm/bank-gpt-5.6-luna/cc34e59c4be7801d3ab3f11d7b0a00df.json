@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "solid growth",
+    "difficult business environment",
+    "anticipated pricing compression",
+    "conditional downgrade risk"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, with clear revenue, margin, cash flow, pension, debt, and liquidity figures. Risk tone is cautiously positive, but it acknowledges European weakness, lower investment income, pricing compression, pension funding requirements, and sensitivity to credit-rating downgrades. Extensive emphasis on adjusted non-GAAP metrics and recurring positive descriptors somewhat softens the presentation of underlying pressures."
+}

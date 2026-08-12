@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "generally result in",
+    "expected to be temporary",
+    "could differ materially",
+    "high degree of judgment and complexity"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides clear year-over-year explanations, but relies on recurring qualifiers and estimates around loan losses, FDIC indemnification, and acquired-loan valuations. Risk indicators include elevated non-covered nonperforming assets, declining deposits and loans, dependence on FDIC loss-sharing agreements, and material valuation uncertainty, although profitability and covered-asset metrics improved."
+}

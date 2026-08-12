@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "not obligated to provide working capital loans",
+    "substantial doubt about going concern",
+    "reduced reporting requirements"
+  ],
+  "risk_summary": "The company is a pre-revenue blank check entity with no target selected and substantial doubt about its ability to continue as a going concern through the scheduled liquidation date. The disclosure is heavily boilerplate and legally qualified, although it provides useful quantified liquidity, income, and funding information. Key risks include failure to complete a business combination, potential liquidation, warrant-liability volatility, and reduced reporting comparability under the JOBS Act."
+}

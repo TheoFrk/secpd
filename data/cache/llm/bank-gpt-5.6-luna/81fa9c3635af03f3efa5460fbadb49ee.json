@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "could cause actual results to differ materially",
+    "all portfolios analyzed",
+    "text omitted after headings"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking-disclaimer language and several incomplete or omitted sections, limiting transparency. It provides useful quantified details on capital needs, rate requests, storage costs, and Carty cost overruns, but highlights regulatory uncertainty, procurement dependence, and unrecovered costs. Overall tone is strategically confident but moderated by significant legal, regulatory, execution, and cost risks."
+}

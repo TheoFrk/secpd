@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance of achievement",
+    "materially differ",
+    "other risks and uncertainties",
+    "not possible to predict all factors",
+    "undertakes no obligation to update"
+  ],
+  "risk_summary": "The excerpt is dominated by standard forward-looking-statement disclaimers and an extensive, largely non-quantified catalog of potential risks, including wildfire liability, regulatory uncertainty, capital-market access, operational disruptions, and cybersecurity. Some regulatory and rate-case assumptions are clearly quantified, including capital structure, returns, cost of capital, rate base, and revenue requirement changes. Overall, the tone is risk-aware and cautious rather than crisis-like."
+}

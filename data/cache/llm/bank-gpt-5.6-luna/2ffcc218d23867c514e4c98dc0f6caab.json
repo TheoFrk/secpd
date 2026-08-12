@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "could adversely affect",
+    "among others",
+    "may not be able to",
+    "refer to Risk Factors"
+  ],
+  "risk_summary": "The excerpt presents strong revenue and cash-flow growth with substantial quantitative detail, producing a generally confident tone. However, it relies on recurring belief-based and conditional language around consumer demand, growth execution, supply-chain disruption, commodity costs, and future liquidity needs. The truncated discussion limits assessment of the complete operating and liquidity risk picture."
+}

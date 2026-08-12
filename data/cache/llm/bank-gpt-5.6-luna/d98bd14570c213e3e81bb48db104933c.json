@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad range of products",
+    "rapidly evolving markets",
+    "profoundly change the trajectory",
+    "primarily driven by",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively detailed, with clear sales, segment, geographic, currency, acquisition, and expense disclosures. The tone is generally confident and growth-oriented, though it notes competitive pressure, product share declines, currency headwinds, divestitures, litigation expense, and higher debt. Promotional corporate-purpose language adds some boilerplate but does not materially obscure the financial information."
+}

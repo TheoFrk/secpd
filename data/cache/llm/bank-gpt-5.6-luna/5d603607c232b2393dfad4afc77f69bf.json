@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "numerous factors, including",
+    "likely to remain highly volatile",
+    "we believe ... will be sufficient",
+    "various pending or threatened claims"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on backlog, bookings, debt, liquidity, commodity prices, and borrowing capacity, but relies heavily on standard forward-looking disclaimers and broad qualitative drivers. Risk exposure is material due to commodity-price volatility, cyclical customer spending, geopolitical and regulatory uncertainty, and pending claims, although liquidity and debt presentation convey a generally stable tone."
+}

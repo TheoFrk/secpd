@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including, but not limited to",
+    "Non-GAAP measures should not be considered",
+    "restatement adjustments",
+    "declining residual values"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and financing information, but is dense and includes extensive boilerplate disclaimers and cross-references. Key credit risks include a financial restatement, declining vehicle residual values, higher depreciation expense, substantial liquidity needs, and dependence on fleet utilization and pricing. The overall tone is operationally neutral but modestly negative because of the restatement and unfavorable depreciation adjustments."
+}

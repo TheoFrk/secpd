@@ -22,6 +22,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "src"))
 PY = sys.executable
+SECRETS_FILE = ROOT / ".secpd.env"
 
 # --------------------------------------------------------------------------- #
 # Abhängigkeiten / Umgebung
@@ -55,6 +56,7 @@ from secpd.data.events import (  # noqa: E402
     build_events_table,
     load_events,
 )
+from secpd.llm.bank import DEFAULT_OPENAI_ENDPOINT, DEFAULT_OPENAI_MODEL  # noqa: E402
 from secpd.data.zenodo import resolve_columns  # noqa: E402
 from secpd.features.financial import add_financial_features  # noqa: E402
 from secpd.features.textual import extract_text_features, text_feature_names  # noqa: E402
@@ -84,9 +86,41 @@ SUBMISSIONS_CACHE = ROOT / "data" / "raw" / "edgar_submissions"
 MODEL_DIR = ROOT / "models"
 SCORES_DIR = ROOT / "data" / "processed"
 
-# Legacy-Pfade (nur noch Fallback / Migration)
-MODEL_COMBINED = MODEL_DIR / "combined_model.joblib"
-MODEL_FINANCIAL = MODEL_DIR / "financial_model.joblib"
+
+def load_secrets_env() -> None:
+    """Lädt lokale Secrets aus ``.secpd.env`` in os.environ (ohne Überschreiben)."""
+    if not SECRETS_FILE.exists():
+        return
+    for raw in SECRETS_FILE.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        key, val = key.strip(), val.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = val
+
+
+def save_secrets_env(updates: dict[str, str]) -> None:
+    """Schreibt/merged Key-Value in ``.secpd.env`` (gitignored)."""
+    existing: dict[str, str] = {}
+    if SECRETS_FILE.exists():
+        for raw in SECRETS_FILE.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            k, _, v = line.partition("=")
+            existing[k.strip()] = v.strip()
+    existing.update({k: str(v) for k, v in updates.items() if v})
+    lines = ["# Lokale SEC-PD Secrets — nicht committen"]
+    lines.extend(f"{k}={v}" for k, v in sorted(existing.items()))
+    lines.append("")
+    SECRETS_FILE.write_text("\n".join(lines), encoding="utf-8")
+    try:
+        SECRETS_FILE.chmod(0o600)
+    except OSError:
+        pass
+
 
 logging.disable(logging.WARNING)
 
@@ -1650,8 +1684,6 @@ def show_settings_status() -> None:
         ("8-K Events", EVENTS),
         ("Submissions-Cache", SUBMISSIONS_CACHE),
         ("Models-Dir", MODEL_DIR),
-        ("8-K Events", EVENTS),
-        ("Submissions-Cache", SUBMISSIONS_CACHE),
     ]
     for label, path in rows:
         print(f"  {label:<20} {_file_status(path)}")
@@ -1692,21 +1724,103 @@ def settings_llm() -> None:
     banner()
     print(f"  {C.BOLD}LLM anbinden{C.RESET}")
     hr()
+    key_set = (
+        "gesetzt"
+        if (os.environ.get("SECPD_LLM_API_KEY") or os.environ.get("OPENAI_API_KEY"))
+        else "nicht gesetzt"
+    )
     print(f"  Aktuell: Modus={C.CYAN}{os.environ.get('SECPD_LLM_MODE', 'mock')}{C.RESET}")
     print(f"           Endpoint={os.environ.get('SECPD_LLM_ENDPOINT', '') or '—'}")
     print(f"           Modell={os.environ.get('SECPD_LLM_MODEL', 'internal-default')}")
+    print(f"           API-Key={key_set}")
+    print(f"  {C.DIM}Secrets: {SECRETS_FILE.name} (lokal, nicht committen){C.RESET}")
     print()
     print(f"  {C.CYAN}1{C.RESET}  Mock (offline-Heuristik)")
-    print(f"  {C.CYAN}2{C.RESET}  Bank-Gateway (OpenAI-kompatibel)")
+    print(f"  {C.CYAN}2{C.RESET}  OpenAI / ChatGPT — schnell (Default: {DEFAULT_OPENAI_MODEL})")
+    print(f"  {C.CYAN}3{C.RESET}  LM Studio (lokal) — 172.16.3.164:1234")
+    print(f"  {C.CYAN}4{C.RESET}  Bank-Gateway (OpenAI-kompatibel)")
+    print(f"  {C.CYAN}5{C.RESET}  Ping / Test-Call")
     print(f"  {C.CYAN}0{C.RESET}  Zurück")
     print()
     choice = ask("Auswahl", "0")
     if choice == "1":
         os.environ["SECPD_LLM_MODE"] = "mock"
+        save_secrets_env({"SECPD_LLM_MODE": "mock"})
         print(f"  {C.GREEN}LLM-Modus = mock{C.RESET}")
         pause()
         return
-    if choice != "2":
+    if choice == "5":
+        mode = os.environ.get("SECPD_LLM_MODE", "mock")
+        if mode in {"openai", "chatgpt"}:
+            ep = os.environ.get("SECPD_LLM_ENDPOINT") or DEFAULT_OPENAI_ENDPOINT
+            model = os.environ.get("SECPD_LLM_MODEL") or DEFAULT_OPENAI_MODEL
+        else:
+            ep = os.environ.get("SECPD_LLM_ENDPOINT") or "http://172.16.3.164:1234"
+            model = os.environ.get("SECPD_LLM_MODEL") or "auto"
+        argv = [
+            PY, str(ROOT / "scripts" / "ping_llm.py"),
+            "--endpoint", ep, "--model", model, "--analyze",
+            "--timeout", os.environ.get("SECPD_LLM_TIMEOUT", "120"),
+        ]
+        code = _run_script(argv, title="ping_llm.py")
+        print(f"  {C.GREEN if code == 0 else C.YELLOW}"
+              f"{'OK' if code == 0 else 'Fehlgeschlagen'}{C.RESET}")
+        pause()
+        return
+    if choice == "2":
+        os.environ["SECPD_LLM_MODE"] = "openai"
+        os.environ["SECPD_LLM_ENDPOINT"] = DEFAULT_OPENAI_ENDPOINT
+        cur_model = os.environ.get("SECPD_LLM_MODEL", "")
+        default_model = cur_model if cur_model.startswith("gpt-") else DEFAULT_OPENAI_MODEL
+        model = ask("OpenAI-Modell", default_model)
+        os.environ["SECPD_LLM_MODEL"] = model or DEFAULT_OPENAI_MODEL
+        os.environ["SECPD_LLM_JSON_MODE"] = "1"
+        os.environ["SECPD_LLM_TIMEOUT"] = os.environ.get("SECPD_LLM_TIMEOUT") or "120"
+        key = ask("OpenAI API-Key (sk-…, leer = behalten)", "")
+        if key:
+            os.environ["SECPD_LLM_API_KEY"] = key
+        if not (os.environ.get("SECPD_LLM_API_KEY") or os.environ.get("OPENAI_API_KEY")):
+            print(f"  {C.RED}Kein API-Key — bitte eingeben.{C.RESET}")
+            pause()
+            return
+        save_secrets_env(
+            {
+                "SECPD_LLM_MODE": "openai",
+                "SECPD_LLM_ENDPOINT": DEFAULT_OPENAI_ENDPOINT,
+                "SECPD_LLM_MODEL": os.environ["SECPD_LLM_MODEL"],
+                "SECPD_LLM_API_KEY": os.environ.get("SECPD_LLM_API_KEY")
+                or os.environ.get("OPENAI_API_KEY", ""),
+                "SECPD_LLM_JSON_MODE": "1",
+                "SECPD_LLM_TIMEOUT": os.environ["SECPD_LLM_TIMEOUT"],
+            }
+        )
+        print(f"  {C.GREEN}OpenAI gespeichert ({os.environ['SECPD_LLM_MODEL']}).{C.RESET}")
+        pause()
+        return
+    if choice == "3":
+        os.environ["SECPD_LLM_MODE"] = "lmstudio"
+        endpoint = ask(
+            "LM-Studio-Host/URL",
+            "http://172.16.3.164:1234",
+        )
+        os.environ["SECPD_LLM_ENDPOINT"] = endpoint
+        model = ask("Modell (auto = erstes Chat-Modell)", "auto")
+        os.environ["SECPD_LLM_MODEL"] = model or "auto"
+        os.environ["SECPD_LLM_API_KEY"] = os.environ.get("SECPD_LLM_API_KEY") or "lm-studio"
+        os.environ["SECPD_LLM_JSON_MODE"] = "0"
+        save_secrets_env(
+            {
+                "SECPD_LLM_MODE": "lmstudio",
+                "SECPD_LLM_ENDPOINT": os.environ["SECPD_LLM_ENDPOINT"],
+                "SECPD_LLM_MODEL": os.environ["SECPD_LLM_MODEL"],
+                "SECPD_LLM_API_KEY": os.environ["SECPD_LLM_API_KEY"],
+                "SECPD_LLM_JSON_MODE": "0",
+            }
+        )
+        print(f"  {C.GREEN}LM Studio gesetzt.{C.RESET}")
+        pause()
+        return
+    if choice != "4":
         return
 
     os.environ["SECPD_LLM_MODE"] = "bank"
@@ -1719,13 +1833,15 @@ def settings_llm() -> None:
     key = ask("API-Key (leer = behalten)", "")
     if key:
         os.environ["SECPD_LLM_API_KEY"] = key
-    print()
-    print(f"  {C.GREEN}Gesetzt für diese Session:{C.RESET}")
-    print(f"    SECPD_LLM_MODE={os.environ['SECPD_LLM_MODE']}")
-    print(f"    SECPD_LLM_ENDPOINT={os.environ.get('SECPD_LLM_ENDPOINT', '')}")
-    print(f"    SECPD_LLM_MODEL={os.environ.get('SECPD_LLM_MODEL', '')}")
-    print(f"    SECPD_LLM_API_KEY={'***' if os.environ.get('SECPD_LLM_API_KEY') else '(leer)'}")
-    print(f"  {C.DIM}Gilt nur für diesen Prozess (export in der Shell bleibt separat).{C.RESET}")
+    payload = {
+        "SECPD_LLM_MODE": "bank",
+        "SECPD_LLM_ENDPOINT": os.environ.get("SECPD_LLM_ENDPOINT", ""),
+        "SECPD_LLM_MODEL": os.environ.get("SECPD_LLM_MODEL", ""),
+    }
+    if os.environ.get("SECPD_LLM_API_KEY"):
+        payload["SECPD_LLM_API_KEY"] = os.environ["SECPD_LLM_API_KEY"]
+    save_secrets_env(payload)
+    print(f"  {C.GREEN}Bank-Gateway gesetzt.{C.RESET}")
     pause()
 
 
@@ -1891,10 +2007,42 @@ def settings_train() -> None:
     mode = mode_map.get(ask("Modus", "2"), "combined")
 
     llm = os.environ.get("SECPD_LLM_MODE", "mock")
+    llm_refresh = False
     if mode in {"combined", "ensemble"}:
-        llm = ask("LLM (mock/bank)", llm)
-        if llm not in {"mock", "bank"}:
-            llm = "mock"
+        print()
+        print(f"  {C.BOLD}LLM für Textfeatures{C.RESET}")
+        print(f"  {C.CYAN}1{C.RESET}  mock")
+        print(f"  {C.CYAN}2{C.RESET}  openai / ChatGPT ({DEFAULT_OPENAI_MODEL})")
+        print(f"  {C.CYAN}3{C.RESET}  lmstudio")
+        print(f"  {C.CYAN}4{C.RESET}  bank")
+        pick = ask("Auswahl", "2" if llm in {"openai", "chatgpt"} else "1")
+        llm = {"1": "mock", "2": "openai", "3": "lmstudio", "4": "bank"}.get(pick, "openai")
+        if llm == "openai" and not (
+            os.environ.get("SECPD_LLM_API_KEY") or os.environ.get("OPENAI_API_KEY")
+        ):
+            print(f"  {C.YELLOW}Kein OpenAI-Key — bitte unter Einstellungen → LLM setzen.{C.RESET}")
+            key = ask("OpenAI API-Key jetzt eingeben (oder leer = abbrechen)", "")
+            if not key:
+                pause()
+                return
+            os.environ["SECPD_LLM_MODE"] = "openai"
+            os.environ["SECPD_LLM_API_KEY"] = key
+            os.environ["SECPD_LLM_ENDPOINT"] = DEFAULT_OPENAI_ENDPOINT
+            os.environ["SECPD_LLM_MODEL"] = DEFAULT_OPENAI_MODEL
+            save_secrets_env(
+                {
+                    "SECPD_LLM_MODE": "openai",
+                    "SECPD_LLM_API_KEY": key,
+                    "SECPD_LLM_ENDPOINT": DEFAULT_OPENAI_ENDPOINT,
+                    "SECPD_LLM_MODEL": DEFAULT_OPENAI_MODEL,
+                }
+            )
+        print()
+        print(f"  {C.BOLD}Textfeatures{C.RESET}")
+        print(f"  {C.CYAN}1{C.RESET}  Cache nutzen (schnell, nur Misses → LLM)")
+        print(f"  {C.CYAN}2{C.RESET}  Neu bewerten (--llm-refresh, überschreibt Cache)")
+        cache_pick = ask("Auswahl", "1")
+        llm_refresh = cache_pick == "2"
 
     calibrate = ask("Kalibrieren? (j/n)", "j").lower().startswith("j")
 
@@ -1933,6 +2081,8 @@ def settings_train() -> None:
         )
     if mode in {"combined", "ensemble"}:
         argv += ["--llm", llm]
+        if llm_refresh:
+            argv.append("--llm-refresh")
     if calibrate:
         argv.append("--calibrate")
 
@@ -2173,4 +2323,5 @@ def main_menu() -> None:
 
 
 if __name__ == "__main__":
+    load_secrets_env()
     main_menu()

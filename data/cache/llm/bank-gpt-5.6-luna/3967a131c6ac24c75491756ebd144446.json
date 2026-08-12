@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "known and unknown risks",
+    "primarily due to",
+    "could change in the future",
+    "customer ordering patterns"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, describing revenue, cash flow, tax benefits, segment performance, and capital spending. Risk tone is moderately positive, although results benefited from one-time tax and asset-sale items and remain exposed to OEM purchasing patterns, government funding, market fluctuations, and credit-market changes."
+}

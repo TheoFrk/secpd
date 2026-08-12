@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "partially offset",
+    "we believe",
+    "may differ from historical experience",
+    "more-likely-than-not",
+    "see additional information"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but reports materially weaker performance, including declining sales, negative operating margin, net losses, goodwill impairment, and a tax valuation allowance. Risk is concentrated in pressured discretionary consumer demand, Journeys underperformance, promotional activity, expense deleverage, and uncertain future returns and claims."
+}

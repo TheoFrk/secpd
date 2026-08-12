@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "favorable product pricing",
+    "solid financial position",
+    "relief from existing financial covenant"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear explanations for substantial declines in sales and operating profit, largely linked to COVID-19 and aerospace weakness. Credit risk is elevated by very low operating cash flow of $9 million against $5.075 billion of debt, significant leverage, and amended covenant terms providing temporary relief. Management uses moderately positive framing, but the underlying performance and liquidity indicators are materially adverse."
+}

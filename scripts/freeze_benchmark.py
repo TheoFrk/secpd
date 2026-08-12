@@ -73,7 +73,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--test-size", type=float, default=0.2)
     p.add_argument("--seed", type=int, default=42)
     p.add_argument("--n-boot", type=int, default=1_000)
-    p.add_argument("--llm", choices=["mock", "bank"], default="mock")
+    p.add_argument("--llm", choices=["mock", "bank", "lmstudio"], default="mock")
     p.add_argument("--max-chars", type=int, default=12_000)
     return p.parse_args()
 

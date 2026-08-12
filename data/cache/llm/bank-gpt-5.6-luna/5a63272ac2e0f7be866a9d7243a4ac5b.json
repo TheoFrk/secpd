@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expect to modestly improve",
+    "at this point in time",
+    "believe we will have access",
+    "subject to review",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, including inventory, supplier deposits, cash flow effects, purchase obligations, guarantees, and capital returns. It identifies meaningful supply-chain, margin, backlog, liquidity, and accounting-estimate risks, but uses optimistic forward-looking assumptions regarding supply availability, forecast achievement, and cost improvement. Overall tone is cautiously confident rather than crisis-like, with moderate reliance on management judgments and conditional language."
+}

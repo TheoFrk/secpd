@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.55,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "organic sales growth",
+    "primarily due to",
+    "partially offset",
+    "N.M. not meaningful"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent about sales, profit, currency, cost savings, and significant adjusting charges. Risk exposure includes foreign exchange volatility, pressured reported sales, higher expenses, and reliance on non-GAAP measures and offsetting adjustments, while the overall tone remains cautiously positive."
+}

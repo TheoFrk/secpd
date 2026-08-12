@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "primarily driven by",
+    "adjusted measures excluded",
+    "general corporate purposes",
+    "large acquisition-related adjustments"
+  ],
+  "risk_summary": "The excerpt is generally precise and strongly performance-oriented, with extensive quantified sales, earnings, cash flow, acquisition, and segment data. Risk is moderated by reliance on non-GAAP adjusted results, substantial acquisition spending and financing, and a large gap between reported and adjusted net income. Overall tone is confident, but the excerpt is dense and partially truncated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "expect continued decreases",
+    "do not expect to suffer any losses",
+    "could have a material adverse effect",
+    "subjective and/or complex judgments",
+    "temporarily suppressed"
+  ],
+  "risk_summary": "The disclosure is relatively quantified and provides useful sensitivity, liquidity, funding, and loan-sale details, but it highlights meaningful risks from high funding costs, commercial real estate exposure, wildfire-affected collateral, valuation assumptions, and a material multifamily loan-sale loss. Management uses moderately optimistic forward-looking language regarding profitability, funding costs, and liquidity, while outcomes remain dependent on interest rates, credit performance, and model assumptions."
+}

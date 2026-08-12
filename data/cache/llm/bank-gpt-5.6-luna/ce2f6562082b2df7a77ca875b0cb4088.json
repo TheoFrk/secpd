@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "adjusted operating margin exclusions",
+    "global economic headwinds",
+    "acquisition-driven growth",
+    "organic revenue growth was flat"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail and reconciliations, but presents performance favorably through extensive use of adjusted non-GAAP measures that exclude restructuring, pension, acquisition, and compliance costs. Key risks include flat organic growth, pricing pressure, weakening exposure units, pension funding obligations, foreign exchange sensitivity, and significant acquisition-related cash use."
+}

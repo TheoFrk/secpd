@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "subject to a variety of uncertainties",
+    "cannot assure that financing will be available",
+    "if at all",
+    "substantial doubt about going concern",
+    "in the best interest of the Company and its shareholders"
+  ],
+  "risk_summary": "The company has no meaningful revenue, escalating expenses, substantial losses, derivative-related financing costs, and an auditor-issued going-concern opinion. Continued operations depend on raising additional capital without any formal financing arrangements, creating significant liquidity and dilution risk."
+}

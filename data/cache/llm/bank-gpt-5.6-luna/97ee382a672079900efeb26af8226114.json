@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to uncertainty",
+    "known or unknown risks and uncertainties",
+    "we continue to evaluate",
+    "good operational, strategic, and/or synergistic fit",
+    "Index to Financial Statements repetition"
+  ],
+  "risk_summary": "The excerpt presents improving market conditions, quantified operating indicators, and an expansion-oriented strategy, producing a moderately positive risk tone. Key risks include commodity-price sensitivity, rapid demand declines, international execution, acquisition integration, and reliance on producer capital spending. Boilerplate forward-looking disclaimers and repeated navigation text reduce disclosure efficiency but do not appear strongly evasive."
+}

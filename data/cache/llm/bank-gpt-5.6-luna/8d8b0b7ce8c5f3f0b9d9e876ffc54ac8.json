@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "cannot predict",
+    "does not undertake to update",
+    "various risks and timing"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, showing revenue and profitability growth despite COVID-19, with clear segmentation and operating metrics. Risk exposure is acknowledged through commercial customer disruption, labor and supply-chain issues, acquisitions, international operations, litigation, cybersecurity, and pandemic uncertainty. The extensive standard disclaimer language somewhat dilutes the otherwise confident operating tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking information",
+    "various factors",
+    "pending execution of a formal agreement",
+    "inherently uncertain",
+    "historically have not been subject to seasonal variations"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantified transaction and ownership information, but contains boilerplate forward-looking language and an unresolved MOU affecting ownership of Shandong Media. Complexity is elevated by dense descriptions of VIE structures, contractual arrangements, and accounting terminology; the overall tone is neutral to mildly confident rather than crisis-like."
+}

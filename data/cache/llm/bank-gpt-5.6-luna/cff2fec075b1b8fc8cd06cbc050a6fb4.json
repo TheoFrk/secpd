@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot estimate impact with reasonable certainty",
+    "future developments outside our control",
+    "believe we can",
+    "other actions",
+    "Adjusted EBITDA exclusions"
+  ],
+  "risk_summary": "The excerpt reports strong 2021 revenue, earnings, pricing, and fleet-cost improvements, creating a generally confident tone. However, operational performance remains exposed to COVID-19 variants, travel restrictions, inflation, semiconductor-driven fleet constraints, and uncertain demand, with several risks described qualitatively rather than quantified. Extensive non-GAAP adjustments and dense legal/accounting disclosures may complicate comparability and risk assessment."
+}

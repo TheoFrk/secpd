@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "solid position to raise capital",
+    "exciting high-tech companies",
+    "projected revenues",
+    "without requiring additional funding"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides specific year-over-year financial figures, but it relies on optimistic forward-looking language and emphasizes projected growth despite only $2,950 in revenue and a $875,679 net loss. Liquidity is stated to support operations for approximately three quarters, while the business plan depends on additional private-placement financing. The accumulated deficit, minimal revenue base, investment write-off, and funding dependence indicate elevated execution and liquidity risk."
+}

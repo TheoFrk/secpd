@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "typically",
+    "slightly lower margins",
+    "non-GAAP adjustments",
+    "restatement and associated investigations"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial segment-level detail, but relies on recurring causal qualifiers and extensive non-GAAP reconciliations. Key risks include declining Computer Systems revenue, margin pressure, relatively fixed costs, and significant restatement-related costs, while staffing revenue growth provides partial offset."
+}

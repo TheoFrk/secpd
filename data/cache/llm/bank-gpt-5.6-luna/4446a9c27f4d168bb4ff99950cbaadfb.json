@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results may differ materially",
+    "future developments ... uncertain",
+    "potential impacts of COVID-19",
+    "managed presentation may not be comparable"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and identifies key deterioration drivers, including a sharp decline in net income, higher credit-loss provisions, legal reserves, COVID-19 uncertainty, and a cybersecurity incident. Risk disclosure is extensive but includes repetitive forward-looking disclaimers and caveats around uncertain impacts and non-GAAP managed segment reporting. Capital and credit metrics remained comparatively strong, tempering the overall negative tone."
+}

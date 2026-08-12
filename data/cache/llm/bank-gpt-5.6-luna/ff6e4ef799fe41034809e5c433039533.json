@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.02,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "cannot be reasonably estimated",
+    "could materially adversely affect",
+    "continue to monitor",
+    "non-cash items and adjustments"
+  ],
+  "risk_summary": "The excerpt combines promotional strategy language with extensive boilerplate COVID-19 and forward-looking-risk disclosures. Material uncertainty is acknowledged around disruption duration, supply chains, retail restrictions, and liquidity impacts, while quantified operating performance and concrete downside scenarios are largely absent in the provided section. Adjusted EBITDA exclusions and references to restatements, regulatory settlements, and legal costs warrant additional scrutiny."
+}

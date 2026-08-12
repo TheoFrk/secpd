@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results may vary",
+    "poised for growth and eventual profitability",
+    "adequate working capital",
+    "non-GAAP basis"
+  ],
+  "risk_summary": "The company reports severe liquidity pressure, including negative working capital of $536,683, net liabilities exceeding assets, substantial losses, and funding sufficient for only approximately two months of operations. Although revenue and gross profit increased, margins declined, adjusted losses widened, and the business remains dependent on successfully raising additional capital. Repeated forward-looking disclaimers and reliance on optimistic growth assumptions temper the otherwise detailed quantitative disclosure."
+}

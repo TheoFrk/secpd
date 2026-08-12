@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "relatively non-correlated specialty lines",
+    "primarily due to",
+    "favorable development",
+    "susceptible to catastrophic events",
+    "presentation changes in all periods"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of premiums, reserves, catastrophe losses, investment performance, and segment changes. Key risks include catastrophe exposure, adverse loss development, reinsurance dependence, and prior-period favorable reserve development, although management presents these within a generally confident operating narrative."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "Reference is made",
+    "cross-reference to other sections",
+    "no substantive discussion",
+    "broad page-range citation"
+  ],
+  "risk_summary": "The excerpt provides only a broad cross-reference to other sections and contains no substantive discussion of financial condition, results, or risks. This limits standalone transparency and requires review of the cited pages to assess the company’s risk profile."
+}

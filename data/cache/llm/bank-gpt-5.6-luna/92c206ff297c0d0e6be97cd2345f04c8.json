@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot reasonably predict outcome",
+    "no reasonable estimate of loss",
+    "without merit and defend vigorously",
+    "except as required by law"
+  ],
+  "risk_summary": "The disclosure relies heavily on standard forward-looking disclaimers and broad, unquantified risk factors. Operating performance had not met expectations, while litigation exposure is material but its potential financial impact is expressly left unestimated. Modest revenue improvement is presented, but expected results remained below earlier levels."
+}

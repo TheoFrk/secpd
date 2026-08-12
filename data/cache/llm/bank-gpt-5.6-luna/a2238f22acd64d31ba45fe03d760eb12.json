@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "excluding investigation uncertainty",
+    "adjusted operating margin",
+    "proposed settlement",
+    "expects sufficient liquidity"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but includes substantial boilerplate and reliance on adjusted metrics that exclude significant investigation and restatement-related costs. Material risks include negative operating margin, a proposed $74 million securities settlement, ongoing DOJ investigation uncertainty, deferred revenue effects, and relocation execution costs. Liquidity appears strong based on reported cash and working capital, but management’s sufficiency assessment is explicitly conditional on the investigation outcome."
+}

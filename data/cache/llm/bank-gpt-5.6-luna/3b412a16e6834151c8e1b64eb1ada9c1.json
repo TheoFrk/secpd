@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "many possible events, circumstances or factors",
+    "do not undertake to update",
+    "management believes",
+    "qualitative assessments based on macroeconomic conditions"
+  ],
+  "risk_summary": "The excerpt is generally factual and includes useful balance-sheet, merger-cost, branch, and business-disposition data, but substantial boilerplate disclaimers and qualitative impairment language reduce transparency. The tone is cautiously neutral to mildly confident, with identifiable integration, credit, regulatory-compliance, and goodwill-impairment risks but no explicit indication of an immediate crisis."
+}

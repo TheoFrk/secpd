@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks, uncertainties and other factors",
+    "may be other factors",
+    "no obligation to update",
+    "subject to competitive pricing pressure"
+  ],
+  "risk_summary": "The excerpt combines meaningful quantitative disclosure on sales, margins, cash flow, restructuring, outages, and capital expenditures with extensive boilerplate forward-looking disclaimers. Risk tone is mixed: operations and liquidity remain positive, but margin pressure, feedstock volatility, an outage, restructuring, declining operating cash flow, and prior storm impacts indicate material operating risks."
+}

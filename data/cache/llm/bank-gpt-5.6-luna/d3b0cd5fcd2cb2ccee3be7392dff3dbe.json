@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "beyond our control",
+    "cannot predict the outcome",
+    "uncertainties continue to exist",
+    "subject to appropriation process",
+    "various cost and pricing regulations"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and identifies material concentration in U.S. government and DoD spending, contract termination and funding risks, sequestration uncertainty, and divestiture activity. The tone is cautiously stable, emphasizing budget support and expected benefits while acknowledging factors outside management’s control. Dense, boilerplate risk framing and extensive segment and accounting detail reduce readability but do not appear intentionally evasive."
+}

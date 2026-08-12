@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "do not place undue reliance",
+    "will not update forward-looking statements"
+  ],
+  "risk_summary": "The excerpt combines detailed operational and macroeconomic information with a lengthy, largely boilerplate forward-looking-statements disclaimer. Quantified balance-sheet and performance data improve disclosure quality, but the excerpt provides limited direct discussion of adverse credit, liquidity, or asset-quality risks and uses broad risk caveats. Overall tone is mildly positive, reflecting growth and stable market conditions, with some acknowledgment of rate, geopolitical, fiscal, and economic uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "certain other charges",
+    "various factors outside our control",
+    "cost control and reduction measures"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparently reconciles key non-GAAP measures, but it includes standard forward-looking disclaimers and extensive boilerplate. Operating performance weakened materially in 2020, with revenue, gross margin, operating margin, and EPS declines driven by COVID-19, although free cash flow improved and management emphasizes mitigation actions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance",
+    "risks and uncertainties",
+    "factors that could cause actual results to differ materially",
+    "undertakes no obligation to update"
+  ],
+  "risk_summary": "The disclosure is heavily weighted toward standard forward-looking disclaimers and broad uncertainty language, although operating metrics and several adverse impacts are quantified. Risk is elevated by unplanned plant outages, below-normal hydro expectations, higher replacement power costs, and a 26% decline in net income, but the tone remains measured rather than crisis-like."
+}

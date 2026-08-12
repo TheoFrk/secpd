@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.14,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "non-GAAP measures exclude material items",
+    "expected to trend flat-to-down",
+    "due in part to COVID-19 pandemic",
+    "constant currency presentation"
+  ],
+  "risk_summary": "The excerpt is generally data-rich and transparent, with extensive quantified operating, liquidity, debt, and segment metrics. Risk factors include higher-than-expected churn, declining FSG performance, lower operating cash flow, reliance on non-GAAP measures, and COVID-19-related execution impacts. Overall tone is cautiously positive, supported by revenue, ARR, margin, and EPS growth, but tempered by business-mix and cash-flow pressures."
+}

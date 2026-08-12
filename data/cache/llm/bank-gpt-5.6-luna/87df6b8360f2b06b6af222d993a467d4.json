@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.5,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "it is anticipated",
+    "as resources permit",
+    "actual results could differ materially",
+    "COVID-related delays and restrictions"
+  ],
+  "risk_summary": "The excerpt contains a clear going-concern warning, persistent financing dependence, substantial operating cash burn, and delays affecting clinical-trial data processing and manufacturing scale-up. Although many cash flows and obligations are quantified, forward-looking claims rely on uncertain timelines, operational assumptions, and unobservable valuation inputs."
+}

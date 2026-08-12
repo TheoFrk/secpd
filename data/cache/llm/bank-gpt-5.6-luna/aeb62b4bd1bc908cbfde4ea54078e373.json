@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "segment profit exclusions",
+    "reclassified prior-period amounts",
+    "signs of stabilization",
+    "held for sale"
+  ],
+  "risk_summary": "The excerpt is heavily quantified and provides substantial segment and trend detail, but its long organizational explanations and adjusted performance measures complicate comparability. Risk tone is moderately negative due to sharp earnings declines, credit-market disruption, and weakened demand, partly offset by claims of stabilization, backlog strength, and proactive risk management."
+}

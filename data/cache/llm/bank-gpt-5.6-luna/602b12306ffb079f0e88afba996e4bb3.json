@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "should not be considered as guarantees",
+    "does not expect material impact",
+    "qualitative assessment",
+    "proprietary technologies"
+  ],
+  "risk_summary": "The excerpt combines detailed accounting policies and quantified interest and loss data with extensive boilerplate risk disclaimers and promotional descriptions. Credit risk is elevated, reflected in a substantial deterioration in net loss, increased interest expense, prior reliance on debt financing, and stated difficulty arranging additional financing. The 2010 loss was heavily affected by non-cash fair-value charges, which may reduce comparability but does not eliminate underlying financing and execution risks."
+}

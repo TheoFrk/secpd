@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to investor approval",
+    "we expect",
+    "may vary",
+    "various restrictions",
+    "trade-offs between volumes and margins"
+  ],
+  "risk_summary": "The excerpt is heavily detailed and quantified, but uses dense technical language and recurring management-strategy boilerplate. Key risks include interest-rate volatility, pressured origination margins, pandemic-related servicing delays, execution demands from portfolio growth, and reliance on approvals and counterparties. Management presents a cautiously confident outlook while acknowledging meaningful operating and market pressures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.87,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "best estimate",
+    "materially different",
+    "cannot be determined with certainty",
+    "range of reasonably possible loss"
+  ],
+  "risk_summary": "The excerpt reports improved sales and continuing-operations income, but margins remain pressured by pricing and the disclosure highlights substantial judgment in revenue recognition, impairment testing, litigation, taxes, and environmental liabilities. Environmental obligations are quantified at $7.8 million, yet the company states that potential losses beyond reserves cannot currently be estimated, indicating meaningful tail-risk and disclosure uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to numerous risks",
+    "may differ materially",
+    "expect to be fully reimbursed",
+    "we can make no assurance",
+    "outcome will not have a material impact"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including quantified tornado-related costs, insurance recoveries, capital expenditures, production impacts, and debt liquidity alternatives. Risk tone is moderately negative due to weather sensitivity, production disruption, uncertain insurance recoveries, tax challenges, and potential additional impairment charges, although management remains generally confident. Some outcomes are hedged through forward-looking disclaimers and estimates that may differ materially from actual results."
+}

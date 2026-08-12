@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP measures",
+    "items affecting comparability",
+    "we believe",
+    "partially offset",
+    "excluding impairment charges"
+  ],
+  "risk_summary": "The excerpt is highly quantified and transparent about substantial impairment, restructuring, pension withdrawal, currency, volume, and profitability impacts. Risk tone is moderately negative because of recession-driven declines, weak global demand, and freight margin pressure, although management emphasizes improving trends, cost containment, and anticipated long-term pension benefits. Use of adjusted measures and extensive exclusion of non-comparable items could make recurring performance appear more favorable than reported results."
+}

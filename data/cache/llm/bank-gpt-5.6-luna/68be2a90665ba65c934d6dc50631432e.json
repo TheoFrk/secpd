@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "do not disclose quantitative information",
+    "global economic outlook is still uncertain",
+    "we expect that these conditions will continue",
+    "actual results may differ from estimates",
+    "significant management judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on geographic exposure, cash flows, share repurchases, and accounting outcomes, but omits product-level detail and relies on broad macroeconomic and market-risk descriptions. Multiple critical accounting estimates involve material judgment and could affect earnings, while ongoing biopharma weakness and geopolitical conditions create a moderately negative risk tone."
+}

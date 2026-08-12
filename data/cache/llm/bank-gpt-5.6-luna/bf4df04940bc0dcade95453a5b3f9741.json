@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "not meaningful (N.M.)",
+    "amounts not included in table",
+    "expected to be finalized",
+    "anticipated savings and costs"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, with extensive operating, cash flow, restructuring, and non-GAAP disclosures. Key risks include input-cost inflation, pricing pressure, volume declines in certain categories and markets, foreign exchange exposure, and a large restructuring program with substantial expected cash costs. The tone is predominantly factual and measured, but forward-looking savings and cost estimates introduce execution and forecast risk."
+}

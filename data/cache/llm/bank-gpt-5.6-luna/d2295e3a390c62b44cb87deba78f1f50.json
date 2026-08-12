@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could have a material adverse effect",
+    "still being evaluated",
+    "uncertainty in global market",
+    "economically reasonable effort"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but includes substantial standard forward-looking disclaimers and conditional language. Risk tone is negative due to COVID-19, depressed oilfield demand, fleet retirements, customer termination rights, and potential liquidity deterioration, although cash and undrawn credit capacity provide some offset."
+}

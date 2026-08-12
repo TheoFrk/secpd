@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "flat to down low-single-digits",
+    "challenging macroeconomic environment",
+    "expected to decline",
+    "potential deterioration",
+    "resilient demand"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed regarding revenue, impairment charges, backlog, cash flow, and geographic exposure, but relies on hedged forecasts and broad macroeconomic assumptions for 2023. Material risks include supply-chain normalization, currency pressure, interest rates, goodwill valuation sensitivity, pension settlement variability, and execution of planned price and cost actions. Overall tone is cautiously optimistic despite acknowledging substantial recent operating and impairment pressures."
+}

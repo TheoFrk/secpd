@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "does not undertake or disclaims obligations to update",
+    "no assurance risk factors are complete",
+    "actual results may differ materially",
+    "earnings unchanged despite $10.1 million correction"
+  ],
+  "risk_summary": "The excerpt is heavily standardized and legally hedged, with extensive boilerplate limiting reliance on forward-looking statements. It does provide useful quantitative disclosures, including a $10.1 million reduction in reported loans and allowance balances, but the unchanged earnings despite that correction warrants scrutiny. Construction and bridge lending remain exposed to economic, housing-market, interest-rate, borrower, and environmental risks."
+}

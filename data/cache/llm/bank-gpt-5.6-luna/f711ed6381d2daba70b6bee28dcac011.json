@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could have a material adverse effect",
+    "variety of reasons",
+    "when appropriate",
+    "unless otherwise noted"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes meaningful quantitative disclosures, including approximately $7.8 billion of debt principal payments and $1.6 billion of future interest payments. Risk tone is cautious rather than crisis-like, with exposure to leverage, refinancing, macroeconomic weakness, customer attrition, cost inflation, supply disruptions, and business exits. The extensive boilerplate and broad conditional language modestly reduce specificity, while the excerpt is truncated before the full liquidity discussion is presented."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to",
+    "could change significantly",
+    "primarily due to",
+    "partially offset",
+    "challenging global industry conditions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed revenue, cost, cash flow, and segment-performance data. Risk tone is mildly negative because of declining segment operating income, higher raw-material costs, currency headwinds, and emerging-market volatility, although management identifies mitigation actions and liquidity resources."
+}

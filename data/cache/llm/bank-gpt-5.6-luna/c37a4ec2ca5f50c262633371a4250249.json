@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be assured",
+    "at least the next 12 months",
+    "funding in excess of $5 million",
+    "materially adversely affected",
+    "may have to cease operations"
+  ],
+  "risk_summary": "The company reports negative working capital, continued negative operating cash flow, and no expectation of positive internal cash flow for at least the next 12 months. Its operations and U.S. commercialization depend on uncertain regulatory clearance and raising substantial additional capital, with an explicit risk of materially adverse effects or cessation of operations if financing is unavailable."
+}

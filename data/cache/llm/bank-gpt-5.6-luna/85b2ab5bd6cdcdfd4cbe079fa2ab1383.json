@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "actual results may differ materially",
+    "subject to economic conditions and loss forecasts",
+    "gradual improvement",
+    "partially offset by higher expenses"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting strong earnings, capital improvement, and portfolio metrics. Risk signals include rising delinquency rates, higher deposit costs, expected auto charge-off increases, legal reserve growth, and uncertainty surrounding Walmart integration and CECL adoption. The overall tone is cautiously positive but relies on standard forward-looking disclaimers and qualitative expectations for future performance."
+}

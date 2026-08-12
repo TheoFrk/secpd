@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "Actual results may differ materially",
+    "primarily due to:",
+    "depending on ... other factors",
+    "continued dispute with licensees"
+  ],
+  "risk_summary": "The excerpt reports a $4.9 billion net loss, substantial regulatory, restructuring and termination charges, significant customer and geographic concentration, and ongoing royalty disputes. Although many impacts are quantified, key explanations are omitted or deferred through repeated “primarily due to” placeholders and broad forward-looking caveats. The outlook remains cautiously positive regarding 5G and device demand but is exposed to licensing, customer, seasonality and market risks."
+}

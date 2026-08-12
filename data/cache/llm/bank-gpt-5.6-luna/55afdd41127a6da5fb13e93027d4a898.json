@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP measures",
+    "certain charges and/or credits",
+    "risks and uncertainties",
+    "acquisition-related adjustments",
+    "subject to a number of risks"
+  ],
+  "risk_summary": "The excerpt presents strong, well-quantified revenue and earnings growth, supported by segment-level operating metrics and liquidity disclosures. Risk visibility is moderated by substantial reliance on adjusted non-GAAP results, acquisition effects, and broad caveats regarding macroeconomic, tax, litigation, and liquidity risks. The company reports compliance with its financial covenant, but the excerpt is highly dense and partially truncated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "actual results could differ",
+    "significant management judgment",
+    "may be further impaired",
+    "projected customer demand"
+  ],
+  "risk_summary": "The excerpt is technically detailed but contains substantial accounting-estimate uncertainty, particularly around distributor sell-through revenue, Level 3 auction-rate securities, inventory provisions, and impairment testing. Risk tone is broadly neutral to mildly negative, with quantified restructuring actions but limited current-period financial context and a truncated ending."
+}

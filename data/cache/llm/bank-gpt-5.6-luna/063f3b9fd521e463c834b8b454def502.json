@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.18,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "may differ materially",
+    "other similar matters",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, largely unquantified catalog of litigation, regulatory, capital, market, operational, and credit risks. Although it provides some precise scale and balance-sheet metrics, the risk disclosure is highly complex and relies heavily on generic contingencies rather than estimated impacts or probabilities."
+}

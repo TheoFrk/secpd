@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could differ materially",
+    "including, but not limited to",
+    "variety of other factors",
+    "difficult to forecast"
+  ],
+  "risk_summary": "The excerpt combines quantified operating data with extensive forward-looking, industry-promotional and cautionary language. Key risks include cyclical semiconductor demand, supply-chain and capacity constraints, customer concentration and design-win uncertainty, pricing pressure, yield execution, and difficulty forecasting revenue from new products."
+}

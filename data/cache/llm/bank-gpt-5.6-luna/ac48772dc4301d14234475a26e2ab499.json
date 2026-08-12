@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to uncertainty",
+    "could cause actual results to differ materially",
+    "leading provider",
+    "strong operating results",
+    "steps necessary to improve long-term profitability"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and promotional assessment of 2019 performance, supported by several quantified capital allocation figures and operational drivers. Risk disclosures are broad rather than fully quantified, with notable exposures to economic conditions, competition, regulatory changes, commodity prices, contamination costs, customer concentration and acquisition execution. The omitted tables and truncated text limit assessment of underlying margins, cash flow and trend details."
+}

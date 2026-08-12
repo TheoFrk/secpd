@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "we believe",
+    "attractive growth opportunity",
+    "may differ materially"
+  ],
+  "risk_summary": "The excerpt is generally confident and growth-oriented, emphasizing market leadership, product advantages, and expansion opportunities. It includes meaningful quantified disclosures on restructuring, tax impacts, debt, and operating results, but relies on standard forward-looking disclaimers and management beliefs for future performance. Key risks include cyclical demand, competitive pricing, raw-material cost volatility, restructuring execution, and provisional tax estimates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to uncertainties",
+    "actual results may differ materially",
+    "many factors",
+    "potential withdrawal obligation may be significant",
+    "substantial portion of total revenues"
+  ],
+  "risk_summary": "The excerpt is structurally detailed and includes substantial quantitative and operational information, but relies on standard forward-looking disclaimers and qualitative descriptions of customer concentration and contingent liabilities. Complexity is high due to extensive subsidiary, segment, contract, and accounting terminology. The disclosed multiemployer pension dispute represents a material legal and liquidity risk, though the overall tone remains neutral to mildly confident."
+}

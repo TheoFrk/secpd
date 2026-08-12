@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "closely monitor receivables",
+    "may result in increases",
+    "significantly improve profitability",
+    "believes assumptions are reasonable",
+    "actual results may be materially different"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but highlights significant liquidity, collection, geopolitical, and profitability risks, including overdue Middle East receivables, bad-debt reserves, reliance on debt and equity financing, and a transition to net losses. Management remains optimistic about growth and deleveraging, but these outlook statements are partly aspirational and exposed to material estimation uncertainty."
+}

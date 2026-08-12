@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset",
+    "subject to our ability",
+    "not readily available",
+    "long-term planning cycles"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed revenue, activity, pricing, and rig-count data. It identifies meaningful cyclicality, commodity-price exposure, regional demand weakness, pricing pressure, cost inflation, and data limitations, but presents these risks in a measured and analytical tone."
+}

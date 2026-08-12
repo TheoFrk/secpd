@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "may differ materially and adversely",
+    "does not undertake to update",
+    "subjective and/or complex judgments",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt is largely formal and technically detailed, with quantified net interest and deposit data, but includes extensive forward-looking safe-harbor language and reliance on management estimates. Key risk exposures include credit-loss reserve uncertainty, potential loan losses, securities impairment, illiquid markets, deposit migration, and increased use of brokered deposits."
+}

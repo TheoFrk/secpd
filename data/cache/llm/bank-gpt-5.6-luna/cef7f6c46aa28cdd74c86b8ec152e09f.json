@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "anticipated future operating cash flows",
+    "continuing efforts to collect receivables",
+    "other cost cutting initiatives",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt is heavily quantified and provides substantial detail, but includes standard legal disclaimers and extensive cross-references. Risk tone is materially negative, reflecting a severe industry downturn, 35% revenue decline, larger net loss, asset impairments, increased borrowings, vessel-construction commitments, and sizable Angola-related receivable exposure. Positive cash flow and stated liquidity measures provide some mitigation, although cash generation includes significant non-cash adjustments."
+}

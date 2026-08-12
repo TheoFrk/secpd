@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "plan to continue",
+    "among others",
+    "may not fully realize",
+    "for a more complete discussion"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, restructuring, margin, and cash-flow information, supporting relatively strong disclosure quality. However, its outlook and risk discussion relies on broad forward-looking language and generic contingencies, while restructuring charges, North America revenue decline, competitive pressure, and supply-chain exposure indicate meaningful execution and profitability risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "largely non-correlated specialty insurance products",
+    "we believe we can achieve meaningful underwriting profit",
+    "offset by",
+    "favorable loss development",
+    "revised assumptions regarding claim frequency and severity"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, but relies on actuarial estimates, reinsurance, catastrophe modeling, and favorable reserve development that may reverse. The overall tone is cautiously confident, emphasizing growth and underwriting profitability while acknowledging catastrophe exposure, adverse development, pricing competition, and reserve uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we strive to",
+    "significant opportunities for growth",
+    "dynamic and highly competitive",
+    "aim to lead the industry"
+  ],
+  "risk_summary": "The excerpt combines quantified revenue and margin changes with extensive aspirational, strategy-oriented language and limited quantified discussion of forward-looking risks. It acknowledges intense competition, rapid technology shifts, infrastructure investment needs, and potential tax-rate pressure, but maintains a generally confident tone."
+}

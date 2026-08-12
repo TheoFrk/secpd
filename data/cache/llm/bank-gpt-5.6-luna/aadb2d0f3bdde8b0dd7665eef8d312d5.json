@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk-factor cross-references",
+    "new basis of accounting not comparable",
+    "estimates of acquisition-date fair values",
+    "cash advanced daily to affiliates",
+    "methodology may not be comparable"
+  ],
+  "risk_summary": "The disclosure is highly technical and contains substantial quantified information, but comparability is impaired by acquisition accounting and successor/predecessor periods. Credit-relevant risks include significant goodwill, debt retirements, affiliate cash transfers and dependence on CenturyLink’s cash-management arrangements. Tone is generally neutral and descriptive, with modestly negative risk implications rather than crisis language."
+}

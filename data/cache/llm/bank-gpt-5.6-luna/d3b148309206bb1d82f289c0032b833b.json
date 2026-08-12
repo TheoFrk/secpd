@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "not able to predict with certainty",
+    "expected to",
+    "based on current exchange rates",
+    "adjusted non-GAAP measures",
+    "results to vary by country"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding restructuring charges, savings targets, refinancing costs, environmental charges, and pension expense changes. Forward-looking commentary relies on expectations and uncertainty around demand, foreign exchange, raw-material pricing, and regional performance, while prominent adjusted non-GAAP measures may soften reported volatility."
+}

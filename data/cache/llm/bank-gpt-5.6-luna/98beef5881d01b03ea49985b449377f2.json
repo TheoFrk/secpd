@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "do not undertake any obligation",
+    "future cost-saving actions"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad, non-quantified risk language, particularly around cyclical semiconductor demand and future performance. However, it also provides meaningful quantitative disclosure on market concentration, acquisitions, restructuring charges, workforce reductions, and pension settlement obligations. Overall risk tone is cautious and mildly negative, reflecting cyclical weakness and ongoing restructuring rather than an immediate crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact could be more or less than we expect",
+    "frequency, timing, magnitude remain uncertain",
+    "previously disclosed loss of a large customer",
+    "significantly increase amortization and acquisition-related costs",
+    "complex and subjective estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights declining operating earnings, generic-drug pricing pressure, loss of a major customer, and increased leverage following a large acquisition. Forward-looking impacts are partly hedged through broad uncertainty language, while the overall tone remains measured rather than crisis-like."
+}

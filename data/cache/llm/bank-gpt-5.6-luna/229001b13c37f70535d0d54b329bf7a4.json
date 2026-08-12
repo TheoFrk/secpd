@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no exact measure of the effect",
+    "all references ... are estimates",
+    "may take further actions",
+    "based on available data",
+    "current business goals"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic and liquidity profile, supported by quantified operating targets, cash balances, debt terms, and cash-flow data. However, several material exposures—including pandemic disruption, currency and commodity volatility, channel inventory, and market-share estimates—are described using broad assumptions and explicitly acknowledged estimates rather than quantified sensitivities."
+}

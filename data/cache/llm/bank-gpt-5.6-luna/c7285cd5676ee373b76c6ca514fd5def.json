@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cyclical market demand",
+    "could negatively impact demand",
+    "subject to customary adjustments",
+    "customer site restrictions and schedule delays"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth-oriented narrative supported by detailed segment revenue figures, acquisitions, product investments, and divestiture proceeds. Key risks include semiconductor cyclicality, COVID-19 supply-chain and customer-site disruptions, integration and execution risk, and uncertainty around transaction adjustments. The section contains substantial business-description and forward-looking boilerplate, but its quantitative disclosures materially limit vagueness."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.65,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "strategic objectives boilerplate",
+    "potential contingent payments",
+    "optimize stockholder value creation",
+    "special items",
+    "truncated and corrupted disclosure"
+  ],
+  "risk_summary": "The excerpt presents strong revenue growth, cash flow, global scale, and a generally confident strategic tone, supported by substantial quantitative disclosures. Key risks include reliance on international operations, Hurricane Maria-related supply constraints, product and portfolio repositioning, acquisition-related payments, and material volatility from special items. The excerpt is truncated and contains OCR corruption, limiting assessment of the full risk discussion."
+}

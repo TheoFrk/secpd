@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "a number of factors",
+    "solid performances",
+    "year-on-year impacts",
+    "refer to Note/section for detail"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed reconciliations of EPS, sales, margins, foreign exchange, restructuring, and acquisition impacts, indicating relatively strong disclosure quality. Risk tone is moderately positive, although flat-to-declining organic sales, significant Electronics and Energy weakness, foreign-exchange headwinds, higher debt-related interest expense, and legal costs present identifiable risks. Some boilerplate cross-references and attribution of results to broad operational benefits reduce specificity in places."
+}

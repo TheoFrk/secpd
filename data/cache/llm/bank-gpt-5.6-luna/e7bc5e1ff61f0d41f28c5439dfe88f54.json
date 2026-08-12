@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to continuing due diligence",
+    "cannot be assured",
+    "ability to raise additional capital",
+    "substantial doubt about going concern"
+  ],
+  "risk_summary": "The disclosure contains substantial quantified indicators of financial distress, including recurring losses, working-capital deficiency, insufficient cash for the next twelve months, auditor-identified going-concern doubt, and dependence on uncommitted financing. Risk is heightened by delayed acquisition payments, unresolved property-transfer restrictions, incomplete due diligence, and extensive boilerplate disclaimers that reduce clarity around execution prospects."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.47,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "cannot be certain additional funding will be available",
+    "as resources permit",
+    "hopeful that backlogs will improve",
+    "Level 3 valuation inputs"
+  ],
+  "risk_summary": "The disclosure presents significant liquidity and going-concern risk, with substantial operating cash burn, reliance on additional financing, and explicit uncertainty regarding funding availability. Clinical, regulatory, and supply-chain backlogs add execution risk, although the company highlights trial progress and regulatory-preparation activities."
+}

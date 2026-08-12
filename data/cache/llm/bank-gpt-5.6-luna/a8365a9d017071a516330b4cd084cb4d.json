@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures emphasized",
+    "customary adjustments",
+    "among other things",
+    "partially offset by",
+    "excerpt truncated"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed year-over-year drivers, but emphasizes adjusted non-GAAP performance measures that exclude substantial restructuring, amortization, impairment, and regulatory costs. The tone is generally confident and growth-oriented, while the divestiture, brand impairment, restructuring charges, regulatory expenses, and foreign-exchange losses indicate meaningful execution and earnings-quality risks."
+}

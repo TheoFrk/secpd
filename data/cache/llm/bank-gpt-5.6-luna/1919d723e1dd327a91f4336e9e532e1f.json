@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "judgments and estimates",
+    "actual results could differ",
+    "various factors beyond our control",
+    "immaterial items"
+  ],
+  "risk_summary": "The excerpt is substantially boilerplate and relies on standard forward-looking, judgment-based, and uncertainty disclaimers, although it includes meaningful quantified disclosures such as $208.3 million of minimum contractual revenue and significant interest expense. Risk tone is broadly neutral to mildly negative, reflecting leverage-related costs, asset-sale losses, valuation allowances, and market capitalization decline rather than an explicitly crisis-like condition."
+}

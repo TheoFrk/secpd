@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks, uncertainties and other factors",
+    "without limitation",
+    "not under any obligation to update",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is predominantly boilerplate legal and accounting disclosure, with extensive safe-h harbor language and broad, non-exhaustive risk framing rather than company-specific risk quantification. Complex non-GAAP definitions and adjustments may reduce comparability and obscure underlying performance, although reconciliations are stated to be provided."
+}

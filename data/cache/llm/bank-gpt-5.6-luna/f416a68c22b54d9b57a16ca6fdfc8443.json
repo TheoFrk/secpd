@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.84,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance of further funding",
+    "substantial doubt about going concern",
+    "primarily through issuance of equity",
+    "successful exploration and development",
+    "estimates may differ materially"
+  ],
+  "risk_summary": "The excerpt clearly discloses severe liquidity and operating risks, including no commercial revenue, substantial accumulated losses, a working capital deficit, insufficient cash for the next twelve months, and substantial doubt about going concern. Although many amounts and cash-flow changes are quantified, funding dependence, exploration success, and profitability remain uncertain, with potential dilution from additional equity issuance."
+}

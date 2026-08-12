@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "disparate in amount, frequency or timing",
+    "where applicable",
+    "underlying performance",
+    "recast prior periods"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes useful quantified disclosures on sales, net income, acquisitions, foreign currency exposure, and working capital. However, extensive non-GAAP definitions and numerous exclusions could make underlying performance appear more favorable than GAAP results, while inventory destocking, currency headwinds, international exposure, and debt reclassification indicate moderate financial risk."
+}

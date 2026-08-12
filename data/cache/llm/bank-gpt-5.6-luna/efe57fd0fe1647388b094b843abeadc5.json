@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "designed to",
+    "may vary over time",
+    "customary representations and covenants"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, clinical, revenue, loss, deficit, and financing information, limiting overall vagueness. Risk is elevated due to declining revenue, persistent operating losses, a substantial accumulated deficit, reliance on external financing, and a commercialization-model transition, despite promotional product claims and optimistic forward-looking language."
+}

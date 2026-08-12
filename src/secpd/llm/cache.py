@@ -24,11 +24,20 @@ logger = logging.getLogger(__name__)
 class CachedLLMClient(BaseLLMClient):
     """Wrappt einen beliebigen Client und cached Profile als JSON-Dateien."""
 
-    def __init__(self, inner: BaseLLMClient, cache_dir: Path | str) -> None:
+    def __init__(
+        self,
+        inner: BaseLLMClient,
+        cache_dir: Path | str,
+        *,
+        force_refresh: bool = False,
+    ) -> None:
         self.inner = inner
         self.cache_dir = Path(cache_dir) / inner.cache_namespace
         self.cache_dir.mkdir(parents=True, exist_ok=True)
+        self.force_refresh = bool(force_refresh)
         self.name = f"cached({inner.name})"
+        if self.force_refresh:
+            self.name += "+refresh"
 
     @property
     def cache_namespace(self) -> str:
@@ -40,7 +49,7 @@ class CachedLLMClient(BaseLLMClient):
 
     def analyze(self, text: str, *, doc_id: str = "") -> TextRiskProfile:
         path = self._path_for(text)
-        if path.exists():
+        if path.exists() and not self.force_refresh:
             try:
                 return TextRiskProfile.model_validate_json(path.read_text(encoding="utf-8"))
             except Exception:  # noqa: BLE001 — korrupten Cache-Eintrag neu berechnen

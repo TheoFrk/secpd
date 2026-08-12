@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-US GAAP measures not standardized",
+    "variety of factors",
+    "estimated deferred acquisition consideration adjustments",
+    "primarily due to",
+    "additional information appears in Note"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including revenue composition, losses, margins, acquisitions, and debt-related interest expense. Risk is elevated by operating losses, margin compression, acquisition-related adjustments, increased borrowing, and dependence on client retention and discretionary marketing spending. Some discussion relies on broad causal language and non-GAAP measures that may limit comparability."
+}

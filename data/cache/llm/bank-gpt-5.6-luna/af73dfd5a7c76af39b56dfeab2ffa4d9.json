@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.68,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "leading-edge",
+    "unique value",
+    "maximum utilization",
+    "relatively stable revenue streams"
+  ],
+  "risk_summary": "The excerpt uses strongly promotional language and frequent unquantified claims about competitive advantages, reliability, stability, and risk reduction. Although it includes some contract durations, segment changes, and operating statistics, it provides limited discussion of downside risks, sensitivity to demand, fleet aging, leverage, or contract concentration."
+}

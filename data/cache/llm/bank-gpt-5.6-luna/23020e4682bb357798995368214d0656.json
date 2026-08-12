@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "internal estimates",
+    "we believe",
+    "expected to continue",
+    "pricing pressure",
+    "market share data unavailable"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified market, operating, and restructuring information, but relies on management estimates and repeated forward-looking claims where definitive market data is unavailable. Risk tone is mixed: management expresses confidence in market opportunities while acknowledging material execution weaknesses, customer-service deficiencies, elevated costs, impairment charges, and restructuring activity. Overall disclosure is moderately complex and somewhat promotional, but includes meaningful operational detail."
+}

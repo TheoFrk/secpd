@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "outcome of tax audits is always uncertain",
+    "may differ materially",
+    "positive and negative evidence",
+    "continuing global tax planning initiatives",
+    "refer to segment analysis below"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but contains substantial tax-accounting complexity and uncertainty around audits, deferred tax asset realizability, and valuation allowances. Operating performance appears mixed, with sales growth offset by margin pressure, higher operating costs, pension mark-to-market volatility, and divestiture effects."
+}

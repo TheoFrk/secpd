@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.69,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance actual results",
+    "risks beyond our control",
+    "without limitation",
+    "non-GAAP adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and a broad, non-prioritized list of potential adverse factors, limiting specificity about likelihood and financial impact. The overall tone is moderately confident and promotional, supported by quantified transactions and growth initiatives, but reliance on adjusted EBITDA and numerous caveats reduce transparency."
+}

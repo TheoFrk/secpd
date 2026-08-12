@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "may differ materially",
+    "no obligation to update",
+    "other similar matters"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimer language and broad, non-quantified references to litigation, repurchase claims, European sovereign stress, regulation, credit ratings, liquidity, and asset valuations. Some exposures are quantified, including potential U.K. tax charges and balance-sheet effects, but the long risk catalog and repeated qualification limit clarity regarding likelihood and ultimate magnitude. Overall tone is cautious and risk-aware rather than crisis-like."
+}

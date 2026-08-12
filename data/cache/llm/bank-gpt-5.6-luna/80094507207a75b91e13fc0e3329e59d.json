@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cautiously optimistic",
+    "healthy sales pipeline",
+    "strong balance sheet",
+    "believe ... highest",
+    "headwinds"
+  ],
+  "risk_summary": "The excerpt is generally positive and provides substantial quantified revenue, earnings, cash flow, and investment data. Risk discussion is limited and relies on optimistic or self-referential language regarding customer retention, competitive advantage, future demand, and regulatory conditions. The truncated ending and dense presentation reduce transparency regarding liquidity pressures and forward-looking risks."
+}

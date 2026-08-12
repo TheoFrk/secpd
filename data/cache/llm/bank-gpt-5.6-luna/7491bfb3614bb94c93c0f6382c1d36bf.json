@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "various risks, timing and uncertainties",
+    "without limitation",
+    "could differ materially",
+    "not material to financial condition",
+    "beyond the ability of the Company to control"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and favorable, providing extensive quantified year-over-year operating and financial results, with improving revenue, margins, and net income. Risk discussion is largely standardized forward-looking-statement boilerplate and includes broad, unquantified uncertainties around litigation, claims, regulation, labor costs, weather, and acquisitions. Overall risk tone is confident, but the excerpt does not provide detailed sensitivity analysis or quantified downside exposure."
+}

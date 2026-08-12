@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "known and unknown risks",
+    "impact currently unknown",
+    "could be significant",
+    "favorable ordering patterns",
+    "positioned to capture value"
+  ],
+  "risk_summary": "The excerpt presents improving revenue and gross margin with a generally constructive management tone, but relies on broad promotional language and limited quantified discussion of forward-looking risks. COVID-19, staffing, supply-chain, regulatory, clinical, and potential goodwill impairment issues remain material, with some impacts described as unknown or potentially significant."
+}

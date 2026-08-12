@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "informally agreed to borrow",
+    "if forecasts are inaccurate",
+    "could cause us to go out of business"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified financial data but relies on broad forecasts, conditional language, and extensive forward-looking disclaimers. Liquidity risk is severe, reflected in a $12.3 million working-capital deficit, recurring losses, expected future operating losses, dependence on additional financing, and an explicit risk of going out of business."
+}

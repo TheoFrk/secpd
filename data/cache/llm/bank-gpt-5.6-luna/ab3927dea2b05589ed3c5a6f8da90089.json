@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "based on our current expectations",
+    "many factors including, but not limited to",
+    "there can be no assurance",
+    "significant judgments and estimates",
+    "beyond our control"
+  ],
+  "risk_summary": "The excerpt presents a generally confident business narrative with substantial quantified operating and market information, but includes extensive standard forward-looking disclaimers and subjective accounting estimates. Revenue recognition and fixed-price contract accounting create material judgment and timing risks, while the truncated disclosure limits assessment of the full financial condition."
+}

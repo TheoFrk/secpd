@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "may differ materially",
+    "expected to increase",
+    "highly sensitive to commodity prices",
+    "long-term outlook"
+  ],
+  "risk_summary": "The disclosure is detailed and substantially quantified, but relies on forecasts, market expectations, and standard forward-looking disclaimers. Key risks include commodity-price volatility, weak natural-gas pricing, oversupply, macroeconomic uncertainty, regulatory changes, and cyclical customer spending. Overall tone is cautiously positive, emphasizing recovery, growth opportunities, and favorable demand trends while acknowledging material external sensitivities."
+}

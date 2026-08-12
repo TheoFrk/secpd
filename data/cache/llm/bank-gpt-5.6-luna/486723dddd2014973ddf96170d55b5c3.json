@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "extent and duration is unknown",
+    "consequences that we do not anticipate",
+    "as necessary",
+    "there can be no assurances",
+    "may experience adverse effects"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and liquidity detail, including store counts, availability, debt balances, and covenant compliance. However, it emphasizes broad pandemic, inflation, supply-chain, customer-demand, and mix risks using material uncertainty and non-assurance language, with limited quantified downside scenarios."
+}

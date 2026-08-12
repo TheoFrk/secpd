@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "we believe",
+    "customary events of default",
+    "actual results could differ",
+    "truncated revenue recognition discussion"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial operational, accounting, covenant, and cash-flow quantification, but relies on recurring management assertions and standard forward-looking disclaimers. Risk tone is cautiously positive, supported by reported covenant compliance and goodwill headroom, while acquisition spending, working-capital usage, and accounting-estimate sensitivity remain relevant risks."
+}

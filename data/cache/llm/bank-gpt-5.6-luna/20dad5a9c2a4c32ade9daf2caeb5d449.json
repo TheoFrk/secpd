@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "many factors, including but not limited to",
+    "expect sales growth",
+    "significant programs",
+    "portfolio shaping activities"
+  ],
+  "risk_summary": "The excerpt is generally optimistic and strategy-focused, with quantified revenue-recognition, acquisition, divestiture, and cash-flow details. However, outlook statements rely on expectations and broad qualifiers, while identified risks include Boeing platform pressures, storm damage, customer-advance reductions, impairment charges, and portfolio-related lost sales."
+}

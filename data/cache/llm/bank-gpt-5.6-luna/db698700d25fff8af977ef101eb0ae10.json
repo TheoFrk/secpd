@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliations",
+    "centrally controlled corporate expenses",
+    "unpredictable and can obscure trends",
+    "pricing optimization efforts",
+    "tighter credit policies"
+  ],
+  "risk_summary": "The excerpt is detailed and includes some quantified operating effects, but relies substantially on non-GAAP measures, segment allocation exclusions, and management-defined metrics. Credit risk is present through references to receivables, fraud, late fees, and tighter credit policies, although management presents operating performance in a generally constructive tone."
+}

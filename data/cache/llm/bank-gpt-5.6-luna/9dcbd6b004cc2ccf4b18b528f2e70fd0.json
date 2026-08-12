@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant unobservable inputs",
+    "all material respects",
+    "little credit or valuation risk",
+    "primarily attributable to",
+    "in accordance with GAAP reconciled to internally reported results"
+  ],
+  "risk_summary": "The excerpt is numerically detailed and explains year-over-year changes, but its risk tone is generally promotional and relies on qualified assertions regarding servicing compliance and low-risk assets. Material exposure exists through highly leveraged match-funded liabilities, related-party dependence on Ocwen, and fair-value estimates based on significant unobservable inputs."
+}

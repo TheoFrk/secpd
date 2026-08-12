@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurances",
+    "various financing alternatives",
+    "uncertain whether COVID-19",
+    "may not be able to continue",
+    "other risks detailed from time to time"
+  ],
+  "risk_summary": "The disclosure presents severe financial and execution risk: the company has generated no revenue, has substantial convertible and promissory note obligations, and depends on uncertain financing to continue operations. The risk tone is materially negative, with explicit doubt regarding funding, commercialization, order fulfillment, and the company’s ability to continue as an operating company. Boilerplate forward-looking-risk language and broad technology claims add some opacity, although key operating and debt facts are quantified."
+}

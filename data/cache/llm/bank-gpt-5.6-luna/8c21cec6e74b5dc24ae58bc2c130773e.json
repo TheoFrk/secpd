@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "inherently uncertain estimates",
+    "current and forecasted economic factors",
+    "acquisition-related expenses",
+    "integration and asset disposal costs"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, particularly regarding the Republic First acquisition, capital offering, restructuring, and related costs. Risk is present through credit-loss provisions, acquisition integration expenses, securities-sale losses, and reliance on uncertain ACL estimates, but the overall tone is stable and moderately constructive."
+}

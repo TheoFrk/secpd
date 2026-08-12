@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "actual results could differ materially",
+    "additional risks and uncertainties",
+    "do not undertake obligation to update",
+    "other risks described elsewhere"
+  ],
+  "risk_summary": "The excerpt combines quantified operating metrics and backlog data with extensive boilerplate forward-looking disclaimers and broad, largely unquantified risk categories. Business conditions and demand are described as improving, but exposure to economic uncertainty, customer concentration, leverage, financing needs, cyclical markets, and European sovereign debt remains material."
+}

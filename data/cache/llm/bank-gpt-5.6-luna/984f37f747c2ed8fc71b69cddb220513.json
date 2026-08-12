@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "many factors including",
+    "actual results may differ materially",
+    "undue reliance should not be placed",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is heavily descriptive and boilerplate, with substantial jargon and cross-references that reduce immediate clarity. It identifies meaningful exposure to macroeconomic, market, regulatory, legal, capital, and execution risks, while providing limited quantified risk detail in the supplied section. The tone is cautious but not crisis-like, and the 9%–11% return target is explicitly qualified by broad uncertainties."
+}

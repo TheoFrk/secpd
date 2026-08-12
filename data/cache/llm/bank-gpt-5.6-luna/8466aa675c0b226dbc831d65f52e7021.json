@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-U.S. GAAP measures",
+    "may not be comparable",
+    "potential revenue growth",
+    "forecasted expectations",
+    "under-performance of certain Partner Firms"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantification, but relies heavily on lengthy non-GAAP methodology explanations and qualifying language. Reported risks include goodwill impairment, declining operating profit and margins, Partner Firm underperformance, foreign exchange exposure, and acquisition-related liabilities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to reconcile without unreasonable efforts",
+    "no assurances that future cash flow assumptions will be achieved",
+    "could have a significant impact",
+    "cannot be predicted with certainty",
+    "excluding unusual items"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operational narrative supported by substantial quantitative disclosure, including sales, margins, backlog, and cash-flow definitions. However, it contains extensive standard non-GAAP and forward-looking caveats, including unreconciled EPS guidance, uncertain impairment and warranty assumptions, and macroeconomic and demand risks. Overall risk tone is cautiously positive, with moderate reliance on management estimates and exclusions."
+}

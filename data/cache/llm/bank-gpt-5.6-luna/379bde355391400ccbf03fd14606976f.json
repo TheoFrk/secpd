@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subjective variables",
+    "future events could occur",
+    "best estimate and judgment",
+    "opportunistically access capital markets",
+    "some degree of uncertainty"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and deleveraging narrative supported by substantial operating, acquisition, development, and capital-raising figures. Key risks arise from subjective impairment assumptions, uncertain recoverability of notes receivable, reliance on acquisitions and capital markets, and forward-looking occupancy and development expectations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "restatement of previously reported financial statements",
+    "unable to predict how long",
+    "unpredictable impacts",
+    "subject to global supply and demand forces",
+    "significant unpredictability and volatility"
+  ],
+  "risk_summary": "The disclosure identifies material exposure to commodity volatility, seasonality, trade uncertainty, liquidity pressure, leverage, and a prior-period restatement. It provides some quantified changes and operational drivers, but the excerpt also relies on broad forward-looking qualifiers and omits several referenced tables and details. Overall tone is balanced but mildly negative because fiscal 2019 revenues, margins, and cash flows are expected to remain under pressure."
+}

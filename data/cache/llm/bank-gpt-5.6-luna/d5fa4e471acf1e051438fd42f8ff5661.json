@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ significantly",
+    "economic headwinds",
+    "constant currency non-GAAP measure",
+    "materially affected by exchange rates"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed revenue, expense, debt, currency, and contractual disclosures. Its tone is predominantly confident and growth-oriented, although it acknowledges foreign-exchange exposure, economic headwinds, leveraged-transaction effects, and reliance on non-GAAP constant-currency metrics. Standard forward-looking and material-impact disclaimers introduce some uncertainty but do not appear unusually evasive."
+}

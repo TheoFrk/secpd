@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ",
+    "various factors outside our control",
+    "non-GAAP adjustments",
+    "extensive risk-factor enumeration"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate with extensive forward-looking disclaimers and broad, non-quantified external risk factors. Credit-relevant disclosures include $2.1 billion of debt and substantial liquidity, with stated covenant compliance and $872.2 million of undrawn revolving capacity. The tone is cautious and risk-heavy but not indicative of an immediate crisis."
+}

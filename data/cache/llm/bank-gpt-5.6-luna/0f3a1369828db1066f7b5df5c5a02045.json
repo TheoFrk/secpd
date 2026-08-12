@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results could differ",
+    "certain accounting policies",
+    "should no longer be relied upon",
+    "additional discussion in the notes"
+  ],
+  "risk_summary": "The disclosure identifies material financial reporting and governance concerns, including restatement of multiple interim periods, review of 63 acquisitions, and separation of the CFO and two accounting personnel. Operational commentary is relatively detailed and quantified, but the excerpt relies on standard forward-looking disclaimers and refers readers elsewhere for restatement details. The restatement and personnel actions indicate elevated reporting, control, and credibility risk."
+}

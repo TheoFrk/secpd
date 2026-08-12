@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "expected to close",
+    "believes acquisition will",
+    "potential synergies",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, particularly regarding acquisition valuation, financial performance, and restructuring costs. Risk is moderated by regulatory approval requirements, transaction execution uncertainty, projected synergies, and reliance on management estimates. Overall tone is cautiously positive, emphasizing improved scale and profitability while acknowledging integration and accounting risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to a periodic impairment review",
+    "if corporate demand continues to recover",
+    "while this dispute remains unresolved",
+    "could materially harm our financial results",
+    "highly complex and subjective variables"
+  ],
+  "risk_summary": "The excerpt is relatively specific and quantitatively detailed, but contains substantial standard risk-factor and accounting-policy language. Key risks include constrained 40nm supply and yields, litigation with Intel, product defects and recalls, impairment judgments, and subjective stock-based compensation assumptions; management’s overall tone remains cautiously optimistic."
+}

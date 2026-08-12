@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant change",
+    "more likely than not",
+    "future taxable income",
+    "other available evidence",
+    "economic outlook uncertainty"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting a return to profitability, improved asset quality, reduced loan-loss provisions, and recapture of the deferred tax valuation allowance. Key risks remain tied to macroeconomic uncertainty, interest-rate and commodity-price movements, loan-loss estimates, and the judgment-dependent realization of deferred tax assets. The excerpt is technically dense and includes standard forward-looking and accounting-estimate caveats, but does not present a crisis-like tone."
+}

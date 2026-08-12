@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance",
+    "subject to risks and uncertainties",
+    "intended to close",
+    "superior ease-of-use and innovative design"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and repeated product descriptions, with limited operating performance data despite the company being developmental and dependent on a pending AutoTek transaction. It identifies material execution, approval, dilution, commercialization, and technology risks, while using optimistic but largely unquantified strategy and product claims. The overall tone is cautiously promotional rather than crisis-like, but uncertainty is substantial."
+}

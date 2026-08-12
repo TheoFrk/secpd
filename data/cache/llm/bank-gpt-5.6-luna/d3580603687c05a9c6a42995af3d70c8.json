@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor and no assurance language",
+    "risks and uncertainties",
+    "no obligation to revise",
+    "expects discontinuation during fiscal 2017",
+    "not materially adverse"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimer language and extensive accounting-policy discussion, which limits direct assessment of future performance. A significant identifiable risk is the expected loss of EchoStar, which represents essentially all Satellite segment revenue, although management asserts the impact will not be material. Liquidity is supported by cash generation and convertible-note proceeds, but valuation estimates, inventory demand, customer concentration, and covenant requirements remain material risk areas."
+}

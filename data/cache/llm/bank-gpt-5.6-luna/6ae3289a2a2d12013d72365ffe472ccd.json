@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "numerous risks and uncertainties",
+    "actual results may differ materially",
+    "continue to evaluate",
+    "provisional estimate",
+    "should not be considered in isolation"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A framing and business-description language, with substantial boilerplate and limited direct performance detail in the provided portion. It identifies meaningful exposure to fleet costs, residual values, interest rates, liquidity needs, demand variability, and unresolved tax accounting, but the tone is cautious rather than crisis-like."
+}

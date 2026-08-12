@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strong financial position",
+    "solid results",
+    "we believe",
+    "not indicative of core operating results",
+    "could result in a material adjustment"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent regarding operating results, cash flows, preferred-stock conversion, volumes, margins, guarantees, and inventory exposures. Risk tone is cautiously positive, but management relies on favorable descriptors and non-GAAP metrics while acknowledging oversupply, declining demand, crop volatility, customer timing, and estimation uncertainty."
+}

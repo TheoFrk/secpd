@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate",
+    "uncertain and difficult to predict",
+    "may change materially",
+    "inherently subjective",
+    "normal recurring nature"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and presents strong revenue, cash flow, and debt metrics, supporting a generally confident operating tone. However, it highlights substantial uncertainty from COVID-19, inflation, interest rates, labor and supply-chain pressures, while relying on management estimates for insurance reserves and other accounting assumptions. Reserve estimates and future macroeconomic impacts could materially affect operating results, but no immediate liquidity stress is indicated."
+}

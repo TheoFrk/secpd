@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance actual results",
+    "beyond our control",
+    "we believe",
+    "expected to capitalize"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking and hedged language, limiting assurance around forecasts and emphasizing factors outside management’s control. It identifies meaningful risks including lower oil prices, declining bromine demand, currency volatility, delayed catalyst change-outs, acquisition integration, and leverage, but maintains a generally confident strategic tone. Several claims rely on broad market trends and expectations rather than quantified targets."
+}

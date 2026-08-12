@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "does not disclose quantitative information",
+    "inherently uncertain",
+    "if notable",
+    "amounts are preliminary estimates",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on geographic exposure, cash flows, acquisitions, and restructuring costs, but omits product-level information and relies on uncertainty language for COVID-19, tax estimates, and restructuring outcomes. Key risks include pandemic-related demand volatility, foreign-exchange sensitivity, cyber incidents, government spending constraints, and execution or cost overruns from restructuring."
+}

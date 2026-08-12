@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "if ... continue or worsen",
+    "various risks",
+    "approximately",
+    "early stages of commercializing"
+  ],
+  "risk_summary": "The excerpt is generally specific and data-rich, with quantified revenue changes, acquisition costs, geographic impacts, and supply-chain effects. Key risks include persistent supply-chain constraints, geopolitical exposure, China and Russia weakness, currency volatility, and early-stage New Power commercialization, although management presents diversification and growth initiatives positively."
+}

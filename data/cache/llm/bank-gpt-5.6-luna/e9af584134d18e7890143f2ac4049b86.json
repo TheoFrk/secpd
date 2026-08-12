@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "cannot assure achievement",
+    "including, but not limited to",
+    "no material adverse effect",
+    "adequate liquid assets and funding sources"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standardized forward-looking-statement disclaimers and broad assurances, which reduce specificity around downside scenarios. It provides useful quantitative operating and liquidity data, including revenue growth, margins, cash, borrowings, and interest rates, but presents an overall confident tone while acknowledging extensive macroeconomic, legal, operational, and execution risks."
+}

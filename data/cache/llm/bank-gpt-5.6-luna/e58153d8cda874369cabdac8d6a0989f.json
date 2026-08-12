@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to changes and uncertainties",
+    "expected to increase",
+    "non-GAAP financial measure",
+    "primarily due to",
+    "ability to meet financial obligations"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating trend, with substantial quantified growth in sales, earnings, EBITDA, operating cash flow, and debt reduction. Key risks include dependence on commercial aerospace recovery, OEM production uncertainty, international macroeconomic exposure, plant-fire disruptions and unresolved insurance claims, and reliance on non-GAAP performance measures. Liquidity appears adequate based on disclosed cash flow, but the excerpt is truncated before the full liquidity discussion and includes meaningful debt obligations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "factors discussed above",
+    "partially offset by",
+    "outcome could materially impact",
+    "currently under audit"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed year-over-year changes and segment drivers. It indicates weaker sales and profitability in 2009, although cost reductions partly mitigated the decline. Tax audits and unresolved tax positions present a potentially material but uncertain future cash-flow and earnings risk."
+}

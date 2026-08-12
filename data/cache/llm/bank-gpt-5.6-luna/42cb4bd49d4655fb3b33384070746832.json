@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance",
+    "current expectations",
+    "may be required",
+    "subjective assumptions",
+    "attempting to obtain additional working capital"
+  ],
+  "risk_summary": "The company reports limited operating revenue, continuing losses, minimal cash, substantial current liabilities, derivative liabilities, accrued interest, and reliance on external financing. Its ability to continue operations depends on obtaining additional capital, with explicit uncertainty regarding financing availability and future profitability. Quantitative disclosure is fairly detailed, but the forward-looking discussion relies on boilerplate caveats and provides limited concrete financing or operating milestones."
+}

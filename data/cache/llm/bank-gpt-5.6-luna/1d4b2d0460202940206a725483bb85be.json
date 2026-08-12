@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "do not disclose quantitative information",
+    "global economic outlook is still uncertain",
+    "based on assumptions regarding probability",
+    "actual results could differ",
+    "reasonably possible"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on liquidity, geographic exposure, contingent consideration, tax allowances, and historical FCPA settlements. Risk disclosure is generally transparent but includes meaningful uncertainty around product-level performance, government spending, foreign exchange, tax-asset recoverability, and milestone obligations; the stated liquidity position and lack of borrowings create a mildly confident overall tone."
+}

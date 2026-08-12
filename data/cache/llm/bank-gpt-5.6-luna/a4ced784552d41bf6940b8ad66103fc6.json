@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other risks and uncertainties",
+    "more likely than not",
+    "indefinitely reinvested"
+  ],
+  "risk_summary": "The excerpt has a strongly promotional operating narrative and includes several quantified investments, returns, and growth metrics, but much of the strategic discussion relies on broad objectives and forward-looking language. Key risks include turnaround execution, foreign deferred-tax valuation allowances, uncertain realization of tax assets, and potentially material tax exposure on undistributed foreign earnings."
+}

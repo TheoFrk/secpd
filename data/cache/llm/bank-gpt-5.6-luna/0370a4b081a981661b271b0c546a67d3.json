@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and unknown factors",
+    "material and adverse",
+    "non-GAAP financial measures",
+    "covenant defaults and limited waiver",
+    "unsecured and uncommitted loan facility"
+  ],
+  "risk_summary": "The excerpt reports a sharp deterioration in operating performance, including a 24% sales decline, materially lower margins, a $23.0 million net loss, and a substantial reduction in adjusted EBITDA. Liquidity and credit risk are elevated because the Company breached minimum EBITDA covenants, required a waiver, had $130.0 million of borrowings against $21.0 million of cash, and relied on shareholder financing. Disclosure is quantitatively detailed but includes substantial forward-looking and legal-risk boilerplate, and the excerpt is truncated before key financing terms are completed."
+}

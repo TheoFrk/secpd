@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "risks difficult to predict",
+    "other risks detailed in filings",
+    "disciplined approach",
+    "subject to terms and conditions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on cash flows, capital spending, acquisition financing, and debt balances, but begins with broad boilerplate risk disclaimers and contains some incomplete or truncated discussion. Risk is moderate: operating cash flow improved, yet the acquisition materially increased investing outflows and debt dependence, with additional borrowing subject to conditions."
+}

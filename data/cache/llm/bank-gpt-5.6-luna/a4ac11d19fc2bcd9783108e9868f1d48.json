@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "multiple financial restatements",
+    "primarily due to demand fluctuations",
+    "partially offsetting decreases",
+    "expected to continue to ramp",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt discloses significant reporting-control and estimate-related risk, including prior and 2014 restatements affecting tax assets, inventory, and expenses. Operating performance also weakened, with declining revenue and gross margin, customer/program losses, government-funding delays, inventory obsolescence, and an FDA-related program hold. Quantification is generally strong, although repeated causal qualifiers and reliance on adjusted metrics somewhat soften the risk presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "as long as it is economically feasible",
+    "factors beyond our control",
+    "expected to continue"
+  ],
+  "risk_summary": "The disclosure provides substantial operational detail and some quantified information, but relies on standard forward-looking disclaimers and conditional language for outlook, sourcing, liquidity, and acquisition funding. Key risks include weather-driven seasonality, input-cost and freight volatility, production constraints, market demand variability, and potential reliance on additional financing."
+}

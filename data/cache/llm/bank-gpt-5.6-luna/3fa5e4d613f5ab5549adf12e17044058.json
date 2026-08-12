@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous risks and uncertainties",
+    "non-GAAP ENI emphasis",
+    "legacy CLO runoff",
+    "subject to certain conditions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, with detailed AUM, revenue, earnings, issuance, and investment figures, but relies on standard forward-looking disclaimers and a non-GAAP performance measure that may reduce comparability. The tone is broadly positive and growth-oriented, although it acknowledges meaningful runoff, refinancing, call, redemption, and legacy-asset risks."
+}

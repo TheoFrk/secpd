@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "many factors, including",
+    "other factors",
+    "likely to increase costs",
+    "broad array of products and services",
+    "not comparable"
+  ],
+  "risk_summary": "The excerpt provides substantial historical quantitative disclosure, including revenue, income, trading gains and losses, and market data, which limits overall vagueness. However, it also relies on broad catch-all risk language and extensive business descriptions, while highlighting material exposure to market volatility, sovereign debt, real estate, regulation, funding costs and credit spreads."
+}

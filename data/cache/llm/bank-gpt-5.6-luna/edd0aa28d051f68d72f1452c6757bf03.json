@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "restated and recasted amounts",
+    "audit committee investigation",
+    "entities under common control",
+    "related entities and sponsored entities",
+    "variable interest entity"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively specific, but its extensive restructuring, restatement history, related-party arrangements, and complex consolidation structures indicate elevated reporting and execution risk. The tone is operationally confident yet materially tempered by prior accounting issues and transaction complexity."
+}

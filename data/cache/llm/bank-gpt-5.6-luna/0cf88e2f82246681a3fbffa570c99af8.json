@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe harbor and no update obligation",
+    "risks and uncertainties",
+    "management estimates and assumptions",
+    "material adverse change",
+    "subjective future cash flow assumptions"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking disclaimer language and relies on management estimates for inventory, warranties, taxes, and asset impairment, creating moderate uncertainty. Credit risk is elevated by customer concentration, economic and demand exposure, secured borrowing, financial covenants, cash-collateral mechanics, and material adverse change default provisions, although the company reports covenant compliance and positive operating cash flow."
+}

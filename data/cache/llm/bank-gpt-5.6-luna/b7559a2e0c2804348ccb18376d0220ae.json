@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP supplemental measures",
+    "high geographic concentration",
+    "selective acquisitions",
+    "potential for occupancy and rent growth",
+    "excluding significant costs"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear acquisition, development, disposition, occupancy, and capital activity metrics. Risk tone is optimistic, emphasizing growth and operating performance, while acknowledging geographic concentration and the limitations of NOI and FFO. Reliance on non-GAAP measures and extensive boilerplate modestly reduces transparency regarding company-wide profitability and liquidity."
+}

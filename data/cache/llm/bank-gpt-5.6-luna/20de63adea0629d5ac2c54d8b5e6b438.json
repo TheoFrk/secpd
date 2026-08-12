@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "we expect will continue",
+    "ongoing decline",
+    "certain restructuring actions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides segment-level revenue, cost, cash flow, debt, and restructuring figures, limiting outright evasiveness. Risk tone is moderately negative because revenues and contract awards declined, legacy businesses are under pressure, and restructuring and debt activity remain significant, although management presents these developments as controlled transformation and efficiency initiatives."
+}

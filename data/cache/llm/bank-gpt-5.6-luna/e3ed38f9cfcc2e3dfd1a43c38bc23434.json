@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "may not be comparable",
+    "partially offset",
+    "favorable currency impacts",
+    "discontinued operations"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed explanations of sales, cash flow, profitability, and leverage trends, with an overall positive operating tone. Key risks are presented indirectly through offsets, reliance on favorable currency effects and product penetration, non-GAAP adjustments, discontinued operations, and a still-elevated 56% debt-to-capital ratio."
+}

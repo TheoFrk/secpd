@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "inherent uncertainty underlying loss estimates",
+    "considerable degree of judgment",
+    "to the extent possible",
+    "materially different from current estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including geographic concentration, cash flows, restricted funds, and sensitivity to workers’ compensation estimates. The principal risks are California concentration, insurance and claims-reserve uncertainty, and declining operating cash flow, while the overall tone remains balanced rather than crisis-like."
+}

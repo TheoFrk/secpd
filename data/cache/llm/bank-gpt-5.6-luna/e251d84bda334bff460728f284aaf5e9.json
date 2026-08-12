@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.15,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "remain uncertain",
+    "could be more or less than we expect",
+    "may incur additional restructuring charges"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, with clear segment, earnings, cash flow, capital deployment, and restructuring figures. Risk is concentrated in declining non-GAAP operating earnings, generic pricing and contract renewal uncertainty, and potential additional restructuring costs, although liquidity and operating cash flow appear solid."
+}

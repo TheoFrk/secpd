@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "no obligation to update",
+    "various other assumptions",
+    "uncertain macroeconomic environment"
+  ],
+  "risk_summary": "The excerpt combines extensive standardized forward-looking disclaimers and accounting-estimate caveats with some specific operational commentary. Risk tone is mixed: macroeconomic weakness, customer spending reductions, product-cycle timing, litigation, and estimation uncertainty are acknowledged, while management characterizes the business fundamentals and strategy as healthy. Quantitative detail is limited in the provided text, reducing transparency regarding the magnitude of identified risks."
+}

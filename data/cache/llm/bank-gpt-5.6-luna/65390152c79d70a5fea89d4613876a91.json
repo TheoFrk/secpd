@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "do not anticipate providing updates",
+    "more than anticipated downtime",
+    "unable to routinely complete orders",
+    "not predictable"
+  ],
+  "risk_summary": "The excerpt provides some useful operating metrics, but omits detailed processor-level status and appears truncated around key tables and explanations. Material risks include unanticipated downtime, dependence on purchased feedstock, limited and unpredictable Data Business revenue, and reliance on management-specific expertise."
+}

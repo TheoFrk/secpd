@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe our success depends",
+    "designed to help us achieve",
+    "unrivaled distribution system",
+    "intended to generate profitable volume",
+    "temporary in nature"
+  ],
+  "risk_summary": "The excerpt is largely promotional and business-model descriptive, with substantial boilerplate and limited direct discussion of adverse outcomes. It identifies broad operational, macroeconomic, regulatory, currency, water-availability, and impairment risks, but provides few quantified sensitivities in the supplied section. The overall tone is confident, though the investment impairment discussion relies on management judgments about recovery prospects."
+}

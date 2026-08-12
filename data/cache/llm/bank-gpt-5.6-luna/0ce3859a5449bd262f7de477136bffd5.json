@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to significant judgment and estimates",
+    "actual losses may be higher or lower",
+    "could materially adversely impact earnings",
+    "unallocated component for uncertainties",
+    "inconsistent deferral dates and amounts"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on PPP exposure, loan modifications, capital ratios, liquidity, and allowance adjustments, but relies heavily on standard caveats regarding estimation uncertainty. Credit risk is elevated by COVID-19-related deferrals and potential future loan-loss provisions, although reported capital and liquidity remain strong. Apparent OCR corruption and inconsistencies in the deferral discussion reduce disclosure reliability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not more likely than not",
+    "other available evidence",
+    "may need to modify judgments",
+    "appears to be slowly recovering",
+    "future taxable income projections"
+  ],
+  "risk_summary": "The company returned to profitability and reported materially lower provisioning, but the improvement is partly driven by recoveries and prior aggressive remediation of classified assets. Persistent credit-quality challenges, cumulative losses, a full deferred-tax-asset valuation allowance, and reliance on management estimates indicate continuing balance-sheet and earnings risk."
+}

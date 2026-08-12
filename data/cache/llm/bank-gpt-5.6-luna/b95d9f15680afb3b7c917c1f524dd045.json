@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "cross-reference to other pages",
+    "repeated information-related phrasing",
+    "no substantive risk detail"
+  ],
+  "risk_summary": "The excerpt is a procedural cross-reference rather than substantive financial or market-risk disclosure. It provides page locations but no quantified exposures, trends, or mitigating factors, limiting standalone credit-risk usefulness."
+}

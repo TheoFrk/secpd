@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to numerous risks and uncertainties",
+    "could adversely affect",
+    "cannot predict with certainty",
+    "if adequate levels of reimbursement",
+    "unfavorable foreign currency translation"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, currency impacts, product performance, acquisitions, and financing actions. It presents meaningful risks from reimbursement pressure, healthcare reform, foreign exchange, macroeconomic conditions, pricing erosion, and seasonality, but balances these with growth-oriented commentary. The excerpt appears truncated and contains a potentially confusing transition between fiscal-year periods, which modestly limits interpretability."
+}

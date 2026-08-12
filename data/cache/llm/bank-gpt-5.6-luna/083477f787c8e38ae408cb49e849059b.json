@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "reasonably positive",
+    "we believe",
+    "whatever they might be",
+    "well-positioned",
+    "may not work"
+  ],
+  "risk_summary": "The excerpt presents a strongly optimistic outlook supported by operating and balance-sheet metrics, but relies heavily on management beliefs and broad assurances about adaptability. Key risks include healthcare reform, Medicare reimbursement pressure, regulatory uncertainty, and potentially ineffective alternative payment models, with limited quantified downside analysis."
+}

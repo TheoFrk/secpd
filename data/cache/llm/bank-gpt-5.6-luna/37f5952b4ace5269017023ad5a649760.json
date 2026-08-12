@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer repetition",
+    "approximately one quarter",
+    "projected revenues",
+    "believes it has adequate working capital",
+    "may not be able to raise additional capital"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial information, but liquidity is constrained, with sufficient working capital projected for only approximately one quarter and an explicit dependence on additional capital raising. The company remains loss-making, has a large accumulated deficit, rising liabilities, and significant revenue concentration in Gogiro, while optimistic growth language is heavily qualified by forward-looking disclaimers."
+}

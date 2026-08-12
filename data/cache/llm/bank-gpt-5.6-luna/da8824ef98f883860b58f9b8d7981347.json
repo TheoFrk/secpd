@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "various factors",
+    "contingent on",
+    "seems to be alleviated",
+    "text truncation"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantification, including demand, traffic, pricing, supply, and potential working-capital impacts. Risk tone is moderately cautious due to reduced railroad spending, lower crosstie demand, raw-material constraints, weather effects, trade uncertainty, and possible additional working-capital needs, although management retains a generally confident outlook."
+}

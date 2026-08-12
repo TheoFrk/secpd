@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "many factors outside our control",
+    "challenging business environment",
+    "may differ materially",
+    "based on judgments and assumptions",
+    "could materially impact"
+  ],
+  "risk_summary": "The excerpt provides extensive business and segment descriptions but limited quantitative analysis of financial exposure, contract backlogs, margins, liquidity, or sensitivity to adverse conditions. Risk disclosures rely heavily on broad qualifiers and standard forward-looking language, with meaningful exposure to cyclicality, macroeconomic weakness, project-cost overruns, delays, and percentage-of-completion estimates. Overall tone is cautious but not crisis-like, balancing economic concerns with management’s view that customers remain financially stable."
+}

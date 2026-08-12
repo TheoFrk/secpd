@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "non-U.S. GAAP financial measures",
+    "restatement adjustments",
+    "other non-recurring expenses",
+    "materially differ"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified but contains substantial risk signals, including declining revenue, continuing net losses, higher interest expense, debt extinguishment losses, financial restatement activities, and litigation-related costs. Management emphasizes adjusted performance measures and extensive forward-looking caveats, which may soften the presentation of underlying credit risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "various other assumptions",
+    "uncertain global macroeconomic environment"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broad qualitative statements, with limited quantified detail in the provided section. It identifies meaningful risks including cautious customer spending, declining product gross margins, pricing pressure, tax uncertainty, and potential adverse examination outcomes, although these are balanced by promotional strategy and product language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "inherently uncertain",
+    "significant expenses and liabilities",
+    "judgments and estimates"
+  ],
+  "risk_summary": "The excerpt is dominated by boilerplate forward-looking disclaimers and extensive product marketing, with limited operating or financial quantification in the provided section. It highlights material uncertainty around contingencies, tax assets, profitability projections, and potential future liabilities, but does not indicate an immediate crisis."
+}

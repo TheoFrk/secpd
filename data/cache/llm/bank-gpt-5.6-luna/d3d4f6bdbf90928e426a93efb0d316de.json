@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "other risks detailed from time to time",
+    "believe and expect",
+    "significant value proposition",
+    "anticipated future blockchain applications"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail on billings, geographic concentration, pandemic-related declines, customer additions, and substantial operating losses. However, it relies heavily on standard forward-looking disclaimers and optimistic, largely unquantified claims regarding technology, customer growth, blockchain benefits, and future operations. Credit risk is elevated by recurring operating losses, concentration in California and hospitality-related customers, pandemic sensitivity, and reliance on successful technology and acquisition execution."
+}

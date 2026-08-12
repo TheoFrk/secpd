@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant degree of judgment",
+    "could produce significantly different results",
+    "as deemed necessary by management",
+    "may need to be updated",
+    "other matters are discussed more fully below"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on earnings drivers, expenses, acquisitions, PPP income, restructuring, and accounting estimates. Key risks remain concentrated in subjective loan-loss, tax, and fair-value assumptions, with potentially material impacts from changing economic conditions, interest rates, and credit performance."
+}

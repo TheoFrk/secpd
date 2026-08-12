@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.75,
+  "risk_sentiment": -0.58,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "expected to",
+    "primarily due to",
+    "more likely than not",
+    "NM — Not meaningful",
+    "factors that could adversely affect"
+  ],
+  "risk_summary": "The excerpt presents substantial deterioration, including a $373.0 million net loss, sharply lower sales and gross profit, major impairment charges, and increased tax valuation allowances. Management provides meaningful quantitative detail but relies on forward-looking expectations and generalized explanations for recovery, cost savings, and macroeconomic pressures. Overall risk tone is materially negative despite stated restructuring and efficiency initiatives."
+}

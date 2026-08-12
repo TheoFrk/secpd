@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "we believe",
+    "may adversely affect",
+    "not indicative of normal operating costs",
+    "SEC inquiry and financial restatement costs"
+  ],
+  "risk_summary": "The excerpt combines detailed business descriptions with extensive forward-looking disclaimers and frequent qualitative claims, limiting precision on expected financial outcomes. It identifies meaningful risks from weak demand, low margins, competition, pricing pressure, seasonality, labor and regulatory issues, while the references to an SEC inquiry, financial restatement costs, restructuring, and non-GAAP exclusions indicate elevated governance and earnings-quality risk."
+}

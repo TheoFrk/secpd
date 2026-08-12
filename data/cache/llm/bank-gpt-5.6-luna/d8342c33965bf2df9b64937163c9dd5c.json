@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.47,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently uncertain and outside our control",
+    "among others",
+    "may differ, possibly materially",
+    "effectiveness of risk management"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance, capital, credit-loss, and shareholder-return data, supporting relatively strong disclosure precision. However, the lengthy boilerplate forward-looking disclaimer and broad catalog of uncertain risks reduce specificity regarding potential downside magnitude and timing. Overall tone is positive and performance-oriented, though increased credit-loss provisions and numerous regulatory, litigation, geopolitical, and strategic exposures remain relevant risks."
+}

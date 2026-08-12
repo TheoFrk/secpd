@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strong performance assertions",
+    "expected to recover next season",
+    "solid financial position",
+    "non-GAAP measure disclaimer",
+    "assumptions could result in material adjustment"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, but uses favorable management framing and forward-looking expectations around crop recovery, demand balance, and performance. Key risks include oversupply, volatile regional markets, foreign exchange, inventory write-downs, supplier financing, and estimation sensitivity, although the overall tone remains confident."
+}

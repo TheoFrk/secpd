@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may not be able to",
+    "long-term trajectory is unknown",
+    "mid-single digit percentage",
+    "no assurance",
+    "subject to licensing requirements"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful quantified disclosures on China revenue exposure, repurchases, debt facilities, and tax liabilities, but relies substantially on forward-looking qualifiers and scenario-based risk language. Key risks include export controls, supply-chain concentration and complexity, product-transition execution, demand uncertainty, and potential inventory or capacity impairments. Overall tone is cautiously confident, supported by strong demand commentary but tempered by significant operational and geopolitical uncertainty."
+}

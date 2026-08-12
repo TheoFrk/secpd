@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual outcomes may differ materially",
+    "expects to continue",
+    "various stages of development pipeline",
+    "estimated liability for future chargebacks"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on losses, cost increases, inventory write-offs and reserves, but is accompanied by extensive forward-looking disclaimers and reliance on estimates. Risk is elevated due to widening net losses, declining contract manufacturing revenue, production inefficiencies, regulatory/product pipeline dependence and litigation exposure."
+}

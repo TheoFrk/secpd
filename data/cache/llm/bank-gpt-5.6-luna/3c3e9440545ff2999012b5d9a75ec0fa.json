@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may cause actual results to differ",
+    "difficult to predict",
+    "inherently uncertain estimates",
+    "reasonable likelihood"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operational and balance-sheet information, supporting relatively good disclosure precision. However, the forward-looking disclaimer and critical accounting discussion rely on broad uncertainty language around loan losses, economic conditions, and management estimates. Overall tone is neutral to mildly confident, with material credit and estimation risks acknowledged but not indicating an acute crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could have an impact",
+    "when necessary",
+    "does not expect",
+    "risk ... negligible",
+    "various covenants and restrictions"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, detailing sales drivers, segment trends, debt terms, interest rates, and covenant thresholds. It identifies meaningful risks from economic conditions, PTC implementation timing, global expansion, foreign exchange, customer demand, and financing restrictions, but uses standard forward-looking qualifiers. Overall, management presents a moderately confident tone while acknowledging potential adverse effects."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "no undue reliance",
+    "broad enumerated risk factors"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer language and a broad, largely non-quantified list of potential risks spanning liquidity, credit, regulatory, market, cybersecurity, and macroeconomic conditions. Some operating and balance-sheet data are quantified, but the risk discussion provides limited company-specific severity, probability, or sensitivity analysis. Overall tone is neutral to mildly constructive, reflecting continued economic and deposit growth while acknowledging significant uncertainty."
+}

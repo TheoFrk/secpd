@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cautiously optimistic",
+    "yet to be awarded",
+    "could have a material adverse effect",
+    "until further notice",
+    "under consideration"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly regarding contracts, fleet impacts, capital requirements, and acquisition terms. However, it contains substantial forward-looking uncertainty around economic recovery, SAR opportunities, aircraft safety restrictions, and the timing of EC225 remediation. The grounded aircraft and potential material adverse effect represent meaningful operational and financial risks despite an overall constructive strategic tone."
+}

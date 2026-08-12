@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "risks and uncertainties",
+    "may differ materially",
+    "additional errors may be identified",
+    "other risks described herein"
+  ],
+  "risk_summary": "The disclosure has a strongly negative risk tone, highlighting restatement uncertainty, material control weaknesses, delayed SEC filings, potential sanctions or delisting, financing constraints, rating downgrades, and adverse insurance and regulatory exposures. Its extensive boilerplate and broad catch-all language reduce specificity, although the identified risks are materially significant and operationally concrete."
+}

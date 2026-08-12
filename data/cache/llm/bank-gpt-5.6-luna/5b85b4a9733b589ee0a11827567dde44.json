@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.25,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "refer to pages 6 through 42",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A analysis and relies entirely on a cross-reference to another document. This limits transparency in the presented section and prevents direct assessment of financial condition, results, or risks."
+}

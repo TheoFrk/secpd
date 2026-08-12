@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "results may differ significantly",
+    "many factors outside its control",
+    "not necessarily meaningful or reliable",
+    "does not cover all underlying exposures",
+    "best-in-class product solutions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by quantified revenue, tax, foreign-exchange, and expense figures. Risk disclosure is broad and partly boilerplate, emphasizing currency exposure, variable operating results, leverage-related amortization, and uncertain comparability without fully quantifying several forward-looking sensitivities."
+}

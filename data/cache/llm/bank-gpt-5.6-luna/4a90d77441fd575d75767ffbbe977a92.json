@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "modest impact",
+    "strong operational performance",
+    "foreseeable future",
+    "if needed"
+  ],
+  "risk_summary": "The excerpt is largely quantified and transparent, reporting revenue, margins, cash flow, debt capacity, and major transaction effects. Risk tone is generally confident and favorable, though promotional language, reliance on non-GAAP metrics, and limited detail on adverse scenarios modestly reduce disclosure clarity."
+}

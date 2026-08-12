@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "non-GAAP Adjusted EBITDA exclusions",
+    "no assurance gross-margin improvement",
+    "client concentration and demand variability"
+  ],
+  "risk_summary": "The excerpt quantifies substantial operating risks, including declining gross margins, significant net losses, client concentration, demand variability, competitive pricing pressure, and adverse economic conditions. Management presents strategic initiatives and diversification plans, but repeatedly qualifies their potential benefits and relies substantially on adjusted non-GAAP performance measures."
+}

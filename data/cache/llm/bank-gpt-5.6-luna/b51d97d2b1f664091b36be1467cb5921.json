@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks include, but are not limited to",
+    "other risks detailed in filings",
+    "capital expenditure limit waived",
+    "believes cash flows will be sufficient"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on cash flows, debt, capital expenditures, and credit availability, but relies heavily on standard forward-looking disclaimers and broad, non-exhaustive risk lists. Credit risk is elevated by the capital expenditure covenant waiver, substantial secured debt, and reliance on continued operating cash flows and credit availability, despite management’s stated liquidity confidence."
+}

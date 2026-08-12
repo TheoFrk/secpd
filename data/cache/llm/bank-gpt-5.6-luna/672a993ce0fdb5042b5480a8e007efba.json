@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "incorporated by reference",
+    "continuing uncertainty about timing and amount",
+    "certain customer to make payment",
+    "appropriate risk/reward profile"
+  ],
+  "risk_summary": "The excerpt is relatively precise and well quantified, but contains substantial boilerplate forward-looking disclaimers and cross-references. Risk tone is moderately negative due to material revenue and earnings declines, Venezuelan asset seizures, customer receivables uncertainty, and an SEC settlement, despite management’s emphasis on liquidity, cost control, and fleet modernization."
+}

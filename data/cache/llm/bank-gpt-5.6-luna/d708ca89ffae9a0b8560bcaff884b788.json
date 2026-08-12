@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "not possible to predict all factors",
+    "expressly disclaim any current intention to update",
+    "subject to revision or withdrawal"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative disclosure on segment scale, debt, investment, rates, capacity, and operating trends with extensive boilerplate disclaimers and forward-looking qualifiers. Risk tone is cautiously constructive, emphasizing investment, hedging, balance-sheet improvement, and expected growth, while acknowledging regulatory, market, demand, outage, weather, and credit risks."
+}

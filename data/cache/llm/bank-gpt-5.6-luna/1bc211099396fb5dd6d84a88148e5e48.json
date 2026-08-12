@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad range of applications",
+    "we believe we have achieved a leadership position",
+    "may include strategic acquisitions",
+    "if we deem the operations non-strategic or underperforming",
+    "potentially includes an income tax benefit"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on segment sales, contract revenue recognition, acquisitions, divestitures, and restructuring, but also relies on optimistic strategic boilerplate and incomplete list artifacts. Key risks include declining military and aftermarket sales, foreign-exchange exposure, customer pricing pressure, contract-estimate sensitivity, and restructuring or divestiture activity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "intended to enable",
+    "subject to adjustment",
+    "continued investments for growth"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with detailed year-over-year drivers and segment information. The tone is strongly confident and growth-oriented, although the $3.8 billion provisional tax charge and extensive use of offsetting explanations indicate material reporting complexity and some uncertainty."
+}

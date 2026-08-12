@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "primarily driven by",
+    "transformational growth",
+    "rapidly evolving business environment",
+    "historical results may not be comparable"
+  ],
+  "risk_summary": "The excerpt provides some quantified financial data and transaction detail, but relies substantially on boilerplate strategy language, non-GAAP measures, and broad causal descriptions. Risk tone is broadly neutral to mildly negative, with indications of operating losses, goodwill impairment, higher expenses, client concentration, and limited comparability following the reverse acquisition."
+}

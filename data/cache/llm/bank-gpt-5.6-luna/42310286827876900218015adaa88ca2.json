@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "cannot assure estimates will be accurate",
+    "change in estimate",
+    "sufficient for at least the next 12 months"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed revenue, cost, margin, contract-award, and financing data, but relies on percentage-of-completion estimates that can materially distort reported earnings and cash flow. Contract overruns, technical issues, unfavorable estimate adjustments, prior A-10 losses, and potential borrowing needs indicate meaningful execution and liquidity risk. The tone is cautiously constructive due to improved 2015 results and available credit, but the outlook remains conditional."
+}

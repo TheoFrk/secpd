@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "could differ materially",
+    "do not place undue reliance",
+    "unanticipated regulatory proceedings"
+  ],
+  "risk_summary": "The excerpt combines detailed operating and balance-sheet metrics with extensive boilerplate forward-looking disclaimers and broad, largely unquantified risk factors. Risk tone is cautiously positive, emphasizing loan growth, capital raising, favorable margins, and market resilience, while acknowledging economic, credit, regulatory, and interest-rate risks. The truncated and corrupted passage limits assessment of the full disclosure context."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "reasonable expectations and assumptions",
+    "no obligation to update",
+    "highly subjective assumptions"
+  ],
+  "risk_summary": "The excerpt combines quantified disclosure of a $169.3 million litigation settlement charge with broad, heavily qualified forward-looking language. Key risks include weak market demand, geographic slowdown, litigation, financing dependence, and material estimation uncertainty in valuation, taxes, warranties, receivables, and impairments. Management presents operational resilience and product momentum, but the overall disclosure tone is cautious and disclaimer-heavy."
+}

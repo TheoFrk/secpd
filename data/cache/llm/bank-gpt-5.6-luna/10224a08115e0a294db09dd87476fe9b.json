@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurances",
+    "beyond our control",
+    "believe we are well-positioned",
+    "expected to be substantially similar"
+  ],
+  "risk_summary": "The excerpt combines substantial operational detail and quantified metrics with extensive boilerplate forward-looking disclaimers and optimistic, belief-based assertions. Key credit risks include cyclical advertising demand, customer collection delays, dependence on borrowing and debt service, acquisition-related costs, and significant prior impairment charges."
+}

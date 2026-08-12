@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "widely regarded",
+    "may result in",
+    "highly dependent upon prevailing crude oil prices"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on fleet capacity, acquisition consideration, cost structure, oil prices, and debt-related items. Risk is moderated by dependence on volatile commodity prices, customer activity and expectations, while several sections are boilerplate or truncated and rely on non-quantified outlook language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "we estimate",
+    "we assume",
+    "may adversely impact",
+    "cannot currently predict"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but highlights severe legal, pandemic, margin, demand, and operational risks. The $4.1 billion GAAP operating loss and $5.63 billion opioid-related charge materially weaken the risk profile, despite positive non-GAAP earnings and liquidity metrics. Future outcomes remain uncertain due to opioid settlement timing, COVID-19 effects, customer behavior, and cost pressures."
+}

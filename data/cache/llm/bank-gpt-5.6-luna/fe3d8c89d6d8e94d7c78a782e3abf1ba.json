@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "inherent risks and uncertainties",
+    "cannot guarantee future results",
+    "difficult to predict",
+    "beyond the control of the Company"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, providing detailed balances, growth rates, credit-loss provisions, allowance ratios, and nonperforming assets. Its risk tone is cautiously confident, emphasizing growth and improving portfolio performance while relying on standard forward-looking and liability-limiting disclaimers. Complexity is high due to lengthy sentences, extensive banking terminology, and dense business descriptions."
+}

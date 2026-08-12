@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "subject to risks and uncertainties",
+    "expected effective tax rate is volatile",
+    "duplicated and corrupted text"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified revenue, backlog, segment, and tax information, but relies on standard forward-looking disclaimers and includes notable OCR-like duplication and incomplete passages. Growth and customer expansion are presented positively, while the pre-tax loss, volatile effective tax rate, restructuring-related costs, and revenue-recognition timing introduce meaningful risk."
+}

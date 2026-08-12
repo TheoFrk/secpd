@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.43,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "risks and uncertainties include, but are not limited to",
+    "no assurance expectations will be realized",
+    "assumes no obligation to provide revisions",
+    "industry-leading portfolio and greater optimism"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, providing detailed sales, volume, pricing, cost, earnings, liquidity, and acquisition figures. Risk tone is generally positive and recovery-oriented, but extensive forward-looking disclaimers and broad risk categories limit the specificity of the outlook. The excerpt also contains promotional corporate descriptions and is truncated near the end."
+}

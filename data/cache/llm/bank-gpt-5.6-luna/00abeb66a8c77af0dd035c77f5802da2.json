@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "certain compelling competitive advantages",
+    "assumptions and estimates may change",
+    "potential impairment"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and liquidity narrative supported by substantial quantitative metrics, including revenue mix, fleet size, EBITDA growth, and available liquidity. Risk disclosure is comparatively less prominent and relies on forecasts, management assumptions, non-GAAP measures, and broad statements about competitive advantages. Goodwill impairment sensitivity to long-term projections, growth rates, capital costs, and economic conditions represents a material underlying credit risk."
+}

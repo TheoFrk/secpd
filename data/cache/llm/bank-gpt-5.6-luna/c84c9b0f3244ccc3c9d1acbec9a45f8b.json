@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results excluding charge",
+    "primarily due to",
+    "expected to increase",
+    "unable to specifically quantify",
+    "past-due accounts modified to current"
+  ],
+  "risk_summary": "The disclosure is generally detailed and strongly quantified, highlighting substantial revenue, earnings, and capital metrics. Risk factors include a significant European civil-litigation charge, declining 2024 truck-market expectations in key regions, and rising 30+ day past-due accounts from 0.4% to 1.0%. Use of adjusted results and account modifications somewhat softens presentation of these risks."
+}

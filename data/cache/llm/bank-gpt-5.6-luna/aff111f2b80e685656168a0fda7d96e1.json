@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "may differ materially",
+    "rapidly develop and introduce",
+    "other factors"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating and patent information, but relies substantially on management assertions and forward-looking language regarding competitiveness, demand, utilization, pricing, and growth. Key exposures include semiconductor cyclicality, customer and end-market concentration, inventory obsolescence, capacity underutilization, pricing pressure, and execution risk in technology and capital investment."
+}

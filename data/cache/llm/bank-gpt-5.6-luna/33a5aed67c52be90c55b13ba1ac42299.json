@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "factors beyond our control",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on broad, non-quantified risk factors and extensive forward-looking statement disclaimers. It identifies meaningful exposures including credit losses, regulatory capital, interest rates, cybersecurity, nonperforming assets, and higher-risk real estate lending, while presenting a mildly positive operational tone. Quantified balance-sheet and yield tables provide useful precision but do not, in this excerpt, quantify the potential impact of the listed risks."
+}

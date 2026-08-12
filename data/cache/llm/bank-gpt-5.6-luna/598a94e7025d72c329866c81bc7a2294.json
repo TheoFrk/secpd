@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "expected to be partially offset",
+    "based upon our expectations",
+    "not readily available",
+    "estimated from third-party data"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and strongly quantified, with clear revenue, earnings, acquisition, price, and rig-count metrics. Risk is framed as cyclical and dependent on commodity prices, customer spending, regulatory changes, and data limitations, particularly the Gulf of Mexico drilling moratorium. The overall tone is moderately positive, supported by strong 2010 growth and an optimistic activity outlook, but includes material forward-looking uncertainty."
+}

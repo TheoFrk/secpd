@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate",
+    "meaningful recovery",
+    "primarily due to",
+    "ongoing negotiations",
+    "certain previously agreed to"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed year-over-year explanations and liquidity figures. Risk tone is mixed: strong cash generation and financial condition are offset by margin compression, declining net income, supply-chain and aerospace exposure, customer price reductions, investment losses, and a disclosed SEC settlement. Revenue recognition and pricing accruals involve judgment and uncertainty related to negotiated retroactive adjustments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "material adverse impact",
+    "expects sales to increase",
+    "legal contingencies",
+    "critical accounting estimates"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating and transaction data, but contains substantial boilerplate disclaimers and management estimates. Risk tone is moderately negative due to historical restatements, internal control remediation, investigations, ongoing legal contingencies, inflation, tariffs, and continued weakness in oil and gas markets. The truncated disclosure and duplicated warranty language reduce clarity and presentation quality."
+}

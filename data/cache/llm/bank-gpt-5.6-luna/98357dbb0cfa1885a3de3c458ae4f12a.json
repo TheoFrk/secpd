@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "we expect",
+    "could potentially",
+    "under our current assumptions",
+    "not under our control"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantified clinical, milestone, financing, and lease information, but relies heavily on forward-looking expectations and contingent outcomes. Risk is elevated because the company is clinical-stage, dependent on successful trials and regulatory approval, and future milestone payments are uncertain and outside its control."
+}

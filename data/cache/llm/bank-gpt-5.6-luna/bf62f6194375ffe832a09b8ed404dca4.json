@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no exact measure of the effect",
+    "all references ... are estimates",
+    "may take further actions",
+    "actual results could differ",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt is generally constructive and provides substantial quantified targets, transaction values, debt activity, and market-share ranges. Risk disclosure is broad and partly boilerplate, with reliance on estimates for commodity effects, channel inventory, market growth, and accounting judgments. Leverage, currency, inflation, supply-chain, demand, and execution risks remain material despite management’s confident strategic framing."
+}

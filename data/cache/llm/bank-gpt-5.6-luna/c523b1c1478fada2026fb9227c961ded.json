@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may not be indicative of future sales",
+    "we believe resources will be adequate",
+    "could be cancelled",
+    "financing may not be available"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting sales, backlog, cash, debt, covenant compliance, and operating drivers. Risk is moderated by demand cyclicality, manufacturing constraints, product recalls, discontinued operations, backlog cancellation risk, and potential limits on future financing. Management presents a cautiously confident liquidity outlook for the next 12 months, subject to business conditions and excluding major acquisitions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could materially affect profitability",
+    "among others",
+    "may differ materially",
+    "will not update the information"
+  ],
+  "risk_summary": "The excerpt combines specific operating metrics and contract mechanics with extensive standard forward-looking disclaimers and broadly framed risk factors. Key exposures include contract renewal and termination, government fee and policy changes, cybersecurity events, execution risk, and dependence on government adoption, although the overall operating tone remains moderately confident."
+}

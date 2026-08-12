@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking cautionary statements",
+    "including but not limited to",
+    "broad macroeconomic risk list",
+    "potential impacts and uncertainties",
+    "related-party structural complexity"
+  ],
+  "risk_summary": "The excerpt is dominated by extensive boilerplate and broadly framed forward-looking risk disclosures, with limited company-specific quantification. It identifies substantial exposure to market, geopolitical, regulatory, liquidity, related-party, and transaction risks, although disclosed Russian exposure and reserves provide some concrete detail."
+}

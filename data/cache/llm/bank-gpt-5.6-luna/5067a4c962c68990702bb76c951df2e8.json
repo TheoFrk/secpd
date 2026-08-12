@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.63,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "specific impact ... unknown",
+    "unable to predict the effect",
+    "broad range of potential outcomes",
+    "may adversely impact",
+    "if ... could have a significant impact"
+  ],
+  "risk_summary": "The excerpt quantifies substantial potential defense-budget reductions and identifies high customer concentration, but the timing and magnitude of sequestration and program impacts remain uncertain. Management offsets this with a generally confident view that its capabilities align with protected defense priorities. Deferred contract costs introduce additional downside if future backlog or contract activity is insufficient for recovery."
+}

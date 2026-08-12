@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "near-term uncertainty",
+    "expected to provide opportunities",
+    "subject to a number of conditions",
+    "risks of delay and cost overruns"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, including fleet size, backlog, project costs, delivery dates, and contract terms. Risk tone is balanced but highlights meaningful uncertainty from the Macondo incident, drilling moratorium, regulatory delays, shipyard execution, labor costs, and uncontracted drillships. Some reliance on forward-looking expectations and generalized long-term demand assumptions introduces moderate uncertainty."
+}

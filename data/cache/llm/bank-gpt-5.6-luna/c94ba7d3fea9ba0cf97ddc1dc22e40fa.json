@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may not be successful",
+    "could create volatility",
+    "subject to certain specifications",
+    "unable to reasonably estimate",
+    "if licenses are denied"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, including inventory charges, revenue trends, regulatory exposure, tax positions, and liquidity resources. Risk tone is moderately cautious, reflecting demand volatility, excess supply, product transitions, export controls, new business-model uncertainty, and significant commitments, but strong Data Center growth and substantial cash partially offset these concerns."
+}

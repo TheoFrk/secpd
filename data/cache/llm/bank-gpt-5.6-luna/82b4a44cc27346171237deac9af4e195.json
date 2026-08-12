@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of actual results",
+    "many uncontrollable risks",
+    "belief-based outlook claims",
+    "below-optimum production levels"
+  ],
+  "risk_summary": "The excerpt combines quantified segment sales with extensive forward-looking, assumption-dependent language and repeated legal disclaimers. It acknowledges economic uncertainty, slowing end-market demand, lower production rates, and profitability pressure, but maintains a generally confident tone based on diversification, cost controls, and expected recovery."
+}

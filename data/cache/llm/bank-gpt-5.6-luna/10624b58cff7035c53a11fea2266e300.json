@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could differ materially",
+    "we believe",
+    "well positioned for growth",
+    "many factors including but not limited to"
+  ],
+  "risk_summary": "The excerpt uses promotional language and repeated belief-based assertions about market demand, competitive positioning, and future growth, while relying on standard forward-looking disclaimers. It provides some useful quantitative detail on segment revenue mix, customer reach, R&D staffing, and patents, but gives limited downside quantification in this portion. Accounting-policy discussion appropriately highlights material estimation uncertainty and potential volatility in future expense recognition."
+}

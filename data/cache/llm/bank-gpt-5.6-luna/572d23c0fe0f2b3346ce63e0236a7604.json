@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "we anticipate a continued favorable impact",
+    "may still have a negative impact",
+    "sales disruption related to pending acquisition",
+    "continued transition out of certain customers"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantified, but highlights declining sales, store closures, customer attrition, integration delays, foreign-exchange exposure, and uncertainty surrounding the pending Staples acquisition. Management presents operating-income improvements and expected sales-transfer benefits, though these are partly offset by restructuring, legal, and transaction-related costs."
+}

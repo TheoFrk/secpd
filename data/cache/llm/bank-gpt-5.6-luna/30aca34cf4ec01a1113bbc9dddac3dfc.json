@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.86,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of successful financing",
+    "substantial doubt about going concern",
+    "may be required to curtail or terminate operations",
+    "forward-looking statements and risks",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt discloses severe liquidity and going-concern risks, including recurring losses, $5.9 million of notes outstanding, approximately $5.46 million of currently due liabilities, and no established funding source beyond July 2022. Management relies on uncertain debt or equity financing and acknowledges that failure to obtain funding could lead to curtailed or terminated operations. The disclosure is numerically detailed but includes substantial boilerplate risk language and an apparent truncation."
+}

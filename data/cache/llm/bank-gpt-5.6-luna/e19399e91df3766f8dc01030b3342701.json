@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.67,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance financing available",
+    "unaware of trends or uncertainties",
+    "going concern qualification",
+    "additional funding may be needed",
+    "delay, limit, reduce or terminate"
+  ],
+  "risk_summary": "The company reports severe financial stress, including a $2.87 million net loss, $1.30 million working-capital deficiency, $78,599 of cash, and a substantial accumulated deficit. Its ability to continue operations depends on uncertain future equity and debt financing, with explicit dilution, covenant, and commercialization risks. Disclosure is materially quantified but includes some boilerplate and noncommittal language regarding funding availability and future trends."
+}

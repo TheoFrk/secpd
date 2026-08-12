@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "significant estimates and assumptions",
+    "could materially decrease",
+    "management’s judgment",
+    "expects to decline further"
+  ],
+  "risk_summary": "The excerpt is heavily technical and boilerplate, with substantial reliance on accounting judgments, fair-value estimates, impairment assumptions, and customer collectability assessments. Operating results show quantified revenue and cost improvements, but the discussion is partially truncated and includes forward-looking expectations that may not be realized."
+}

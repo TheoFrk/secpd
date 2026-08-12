@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.71,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cautionary language",
+    "market-driven opportunities",
+    "expect these additions to increase revenues",
+    "challenging market conditions",
+    "non-uniform regulation"
+  ],
+  "risk_summary": "The excerpt is generally confident and growth-oriented, supported by substantial quantified acquisition and market-volume data. However, it relies on broad strategic claims and forward-looking expectations while noting regulatory pressure, declining credit-market activity, and challenging conditions. The disclosure is complex and partly boilerplate-heavy, but not strongly evasive."
+}

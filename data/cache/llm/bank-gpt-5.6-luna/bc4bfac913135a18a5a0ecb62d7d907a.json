@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may not have been fully realizable",
+    "no conclusive evidence",
+    "not necessarily limited to",
+    "SEC investigation is still ongoing",
+    "inherently uncertain and subject to refinement"
+  ],
+  "risk_summary": "The excerpt presents significant governance, related-party, accounting, and internal-control concerns, including restatements, undisclosed compensation, potentially diverted funds, and an ongoing SEC investigation. Repeated reliance on guarantees, lack of conclusive evidence, and qualified wording limits clarity regarding ultimate exposure and accountability. The abrupt transition into technical accounting policy language further reduces transparency."
+}

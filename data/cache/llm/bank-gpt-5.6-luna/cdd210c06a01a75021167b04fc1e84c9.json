@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "among others",
+    "as further discussed above",
+    "will not update the information"
+  ],
+  "risk_summary": "The excerpt combines detailed business and revenue-growth disclosures with extensive standard forward-looking-statement disclaimers and cross-references. Key risks include contract nonrenewal or termination, government pricing and policy changes, cybersecurity incidents, budget constraints, and dependence on transaction volumes. Quantitative metrics are provided for same-state growth and margins, but the excerpt is lengthy, repetitive, and partly truncated."
+}

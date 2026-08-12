@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "where possible",
+    "non-GAAP measures",
+    "not material individually or in the aggregate"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate, forward-looking qualifiers, promotional claims, and extensive cross-references, which limit direct assessment of downside exposure. It identifies cyclicality, raw-material volatility, competitive pricing, credit sensitivity, joint-venture accounting, and prior-period revisions, but provides limited quantified sensitivity or scenario analysis. Overall tone is cautiously positive and growth-oriented despite meaningful operating and disclosure risks."
+}

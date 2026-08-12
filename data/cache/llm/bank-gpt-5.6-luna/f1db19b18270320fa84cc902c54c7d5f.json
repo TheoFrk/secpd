@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "expect to see continued strength",
+    "invest opportunistically",
+    "highly dependent on assumptions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook supported by quantified revenue, margin, debt-reduction, liquidity, and earnings guidance, but includes material exposure to defense-budget pressure and demand variability. Risk disclosure is substantially boilerplate in the forward-looking section, while goodwill valuations depend heavily on forecasts, discount rates, and other potentially judgmental assumptions."
+}

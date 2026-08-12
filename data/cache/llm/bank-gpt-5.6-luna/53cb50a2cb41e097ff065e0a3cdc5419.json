@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.56,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "expects to continue meeting",
+    "aimed at improving",
+    "long-term strategy",
+    "broad coalition of stakeholders",
+    "illustration not provided"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and constructive tone, supported by quantified environmental progress, regulatory milestones, liquidity availability, and covenant compliance. It acknowledges exposure to regulation, weather, commodity prices, interest rates, credit ratings, supply-chain disruption, and inflation, but provides limited downside scenarios or sensitivity analysis. The truncated presentation and frequent aspirational language modestly reduce transparency."
+}

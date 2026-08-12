@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "potential adoption",
+    "we believe",
+    "expect to potentially incur",
+    "ultimate tax outcome is uncertain",
+    "cannot guarantee"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, with substantial quantified restructuring and manufacturing details but limited discussion of downside scenarios or financial sensitivity. It highlights strategic growth initiatives and completed cost reductions, while acknowledging execution, foreign exchange, tax, warranty, and third-party manufacturing risks. Overall tone is cautiously positive but includes moderate hedging and forward-looking uncertainty."
+}

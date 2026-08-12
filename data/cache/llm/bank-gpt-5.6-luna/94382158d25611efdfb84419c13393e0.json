@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "estimated impact",
+    "we expect to",
+    "while we believe assumptions are reasonable",
+    "may materially affect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on revenue declines, foreign-exchange effects, Venezuelan deconsolidation, and transformation-plan investments. Risk tone is moderately negative because of declining representatives and units, significant currency pressures, and a $120 million Venezuela-related loss, although management presents a confident remediation plan. Pension obligations remain sensitive to actuarial assumptions and changing market conditions."
+}

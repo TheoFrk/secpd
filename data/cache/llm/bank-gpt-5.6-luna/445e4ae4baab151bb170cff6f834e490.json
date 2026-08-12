@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could change significantly",
+    "we expect",
+    "adequate to fund",
+    "volatile economic environment",
+    "primarily attributable to"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent, with detailed operating, pension, liquidity, and cost data. Risk is moderated by strong reported earnings and liquidity, but results rely partly on a large deferred-tax benefit and remain exposed to currency, commodity-price, regional economic, and pension-assumption volatility."
+}

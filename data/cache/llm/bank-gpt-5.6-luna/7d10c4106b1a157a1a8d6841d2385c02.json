@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "current uncertain economic conditions",
+    "highly uncertain and cannot be predicted",
+    "subjective judgments and estimates",
+    "could have a material adverse effect"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding performance, asset quality, capital, and earnings drivers, with a mildly positive overall tone. Key risks include economic deterioration, rising rates, funding-cost pressure, slower mortgage and SBA activity, and uncertainty in ACL estimates. Standard forward-looking disclaimers and subjective modeling assumptions modestly reduce clarity but do not appear strongly evasive."
+}

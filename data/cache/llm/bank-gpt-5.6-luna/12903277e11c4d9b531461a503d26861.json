@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "many factors",
+    "assumptions concerning estimated future cash flows",
+    "potential withdrawal obligation may be significant"
+  ],
+  "risk_summary": "The excerpt is highly detailed and includes some quantified acquisition and project information, but it relies heavily on standard forward-looking disclaimers and generalized risk language. Key exposures include customer concentration, fixed-price contract cost estimates, impairment assumptions, variable-interest entities, divestiture execution, and potentially significant multiemployer pension withdrawal liabilities."
+}

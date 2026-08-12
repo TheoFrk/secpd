@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "potential customers and anticipated sales",
+    "considering bringing processor back online",
+    "plan to raise additional capital",
+    "proprietary and disruptive technology"
+  ],
+  "risk_summary": "The excerpt discloses material execution and liquidity risks: all processors were idle, production was limited, and the company expected to raise additional capital to restart operations. Management uses optimistic but uncertain projections regarding processor sales, customer discussions, oil prices, and commercial viability, with limited supporting financial detail in the excerpt. Repeated descriptions of the technology and extensive forward-looking disclaimers contribute to a promotional and somewhat evasive risk tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "no assurance",
+    "pending receipt of sufficient funding",
+    "wide range of strategic alternatives",
+    "clinically meaningful improvement"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on financing, clinical enrollment plans, losses, and cash, but relies on forward-looking qualifiers and unconfirmed development outcomes. Liquidity risk is material, with $5.3 million in cash, substantial accumulated losses, no product revenue, and key trials dependent on sufficient funding. Financing, dilution, strategic-transaction uncertainty, and clinical/regulatory execution remain significant risks despite favorable trial commentary."
+}

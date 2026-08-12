@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot assure refinancing",
+    "significant amount of indebtedness",
+    "subject to borrowing base",
+    "further shift in the future",
+    "discussed below"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed historical operating, restructuring, and debt information, but it highlights material refinancing and liquidity risk. Debt maturities, prior restructuring, bond retirement costs, and exposure to cyclical commercial demand indicate elevated credit risk despite 2010 demand recovery and improved sales and operating income."
+}

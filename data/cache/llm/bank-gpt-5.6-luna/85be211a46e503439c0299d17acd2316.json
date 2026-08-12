@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "if this continues",
+    "may not be available on favorable terms",
+    "reasonably consistent net debt levels",
+    "we do not anticipate counterparty default"
+  ],
+  "risk_summary": "The excerpt is relatively precise and strongly quantified, documenting substantial improvements in sales, profitability, and operating performance. Risk disclosures identify meaningful exposure to COVID-19, inflation, foreign exchange, financing access, covenant compliance, and acquisition closing conditions, but several outcomes are expressed conditionally or with standard boilerplate. Overall tone is cautiously positive, tempered by leverage and liquidity risks."
+}

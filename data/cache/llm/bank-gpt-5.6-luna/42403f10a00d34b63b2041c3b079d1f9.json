@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "significant judgment and estimates",
+    "not expected to have a material effect",
+    "truncated disclosure context"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and accounting-policy oriented, with substantial technical detail and standard forward-looking disclaimers. It identifies estimation and revenue-recognition judgment risks but provides limited quantified discussion of financial stress or downside exposure; the apparent truncation further limits assessment."
+}

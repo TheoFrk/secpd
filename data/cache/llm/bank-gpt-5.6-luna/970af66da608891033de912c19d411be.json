@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to substantial risks and uncertainties",
+    "significant judgment and estimates",
+    "could materially impact",
+    "incorporated herein by reference",
+    "[…]"
+  ],
+  "risk_summary": "The excerpt provides several quantified cash-flow and restructuring figures, but relies heavily on standard forward-looking disclaimers and estimation language. Material exposure exists to revenue recognition judgments, warranty and credit losses, inventory obsolescence, tax valuation allowances, and potential estimate-to-actual adjustments; the excerpt is also truncated and omits detail on TNW and off-balance-sheet arrangements."
+}

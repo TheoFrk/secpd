@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we expect",
+    "we anticipate",
+    "continued recovery",
+    "partially offsetting",
+    "not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear explanations of segment drivers, volumes, costs, financing actions, and emissions investments. The tone is cautiously optimistic, relying on economic recovery, fleet replacement, and improving demand, while acknowledging market-volume, military-order, regulatory, and liquidity-related uncertainties. Some forward-looking expectations and boilerplate framing limit precision regarding downside scenarios."
+}

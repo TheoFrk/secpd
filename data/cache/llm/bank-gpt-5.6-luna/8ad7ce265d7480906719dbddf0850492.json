@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "other risks and uncertainties",
+    "we believe",
+    "expected to expand",
+    "factors outside of our control"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimer language and a broad, largely non-quantified risk list covering macroeconomic, operational, technology, financing, regulatory, tax, litigation, and acquisition risks. The business overview is promotional and uses repeated belief-based claims about growth and market opportunity, although it includes some concrete operating metrics and transaction details. Overall tone is balanced but mildly confident rather than crisis-like."
+}

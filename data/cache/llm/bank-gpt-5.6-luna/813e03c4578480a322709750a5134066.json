@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "omitted discussion where redundant",
+    "non-GAAP financial measure",
+    "may have a material effect",
+    "primarily due to",
+    "favorable ... and other factors"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, highlighting improved margins, operating income, cash flow, and defined cost-savings targets despite a 1% sales decline. Risk is moderated by macroeconomic uncertainty, dependence on cost efficiencies, strategic product exits, and substantial debt relative to equity. Boilerplate definitions and attribution language add some opacity but do not dominate the excerpt."
+}

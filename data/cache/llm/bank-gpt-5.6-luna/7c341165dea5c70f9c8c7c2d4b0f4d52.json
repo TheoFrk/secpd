@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "estimates of costs and timing",
+    "significant judgment",
+    "may vary significantly"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative revenue mix and operating-driver disclosure, but relies on standard forward-looking disclaimers and qualitative explanations for variability. Key risks include utilization volatility, client demand changes, engagement-by-engagement contracting, performance-fee timing, and estimates affecting deferred tax assets."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "pending funding availability",
+    "subject to adjustment for certain transactions",
+    "lowest volume weighted average price",
+    "payable in shares of common stock"
+  ],
+  "risk_summary": "The company reports substantial operating losses, no product revenue, only $2.3 million of year-end cash, and an expected funding runway through June 2018, indicating significant going-concern and financing risk. A $25.5 million secured debenture matures in November 2018, with principal and interest potentially payable in heavily dilutive shares at a discounted market price. The disclosure is quantitatively detailed but highly complex, contains numerous contingencies, and includes execution and clinical-development uncertainty."
+}

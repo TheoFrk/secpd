@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "could have an impact",
+    "cannot predict",
+    "subject to change",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt provides useful operational and physician-network metrics but relies heavily on conditional, forward-looking language and broad warnings regarding reimbursement, healthcare reform, and regulatory changes. Extensive cross-references, legal disclaimers, and non-GAAP measure qualifications increase boilerplate density and limit direct assessment of the magnitude and timing of risks. Reported adjusted metrics may also obscure GAAP losses unless reconciliations are reviewed in full."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily includes",
+    "favorable impacts",
+    "subject to FERC approval",
+    "non-GAAP operating earnings",
+    "significant judgment"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively grounded, but relies substantially on standardized regulatory and non-GAAP disclosures and omits the referenced tables. Risk is moderate, driven mainly by regulatory proceedings, audit-related disallowance exposure, judgment-heavy derivative accounting, and dependence on rate recovery."
+}

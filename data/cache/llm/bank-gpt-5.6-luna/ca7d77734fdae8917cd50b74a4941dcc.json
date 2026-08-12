@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor boilerplate",
+    "risks and uncertainties beyond our control",
+    "continue as a going concern",
+    "related-party accounts receivable increase",
+    "discontinued operations and excerpt truncation"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating and liquidity data, including revenue, margins, cash, working capital, and cash-flow movements. Risk remains elevated due to the going-concern qualification, limited operating history in the focused business, cash used in operations, material related-party receivables, and reliance on outsourced yacht manufacturing. The extensive safe-harbor language is largely standard boilerplate rather than evidence of deliberate concealment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "primarily driven by",
+    "reasonably possible changes",
+    "isolated changes in assumptions",
+    "impairment sensitivity disclosures"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally specific, but presents substantial underlying risk: declining sales and adjusted profitability, significant impairment losses, cost inflation, foreign-exchange exposure, and sensitivity to valuation assumptions. Reported earnings improvements are largely attributable to sharply lower impairment losses rather than improved operating performance. Extensive non-GAAP measures and complex attribution language may make deterioration in core results less immediately apparent."
+}

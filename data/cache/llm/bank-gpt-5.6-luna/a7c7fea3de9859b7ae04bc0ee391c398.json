@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "could differ materially",
+    "expected demands",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt combines quantified debt, discount amortization, losses, and derivative liabilities with extensive forward-looking disclaimers and optimistic operational claims. Financing dependence and potentially material accounting estimates indicate elevated credit risk, although the disclosure provides some useful numerical detail."
+}

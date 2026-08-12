@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we plan to continue",
+    "among others",
+    "could affect",
+    "for a more complete discussion"
+  ],
+  "risk_summary": "The excerpt presents strong quantified revenue and gross-profit growth, but its outlook relies heavily on broad strategic plans and management beliefs. Risks are acknowledged, including consumer spending, competitive pressure, supply-chain disruption, international complexity, and substantial investment and borrowing needs, though discussion is generally generic rather than stress-tested."
+}

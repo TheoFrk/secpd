@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "inherently uncertain and outside our control",
+    "among others",
+    "essentially unchanged",
+    "may differ, possibly materially"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides clear year-over-year performance metrics, but includes extensive boilerplate forward-looking disclaimers and numerous contingent qualifiers. Risk tone is mildly negative due to declining earnings and ROE, higher credit-loss provisions, litigation costs, and macroeconomic uncertainty, partly offset by stated capital strength and planned efficiency initiatives."
+}

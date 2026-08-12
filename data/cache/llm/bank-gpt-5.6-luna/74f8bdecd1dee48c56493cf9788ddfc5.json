@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.12,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no quantitative disclosure",
+    "deferred discussion",
+    "generic section citation"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, operating, liquidity, or risk information and merely redirects the reader to another page range. This limits standalone transparency and prevents assessment of the issuer's risk profile from the excerpt alone."
+}

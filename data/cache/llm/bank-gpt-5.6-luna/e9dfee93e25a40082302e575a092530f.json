@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "essentially flat",
+    "could be more or less than we expect",
+    "inherently uncertain",
+    "other factors impacting",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is generally precise and heavily quantified, with strong fiscal 2016 growth and clearly disclosed acquisition funding and cash uses. Forward-looking commentary signals moderate risk from customer loss, pricing pressure, reduced generics-program benefits, and expected first-quarter earnings declines. Accounting-estimate language and non-GAAP presentation introduce some uncertainty but are accompanied by explanations and reconciliations."
+}

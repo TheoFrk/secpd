@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally stable outlook",
+    "generally healthy and favorable",
+    "likely increase in provision",
+    "expected to continue",
+    "various factors and uncertainties"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified regarding historical performance, loan and deposit growth, earnings, asset quality, and provisions. Forward-looking commentary is moderately hedged, highlighting declining interest margins, limited ability to reduce funding costs, and potentially higher and more volatile loan-loss provisions in 2020. Overall, the tone is cautiously positive but acknowledges meaningful earnings and credit-cost pressure."
+}

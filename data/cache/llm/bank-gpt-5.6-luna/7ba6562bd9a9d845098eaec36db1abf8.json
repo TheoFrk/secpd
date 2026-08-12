@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict with certainty",
+    "subject to conditions beyond control",
+    "high degree of uncertainty",
+    "potentially occur",
+    "expected reduction in activity"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with detailed segment-level revenue and profit explanations. Risk tone turns materially negative in the outlook, highlighting a confirmed industry down cycle, rapidly declining rig counts, commodity-price pressure, customer spending reductions, and expected contraction in revenue and margins. Merger completion uncertainty is also explicitly disclosed."
+}

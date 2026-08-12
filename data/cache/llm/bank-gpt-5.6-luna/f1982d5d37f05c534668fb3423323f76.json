@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strategic investments focused on long-term growth",
+    "may impact results in the future",
+    "factors including, but not limited to",
+    "partially offset by",
+    "comparable sales methodology varies"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting comparable-sales trends, margin changes, charges, impairments, and segment performance. Risk is moderate, reflecting competitive, currency, fuel, macroeconomic, cybersecurity, and execution exposures, while the overall tone remains cautiously confident. Some boilerplate risk framing and repeated metric definitions reduce clarity but do not appear strongly evasive."
+}

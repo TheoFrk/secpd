@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no guarantee of regulatory approvals",
+    "plans to submit",
+    "believe we will be able to",
+    "significant margins",
+    "subject to FDA review"
+  ],
+  "risk_summary": "The disclosure combines extensive promotional and forward-looking claims with meaningful regulatory uncertainty, including withdrawal of the FDA 510(k) submission due to shelf-life stability concerns. Commercialization timing and success remain uncertain, while numerous estimates and assumptions could materially affect reported results."
+}

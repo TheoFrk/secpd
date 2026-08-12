@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could potentially cause",
+    "may negatively impact",
+    "certain charges and/or credits",
+    "adjusted measures excluded from GAAP",
+    "refer to additional information"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, sales, earnings, liquidity, and acquisition information, supporting relatively strong disclosure quality. Risk discussion is broad and forward-looking, emphasizing macroeconomic, geopolitical, supply-chain, COVID-19, and foreign-exchange uncertainties without fully quantifying potential impacts. Overall tone is cautiously confident, supported by reported growth and liquidity but moderated by extensive contingencies and non-GAAP adjustments."
+}

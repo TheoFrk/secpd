@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "uncertainties and unknown or changed circumstances",
+    "may differ materially",
+    "potential withdrawal obligation may be significant",
+    "not probable or reasonably estimable"
+  ],
+  "risk_summary": "The excerpt is largely boilerplate MD&A framing and extensive organizational description, with limited direct performance or liquidity analysis in the provided portion. It identifies material risks from contract estimates, customer concentration, multiemployer pension withdrawal liability, and litigation contingencies, but often relies on conditional language and qualitative assessments."
+}

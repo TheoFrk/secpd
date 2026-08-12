@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "opportunistically or when we believe",
+    "will depend on our development strategy",
+    "as is true with all of our projects",
+    "where we believe we can increase our returns",
+    "did not possess necessary data"
+  ],
+  "risk_summary": "The disclosure is broadly detailed and includes substantial quantitative information on assets, entitlements, repurchases, debt costs, and SEC-related expenses. Risk is moderated by extensive use of conditional language around development timing, approvals, capital availability, returns, and asset sales, while the resolved SEC investigation and uncertainty regarding insurance coverage create a negative risk signal."
+}

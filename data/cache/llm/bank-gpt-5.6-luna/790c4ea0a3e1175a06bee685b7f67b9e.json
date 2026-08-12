@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.23,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad promotional claims",
+    "cautionary cross-references",
+    "competitive pressures",
+    "expects trends to continue",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally informative and quantitatively detailed regarding scale, membership, claims, and COVID-19 impacts, but contains substantial business-description and promotional language. Key risks include pandemic-driven utilization volatility, pricing compression, rebate-sharing pressure, regulatory changes, and reduced retail activity; the excerpt is truncated, limiting assessment of full financial exposure."
+}

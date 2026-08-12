@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.86,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "possibly materially",
+    "without limitation",
+    "other factors discussed",
+    "non-GAAP measures not comparable"
+  ],
+  "risk_summary": "The excerpt is predominantly standardized cautionary and non-GAAP disclosure, relying heavily on broad, unquantified risk categories and extensive legal safe-harbor language. It identifies material exposures including catastrophe risk, market and liquidity conditions, reinsurance and counterparty risk, cyber risk, regulatory matters, and reserve uncertainty, but provides little event-specific probability or financial impact quantification."
+}

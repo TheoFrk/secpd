@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "no assurance",
+    "most likely be provided",
+    "exploring possible funding sources",
+    "forward-looking statements and cautionary language"
+  ],
+  "risk_summary": "The company has no revenues, no cash reserves, significant accumulated losses, rapidly increasing liabilities, and relies on related-party advances, creating substantial going-concern risk. Planned financing and acquisitions are uncertain, while projected research and operating expenditures are substantial and may be delayed indefinitely if funding is unavailable. The disclosure is materially quantified but includes extensive standard forward-looking disclaimers and contingent assumptions."
+}

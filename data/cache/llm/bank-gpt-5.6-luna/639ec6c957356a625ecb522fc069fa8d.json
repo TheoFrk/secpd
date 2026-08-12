@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "excluding the impact of foreign currency",
+    "primarily reflecting",
+    "partially offset by",
+    "subject to risks and uncertainties",
+    "local currency basis"
+  ],
+  "risk_summary": "The excerpt is materially quantified but presents a negative operating picture, including declining sales, margin compression, a substantial net loss, goodwill impairment, restructuring costs, and dependence on an external sales network. Extensive use of adjusted local-currency measures, attribution language, and offsetting explanations may complicate assessment of underlying performance, although the disclosure is generally specific."
+}

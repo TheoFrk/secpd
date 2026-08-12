@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "dynamic and highly competitive",
+    "may decrease operating margins",
+    "offset in part",
+    "non-GAAP financial measures",
+    "changing demands and competitive forces"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, margin, operating income, tax, restructuring, acquisition, and foreign-exchange impacts. It identifies meaningful risks from competition, technology shifts, macroeconomic exposure, currency movements, investment spending, and talent retention, but maintains a confident growth-oriented tone. Non-GAAP adjustments and broad risk language modestly reduce comparability and precision."
+}

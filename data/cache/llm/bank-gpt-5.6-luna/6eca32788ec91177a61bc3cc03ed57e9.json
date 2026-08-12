@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.25,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily",
+    "substantially all",
+    "less predictable",
+    "immaterial",
+    "expected to increase"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, covering merchant counts, processing volumes, attrition, same-store growth, and loss reserves. Key risks include merchant attrition, exposure to petroleum-sector volumes, concentration in large merchants, and unpredictable fraud or chargeback losses, although the overall tone is operationally confident."
+}

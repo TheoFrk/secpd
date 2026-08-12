@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted earnings excluding charges",
+    "expected to close",
+    "partially offset",
+    "persistent cost inflation",
+    "pending regulatory approvals"
+  ],
+  "risk_summary": "The excerpt is predominantly quantified and transparent, with detailed revenue, cost, tax, restructuring, and environmental remediation disclosures. Risks include European volume declines, raw-material inflation, a substantial remediation charge, pending acquisition approvals, and reliance on non-GAAP adjusted performance measures. Overall tone is cautiously positive, emphasizing pricing, restructuring savings, and operational growth. "
+}

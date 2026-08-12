@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "timing and costs",
+    "may not be able to sustain future operations",
+    "seek bankruptcy protection",
+    "continued negative cash flows and net losses"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, but includes standard forward-looking disclaimers and broad, non-quantified risk language. Risk tone is materially negative, with persistent operating losses, negative cash flow, declining cash and working capital, a large accumulated deficit, and an explicit possibility of delayed operations or bankruptcy protection."
+}

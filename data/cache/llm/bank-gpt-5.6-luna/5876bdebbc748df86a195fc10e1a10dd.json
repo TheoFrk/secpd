@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ",
+    "similar expressions",
+    "highly competitive market",
+    "designed to enable"
+  ],
+  "risk_summary": "The excerpt is dominated by promotional product descriptions and standardized forward-looking disclaimers, with limited quantified discussion of operating or financial risks in the provided section. Competition, adoption uncertainty, impairment judgments, and restructuring costs are identified, but the disclosure remains largely qualitative and heavily boilerplate."
+}

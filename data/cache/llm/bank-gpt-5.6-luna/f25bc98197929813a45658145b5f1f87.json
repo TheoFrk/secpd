@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance financing available",
+    "may need additional funding",
+    "going concern uncertainty",
+    "history of operating losses",
+    "working capital deficiency"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but presents significant liquidity and solvency risk, including a $27.5 million accumulated deficit, $1.5 million working capital deficiency, minimal cash, recurring losses, and substantial reliance on external financing. Management explicitly raises going-concern uncertainty and acknowledges that future funding may be unavailable or available only on unfavorable terms."
+}

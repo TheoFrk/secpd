@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expect to continue",
+    "well positioned to grow",
+    "risks and uncertainties",
+    "difficult to predict",
+    "broad mix of technologies"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative detail on customer and geographic sales exposure, merger terms, and pension return assumptions, but relies substantially on forward-looking, favorable positioning language. Key risks include dependence on government appropriations, geopolitical and international budget uncertainty, contract timing, and the merger; the abrupt transition into pension assumptions and truncated text reduce contextual clarity."
+}

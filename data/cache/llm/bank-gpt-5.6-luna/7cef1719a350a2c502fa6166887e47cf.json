@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "as more fully discussed",
+    "primarily due to",
+    "partially offset",
+    "under changing circumstances",
+    "high-level summary"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed segment, cash flow, margin, and tax-rate explanations. It identifies modest deterioration in consolidated revenue and operating income, exposure to fixed costs, fuel prices, claims, pension funding, and contract costs, but does not convey a crisis-level outlook."
+}

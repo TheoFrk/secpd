@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-core gains and charges",
+    "underlying business performance",
+    "reasonable assumptions",
+    "future operating results",
+    "forward-looking projections"
+  ],
+  "risk_summary": "The excerpt provides defined metrics and some quantitative disclosure, but emphasizes adjusted performance measures that exclude recurring restructuring and other charges. Impairment assumptions depend on uncertain market conditions, execution, competition, growth, and projected cash flows, creating material downside sensitivity despite no impairment charges reported."
+}

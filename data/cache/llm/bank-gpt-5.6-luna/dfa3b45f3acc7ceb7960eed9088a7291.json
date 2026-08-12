@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "promotional strategic language",
+    "forward-looking statements disclaimer",
+    "related-party acquisitions",
+    "post-signing valuation report",
+    "incomplete disclosure on transaction closure"
+  ],
+  "risk_summary": "The excerpt uses highly promotional and technically dense language while providing limited quantified operating detail and includes an incomplete transaction disclosure. Related-party acquisitions, VIE structures, uncertain tax estimates, regulatory approval dependencies, and rapidly changing business lines indicate elevated execution, governance, and reporting risk."
+}

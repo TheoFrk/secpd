@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "marketing-heavy product claims",
+    "customer attrition and deal elongation",
+    "flexible revenue recognition",
+    "customary covenants and events of default"
+  ],
+  "risk_summary": "The excerpt reports material revenue decline, customer attrition, delayed purchasing decisions, and significant dependence on resellers, indicating deteriorating operating performance. Financing terms reveal tight liquidity controls, budget variance covenants, mandatory prepayment triggers, default remedies, and equity financing dependence. Product and margin optimism is present but partly offsets rather than eliminates the underlying credit risk."
+}

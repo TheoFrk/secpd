@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "if successful",
+    "we believe",
+    "cannot be predicted with confidence",
+    "sufficient funding"
+  ],
+  "risk_summary": "The company has substantial clinical, regulatory, operational, and financing risk, with continuing losses, no product revenue, and dependence on future funding and trial success. Disclosure includes useful quantitative details, but relies heavily on forward-looking qualifiers and extensive technical and boilerplate language. COVID-19-related enrollment uncertainty and the truncated excerpt further limit assessment of near-term execution risk."
+}

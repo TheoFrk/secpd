@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.05,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.24,
+  "risk_sentiment": 0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "boilerplate cross-reference",
+    "no substantive discussion",
+    "read in conjunction with",
+    "page-range deferral"
+  ],
+  "risk_summary": "This is a procedural cross-reference rather than substantive MD&A disclosure, providing no information about financial performance, liquidity, or risks. The language is precise regarding document locations but offers no quantitative risk assessment."
+}

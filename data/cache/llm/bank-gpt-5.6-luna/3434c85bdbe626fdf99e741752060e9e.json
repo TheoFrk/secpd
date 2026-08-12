@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "continued clarification of market and credit loss assumptions",
+    "should increase net interest income",
+    "we believe we are progressing",
+    "cannot assure you",
+    "inherently subjective estimates"
+  ],
+  "risk_summary": "The excerpt quantifies substantial losses, compliance costs, discontinued assets, and loan-loss estimation uncertainty, indicating material credit, regulatory, and operational risks. Management presents a cautiously optimistic outlook on interest income and expense reductions, but relies on assumptions and explicitly disclaims assurance that targeted savings will be achieved."
+}

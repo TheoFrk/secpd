@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "not material impact",
+    "we currently expect",
+    "seek out companies that are a fit",
+    "favorable margins partially offset"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating trend, with quantified revenue, margin, and earnings growth and broad-based recurring revenue. Disclosure is generally specific, though portions rely on standard forward-looking language and qualitative explanations of cost pressures, acquisitions, and international expansion. No acute financial distress is evident, but execution, currency, casualty claims, personnel costs, and acquisition risks are only briefly addressed."
+}

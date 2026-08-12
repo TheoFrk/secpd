@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "we believe",
+    "customary events of default",
+    "thereafter, we may find it necessary",
+    "significantly in excess of carrying value"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative information on acquisitions, debt capacity, interest rates, covenants, and cash flows. Its tone is generally confident and promotional, though reliance on third-party providers, extensive acquisition activity, goodwill valuation assumptions, covenant requirements, and potential future financing create meaningful credit risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "no guarantee",
+    "normal operating requirements",
+    "insignificant businesses",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed year-over-year revenue, expense, cash flow, debt, and restructuring disclosures. Risk is moderate due to a 5.3% revenue decline, an 8.3% GIS decline, reliance on cost reductions, and explicit uncertainty around future financing availability. Liquidity and covenant compliance are presented positively, although the discussion relies partly on non-GAAP metrics and broad forward-looking assurances."
+}

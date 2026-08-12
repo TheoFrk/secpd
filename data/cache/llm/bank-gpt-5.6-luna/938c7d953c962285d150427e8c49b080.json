@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "expected to continue without disruption",
+    "generally mitigate the risk",
+    "based on information currently available",
+    "not available for discretionary expenditures"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and moderately confident outlook, supported by quantified operating results, covenant compliance, and liquidity disclosures. Key credit risks include customer and supplier concentration, inflation and raw-material exposure, COVID-19 disruption, substantial leverage constraints, and high planned capital expenditures. Some risks are softened through generalized mitigation language and forward-looking assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "ability to raise additional capital",
+    "management believes ... provide the opportunity",
+    "could have a significant adverse impact",
+    "no assurances"
+  ],
+  "risk_summary": "The disclosure presents severe financial and liquidity risk, including substantial net losses, accumulated and working-capital deficits, limited cash, negative operating cash flow, and an auditor’s going-concern warning. Continued operations depend on raising additional capital and executing strategic plans, with no established recurring revenue source sufficient to cover near-term costs. Quantitative disclosures are relatively detailed, but the forward-looking and funding outlook relies on conditional, non-guaranteed statements."
+}

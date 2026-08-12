@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the full extent",
+    "as necessary",
+    "among other things",
+    "probability-weighted scenarios",
+    "additional information regarding"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively supported, with clear discussion of earnings drivers, COVID-19 effects, impairments, nuclear retirements, and decommissioning assumptions. Risk is present but generally framed as monitored and manageable; significant uncertainty remains around market conditions, regulatory developments, nuclear asset timing, and long-term DOE spent-fuel acceptance."
+}

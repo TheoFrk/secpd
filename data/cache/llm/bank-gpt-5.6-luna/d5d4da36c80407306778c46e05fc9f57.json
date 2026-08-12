@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "combined non-GAAP presentation",
+    "primarily due to",
+    "significant judgment and estimates",
+    "subject to required withholding taxes",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including a 16.6% decline in net sales and segment, acquisition, divestiture, tax, and merger details. Risk is moderated by improved gross margin, but the presentation relies on complex predecessor/successor comparisons, non-GAAP combinations, estimates, and broad causal language that may limit comparability and transparency."
+}

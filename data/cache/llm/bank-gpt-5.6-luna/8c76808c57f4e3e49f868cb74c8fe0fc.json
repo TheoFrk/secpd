@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "possibly materially",
+    "evolving needs of customers",
+    "underlying profitability",
+    "do not correspond to U.S. GAAP"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and non-GAAP disclosure language, with some hedging around future growth, market sensitivity, and transaction timing. It provides meaningful quantified information on reinsurance, restructuring, assets under management, and a revised operating-income error, but emphasizes favorable strategic positioning and benefits while omitting detailed operating results in this section."
+}

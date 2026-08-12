@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"no other communication medium\"",
+    "\"state-of-the-art\"",
+    "\"first-of-its-kind\"",
+    "\"many uncertainties\"",
+    "\"materially different from our estimates\""
+  ],
+  "risk_summary": "The excerpt is largely promotional and product-focused, with limited quantified discussion of financial performance or forward-looking risks in the provided portion. Litigation and accounting estimates are acknowledged using standard uncertainty language, including the possibility of materially adverse outcomes, but no specific exposure amounts are disclosed."
+}

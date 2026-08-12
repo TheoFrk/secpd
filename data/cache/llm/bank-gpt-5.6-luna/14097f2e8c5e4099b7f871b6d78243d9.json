@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "may continue to",
+    "substantial negative impact",
+    "beyond our control",
+    "robust and fairly flexible supply chain"
+  ],
+  "risk_summary": "The disclosure is generally specific and includes quantified cash flow, repurchase, dividend, and acquisition information, but attributes several performance changes to broad factors such as customer mix, working capital differences, and COVID-19-related conditions. Supply-chain constraints, component shortages, logistics costs, and potentially weaker demand present meaningful ongoing risks, although management emphasizes liquidity, backlog, mitigation actions, and strong credit ratings."
+}

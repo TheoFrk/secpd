@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may adversely impact",
+    "including without limitation",
+    "actual results may differ materially",
+    "broad enumerated risk factors"
+  ],
+  "risk_summary": "The excerpt contains an extensive, largely boilerplate catalog of macroeconomic, regulatory, credit, liquidity, cybersecurity, and operational risks, with frequent conditional and non-quantified language. It does provide useful quantified deposit disclosures, including a 4.6% decline in total deposits and $1.3 billion of uninsured deposits, but the section is highly complex and only partially specific about potential impacts."
+}

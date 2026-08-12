@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including, but not limited to",
+    "beyond our control",
+    "ability to generate adequate levels of domestic cash flow",
+    "must remain in compliance with debt covenants"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful segment, cash-flow, acquisition, and debt information, but includes standard forward-looking disclaimers and some truncated or incomplete discussion. Risk tone is mildly negative because gross profit and margins declined, interest expense increased, cash was heavily used for acquisitions, and covenant compliance is a stated condition for dividends."
+}

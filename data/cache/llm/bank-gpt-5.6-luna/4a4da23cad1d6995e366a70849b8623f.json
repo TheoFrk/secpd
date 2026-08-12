@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be accurately predicted",
+    "could potentially disrupt",
+    "typically based on",
+    "we will continue to monitor",
+    "not material to us"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and pipeline data, debt details, and segment descriptions, supporting generally transparent disclosure. Risk discussion relies on conditional language for Brexit and coronavirus impacts and does not quantify potential downside, while extensive business-model boilerplate increases complexity. Overall tone is cautiously positive, but exposure to travel disruption, foreign currency volatility, execution risk, and leverage remains evident."
+}

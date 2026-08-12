@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial doubt regarding going concern",
+    "unable to provide assurance",
+    "additional capital required",
+    "seller involved in several lawsuits"
+  ],
+  "risk_summary": "The company reports substantial going-concern risk, recurring losses, a working-capital deficiency, minimal cash, and no committed financing arrangements. Operations have been disrupted by COVID-19, acquisitions have produced impairment losses, and property rights remain restricted by litigation. Although the disclosure is materially quantified, extensive boilerplate and inconsistent descriptions of the business reduce clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP operating earnings",
+    "other primarily includes",
+    "could be material",
+    "probable future recovery",
+    "eliminating and consolidating adjustments"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, reporting higher earnings and identifying specific drivers and offsets. Risk exposure remains tied to regulatory asset recoverability, impairment assessments, elevated costs, weather, interest expense, and reliance on non-GAAP performance measures. The omitted tables and dense multi-registrant presentation modestly limit comparability and clarity."
+}

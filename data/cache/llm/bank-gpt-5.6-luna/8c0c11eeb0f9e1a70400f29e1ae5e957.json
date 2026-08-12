@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.78,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "directors have orally agreed to loan",
+    "cannot assure additional financing",
+    "we believe we can become profitable",
+    "currently reviewing the provisions"
+  ],
+  "risk_summary": "The company reports substantial recurring losses, limited operating history, negative cash-flow concerns, and an explicit going-concern doubt. Its funding plan relies partly on nonbinding oral commitments from directors, while profitability and financing assumptions remain uncertain. Extensive forward-looking and accounting-standard boilerplate adds limited incremental insight into near-term liquidity risk."
+}

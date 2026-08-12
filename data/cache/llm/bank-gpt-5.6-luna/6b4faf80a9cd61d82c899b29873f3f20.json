@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future token consideration",
+    "non-operational subsidiaries",
+    "related-party transactions",
+    "contingent financing proceeds",
+    "going concern basis"
+  ],
+  "risk_summary": "The disclosure is detailed on corporate actions, financings, share issuances, and contractual terms, but relies on future operations, token generation, contingent funding, and non-operational subsidiaries. Repeated Series B Preferred disclosures and complex related-party and conversion arrangements increase interpretive burden. The explicit going-concern discussion and dependence on external financing indicate elevated liquidity and execution risk despite an expansion-oriented tone."
+}

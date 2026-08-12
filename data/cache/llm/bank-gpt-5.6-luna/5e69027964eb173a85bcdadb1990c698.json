@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "if consumer confidence improves",
+    "appears to be completed",
+    "adequate for now",
+    "could result in supply interruptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including market shares, shipment trends, pricing, margins, and acquisition details. It presents a cautiously improving outlook but identifies material risks from weak consumer confidence, credit constraints, raw-material inflation, declining bus demand, government funding reductions, and potential chassis disruptions. The excerpt is structurally complex and contains some conditional or management-dependent assertions, but limited evidence of deliberate obfuscation."
+}

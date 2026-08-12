@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "if historical trends are not predictive",
+    "estimates can fluctuate significantly",
+    "based on experience and knowledge",
+    "subject to availability of financing"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on insurance reserves, vendor allowances, capital expenditures, store footprint, and planned investment, supporting relatively good transparency. However, several material exposures depend on subjective estimates, uncertain market conditions, claims trends, tax settlements, and financing availability, with outcomes described using broad conditional language."
+}

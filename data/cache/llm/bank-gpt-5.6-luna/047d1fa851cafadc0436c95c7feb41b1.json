@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "restated historical financial statements",
+    "no assurance can be given",
+    "could differ materially",
+    "significant costs",
+    "incomplete liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt discloses a financial statement restatement, no operating history or revenue, ongoing negative cash flows, and uncertainty regarding completion of a business combination. Although trust-account funding is quantified, the extensive forward-looking safe-harbor language and incomplete passage in the liquidity discussion limit transparency around execution and funding risks."
+}

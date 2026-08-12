@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "do not undertake any obligation to update",
+    "not be comparable",
+    "enhance the comparability",
+    "long nested transaction terms"
+  ],
+  "risk_summary": "The excerpt is primarily technical and legal, with substantial detail on the control change, pushdown accounting, preferred stock rights, and reverse/forward stock split. Risk is understated rather than crisis-like, but comparability limitations, concentrated ownership, dilution, and senior preferred claims create meaningful structural risks. The extensive forward-looking disclaimer and highly nested drafting reduce accessibility without clearly quantifying operating or liquidity outcomes."
+}

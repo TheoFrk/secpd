@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "known and unknown risks",
+    "may cause actual results to differ materially",
+    "cautiously optimistic",
+    "expected to grow modestly",
+    "currently available information"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and cash-flow information, but relies on standard forward-looking disclaimers and qualified outlook language. Key risks include recessionary demand, commodity-price volatility, declining rig counts, working-capital variability, contract timing, and international exposure. Management remains cautiously optimistic, producing a mildly positive but guarded risk tone."
+}

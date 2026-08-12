@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and subject to a wide range of factors",
+    "may have a material adverse effect",
+    "impact ... is uncertain",
+    "among other factors",
+    "unless the context otherwise requires"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including quantified pension and interest-expense impacts, but contains extensive boilerplate risk language and lengthy transaction terminology. Key risks include COVID-19 uncertainty, aerospace recovery delays, supply-chain and labor disruptions, regulatory changes, and potential contract-performance impacts."
+}

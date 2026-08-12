@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "expressly disclaims obligation to update",
+    "projected growth and well positioned",
+    "reimbursement pressure"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broad assertions about growth and positioning, with limited quantified outlook detail. It identifies meaningful risks from reimbursement reductions, patient collections, regulatory changes, and senior secured debt, producing a moderately negative risk tone."
+}

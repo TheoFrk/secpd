@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "as needed",
+    "can vary widely",
+    "not impacted by segment modification"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including revenue drivers, cost categories, and year-over-year expense changes. Risk disclosure is largely standard boilerplate, while operational uncertainty arises from utilization, client demand, seasonal effects, and engagement-by-engagement contracting. The tone is neutral to mildly constructive rather than crisis-like."
+}

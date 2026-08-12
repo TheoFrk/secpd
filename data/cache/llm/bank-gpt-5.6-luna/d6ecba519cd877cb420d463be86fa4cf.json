@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "does not include charges",
+    "based on current forecasts",
+    "when appropriate",
+    "strategic review",
+    "flow through impact"
+  ],
+  "risk_summary": "The excerpt is generally well quantified but describes substantial deterioration, including repeated 16% sales declines, store closures, impairments, margin pressure, and reduced operating profit. Liquidity risk is heightened by borrowing-base thresholds, cash dominion provisions, and a fixed-charge coverage test that could effectively eliminate additional borrowing, although the company reported covenant compliance at year-end."
+}

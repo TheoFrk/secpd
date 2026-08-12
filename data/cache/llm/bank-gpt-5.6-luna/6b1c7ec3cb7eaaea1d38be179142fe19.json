@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "preliminary estimates",
+    "may be significantly different",
+    "requires significant judgment",
+    "not comparable",
+    "subject to revision"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantified but contains substantial acquisition-accounting uncertainty, including a $10.106 billion goodwill balance and unresolved fair-value estimates. Repeated caveats about judgment, comparability, methodology changes, and potential material adjustments indicate elevated disclosure and valuation risk, while the overall tone remains largely factual rather than crisis-like."
+}

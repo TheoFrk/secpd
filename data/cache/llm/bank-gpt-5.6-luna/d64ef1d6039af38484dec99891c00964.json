@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "impressive growth numbers",
+    "where applicable",
+    "subject to judgments and assumptions",
+    "reasonableness review"
+  ],
+  "risk_summary": "The disclosure is predominantly confident and quantitatively supported, highlighting sustained revenue and profit growth, recurring revenue, margin expansion, and acquisition activity. Key risks include foreign-exchange exposure, acquisition integration and amortization, underfunded defined-benefit plans, and valuation uncertainty in Level 3 investments. Boilerplate cautionary language and promotional phrasing modestly reduce transparency but do not materially obscure the operating results."
+}

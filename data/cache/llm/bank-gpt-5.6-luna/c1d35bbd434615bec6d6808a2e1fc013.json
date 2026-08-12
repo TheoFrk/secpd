@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "various lawsuits, claims, investigations",
+    "significant judgment is required",
+    "actual results may differ",
+    "assumptions ... reasonable under the circumstances",
+    "litigation is inherently unpredictable"
+  ],
+  "risk_summary": "The excerpt presents a broadly confident strategic and operational narrative, supported by quantified cash flows, acquisitions, buybacks, debt issuance, and pension sensitivities. However, substantial boilerplate, extensive management-oriented language, reliance on estimates, and limited detail on litigation exposure introduce moderate disclosure uncertainty. The excerpt ends mid-sentence, limiting assessment of the full loss-contingency discussion."
+}

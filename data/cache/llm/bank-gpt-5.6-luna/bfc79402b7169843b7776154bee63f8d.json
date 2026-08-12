@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "primarily driven by",
+    "largely dependent on",
+    "proportionate performance approach"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with revenue mix percentages, expense changes, and specific restructuring charges. Risk disclosure relies partly on standard forward-looking-statement disclaimers and broad dependency language, while operational commentary remains mildly positive. The dense accounting and contract-revenue discussion increases interpretive complexity but does not appear deliberately evasive."
+}

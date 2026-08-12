@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we expect",
+    "well positioned",
+    "cyclical markets"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by substantial revenue, margin, acquisition, and investment figures. Risk disclosures are largely standardized, while forward-looking language and promotional descriptions provide limited detail on downside scenarios, integration risks, or sensitivity to semiconductor cycles. The text is information-rich but lengthy and somewhat repetitive due to extensive acquisition and product descriptions."
+}

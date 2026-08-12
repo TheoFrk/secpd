@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "primarily due to",
+    "may continue to fluctuate",
+    "unreported units and unlicensed products"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed segment, margin, revenue, shipment and capital-return data, limiting overall vagueness. Risk tone is moderately negative due to declining QCT performance, customer and geographic concentration, competitive pressure, and potentially unreported licensing activity, although strong net income and completed cost reductions provide counterbalance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "where possible quantified",
+    "not possible to quantify",
+    "primarily due to",
+    "expected to",
+    "if current conditions decline"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive segment, volume, margin, market-share, and financing data. The tone is broadly positive, reflecting record revenue and earnings, but it acknowledges exposure to weaker economic conditions, freight deterioration, declining demand, credit losses, repossessions, and market-share pressure."
+}

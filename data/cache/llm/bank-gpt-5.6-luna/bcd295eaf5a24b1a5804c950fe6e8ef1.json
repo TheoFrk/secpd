@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements are not guarantees",
+    "risks and uncertainties",
+    "impossible to predict",
+    "may adversely impact",
+    "without limitation"
+  ],
+  "risk_summary": "The excerpt is dominated by boilerplate forward-looking risk disclosures, with extensive COVID-19, regulatory, credit, liquidity, cybersecurity, and operational contingencies expressed through broad conditional language. The later expense discussion provides some quantified explanations, but the excerpt overall offers limited direct assessment of probability, magnitude, or mitigating actions for the identified risks."
+}

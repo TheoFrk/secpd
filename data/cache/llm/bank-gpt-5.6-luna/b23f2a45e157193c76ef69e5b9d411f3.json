@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments for special items",
+    "may not be indicative of future results",
+    "qualitative impairment assessment",
+    "excluding exited businesses and restructuring costs",
+    "highly contingent on many factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financing information, including revenue declines, operating losses, restructuring costs, and covenant amendments. Risk is moderated by reported improvement in operating loss and planned cost savings, but reliance on adjusted measures, exclusions, and qualitative impairment judgments reduces comparability and transparency."
+}

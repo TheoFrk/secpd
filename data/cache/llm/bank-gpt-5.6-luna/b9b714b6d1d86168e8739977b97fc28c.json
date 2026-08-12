@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "assumptions may prove incorrect",
+    "actual results may vary materially",
+    "subject to risks and uncertainties",
+    "truncated results and tables"
+  ],
+  "risk_summary": "The excerpt is generally quantified and operationally specific, but includes standard forward-looking disclaimers and relies on assumptions regarding industry trends, trust investments, and financial performance. Key risks include debt-servicing and distribution capacity, market-value fluctuations in trust assets, demographic and cremation trends, and the incomplete presentation of results and contractual-obligation tables."
+}

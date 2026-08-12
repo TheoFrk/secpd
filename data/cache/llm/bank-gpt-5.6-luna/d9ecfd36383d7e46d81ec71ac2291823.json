@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict with any assurance",
+    "could have a material adverse effect",
+    "subject to the satisfaction of specified conditions",
+    "additional opportunities",
+    "details ... have yet to be proposed"
+  ],
+  "risk_summary": "The excerpt provides substantial operational, geographic, payor-mix, liquidity, and cash-flow quantification, supporting relatively strong disclosure quality. Key risks include growing government-payor exposure, potentially delayed Medicaid reimbursement, healthcare reform uncertainty, acquisition integration and funding needs, and a working-capital deficit. Overall tone is cautiously constructive but relies on standard forward-looking disclaimers and conditional language."
+}

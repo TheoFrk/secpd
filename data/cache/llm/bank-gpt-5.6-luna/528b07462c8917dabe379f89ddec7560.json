@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad marketing claims",
+    "changing storage environment",
+    "pricing pressure and increased discounting",
+    "partially offset by",
+    "goodwill impairment does not impact liquidity"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but includes substantial promotional boilerplate and some generalized explanations of market conditions. Risk tone is moderately negative, driven by a 16% revenue decline, a $55.6 million goodwill impairment, a $74.7 million net loss, restructuring actions, and pricing pressure. The disclosure presents offsetting growth in scale-out storage and states that the impairment did not affect cash, liquidity, or debt covenant compliance."
+}

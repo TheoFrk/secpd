@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant estimation and uncertainty",
+    "based on management’s judgment",
+    "reasonable and supportable forecasts",
+    "may undergo material changes",
+    "could adversely impact results"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including acquisition costs, balance-sheet amounts, interest-rate movements, and credit-loss methodology. Risk is concentrated in subjective CECL estimates, fair-value marks, acquisition accounting, changing economic conditions, and potential future impacts on earnings and regulatory capital. The tone is predominantly neutral and compliance-oriented rather than crisis-like."
+}

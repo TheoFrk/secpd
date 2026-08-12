@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "absent non-recurring charges",
+    "no assurance can be given",
+    "reasonable estimates and judgments",
+    "unforeseen variations"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and segment-level quantification, including revenues, client counts, and cost percentages, but contains extensive standard MD&A boilerplate and forward-looking qualifiers. Key risks include dependence on Medicare and Medicaid-funded clients, labor and commodity-cost volatility, insurance reserves, impairment assumptions, and tax-estimate uncertainty. Overall tone is cautiously positive, with expected stable performance and growth offset by broad uncertainty disclaimers."
+}

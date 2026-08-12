@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "subject to significant uncertainties",
+    "could differ materially",
+    "reasonable margin of error",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt presents a generally confident performance and capital narrative supported by substantial quantitative metrics, including earnings, revenue, capital ratios, expense guidance, and portfolio runoff estimates. However, extensive forward-looking disclaimers, conditional language, management judgment, and reliance on uncertain or unobservable valuation inputs limit precision and highlight sensitivity to market, regulatory, credit, and accounting assumptions."
+}

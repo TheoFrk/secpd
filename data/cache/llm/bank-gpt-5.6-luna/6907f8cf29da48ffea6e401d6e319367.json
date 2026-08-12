@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "anticipated filing more applications",
+    "long-term value and profitable business",
+    "extensive validation claims",
+    "truncated and malformed disclosure"
+  ],
+  "risk_summary": "The excerpt uses highly promotional language and repeated forward-looking claims regarding technology validation, commercial scaling, permits, and future profitability, with limited financial quantification of production, revenue, cash flow, or execution risk. Disclosure is lengthy and technically dense, and the apparent truncation and formatting defects reduce clarity. Overall tone is cautiously risk-qualified but materially optimistic, with significant commercialization and operational execution risks remaining."
+}

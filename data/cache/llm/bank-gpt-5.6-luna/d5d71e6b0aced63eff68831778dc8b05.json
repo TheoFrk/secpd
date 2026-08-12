@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including, but not limited to",
+    "slightly offset by",
+    "current market environment",
+    "non-GAAP measure replacement"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, with detailed explanations of AUM, revenue drivers, liquidity, disposals, and earnings changes. Risk tone is cautiously positive, emphasizing growth and favorable market conditions despite a GAAP net loss, reliance on CLO-related activities, and exposure to investment performance and market conditions. Standard forward-looking disclaimers and extensive technical terminology modestly reduce transparency."
+}

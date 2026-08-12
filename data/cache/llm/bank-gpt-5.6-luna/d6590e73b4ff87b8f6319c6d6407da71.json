@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.89,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not under any obligation to update",
+    "possibly materially",
+    "non-GAAP exclusions",
+    "underlying profitability"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and legalistic, emphasizing uncertainty and disclaiming responsibility for updating projections. Extensive non-GAAP adjustments and exclusion of volatile, legacy, tax, and investment-related items may make underlying performance harder to assess, although no immediate crisis tone is evident."
+}

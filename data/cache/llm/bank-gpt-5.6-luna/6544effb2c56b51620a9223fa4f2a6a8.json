@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "low-single digits",
+    "efforts to improve",
+    "several competitors",
+    "historically high retail prices",
+    "various time frames"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes meaningful operating metrics, segment information, market conditions, and quantified financial results. Risk tone is mixed: management acknowledges declining milk consumption, margin pressure, intense competition, and the loss of a significant private-label customer, while presenting cost reductions and pricing actions as mitigants. Some forward-looking statements rely on broad targets and non-specific timing."
+}

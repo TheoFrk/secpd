@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "appears to be in response to",
+    "we believe",
+    "may not be indicative of future sales",
+    "potentially inflating our backlog"
+  ],
+  "risk_summary": "The excerpt presents strong growth, profitability, demand, and capacity expansion, with extensive quantified operating metrics. Key risks include demand driven by potentially temporary legislative or social factors, possible channel inventory over-ordering, backlog cancellation risk, and backlog exceeding manufacturing capacity."
+}

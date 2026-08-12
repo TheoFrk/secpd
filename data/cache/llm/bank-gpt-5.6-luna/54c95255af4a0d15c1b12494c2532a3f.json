@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to substantial risks and uncertainties",
+    "could materially impact",
+    "no assurance of raising capital",
+    "based on estimates and assumptions",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The disclosure is technically detailed but relies heavily on estimates, forward-looking disclaimers, and cross-references, with limited quantitative sensitivity analysis in the excerpt. Risk tone is moderately negative due to fiscal-year operating cash usage, net loss, uncertain capital-raising ability, and potential dilution. Liquidity appears constrained but partially supported by an undrawn $4.0 million revolving credit facility."
+}

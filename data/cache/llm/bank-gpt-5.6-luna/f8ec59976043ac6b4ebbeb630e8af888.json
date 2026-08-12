@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot be reasonably determined",
+    "no assurance",
+    "materially adversely affect",
+    "significant disruption",
+    "subject to FCA treating"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but highlights material dependence on FCA/Chrysler Capital, potential agreement termination, consumer credit deterioration, funding costs, and geographic concentration. Risk language is appropriately cautious, with some boilerplate and extensive contractual qualifications obscuring the range and timing of potential adverse outcomes."
+}

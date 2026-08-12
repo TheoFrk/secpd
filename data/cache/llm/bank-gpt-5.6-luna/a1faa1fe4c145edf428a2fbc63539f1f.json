@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "we believe / we expect",
+    "significant estimates and assumptions",
+    "no assurance assumptions will prove accurate",
+    "potential future goodwill impairment"
+  ],
+  "risk_summary": "The disclosure provides meaningful revenue and net-loss quantification, but relies substantially on acquisition-related growth and includes substantial judgment around goodwill impairment, deferred taxes, and future forecasts. Risk tone is moderately cautious because of continuing losses, integration dependence, and explicit uncertainty regarding assumptions, despite strong reported revenue growth."
+}

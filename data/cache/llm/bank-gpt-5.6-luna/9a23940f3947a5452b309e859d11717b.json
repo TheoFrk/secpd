@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance",
+    "expected to",
+    "could result in",
+    "reasonable expectations",
+    "subject to adjustment"
+  ],
+  "risk_summary": "The excerpt provides useful structural and business-line detail, including quantified assets under management, debt, and dividend information, but much of the discussion is descriptive and relies on forward-looking qualifiers. Key risks include insurance and investment performance, interest rates, regulation, market conditions, capital requirements, and the potentially lower returns of the Closed Block business."
+}

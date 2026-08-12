@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "qualitative causal explanations",
+    "tables omitted",
+    "not necessarily indicative",
+    "other transactions, events and trends"
+  ],
+  "risk_summary": "The excerpt presents a highly detailed but structurally boilerplate MD&A, with substantial reliance on omitted tables and qualitative explanations of revenue pressure, access-line losses, customer migration, and economic weakness. Risk tone is mildly negative, reflecting declining legacy revenue and competitive pressures, although management emphasizes cost reductions, network optimization, and improved margins."
+}

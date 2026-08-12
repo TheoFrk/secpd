@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "more-likely-than-not outcomes",
+    "estimates and assumptions",
+    "expected to accelerate",
+    "immaterial impact",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but contains substantial definitional and boilerplate material and relies on management estimates for taxes, acquisitions, and fair values. Risk tone is moderately negative due to a 9.7% revenue decline, a $1.015 billion goodwill impairment, restructuring, and pending acquisition execution risks, partially offset by management’s confident Reinvention narrative."
+}

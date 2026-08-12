@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "difficult to predict",
+    "actual outcomes may differ materially",
+    "undertakes no obligation to update",
+    "various options to enable expansion"
+  ],
+  "risk_summary": "The excerpt presents a growth-oriented pharmaceutical strategy with substantial quantified pipeline, product, and expense information, but relies on standard forward-looking disclaimers and aspirational plans. Key risks include FDA and Health Canada approval timing, product development execution, acquisition integration, customer concentration, and estimation of sales returns and chargebacks."
+}

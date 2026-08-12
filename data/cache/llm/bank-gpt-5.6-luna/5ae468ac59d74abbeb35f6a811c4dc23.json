@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown factors",
+    "may vary significantly",
+    "other matters",
+    "not otherwise considered operating income or expense"
+  ],
+  "risk_summary": "The excerpt is primarily factual and includes substantial quantitative detail on acquisitions, financing, working capital, and cash usage. Risk is present through increased borrowing, extended customer payment terms, warrant valuation volatility, and negative operating cash flow, while the tone remains generally neutral and procedural."
+}

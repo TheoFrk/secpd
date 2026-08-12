@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "does not disclose quantitative information",
+    "global economic outlook is still uncertain",
+    "various legal matters",
+    "other numerous net costs",
+    "not material to any individual prior period"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but explicitly withholds product-level information and uses broad descriptions for certain cost categories. Multiple accounting errors, goodwill impairments, research-program closures, restructuring charges, and legal matters indicate elevated operational and reporting risk, although management characterizes the misstatements as immaterial."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "non-GAAP measures",
+    "certain other charges",
+    "subject to annual limitations"
+  ],
+  "risk_summary": "The excerpt presents strong revenue, earnings, and free cash flow growth, but relies substantially on non-GAAP measures and standard forward-looking disclaimers. Key risks include acquisition and foreign-exchange effects, margin compression, working-capital variability, and potential limitations on tax-loss utilization."
+}

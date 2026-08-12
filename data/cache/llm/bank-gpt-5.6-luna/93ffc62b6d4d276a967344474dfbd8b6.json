@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "demand remains solid",
+    "challenging economic conditions",
+    "various tax items",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating trend, supported by quantified revenue and earnings figures, organic growth, and expense drivers. Risks include currency exposure, client spending caution, seasonality, project timing, concentration among top clients, and earnings benefits from tax items. Disclosure is relatively specific but uses recurring promotional language and offsetting explanations that can dilute adverse factors."
+}

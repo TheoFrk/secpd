@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-comparable items",
+    "primarily driven by",
+    "other items not reflective",
+    "foreseeable future",
+    "excluding the impact"
+  ],
+  "risk_summary": "The disclosure is largely precise and well quantified, with detailed year-over-year operating, tax, pension, and acquisition information. Risk is moderate due to declining reported sales, foreign-exchange exposure, higher interest expense, and significant unfunded pension and postretirement obligations, although management presents funding capacity and operating trends with a generally confident tone."
+}

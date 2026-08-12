@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "may continue",
+    "material adverse impacts",
+    "unable to establish",
+    "significant uncertainty"
+  ],
+  "risk_summary": "The excerpt combines promotional product claims with material financial risks, including a $1,041.1 million accumulated deficit, recurring operating losses, negative operating cash flows, and potential liquidity constraints. Revenue recognition relies on estimates, historical experience, and best estimated selling prices where objective pricing evidence is unavailable, increasing judgment and reporting risk. Overall tone is materially risk-negative despite quantified operating and restructuring disclosures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "duration and severity uncertain",
+    "subject to inherent uncertainties",
+    "primarily due to",
+    "partially offset by",
+    "excluding foreign exchange impact"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but contains substantial uncertainty around COVID-19, operational disruptions, turnaround efforts, and future liquidity impacts. High leverage, elevated borrowing costs, declining multi-year revenue, and dependence on an independent sales force indicate meaningful credit risk, although management presents specific performance drivers and mitigation actions."
+}

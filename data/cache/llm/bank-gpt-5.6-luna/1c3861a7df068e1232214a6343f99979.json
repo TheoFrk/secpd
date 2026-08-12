@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly unpredictable",
+    "to the extent",
+    "may have a material effect",
+    "partially offset by",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including sales, cash, debt repayment, geographic exposure, and category-level performance. Risk tone is moderately cautious due to retailer inventory buildup, weaker holiday demand, inflation, supply-chain pressures, Russia-related cash restrictions, and conditional material-impact warnings, though liquidity and leverage actions provide some mitigation."
+}

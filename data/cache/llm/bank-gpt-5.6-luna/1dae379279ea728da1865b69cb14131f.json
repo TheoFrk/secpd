@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "cannot assure you that our estimates will be accurate",
+    "significant disparity between earnings and cash",
+    "change in estimate adjustment",
+    "not in compliance with financial covenants"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights material estimation risk under percentage-of-completion accounting and substantial divergence between reported earnings and cash flow. Profitability deteriorated sharply, government contract estimates were reduced by approximately $7.2 million, and financial covenants were breached, although the lender waiver and stated liquidity availability mitigate immediate default risk."
+}

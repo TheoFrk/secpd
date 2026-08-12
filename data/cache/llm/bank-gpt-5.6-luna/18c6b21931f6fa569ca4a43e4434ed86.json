@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.12,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to other pages",
+    "should be read in conjunction",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt is a procedural cross-reference to the MD&A and consolidated financial statements rather than substantive disclosure. It provides no quantification or direct information about financial condition, operating results, or risks."
+}

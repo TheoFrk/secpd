@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "current plans and assumptions",
+    "non-GAAP financial measures",
+    "may vary significantly",
+    "continued economic uncertainty"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but uses standard forward-looking disclaimers and non-GAAP adjustments that can reduce comparability. Risk tone is mildly negative due to declining revenue and earnings pressure from the subscription transition, restructuring costs, higher interest expense, transaction volatility, and economic uncertainty, although recurring-revenue growth and IoT expansion provide mitigating factors."
+}

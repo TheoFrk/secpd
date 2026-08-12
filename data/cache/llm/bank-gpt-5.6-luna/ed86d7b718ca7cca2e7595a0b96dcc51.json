@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict accurately",
+    "actual results may differ materially",
+    "including, but not limited to",
+    "no obligation to update",
+    "unknown future impact"
+  ],
+  "risk_summary": "The disclosure is reasonably quantified, including COVID-19 expenses, government assistance, deferred taxes, sales, and gross-margin impacts, but relies heavily on standard forward-looking disclaimers and broad uncertainty language. COVID-19-related supply-chain disruption, operating inefficiencies, elevated costs, liquidity conservation, and a significant gross-margin decline indicate moderate operating and financial risk despite recovered demand and ongoing operations."
+}

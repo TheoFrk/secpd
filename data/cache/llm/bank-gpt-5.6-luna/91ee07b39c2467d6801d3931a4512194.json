@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict exact timing or duration",
+    "we believe",
+    "expected to",
+    "no assurance",
+    "targeted and strategic acquisitions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified revenue detail and identifies concrete pressures, including routing declines, customer deployment delays, architectural transitions, and lower average selling prices. Risk discussion is partially hedged through repeated forward-looking language and limited quantification of the timing and financial impact of these issues, while management maintains a generally confident strategic tone."
+}

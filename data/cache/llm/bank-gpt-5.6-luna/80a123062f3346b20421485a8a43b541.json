@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.12,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "possibly materially",
+    "no obligation to update",
+    "non-GAAP exclusions",
+    "inherently uncertain and outside control"
+  ],
+  "risk_summary": "The excerpt is predominantly boilerplate cautionary language and technical non-GAAP methodology, with limited company-specific risk quantification. Extensive exclusions, forward-looking disclaimers, and complex definitions may reduce comparability and obscure underlying performance drivers, although the tone is defensive rather than crisis-like."
+}

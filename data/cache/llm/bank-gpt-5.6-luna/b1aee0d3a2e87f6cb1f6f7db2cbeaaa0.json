@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe this enables us",
+    "seek to mitigate the risk",
+    "not indicative of core ongoing performance",
+    "non-GAAP adjusted net income"
+  ],
+  "risk_summary": "The excerpt combines extensive product and competitive descriptions with standard forward-looking disclaimers and limited quantitative operating detail. It identifies meaningful semiconductor risks, including pricing pressure, demand volatility, capacity under-utilization, customer concentration or share loss, and product obsolescence. The non-GAAP presentation may soften the apparent deterioration from a $8.0 million net loss to $8.8 million adjusted net income, although adjustments are itemized and reconciled."
+}

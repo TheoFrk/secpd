@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "remains uncertain",
+    "could materially and adversely affect",
+    "while such has not yet occurred materially",
+    "no assurance",
+    "future developments highly uncertain"
+  ],
+  "risk_summary": "The disclosure is heavily caveated and relies on conditional scenarios rather than providing quantified sensitivity or loss estimates. Key risks include pandemic-related deterioration in insured portfolios, reserve insufficiency, issuer defaults, large near-term debt-service obligations, and potential liquidity constraints at MBIA Corp., although federal aid and portfolio monitoring provide some mitigation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "intends to satisfy",
+    "not indicative of future operations",
+    "actual results could differ",
+    "subject to various costs and risks"
+  ],
+  "risk_summary": "The excerpt is generally precise and transparent, providing detailed portfolio, occupancy, transaction, and revenue figures. Risk tone is moderately confident, though it relies on standard forward-looking caveats and extensive non-GAAP explanations. Key risks include occupancy and leasing performance, tenant collections, unreimbursed operating expenses, and real-estate transaction activity."
+}

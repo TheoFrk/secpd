@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures not standardized",
+    "not indicative of core operating results",
+    "realization is not assured",
+    "potentially subject to successful challenge",
+    "changing facts and circumstances"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and operationally positive, but relies substantially on non-GAAP measures and standard reconciliation disclaimers. Key risks include the Rejuvenate and ABG II hip-stem recall, European market weakness, restructuring, acquisition execution, and uncertain tax positions or deferred-tax-asset realization."
+}

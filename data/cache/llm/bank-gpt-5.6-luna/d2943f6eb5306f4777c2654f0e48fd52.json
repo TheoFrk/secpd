@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not necessarily indicative",
+    "other risks described in this and other reports",
+    "items impacting comparability"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and transaction information, including segment sales, volumes, acquisitions, divestitures, and earnings per share. However, extensive boilerplate disclaimers, broad non-quantified risk listings, and comparability adjustments limit direct assessment of forward performance. Overall tone is balanced but mildly cautious, reflecting mixed operating results and execution, commodity, litigation, and capital-access risks."
+}

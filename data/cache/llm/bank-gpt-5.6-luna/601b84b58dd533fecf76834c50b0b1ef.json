@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "Reference is made",
+    "cross-reference to other sections",
+    "no substantive discussion",
+    "long enumerated section list"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead directs readers to numerous other sections. This limits transparency within the excerpt and prevents assessment of specific exposures, trends, or mitigation measures."
+}

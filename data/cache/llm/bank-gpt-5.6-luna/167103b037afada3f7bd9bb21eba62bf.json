@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "a number of factors",
+    "recognized market and technology leader",
+    "as business needs evolve"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, emphasizing market leadership, customer benefits, and business-model mechanics rather than material adverse developments. It includes some quantified operating information and expense drivers, but also uses broad forward-looking caveats and contains an incomplete section that limits assessment of underlying risks."
+}

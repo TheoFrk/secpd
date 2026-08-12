@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "not currently anticipate any material impairments",
+    "other risks detailed elsewhere",
+    "COVID-19 impact uncertainty"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimer language and broad, non-quantified risk lists that limit visibility into downside exposure. It reports a 23.6% revenue decline and 11.4% volume decline in specialty petrochemicals, while acknowledging continued demand weakness and pandemic-related uncertainty. Operational continuity and liquidity appear cautiously stable, but the disclosure provides limited quantified sensitivity or scenario analysis."
+}

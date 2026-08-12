@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurances",
+    "appropriate financial return targets",
+    "successful execution of several complex actions",
+    "estimate required the exercise of judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on servicing scale, leverage, portfolio concentration, staffing reductions, and an estimated $10 million loss on the NRZ subservicing portfolio. Risk tone is materially cautious, highlighting regulatory and litigation exposure, liquidity and refinancing dependence, fair-value sensitivity, concentration risk, and uncertainty around returning to sustainable profitability. Some strategic objectives and estimates remain conditional and rely on broad assumptions, particularly regarding cost reductions, MSR acquisitions, and NRZ profitability."
+}

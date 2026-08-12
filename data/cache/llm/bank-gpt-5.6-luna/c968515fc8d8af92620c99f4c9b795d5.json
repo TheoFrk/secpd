@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to predict accurately",
+    "outcome is uncertain",
+    "subjectivity involved",
+    "unpredictable nature",
+    "various estimates"
+  ],
+  "risk_summary": "The excerpt presents a materially cautious risk profile, citing declining revenue and representatives, COVID-19 disruption, supply-chain inflation, cyber incidents, litigation uncertainty, and impairment sensitivity. Although it provides several quantified operating metrics and describes remediation actions, repeated limitation language and reliance on subjective assumptions reduce transparency regarding potential downside magnitude."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbors",
+    "outside of our control",
+    "could have material adverse impacts",
+    "may consider additional alternatives",
+    "at least the next twelve months"
+  ],
+  "risk_summary": "The excerpt reports strong, quantified Fiscal 2021 growth and improved margins, but highlights material ongoing exposure to COVID-19, supply-chain disruptions, freight inflation, inventory constraints, and potential liquidity actions. Management provides meaningful operational detail and liquidity metrics, though forward-looking caveats and broad contingency language limit certainty regarding future performance."
+}

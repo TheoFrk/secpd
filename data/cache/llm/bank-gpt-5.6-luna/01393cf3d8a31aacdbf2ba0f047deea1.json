@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "amounts may be in excess of recorded liability",
+    "other similar matters",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-statement disclaimers and a broad, largely unquantified catalog of litigation, regulatory, market, credit, operational, and funding risks. It also provides meaningful operating scale and balance-sheet figures, but the fragmented risk list and reliance on estimates limit transparency regarding potential loss magnitude and timing. Overall tone is balanced to mildly cautious rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "estimated increase/decrease",
+    "principally due to",
+    "factors discussed above",
+    "operational excellence",
+    "seed planting"
+  ],
+  "risk_summary": "The excerpt is highly quantified and presents a confident, positive performance narrative, supported by revenue, profit, cash flow, investment, and margin metrics. Some attribution relies on estimates and broad management terminology, while pension mark-to-market effects, repositioning charges, acquisitions, and divestitures create underlying earnings volatility. The truncated text limits assessment of potentially adverse segment-specific or forward-looking risks."
+}

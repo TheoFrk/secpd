@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.08,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.02,
+  "confidence": 0.99,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "should be read in conjunction",
+    "page-range references"
+  ],
+  "risk_summary": "This is a procedural cross-reference rather than substantive financial or risk disclosure. It provides no quantification, explanation of performance, or assessment of adverse conditions."
+}

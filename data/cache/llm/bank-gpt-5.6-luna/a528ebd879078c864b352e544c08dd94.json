@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to the terms and conditions",
+    "primarily due to",
+    "detailed discussion see",
+    "may not be comparable",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is largely quantified and transparent, but reports material declines in sales, earnings per share, operating cash flow, and working capital, alongside a higher debt-to-capital ratio. Risk discussion is generally factual rather than alarmist, though extensive segment detail and non-GAAP framing may complicate interpretation. The merger disclosure is incomplete in the provided excerpt, limiting assessment of transaction-related risks."
+}

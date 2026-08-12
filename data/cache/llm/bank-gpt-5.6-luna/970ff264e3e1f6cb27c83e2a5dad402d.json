@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to accurately predict",
+    "cannot provide assurance",
+    "strategic alternatives",
+    "additional sources of funds",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative operating and liquidity information, but relies on forward-looking qualifiers and broad strategic language. External risks include Brexit-related volatility, China trade tensions and COVID-19, political and climate disruptions, uncertain credit access, and the possibility of higher-than-expected cash needs. Liquidity appears manageable but may depend on operating improvements, asset sales, capital markets, or third-party financing if conditions deteriorate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could adversely affect future results",
+    "certain items had a significant impact",
+    "following information is omitted",
+    "non-GAAP presentation"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified regarding sales, expenses, currency effects, and separation transactions, but includes standard forward-looking disclaimers and several omitted tables or incomplete sections. The tone is moderately positive, while acknowledging material exposure to foreign exchange, commodities, taxes, distributors, regulation, and impairment risk."
+}

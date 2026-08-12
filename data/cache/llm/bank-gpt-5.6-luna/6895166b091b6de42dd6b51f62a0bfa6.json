@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "technical default",
+    "no assurance",
+    "as needed",
+    "actual results may differ materially",
+    "adequate financing or equity"
+  ],
+  "risk_summary": "The company disclosed a technical default on debt covenants, substantial net losses, high-cost financing, and significant reliance on acquisitions and future capital access. Although the discussion provides extensive quantified transaction and operating data, its forward-looking funding and synergy expectations are heavily qualified and uncertain."
+}

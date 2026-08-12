@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe this provides a commercial advantage",
+    "leading-edge technology",
+    "for the foreseeable future",
+    "maximum utilization and value",
+    "reduced operational risk"
+  ],
+  "risk_summary": "The excerpt presents a strongly promotional growth and competitive-positioning narrative, supported by meaningful fleet and segment metrics. It acknowledges material weaknesses, including lower AMC and Commercial Charter demand, excess cargo capacity, reduced rates, and higher ownership and maintenance costs, but emphasizes contractual revenue and diversification as mitigants. Risk disclosure is moderately vague because many advantages are asserted rather than quantified, despite generally useful operational detail."
+}

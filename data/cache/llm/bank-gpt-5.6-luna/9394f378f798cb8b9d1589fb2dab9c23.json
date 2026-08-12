@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.44,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "we believe / we expect",
+    "non-GAAP Adjusted EBITDA emphasis",
+    "no minimum-purchase commitments",
+    "core business exclusions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified disclosure, including a $40.4 million net loss, 9.9% gross margin, and substantial customer concentration, but also contains extensive boilerplate forward-looking disclaimers and optimistic projections. Key risks include technology-sector weakness, pricing and margin pressure, demand volatility, and dependence on a small number of clients. Emphasis on adjusted EBITDA and exclusions from baseline operating results may reduce comparability with GAAP performance."
+}

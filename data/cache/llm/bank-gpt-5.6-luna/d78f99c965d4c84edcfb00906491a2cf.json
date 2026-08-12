@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impossible to predict the effect and ultimate impact",
+    "significant uncertainty around the breadth and duration",
+    "highly uncertain and cannot be predicted",
+    "future developments",
+    "best estimates of economic and market conditions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified regarding historical performance, segment results, acquisitions, divestitures, and charges. However, the COVID-19 discussion highlights substantial uncertainty around store closures, consumer demand, staffing, and future results, with limited ability to quantify the downside. Overall tone is moderately negative due to pandemic-related operational and earnings risk despite stable prior-year results."
+}

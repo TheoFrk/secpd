@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "not able to reasonably estimate",
+    "partially offset",
+    "adjusted net earnings",
+    "due to uncertainties",
+    "future trends"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed sales, margin, acquisition, recall, and expense disclosures. Key risks include substantial recall charges, foreign-exchange pressure, uncertain tax positions, pension underfunding, and reliance on management estimates for inventory recoverability. Overall tone is cautiously positive, supported by growth and strong capital allocation, but some obligations and future cash impacts remain difficult to estimate."
+}

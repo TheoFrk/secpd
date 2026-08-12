@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "to the extent it occurs",
+    "various competitive and other factors",
+    "long-term prognosis remains favorable",
+    "expected to continue"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational detail and several quantified metrics, but it also relies on optimistic, qualified language regarding market position and future infrastructure demand. Risk tone is moderately negative due to lower railroad demand, pricing pressure, coal-related declines, restructuring, facility closures, and impairment charges, partially offset by long-term contracts and expected recovery trends."
+}

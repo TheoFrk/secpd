@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to other pages",
+    "no substantive disclosure",
+    "boilerplate item description"
+  ],
+  "risk_summary": "The excerpt provides only procedural cross-references and no direct discussion of financial condition, operating results, or market risks. While page references are precise, the absence of substantive information limits standalone risk assessment."
+}

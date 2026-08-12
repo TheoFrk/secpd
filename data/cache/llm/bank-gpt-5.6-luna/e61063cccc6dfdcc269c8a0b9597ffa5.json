@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "beyond the Company’s control",
+    "ability to obtain financing",
+    "subject to certain conditions"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results and royalty commitments with extensive forward-looking disclaimers and promotional descriptions of the licensing model. Revenue declined modestly, while the securitization structure and required debt payments indicate meaningful leverage and collateral constraints. The disclosure is information-rich but difficult to parse because of lengthy sentences, repeated segment descriptions, and broad risk caveats."
+}

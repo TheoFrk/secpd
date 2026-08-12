@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of actual results",
+    "beyond our control",
+    "customary closing conditions",
+    "well-positioned to capitalize"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking and risk-disclaimer language, with limited quantified guidance and substantial reliance on management expectations. The overall tone is cautiously optimistic, but highlights material exposure to pricing pressure, excess supply, raw-material inflation, currency volatility, oil prices, hurricanes, capacity costs, and changing demand. Historical results are quantified, though the outlook remains dependent on uncertain market conditions and assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot guarantee when or if",
+    "outlook will be influenced by",
+    "intended to strengthen",
+    "business is cyclical",
+    "comprehensive compliance program"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue declines, rig-count contraction, workforce reductions, severance costs, and the proposed $6.4 billion merger. Risk tone is materially negative due to recession-driven demand and pricing pressure, although management describes modest recovery prospects and extensive compliance remediation. Some forward-looking statements and broad assurances remain qualified and non-specific."
+}

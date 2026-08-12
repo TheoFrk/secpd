@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to uncertainty",
+    "not materially affected",
+    "may significantly impact",
+    "generally attributed to timing",
+    "material limitations"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and includes substantial quantitative information on cash flow, pricing, volumes, and capital allocation, but relies on standard forward-looking disclaimers and generalized explanations. The tone is moderately confident, supported by strong free cash flow and shareholder returns, while acknowledging volume, waste-reduction, litigation, working-capital, and accounting risks."
+}

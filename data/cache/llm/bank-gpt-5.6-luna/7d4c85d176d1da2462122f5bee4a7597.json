@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ",
+    "subject to change",
+    "preliminary estimate",
+    "various uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on clinical programs, financing, warrant liabilities, and environmental remediation, but relies on standard disclaimers and uncertain estimates. Key risks include preliminary remediation costs that could rise materially, fair-value volatility in warrants, dependence on clinical development, and ongoing financing activity."
+}

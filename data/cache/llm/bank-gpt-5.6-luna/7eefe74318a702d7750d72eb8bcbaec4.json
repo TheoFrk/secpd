@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "litigation-related charges",
+    "constant-currency adjustments",
+    "cannot predict regulations",
+    "reimbursement uncertainty"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial operating, cash flow, debt, and segment detail, limiting concerns about evasiveness. Reported losses and significant litigation charges are material risks, although management emphasizes adjusted profitability, growth, investment-grade ratings, and strong operating cash flow. Non-GAAP presentation and extensive adjustments may soften the appearance of underlying risk."
+}

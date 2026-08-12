@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "future results may differ",
+    "discounted cash flow analysis",
+    "at least annually",
+    "text truncated/incomplete"
+  ],
+  "risk_summary": "The excerpt presents strong growth in recurring license and transaction revenue, connections, customers, and transaction volume, with extensive quantitative support. Risk disclosure is largely standard accounting-policy language, but relies on management estimates and discounted cash flow assumptions for impairment testing; a prior $581,900 trademark impairment is noted. The excerpt ends abruptly, limiting assessment of the full operating and risk discussion."
+}

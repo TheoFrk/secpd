@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no obligation to update",
+    "amount, likelihood and timing",
+    "risks inherent in litigation",
+    "unable to determine material impact"
+  ],
+  "risk_summary": "The excerpt discloses substantial credit, litigation, liquidity, and valuation risks, including $4.6 billion of cumulative incurred mortgage-loan losses, $3.1 billion of expected put-back recoveries, and $1.6 billion of additional CMBS credit losses. Recovery estimates depend on disputed contractual claims, counterparty capacity, litigation outcomes, and changing assumptions, while CMBS losses and liquidity needs could worsen under macroeconomic stress. Extensive safe-h harbor and uncertainty language, combined with complex modeling disclosures, limits precision regarding ultimate losses and …"
+}

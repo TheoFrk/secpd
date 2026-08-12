@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance ... will succeed",
+    "forward-looking information",
+    "various factors",
+    "pro forma 2012 financial information",
+    "contractual arrangements with VIEs"
+  ],
+  "risk_summary": "The excerpt indicates substantial operating risk: 2013 revenue was only $309,000 against a $2.817 million gross loss and $7.609 million in SG&A expenses, while content contracts require minimum guaranteed payments. Disclosure is dense and includes boilerplate forward-looking language, pro forma comparisons, discontinued operations, deconsolidation, and complex PRC/VIE structures that may obscure underlying performance and governance risks."
+}

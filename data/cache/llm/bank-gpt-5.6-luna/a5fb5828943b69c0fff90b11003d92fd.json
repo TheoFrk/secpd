@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "non-GAAP measure",
+    "normal operating requirements",
+    "see Risk Factors",
+    "excerpt truncated"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but reports an 11.3% revenue decline, a sharp deterioration in other expense driven by pension losses, restructuring activity, and significant segment-level contraction. Liquidity and covenant compliance are presented positively, although reliance on expected operating cash generation and references to risk factors leave refinancing and operating-performance risks relevant."
+}

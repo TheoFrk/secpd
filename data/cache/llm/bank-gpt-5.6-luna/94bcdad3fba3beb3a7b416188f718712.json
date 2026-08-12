@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "impractical to quantify",
+    "subject to Board approval",
+    "other risks described in SEC filings"
+  ],
+  "risk_summary": "The excerpt combines quantified historical performance and debt reduction with extensive boilerplate forward-looking disclaimers and a broad catalog of potential risks. Near-term risk tone is moderately cautious, particularly regarding materially higher fiscal 2022 inflation, transportation and supply-chain costs, and the inability to quantify the impact precisely."
+}

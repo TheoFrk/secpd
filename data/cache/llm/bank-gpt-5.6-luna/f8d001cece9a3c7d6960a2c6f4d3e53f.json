@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "difficult to predict",
+    "customary closing conditions",
+    "expected to contribute",
+    "does not intend to update"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic and operating narrative, supported by numerous acquisition, sales, and cash-flow figures. Risk disclosure is largely standardized and forward-looking, with reliance on expectations around acquisitions, diversification, market conditions, and future earnings contributions. Leverage, integration, execution, and transaction-closing risks are acknowledged but not quantified in this section."
+}

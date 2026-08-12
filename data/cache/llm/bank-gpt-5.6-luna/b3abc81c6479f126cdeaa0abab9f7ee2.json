@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "should not be considered in isolation",
+    "challenging business environment",
+    "due to: (missing detail)"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating tone, supported by quantified revenue, margin, and operating-income improvements. It acknowledges business-environment and credit-loss risks, but extensive forward-looking disclaimers, promotional language, and truncated causal explanations limit transparency in places."
+}

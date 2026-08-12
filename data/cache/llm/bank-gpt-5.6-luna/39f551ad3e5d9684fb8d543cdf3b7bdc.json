@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.2,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor language",
+    "actual results may differ significantly",
+    "expect this trend to continue",
+    "believe we are uniquely positioned",
+    "not limited to those discussed in Risk Factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and geographic detail, but repeatedly restates revenue declines and relies heavily on standard forward-looking disclaimers and management expectations. Risk tone is mildly negative, reflecting declining product revenue, margin pressure, regional weakness, and reduced cash balances, partly offset by growth in services and cost controls."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.2,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "designed to help customers",
+    "we believe",
+    "plan to increase revenue",
+    "sufficient to pay off",
+    "evolving needs"
+  ],
+  "risk_summary": "The excerpt presents an optimistic growth and operational-improvement narrative, supported by quantified revenue, margin, expense, and earnings changes. Key risks include flat total revenue, declining tape-related demand, reliance on cost controls and nonrecurring gains, and the need to fund repayment of convertible notes. Promotional descriptions and forward-looking growth language are more extensive than explicit downside analysis in the provided section."
+}

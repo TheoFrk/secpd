@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties not currently known",
+    "do not undertake obligation to update",
+    "aggressively pursue multiple markets",
+    "limited basis manufacturing"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate safe-harbor language and broad disclaimers that reduce clarity around forward-looking risks. Operating discussion provides some concrete market and tax data, but relies heavily on generalized descriptions of demand, recovery, and growth opportunities. Risk tone is mixed, with acknowledged depressed markets and used-equipment pressure offset by improving orders and market optimism."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "impossible to predict",
+    "may adversely impact",
+    "including without limitation",
+    "anticipated future performance"
+  ],
+  "risk_summary": "The excerpt is dominated by extensive boilerplate forward-looking disclaimers and a long, highly nested catalog of potential COVID-19, credit, regulatory, market, operational, and technology risks. Although the later discussion includes specific loan and allowance figures, the risk section is broad and largely non-quantified, limiting assessment of probability and magnitude."
+}

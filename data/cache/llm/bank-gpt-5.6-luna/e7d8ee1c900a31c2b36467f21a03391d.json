@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "we believe",
+    "supports our expectations",
+    "remain strong",
+    "may be material"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed segment, revenue, margin, backlog, cash flow, and foreign-exchange information. Management presents an optimistic 2014 outlook but relies on forward-looking assumptions regarding energy demand, commodity prices, backlog conversion, pricing, and international activity. Key risks include weaker North American surface markets, lower Petrobras-related awards, contract timing variability, foreign currency effects, and potential tax obligations on repatriated cash."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "may prove to be incorrect",
+    "risks and uncertainties",
+    "does not undertake to update",
+    "non-GAAP EBITDA targets"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking-disclaimer language and relies on unverified assumptions, limiting the precision of projected outcomes. It provides some useful quantified targets, including $30 million of annualized EBITDA enhancements and $20 million of working-capital efficiencies, but these are offset by planned investments, restructuring costs, execution risk, and reliance on strategic actions. Overall tone is cautiously constructive rather than crisis-like, with meaningful uncertainty around plan delivery and financial performance."
+}

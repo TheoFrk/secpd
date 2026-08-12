@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance on covenant compliance",
+    "material adverse impact",
+    "future acquisitions or investments",
+    "Adjusted EBITDA non-comparability",
+    "results may not be indicative"
+  ],
+  "risk_summary": "The disclosure is relatively quantified and specific on revenue, expenses, cash flows, debt, and acquisition impacts, but highlights meaningful leverage, liquidity, covenant-compliance, seasonal, and economic risks. The tone is cautious and moderately negative because the company reported a net loss, declining cash, increased indebtedness, and substantial transaction-related costs, despite strong revenue growth."
+}

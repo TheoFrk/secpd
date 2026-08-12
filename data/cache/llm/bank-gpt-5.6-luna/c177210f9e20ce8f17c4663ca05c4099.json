@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "non-GAAP performance measures",
+    "SEC and USAO investigations",
+    "restatement and material weaknesses",
+    "customer-pulled-forward shipments"
+  ],
+  "risk_summary": "The excerpt reports a substantial operating turnaround with detailed, quantified improvements, but the risk profile remains elevated due to prior financial statement restatements, internal control weaknesses, government investigations, COVID-19 and market volatility, and reliance on a fully drawn secured credit facility. Positive 2019 results are partly affected by approximately $30 million of customer-requested shipments pulled forward from 2020 and extensive use of adjusted non-GAAP measures."
+}

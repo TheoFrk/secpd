@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.54,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "known and unknown risks",
+    "may differ materially",
+    "no obligation to update",
+    "and other matters"
+  ],
+  "risk_summary": "The excerpt is heavily disclaimer-driven and lists a broad range of litigation, regulatory, market, credit, operational, and macroeconomic risks without assigning probabilities or quantified downside ranges. Although it includes substantial operational and balance-sheet metrics, the risk disclosure relies extensively on standardized conditional language and broad catch-all provisions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "numerous uncertainties",
+    "could be materially adversely affected",
+    "unable to specifically predict",
+    "as appropriate",
+    "other consequences"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified operating data and identifies specific COVID-19, supply-chain, labor, inflation, cybersecurity, and market risks, but relies heavily on broad conditional and boilerplate risk language. Management describes mitigation actions and long-term objectives, though the outlook remains cautious because the duration, severity, and financial impact of disruptions cannot be specifically predicted."
+}

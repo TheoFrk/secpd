@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "may differ significantly",
+    "this trend is likely to continue",
+    "difficult to predict",
+    "lack of visibility of certain costs"
+  ],
+  "risk_summary": "The disclosure is moderately cautious, with quantified revenue, margin, and cash-flow data, but relies on extensive forward-looking disclaimers and uncertainty language. Key risks include declining product revenue, termination of Cisco resale activity, expiring managed-services contracts, litigation, and potentially uncollectible receivables, partly offset by improved operating margins and positive operating cash flow."
+}

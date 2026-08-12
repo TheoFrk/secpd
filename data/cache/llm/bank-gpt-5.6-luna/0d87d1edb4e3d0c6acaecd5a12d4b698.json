@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "among others",
+    "will not update",
+    "other factors discussed elsewhere"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking-statement disclaimers and cross-references, which limit specificity regarding potential downside scenarios. It identifies material exposures including contract renewals, cybersecurity, government budgets and policy, fee retention, competition, and execution risk, while presenting the business model and operating metrics in a generally constructive but qualified tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurances benefits will be realized",
+    "satisfactory terms",
+    "appropriate financial return targets",
+    "materially and adversely affected"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and acquisition data, but it also contains extensive forward-looking disclaimers and conditional language. Risk tone is materially cautious, reflecting continuing losses, liquidity erosion, regulatory constraints, litigation exposure, integration risk, portfolio runoff, and declining revenue drivers. Disclosure is technically detailed but complex and partially reliant on broad qualifiers regarding execution and future outcomes."
+}

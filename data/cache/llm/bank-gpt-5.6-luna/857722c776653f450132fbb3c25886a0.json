@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.78,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "expect to raise additional capital",
+    "may not be available upon acceptable terms",
+    "anticipated cash flow adequate",
+    "materially restrict our business operations"
+  ],
+  "risk_summary": "The company has recurring losses, no revenue, negative operating cash flow, minimal cash, liabilities exceeding assets, and an auditor-documented substantial doubt regarding going-concern status. Continued operations depend on additional equity or debt financing, which may be unavailable or dilutive. The disclosure is relatively quantified but contains optimistic forward-looking funding assumptions and an apparent inconsistency in the reported stockholders’ equity figures."
+}

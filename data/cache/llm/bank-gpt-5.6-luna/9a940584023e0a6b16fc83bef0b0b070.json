@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "cannot guarantee future results",
+    "industry-leading and outstanding service claims",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and promotional business descriptions, with limited direct discussion of downside risks in the provided portion. The later MD&A includes useful quantified revenue and expense changes, but interpretation is constrained by acquisition-driven growth and the truncated text."
+}

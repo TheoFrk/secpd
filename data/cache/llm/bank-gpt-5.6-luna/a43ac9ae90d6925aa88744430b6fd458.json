@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "cannot assure estimates will be accurate",
+    "no obligation to publicly release revisions",
+    "significant disparity between earnings and cash received"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with detailed year-over-year operating and contract metrics. Key credit risks include percentage-of-completion estimation uncertainty, potential contract termination adjustments, cash-flow timing mismatches requiring borrowing for taxes, and increased debt. Overall tone is moderately positive due to revenue and profitability growth, but is tempered by concentration in major programs and reliance on continued commercial production increases."
+}

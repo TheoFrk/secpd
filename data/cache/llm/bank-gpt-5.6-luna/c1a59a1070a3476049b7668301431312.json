@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking industry forecasts",
+    "non-GAAP EBITDA adjustments",
+    "pro forma acquisition results",
+    "fair value exceeded carrying amount by 7%",
+    "truncated table disclosures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with a confident operating tone and substantial discussion of liquidity, acquisitions, margins, and performance metrics. Key risks include declining EBITDA margins, reliance on acquisition-related growth, and limited goodwill headroom in the Fluid Solutions Europe reporting unit. Non-GAAP measures, pro forma results, and missing table content modestly reduce transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance",
+    "could cause actual results to differ materially",
+    "including but not limited to",
+    "unable to predict the outcome"
+  ],
+  "risk_summary": "The excerpt is dominated by lengthy, boilerplate forward-looking-statement disclaimers and an extensive catalog of contingent risks, limiting direct assessment of likelihood or financial magnitude. It identifies material exposures involving wildfire liability, regulatory recovery, capital access, market volatility, operational disruption, cybersecurity, climate, and policy uncertainty, while providing limited quantification beyond grant activity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP reconciliations",
+    "primarily due to",
+    "partially offset by",
+    "practical considerations may limit",
+    "subject to country-specific limitations"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but performance is pressured by an 8.3% revenue decline, lower contract awards, and business dispositions. Strong operating cash flow and reduced costs support liquidity, while non-GAAP adjustments, pension effects, restructuring items, and restrictions on foreign cash complicate assessment of underlying performance and cash availability."
+}

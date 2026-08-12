@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "adequate liquidity",
+    "expects to generate sufficient funds",
+    "signs of improvement",
+    "cannot be predicted with certainty",
+    "unauthorized transactions"
+  ],
+  "risk_summary": "The disclosure is generally quantified and specific, but highlights declining export sales, customer losses, inventory write-downs, tax-asset valuation uncertainty, and prior unauthorized transactions. Liquidity appears manageable with no borrowings outstanding, although management relies on expected operating cash generation and future sales improvement."
+}

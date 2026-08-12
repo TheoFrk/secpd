@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "items management believes are not indicative",
+    "strategic shift",
+    "currently unknown and will depend on",
+    "discontinued operations and held for sale"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, but relies on standard forward-looking disclaimers, non-GAAP adjustments, and complex segment/discontinued-operations presentation. Risk tone is moderately negative due to operating earnings and adjusted EBITDA declines, net losses, major impairment charges, increased costs, and leverage-reduction needs, despite equity funding and strategic growth initiatives."
+}

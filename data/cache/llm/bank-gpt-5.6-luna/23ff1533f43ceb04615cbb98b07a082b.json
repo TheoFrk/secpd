@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "customary conditions",
+    "special items",
+    "not meaningful (N/M)",
+    "forward-looking statements",
+    "adjusted basis"
+  ],
+  "risk_summary": "The excerpt is relatively quantified and cross-referenced, but relies substantially on non-GAAP adjustments and extensive boilerplate disclosures. The risk tone is moderately negative due to $15.2 billion of litigation costs, inflation, supply-chain pressures, demand declines, and geopolitical impacts, partially offset by management’s confident presentation of restructuring and the Health Care spin-off."
+}

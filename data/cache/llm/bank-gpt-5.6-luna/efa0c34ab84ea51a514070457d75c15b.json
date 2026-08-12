@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "reference is made",
+    "cross-reference to other sections",
+    "no substantive discussion",
+    "boilerplate section listing"
+  ],
+  "risk_summary": "The excerpt provides only a cross-reference to other sections and contains no substantive financial, liquidity, or risk information. This limits standalone assessment of the issuer’s condition and may defer material analysis to later pages."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results may differ materially",
+    "subject to significant uncertainties",
+    "variety of factors including, but not limited to",
+    "Cybersecurity Incident"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial and credit-performance data, including income, capital, delinquency, allowance coverage, loan growth, and provisions. However, extensive forward-looking disclaimers, cross-references, and discussion of the Cybersecurity Incident limit direct assessment of downside exposure. Overall tone is moderately positive, supported by stable credit performance and capital, but tempered by regulatory, cybersecurity, funding, and credit-loss uncertainties."
+}

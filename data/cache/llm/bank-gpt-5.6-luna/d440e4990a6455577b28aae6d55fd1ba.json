@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.55,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "numerous assumptions and estimates",
+    "actual results could differ",
+    "inability to meet forecast results",
+    "triggering event",
+    "fair value exceeded carrying value"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but risk is elevated by significant goodwill impairments, missed forecasts, declining segment performance, and exposure to uncertain valuation assumptions. Repeated reliance on management estimates, forecasts, discount rates, and growth rates creates material sensitivity and some ambiguity regarding future results."
+}

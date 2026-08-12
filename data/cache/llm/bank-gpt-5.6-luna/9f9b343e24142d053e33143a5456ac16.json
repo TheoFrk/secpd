@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "low-single-digit percentage",
+    "mid-single-digit percentage",
+    "slightly favorable",
+    "expected to remain mixed",
+    "we continue to monitor"
+  ],
+  "risk_summary": "The excerpt is generally constructive, citing higher sales, acquisitions, pricing, restructuring savings, and regional growth, but it also highlights slowing demand, currency volatility, China and automotive weakness, and uneven regional prospects. Disclosure is reasonably quantified in dollar terms and selected percentages, though frequent ranges and qualitative modifiers limit precision. Material restructuring, environmental remediation, pension, and leverage-related items warrant continued credit monitoring."
+}

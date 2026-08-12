@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "among others",
+    "should not place undue reliance",
+    "will not update forward-looking statements"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimer language and broad, largely unquantified risk factors, which limits insight into company-specific vulnerabilities. The substantive discussion is moderately positive and includes quantified operating metrics, but notes mixed economic conditions, interest-rate sensitivity, regulatory risk, credit losses, and higher-risk real estate lending."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "not all inclusive",
+    "may result in significant changes",
+    "significant degree of judgment",
+    "does not undertake to update"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer language and relies on subjective estimates for loan-loss reserves, securities valuation, and other critical accounting policies. It identifies meaningful exposure to credit, market, liquidity, regulatory, technology, and economic risks, although historical performance discussion includes quantified improvements in net interest income and margins."
+}

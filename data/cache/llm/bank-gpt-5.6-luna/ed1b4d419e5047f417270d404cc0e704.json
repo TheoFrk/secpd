@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "we believe will be sufficient",
+    "may decide to supplement",
+    "significant market opportunity",
+    "settlement is not yet final"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, reporting revenue, margins, liquidity, settlements, and credit facility amounts, but uses substantial forward-looking and conditional language. The tone is cautiously optimistic, although profitability, funding availability, foreign exchange, legal settlements, covenant compliance, and execution risks remain material. The text is lengthy and jargon-dense, with some boilerplate risk framing."
+}

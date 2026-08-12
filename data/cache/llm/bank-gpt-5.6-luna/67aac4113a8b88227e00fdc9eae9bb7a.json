@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to significant uncertainties",
+    "variety of factors including, but not limited to",
+    "based on current estimates",
+    "relies heavily on estimates",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on earnings, capital, loans, deposits, acquisitions, derivatives, and reserves, supporting relatively strong disclosure quality. Risk is tempered by elevated economic and regulatory uncertainty, acquisition integration exposure, large interest-rate swap positions, and estimate-dependent mortgage representation and warranty reserves. The overall tone is cautiously confident, emphasizing improved credit performance and capital generation while relying on standard forward-looking and estimation caveats."
+}

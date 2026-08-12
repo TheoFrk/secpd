@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects substantial cost savings",
+    "potential benefits",
+    "promising drug candidates",
+    "expanded revenue growth opportunities",
+    "partial-period comparability distortion"
+  ],
+  "risk_summary": "The excerpt presents a generally positive merger and growth outlook, supported by quantified sales, pipeline, and product data. However, results are difficult to compare because the merger created partial-period consolidation effects, while projected synergies and revenue opportunities remain largely unquantified. Product exclusivity losses and declines in several established products indicate material ongoing portfolio risk."
+}

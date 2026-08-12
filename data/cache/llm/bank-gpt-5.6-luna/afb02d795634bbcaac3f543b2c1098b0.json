@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally rely on internally generated cash flows",
+    "we believe",
+    "assumes geopolitical risks will have minimal impact",
+    "subject to adjustment and continuously updated",
+    "more fully described in Notes"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, covering acquisitions, capital expenditures, backlog, market share, shipment forecasts, margins, and financing. Risk tone is predominantly confident and growth-oriented, though outlook relies on assumptions regarding employment, disposable income, interest rates, inflation, and limited geopolitical effects. The lengthy, jargon-heavy presentation and reliance on external industry data introduce some interpretive and forecasting uncertainty."
+}

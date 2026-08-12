@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "beyond our control",
+    "future remains uncertain",
+    "more-likely-than-not",
+    "ultimate resolution may result"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosures on store count, sales, margins, pandemic-related support, and impairment charges, but relies heavily on standard forward-looking disclaimers and qualitative explanations. COVID-19 effects, potential store closures, uncertain future demand, impairment risk, and tax-position uncertainty indicate moderate ongoing risk despite reported sales and margin improvement."
+}

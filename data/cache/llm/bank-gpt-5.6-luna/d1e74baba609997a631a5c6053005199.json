@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "oral funding agreement with no obligation",
+    "cannot assure additional financing",
+    "may go out of business"
+  ],
+  "risk_summary": "The company reports persistent operating losses, minimal cash of $31,559, and reliance on uncertain future revenue and financing. Management acknowledges that directors' proposed funding is not legally obligated and warns that failure to obtain revenue or additional financing could cause the company to cease operations. Quantified historical results provide some precision, but extensive boilerplate and speculative projections weaken the overall disclosure quality."
+}

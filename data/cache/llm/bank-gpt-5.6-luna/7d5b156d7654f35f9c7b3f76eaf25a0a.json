@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurances",
+    "extent and duration ... not currently known",
+    "expected to",
+    "attempts to maximize shareholder value",
+    "subject to certain restrictions"
+  ],
+  "risk_summary": "The disclosure presents significant pandemic-related operating, revenue, liquidity, and recovery risks, with management not expecting material improvement until travel demand and restrictions normalize. It provides substantial portfolio, transaction, and financing detail, but relies on broad uncertainty qualifiers and does not quantify the expected duration or full financial magnitude of COVID-19 impacts."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "does not disclose quantitative information",
+    "global economic outlook is still uncertain",
+    "numerous products and services",
+    "expected to be incurred through 2019",
+    "estimating process inherent in timing"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, but it explicitly withholds product-level information and uses some broad explanations for market and foreign-exchange effects. Multiple goodwill impairments, facility closures, project termination costs, and European restructuring indicate execution and asset-quality risks, although the tone remains factual rather than crisis-like."
+}

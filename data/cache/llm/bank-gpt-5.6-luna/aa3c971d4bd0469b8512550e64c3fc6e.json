@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.54,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "cannot assure additional financing",
+    "oral shareholder loan commitments",
+    "subject to adjustment based on sales, costs and needs"
+  ],
+  "risk_summary": "The company has generated only $1,869 in cumulative revenue, has a history of losses, minimal cash of $1,852, and an auditor-identified substantial doubt about going-concern viability. Future profitability and funding depend on unproven software commercialization, approximately $800,000 of expected operating costs, and financing that may not be available. The disclosure is quantitatively informative on historical results but relies heavily on speculative plans, disclaimers, and nonbinding funding expectations."
+}

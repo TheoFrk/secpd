@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and other factors",
+    "could differ materially",
+    "primarily attributed to",
+    "expectation for continued expansion",
+    "maintaining our commitment to super prime originations"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with clear year-over-year explanations of earnings, margins, capital, deposits, and credit-loss provisions. Risk tone is cautiously positive, although higher commercial losses, funding-cost pressure, margin compression, and commercial-loan-growth uncertainty are relevant credit concerns. Boilerplate forward-looking disclaimers and reliance on broad causal phrases introduce limited ambiguity."
+}

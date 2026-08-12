@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP measure",
+    "investigation and restatement costs",
+    "contingent matters",
+    "expected to fully utilize deferred tax assets"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed operating metrics, but it contains significant legal, restatement, indemnification, relocation, foreign-exchange, and tax-related risks. The tone is operationally confident yet materially tempered by historical losses, substantial investigation expenses, litigation settlements, and reliance on tax assets."
+}

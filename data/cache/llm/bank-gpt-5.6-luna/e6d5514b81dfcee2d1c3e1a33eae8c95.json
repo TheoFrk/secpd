@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "Non-GAAP performance measures",
+    "Exclusion of centrally controlled expenses",
+    "Unpredictable items excluded from segments",
+    "Management-defined adjusted metrics",
+    "Truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is detailed and includes some quantified drivers, but relies heavily on non-GAAP measures and management-selected exclusions that may obscure comparability and segment trends. Lower revenue, declining finance fee income, tighter credit policies, and references to credit losses indicate moderate operating and credit risk, without a crisis-like tone."
+}

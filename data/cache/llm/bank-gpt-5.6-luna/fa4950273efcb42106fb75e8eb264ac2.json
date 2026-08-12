@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP metrics",
+    "sufficient for the foreseeable future",
+    "depends on a number of factors",
+    "no material impact",
+    "proprietary data and analytics"
+  ],
+  "risk_summary": "The excerpt is broadly positive and strongly quantified, with revenue, organic growth, expense, and liquidity figures providing useful transparency. Boilerplate management assurances and reliance on non-GAAP measures moderately soften the risk presentation, while the proposed reorganization remains subject to court approval and other contingencies."
+}

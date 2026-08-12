@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe we are well positioned",
+    "including, but not limited to",
+    "more likely than not",
+    "various items",
+    "dynamic world in which we are currently operating"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, with broad qualitative discussion of competition, consumer preferences, obesity, regulation, inflation, geopolitical conditions, and other external risks. It includes some operational and accounting detail but provides limited quantification of the potential financial impact of the stated challenges. Management maintains a moderately confident tone through repeated strategic commitments and positioning statements."
+}

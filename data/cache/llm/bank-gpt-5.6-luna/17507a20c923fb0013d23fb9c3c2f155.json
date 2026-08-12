@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective estimates",
+    "actual results could differ",
+    "working with regulators",
+    "believe we are progressing",
+    "variety of valuation methods"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent about earnings drivers, discontinued assets, compliance spending, and key accounting judgments. Credit risk remains elevated due to ongoing BSA/compliance remediation, discontinued loan assets, reliance on estimates for loan-loss reserves and fair values, and potential future provisions. Overall tone is cautiously positive, supported by improved income and loan growth but tempered by regulatory and estimation uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to significant uncertainties",
+    "may differ materially",
+    "including, but not limited to",
+    "management’s judgment and estimates",
+    "non-GAAP measures not comparable"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, but contains substantial standard forward-looking disclaimers and extensive cross-referencing. Credit risk is deteriorating, evidenced by higher provision expense, a 134-basis-point increase in net charge-offs, a 78-basis-point increase in delinquencies, and a $2.1 billion increase in allowance for credit losses. Earnings declined materially, although capital remained comparatively strong with a 12.9% CET1 ratio."
+}

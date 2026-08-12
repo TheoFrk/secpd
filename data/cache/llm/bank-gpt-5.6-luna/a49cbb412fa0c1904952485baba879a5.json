@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to foregoing variables",
+    "may range from",
+    "not reasonably determinable",
+    "significant amount of additional capital",
+    "could be forced to file for bankruptcy"
+  ],
+  "risk_summary": "The company reports substantial and accelerating losses, no operating revenue, ongoing clinical and regulatory uncertainty, and dependence on raising significant additional capital. Explicit going-concern language identifies potential trial reductions, operational cessation, bankruptcy, or liquidation if financing is not obtained on acceptable terms."
+}

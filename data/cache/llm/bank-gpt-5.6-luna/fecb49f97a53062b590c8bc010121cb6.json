@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "certain charges and/or credits",
+    "excluding these items",
+    "we believe",
+    "primarily driven by",
+    "refer to ... for further information"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting sales, cash flow, debt, cash, working capital, acquisitions, and adjusted-versus-GAAP earnings. Risk is moderated by strong operating cash flow and investment-grade ratings, but the substantial after-tax adjustments, $5.616 billion of debt, working capital deficit, acquisition activity, and litigation-related payments warrant attention."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "may not contain all of the information",
+    "could have an impact",
+    "continually analyzing and adjusting",
+    "management’s judgment",
+    "other factors may include"
+  ],
+  "risk_summary": "The excerpt is generally detailed and includes substantial quantitative disclosure on revenue mix, transactions, debt terms, and credit-loss methodology. However, portions rely on standard boilerplate, broad risk descriptions, and management judgment without quantifying the potential impact of identified risks. The tone is controlled and mildly confident, with no clear indication of acute distress."
+}

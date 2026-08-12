@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "high degree of judgment",
+    "materially different from current loss reserves",
+    "customary events of default",
+    "sufficient in the aggregate"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantified, including California revenue concentration, collateral arrangements, debt balances, covenants, and liquidity expectations. Key risks center on workers’ compensation reserve uncertainty, potential regulatory or insurance changes, and geographic concentration, with considerable reliance on actuarial judgment and management estimates."
+}

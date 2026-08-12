@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # =============================================================================
 # Installation auf dem air-gapped Bank-Server (GCP Workstation) — KEIN Internet.
-# Voraussetzung: Repo inkl. vendor/wheels und assets/nltk_data ist ausgecheckt
-# und die Python-Version entspricht dem PY_VERSION des Bundles.
+# Voraussetzung: Repo inkl. vendor/wheels ist ausgecheckt und die
+# Python-Version entspricht dem PY_VERSION des Bundles.
 # =============================================================================
 set -euo pipefail
 
@@ -19,11 +19,6 @@ pip install --no-index --find-links vendor/wheels -r requirements.txt
 
 echo "==> Paket als Editable-Install (ohne Build-Isolation, offline-fähig)"
 pip install --no-index --no-build-isolation -e .
-
-echo "==> NLTK-Datenpfad setzen (für spätere NLP-Erweiterungen)"
-export NLTK_DATA="$PWD/assets/nltk_data"
-grep -q "NLTK_DATA" .venv/bin/activate || \
-    echo "export NLTK_DATA=\"$PWD/assets/nltk_data\"" >> .venv/bin/activate
 
 python -c "import secpd, sklearn, pandas, pydantic; print('secpd', secpd.__version__, '| sklearn', sklearn.__version__, '| OK')"
 

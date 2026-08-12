@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "leading-edge technology",
+    "unique value",
+    "capitalize on opportunities",
+    "actively manage our fleet"
+  ],
+  "risk_summary": "The excerpt is predominantly promotional and emphasizes competitive strengths, stable contracts, fleet flexibility, and management experience, with some quantified operating statistics and contract durations. It acknowledges lower ACMI contribution, heavy maintenance costs, reduced customer flying, higher overhead, and increased legal accruals, but provides limited detail on downside scenarios, customer concentration, contract renewals, or sensitivity to demand and asset values."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future accruals may fluctuate",
+    "historical trends are not predictive",
+    "significant judgment is required",
+    "likely to be challenged",
+    "not able to assess the impact"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, particularly regarding insurance reserves, vendor allowances, cash flows, debt issuance, and capital commitments. Key risks involve actuarial and impairment estimates, uncertain tax positions, dependence on vendor allowances, and substantial leverage, although management presents liquidity and financing access in a generally confident tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "restatement of previously issued financial statements",
+    "inadequate review controls",
+    "complex joint venture accounting"
+  ],
+  "risk_summary": "The excerpt contains substantial adverse signals, including a multi-period financial restatement, SEC comment-letter review, inadequate support for revenue recognition, and inadequate controls over complex transactions. Significant secured debt and reliance on licensing, joint ventures, and licensee performance add financial and execution risk. Extensive boilerplate and highly complex accounting descriptions reduce clarity despite providing some specific adjustment details."
+}

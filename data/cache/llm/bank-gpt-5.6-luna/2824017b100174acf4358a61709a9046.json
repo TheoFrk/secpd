@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.48,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "we believe",
+    "greater than expected",
+    "not yet seen an increase",
+    "high degree of uncertainty"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but contains material adverse signals, including an 8% revenue decline, a $171.1 million net loss, significant goodwill and inventory impairments, sales-force turnover, and weaker government and commercial demand. Management presents operational transformation and cost alignment as remedies, but several forward-looking claims and uncertainty around contracts, pension obligations, and debt refinancing temper the outlook."
+}

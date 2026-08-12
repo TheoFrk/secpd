@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "financial impact is unknown",
+    "including, but not limited to",
+    "at times",
+    "strategic actions to strengthen",
+    "factors that can affect our operating results"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data and clear definitions of performance metrics, but also relies on broad boilerplate risk lists and an unspecified future coronavirus impact. International results declined, with currency effects and Flipkart-related margin pressure, while management maintains a generally constructive tone focused on growth, discipline, and long-term improvement."
+}

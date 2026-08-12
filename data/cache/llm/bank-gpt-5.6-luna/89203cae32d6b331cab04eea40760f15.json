@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results may differ materially",
+    "subject to significant uncertainties",
+    "significant management judgment",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting segment earnings, loan balances, capital ratios, provisions, and stated drivers. Risk is elevated in commercial lending, particularly oil and gas and taxi medallion portfolios, while consumer portfolios show higher charge-offs and allowance builds. Extensive forward-looking disclaimers and fair-value reliance on subjective Level 3 inputs introduce uncertainty despite an overall constructive management tone."
+}

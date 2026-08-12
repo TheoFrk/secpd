@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "could continue to negatively impact",
+    "unable to reliably estimate",
+    "current expectations",
+    "not considered a strategic shift"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively supported, but presents meaningful risks from inflation, supply-chain constraints, pricing-related market-share pressure, impairments, and geopolitical exposure. Risk language is balanced with mitigation claims, though several forward-looking statements rely on estimates and qualifying phrases. The excerpt also uses dense MD&A boilerplate and refers readers to other sections for detail."
+}

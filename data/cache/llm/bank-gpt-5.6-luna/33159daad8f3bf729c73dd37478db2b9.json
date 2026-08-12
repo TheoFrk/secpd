@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.82,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "if and when FDA clearance",
+    "cannot be assured",
+    "at least the next 12 months",
+    "materially adversely affected",
+    "may have to cease operations"
+  ],
+  "risk_summary": "The company reports no revenue, negative working capital of $1.36 million, continuing cash burn, and an expected funding requirement exceeding $5 million. Management states it cannot generate positive internal cash flow for at least the next 12 months and may have to cease operations if financing is unavailable. Disclosure is relatively quantified but includes substantial uncertainty around FDA approval, commercialization timing, valuation assumptions, and future financing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could be required to pay",
+    "subject to our review",
+    "currently assessing the impact",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful transaction amounts, clinical results, regulatory developments, and accounting-policy explanations, but contains substantial standard forward-looking and implementation language. Risk tone is mildly positive overall due to strong market and product positioning, tempered by patent-revocation exposure, contingent acquisition payments, clinical and regulatory uncertainty, and incomplete disclosure from truncation."
+}

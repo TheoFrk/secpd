@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily attributable",
+    "anticipate being able to fund",
+    "changing classification of various expenses",
+    "for further information",
+    "increased sales and awareness"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and presents improving sales, margins, profitability, cash flow, and liquidity. The principal risk signals are the restatement of prior-period expense classifications and reliance on broad causal explanations such as increased brand awareness and lower input costs. Management expresses confidence in internally funding foreseeable liquidity needs, but provides limited detail on downside scenarios or acquisition-related funding requirements."
+}

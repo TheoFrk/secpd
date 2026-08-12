@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.02,
+  "complexity_score": 0.18,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "liquidity remains adequate",
+    "may face uncertainty",
+    "if cash flows deteriorate further",
+    "no quantitative liquidity metrics"
+  ],
+  "risk_summary": "The disclosure provides an unquantified assertion that liquidity is adequate while flagging potential covenant-compliance risk. The conditional wording indicates vulnerability if operating cash flows weaken, but does not quantify liquidity headroom, covenant thresholds, or deterioration scenarios."
+}

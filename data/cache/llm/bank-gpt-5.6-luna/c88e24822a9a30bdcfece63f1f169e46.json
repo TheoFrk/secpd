@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "subjective and/or complex judgments",
+    "could materially impact results",
+    "actual results could differ significantly",
+    "no assurances"
+  ],
+  "risk_summary": "The excerpt highlights substantial estimation uncertainty in loan losses, valuations, taxes, and impairment testing, compounded by adverse economic conditions and COVID-19-related credit risk. Liquidity and capital disclosures are quantified and reassuring, while loan modifications have declined materially but remain relevant. Overall, the tone is cautiously stable but relies on standard forward-looking disclaimers and management judgments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and numerous risks",
+    "actual results may differ materially",
+    "primarily driven by",
+    "partially offset by",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate with substantial operational detail, but it relies frequently on qualitative causal explanations and includes extensive forward-looking disclaimers. Key risks include demand variability, utilization volatility, client-by-client engagements, staffing transitions, seasonality, and reliance on adjusted non-GAAP measures. Reported segment performance is positive overall, although the excerpt is truncated before providing a complete assessment of financial condition and interest expense."
+}

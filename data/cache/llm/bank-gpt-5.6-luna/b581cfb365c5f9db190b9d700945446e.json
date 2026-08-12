@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "uncertainties arising from COVID-19",
+    "restated financial statements",
+    "Nasdaq delisting"
+  ],
+  "risk_summary": "The excerpt presents severe credit and governance concerns, including restated financial statements, missed filing deadlines, Nasdaq delisting, suspended trading, and substantial operating and net losses. While operating impacts and quarterly results are quantified, extensive promotional language and broad forward-looking caveats dilute the risk presentation. COVID-19, foreign-exchange exposure, weak customer demand, and lack of hedging add further uncertainty."
+}

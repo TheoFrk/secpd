@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "may continue to be affected",
+    "there can be no assurances",
+    "materially and adversely affected",
+    "predominantly associated",
+    "expected to vary"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on revenue, profitability declines, customer concentration, hubbing arrangements, and non-recurring licensing income. However, extensive boilerplate, lengthy nested disclosures, and reliance on forecasts and third-party data create uncertainty around future revenue, inventory, and earnings quality."
+}

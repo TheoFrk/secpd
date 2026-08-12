@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.21,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "largely non-correlated specialty insurance products",
+    "meaningful underwriting profit",
+    "not individually significant events",
+    "as compared to the prior year reserve review",
+    "complex nature of the claims"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of premiums, loss ratios, catastrophe exposure, reserve development, and reinsurance. The tone is moderately confident, but risks include adverse development in Spanish surety bonds, dependence on favorable reserve development, catastrophe exposure, and uncertainty around long-tail claims."
+}

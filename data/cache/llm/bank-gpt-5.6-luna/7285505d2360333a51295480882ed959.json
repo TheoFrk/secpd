@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "no obligation to revise or update",
+    "materially different",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, margins, cash flow, and operating changes, but contains extensive boilerplate forward-looking language and repeated explanations for product-revenue weakness. Risk tone is mildly negative due to declining product revenue, executive and sales-force transitions, margin pressure from investment, and contingent liabilities, although improved cash flow and operating profitability provide offsets."
+}

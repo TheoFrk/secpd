@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.66,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "certain factors and assumptions",
+    "may prove to be incorrect",
+    "do not undertake to update",
+    "non-GAAP measure caveat"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and broad uncertainty language, limiting specificity about downside risks. It does provide some concrete information on the business sale, restructuring, expected annual savings, and segment changes, but the tone remains cautiously optimistic amid ongoing operational simplification and cost reductions."
+}

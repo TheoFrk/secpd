@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management’s best estimate",
+    "more likely than not",
+    "if we continue to incur net losses",
+    "may have difficulty satisfying",
+    "text truncated/incomplete"
+  ],
+  "risk_summary": "The excerpt provides some quantitative disclosures, including equity proceeds, covenant thresholds, and loan pricing, but relies heavily on standard accounting-policy language and judgment-based estimates. The tone is materially risk-negative because the company had not met profitability thresholds and acknowledged potential difficulty complying with its minimum tangible net worth covenant if losses continued. The abrupt truncation limits assessment of the company’s actual covenant headroom and borrowing capacity."
+}

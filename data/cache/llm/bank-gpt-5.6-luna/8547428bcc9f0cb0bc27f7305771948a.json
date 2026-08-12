@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "qualitative factors",
+    "inherently subjective",
+    "management judgments"
+  ],
+  "risk_summary": "The excerpt provides substantial technical detail and some quantified interest-rate and credit-loss information, but relies on standard disclaimers and qualitative assumptions around impairment, collateral values, and economic conditions. Credit and valuation risks are acknowledged without indicating an immediate crisis, producing a broadly neutral risk tone."
+}

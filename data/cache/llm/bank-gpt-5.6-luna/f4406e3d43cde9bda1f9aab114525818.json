@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to significant change",
+    "may materially adversely impact earnings",
+    "significant judgment and estimates",
+    "limited or no observable market data",
+    "could significantly affect valuations"
+  ],
+  "risk_summary": "The excerpt is heavily reliant on standard MD&A and accounting-policy boilerplate, but it identifies meaningful estimation risk in loan-loss allowances, fair values, and deferred tax assets. Quantitative disclosures on net interest income and margins improve specificity, while extensive caveats and reliance on subjective assumptions indicate moderate credit and earnings uncertainty."
+}

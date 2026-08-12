@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cautionary language",
+    "among other things",
+    "as further described below",
+    "broad assortment of services",
+    "historically low levels of volatility"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and transaction-focused, with several quantified consideration and ownership figures, so it is not highly evasive. However, it contains substantial boilerplate, extensive corporate-structure detail, and complex legal and financial terminology that can obscure key risks. The tone is generally confident but acknowledges challenging post-crisis market conditions, low volatility, and regulatory pressures."
+}

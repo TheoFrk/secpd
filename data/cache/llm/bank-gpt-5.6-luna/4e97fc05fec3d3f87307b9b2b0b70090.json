@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.2,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "full extent and duration unknown",
+    "uncertain and unpredictable",
+    "currently believes adequate liquidity",
+    "we believe excellent reputation",
+    "subjective nature of costs and timing"
+  ],
+  "risk_summary": "The disclosure is largely standard MD&A boilerplate, combining operational descriptions and positive management assertions with limited quantified discussion of COVID-19 effects. Key risks include uncertain pandemic impacts, client procurement and collection delays, contract caps and renegotiations, off-balance-sheet guarantees, and subjective tax-payment timing, although management presents liquidity and continuity as adequate."
+}

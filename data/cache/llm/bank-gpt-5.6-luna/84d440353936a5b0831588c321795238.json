@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ",
+    "significant expenses and liabilities",
+    "management’s judgment",
+    "powerful and scalable marketing language"
+  ],
+  "risk_summary": "The excerpt is dominated by promotional product descriptions and standard forward-looking disclaimers, providing limited direct insight into financial performance or downside exposure. It acknowledges competition, contingent liabilities, impairment judgments, and potential significant expenses, but offers little quantification of these risks."
+}

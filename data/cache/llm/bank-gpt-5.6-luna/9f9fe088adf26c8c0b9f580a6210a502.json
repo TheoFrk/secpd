@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.93,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "Cautionary Statement",
+    "forward-looking statements",
+    "referral to separate document"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or operating discussion and instead incorporates the MD&A from another document by reference. This limits transparency in the excerpt and shifts potentially material risk information elsewhere."
+}

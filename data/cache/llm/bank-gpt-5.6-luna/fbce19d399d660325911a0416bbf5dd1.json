@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "factors beyond our control",
+    "do not place undue reliance"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking language and a broad, largely non-quantified list of potential risks, including liquidity, credit, regulatory, interest-rate, cybersecurity, and real-estate exposure. Quantitative interest-rate and balance-sheet data provide useful precision, but the overall disclosure is dominated by generalized cautions and does not quantify the likelihood or potential impact of key risks. The tone is broadly neutral to mildly confident, reflecting positive operating characterization alongside meaningful macroeconomic and banking-sector uncertaintie…"
+}

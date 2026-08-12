@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "probable significant reversal",
+    "variable consideration constrained",
+    "projected direct costs",
+    "non-recurring costs and financial restatement"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational and accounting detail, including quantified allowances and cash-flow impacts, but relies heavily on standard forward-looking disclaimers and judgment-based revenue estimates. Risk tone is moderately negative due to declining operating cash flow, performance bond payments, financial restatement costs, Libya-related tax and receivable exposure, and uncertainty around change orders and claims."
+}

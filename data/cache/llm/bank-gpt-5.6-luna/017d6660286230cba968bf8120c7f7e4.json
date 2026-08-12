@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate",
+    "more likely than not",
+    "could result in",
+    "subject to approval",
+    "historical experience"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy disclosure, with meaningful discussion of estimation uncertainty around revenue returns, warranties, receivables, inventory, taxes, and goodwill. Risks are generally framed conditionally and lack extensive sensitivity analysis, but the text includes some concrete amounts and operational explanations. Overall tone is neutral to mildly confident, with identifiable but manageable exposure to credit, inventory, impairment, and liquidity risks."
+}

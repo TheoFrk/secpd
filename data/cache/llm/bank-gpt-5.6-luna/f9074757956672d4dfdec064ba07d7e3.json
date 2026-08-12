@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot guarantee this will continue",
+    "if necessary",
+    "may have violated",
+    "other continuing obligations",
+    "not indicative of future financial performance"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, highlighting strong 2011 sales growth but also margin compression and reliance on favorable demand recovery. Key risks include ongoing FCPA monitoring with potential future penalties, warranty-cost uncertainty, foreign-exchange exposure, and impairment sensitivity to discounted cash-flow assumptions. Overall tone is cautiously positive but includes standard forward-looking and contingency language."
+}

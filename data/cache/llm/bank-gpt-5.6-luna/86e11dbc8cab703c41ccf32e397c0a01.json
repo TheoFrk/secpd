@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "factors we believe appropriate",
+    "generally mitigate the risk",
+    "expected to continue to grow",
+    "relatively few suppliers"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, earnings, costs, margins, acquisitions, and debt-related items, supporting relatively transparent disclosure. Key risks include customer and supplier concentration, raw-material inflation, contract dependence, competition, long operating cycles, and reliance on management estimates, though the tone is generally constructive and mitigation-focused."
+}

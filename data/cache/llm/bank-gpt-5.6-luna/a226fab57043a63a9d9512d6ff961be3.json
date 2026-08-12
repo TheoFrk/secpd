@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently uncertain and outside our control",
+    "could cause actual results to differ materially",
+    "subject to market and economic conditions",
+    "judgment and uncertainties"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting earnings, profitability, capital ratios, liquidity, provisions, and revenue trends. Risk tone is balanced but mildly cautious, reflecting a 28% earnings decline, higher litigation and regulatory provisions, market sensitivity, and uncertainty around legal, regulatory, and credit-loss estimates. Extensive safe-harbor language and repeated cross-references add boilerplate but do not appear materially evasive."
+}

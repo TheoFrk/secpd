@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "excluding the effects of",
+    "we expect",
+    "adverse impact",
+    "other factors",
+    "see Note 5"
+  ],
+  "risk_summary": "The disclosure is highly quantified and identifies material risks, including major customer contract expiration, significant earnings declines, goodwill impairment, market softness, and restructuring costs. Management provides mitigation plans and cash-flow expectations, but relies on adjusted metrics and forward-looking assumptions that may obscure underlying operating pressure."
+}

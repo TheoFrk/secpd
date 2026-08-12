@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to predict the full impact",
+    "subject to customary closing conditions",
+    "currently expected to be completed",
+    "strategies will help us address",
+    "estimated payment subject to true-up"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains substantial boilerplate, but it also provides specific transaction values, ownership percentages, timing, and cost-savings targets. Risk tone is mildly negative due to regulatory uncertainty, restructuring, divestitures, execution dependencies, and potential true-up payments, though management presents these actions as strategic improvements."
+}

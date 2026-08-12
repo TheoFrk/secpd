@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset",
+    "ultimate impact may differ",
+    "subjective assumptions",
+    "no assurance can be given"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitatively supported, showing revenue, shipment, margin, cash, and tax impacts with year-over-year comparisons. Risk factors include customer price pressure, unfavorable product mix, supply-chain disruptions, tax-estimate uncertainty, self-insurance accrual risk, and reliance on subjective valuation assumptions. Overall tone is financially positive, supported by reported growth and strong liquidity, but includes standard accounting and estimation caveats."
+}

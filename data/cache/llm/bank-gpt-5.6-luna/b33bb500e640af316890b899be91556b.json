@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we expect",
+    "we believe",
+    "complex tax regulations",
+    "change in accounting estimate"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with strong liquidity, positive comparable-store sales, and no revolver borrowings. Risk signals include a non-cash accounting estimate charge, prior restatement-related costs, working-capital investment, and reliance on management expectations for future performance. The overall tone is cautiously positive rather than crisis-like."
+}

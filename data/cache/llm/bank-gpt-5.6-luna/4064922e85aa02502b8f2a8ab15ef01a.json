@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "actual results may differ materially",
+    "believed to be reasonable",
+    "difficult to predict",
+    "likely to continue"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, particularly regarding self-insurance reserves, vendor allowances, store counts, and earnings. Key risks include estimation uncertainty, self-insurance exposure, impairment sensitivity, vendor allowance reductions, competitive pressure, volatile fuel costs, and uncertain post-pandemic demand. The overall tone is cautiously constructive but includes substantial standard forward-looking caveats."
+}

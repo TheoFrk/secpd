@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.84,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "plans to raise additional capital",
+    "no guarantee",
+    "acceptable terms or at all",
+    "may be forced to scale back"
+  ],
+  "risk_summary": "The disclosure is highly negative and quantitatively specific, showing sharply declining revenue, substantial operating losses, minimal cash, working-capital deficiency, and accumulated deficit. Management explicitly identifies substantial doubt about the company’s ability to continue as a going concern and relies on uncertain future financing and revenue growth. Boilerplate funding-risk language describes potential dilution, restrictive debt covenants, and reductions or termination of development and commercialization efforts."
+}

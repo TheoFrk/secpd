@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to",
+    "could continue to",
+    "non-GAAP financial measures",
+    "structurally subordinated",
+    "effectively subordinated"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and reports improved sales, operating income, and net income, but performance relied heavily on pricing, while volume/mix was unfavorable. Material risks include large impairment losses, inflation and supply-chain pressure, potential market-share erosion, foreign-exchange exposure, litigation effects, and significant structural subordination of senior notes. The excerpt is highly technical and includes substantial boilerplate, with some forward-looking uncertainty and truncated content limiting a complete assessment."
+}

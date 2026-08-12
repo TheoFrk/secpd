@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no exact measure of the effect",
+    "all references ... are estimates",
+    "we believe",
+    "expected to",
+    "adjusted results"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on impairment, restructuring costs, debt, preferred stock, and market exposures, but relies on estimates for commodity prices, channel inventory, market growth, and share. Industrial demand weakness, customer capital-spending reductions, restructuring needs, and a $23.9 million impairment indicate meaningful operating risk, partially offset by available revolver capacity and stated cost savings."
+}

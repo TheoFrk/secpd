@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subjective or complex judgments",
+    "expect to continue investing",
+    "cyclical semiconductor demand",
+    "estimated future cash flows"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and promotional, with quantified acquisition prices, divestiture proceeds, and R&D allocation but limited discussion of downside scenarios or sensitivity analysis. It highlights cyclical semiconductor demand, integration and restructuring activity, and substantial reliance on estimates for receivables, derivatives, warranties, and inventory. Overall tone is cautiously confident rather than crisis-like, though the truncated passage limits assessment of complete risk disclosure."
+}

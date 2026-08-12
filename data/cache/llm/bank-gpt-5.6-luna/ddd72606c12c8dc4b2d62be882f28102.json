@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks, uncertainties and assumptions",
+    "refer to risks and uncertainties",
+    "continued improvement in operational execution",
+    "previously discussed"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and membership data, acquisition impacts, and year-over-year comparisons, supporting relatively transparent disclosure. Its tone is generally positive, but recurring cross-references, forward-looking disclaimers, and emphasis on acquisitions and execution partially obscure underlying exposure to regulatory, integration, reimbursement, and medical-cost risks."
+}

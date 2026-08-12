@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "risks and uncertainties include, but are not limited to",
+    "restated consolidated financial statements",
+    "Audit Committee Investigation and related litigation",
+    "discussion elsewhere in this report"
+  ],
+  "risk_summary": "The excerpt discloses material reporting and governance concerns, including extensive financial restatements and $44.2 million of investigation- and litigation-related expenses, partially offset by insurance proceeds. Risk disclosures rely substantially on standardized forward-looking and accounting-estimate language, while the excerpt omits the detailed risk factors following several headings. The operating portfolio is described with useful quantitative metrics, but the overall risk tone is mixed and elevated."
+}

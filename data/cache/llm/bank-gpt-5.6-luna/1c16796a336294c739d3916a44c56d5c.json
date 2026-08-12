@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "where possible",
+    "unable to specifically quantify",
+    "expected to",
+    "primarily due to",
+    "if current conditions decline"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, covering market share, sales, outlook ranges, credit performance, and segment results. Risk tone is broadly confident, though it acknowledges that weaker freight and economic conditions could increase past-due accounts, repossessions, credit losses, and reduce new business volume. Some causal explanations remain qualitative and the outlook relies on forward-looking assumptions."
+}

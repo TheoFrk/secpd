@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "based on certain assumptions",
+    "may also include",
+    "indeterminate amount",
+    "expected to be sufficient",
+    "uncertainty with respect to timing"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, liquidity, debt, impairment, and contingency information, but relies on broad assumptions for the 2013 outlook and cash sufficiency. Material risks include a 77% decline in operating income, $793 million of impairment charges, sanctioned-country matters, substantial debt repayments, and an indeterminate governmental investigation settlement."
+}

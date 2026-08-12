@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may vary materially",
+    "not possible to predict all factors",
+    "no specific store-opening timeframe",
+    "material effect on results"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent about sales, margins, expenses, cash, inventory, and segment trends, with an overall cautiously positive operating tone. Key risks include declining national-account sales, slower store expansion, personnel constraints, litigation expense, reduced cash, and increased inventory. Extensive boilerplate and broad forward-looking disclaimers limit the specificity of future outlook."
+}

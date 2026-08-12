@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "positioned to capture value",
+    "favorable ordering patterns",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The excerpt presents quantified revenue and margin growth, but relies on promotional language regarding market positioning and product adoption. Key risks include regulatory approval uncertainty for Cingal in the United States, inflationary cost pressure, acquisition-related costs, and declining Non-Orthopedic revenue. Assessment is limited by the truncated SG&A discussion and omitted revenue table."
+}

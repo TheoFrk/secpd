@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "broad discretion",
+    "substantially all of the net proceeds",
+    "we anticipate",
+    "may need to obtain additional financing",
+    "actual results could differ"
+  ],
+  "risk_summary": "The company is a pre-revenue SPAC with no operating history and depends on trust-account funds, insider support, and completing a business combination. Liquidity is projected to cover 12 months, but cost overruns, lower interest income, redemptions, or transaction financing needs could create a funding shortfall. Disclosure is highly quantitative but includes substantial standard SPAC boilerplate and broad use-of-proceeds discretion."
+}

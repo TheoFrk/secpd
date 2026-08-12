@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "expected to drive long-term growth",
+    "depends in part on regulatory approvals",
+    "continued patent and legal rights",
+    "detailed discussion referenced elsewhere"
+  ],
+  "risk_summary": "The excerpt is largely precise and well quantified, with clear disclosures of declining sales, cash flow, margins, and segment EBIT. Risk is concentrated in glyphosate oversupply, generic competition, pricing pressure, and reliance on regulatory and intellectual-property outcomes. Promotional forward-looking language and extensive cross-references modestly reduce transparency, but the overall disclosure quality is strong."
+}

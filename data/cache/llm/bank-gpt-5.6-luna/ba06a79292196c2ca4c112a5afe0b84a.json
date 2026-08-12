@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "outcome cannot be predicted",
+    "ability to generate profits remains uncertain",
+    "significant upside and exposure reduced",
+    "related-party common control financing"
+  ],
+  "risk_summary": "The disclosure presents substantial financial risk, including persistent net losses since 2009, declining revenue, continued operating cash burn, dependence on financing or cost reductions, and uncertainty regarding going-concern viability. Risk is partly obscured by extensive safe-harbor boilerplate and promotional descriptions of new blockchain and cloud initiatives, while the related-party VMSO transaction adds governance and execution complexity."
+}

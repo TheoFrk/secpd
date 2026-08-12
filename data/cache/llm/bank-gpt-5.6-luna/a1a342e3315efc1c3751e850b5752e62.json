@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "including, but are not limited to",
+    "other factors",
+    "expected expense levels",
+    "estimates prove to be inaccurate"
+  ],
+  "risk_summary": "The excerpt is dominated by broad forward-looking-statement disclaimers and an extensive, largely non-quantified list of potential adverse factors. It provides useful operating detail and some metrics, but risk exposure is not prioritized or tied to quantified scenarios, and the excerpt ends mid-disclosure."
+}

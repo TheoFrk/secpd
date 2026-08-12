@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various mitigating actions",
+    "could change based on",
+    "does not believe ... material impact",
+    "subject to various risks, uncertainties and assumptions",
+    "expected to drive continued investment"
+  ],
+  "risk_summary": "The disclosure is generally constructive, highlighting orders, acquisitions, debt-rating improvement, cash generation, and quantified restructuring targets. Material risks include macroeconomic volatility, supply-chain and labor pressures, restructuring execution, cyber exposure, customer concentration, and demand sensitivity; some impacts are described with standard forward-looking qualifiers rather than precise scenario analysis."
+}

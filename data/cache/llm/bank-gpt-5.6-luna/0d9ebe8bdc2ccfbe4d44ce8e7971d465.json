@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.46,
+  "risk_sentiment": -0.82,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of financing",
+    "uncertainty as to realization",
+    "dormant account write-offs",
+    "cash balance of $0"
+  ],
+  "risk_summary": "The company reports a materially worsening net loss, zero cash, current liabilities exceeding current assets, and reliance on uncertain external financing. Debt-extinguishment gains from vendor account write-offs and limited operating disclosures add credit-quality concerns despite the reported reduction in working capital deficit."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "assuming no meaningful changes",
+    "expected to stabilize",
+    "among others",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with a positive operating tone and reported loan, deposit, earnings, and capital deployment figures. Key risks include higher-cost deposit migration, consumer delinquency and charge-off increases, interest-rate uncertainty, and reliance on assumptions regarding deposit stability and economic conditions. Forward-looking and non-GAAP language introduces some qualification but is accompanied by explanations and reconciliations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "may continue",
+    "material adverse impacts",
+    "future technologies",
+    "minimal interruption"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including a $1,032.1 million accumulated deficit, continuing operating losses, and potential liquidity and capital-raising risks. Promotional claims about market position and technological flexibility are broad and largely unsupported by comparable operating metrics, while the revenue-recognition discussion is highly technical and boilerplate-heavy."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "expect revenue to increase",
+    "significant potential",
+    "better positioned to execute",
+    "comprehensive range of solutions"
+  ],
+  "risk_summary": "The excerpt uses substantial promotional and forward-looking language, with limited quantified support for competitive positioning and growth claims. It does provide useful debt and revenue disclosures, but highlights exposure to declining tape markets, OEM and royalty revenue declines, and continued execution dependence on channel partners and product investments."
+}

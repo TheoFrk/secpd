@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significant judgment",
+    "may require",
+    "non-GAAP measures",
+    "ASC 605 versus ASC 606"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed revenue-recognition policies, operating metrics, cash flow, debt, and restructuring figures. Key risks include increased revenue volatility under ASC 606, reliance on non-GAAP and legacy ASC 605 comparisons, subscription-transition execution, customer disputes, and $673 million of total debt. Overall tone is cautiously positive, supported by growth in ARR, bookings, and operating cash flow."
+}

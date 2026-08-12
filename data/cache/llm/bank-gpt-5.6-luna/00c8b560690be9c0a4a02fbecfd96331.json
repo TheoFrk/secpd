@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "relatively few major companies",
+    "generally mitigate the risk",
+    "individually immaterial items",
+    "not necessarily indicative of future operations"
+  ],
+  "risk_summary": "The excerpt is detailed and substantially quantified, but includes standard estimate disclaimers and qualifying language around customer and supplier concentration, contract performance, backlog, and future operations. Risk tone is mixed but mildly positive, supported by long-term customer relationships, contract pass-through provisions, and growth statements, while acquisition-related costs, increased borrowings, concentration, and execution uncertainty remain material concerns."
+}

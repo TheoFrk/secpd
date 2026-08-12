@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance actual losses",
+    "materially different methodologies",
+    "uncertain extent and duration of stress",
+    "considerable judgment and assumptions",
+    "infrequently traded Level 3"
+  ],
+  "risk_summary": "The excerpt provides substantial technical detail and some quantified drivers, but relies heavily on assumptions, probability-weighted estimates, and broad lists of factors that could materially alter reserves and valuations. Credit risk remains elevated from stressed insured exposures, Puerto Rico-related situations, illiquid Level 3 instruments, and potential reserve volatility, despite generally favorable macroeconomic commentary."
+}

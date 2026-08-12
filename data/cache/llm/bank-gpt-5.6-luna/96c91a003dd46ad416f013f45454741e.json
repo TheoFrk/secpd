@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "state-of-the-art and industry-leading claims",
+    "we believe our technology platform offers advantages",
+    "may vary significantly from one period to the next",
+    "inherently uncertain estimates",
+    "flexibility to resume more restrictive work models"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified revenue, cash flow, financing, and operating disclosures, but mixes them with promotional assertions and forward-looking claims that are not consistently supported by measurable targets. Risk is elevated by significant net losses, reliance on debt and equity financing, complex fair-value accounting, revenue timing volatility, facility-construction execution, and pandemic-related operational uncertainty."
+}

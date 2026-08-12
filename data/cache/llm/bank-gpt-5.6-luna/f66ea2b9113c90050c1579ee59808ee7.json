@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "primarily due to",
+    "changes in facts and circumstances",
+    "reversal of engineering revenue"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail, but reports declining revenue and margins, a net loss, significant inventory and asset impairment charges, and revenue-recognition reversals. Risk disclosures are partly boilerplate and rely on broad causal explanations, while the overall tone is materially negative but not crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "likely be material",
+    "primarily reflects",
+    "expected to drive increases",
+    "immaterial",
+    "as further disclosed elsewhere"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, providing volumes, merchant counts, attrition, growth, losses, and reserve data. It conveys improving operating trends and reduced merchant losses, but highlights exposure to merchant attrition, credit and chargeback risk, concentration in a large petroleum contract, and reliance on internally developed processing systems. Some forward-looking and minimizing language limits precision regarding future performance and immaterial losses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance financing available",
+    "intangible factors",
+    "actual results may differ materially",
+    "estimates can fluctuate significantly",
+    "future cash flows projected several years"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including self-insurance reserves, coverage limits, vendor allowances, liquidity sources, and debt capacity. Risk is presented through standard accounting-estimate and financing caveats, while operating performance is favorable with record sales and net income. The excerpt does not indicate an immediate crisis, but dependence on vendor allowances, self-insurance estimates, asset valuations, and future financing introduces moderate sensitivity to adverse conditions."
+}

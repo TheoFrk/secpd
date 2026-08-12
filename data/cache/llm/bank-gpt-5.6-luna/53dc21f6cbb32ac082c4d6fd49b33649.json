@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance actual results",
+    "we believe / we expect",
+    "without limitation",
+    "non-GAAP adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt relies heavily on boilerplate forward-looking disclaimers and repeated management assertions about positioning, growth, and favorable trends, with limited quantified support. It acknowledges meaningful risks including lithium pricing pressure, idled spodumene production, capacity costs, volatile currencies and commodity prices, and uneven global growth, but maintains a generally confident tone."
+}

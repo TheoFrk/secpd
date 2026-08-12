@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.35,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "page-range cross-reference",
+    "boilerplate heading",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and merely cross-references another section of the filing. Its boilerplate structure limits standalone transparency and prevents meaningful assessment of operating performance or financial condition."
+}

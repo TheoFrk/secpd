@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate",
+    "uncertain and difficult to predict",
+    "inherently uncertain",
+    "best estimates and assumptions",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting strong revenue growth, margin expansion, and acquisition activity. It acknowledges meaningful macroeconomic, claims, acquisition valuation, and accounting-estimate risks, but provides limited quantification of potential downside or sensitivity. Overall tone is confident and favorable, tempered by standard forward-looking uncertainty language."
+}

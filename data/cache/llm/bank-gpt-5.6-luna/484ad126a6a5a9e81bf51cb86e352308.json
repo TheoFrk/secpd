@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.71,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects to achieve",
+    "believes sales will continue to improve",
+    "strategic investments",
+    "subject to specified availability thresholds",
+    "planned future initiatives"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed operating, capital allocation, liquidity, covenant, and repurchase disclosures. Its tone is strongly positive, emphasizing sales and margin improvement, while relying on optimistic projections and repeated descriptions of growth initiatives. Liquidity appears sound at period end, with no borrowings and substantial credit availability, but execution risk exists around e-commerce, technology investments, store expansion, and shareholder distributions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "retrospective application",
+    "numerous organizational and operational changes",
+    "may adversely affect",
+    "generally entitled to",
+    "factors affecting revenue […]"
+  ],
+  "risk_summary": "The excerpt discloses a significant financial restatement, multiple retrospective accounting-policy changes, and revenue declines in a key segment, indicating elevated reporting and operating risk. Quantified drivers are provided, but extensive boilerplate, conditional language, and omitted text limit clarity regarding the full financial impact."
+}

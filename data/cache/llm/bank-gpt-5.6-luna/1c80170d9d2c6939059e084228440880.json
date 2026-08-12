@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "expected to close",
+    "subject to cancellation",
+    "generally highly correlated",
+    "probable that the customer will fund"
+  ],
+  "risk_summary": "The excerpt is relatively specific and well quantified, describing segment structure, customer concentration, divestiture proceeds, contract types, and government funding exposure. Key risks include heavy dependence on U.S. government and DoD spending, termination and funding-cancellation provisions, regulatory and shareholder approval for the merger, and significant accounting estimates. The tone is generally confident and descriptive, but the excerpt is truncated and contains limited forward-looking outlook detail."
+}

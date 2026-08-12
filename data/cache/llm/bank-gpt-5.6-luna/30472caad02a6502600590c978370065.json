@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance",
+    "as needed",
+    "actual results may differ",
+    "continued uncertainty",
+    "contingent upon financing"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but reflects severe financial weakness, including a 1,607% increase in net loss, sharply declining revenue, negative operating cash flow, and a 0.04:1 current ratio. Liquidity depends on preferred-stock sales, affiliate advances, and future financing, with no assurance that funding will be obtained on acceptable terms. Asset concentration in an unconsolidated affiliate and reliance on related-party arrangements further elevate risk."
+}

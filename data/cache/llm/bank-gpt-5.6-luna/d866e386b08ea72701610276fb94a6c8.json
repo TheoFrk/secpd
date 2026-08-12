@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "impact is uncertain",
+    "difficult to reasonably assess or predict",
+    "possible material impact",
+    "variety of methodologies to estimate",
+    "information is not available prior to filing"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic and operating narrative, supported by numerous product approvals and portfolio investments, but acknowledges meaningful pricing, regulatory, tax, foreign-exchange, patent-loss and demand-estimation risks. Risk disclosure is detailed yet relies in places on broad contingencies, forward-looking uncertainty, and estimates without quantifying potential impacts in the excerpt."
+}

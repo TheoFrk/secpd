@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "actual results could differ",
+    "requires management judgment",
+    "unobservable inputs",
+    "text truncated after acquisition"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure, but relies on management estimates and judgment for revenue recognition, fair value, inventory, and impairment assessments. Operating cash flow declined materially year over year, while investing cash usage increased, indicating moderate liquidity and execution risk. The tone is largely neutral and explanatory rather than crisis-like."
+}

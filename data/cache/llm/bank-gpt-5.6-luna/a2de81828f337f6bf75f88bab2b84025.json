@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "assumptions we consider reasonable",
+    "resolved quickly",
+    "interruption ... will be brief",
+    "do not expect significant volume gains",
+    "highly dependent on many external factors"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with revenue, pricing, rig-count, derivative, and acquisition figures. Risk tone is cautiously positive but relies on broad assumptions about market recovery, geopolitical stabilization, customer demand, and execution. Political upheaval and near-term operating impacts are acknowledged, though potential downside is framed as limited and temporary."
+}

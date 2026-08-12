@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.12,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to other sections",
+    "should be read in conjunction",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "This is a procedural cross-reference directing readers to the MD&A and financial statements. It provides no substantive financial, operational, or risk information, limiting the ability to assess underlying credit risk from this excerpt alone."
+}

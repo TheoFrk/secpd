@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "among other factors",
+    "based on eligible accounts receivable and other conditions",
+    "estimated future returns",
+    "truncated inventory disclosure"
+  ],
+  "risk_summary": "The excerpt is detailed and contains substantial quantitative disclosure on the merger, liquidity, borrowings, and credit facilities, but relies on standard accounting-estimate caveats and includes a truncated section. Leverage and reliance on secured, asset-based financing create moderate liquidity and refinancing risk, while floating-rate debt and customer-collection assumptions add sensitivity."
+}

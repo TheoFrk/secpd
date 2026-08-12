@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "various other expenses",
+    "believed to be reasonable",
+    "highly subjective assumptions",
+    "may be adversely affected"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on customer concentration, geographic exposure, expenses, litigation settlements, and accounting estimates. Risk is elevated by dependence on a few customers and Asian markets, purchase-order-based sales, inventory timing, litigation history, and subjective valuation assumptions, though the tone is not crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "boilerplate strategic outlook",
+    "expects to further strengthen",
+    "increasingly complex consumer environment",
+    "non-GAAP financial measure",
+    "latest estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook supported by quantified organic growth, segment data, and EPS adjustments, while acknowledging macroeconomic, currency, labor, geopolitical, pandemic, and supply-chain risks. Disclosure is moderately complex and includes substantial standard MD&A boilerplate, but the quantified reconciliations reduce overall evasiveness."
+}

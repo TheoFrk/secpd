@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "strategic alternatives",
+    "may pursue",
+    "challenging market conditions",
+    "constant currency metrics",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but includes boilerplate forward-looking language and extensive non-GAAP framing. Revenue declined 13%, EBITDA shifted to a loss, and net income turned into a loss amid inflation, higher rates, weaker labor demand, customer cancellations, and currency volatility. Strategic-alternative language introduces uncertainty regarding future business actions and asset dispositions."
+}

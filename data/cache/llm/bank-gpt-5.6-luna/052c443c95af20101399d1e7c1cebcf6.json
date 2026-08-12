@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of actual results",
+    "we believe/expect",
+    "broad market-risk enumeration",
+    "no obligation to revise"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking and optimistic language, with numerous assumptions and standard disclaimers limiting accountability for forecast deviations. It acknowledges meaningful exposure to oil prices, currency volatility, excess supply, customer bankruptcy, raw-material costs, and uneven global growth, but provides limited quantified sensitivity analysis. Overall tone is cautiously confident rather than crisis-like, supported by some specific transaction and operating figures."
+}

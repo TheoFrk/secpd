@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive discussion",
+    "read in conjunction with",
+    "page-range redirection"
+  ],
+  "risk_summary": "This excerpt is a standard cross-reference and provides no substantive information about financial condition, operating results, or specific risks. Risk assessment requires review of the referenced MD&A and consolidated financial statement notes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be known at this time",
+    "may not materialize",
+    "many factors",
+    "significant uncertainties",
+    "constant currency adjustment"
+  ],
+  "risk_summary": "The excerpt identifies broad market, competitive, macroeconomic, execution, currency, and accounting-estimate risks, but provides limited quantified sensitivity or scenario analysis for most risks. Management presents extensive mitigation initiatives in a generally constructive tone, while acknowledging that expected restructuring benefits and investment returns may be delayed or fail to materialize."
+}

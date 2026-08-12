@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "substantially complete investigation",
+    "no further investigative procedures currently planned",
+    "certain inappropriate business conduct",
+    "material weakness in internal control"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified regarding the sales-practice investigation, including estimated pull-in sales and the identified material weakness, but it uses repeated legal and accounting caveats to limit conclusions. Risk tone is materially negative because senior management pressure and policy violations impaired the control environment, despite the assertion that no restatement or improper revenue recognition was identified."
+}

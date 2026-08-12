@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "where possible",
+    "unable to quantify",
+    "expected to be",
+    "would likely increase",
+    "table truncated/omitted"
+  ],
+  "risk_summary": "The excerpt is generally precise and data-rich, with extensive historical operating, market-share, revenue, and credit metrics. Its tone is strongly favorable, emphasizing record results and growth, while acknowledging downside risks from weaker economic conditions, freight-market deterioration, currency movements, and potential increases in delinquencies and credit losses. Assessment is limited by truncated tables and several unquantified causal factors."
+}

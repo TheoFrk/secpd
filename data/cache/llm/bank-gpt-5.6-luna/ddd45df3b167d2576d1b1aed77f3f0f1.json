@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "actual outcomes differ",
+    "may need additional provisions",
+    "variety of valuation methods",
+    "other relevant factors"
+  ],
+  "risk_summary": "The discussion is substantially quantified and explains earnings drivers, but it includes material regulatory penalties and extensive reliance on subjective credit-loss, fair-value, impairment, and compensation estimates. Overall performance improved after adjusting for unusual prior-year gains and current-year penalties, though the disclosure highlights meaningful exposure to estimation uncertainty and portfolio credit risk."
+}

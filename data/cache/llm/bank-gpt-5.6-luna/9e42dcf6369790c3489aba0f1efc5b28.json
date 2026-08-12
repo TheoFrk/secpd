@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "expected to drive long-term growth",
+    "focused on managing costs",
+    "for a more detailed discussion",
+    "subject to regulatory approvals",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment, cash flow, margin, and operating performance disclosures. Risk is present but framed constructively, including glyphosate overcapacity, generic competition, regulatory approval dependence, and patent/legal-rights exposure. Extensive cross-references, forward-looking language, and non-GAAP measures modestly reduce comparability and clarity."
+}

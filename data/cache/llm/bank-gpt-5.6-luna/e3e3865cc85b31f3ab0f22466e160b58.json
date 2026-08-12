@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we strive to",
+    "may adversely affect",
+    "high-growth end markets"
+  ],
+  "risk_summary": "The excerpt presents a broadly confident, promotional business overview while acknowledging substantial exposure to semiconductor cyclicality, pricing pressure, customer demand, capacity utilization, supplier concentration, and technology shifts. Risk discussion is largely generic and mitigation-oriented, with limited current-period quantitative analysis or specificity regarding material impacts."
+}

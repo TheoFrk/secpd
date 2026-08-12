@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "difficult to predict",
+    "may differ materially",
+    "expects to decline over time",
+    "pipeline awaiting approval"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, expenses, product pipelines, and debt-related fair-value impacts, supporting relatively transparent disclosure. However, extensive forward-looking disclaimers, reliance on FDA approvals and development assumptions, and an unquantified expectation of declining cost ratios indicate meaningful execution and regulatory uncertainty. The tone is cautiously positive due to improved profitability, but is moderated by prior losses, derivative liability volatility, and dependence on future product launches."
+}

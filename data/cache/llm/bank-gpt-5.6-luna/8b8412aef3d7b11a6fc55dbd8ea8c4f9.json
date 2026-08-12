@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "as resources permit",
+    "it is anticipated that public announcement will follow",
+    "significant uncertainties associated with COVID-19",
+    "Level 3 valuation inputs"
+  ],
+  "risk_summary": "The excerpt discloses substantial doubt about the company’s ability to continue as a going concern, persistent clinical-trial delays, significant cash usage, and dependence on external financing. Although it includes specific cash-flow and contractual-payment figures, much of the operational outlook relies on anticipatory language and unobservable valuation assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "may negatively affect",
+    "inherently difficult to assess",
+    "limited ability to predict"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantification of concentration, platform, release-timing, receivables, and estimation risks. However, it is heavily promotional and relies on broad forward-looking language, while the excerpt is truncated before several accounting judgments are completed."
+}

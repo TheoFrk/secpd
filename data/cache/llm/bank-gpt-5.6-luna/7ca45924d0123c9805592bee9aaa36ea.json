@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "no assurance financing will be available",
+    "expects significant improvement",
+    "anti-dilutive financing claims",
+    "forward-looking growth projections"
+  ],
+  "risk_summary": "The filing discloses substantial doubt about the company’s ability to continue as a going concern, recurring net losses, limited cash, and dependence on debt, equity, and convertible financing. Although it presents aggressive growth and asset-acquisition plans, many projections are conditional, weakly substantiated, and rely on future financing and rental growth. The disclosure is complex and promotional, with notable uncertainty around execution, dilution, leverage, and liquidity."
+}

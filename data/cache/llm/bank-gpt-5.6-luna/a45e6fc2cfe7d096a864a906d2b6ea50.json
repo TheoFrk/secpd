@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance that impacts ... will not further adversely affect",
+    "unable to predict the ultimate impact",
+    "depends upon several factors",
+    "estimates",
+    "non-GAAP measures not comparable"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but contains substantial forward-looking uncertainty around COVID-19, patient volumes, reimbursement, and relief funding. Recovery claims are presented alongside broad caveats, while extensive non-GAAP adjustments and technical language increase interpretation complexity."
+}

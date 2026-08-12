@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "store closing and impairment charges",
+    "deferred tax valuation allowance reversal",
+    "gift-card breakage income",
+    "truncated outlook disclosure"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with detailed year-over-year operating and cash-flow information. However, reported profitability benefits materially from nonrecurring items, tax allowance reversals, and breakage income, while sales, comparable-store performance, gross margin, and store count trends weakened. The incomplete excerpt limits assessment of forward-looking risks and the full 2011 outlook."
+}

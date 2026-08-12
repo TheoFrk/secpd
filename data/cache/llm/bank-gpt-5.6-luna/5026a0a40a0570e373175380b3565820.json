@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "conditional going-concern conclusion",
+    "unanticipated market factors",
+    "further regulatory action",
+    "strategic operating plans",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on capital raising, capital ratios, losses, and operating drivers. However, the company remains under an FDIC Consent Order and Federal Reserve Written Agreement, with liquidity and continuation dependent on successful execution, brokered CD issuance, and regulatory compliance. Risk tone is cautiously negative despite materially improved capitalization and reduced losses."
+}

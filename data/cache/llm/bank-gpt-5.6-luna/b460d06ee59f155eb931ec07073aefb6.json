@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impact cannot be known at this time",
+    "dynamic market trends",
+    "various other agreements",
+    "actual results may differ",
+    "significant uncertainties"
+  ],
+  "risk_summary": "The excerpt provides some useful quantified revenue trends and segment detail, but is heavily reliant on standard MD&A boilerplate and broad descriptions of challenges. Risk tone is mildly negative due to market stagnation, competitive pressure, macroeconomic uncertainty, and substantial accounting-estimate uncertainty, though the reported revenue growth and mitigation initiatives provide balance."
+}

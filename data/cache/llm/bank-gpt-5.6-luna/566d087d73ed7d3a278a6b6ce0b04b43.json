@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "non-GAAP financial measures",
+    "management judgment",
+    "tables and disclosures omitted"
+  ],
+  "risk_summary": "The excerpt combines substantial forward-looking and non-GAAP boilerplate with some useful quantified disclosures, including the domain-sale gain, tax provision, and expected share-based compensation expense. Risk is moderated by explicit acknowledgment of fixed costs, revenue shortfall sensitivity, recurring share-based compensation, competitive pressures, and limitations of non-GAAP measures. Overall tone is promotional but appropriately qualified rather than crisis-like."
+}

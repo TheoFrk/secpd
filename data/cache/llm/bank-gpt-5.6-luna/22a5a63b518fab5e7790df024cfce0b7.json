@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimates, assumptions, and judgments",
+    "could materially impact",
+    "when available",
+    "believe is appropriate",
+    "uncertainty of sufficient taxable income"
+  ],
+  "risk_summary": "The disclosure is heavily caveated and relies on subjective valuation, impairment, allowance, and tax assumptions, with limited quantified sensitivity analysis. Credit and asset-quality risks are evident from impaired loans, collateral dependence, fair-value volatility, foreclosure exposure, and a full deferred-tax-asset valuation allowance. The excerpt also reports recurring losses and adverse operating trends, although some year-over-year expense improvements are quantified."
+}

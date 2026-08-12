@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.68,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "excluding restructuring and acquisition costs",
+    "other non-operational costs",
+    "forward-looking statement safe harbor",
+    "incomplete excerpt"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and liquidity trend, with quantified revenue, margin, earnings, and cash-flow improvements. Potential interpretive risk arises from extensive reliance on non-GAAP measures that exclude recurring or potentially material costs, while the forward-looking disclaimer and incomplete text limit assessment of downside risks."
+}

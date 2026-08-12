@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "unable to predict duration or severity",
+    "wide range of factors beyond our control",
+    "revenues, margins and cash flows under pressure",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt identifies a material cyclical downturn affecting commodity prices, margins, earnings and cash flows, with Energy pretax income down 49% and consolidated pretax income down 45%. Risk disclosures are generally substantive and include quantified segment results, but extensive boilerplate and broad uncertainty language limit forward visibility. Management presents cost controls and reduced investment as mitigating actions, though the excerpt signals continued pressure and contains a truncated, internally discontinuous section."
+}

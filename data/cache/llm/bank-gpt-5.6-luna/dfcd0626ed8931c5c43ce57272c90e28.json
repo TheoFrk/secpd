@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate",
+    "no assurance",
+    "among other things",
+    "management judgment",
+    "not sufficiently probable and estimable"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on acquisitions, segment structure, reserves, and valuation methods, but relies heavily on technical accounting language and extensive assumptions. Representation and warranty exposure is rising materially, while ultimate losses remain difficult to estimate due to uncertain mortgage performance, litigation, repurchase activity, recoveries, and macroeconomic conditions."
+}

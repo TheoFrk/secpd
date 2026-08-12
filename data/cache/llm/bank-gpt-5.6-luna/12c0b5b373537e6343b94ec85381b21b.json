@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently uncertain and outside our control",
+    "may differ, possibly materially",
+    "challenging operating environment",
+    "various legal proceedings and contingencies"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, reporting earnings, revenues, expenses, capital ratios, liquidity, and litigation provisions. Risk disclosure relies substantially on standard forward-looking-statement disclaimers and broad references to external risk factors, while acknowledging market, regulatory, legal, and macroeconomic uncertainty. Overall tone is cautiously positive, supported by improved second-half conditions and strong capital and liquidity metrics."
+}

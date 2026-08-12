@@ -41,7 +41,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--model", required=True, help="Pfad zum .joblib-Bundle")
     p.add_argument("--data", required=True, help="Datensatz (.csv/.csv.gz/.parquet)")
     p.add_argument("--out", default="scores.csv")
-    p.add_argument("--llm", choices=["mock", "bank"], default=None)
+    p.add_argument("--llm", choices=["mock", "bank", "lmstudio"], default=None)
     p.add_argument("--events", default=None,
                    help="8-K-Eventliste (CSV) — nötig, wenn das Bundle evt_*-Features erwartet")
     p.add_argument("--id-col", default=None)

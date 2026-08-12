@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.27,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects sufficient funds through operations",
+    "should provide adequate liquidity",
+    "subject to variation",
+    "cannot be predicted with certainty",
+    "ongoing recovery activities"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but presents meaningful risks from declining export sales, lower gross margins, consumer and macroeconomic sensitivity, and an increased deferred-tax valuation allowance. Liquidity is described confidently, though it depends partly on future operating cash generation and available borrowings. Standard estimation language and the excerpt’s truncation limit assessment of contingencies and covenant details."
+}

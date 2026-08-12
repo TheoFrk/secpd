@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "undertake no obligation to revise",
+    "factors we are unaware of",
+    "related-party sales concentration"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking and risk disclaimers, partially obscuring the underlying operating risks. Quantified results show continuing losses, very limited cash, debt-related expense, and substantial dependence on a related-party customer, despite improved revenue and margins."
+}

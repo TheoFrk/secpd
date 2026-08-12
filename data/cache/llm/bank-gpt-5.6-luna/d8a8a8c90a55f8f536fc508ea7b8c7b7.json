@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unless the context otherwise requires",
+    "can have a negative impact",
+    "as appropriate",
+    "significant impact",
+    "primarily driven by"
+  ],
+  "risk_summary": "The excerpt is relatively precise, with substantial quantitative disclosure on transaction structure, government concentration, COVID-19 effects, and operating-profit drivers. Risk tone is materially negative due to pandemic-related demand, supply-chain, customer liquidity, impairment, restructuring, and contract issues, although the discussion remains formal and explanatory rather than crisis-like."
+}

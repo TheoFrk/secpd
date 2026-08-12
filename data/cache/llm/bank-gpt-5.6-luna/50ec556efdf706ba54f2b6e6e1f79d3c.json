@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "a number of factors",
+    "there can be no assurance",
+    "foreseeable future",
+    "other actuarial assumptions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on customer concentration by segment, revenue, labor costs, capital expenditures, and liquidity expectations. Risk disclosure is generally standard and balanced, but relies on broad qualifiers and contains repetitive boilerplate, while key insurance and cost exposures remain dependent on estimates and adverse claims or inflation trends."
+}

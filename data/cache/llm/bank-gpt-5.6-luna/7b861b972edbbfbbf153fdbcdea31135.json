@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP measures",
+    "primarily due to",
+    "low-single-digit percentage",
+    "additional information in referenced notes",
+    "text truncated mid-sentence"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on revenue declines, COVID-19 effects, restructuring, impairment charges, debt, environmental expenditures, and pension contributions. Risk tone is moderately negative due to pandemic-driven volume declines and charges, but liquidity and funding language is generally reassuring. Reliance on adjusted measures, broad causal phrasing, and extensive cross-references modestly limits transparency."
+}

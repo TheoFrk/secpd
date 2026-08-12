@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliation caveats",
+    "primarily due to",
+    "as necessary",
+    "may experience difficulty obtaining liquidity",
+    "truncated interest expense disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but includes substantial standard non-GAAP disclaimers and some causal language that limits precision. Risk factors include continued net losses, product recall costs, customer and counterparty credit exposure, retail impairment, and liquidity concerns, although profitability and expense metrics improved year over year."
+}

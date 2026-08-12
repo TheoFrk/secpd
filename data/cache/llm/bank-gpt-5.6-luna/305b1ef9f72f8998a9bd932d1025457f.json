@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "could be adversely affected",
+    "generally mitigate the risk",
+    "best judgment and other factors",
+    "ongoing reevaluation of estimates"
+  ],
+  "risk_summary": "The excerpt identifies meaningful concentration, commodity-cost, contract-estimation, foreign-currency, acquisition, and refinancing risks, while noting that 2015 sales and earnings declined. Mitigation claims and strategic-growth language are present, but some exposures remain dependent on customer and supplier stability, contract terms, and management estimates."
+}

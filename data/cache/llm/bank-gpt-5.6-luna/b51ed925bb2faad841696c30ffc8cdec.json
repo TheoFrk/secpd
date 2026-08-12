@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to predict the full impact",
+    "unable to predict the impact",
+    "when we believe such refinements will help",
+    "potentially replace the Affordable Care Act",
+    "other court challenges and regulatory changes"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and operational detail, including ownership percentages, facility counts, restructuring charges, divestitures, and anticipated payments. However, it highlights significant regulatory and reimbursement uncertainty and relies on broad conditional language regarding the potential impact on revenues, patient volumes, uncompensated care, and cash flows. The tone is strategically confident but carries moderate downside risk from healthcare policy changes, cost reductions, divestitures, and leverage objectives."
+}

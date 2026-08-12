@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may prove to be incorrect",
+    "do not undertake to update",
+    "not guarantees of future performance",
+    "expected to continue"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on divestitures, debt facilities, margins, operating income, and interest expense, but is preceded by extensive boilerplate disclaimers that limit reliance on forward-looking information. Risk tone is moderately cautious due to inflation, higher rates, weaker consumer demand, declining operating income, increased debt costs, and product withdrawal costs."
+}

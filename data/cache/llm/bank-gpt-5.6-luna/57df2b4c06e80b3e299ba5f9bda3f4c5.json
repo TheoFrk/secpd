@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to a number of risks and uncertainties",
+    "no obligation to update",
+    "primarily due to the same reasons",
+    "truncated and malformed disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and provides detailed revenue, margin, and expense changes, with a moderately optimistic operating tone. However, it contains substantial standard forward-looking disclaimers, repeated attribution of changes to acquisitions, and incomplete or malformed sections that limit interpretability. Acquisition integration, margin mix, impairment, reimbursement pressure, and execution risks are evident but not fully quantified."
+}

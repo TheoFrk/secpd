@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "percentage-of-completion estimates",
+    "claims not recognized until settled",
+    "high customer concentration",
+    "project losses and estimated losses",
+    "assets held for sale and wind-downs"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and market-share detail, but relies on engineering estimates and deferred recognition of claims and change orders, creating contract-margin and earnings-estimation risk. Results show declining operating income, asset-sale losses, project losses, and additional expected joint-venture losses, alongside significant dependence on federal government customers."
+}

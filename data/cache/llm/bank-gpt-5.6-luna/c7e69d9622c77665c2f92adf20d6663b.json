@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures not instead of GAAP",
+    "certain items excluded",
+    "among other things",
+    "quantitative and qualitative impacts",
+    "truncated reconciliation tables"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with revenue, expense, acquisition, currency, restructuring, litigation, and impairment effects identified. However, repeated non-GAAP disclaimers, exclusions of potentially recurring costs, and missing or truncated reconciliation data limit comparability and could present an overly favorable view of core performance. Risk tone is broadly positive but moderated by restructuring charges, legacy litigation, regulatory compliance costs, financial-instrument losses, and higher commercial paper usage."
+}

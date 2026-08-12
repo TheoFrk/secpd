@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.18,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "difficult to predict",
+    "may differ materially",
+    "extensive risk enumeration"
+  ],
+  "risk_summary": "The excerpt is heavily disclaimer-driven and lists broad litigation, regulatory, macroeconomic, credit, liquidity, cybersecurity, geopolitical, and operational risks, often without quantified exposure or probability. Despite this risk-heavy framing, the later operating data is relatively precise and indicates substantial scale and profitability."
+}

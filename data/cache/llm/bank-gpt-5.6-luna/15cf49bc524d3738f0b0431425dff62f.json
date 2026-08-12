@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.27,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "we believe",
+    "we expect",
+    "may decide",
+    "uncertainty surrounding realization"
+  ],
+  "risk_summary": "The disclosure is materially quantified but includes substantial forward-looking and conditional language around growth, liquidity, acquisitions, restructuring benefits, and deferred tax asset recoverability. Risk tone is moderately negative due to a 28% revenue decline, lower ultracapacitor sales, operating losses, margin compression, restructuring, and reliance on forecasts, although management presents sufficient liquidity and strategic growth initiatives."
+}

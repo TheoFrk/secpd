@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "difficult to reasonably assess or predict",
+    "future developments such as",
+    "wherever possible",
+    "as appropriate",
+    "specified items"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating narrative, supported by quantified revenue, EPS, approval, and vaccination metrics. Risk disclosure is largely standard and identifies COVID-19 uncertainty, pricing pressure, patent expiry, generic competition, and foreign-exchange effects, but some impacts remain difficult to quantify and the 2020-to-2019 comparison is incorporated by reference."
+}

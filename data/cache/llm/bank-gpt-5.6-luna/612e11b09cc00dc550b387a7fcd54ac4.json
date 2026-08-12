@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "mostly offset by",
+    "estimated gross profit percentage",
+    "other considerations",
+    "not easily available"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment, market-share, revenue-concentration, and operating metrics. Risk is modestly negative due to declining operating income, goodwill impairment, joint-venture losses, winding-down operations, and rising interest expense, although management emphasizes strong dredging margins and fleet utilization."
+}

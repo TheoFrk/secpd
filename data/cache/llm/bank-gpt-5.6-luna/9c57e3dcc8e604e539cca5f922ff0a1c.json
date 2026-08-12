@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to variances based upon actual circumstances",
+    "not always indicative of future revenues or profitability",
+    "may fluctuate significantly",
+    "cannot predict how COVID-19 will evolve",
+    "can be canceled at any time without penalty"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and well quantified, including fleet size, government-customer concentration, backlog conversion, COVID-19 costs, and bid-market share. Risk is moderated by recurring demand and strong federal project exposure, but material uncertainty remains from COVID-19 impacts, project delays, backlog variability, contract cancellation rights, and reliance on government spending."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we anticipate",
+    "non-GAAP measures",
+    "ongoing performance",
+    "substantial net operating loss carryforwards"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with a constructive growth-oriented tone and explicit store, sales, capital expenditure, and repurchase targets. Key risk signals include expected negative international same-store sales, planned store closures, reliance on franchisee performance, and the use of adjusted non-GAAP metrics that exclude selected charges. Disclosure is moderately boilerplate and technically complex but not materially evasive."
+}

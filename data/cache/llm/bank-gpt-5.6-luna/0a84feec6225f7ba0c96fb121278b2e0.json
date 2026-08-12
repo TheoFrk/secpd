@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance actual results",
+    "without limitation",
+    "we believe",
+    "strategically well-positioned"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking disclaimers and optimistic management assertions, with limited quantified outlook detail for key risks. It identifies meaningful exposures including lower oil prices, pricing pressure, currency volatility, soft demand, customer inventory controls, and environmental requirements, while emphasizing portfolio strength and expected growth."
+}

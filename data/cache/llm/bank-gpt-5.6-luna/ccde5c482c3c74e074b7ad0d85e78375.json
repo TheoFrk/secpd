@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to uncertainties and unknown or changed circumstances",
+    "may differ materially",
+    "many factors",
+    "economic and other factors outside of our control",
+    "negative conditions may continue"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate and business description, with moderate discussion of exposure to macroeconomic, commodity-price, customer-spending, and contract-mix risks. Quantitative disclosures on revenue, margins, SG&A, acquisitions, and segment performance provide useful specificity, although the excerpt is truncated and offers limited quantified sensitivity analysis."
+}

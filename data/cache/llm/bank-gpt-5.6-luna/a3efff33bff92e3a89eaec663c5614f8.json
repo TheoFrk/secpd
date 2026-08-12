@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "no assurance that closings will occur",
+    "attempts to maximize shareholder value",
+    "plans to utilize available cash or borrowings",
+    "not audited",
+    "forward-looking expectations"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing property counts, transaction values, financing capacity, covenant status, and expected RevPAR growth. Risk is moderated by acquisition and financing contingencies, reliance on available cash and borrowings, unaudited comparable-property data, and exposure to macroeconomic lodging conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "extent remains uncertain",
+    "may implement",
+    "Adjusted EBITDA non-U.S. GAAP",
+    "constant currency presentation",
+    "partially mitigated"
+  ],
+  "risk_summary": "The excerpt presents meaningful operating and financial pressures, including a 5.0% sales decline, margin compression, higher variable-rate interest expense, supply-chain inflation, and a $175.5 million impairment charge. Management provides substantial quantified data but relies on adjusted and constant-currency metrics and qualifying language that may soften underlying deterioration."
+}

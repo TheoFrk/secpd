@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results could differ materially",
+    "primarily due to",
+    "partially offset by",
+    "incorporated risk-factor cross-references"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year revenue, subscription, and expense data, supporting relatively transparent disclosure. Risk is moderated by material B2C revenue and subscription declines, while growth in B2B and cost reductions support a cautiously positive tone. Boilerplate forward-looking disclaimers and repeated cross-references add some evasiveness but do not dominate the analysis."
+}

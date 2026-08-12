@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.89,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "significant uncertainty regarding realization",
+    "unable to establish VSOE or TPE",
+    "not comparable to prior years",
+    "material non-recurring transactions"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure, but relies on complex accounting terminology, estimates, and standard materiality disclaimers. Risk tone is moderately negative due to recurring operating losses, full valuation allowances, increased debt, comparability limitations following the merger, and uncertainty in revenue allocation and collectability."
+}

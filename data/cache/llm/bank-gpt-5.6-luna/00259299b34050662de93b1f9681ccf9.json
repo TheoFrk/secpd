@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ, possibly materially",
+    "various factors including",
+    "expect to generate significant expense efficiencies",
+    "favorable/unfavorable comparative net impact",
+    "omitted discussions referred to prior filing"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic outlook supported by quantified metrics such as $145 million of program costs, $750 million of run-rate savings, and $1.228 trillion of assets under management. Risk disclosure is extensive but includes standard forward-looking disclaimers and qualitative dependencies around COVID-19, markets, mortality, expenses, and execution, limiting precision on downside magnitude."
+}

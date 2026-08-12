@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "high degree of subjectivity",
+    "reasonable and supportable forecasts",
+    "future adjustments may be necessary",
+    "conditions significantly differ",
+    "unexpected changes in prepayment speeds"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed disclosure of CECL methodology, assumptions, and historical financial results. However, credit-loss estimates rely heavily on management judgment, economic forecasts, model inputs, and qualitative adjustments, creating potential for future reserve increases and adverse effects on earnings and regulatory capital. The dense, technical presentation and truncated context limit assessment of the full risk outlook."
+}

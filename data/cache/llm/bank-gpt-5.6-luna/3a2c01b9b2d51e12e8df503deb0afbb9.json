@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may be materially different",
+    "difficult to predict",
+    "not able to reasonably estimate",
+    "may be impacted in the future",
+    "excluding the impact of certain items"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, identifying inflation, supply-chain constraints, China procurement risks, Russia exposure, goodwill impairment, debt obligations, and pension and tax uncertainties. Risk tone is balanced but mildly positive because strong sales growth and earnings are emphasized despite margin pressure, adverse macroeconomic conditions, and potentially material unquantified liabilities."
+}

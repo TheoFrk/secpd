@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily due to",
+    "somewhat offset by",
+    "could be significantly affected",
+    "best estimate of ultimate liability"
+  ],
+  "risk_summary": "The excerpt is generally well quantified, but contains standard forward-looking caveats and relies on estimates for insurance and tax reserves. Risk is elevated by the SEC investigation, a substantial $185 million credit drawdown used partly to fund a special dividend, and exposure to inventory, claims, and tax-estimation variability."
+}

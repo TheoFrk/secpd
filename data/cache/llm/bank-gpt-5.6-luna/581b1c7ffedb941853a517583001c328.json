@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "expect this trend to continue",
+    "high growth areas",
+    "excludes significant costs",
+    "estimated insurance recoveries"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with extensive operating, acquisition, expansion, and financing information. Risk tone is cautiously positive, although the company highlights reliance on acquisitions and expansion, non-GAAP metrics that exclude significant costs, and material hurricane-related charges partially offset by estimated insurance recoveries."
+}

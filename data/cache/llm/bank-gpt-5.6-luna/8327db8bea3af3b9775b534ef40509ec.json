@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad macroeconomic risk enumeration",
+    "subject to sole discretion",
+    "may face additional adverse impacts",
+    "certain previously disclosed matters",
+    "extensive legal and compliance obligations"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate risk framing and broad, non-quantified descriptions of macroeconomic, regulatory, geopolitical, and operational exposures. However, legal and compliance matters are described with meaningful specificity, including a $918 million pre-tax charge, $964 million of payments, deferred prosecution agreements, monitoring, and potential future enforcement consequences. Overall, the tone is materially risk-aware and somewhat negative, though not crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance",
+    "foreseeable future",
+    "seek to pass through cost increases",
+    "truncated insurance-claims discussion"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial quantification, including facility counts, segment revenue contributions, labor-cost ratios, capital expenditures, and liquidity expectations. Risk disclosure relies on standard forward-looking disclaimers and conditional language, with notable exposure to labor costs, customer reimbursement rates, insurance claims, and financing availability. Overall tone is moderately constructive but qualified by uncertainty and adverse-scenario caveats."
+}

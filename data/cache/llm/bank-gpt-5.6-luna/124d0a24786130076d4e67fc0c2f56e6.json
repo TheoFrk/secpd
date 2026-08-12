@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "based on historical levels",
+    "various other factors",
+    "for the foreseeable future",
+    "if any",
+    "subject to certain conditions"
+  ],
+  "risk_summary": "The excerpt is largely standard accounting-policy and MD&A boilerplate, with some useful quantitative disclosures on revenue mix, liquidity, capital allocation, and debt capacity. Key judgment areas include returns, incentives, impairment, deferred taxes, and future cash requirements, while international expansion, supply-chain inflation, and reliance on the OPTA VIA channel create moderate risk. The tone is generally confident and growth-oriented, but the excerpt is truncated and provides limited sensitivity analysis or downside quantification."
+}

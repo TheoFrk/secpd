@@ -1,4 +1,4 @@
-.PHONY: synth train train-combined train-ensemble train-default score test bundle install-offline benchmark rolling
+.PHONY: synth train train-combined train-ensemble train-default score test bundle install-offline benchmark rolling ping-llm precompute-llm
 
 synth:
 	python scripts/make_synthetic_data.py --n 1200 --out data/processed/synthetic.csv \
@@ -38,6 +38,17 @@ rolling:
 		--financials data/raw/financials_panel.csv \
 		--events data/raw/edgar_8k_events.csv \
 		--out benchmarks/rolling_default_h12
+
+ping-llm:
+	python scripts/ping_llm.py --endpoint $${SECPD_LLM_ENDPOINT:-http://172.16.3.164:1234}
+
+precompute-llm:
+	python scripts/precompute_llm_features.py \
+		--data data/processed/zenodo_labeled.csv.gz \
+		--financials data/raw/financials_panel.csv \
+		--min-fyear 2009 --require-financials \
+		--llm $${SECPD_LLM_MODE:-openai} \
+		--out data/processed/llm_features.csv
 
 test:
 	python -m pytest -q

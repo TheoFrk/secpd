@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "leading global supplier",
+    "recognized market and technology leader",
+    "a number of factors",
+    "forward-looking statements and risks",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is heavily descriptive and promotional, with substantial boilerplate and complex explanations of products, revenue models, and metrics. Some expense movements are quantified, but the disclosure is incomplete and includes unresolved risk signals such as litigation costs, allowance increases, higher borrowings, and rising interest expense."
+}

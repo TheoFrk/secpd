@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "economic uncertainty",
+    "numerous external factors",
+    "evolving business needs",
+    "may be modified, curtailed or terminated"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate, but it identifies meaningful exposure to macroeconomic weakness, pricing pressure, contract volatility, government budget changes, execution risk, and foreign currency movements. Quantified segment and contract-award data improve transparency, although the discussion remains broad and relies on conditional language for adverse scenarios."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and actual results could differ",
+    "significant judgment and estimates",
+    "subject to change based on market conditions",
+    "discontinued operations",
+    "no revenue producing business or operations"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, but relies on standard forward-looking and estimation disclaimers. Risk is elevated because the company sold its remaining operating business, recorded substantial impairment and sale losses, and retained certain debt and liabilities while having no ongoing revenue-producing operations."
+}

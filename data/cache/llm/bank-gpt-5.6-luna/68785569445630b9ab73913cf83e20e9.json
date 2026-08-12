@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "could adversely affect",
+    "expected recoveries based on assumptions",
+    "strategic alternatives"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding investment losses, insurance losses, Puerto Rico exposures, interest-rate sensitivity, and declining premiums, but includes substantial standard forward-looking disclaimers. Risk is elevated by PREPA and Puerto Rico recoveries, portfolio losses, market sensitivity, and the expectation of limited new business, although lower loss and adjustment expenses provide some offset."
+}

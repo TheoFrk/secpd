@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate duration",
+    "rapidly evolving situation",
+    "may materially change",
+    "inherently subjective estimates",
+    "potential SEC matter settlement"
+  ],
+  "risk_summary": "The disclosure is generally precise and financially quantified, reporting strong revenue, earnings, and cash-flow performance. Key risks include cybersecurity exposure, COVID-19 uncertainty, an ongoing SEC matter, and judgment-dependent insurance reserves, although management characterizes current impacts as non-material or manageable."
+}

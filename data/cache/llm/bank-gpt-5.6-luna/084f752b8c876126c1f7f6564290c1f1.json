@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.77,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "we believe we are well positioned",
+    "non-GAAP adjusted net income",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is detailed and includes operational and market risks, but relies on standard forward-looking disclaimers and qualitative mitigation claims rather than quantified exposure. Reported losses and semiconductor demand, pricing, utilization, competition, and obsolescence risks create a mildly negative credit tone, partially offset by management’s confident descriptions of capabilities and diversification."
+}

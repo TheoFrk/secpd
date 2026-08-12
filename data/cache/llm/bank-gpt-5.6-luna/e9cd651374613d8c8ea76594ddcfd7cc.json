@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "many factors including, but not limited to",
+    "no assurance that our estimates are accurate",
+    "significant judgment and estimates",
+    "subjective judgments regarding uncertainties"
+  ],
+  "risk_summary": "The excerpt combines promotional business descriptions with extensive forward-looking disclaimers and reliance on subjective accounting estimates. Historical filing delays, material control weaknesses, SEC matters, substantial leverage, litigation contingencies, and judgment-sensitive revenue and compensation accounting indicate meaningful reporting and credit risks, although quantified debt and segment revenue information provides some transparency."
+}

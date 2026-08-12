@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.34,
+  "risk_sentiment": 0.02,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference instead of disclosure",
+    "information included on pages",
+    "broad section reference",
+    "no quantitative detail"
+  ],
+  "risk_summary": "The excerpt provides only cross-references to other sections and contains no substantive financial or market-risk information. This limits standalone transparency and prevents assessment of the company’s specific exposures, though it does not itself indicate adverse risk conditions."
+}

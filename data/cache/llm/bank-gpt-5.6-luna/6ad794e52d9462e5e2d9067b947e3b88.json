@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "combined presentation",
+    "significant judgment and estimates",
+    "uncertain tax positions",
+    "limitations on utilization"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and compliance-oriented, with useful specificity on the merger, financing activities, segment structure, and tax-loss carryforwards. Risk disclosure is moderately technical and includes caveats around non-GAAP measures, combined predecessor/successor periods, tax estimates, and loss utilization limitations, but provides limited direct assessment of liquidity or downside severity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects to",
+    "management believes",
+    "designed to drive growth",
+    "long-term success",
+    "subject to specified conditions"
+  ],
+  "risk_summary": "The excerpt is generally confident and growth-oriented, with substantial quantitative disclosure on sales, margins, capital expenditures, buybacks, and credit-facility covenants. Risk discussion is limited and largely framed through positive strategic plans and expectations, while the excerpt’s truncation and omitted tables reduce visibility into liquidity and contractual-obligation detail."
+}

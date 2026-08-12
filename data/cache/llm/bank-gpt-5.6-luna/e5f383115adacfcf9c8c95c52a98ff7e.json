@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future foreign exchange fluctuations",
+    "partially offset by higher material costs",
+    "strategic initiatives",
+    "product rationalization",
+    "truncated/incomplete tables"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating trajectory, supported by quantified sales and operating-income growth, pricing, productivity, and restructuring savings. Key risks include commodity-cost inflation, foreign-exchange volatility, softness in China and Korea, product rationalization, regulatory exposure, and legacy product-liability claims. Disclosure is relatively quantitative but contains substantial boilerplate and an incomplete, poorly bounded excerpt that limits assessment of segment details and downside risks."
+}

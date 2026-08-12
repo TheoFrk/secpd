@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliations",
+    "seek to achieve long-term goals",
+    "significant investments",
+    "additional growth opportunities",
+    "leading global provider claims"
+  ],
+  "risk_summary": "The excerpt is predominantly promotional and strategy-oriented, emphasizing competitive advantages, market expansion, and long-term targets, with a moderately confident tone. It includes useful quantitative disclosures on sales, margins, geographic exposure, taxes, and acquisition activity, but relies heavily on forward-looking claims and non-GAAP metrics. The truncated presentation and limited discussion of downside risks, execution challenges, and sensitivity to emerging-market, commodity, currency, and acquisition risks reduce transparency."
+}

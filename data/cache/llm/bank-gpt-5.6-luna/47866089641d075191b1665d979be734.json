@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "assuming bank loans remain available",
+    "expects to resume profitability",
+    "no assurance additional financing available",
+    "evaluation of expansion timeline"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and solvency risk, including a $284.6 million working-capital deficit, $112.5 million of negative operating cash flow, $695 million of short-term borrowings, and an explicit going-concern warning. Management's mitigation depends heavily on refinancing, additional capital, industry recovery, and successful expansion, with no assurance these plans will succeed."
+}

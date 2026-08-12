@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "generally includes",
+    "primarily related to",
+    "estimated product run hours and failure rates",
+    "unanticipated warranty claims"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed regarding revenue, shipments, costs, financing, and warranty reserves. Risk is indicated by declining product shipments and revenue, component quality issues, material warranty obligations, and reliance on estimates for extended warranties and asset impairment."
+}

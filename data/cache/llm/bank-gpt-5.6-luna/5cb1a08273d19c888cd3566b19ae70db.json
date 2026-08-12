@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily reflecting",
+    "partially offset by",
+    "no assurance can be given",
+    "subjective assumptions",
+    "may incur future impairments"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and financially detailed, reporting revenue, shipment, margin, cash flow, liquidity, and acquisition impacts with substantial quantification. Risk tone is generally positive, supported by strong liquidity and operating cash flow, but risks remain from the HomeLink acquisition cash outflow, investment impairment exposure, self-insurance estimates, tax uncertainty, and subjective stock-compensation assumptions."
+}

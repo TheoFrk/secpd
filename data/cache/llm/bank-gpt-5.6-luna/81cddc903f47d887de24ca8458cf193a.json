@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.96,
+  "risk_sentiment": -0.42,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements and broad safe-harbor language",
+    "long enumerated risk list",
+    "estimated range of possible loss",
+    "no assurance additional downgrades will not occur",
+    "conditional expectations and assumptions"
+  ],
+  "risk_summary": "The excerpt is highly boilerplate and structurally complex, with extensive forward-looking disclaimers and reliance on conditional expectations, assumptions, and estimates. Material risks include mortgage repurchase and servicing liabilities, legal settlements, regulatory requirements, credit deterioration, and substantial ratings pressure, including multiple downgrades and potential collateral or termination requirements under derivatives contracts."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "strategic initiatives",
+    "continued improvement in asset quality",
+    "generally only impacted by 20%",
+    "certain loan losses would occur after expiration"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and provides detailed performance, credit-quality, FDIC loss-share, and loan-growth metrics. Risk tone is moderately positive, emphasizing improving asset quality and earnings growth, but reliance on loss-share accounting, brokered deposit growth, lower loan yields, and partially unspecified strategic initiatives introduces residual credit and earnings risk."
+}

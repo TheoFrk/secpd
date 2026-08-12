@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot assure additional financing",
+    "oral funding agreement with no obligation",
+    "if forecasts are inaccurate",
+    "may be required to curtail operations"
+  ],
+  "risk_summary": "The company reports severe liquidity stress, including only $62,948 in cash, a $3.9 million working-capital deficit, recurring losses, and a stated risk of going out of business without additional financing. Although management projects revenue growth and potential profitability, these claims are largely conditional and unsupported by quantified operating milestones, while funding commitments are informal and non-binding."
+}

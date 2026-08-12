@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generic forward-looking risk disclaimer",
+    "inability to arrange additional financing",
+    "qualitative impairment assessment",
+    "currency translation obscures operating trends",
+    "truncated results disclosure"
+  ],
+  "risk_summary": "The excerpt contains substantial accounting-policy and regulatory boilerplate, with limited company-specific operating detail and some language that may obscure underlying performance through currency effects and qualitative impairment testing. Risk tone is negative, supported by severe net losses, prior impairment charges, competitive and regulatory pressures, and dependence on additional financing."
+}

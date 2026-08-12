@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.27,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "known or unknown risks and uncertainties",
+    "could change",
+    "continue to evaluate",
+    "perceived would yield higher long-term growth"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and market data, but relies on standard forward-looking disclaimers and conditional outlook language. The tone is cautiously positive regarding recovery and growth, while acknowledging commodity-price, customer-spending, cost-inflation, international, and macroeconomic risks."
+}

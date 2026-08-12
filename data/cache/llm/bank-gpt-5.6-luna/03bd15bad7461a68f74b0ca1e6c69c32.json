@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.2,
+  "risk_sentiment": -0.15,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "Financial Review section",
+    "2009 Financial Report",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A information and redirects readers to another document, limiting transparency and independent assessment of liquidity, results, and risks. This incorporation-by-reference approach is highly evasive in context, although it does not itself establish adverse financial performance."
+}

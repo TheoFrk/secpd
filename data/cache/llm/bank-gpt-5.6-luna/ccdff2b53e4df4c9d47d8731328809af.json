@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "primarily driven by",
+    "difficult market environment",
+    "favorable items offset by",
+    "we do not believe"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail and reconciliations, but presents a challenging operating environment marked by recessionary pressure, declining pricing, weaker volumes, and lower interest income. Reported earnings and margins improved, though performance benefited from acquisitions, pension curtailment gains, expense savings, and other offsets that may reduce underlying comparability."
+}

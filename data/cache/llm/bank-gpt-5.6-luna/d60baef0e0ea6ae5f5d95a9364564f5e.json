@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may not contain all of the information",
+    "subject to change",
+    "estimated fair values",
+    "certain remaining TRA cash flows",
+    "could have an impact"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, particularly regarding the MB Financial acquisition, Worldpay transactions, revenue mix, and non-GAAP reconciliations. Risk discussion is largely standard banking disclosure, with some uncertainty around preliminary acquisition fair values and contingent TRA cash flows. Overall tone is neutral to mildly confident rather than crisis-oriented."
+}

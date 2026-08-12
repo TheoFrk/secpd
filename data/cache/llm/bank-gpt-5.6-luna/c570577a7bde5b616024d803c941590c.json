@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "historical performance is not indicative",
+    "more likely than not",
+    "significant judgment is required",
+    "ultimate tax outcome is uncertain",
+    "future projections of taxable income"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, describing strong sales growth across products and regions, though the excerpt is truncated and includes standard uncertainty around taxes, deferred tax assets, warranties, and foreign exchange. Risk tone is cautiously positive rather than crisis-like, with identifiable but manageable operational and estimation risks."
+}

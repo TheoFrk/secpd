@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.34,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to other sections",
+    "should be read in conjunction",
+    "no substantive analysis"
+  ],
+  "risk_summary": "The excerpt is a procedural cross-reference rather than substantive financial or risk disclosure. It provides precise page ranges but offers no information about liquidity, performance, exposures, or management’s risk assessment."
+}

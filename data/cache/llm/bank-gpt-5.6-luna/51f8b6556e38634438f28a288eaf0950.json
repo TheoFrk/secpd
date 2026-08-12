@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "adjusted operating profit",
+    "primarily due to",
+    "partially offset by",
+    "discrete items",
+    "not expected to be converted"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, but relies on non-GAAP adjusted operating profit and extensive attribution language that can soften underlying deterioration. Key risks include acquisition-related charges, declining cobalt prices, higher process costs, elevated acquisition debt, reduced defense orders, and geographic/tax exposure in the DRC and Malaysia."
+}

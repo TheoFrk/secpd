@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "intended to supplement investors’ understanding",
+    "expected to drive long-term growth",
+    "depends in part on regulatory approvals",
+    "continued patent and legal rights",
+    "more detailed discussion in referenced sections"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified operating and cash-flow performance with a generally confident outlook. Risk disclosures are present but largely framed as standard forward-looking contingencies, including regulatory approvals, intellectual-property rights, market maturation, and restructuring effects. The dense accounting terminology and extensive cross-references modestly reduce accessibility but do not appear materially evasive."
+}

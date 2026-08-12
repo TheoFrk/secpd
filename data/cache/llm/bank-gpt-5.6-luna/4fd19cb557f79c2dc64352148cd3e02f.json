@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "restated previously issued financial statements",
+    "numerous assumptions and estimates",
+    "relatively small changes in key assumptions",
+    "weakened environment",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The excerpt discloses significant adverse developments, including a financial statement restatement and $372.0 million of goodwill impairment charges across three reporting units. Risk is heightened by missed forecasts, a lower share price, and material sensitivity to discount rates, growth rates, margins, and valuation multiples. Although quantitative detail is provided, the discussion relies substantially on judgmental assumptions and includes extensive standard forward-looking caveats."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "pro forma adjustments",
+    "unless otherwise indicated",
+    "continuing operations",
+    "sundry income (expense) - net",
+    "internal reorganization and realignment"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively reports significant deterioration, including a 13% sales decline, broad price and volume pressure, substantial restructuring and impairment charges, and losses from Sadara. Disclosure is generally specific, but the extensive merger, separation, and pro forma presentation framework materially increases complexity and may impede straightforward comparability."
+}

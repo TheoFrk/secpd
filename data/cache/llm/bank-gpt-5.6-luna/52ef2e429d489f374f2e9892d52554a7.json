@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be predicted with certainty",
+    "expects to generate sufficient funds",
+    "long-term outlook remains positive",
+    "continually reevaluates",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified and identifies material risks, including declining sales, customer concentration, macroeconomic sensitivity, unauthorized transaction losses, and reliance on litigation recoveries. Liquidity appears adequate with no revolver borrowings and approximately $8 million available, but positive operating income was materially supported by a nonrecurring lawsuit settlement and management uses forward-looking assumptions for forecasts, taxes, warranties, and impairment."
+}

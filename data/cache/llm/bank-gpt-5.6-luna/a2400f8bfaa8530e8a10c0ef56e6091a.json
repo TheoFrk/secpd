@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.81,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "many factors outside our control",
+    "subject to customary closing conditions",
+    "significant judgment",
+    "estimates that may include elements that are uncertain"
+  ],
+  "risk_summary": "The disclosure is materially quantified regarding liquidity, debt facilities, acquisition consideration, termination fees, and closing conditions, but includes substantial standard forward-looking disclaimers and judgment-based accounting language. Risk tone is mixed: liquidity and the pending acquisition are presented positively, while declining revenue, execution and regulatory closing risks, and inventory obsolescence exposure remain evident."
+}

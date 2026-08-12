@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to estimate the extent of the impact",
+    "difficult to predict",
+    "may adversely impact future operating results",
+    "significant management judgment",
+    "continues to closely monitor"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate, but it identifies meaningful exposure to pandemic-related economic disruption, interest-rate changes, credit deterioration, and model or management judgment in expected-loss estimates. Some quantitative information is provided, although key impacts and forward-looking exposure remain difficult to quantify."
+}

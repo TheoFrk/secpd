@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "do not undertake any obligation",
+    "based on various assumptions"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified disclosures on revenue concentration, acquisitions, divestiture gains, restructuring charges, and a loan impairment, but is preceded by extensive boilerplate limiting reliance on forward-looking statements. Continuing operations remain only marginally profitable, with semiconductor cyclicality, execution risks, restructuring dependence, and uncertain loan recoveries creating moderate credit risk."
+}

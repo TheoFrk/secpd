@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to further adjustment pending financing",
+    "if such financing is not available",
+    "expected to",
+    "substantial doubt about ability to continue",
+    "repeated expansion-plan descriptions"
+  ],
+  "risk_summary": "The disclosure contains substantial quantified operational and investment detail, but relies heavily on projected timelines, capacities, approvals, and financing that are not assured. The $53 million operating cash outflow, $209.7 million working-capital deficit, dependence on short-term borrowings, and auditor-identified going-concern doubt indicate severe liquidity and execution risk. Repeated expansion language and optimistic projections partially obscure the central funding and viability concerns."
+}

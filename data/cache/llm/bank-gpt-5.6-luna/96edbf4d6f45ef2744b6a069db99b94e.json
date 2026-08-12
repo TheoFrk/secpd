@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results",
+    "excluding certain items",
+    "potential additional consideration",
+    "litigation-related charges",
+    "foreign currency impact"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but presents a reported net loss and substantial adjustments that materially improve the non-GAAP earnings narrative. Key risks include high debt, sharply lower operating cash flow due to litigation payments, foreign-exchange headwinds, pricing pressure, acquisitions, and ongoing restructuring-related costs."
+}

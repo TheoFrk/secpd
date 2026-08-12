@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.14,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "estimates, assumptions and judgments",
+    "could change significantly",
+    "significant judgments and complex estimates",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is heavily caveated and relies on management judgment for loan-loss allowances, MSR valuations, OREO, and deferred tax assets. It provides some useful quantified impacts, including a $2.5 million valuation allowance and $4.9 million DTA reduction, but much of the discussion is boilerplate and emphasizes uncertainty around realizability and fair values. The tone is cautious and mildly negative, without indicating an immediate crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP adjustments",
+    "significant judgment",
+    "materially different",
+    "pending acquisition conditions"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed revenue, income, cash flow, deferred revenue, currency, restructuring, and remediation impacts. Risk is moderated by a pending acquisition, regulatory closing conditions, a prior product update incident, extensive non-GAAP exclusions, and judgment-dependent impairment estimates."
+}

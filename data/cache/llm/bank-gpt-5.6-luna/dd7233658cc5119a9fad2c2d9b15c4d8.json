@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ significantly",
+    "include, but are not limited to",
+    "we remain confident",
+    "expected to benefit"
+  ],
+  "risk_summary": "The excerpt is operationally detailed and includes meaningful transaction, segment, acquisition, revenue, and cost-reduction information, but relies heavily on standard forward-looking-statement disclaimers and management expectations. The tone is moderately confident, while exposure to market volumes, regulation, integration execution, and acquisition outcomes remains evident."
+}

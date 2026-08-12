@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance actual results",
+    "beyond our control",
+    "we believe well-positioned",
+    "challenging global environment"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking disclaimers and optimistic, non-quantified projections, limiting visibility into downside risk and expected financial outcomes. It identifies material exposures including commodity prices, currency volatility, raw-material costs, capacity expansion, regulatory changes, and weak agriculture markets, but provides limited quantified sensitivity analysis."
+}

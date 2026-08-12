@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "strive to mitigate",
+    "may adversely affect",
+    "Adjusted Net Income limitations"
+  ],
+  "risk_summary": "The excerpt combines extensive product and capability descriptions with standard forward-looking disclaimers and qualitative risk statements. Key exposures include semiconductor demand volatility, pricing pressure, customer concentration or share loss, capacity under-utilization, inventory obsolescence, and reliance on external foundries, but these risks are not quantified here. The overall tone is cautiously positive and promotional rather than crisis-like."
+}

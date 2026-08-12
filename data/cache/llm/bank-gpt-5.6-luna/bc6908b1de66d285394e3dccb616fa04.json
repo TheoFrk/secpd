@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "market conditions deteriorate",
+    "variety of factors",
+    "optimistic long-term outlook",
+    "changes in product and community mix"
+  ],
+  "risk_summary": "The disclosure is relatively data-rich, providing detailed operating metrics and explicit multi-year targets, but it relies on standard forward-looking disclaimers and qualitative explanations for margin pressure and future land sales. Risk tone is cautiously constructive: mortgage rates, affordability, incentives, and declining margins present material pressures, while management emphasizes liquidity, growth, and long-term housing demand."
+}

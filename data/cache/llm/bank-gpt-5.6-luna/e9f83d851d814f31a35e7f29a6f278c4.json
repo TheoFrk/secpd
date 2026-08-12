@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "pro forma adjustments",
+    "non-GAAP financial measures",
+    "primarily driven by",
+    "expected to achieve savings",
+    "removing the impact of certain items"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial detail on merger effects, restructuring costs, savings, debt funding, and operating drivers. However, extensive reliance on pro forma and adjusted measures, repeated comparability caveats, and attribution of results to the merger reduce comparability with reported performance. The tone is cautiously positive overall, despite underlying organic sales declines in several periods and meaningful integration and financing exposure."
+}

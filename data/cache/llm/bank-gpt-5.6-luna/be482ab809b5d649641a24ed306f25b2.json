@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no exact measure",
+    "all references ... are estimates",
+    "generally expect",
+    "varying effects",
+    "highly competitive and highly fragmented"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but relies on estimates for commodity-price and channel-inventory effects and provides limited precision on market growth and share. Risk tone is moderately negative due to declining revenues and EBITDA, a $521.4 million impairment, restructuring costs, and ongoing acquisition integration, although management presents concrete mitigation targets and liquidity factors."
+}

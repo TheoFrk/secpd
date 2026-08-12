@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could have a material adverse effect",
+    "unable to predict the impact",
+    "cannot predict with any assurance",
+    "absent amendment or repeal",
+    "potential impacts"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial quantification, including acquisition counts, expenses, margins, and non-operating costs. Risk disclosure relies heavily on standard conditional language around healthcare reform, reimbursement shifts, economic deterioration, bad debt, and Medicaid changes, with limited quantified downside scenarios. Results were positive overall, but margin compression, higher interest expense, and acquisition-related costs create a mildly negative risk tone."
+}

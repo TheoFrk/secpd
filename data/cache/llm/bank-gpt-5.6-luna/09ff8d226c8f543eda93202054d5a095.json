@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involving risks and uncertainties",
+    "could have a material adverse effect",
+    "we believe",
+    "beyond our control",
+    "may be adversely impacted"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, including fleet capacity, liquidity, borrowing-base availability, and customer concentration, but relies substantially on forward-looking and conditional language. Key risks include cyclical oilfield demand, depressed service pricing, labor and supply-chain inflation, customer termination or renegotiation, and potential liquidity deterioration. Overall tone is cautiously neutral, balancing improving market conditions against significant operating and financing uncertainties."
+}

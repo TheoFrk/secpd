@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily comprised of",
+    "largely due to",
+    "difficult economic conditions",
+    "future cash flows would not be sufficient",
+    "subject to certain limitations"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, but describes substantial historical losses, goodwill and tax-asset impairments, store closures, heavy leverage, refinancing activity, and potential equity dilution. Risk tone is materially negative, although the discussion is factual and provides detailed debt terms and drivers rather than relying heavily on evasive language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that such plans will accomplish their intended goals",
+    "likely not be any individual conditions",
+    "timing of work performed",
+    "actively monitors",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but liquidity risk is elevated due to no current borrowing availability, declining revenue, scheduled reductions in revolving capacity, and refinancing requirements. Management presents mitigating factors including funded backlog, customer funding provisions, and profitability, while using standard going-concern caveats and forward-looking uncertainty language."
+}

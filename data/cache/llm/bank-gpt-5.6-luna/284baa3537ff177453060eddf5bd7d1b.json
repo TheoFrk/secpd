@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "from time to time",
+    "when and if opportunities are available",
+    "strategies and trends"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operational, acquisition, cash flow, and ownership information, but is lengthy and includes extensive boilerplate and forward-looking statements. The tone is generally confident and growth-oriented, while risks related to acquisitions, debt, malpractice liabilities, payer trends, and execution are presented indirectly rather than emphasized."
+}

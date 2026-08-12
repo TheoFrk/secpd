@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to change given volatile conditions",
+    "we do not anticipate any significant impacts",
+    "long-term outlook remains positive",
+    "among other things",
+    "sufficient capital resources and liquidity"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, losses, charges, cash flows, debt, and GE-related transactions, supporting relatively good transparency. Risk tone is cautiously optimistic but acknowledges industry volatility, commodity-price sensitivity, separation costs, margin pressure, and dependence on customer spending. Outlook language relies on conditional assumptions and broad assurances, with the excerpt truncated before completion of the liquidity discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "historical performance is not indicative",
+    "not expected to have any impact",
+    "off-balance sheet financial instruments",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear regional, product, revenue, margin, and expense trends. The tone is moderately positive due to sales and profitability growth, but declining gross margins, foreign-exchange exposure, weaker European product sales, and reliance on broad causal explanations introduce credit risk. The text also contains standard accounting boilerplate and an apparent truncation that limits completeness."
+}

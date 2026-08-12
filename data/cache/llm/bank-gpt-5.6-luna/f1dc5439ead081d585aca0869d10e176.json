@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance financing",
+    "plans to renegotiate debt",
+    "continued uncertainty",
+    "forward-looking statement disclaimer",
+    "dormant account write-offs"
+  ],
+  "risk_summary": "The company exhibits severe liquidity stress, with only approximately $117,000 in current assets against $10.8 million in current liabilities, including $8.0 million of current debt, and a $10.6 million working capital deficit. Revenue declined, operations at a disposal well were suspended, and management relies on uncertain lender cooperation and financing or debt-for-equity transactions. Disclosure is materially quantified but includes standard cautionary language and no-assurance statements around its proposed liquidity solutions."
+}

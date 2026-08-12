@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "no guarantee of a positive outcome",
+    "expects ... to be sufficient",
+    "including, but not limited to",
+    "fluidity of the situation"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but emphasizes substantial COVID-19 uncertainty, export-market weakness, retail disruption, and supply-chain exposure. Liquidity is presented as adequate beyond twelve months, although future results depend materially on pandemic duration, consumer spending, and reopening conditions."
+}

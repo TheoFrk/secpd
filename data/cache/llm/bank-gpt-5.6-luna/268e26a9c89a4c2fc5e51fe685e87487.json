@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe cash will be sufficient",
+    "primarily attributable to",
+    "actual results could differ",
+    "if we do not increase sales",
+    "subjective and complex judgments"
+  ],
+  "risk_summary": "The disclosure is materially quantified but presents weakening profitability, declining gross margins, recurring investment impairments, and limited operating cash generation. Liquidity appears adequate for the next 12 months according to management, but the stated possibility of debt or equity financing if sales do not improve indicates meaningful funding and dilution risk."
+}

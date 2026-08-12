@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future impact is uncertain",
+    "we expect",
+    "significant judgments, estimates and assumptions",
+    "subjective assumptions",
+    "if actual conditions are less favorable"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantitatively detailed, with clear discussion of contract losses, acquisitions, impairment, restructuring, and cash deployment. Risk is moderated by acknowledged uncertainties around generic pricing, acquisition-related amortization, inventory reserves, and valuation assumptions, but the overall tone remains operationally confident."
+}

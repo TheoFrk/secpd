@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "does not disclose quantitative information",
+    "based on management’s estimates and assumptions",
+    "probability of achieving the milestones",
+    "global economic outlook is still uncertain",
+    "errors in the Consolidated Balance Sheet"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but it acknowledges material compliance, accounting-error, currency, government-funding, and acquisition-contingent-consideration risks. Risk tone is mildly negative due to uncertainty and prior regulatory and reporting issues, although management presents the matters as resolved or non-material to net income."
+}

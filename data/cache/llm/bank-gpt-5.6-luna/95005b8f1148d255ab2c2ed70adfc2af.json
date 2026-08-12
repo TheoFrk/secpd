@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to drive continued investment",
+    "a number of factors",
+    "to the extent that",
+    "additional opportunities",
+    "market study projections"
+  ],
+  "risk_summary": "The disclosure is generally specific and data-rich, with quantified market shares, volumes, growth rates, expenses, and acquisition-related costs. Risk exposure is clearly linked to economic conditions, government funding, rail activity, capital markets, supply constraints, and customer spending, although the outlook relies substantially on third-party projections and broad conditional language. Overall tone is moderately confident but includes meaningful cyclical and execution dependencies."
+}

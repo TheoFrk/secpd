@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "truncated disclosure",
+    "expected production capacity",
+    "significant estimates and assumptions",
+    "natural hedge",
+    "sustainable value"
+  ],
+  "risk_summary": "The excerpt provides several quantified restructuring charges, savings, acquisition dates, and manufacturing arrangements, but also relies on forward-looking expectations and judgment-heavy valuation assumptions. Risk tone is broadly constructive, though restructuring activity, third-party manufacturing dependence, foreign-exchange exposure, and goodwill or intangible-asset estimation remain notable credit risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to numerous risks",
+    "actual results may differ materially",
+    "key metrics and non-GAAP measures",
+    "highly variable cost structure",
+    "substantial liquidity to finance expenditures"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative operating data and explains major revenue, cost, fleet, and profitability drivers, including a substantial improvement in U.S. RAC pretax results. However, it contains extensive standard forward-looking disclaimers, non-GAAP caveats, and qualitative statements about optimization and transformation, while highlighting material exposure to fleet residual values, interest rates, demand variability, and liquidity needs."
+}

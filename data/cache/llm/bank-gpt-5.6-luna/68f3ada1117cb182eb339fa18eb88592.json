@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "typically",
+    "generally",
+    "primarily due to",
+    "including the impact of",
+    "further description in Note 2"
+  ],
+  "risk_summary": "The excerpt is largely factual and quantified, with clear segment, revenue, foreign-exchange, expense, and impairment disclosures. Risk tone is mildly negative because consolidated revenue declined, international performance weakened, foreign exchange was unfavorable, and impairment charges were recorded, although the discussion remains explanatory rather than crisis-oriented."
+}

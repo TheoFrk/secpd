@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "including but not limited to",
+    "potential material weaknesses",
+    "other factors discussed herein"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results and financing details with extensive forward-looking disclaimers and a broad, non-ranked list of contingencies. Risk tone is moderately negative due to the Fenco bankruptcy, working-capital pressure, covenant/default exposure, financing needs, and possible control weaknesses, although strong sales growth and market-position claims provide some offset."
+}

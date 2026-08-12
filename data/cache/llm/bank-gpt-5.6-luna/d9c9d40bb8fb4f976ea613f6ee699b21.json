@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact ... is uncertain",
+    "could have an adverse effect",
+    "we believe ... will be sufficient",
+    "may not be available",
+    "subject to the terms and conditions"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and describes specific debt, settlement, COVID-19 mitigation, and liquidity matters, but relies on material uncertainty language around pandemic effects, PPP forgiveness, working-capital needs, and future financing availability. Risk tone is moderately cautious, with operational disruption and customer-program termination offset partly by disclosed cash-preservation actions and stated liquidity sufficiency."
+}

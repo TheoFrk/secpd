@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "not available on a segment basis",
+    "currently assessing the impact",
+    "significant judgment and estimates"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standard forward-looking disclaimers, product descriptions, accounting-policy detail, and boilerplate disclosures, with little quantified financial performance or liquidity information. Risk tone is broadly neutral, but the loss of segment reporting and reliance on management estimates reduce transparency and comparability."
+}

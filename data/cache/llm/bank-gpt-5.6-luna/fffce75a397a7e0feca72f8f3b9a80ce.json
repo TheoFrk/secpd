@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "may be useful to investors",
+    "unpredictable and can obscure",
+    "incorporated by reference",
+    "centrally controlled expenses"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding transactions, repurchases, segment structure, and accounting categories, but relies heavily on boilerplate definitions and cross-references. Extensive non-GAAP adjustments and excluded centrally controlled items may reduce comparability with GAAP performance and obscure underlying trends. The tone is neutral to mildly confident, with no explicit crisis indicators in the provided text."
+}

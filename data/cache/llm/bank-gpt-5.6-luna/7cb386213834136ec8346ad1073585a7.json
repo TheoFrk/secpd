@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot accurately predict",
+    "uncertainties relating to",
+    "we believe",
+    "leading provider",
+    "potential future acquisitions"
+  ],
+  "risk_summary": "The disclosure quantifies key revenue trends and COVID-19 exposure, but relies on broad uncertainty language regarding pandemic effects, supply constraints, and future demand. Operating income declined materially in Life Sciences Products despite relatively stable revenue, while the narrative remains generally promotional and forward-looking. The excerpt indicates moderate operational and integration risk, including acquisition dependence and discontinued-business transition effects."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "should not be taken as indicative of future operations",
+    "expect to satisfy such requirements",
+    "other factors that may influence future results",
+    "see Item 1A Risk Factors",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year operating and cash-flow data, supporting relatively transparent disclosure. However, it contains extensive standard boilerplate, complex organizational descriptions, forward-looking expectations, and references to a significant Audit Committee review and management changes. Overall tone is cautiously positive, with material exposure to leasing, tenant credit, property costs, capital allocation, and execution risks."
+}

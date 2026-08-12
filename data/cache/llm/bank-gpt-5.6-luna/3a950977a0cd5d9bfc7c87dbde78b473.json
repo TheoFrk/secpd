@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.84,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "no guarantee sufficient revenues or capital",
+    "reasonably known or reasonably knowable",
+    "no assurance funding available",
+    "may be forced to scale back or discontinue"
+  ],
+  "risk_summary": "The disclosure is highly negative from a credit-risk perspective, citing only $4,342 of cash, a $3.15 million working-capital deficiency, substantial accumulated losses, recurring operating cash burn, and substantial doubt about going-concern viability. Although results and debt instruments are quantified, reliance on uncertain capital raises and revenue growth, combined with extensive maturity extensions and dilution-based financing, indicates significant refinancing and liquidity risk."
+}

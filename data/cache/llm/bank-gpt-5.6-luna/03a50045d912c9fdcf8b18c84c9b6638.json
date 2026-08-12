@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain and difficult to predict",
+    "could differ materially",
+    "primarily impacted by",
+    "we believe",
+    "aggregate moderate-to-low risk appetite"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, particularly regarding acquisition effects, earnings, capital ratios, credit-loss provisions, and PPP exposure. Risk tone is cautiously positive, supported by reported growth and improving economic indicators, but tempered by acquisition integration costs, capital-ratio declines, pandemic uncertainty, inflation, interest-rate changes, and macroeconomic scenario dependence."
+}

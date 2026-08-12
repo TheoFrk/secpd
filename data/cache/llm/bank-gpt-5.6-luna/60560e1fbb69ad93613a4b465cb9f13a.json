@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "certain charges and/or credits",
+    "adjusted net income",
+    "believe existing ... will be sufficient",
+    "future cash generated from operations",
+    "additional information / refer to"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed sales, earnings, cash, debt, and liquidity figures. Risk is moderated by substantial debt, a working capital deficit, reliance on future operating cash flow and capital-market access, and prominent use of non-GAAP adjusted results. Overall tone is cautiously confident rather than distressed, though acquisition-related adjustments and financing obligations warrant attention."
+}

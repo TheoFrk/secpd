@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "management estimates trial costs",
+    "contingent milestone and royalty liabilities",
+    "non-cash derivative liability adjustments",
+    "no revenue and recurring net losses"
+  ],
+  "risk_summary": "The company reports no operating revenue, recurring net losses of approximately $25.7 million, substantial non-cash interest expense, and significant dependence on clinical-trial execution and capital raising. Disclosure is relatively quantified but contains substantial estimation uncertainty around trial costs, derivatives, stock-based compensation, and contingent milestone and royalty obligations."
+}

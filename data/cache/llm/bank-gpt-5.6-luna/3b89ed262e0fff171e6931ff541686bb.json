@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "forward-looking statements",
+    "subject to risks and uncertainties",
+    "not material",
+    "unrecognized actuarial losses"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with reconciliations and specific operational, cash flow, restructuring, and pension figures. Risk tone is cautiously positive, but reliance on adjusted non-GAAP measures, broad strategic language, and unrecognized pension losses introduces some potential for presentation bias and future earnings volatility."
+}

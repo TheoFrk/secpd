@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "designed to create long-term sustainable growth",
+    "we believe our success depends",
+    "including, but not limited to",
+    "ability to execute effectively",
+    "other-than-temporary decline"
+  ],
+  "risk_summary": "The excerpt is predominantly boilerplate corporate strategy and business-description language, with extensive positive framing and limited direct discussion of quantified operating risks. It identifies broad external risk factors and reports investment impairment charges, but the truncated presentation limits assessment of their overall materiality."
+}

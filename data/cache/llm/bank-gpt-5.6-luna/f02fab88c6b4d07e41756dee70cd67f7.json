@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "not possible for management to predict all such factors",
+    "foregoing review of factors should not be construed as exhaustive",
+    "expressly disclaims any obligation to update or revise",
+    "pending final orders by FERC"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and broad, non-exhaustive risk language, while also presenting complex regulatory and operating disclosures. Material credit risks include consecutive large net losses, significant impairment charges, substantial holding-company debt, variable-rate exposure, regulatory uncertainty, and reliance on pending FERC proceedings, although the regulated strategy and quantified capital plans provide some visibility."
+}

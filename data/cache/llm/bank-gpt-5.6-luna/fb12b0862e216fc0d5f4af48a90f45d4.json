@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "beyond our control",
+    "among other variables",
+    "ultimate resolution may result in a materially different payment"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, but includes standard forward-looking disclaimers and broad uncertainty language. Operating performance weakened, with lower sales and gross margin driven by weak discretionary demand, higher costs, and promotional activity. Liquidity appears adequate, with $13.3 million of cash, no borrowings under the $5 million facility, and covenant compliance."
+}

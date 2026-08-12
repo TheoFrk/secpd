@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally rely on internally generated cash flows",
+    "as more fully described in Notes",
+    "dealer inventory generally at appropriate levels",
+    "primarily as a result of",
+    "dealers optimistic"
+  ],
+  "risk_summary": "The excerpt is relatively precise and data-rich, with extensive quantified acquisition, backlog, market-share, sales, and cost information. The tone is broadly confident and growth-oriented, but discussion of downside risks, integration challenges, dealer exposure, and liabilities is limited, with some reliance on generalized or cross-referenced language."
+}

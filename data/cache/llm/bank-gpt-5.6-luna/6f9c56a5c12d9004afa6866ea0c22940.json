@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements that involve risks and uncertainties",
+    "could differ materially",
+    "most likely to impact",
+    "based on management’s assumptions and estimates",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating metrics and revenue detail, supporting relatively transparent disclosure. Risk discussion is broad and includes macroeconomic, competitive, integration, tax, and valuation uncertainties, while several estimates and forward-looking caveats limit precision regarding potential adverse outcomes."
+}

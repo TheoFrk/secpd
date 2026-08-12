@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to customary closing conditions",
+    "cannot guarantee future results",
+    "non-binding letter of intent",
+    "significant price competition"
+  ],
+  "risk_summary": "The excerpt is information-rich and includes substantial quantitative operating detail, but extensive forward-looking disclaimers and conditional language limit certainty around future outcomes and strategic transactions. Risk tone is mildly negative due to declining mortgage volumes, margin pressure, restructuring, and uncertainty surrounding the proposed asset sale, partly offset by diversification and reported market-share retention."
+}

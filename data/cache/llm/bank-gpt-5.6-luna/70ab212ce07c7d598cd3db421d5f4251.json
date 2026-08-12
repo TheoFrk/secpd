@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from these estimates",
+    "expected to continue without disruption",
+    "generally mitigate the risk",
+    "will not have a material adverse effect",
+    "details available in Note 22 and Note 23"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively specific regarding sales, costs, capital commitments, debt funding, and operational drivers. It acknowledges meaningful exposure to customer and supplier concentration, inflation, supply-chain disruption, COVID-19, litigation, environmental liabilities, and external borrowing, while relying on mitigation claims and cross-references for some details. Overall tone is cautiously positive, supported by improved earnings and operating continuity, but includes standard forward-looking and materiality-based caveats."
+}

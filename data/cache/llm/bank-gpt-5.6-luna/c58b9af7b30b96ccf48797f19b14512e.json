@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.52,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "subject to significant uncertainties",
+    "actual results may differ materially",
+    "cannot be predicted",
+    "variety of factors including, but not limited to"
+  ],
+  "risk_summary": "The excerpt presents strong 2021 earnings, loan growth, improved credit metrics, and substantial capital, with extensive quantified support. Risk disclosure is heavily caveated through standard forward-looking language, while COVID-19, cybersecurity, technology costs, and operating-efficiency pressures remain relevant uncertainties."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may differ, possibly materially",
+    "among other items",
+    "including but not limited to",
+    "significant market opportunities"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking disclaimers and broad, optimistic strategic language, with many potential outcomes and drivers described qualitatively. It does provide some concrete segmentation and sensitivity figures, including an estimated $10–$15 million adverse impact from lower new-money yields, but omits the detailed operating tables and underlying assumptions needed for a full risk assessment. Key risks include prolonged low interest rates, fee compression, market and credit-cycle volatility, policyholder behavior, and near-term investment costs."
+}

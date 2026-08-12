@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and significant uncertainties",
+    "including, but not limited to",
+    "non-GAAP measures not comparable",
+    "subject to management estimates",
+    "off-balance sheet arrangements"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate but includes substantial quantitative disclosure. Risk is moderately negative, reflecting a $5.0 billion earnings decline, higher credit-loss provisions, rising charge-offs and delinquencies, and a weaker economic outlook, while capital and liquidity indicators remain presented as adequate."
+}

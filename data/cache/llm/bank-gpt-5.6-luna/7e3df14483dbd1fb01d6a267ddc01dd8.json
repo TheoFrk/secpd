@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects to finalize disposition",
+    "estimated replacement cost",
+    "could have bid if not for capacity constraints",
+    "claims recognized only when settled",
+    "omitted text marked [...]"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear descriptions of revenue mix, market share, fleet capacity, contract accounting, and customer concentration. Risk is moderated by exposure to government funding, weather-sensitive margins, equipment-intensive costs, international operations, and percentage-of-completion estimates. The tone is operationally confident, though some forward-looking statements and the truncated disclosure limit completeness."
+}

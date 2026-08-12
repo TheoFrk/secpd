@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "risks and uncertainties",
+    "may prove to be incorrect",
+    "currently unforeseen asset impairment charges",
+    "non-GAAP exclusions"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and repeated references to assumptions, uncertainties, and non-GAAP measures, which reduce decisiveness but are typical for an MD&A. Material risks are nevertheless quantified, including a $47.5 million product recall exposure, insurance recovery capped at $47.0 million, restructuring costs, facility closures, and potential future impairment or employee-related charges."
+}

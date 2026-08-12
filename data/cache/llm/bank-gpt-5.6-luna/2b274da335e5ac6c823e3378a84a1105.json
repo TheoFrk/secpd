@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures not standardized",
+    "qualified in its entirety",
+    "potential strategic alternatives",
+    "assumed the role and responsibilities",
+    "acquisition-adjusted organic growth"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail but relies heavily on complex non-GAAP definitions and acquisition-adjusted metrics that may limit comparability. Risk tone is meaningfully negative, reflecting strategic-sale activity, CEO turnover, covenant relief, reduced revolving commitments, revenue decline, and goodwill impairments."
+}

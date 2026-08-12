@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance actual results",
+    "do not undertake obligation",
+    "inherently uncertain estimates",
+    "significant investment commitments"
+  ],
+  "risk_summary": "The disclosure is generally data-rich, with detailed revenue, margin, expense, and channel metrics, but includes substantial standard forward-looking disclaimers and estimate-related caveats. Operating performance improved, though profitability remains modest relative to revenue and 2016 plans require continued significant investment that may pressure cash flow and margins."
+}

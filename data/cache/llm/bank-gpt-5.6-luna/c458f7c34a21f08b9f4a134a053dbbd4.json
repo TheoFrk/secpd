@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe this enables",
+    "may adversely affect",
+    "high-growth end markets",
+    "non-US GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial business-model and operational detail, but relies frequently on generalized claims about competitive positioning, growth, mitigation, and expected benefits without quantifying likely impacts. Risk exposure is meaningful across semiconductor demand cyclicality, pricing pressure, capacity utilization, customer concentration or allocation, outsourcing, and reliance on adjusted non-US GAAP metrics, although the overall tone is cautiously constructive rather than crisis-like."
+}

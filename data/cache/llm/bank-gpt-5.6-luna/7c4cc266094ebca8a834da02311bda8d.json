@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.43,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "estimated to have impacted",
+    "no assurance can be given",
+    "subjective assumptions",
+    "if conditions deteriorate"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, showing strong liquidity, rising sales, operating cash flow, and net income. Risk factors include foreign-currency devaluations, customer price reductions, increased interest expense, self-insurance estimates, uncertain tax positions, and potential investment impairments. The overall tone is confident but includes standard caveats around estimates and future adverse conditions."
+}

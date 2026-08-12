@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherent uncertainty involved",
+    "currently anticipated growth and funding needs",
+    "eventual recovery",
+    "modest but uneven signs of recovery",
+    "not considered by management"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, cash flow, leverage, pension funding, restructuring costs, and credit ratings. Risk exposure remains meaningful due to cyclical demand, customer credit access, emissions regulation, restructuring estimates, and uneven global recovery, although management presents liquidity and operating performance confidently. Some boilerplate and selective-adjustment language could reduce comparability, particularly around non-segment results and excluded restructuring charges."
+}

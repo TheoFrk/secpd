@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to risks and uncertainties",
+    "among others",
+    "inherently subjective",
+    "qualitative factors and management judgments"
+  ],
+  "risk_summary": "The excerpt is generally neutral to mildly confident and includes substantial quantitative discussion of net interest income, margins, and loan growth. However, risk disclosure relies heavily on standard forward-looking disclaimers and qualitative judgments regarding credit losses, collateral values, goodwill impairment, and fair value estimates. The dense accounting terminology and extensive cross-references reduce accessibility but do not by themselves indicate acute distress."
+}

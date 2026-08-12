@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could cause actual results to differ materially",
+    "no assurance",
+    "including but not limited to",
+    "extensive enumerated risk factors"
+  ],
+  "risk_summary": "The excerpt is dominated by boilerplate forward-looking-statement disclaimers and an extensive, highly qualified list of potential regulatory, operational, wildfire, market, financing, and climate risks. It provides limited quantified exposure or probability information, making the risk profile broad but difficult to prioritize."
+}

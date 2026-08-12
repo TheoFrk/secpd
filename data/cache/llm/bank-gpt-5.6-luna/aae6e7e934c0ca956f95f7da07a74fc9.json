@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "as it is impractical to do so",
+    "amounts are estimates",
+    "future events may cause",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on sales mix, cash flows, restructuring costs, acquisition consideration, and the collateralized loan, supporting relatively good transparency. However, it contains standard GAAP and forward-looking caveats, limited product-level reporting, COVID-related supply uncertainties, and a truncated discussion that prevents full assessment of certain risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "not meaningful (N.M.)",
+    "primarily due to",
+    "partially offset by",
+    "subject to risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and provides detailed segment, currency, restructuring, pension, and discontinued-operations information, supporting relatively strong disclosure quality. Risk is balanced but includes material pension settlement charges, restructuring costs, currency and input-cost pressures, competitive market-share declines, and reliance on adjusted non-GAAP measures. Missing tables and truncated text limit assessment of the complete financial picture."
+}

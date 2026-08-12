@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "no assurance",
+    "highly technical and complex provisions",
+    "undertakes no obligation to update"
+  ],
+  "risk_summary": "The excerpt combines substantial quantified transaction, debt, share-count, and operating data with extensive standard forward-looking disclaimers and broad, non-specific risk categories. The operating tone is cautiously positive, citing revenue and income improvement, but risks include merger execution, litigation, refinancing, economic conditions, rising labor benefits, property taxes, and a substantial estimated merger-related expense of $104–$128 million."
+}

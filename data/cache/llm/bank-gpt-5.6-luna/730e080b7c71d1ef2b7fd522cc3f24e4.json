@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "we believe",
+    "we anticipate further growth",
+    "subject to economic, political and civil risks",
+    "estimated useful life and impairment assumptions"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive growth narrative centered on geographic expansion, equipment utilization, and anticipated margin improvement, but relies on forward-looking claims and operational assumptions. Material exposures include commodity-price-driven customer demand, seasonality, permitting and weather disruptions, international political risks, customer bargaining power, receivables collectability, and asset impairment estimates."
+}

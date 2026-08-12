@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "seek to achieve",
+    "growth opportunities",
+    "projected to be fastest growing",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic narrative with substantial quantified operating data, but emphasizes broad growth opportunities and competitive advantages more than downside risks. Reported sales declines, unfavorable currency effects, and reliance on non-GAAP measures indicate moderate underlying performance and disclosure risks."
+}

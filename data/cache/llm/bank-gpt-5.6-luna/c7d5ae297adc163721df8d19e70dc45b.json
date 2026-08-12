@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "based on historical levels",
+    "believed to be reasonable",
+    "may require additional cash",
+    "subject to certain conditions",
+    "more-likely-than-not"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, including a $9.1 million revenue impact from revised shipping terms, a 32.5% decline in active coaches, and available but undrawn credit capacity. Risk tone is mixed: promotional descriptions and liquidity compliance are offset by substantial dependence on OPTA VIA and coach-network contraction. Extensive ASC 606, tax, and impairment boilerplate increases complexity but is not inherently evasive."
+}

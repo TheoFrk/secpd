@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "primarily generate revenue",
+    "correlated to macroeconomic conditions",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and operational, with several quantified expense changes but limited discussion of downside magnitude, liquidity, or forward-looking sensitivities. Risk language is standard SEC boilerplate, while the overall tone remains mildly confident and growth-oriented. The lengthy, repetitive business-model descriptions and dense revenue terminology reduce clarity but do not by themselves indicate crisis conditions."
+}

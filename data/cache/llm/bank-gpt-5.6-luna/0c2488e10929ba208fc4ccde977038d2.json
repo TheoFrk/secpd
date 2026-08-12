@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unauthorized transactions",
+    "expected to be minimal, if any",
+    "should provide adequate liquidity",
+    "subject to variation",
+    "cannot be predicted with certainty"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and explains key sales, margin, cash-flow, customer, and cost drivers. Risk is elevated by prior unauthorized transactions, dependence on distributors and consumer demand, inventory growth, manufacturing transfers, and estimates for recoveries, warranties, and taxes, although management presents liquidity as adequate."
+}

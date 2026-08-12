@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "dynamic and highly competitive",
+    "may decrease operating margins",
+    "not expected to be material",
+    "for the foreseeable future",
+    "non-GAAP exclusions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and transparent, with extensive quantified operating metrics, liquidity data, restructuring charges, and accounting impacts. Key risks include intense competition, rising AI and cloud infrastructure costs, supplier concentration, foreign-exchange exposure, workforce reductions, and reliance on non-GAAP measures that exclude significant charges. Overall tone remains confident and financially resilient, supported by substantial liquidity and strong cloud growth, while acknowledging meaningful execution and macroeconomic risks."
+}

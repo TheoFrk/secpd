@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.5,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not guarantees of future performance",
+    "undertake no obligation to update",
+    "leading global provider",
+    "expected to continue to grow"
+  ],
+  "risk_summary": "The excerpt combines extensive boilerplate forward-looking disclaimers and promotional claims with some quantified disclosure of acquisition financing, leverage, currency exposure, and patent litigation. Risk tone is cautiously positive, but reliance on expectations, competitive-advantage assertions, and future growth assumptions limits transparency regarding downside scenarios."
+}

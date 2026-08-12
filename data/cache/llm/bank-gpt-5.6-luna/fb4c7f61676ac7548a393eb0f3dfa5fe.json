@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may prove to be incorrect",
+    "do not undertake to update",
+    "pro forma adjustments",
+    "non-GAAP adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and repeated qualifications that limit reliance on projections and shift uncertainty to generic risk factors. Quantified transaction proceeds and debt capacity provide useful specificity, but pro forma assumptions, tax estimates, non-GAAP measures, and an $81.2 million goodwill impairment indicate meaningful financial and execution risk."
+}

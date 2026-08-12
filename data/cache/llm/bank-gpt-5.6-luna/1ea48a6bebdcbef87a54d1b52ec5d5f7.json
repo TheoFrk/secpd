@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "uncertain and rapidly changing",
+    "difficult to predict",
+    "may continue to negatively impact",
+    "good-faith estimate",
+    "long-term fundamentals remain strong"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on sales, losses, restructuring, litigation, cost reductions, and pandemic impacts, supporting relatively low vagueness. Risk tone is moderately negative because COVID-19, procedure delays, litigation, restructuring, and impairment uncertainty materially affected performance, although management emphasizes operational recovery and resilience."
+}

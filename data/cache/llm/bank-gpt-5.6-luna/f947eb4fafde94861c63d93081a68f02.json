@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.25,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "future remains uncertain",
+    "recovery is uncertain",
+    "more-likely-than-not",
+    "among other variables"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative information on sales, margins, store count, closures, expenses, and tax judgments, but includes substantial forward-looking safe-harbor and promotional language. Risk factors include declining demand, inflationary and labor pressures, supply-chain disruption, accounting restatement history, failed web-platform implementation, store closures, and uncertainty around tax and cost recoveries."
+}

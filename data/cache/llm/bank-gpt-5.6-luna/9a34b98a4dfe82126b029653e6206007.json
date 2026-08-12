@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "possibly materially",
+    "such other factors",
+    "not under any obligation to update",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt combines extensive forward-looking and liability-limiting boilerplate with detailed quantified disclosures. Material risks include large operating losses, catastrophe and aircraft-leasing impairments, valuation uncertainties, exposure to market and credit conditions, and prolonged low interest rates, although recapitalization and debt repayment provide mitigating context."
+}

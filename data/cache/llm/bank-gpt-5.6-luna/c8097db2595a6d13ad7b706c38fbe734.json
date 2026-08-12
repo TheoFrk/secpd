@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Adjusted EBITDA exclusions",
+    "expected future cash flows",
+    "minimum profitability threshold",
+    "qualitative competitive analysis",
+    "mortgage and put-back risks"
+  ],
+  "risk_summary": "The excerpt presents a strongly improving operating narrative with substantial quantified metrics, but relies on optimistic forecasts and non-GAAP measures that exclude warranty charges, impairments, abandonments, and interest. Material risk remains from mortgage constraints, geopolitical and economic uncertainty, lengthened community lives, and subjective impairment assessments."
+}

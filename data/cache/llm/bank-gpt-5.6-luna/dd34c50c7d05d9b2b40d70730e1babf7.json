@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "challenging conditions",
+    "where possible",
+    "may be required to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, acquisition, liquidity, and cash-flow information, supporting relatively good disclosure precision. Risk factors include economic sensitivity, volatile input costs, international exposure, acquisition integration, and potential tax costs on repatriation, while the overall tone remains cautiously optimistic. The discussion is lengthy and includes standard forward-looking and strategy boilerplate."
+}

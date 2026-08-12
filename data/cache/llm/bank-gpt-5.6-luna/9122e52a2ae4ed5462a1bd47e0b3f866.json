@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "intended to",
+    "potential inventory write-downs",
+    "adjusted EBITDA exclusions",
+    "other adjustments"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified but contains substantial forward-looking assumptions around restructuring savings, portfolio optimization, and macroeconomic impacts. Risk is elevated by declining sales, recurring restructuring and impairment charges, net losses, and reliance on adjusted non-GAAP measures, although management presents a detailed multi-year remediation plan."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "adjusted items",
+    "primarily driven by",
+    "modestly positive market impact",
+    "transaction and integration costs"
+  ],
+  "risk_summary": "The excerpt is highly quantified and transparent on revenue, margins, earnings, cash flow, and the NFP acquisition. Risk is elevated by margin compression, lower operating cash flow, substantial acquisition and restructuring costs, and reliance on numerous adjusted performance measures, although management maintains a generally confident tone."
+}

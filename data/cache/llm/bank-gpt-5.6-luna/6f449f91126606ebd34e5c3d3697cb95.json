@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict duration or severity",
+    "under pressure",
+    "significant unpredictability and volatility",
+    "reduced liquidity and increased leverage",
+    "omitted tables and truncated explanations"
+  ],
+  "risk_summary": "The disclosure identifies material cyclical, commodity-price, liquidity, leverage, and margin pressures, including significant charges and declines in segment income. Risk language is relatively direct, but the excerpt is highly repetitive and several supporting tables and explanations are missing or truncated, limiting assessment of magnitude and drivers."
+}

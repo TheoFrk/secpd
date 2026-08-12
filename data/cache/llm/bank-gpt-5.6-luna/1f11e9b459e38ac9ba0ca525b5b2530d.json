@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "high degree of judgment",
+    "to the extent possible",
+    "inherent uncertainty",
+    "text truncated"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, particularly regarding geographic concentration, cash flows, restricted investments, and workers’ compensation reserves. Key risks arise from California concentration, insurance and claims-reserve uncertainty, regulatory or catastrophic events, and reliance on actuarial judgments. The excerpt is complex and contains standard cautionary language, but does not appear strongly evasive."
+}

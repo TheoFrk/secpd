@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "substantially decreased",
+    "partially offset by",
+    "cost-reduction initiatives",
+    "significant change"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear segment-level results, but it describes substantial operating deterioration, including a 27% revenue decline, a $148 million operating loss, major handset shipment declines, and lost market share. Improvements in cash flow and reduced losses appear partly dependent on cost reductions, working-capital release, and the absence of prior-period impairment and restructuring charges. Frequent qualifiers such as “primarily,” “substantially,” and “partially offset by” modestly limit causal precision."
+}

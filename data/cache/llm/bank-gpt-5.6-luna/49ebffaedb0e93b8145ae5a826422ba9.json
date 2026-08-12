@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "expect to continue",
+    "temporary slowdown",
+    "material weakness",
+    "additional procedures"
+  ],
+  "risk_summary": "The excerpt provides several quantified financial targets and detailed disclosures, but relies on optimistic forward-looking assumptions regarding emerging-market growth, demand recovery, and margin expansion. The identified material weakness in internal controls and prior-period tax-related errors are significant control and reporting risks despite management’s assertion that the statements are fairly stated. Global market volatility, competition, commodity costs, and currency movements add meaningful execution risk."
+}

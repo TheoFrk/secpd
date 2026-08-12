@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "current plans and assumptions",
+    "non-GAAP measures",
+    "adverse macroeconomic conditions"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, with clear revenue, margin, cash flow, debt, acquisition, and guidance metrics. Risk tone is cautiously optimistic but acknowledges manufacturing-sector weakness, foreign-exchange volatility, regional deterioration, acquisition integration costs, and reliance on non-GAAP targets. Forward-looking caveats and extensive technical terminology modestly reduce transparency but do not appear materially evasive."
+}

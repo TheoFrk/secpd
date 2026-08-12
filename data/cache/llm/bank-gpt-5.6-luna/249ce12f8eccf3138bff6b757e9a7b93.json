@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "could adversely affect",
+    "not obligated to update",
+    "unpredictable and outside of our control"
+  ],
+  "risk_summary": "The disclosure identifies material concentration, reimbursement, regulatory, collection, labor-cost, and bad-debt risks, including a client representing approximately 11% of revenue. Although several operating metrics are quantified, the discussion relies heavily on boilerplate disclaimers and conditional language, with limited quantification of downside impacts or liquidity sensitivity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant unanticipated changes",
+    "may result in a material change",
+    "based on assumptions believed reasonable",
+    "full-ratchet or reset provisions",
+    "may have to cease operations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but relies heavily on standard accounting-estimate caveats and complex technical language. Material risks include inventory obsolescence, valuation volatility from derivative accounting, substantial payroll-tax arrears and IRS liens, with explicit disclosure that failure to meet the installment agreement could require cessation of operations."
+}

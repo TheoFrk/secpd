@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-comparable items",
+    "primarily driven by",
+    "sufficient for the foreseeable future",
+    "excluding the impact of",
+    "truncated or missing tables"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent on sales, margins, tax rates, debt costs, acquisitions, and cash flows. Risk is elevated by the sharp decline in EPS, substantially higher other expense driven by exceptional items, asbestos-related liabilities, and increased interest expense, although management presents liquidity as sufficient for planned operations."
+}

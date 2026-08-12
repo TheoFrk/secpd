@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "based on all available evidence",
+    "more-likely-than-not",
+    "various other factors",
+    "voluntary disclosure agreements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but relies on standard accounting-policy boilerplate and judgment-based language for impairment, taxes, returns, and contingent rents. Operating risks include declining direct and center-channel revenue, a 16% same-store sales decline, center closures, sales-tax liabilities, and references to an FTC settlement. Overall tone is measured but mildly negative, with several material disclosures and some apparent inconsistencies or truncation in the provided text."
+}

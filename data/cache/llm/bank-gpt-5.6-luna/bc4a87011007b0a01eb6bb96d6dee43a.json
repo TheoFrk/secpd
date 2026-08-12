@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements with risks and uncertainties",
+    "no time frame has been set",
+    "varying degrees of success",
+    "estimated future demand",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, reporting modest sales declines, flat net income, margin movements, store closures, and planned expansion. Risk is moderated by increased cash and equity, but expansion assumptions, inventory estimates, impairment testing, and future demand remain judgment-dependent. The excerpt also contains substantial boilerplate and appears truncated or corrupted in places."
+}

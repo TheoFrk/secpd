@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "known and unknown risks",
+    "may differ materially",
+    "no obligation to update",
+    "other matters"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and uses broad, non-quantified risk categories, limiting the specificity of forward-looking risk assessment. It identifies extensive exposure to litigation, credit losses, regulatory changes, market conditions, cyber events, and geopolitical disruption, although the surrounding business overview provides substantial quantitative context."
+}

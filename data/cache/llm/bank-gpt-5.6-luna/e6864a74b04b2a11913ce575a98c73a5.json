@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no exact measure",
+    "all references ... are estimates",
+    "based on available data",
+    "as appropriate",
+    "significant judgment required"
+  ],
+  "risk_summary": "The disclosure is generally transparent and includes substantial quantitative detail on targets, acquisitions, revenue drivers, margins, repurchases, and asset sales. However, several key exposures—including commodity prices, channel inventory, market share, inflation recovery, and deferred tax realization—rely on estimates, management judgment, or broadly qualified language. Overall tone is cautiously confident, with identifiable sensitivity to demand, pricing, currency, cost inflation, and tax-asset realizability."
+}

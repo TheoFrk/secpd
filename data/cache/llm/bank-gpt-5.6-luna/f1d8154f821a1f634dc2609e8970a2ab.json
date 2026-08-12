@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.43,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "expected to moderately increase",
+    "seems to have",
+    "not intended to be a complete list",
+    "continued downward pressure",
+    "acceptable returns were balanced against"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on earnings, credit quality, capital, and loan trends, supporting relatively low vagueness. Tone is broadly confident and improvement-oriented, although it acknowledges margin pressure, competition, economic uncertainty, and reliance on forward-looking expectations."
+}

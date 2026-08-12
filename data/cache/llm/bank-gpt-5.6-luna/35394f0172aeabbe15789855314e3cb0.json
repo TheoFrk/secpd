@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "difficult to quantify the financial impacts",
+    "as expected",
+    "for the foreseeable future",
+    "subject to exceptions",
+    "events of default"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, including revenue and earnings declines, fire-related sales impacts, restructuring costs, employee reductions, debt balances, and covenant status. Risk tone is moderately negative due to cyclical demand, operational disruption, significant restructuring, discontinued-operation losses, and substantial secured debt, although management states that remediation is progressing and covenants are currently satisfied."
+}

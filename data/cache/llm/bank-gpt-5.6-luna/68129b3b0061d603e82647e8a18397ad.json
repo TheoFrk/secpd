@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "strong growth",
+    "best estimates",
+    "actual amounts could differ significantly"
+  ],
+  "risk_summary": "The excerpt presents a strongly optimistic growth and profitability narrative, supported by numerous sales, margin, acquisition, restructuring, and cost-savings targets. Key risks include reliance on forecasts, acquisitions, restructuring execution, customer concentration and declining Sensata sales, foreign exchange, debt and interest rates, raw-material costs, and significant valuation judgments. The dense, promotional presentation and extensive technical detail may obscure the uncertainty around achieving projected results."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "various items, including, but not limited to",
+    "we believe we are well positioned",
+    "dynamic world in which we are currently operating",
+    "forecasts and budgets of financial needs"
+  ],
+  "risk_summary": "The excerpt identifies broad industry, consumer, geopolitical, inflationary, tax, and operational risks but provides limited quantitative exposure, sensitivity analysis, or specific mitigation outcomes. Its tone is predominantly boilerplate and confident, emphasizing strategic positioning and commitments while relying on generalized language around future performance and tax realizability."
+}

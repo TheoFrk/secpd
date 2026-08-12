@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could have a material impact",
+    "more likely than not",
+    "not yet known",
+    "subjective estimates and assumptions",
+    "ultimate outcome not known"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding 2017 operating performance, but relies extensively on standard accounting contingencies and judgment-based estimates for impairments, taxes, remediation, and litigation. Environmental liabilities and the provisional TCJA tax treatment create potentially material, though not clearly imminent, financial statement risk."
+}

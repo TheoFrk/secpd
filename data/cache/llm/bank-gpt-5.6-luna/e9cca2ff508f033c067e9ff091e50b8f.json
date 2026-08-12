@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high level of uncertainty",
+    "expected to continue to improve",
+    "primarily due to",
+    "partially offset by",
+    "based on evaluation of market demand signals"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and transparent about pandemic-related volume declines, a $1.254 billion net loss, impairment charges, liquidity, and restructuring costs. Risk remains elevated due to uncertain demand recovery, exposure to auto production and mobility, aviation weakness, foreign-exchange pressure, and planned working-capital investment, although liquidity and recovery trends provide mitigation."
+}

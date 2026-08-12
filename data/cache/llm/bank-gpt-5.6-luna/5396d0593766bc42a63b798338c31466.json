@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "“we believe” competitive advantage claims",
+    "promotional superlatives without supporting metrics",
+    "significant judgments and estimates",
+    "truncated impairment discussion",
+    "liquidation preference and blocking rights"
+  ],
+  "risk_summary": "The excerpt provides useful revenue mix and growth percentages, but is heavily promotional and repetitive, with substantial reliance on beliefs and qualitative competitive claims. Financial risk is partly obscured by complex acquisition, valuation, preferred-stock, and impairment language, including a $55 million liquidation preference and material estimation uncertainty."
+}

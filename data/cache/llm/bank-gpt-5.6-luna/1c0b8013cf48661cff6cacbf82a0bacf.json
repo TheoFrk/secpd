@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "expected to",
+    "continues to consider actions",
+    "may not be comparable",
+    "items that cannot reasonably be expected to recur"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, with clear attribution of revenue, cost, impairment, restructuring, and interest-rate impacts. Risk tone is mildly negative due to inflation, lower volumes, supply and labor disruptions, foreign exchange pressure, and Russia-related charges, although management presents restructuring progress and regional growth expectations constructively."
+}

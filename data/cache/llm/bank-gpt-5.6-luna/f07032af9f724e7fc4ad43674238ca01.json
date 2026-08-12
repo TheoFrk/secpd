@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to become increasingly important",
+    "potential over time",
+    "when and if opportunities are available",
+    "excluding multiple nonrecurring items"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A framing and strategy discussion, with substantial boilerplate and complex presentation of adjusted metrics and continuing-operations definitions. It provides useful operating details and transaction figures, but relies on forward-looking beliefs and expectations regarding acquisitions, margins, quality initiatives, payer trends, and profitability. Overall tone is moderately confident, while exposure to reimbursement, integration, execution, litigation, and debt-related pressures is only indirectly signaled."
+}

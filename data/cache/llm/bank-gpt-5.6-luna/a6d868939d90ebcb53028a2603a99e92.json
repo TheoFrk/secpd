@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.14,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly dependent on economic conditions",
+    "believed to be reasonable",
+    "actual results could differ",
+    "susceptible to significant change",
+    "positioned to withstand challenging conditions"
+  ],
+  "risk_summary": "The disclosure provides substantial historical financial quantification but relies heavily on standard accounting-estimate caveats and broad macroeconomic commentary. Key risks include net interest margin pressure, dependence on interest rates and economic conditions, and uncertainty surrounding loan-loss allowances and deferred tax asset realization. Overall tone is cautiously constructive rather than crisis-like, supported by reported asset-quality improvements and capital and liquidity positioning."
+}

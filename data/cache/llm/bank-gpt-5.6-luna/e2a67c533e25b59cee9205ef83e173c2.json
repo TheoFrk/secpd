@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "severe and/or prolonged economic downturn",
+    "numerous external factors",
+    "management’s estimate",
+    "textually truncated disclosures"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate risk-factor language and relies on conditional or broadly defined external factors, while some award metrics use management estimates and projections. Quantified revenue declines, contract adjustments, currency exposure, and government-contract termination risk indicate moderate operating and execution risk, although the tone is generally routine rather than crisis-like."
+}

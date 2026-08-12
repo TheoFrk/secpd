@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict at this time",
+    "variety of factors, including but not limited to",
+    "may have a material adverse effect",
+    "inherently uncertain",
+    "sufficient to meet liquidity needs"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative details on liquidity, debt issuance, repurchases, and borrowing capacity, but relies heavily on standard uncertainty language and forward-looking contingencies. Key risks include pandemic uncertainty, inflation and interest-rate sensitivity, credit-loss estimates, MSR valuation assumptions, and potential changes in liquidity conditions. Overall tone is balanced and cautiously reassuring rather than crisis-like."
+}

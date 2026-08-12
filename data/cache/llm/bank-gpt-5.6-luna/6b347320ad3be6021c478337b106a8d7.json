@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "subject to changing market conditions",
+    "prudent acquisitions",
+    "reduced customer cash flow"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on liquidity, cash flows, operating hours, commodity prices, and borrowing capacity, but relies on standard forward-looking disclaimers and generalized strategic language. Risk tone is moderately negative because declining oil and gas prices, weaker customer cash flow, lower utilization, pricing pressure, and under-absorbed costs affected performance, although management retains a generally constructive outlook."
+}

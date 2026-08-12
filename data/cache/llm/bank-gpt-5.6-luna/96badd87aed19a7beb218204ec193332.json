@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to remain at low levels",
+    "could have a material adverse effect",
+    "inherently uncertain",
+    "reasonably likely",
+    "sufficient to meet liquidity needs"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including losses, funding capacity, ACL sensitivity, and debt maturity, but relies on forward-looking assumptions regarding rates, liquidity, merger completion, credit losses, and MSR valuations. Risk tone is moderately negative, reflecting sharply lower earnings, deposit pressure, reduced loan demand, and expected margin compression, partially offset by stated liquidity resources and management actions."
+}

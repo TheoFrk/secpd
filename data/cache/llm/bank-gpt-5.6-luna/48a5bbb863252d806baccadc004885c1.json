@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to accurately predict",
+    "if current market conditions persist",
+    "forward-looking statements",
+    "non-GAAP EBITDA emphasis",
+    "repeated constant-currency adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial historical financial quantification, but flags a 17% revenue decline, weak global conditions, client expense reductions, and potential contract re-tendering. Risk disclosure is moderately hedged through forward-looking disclaimers and reliance on non-GAAP constant-currency and EBITDA measures, while the text remains dense and partly promotional."
+}

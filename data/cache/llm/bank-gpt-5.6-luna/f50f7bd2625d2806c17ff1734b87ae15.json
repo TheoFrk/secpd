@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "currently evaluating the impact",
+    "do not expect a material impact",
+    "forward-looking statements",
+    "favorable ... cost controls",
+    "less than 2% of revenue increase"
+  ],
+  "risk_summary": "The excerpt presents consistently improving revenue, margins, and net income with substantial quantitative support and a strongly positive operating tone. Risk disclosure is limited and largely boilerplate, while accounting-standard impacts are described with qualified expectations rather than quantified sensitivity analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "certain unusual, non-cash, or non-recurring expenses",
+    "may cause a change",
+    "could result in further impairment",
+    "not necessarily representative"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and credit information, but relies on standard MD&A boilerplate and broad causal explanations for performance changes. Risk factors include CEO turnover, margin compression, reliance on non-GAAP Adjusted EBITDA, and potential further goodwill impairment, although the expanded credit facility and revenue growth provide some offsetting positives."
+}

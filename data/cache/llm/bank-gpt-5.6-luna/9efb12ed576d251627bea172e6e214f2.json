@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "not necessarily indicative",
+    "no responsibility to update",
+    "other risks described in SEC reports"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on the Pinnacle acquisition, debt incurred, synergies, earnings, and segment performance, but is preceded by extensive standard forward-looking-risk disclaimers. Risk exposure is elevated due to acquisition integration, leverage and deleveraging needs, impairment risk, cost inflation, litigation, and execution uncertainty, despite management describing integration as on-track."
+}

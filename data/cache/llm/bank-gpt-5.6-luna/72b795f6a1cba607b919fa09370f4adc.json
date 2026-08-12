@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "difficult to predict exact growth rates",
+    "based on certain assumptions",
+    "actual results may differ",
+    "highly dependent on external factors",
+    "believe pricing moves are now behind us"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating data, but its forward outlook relies on broad assumptions and numerous external variables, including commodity prices, weather, OPEC compliance, and economic conditions. Risk is elevated by cyclicality, prior revenue and operating income declines, pricing pressure, liquidity exposure from letters of credit, and goodwill impairment sensitivity, although management maintains a cautiously favorable long-term outlook."
+}

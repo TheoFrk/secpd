@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "not limited to",
+    "currently evaluating the impact",
+    "management’s judgment"
+  ],
+  "risk_summary": "The excerpt contains an extensive but largely boilerplate catalog of operational, liquidity, covenant, accounting-control, customer-concentration, and market risks. Several material estimates, including inventory reserves and expected returns, depend on subjective management judgments, while the truncated disclosure limits assessment of potentially significant core-inventory exposures."
+}

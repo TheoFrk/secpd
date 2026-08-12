@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain and outside our control",
+    "could adversely affect",
+    "among others",
+    "impact, if any",
+    "regardless of the ultimate outcome"
+  ],
+  "risk_summary": "The excerpt reports strong, highly quantified 2009 performance and capital metrics, producing an overall cautiously positive tone. Risk disclosure relies substantially on broad forward-looking-statement disclaimers and conditional language around regulation, litigation, reputation, and potential adverse outcomes, with limited quantification of those exposures."
+}

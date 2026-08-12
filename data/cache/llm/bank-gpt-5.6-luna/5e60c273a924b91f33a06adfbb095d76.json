@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements are inherently subject to risks and uncertainties",
+    "other risks that might be detailed from time to time",
+    "attempt to advise interested parties",
+    "rapidly growing Gig Economy",
+    "substantial doubt about ability to continue as a going concern"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate risk disclaimers and promotional growth language, with limited discussion of specific mitigants or quantified downside scenarios. The independent auditor’s going-concern explanatory paragraph is a material credit risk signal, although the MD&A also reports substantial growth in clients, worksite employees, revenue, and gross profit."
+}

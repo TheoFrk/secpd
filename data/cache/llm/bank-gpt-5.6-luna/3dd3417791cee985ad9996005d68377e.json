@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "actual results could differ materially",
+    "additional risks not currently known",
+    "expressly disclaim obligation to update",
+    "temporary decrease in energy demand"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, largely unquantified list of potential adverse factors, including liquidity, leverage, covenant, customer concentration, and cyclical demand risks. Operating disclosures include useful historical metrics, but the truncated passage provides limited current-period quantification and relies on management’s view that energy-sector weakness is temporary."
+}

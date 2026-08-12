@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "may prove to be incorrect",
+    "subject to continuing determination",
+    "we believe sufficient liquidity",
+    "material net negative impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but includes substantial forward-looking uncertainty around the Arm acquisition, demand forecasting, supply constraints, cryptocurrency volatility, and COVID-19 effects. The tone is cautiously confident, supported by strong revenue growth and liquidity, while relying on standard hedging and cross-references for major risks."
+}

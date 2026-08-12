@@ -10,11 +10,5 @@ joblib==1.4.2
 pydantic==2.7.4
 requests==2.32.3
 
-# NLP-Assets-Vorbereitung (optional genutzt; Daten via build_offline_bundle.sh)
-nltk==3.9.1
-
-# Nur Home-Setup relevant (EDGAR-Rohdownloads); Wheel wird trotzdem gebündelt
-sec-edgar-downloader==5.0.2
-
 # Entwicklung/Tests
 pytest==8.2.2

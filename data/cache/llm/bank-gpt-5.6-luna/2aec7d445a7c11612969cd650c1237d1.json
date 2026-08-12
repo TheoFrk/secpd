@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "we believe",
+    "Adjusted EBITDA limitations",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt presents a broadly confident business narrative supported by operating history, patents, diversified end markets, and manufacturing capabilities, while acknowledging substantial semiconductor cyclicality, pricing pressure, utilization risk, competition, and demand uncertainty. Risk disclosure is generally specific in identifying drivers, but the extensive boilerplate and emphasis on non-GAAP measures may reduce clarity regarding underlying operating performance and cash generation."
+}

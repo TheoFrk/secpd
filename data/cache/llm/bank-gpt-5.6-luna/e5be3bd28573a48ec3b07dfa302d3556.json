@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of further funding",
+    "substantial doubt about going concern",
+    "primarily dependent upon",
+    "could differ materially",
+    "estimated funding requirements"
+  ],
+  "risk_summary": "The company has no commercial revenue, recurring losses, minimal cash, a substantial working capital deficit, and explicitly disclosed substantial doubt about its ability to continue as a going concern. Its survival depends on raising additional equity or debt, continued insider support, successful exploration and development, and achieving profitability, creating significant liquidity, dilution, and execution risk."
+}

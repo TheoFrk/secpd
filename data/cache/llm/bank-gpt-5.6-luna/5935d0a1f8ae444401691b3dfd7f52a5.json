@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance",
+    "highly technical and complex provisions",
+    "mid-single digit percentage increase",
+    "current and future litigation"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking and legal disclaimers, limiting confidence in forecasts and providing relatively little quantified operating detail. It discloses meaningful risks from economic conditions, litigation, asset underperformance, REIT tax compliance, and related-party arrangements, although 2011–2012 performance reportedly improved and a 2013 revenue increase was forecast."
+}

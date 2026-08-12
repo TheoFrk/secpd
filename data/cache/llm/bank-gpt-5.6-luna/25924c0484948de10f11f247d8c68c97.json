@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to certain risks and uncertainties",
+    "not construed as exhaustive",
+    "not possible for management to predict all such factors",
+    "expressly disclaim any current intention to update",
+    "potentially pushing recovery further into the future"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but extensive forward-looking-statement disclaimers and broad non-exhaustive risk language reduce specificity regarding future outcomes. Risk tone is moderately negative, reflecting declining earnings, weak power prices, asset impairments, plant deactivations, labor disruption, and nuclear-plant cracking, although management presents mitigation and repositioning actions."
+}

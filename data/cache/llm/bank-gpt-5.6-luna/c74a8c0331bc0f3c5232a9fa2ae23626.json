@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-US GAAP measures not standardized",
+    "estimated deferred acquisition consideration adjustments",
+    "certain factors affecting our business",
+    "primarily attributable to",
+    "relatively fixed in nature"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but includes substantial boilerplate and complex explanations of non-GAAP measures and acquisition accounting. Risk tone is moderately negative because operating results and continuing operations deteriorated sharply, with higher debt-related interest expense, tax valuation allowances, and acquisition-related costs."
+}

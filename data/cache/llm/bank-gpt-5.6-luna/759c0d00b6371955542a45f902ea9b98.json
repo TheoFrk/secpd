@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "known and unknown risks",
+    "primarily due to",
+    "timing of customer-funded projects",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, clearly attributing revenue and operating income declines to segment weakness, project timing, restructuring, and acquisition-related costs. Boilerplate forward-looking disclaimers and repeated causal qualifiers modestly limit transparency, but the overall disclosure is substantive rather than evasive. Risk tone is mildly negative because revenue and operating income declined, although management presents identifiable mitigating factors and liquidity resources."
+}

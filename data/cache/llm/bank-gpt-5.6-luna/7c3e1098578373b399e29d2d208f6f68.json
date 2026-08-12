@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "additional capital may not be available",
+    "expected to fund through securities issuances",
+    "increased scale and scope of business operations",
+    "inconsistent stockholders’ equity comparison"
+  ],
+  "risk_summary": "The excerpt presents severe financial risk: recurring losses, no current revenue, negative operating cash flow, minimal assets, reliance on external financing, and an auditor-documented going-concern uncertainty. Funding is described primarily through future equity, debt, and shareholder advances, with explicit dilution and financing-availability risks. The disclosure is relatively quantified but includes boilerplate forward-looking language and an apparent inconsistency in the stated direction of stockholders’ equity."
+}

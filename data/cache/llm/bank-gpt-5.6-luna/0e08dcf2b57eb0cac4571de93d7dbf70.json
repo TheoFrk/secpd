@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "a number of factors may adversely affect",
+    "as the opportunity presents itself",
+    "other factors affecting",
+    "expected benefit payments"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantified operational, pension, and business information, but its forward-looking disclosure relies heavily on broad boilerplate risk-factor language. Key risks include the network intrusion, consumer weakness, customer credit and bankruptcy exposure, store underperformance, impairments, acquisition execution, and pension-related volatility. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

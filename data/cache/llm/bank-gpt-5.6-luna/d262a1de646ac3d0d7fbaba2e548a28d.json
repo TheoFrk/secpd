@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.72,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "ability to raise additional capital",
+    "cash at end of year was $0",
+    "continued review of strategies"
+  ],
+  "risk_summary": "The company reports severe liquidity and operating risk, including zero year-end cash, nearly $1.0 million of operating cash burn, recurring net losses, and negative gross margin. Its ability to continue operating appears dependent on additional financing, while much of the discussion relies on generalized growth plans and forward-looking disclaimers rather than quantified milestones."
+}

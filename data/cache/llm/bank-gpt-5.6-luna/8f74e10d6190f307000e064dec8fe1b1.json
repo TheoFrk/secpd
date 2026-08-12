@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "without unreasonable efforts",
+    "significant impact",
+    "no assurance",
+    "period of uncertainty"
+  ],
+  "risk_summary": "The excerpt presents a mixed risk profile: COVID-19 caused a 29% annual sales decline, pressured end markets, and required cost and production reductions, although liquidity and recovery trends are described positively. Extensive non-GAAP discussion and the inability to reconcile forward-looking measures may limit comparability and obscure the potential impact of unusual items. Credit risk appears manageable based on stated $1.1 billion of available liquidity, but remains exposed to economic recovery, customer collections, inventory, and used-equipment market conditions."
+}

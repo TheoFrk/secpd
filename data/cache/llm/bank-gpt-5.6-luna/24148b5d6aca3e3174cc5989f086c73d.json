@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot assure estimates accurate",
+    "change in estimate",
+    "significant disparity between earnings and cash",
+    "sufficient for at least 12 months"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights severe deterioration, including a 52.2% revenue decline, a $29.7 million gross loss, a 74.9% negative gross margin, and a major A-10 contract estimate revision. Reliance on percentage-of-completion estimates creates material earnings, contract-loss, and cash-flow risk, while increased debt and borrowing needs add liquidity pressure. Management’s 12-month liquidity assertion is positive but somewhat generic relative to the magnitude of reported losses."
+}

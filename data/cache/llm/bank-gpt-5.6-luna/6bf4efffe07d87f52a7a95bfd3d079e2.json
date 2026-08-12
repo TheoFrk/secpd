@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subject to risks and uncertainties",
+    "cannot assure estimates will be accurate",
+    "adjusted earnings excluding A-10 program",
+    "best available information each quarter"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantified, but emphasizes substantial estimation uncertainty under percentage-of-completion accounting and the possibility of revenue, profit, and cash-flow adjustments. A-10 program reductions, amended debt covenants, higher borrowing costs, and reliance on potential customer reimbursements indicate meaningful operating and liquidity risk, partly offset by stated covenant compliance and expected resource sufficiency."
+}

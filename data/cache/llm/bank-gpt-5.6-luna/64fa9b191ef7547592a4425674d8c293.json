@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of continued funding",
+    "dependent upon additional financing",
+    "cease or severely curtail operations",
+    "going concern",
+    "anticipation of receiving orders"
+  ],
+  "risk_summary": "The company reports severe liquidity stress, negative working capital of approximately $2.1 million, minimal cash, no operational revenue generation, and dependence on related-party funding and a potential merger. Disclosure is relatively quantified and transparent, but the financing dependence and explicit risk to continued operations indicate substantial going-concern risk."
+}

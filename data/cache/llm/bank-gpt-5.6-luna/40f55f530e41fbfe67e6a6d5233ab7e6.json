@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "should continue to increase long-term demand",
+    "business outlook remains positive",
+    "primarily due to",
+    "for additional information see",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt presents a predominantly positive operating and growth narrative supported by numerous quantified metrics, acquisitions, financing actions, and segment data. Risk disclosures are largely cross-referenced, while the DOJ investigation settlement, increased debt activity, reimbursement changes, and rising compensation costs represent material credit considerations. Overall disclosure quality is reasonably specific but includes substantial boilerplate and optimistic forward-looking language."
+}

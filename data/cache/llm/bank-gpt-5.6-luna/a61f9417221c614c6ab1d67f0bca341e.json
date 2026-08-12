@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "slightly negative to slightly positive",
+    "attempts to maximize shareholder value",
+    "not audited",
+    "subject to the insurance claims process",
+    "expected to be completed"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, but relies on forward-looking estimates and unaudited comparable-property data. Key risks include flat-to-negative RevPAR expectations, increased lodging supply, hurricane-related disruptions, insurance-claim uncertainty, and acquisition or disposition closings that may not occur."
+}

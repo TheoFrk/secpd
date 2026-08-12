@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements may",
+    "risks and uncertainties",
+    "do not undertake to update",
+    "not guarantees of future performance",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding revenue, margins, divestitures, proceeds, debt reduction, and restructuring costs, indicating improved operating performance and liquidity. However, extensive forward-looking disclaimers and non-GAAP framing limit reliance on projections and may obscure comparability. Key risks include weaker foodservice volumes, execution of restructuring and facility transfers, and dependence on assumptions underlying future growth."
+}

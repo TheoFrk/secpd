@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "may differ materially",
+    "we believe",
+    "various stages of planning",
+    "factors beyond our control"
+  ],
+  "risk_summary": "The disclosure presents a generally confident outlook supported by strong regional demand, land holdings, and contracted residential activity, but acknowledges material exposure to interest rates, inflation, insurance costs, supply-chain delays, labor shortages, and buyer financing constraints. Risk detail is partly generalized and heavily qualified through standard forward-looking-statement language, while the excerpt provides limited sensitivity analysis or quantified downside scenarios."
+}

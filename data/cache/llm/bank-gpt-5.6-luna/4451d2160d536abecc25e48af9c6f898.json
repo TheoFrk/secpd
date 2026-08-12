@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to changes and uncertainties",
+    "expected to continue",
+    "may affect future results",
+    "primarily due to",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear year-over-year operating, liquidity, debt, and cash-flow metrics, supporting a generally confident tone. Key risks include commercial aerospace concentration, Boeing production and quality issues, cyclical commercial transportation demand, inflation, tariffs, foreign exchange, interest rates, and reliance on management projections. Some forward-looking language and repeated causal attribution limit precision regarding the magnitude and timing of downside risks."
+}

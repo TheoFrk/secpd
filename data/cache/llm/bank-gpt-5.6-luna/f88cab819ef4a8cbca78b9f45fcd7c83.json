@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "constant currency information",
+    "significant unobservable inputs",
+    "best estimate of future cash flows"
+  ],
+  "risk_summary": "The excerpt presents strong, well-quantified operating performance, substantial cash, and low reported debt, producing a generally positive risk tone. However, extensive forward-looking disclaimers, non-GAAP adjustments, and reliance on management estimates for impairment and currency effects introduce comparability and execution risks."
+}

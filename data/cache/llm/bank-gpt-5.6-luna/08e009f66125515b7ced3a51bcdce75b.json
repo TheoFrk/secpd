@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.15,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measure limitations",
+    "subject to risks and uncertainties",
+    "other manufacturing cost increases",
+    "various other factors",
+    "not material in 2020"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear year-over-year metrics and explanations of major drivers. Risk tone is mildly positive because operating profit and adjusted EPS increased, although currency pressure, input-cost inflation, restructuring dependence, pension assumptions, and tax uncertainties remain material risks. Standard non-GAAP caveats and broad qualifying language moderately reduce transparency."
+}

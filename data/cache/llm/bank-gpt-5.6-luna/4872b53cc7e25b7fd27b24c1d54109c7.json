@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "may be materially affected",
+    "other factors",
+    "non-GAAP measures",
+    "see risk factors"
+  ],
+  "risk_summary": "The excerpt presents a broad, confident description of Morgan Stanley’s diversified businesses and performance framework, but the supplied section omits most underlying financial tables and results. Risk disclosures rely partly on standard forward-looking language and broad references to market, regulatory, legal, competitive, and capital-related factors. Business-model complexity and extensive non-GAAP discussion may make comparability and risk assessment more difficult."
+}

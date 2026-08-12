@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "subject to changes in our plans",
+    "should be sufficient to fund operations",
+    "no guarantee funding will be available",
+    "scale back or terminate operations"
+  ],
+  "risk_summary": "The disclosure is highly technical and includes substantial boilerplate, limiting clarity around forward-looking assumptions and funding needs. It signals meaningful liquidity and execution risk, including recurring losses, dependence on equity or other financing, potential dilution, and the possibility of scaling back or terminating operations if funding is unavailable."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "significant items",
+    "remains fragile",
+    "focused actions taken",
+    "other available funds",
+    "as further described below"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial detail on earnings, credit losses, capital actions, and portfolio trends. Risk tone is cautiously improving, but elevated historical credit losses, fragile economic conditions, CRE exposure reduction, and reliance on capital transactions indicate ongoing credit and balance-sheet risks."
+}

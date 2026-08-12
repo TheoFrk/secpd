@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.2,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on estimates and assumptions",
+    "more likely than not",
+    "may need to be updated",
+    "subject to significant change",
+    "other available evidence"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, highlighting restored profitability, improved asset quality, and stronger capital. However, results depend materially on management judgments regarding loan-loss allowances, deferred tax asset realization, economic conditions, and fair-value measurements. The tone is cautiously positive rather than crisis-like, with meaningful exposure to credit, market, and tax-estimation risk."
+}

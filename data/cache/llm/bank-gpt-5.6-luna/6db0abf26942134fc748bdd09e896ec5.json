@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "exclude non-comparable items",
+    "currency-neutral measures",
+    "mark-to-market exclusions",
+    "anticipated long-term cost"
+  ],
+  "risk_summary": "The disclosure is highly quantified and presents strong reported growth, but it relies extensively on adjusted and currency-neutral measures that exclude material pension and tax effects. Operating performance faced pressure from investments, capacity constraints, purchased transportation and fuel costs, while pension accounting materially influenced year-over-year results."
+}

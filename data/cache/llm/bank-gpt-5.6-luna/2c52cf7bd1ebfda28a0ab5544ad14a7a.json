@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "best estimate",
+    "ongoing negotiations with customers",
+    "certain commercial factors"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed year-over-year changes, liquidity metrics, cash flows, and margin impacts. Risk is moderate: net income and gross margin declined in 2019 amid vehicle-production weakness, tariffs, customer price reductions, and higher operating costs, although liquidity and cash generation remain strong. Revenue recognition includes judgment around negotiated retroactive price adjustments and variable consideration."
+}

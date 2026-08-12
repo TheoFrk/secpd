@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "actual results may differ materially",
+    "can fluctuate significantly",
+    "we do not know how long and to what extent",
+    "generally, it is difficult to predict"
+  ],
+  "risk_summary": "The disclosure is generally specific, with store counts, insurance limits, reserves, allowances, and earnings quantified. Key risks include self-insurance estimation, asset impairment assumptions, vendor allowance dependence, debt covenants, inflation, and substantial uncertainty regarding the duration and effects of COVID-19. Overall tone is moderately positive due to pandemic-driven earnings growth and favorable conditions, but the outlook remains qualified."
+}

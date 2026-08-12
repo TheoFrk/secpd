@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate full impacts",
+    "may take additional actions",
+    "adverse impacts in the future",
+    "subject to market conditions",
+    "uncertainties surrounding the acquisition"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear liquidity, debt maturity, covenant, acquisition, and operating figures. Risk tone is mildly negative due to COVID-19 disruption, uncertainty around future impacts, and a credit-rating downgrade with negative outlooks, although strong liquidity and covenant compliance provide meaningful mitigation."
+}

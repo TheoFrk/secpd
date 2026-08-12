@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "may be materially affected",
+    "other factors",
+    "undue reliance should not be placed",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and boilerplate, with extensive definitions of business segments, financial measures, and forward-looking statement disclaimers. It identifies broad market, regulatory, legal, tax, capital, and execution risks but provides limited quantified downside detail in the presented section. Overall tone is neutral to mildly confident, tempered by explicit warnings that targets may not be achieved."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP measures",
+    "primarily due to",
+    "approximately/nearly",
+    "acquisition-driven growth",
+    "market conditions remain challenging"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, with clear explanations of acquisition impacts, regional volume trends, costs, restructuring, and environmental charges. Risk is mixed: overall performance improved, but European weakness, challenging protective and marine coatings markets, acquisition-related cost pressures, and environmental liabilities remain material concerns. Repeated Regulation G language and emphasis on adjusted measures may divert attention from GAAP results and underlying comparability."
+}

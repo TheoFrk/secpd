@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "we believe may be useful",
+    "estimates and assumptions",
+    "exact quantities not precisely known"
+  ],
+  "risk_summary": "The excerpt is technically dense and contains substantial standard forward-looking and accounting-estimate caveats. It identifies meaningful estimation risk in channel inventory, rebates, discounts, royalties, and revenue recognition, but provides limited quantified sensitivity analysis. Overall tone is cautiously favorable, driven by strong product positioning and pipeline claims, with moderate disclosure ambiguity."
+}

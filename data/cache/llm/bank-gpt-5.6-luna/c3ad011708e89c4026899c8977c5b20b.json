@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "long-term we believe",
+    "may be unable to",
+    "depending on the elements",
+    "could adversely affect",
+    "materially affected if liquidity falls"
+  ],
+  "risk_summary": "The excerpt combines extensive promotional and accounting-description language with specific liquidity and refinancing risks. Key quantified exposures include $230.0 million of convertible notes due in 2025, $34.2 million of remaining revolver availability, and cash-dominion triggers at specified liquidity thresholds. The tone is operationally confident but materially tempered by dependence on capital markets and potential covenant or liquidity deterioration."
+}

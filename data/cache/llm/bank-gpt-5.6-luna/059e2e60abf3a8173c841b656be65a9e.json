@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "eventual recovery",
+    "choppy economic recovery",
+    "no assurance"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but relies on forward-looking expectations regarding economic recovery, demand, and segment improvement. Key risks include cyclical construction exposure, customer financing constraints, steel-price volatility, supplier distress, and limited visibility in the metal components segment."
+}

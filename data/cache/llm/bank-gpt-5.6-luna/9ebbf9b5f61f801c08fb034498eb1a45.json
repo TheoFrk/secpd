@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may have to enter into license agreements",
+    "significant payments in the future",
+    "based on current information available",
+    "do not believe material adverse effect",
+    "expected to fluctuate over time"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate and forward-looking qualifications while providing limited quantified analysis of margins, liquidity, legal exposure, and operating trends. It identifies risks from litigation, currency movements, supplier concentration, customer credit, debt obligations, and anticipated cost growth, but presents them in a generally controlled and mildly confident tone."
+}

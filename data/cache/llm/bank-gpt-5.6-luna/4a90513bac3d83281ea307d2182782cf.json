@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "could differ materially",
+    "cautiously optimistic",
+    "uncertain when such a release may occur",
+    "various other assumptions believed reasonable"
+  ],
+  "risk_summary": "The excerpt is relatively specific and well quantified regarding revenues, acquisitions, customer concentration, geographic exposure, and debt, but includes standard legal disclaimers and forward-looking uncertainty. Risk tone is mildly positive yet appropriately cautious, with notable customer concentration, international exposure, economic sensitivity, and tax-estimate uncertainty."
+}

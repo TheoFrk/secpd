@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements may differ significantly",
+    "benefits from foreign exchange translation",
+    "best-in-class product solutions",
+    "results have varied and are likely to vary",
+    "non-GAAP adjusted measures"
+  ],
+  "risk_summary": "The disclosure presents a strongly positive growth and innovation narrative, supported by several quantitative operating metrics. Key risks include foreign-exchange volatility, incomplete hedging, leveraged transaction-related amortization, market expansion costs, and variability in operating results. Extensive boilerplate, promotional language, non-GAAP emphasis, and an excerpt that mixes fiscal periods somewhat reduce transparency."
+}

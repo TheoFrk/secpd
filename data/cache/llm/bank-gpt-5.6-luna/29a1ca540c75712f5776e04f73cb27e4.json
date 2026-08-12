@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-core gains and charges",
+    "underlying business performance",
+    "Financial Flexibility",
+    "free cash flow non-GAAP metric",
+    "not comparable to other companies"
+  ],
+  "risk_summary": "The excerpt is detailed and defines several metrics, but emphasizes adjusted, non-GAAP measures that exclude restructuring and other charges, potentially obscuring recurring cost pressures and reported performance. The tone is generally controlled and management-confident, while acknowledging that excluded charges may recur and that comparability with other companies is limited."
+}

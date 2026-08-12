@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "non-GAAP measures",
+    "we believe",
+    "attributed to",
+    "one-time items"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed revenue, margin, liquidity, debt, and cash-flow metrics. Risk factors include declining operating cash flow, rising accounts receivable, acquisition-related borrowing, litigation cash impact, and reliance on adjusted non-GAAP performance measures. Overall tone is positive and growth-oriented, though some explanations rely on management attribution and forward-looking language."
+}

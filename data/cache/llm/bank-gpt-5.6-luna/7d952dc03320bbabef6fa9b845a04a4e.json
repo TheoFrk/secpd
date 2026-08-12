@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to changes and uncertainties",
+    "could differ from prior periods",
+    "expected to continue",
+    "partially offset by",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear discussion of sales, cash flow, debt, segment performance, plant fires, and aerospace exposure. Risk factors include commercial aerospace recovery uncertainty, Boeing 787 production declines, plant-fire costs, inflation, supply-chain constraints, and expected weakness in Forged Wheels demand. The overall tone is cautiously optimistic, supported by improved earnings and liquidity but reliant on forward-looking expectations."
+}

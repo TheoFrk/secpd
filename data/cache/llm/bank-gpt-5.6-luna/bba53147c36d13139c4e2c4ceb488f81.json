@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "no assurance funds will be available",
+    "forward-looking statements and uncertainties",
+    "limited operations and capital",
+    "boilerplate accounting disclosures"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk, including minimal operations, reliance on related-party advances, substantial unpaid management wages, and a stated substantial doubt about continuing as a going concern. The lessor repossessed leased equipment due to non-payment, while liabilities and accrued related-party obligations increased materially. Although many balances are quantified, extensive boilerplate, inconsistent wording, and incomplete text reduce clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant degree of judgment",
+    "may need to be updated",
+    "could produce significantly different results",
+    "challenging operating environment",
+    "cannot be quantified"
+  ],
+  "risk_summary": "The disclosure identifies meaningful credit, valuation, pandemic, interest-rate, and economic risks, but frequently relies on management judgment and scenario-dependent estimates. It provides some useful quantified information, including restructuring charges and macroeconomic data, while leaving the potential magnitude and timing of several adverse outcomes uncertain."
+}

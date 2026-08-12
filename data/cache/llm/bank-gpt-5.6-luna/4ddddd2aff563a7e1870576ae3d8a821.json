@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "materially different",
+    "known or unknown risks",
+    "undertakes no obligation",
+    "due on demand"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, revenue, margin, debt, covenant, and liquidity information, but is preceded by extensive boilerplate disclaimers that limit reliance on projections. Risk indicators include very thin gross margins, consolidated operating income of only $2.3 million, Collectibles operating losses, extensive use of credit facilities, and zero remaining borrowing availability under the Collectibles facility."
+}

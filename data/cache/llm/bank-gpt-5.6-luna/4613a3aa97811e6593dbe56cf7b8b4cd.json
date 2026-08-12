@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "could get either better or worse",
+    "as resources permit",
+    "nearing completion",
+    "most queries resolved",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful trial, cash flow, financing, contractual commitment, and accounting information, but clinical outcomes and timing remain uncertain. Repeated forward-looking caveats and qualitative progress descriptions limit visibility into completion timing, funding needs, and program viability. The overall tone is neutral to mildly negative due to development-stage, liquidity, and execution risks."
+}

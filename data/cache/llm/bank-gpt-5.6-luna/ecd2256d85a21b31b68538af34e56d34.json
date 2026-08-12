@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "no duty to update",
+    "including but not limited to",
+    "potential sources of liquidity"
+  ],
+  "risk_summary": "The excerpt uses extensive standard safe-h harbor language and broad, non-quantified risk disclaimers, which moderately limits transparency around forward-looking expectations. It does provide meaningful segment, revenue, margin, and competitive detail, but highlights pricing pressure, intense competition, order-timing volatility, and macroeconomic exposure. Overall tone is commercially confident but tempered by material operating and disclosure risks."
+}

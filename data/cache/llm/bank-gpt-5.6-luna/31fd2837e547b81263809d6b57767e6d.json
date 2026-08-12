@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.81,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to inherent uncertainties",
+    "no obligation to update",
+    "substantially increase revenues",
+    "continued financing reliance"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and limited concrete discussion of execution risks. The reported $32.98 million net loss, significant operating and investing cash usage, reliance on convertible debt and equity financing, and repeated ATM offerings indicate elevated liquidity and dilution risk. Acquisition-driven growth targets are presented optimistically but without sufficient operating detail or quantified milestones."
+}

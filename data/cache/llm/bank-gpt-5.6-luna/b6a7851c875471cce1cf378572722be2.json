@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance",
+    "factors that could cause actual results to differ materially",
+    "cannot predict all such factors",
+    "significant load volatility"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating detail and clearly explains drivers of earnings, including demand, weather, generation availability, hydro conditions, and power costs. Risk is moderated by exposure to volatile wholesale prices, plant outages, weather and hydro shortfalls, customer concentration, and uncertain demand forecasts, while the results narrative remains modestly positive."
+}

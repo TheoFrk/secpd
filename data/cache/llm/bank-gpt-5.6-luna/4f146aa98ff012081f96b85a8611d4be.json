@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to customary closing conditions",
+    "we believe we have a strong pipeline",
+    "future events and factors may impact",
+    "judgments deemed reasonable by management",
+    "potentially have an impact"
+  ],
+  "risk_summary": "The excerpt is generally confident and growth-oriented, supported by substantial quantified revenue, transaction, and cost information. However, it relies on standard forward-looking language and management assumptions around pipeline performance, acquisitions, impairment testing, and benefit plans, leaving material execution and valuation risks dependent on uncertain future events."
+}

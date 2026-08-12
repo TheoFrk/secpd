@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "certain tax benefits",
+    "all other factors are estimated",
+    "indefinitely reinvested",
+    "foreseeable future"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, showing strong sales, cash balances, and net income growth. Key risks include raw-material shortages, OEM shutdowns, customer inventory adjustments, foreign-currency devaluations, debt-related interest expense, and reliance on subjective stock-compensation assumptions."
+}

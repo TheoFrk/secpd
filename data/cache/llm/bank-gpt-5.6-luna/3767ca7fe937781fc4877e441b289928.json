@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking risk disclaimer",
+    "adequate funding belief",
+    "no guarantee of commercialization",
+    "other risks detailed from time to time",
+    "subject to certain limitations"
+  ],
+  "risk_summary": "The company has no revenue, substantial accumulated losses, negative working capital, significant cash burn, and an auditor-issued going-concern warning. Management relies on uncertain future commercialization and equity financing, including a planned $10 million facility, while acknowledging that funding may be insufficient if revenues are not generated."
+}

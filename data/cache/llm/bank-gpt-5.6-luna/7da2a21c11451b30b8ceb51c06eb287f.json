@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurances as to longer-term success",
+    "subject to market and other conditions",
+    "assuming we do not have access to borrowings",
+    "actual leverage ratio exceeded required ratio"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on debt, maturities, facilities, and covenant mechanics, but relies on standard forward-looking disclaimers and conditional assumptions regarding liquidity. High leverage, the $610 million 2019 senior-note maturity, springing maturity provisions, and an actual leverage ratio above the stated covenant threshold indicate meaningful refinancing and liquidity risk, despite no current revolver borrowings."
+}

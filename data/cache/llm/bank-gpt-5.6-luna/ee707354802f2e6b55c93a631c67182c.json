@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "factors could cause actual results to differ materially",
+    "other factors discussed herein",
+    "management’s judgment",
+    "potential material weaknesses"
+  ],
+  "risk_summary": "The excerpt identifies substantial credit and operating risks, including a subsidiary bankruptcy, recurring losses, working-capital strain, possible accounting-control weaknesses, and covenant default consequences. Although the financing terms and covenant thresholds are quantified, much of the risk disclosure relies on broad boilerplate, unbounded contingencies, and qualitative judgments."
+}

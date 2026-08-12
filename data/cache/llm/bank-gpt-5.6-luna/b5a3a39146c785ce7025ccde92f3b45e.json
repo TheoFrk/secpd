@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "recognized market and technology leader",
+    "sustainable competitive advantages",
+    "subject to valuation of net assets",
+    "evolving business metrics"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and business-description boilerplate, with limited direct discussion of material risks or forward-looking performance. It provides some quantified expense drivers and acquisition consideration, but the passage is truncated and includes potentially relevant signals such as bad debt, litigation, acquisition accounting, and fluctuating tax rates."
+}

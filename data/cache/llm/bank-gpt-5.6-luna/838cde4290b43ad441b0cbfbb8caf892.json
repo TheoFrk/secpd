@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "unable to predict potential effects",
+    "uncertain how long or how severe",
+    "generally mitigate the risk",
+    "expected to improve financial results"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but includes substantial forward-looking uncertainty around inflation, supply-chain disruption, geopolitical conflict, pandemics, customer and supplier concentration, and cost recovery. Elevated debt and reduced earnings indicate meaningful credit risks, partly offset by stated liquidity, contractual pass-through mechanisms, and available credit facilities."
+}

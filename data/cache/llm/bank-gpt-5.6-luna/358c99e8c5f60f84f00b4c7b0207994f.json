@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "material weaknesses",
+    "financial statements should no longer be relied upon",
+    "Adjusted EBITDA limitations",
+    "periodic pricing renegotiations"
+  ],
+  "risk_summary": "The excerpt discloses a significant restatement of prior financial statements, material weaknesses in internal control over financial reporting, and ineffective disclosure controls, indicating elevated reporting and governance risk. It also emphasizes numerous market, pricing, utilization, demand, and competitive uncertainties, while relying on recurring boilerplate caveats around non-GAAP measures. The overall tone is materially negative despite confident descriptions of technology, market position, and operating capabilities."
+}

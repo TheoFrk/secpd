@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP \"As Adjusted\" measures",
+    "underlying business performance",
+    "may need to approximate organic growth",
+    "significant judgment",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure is detailed in defining metrics and adjustments, but emphasizes management-defined non-GAAP measures that exclude recurring restructuring, acquisition, divestiture, and other charges, potentially obscuring GAAP performance. It includes meaningful tax realization and valuation-allowance risks, while the overall tone remains neutral rather than crisis-like."
+}

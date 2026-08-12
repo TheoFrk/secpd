@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "intended to supplement investors’ understanding",
+    "partially offset",
+    "in an effort to",
+    "detailed discussion referred to elsewhere"
+  ],
+  "risk_summary": "The excerpt is generally specific and transparent, with substantial year-over-year quantification of sales, cash flow, leverage, capital expenditures, acquisitions, and share repurchases. Risk is tempered by a sharp increase in the debt-to-capital ratio to 50% and a decline in free cash flow, although management presents operating performance and outlook in a largely positive tone. Boilerplate non-GAAP explanations and cross-references add complexity but do not appear materially evasive."
+}

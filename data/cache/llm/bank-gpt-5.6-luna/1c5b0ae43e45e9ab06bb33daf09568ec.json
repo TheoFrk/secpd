@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks ... include, but are not limited to",
+    "difficult to predict and beyond control",
+    "incomplete cash-flow reconciliation",
+    "expected to grow / we believe"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on cash flows, capital expenditures, feedstock prices, margins, and debt activity, but includes extensive boilerplate risk disclaimers and some incomplete or truncated supporting tables. Risk is elevated by declining petrochemical demand, margin pressure, customer concentration effects, significant expansion spending, and reduced operating cash flow, although management maintains a cautiously confident outlook."
+}

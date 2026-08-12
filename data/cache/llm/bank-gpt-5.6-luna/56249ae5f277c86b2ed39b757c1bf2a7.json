@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "about $725 million",
+    "largely offset",
+    "primarily due to",
+    "proposed asbestos settlement",
+    "substantial monetary damages"
+  ],
+  "risk_summary": "The excerpt is heavily quantified and provides detailed explanations for significant sales and earnings declines, reducing concerns about evasiveness. Risk tone is moderately negative due to the severe recession, broad volume deterioration, restructuring charges, asbestos obligations, and litigation exposure, although cost reductions and pricing actions partially mitigated impacts."
+}

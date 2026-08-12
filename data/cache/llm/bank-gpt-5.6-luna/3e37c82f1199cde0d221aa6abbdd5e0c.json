@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot guarantee future results",
+    "no obligation to update",
+    "subject to risks and uncertainties",
+    "additional regulatory challenges"
+  ],
+  "risk_summary": "The disclosure combines quantified operating data with extensive standard forward-looking disclaimers and qualitative projections. Key risks include declining mortgage origination conditions, restructuring needs, rising compliance costs, heightened regulatory scrutiny, and identified RESPA violations requiring remediation."
+}

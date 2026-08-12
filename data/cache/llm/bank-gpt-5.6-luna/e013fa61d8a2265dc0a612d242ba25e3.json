@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.32,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "cross-reference to external report"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial-condition or operating-results analysis, instead directing readers to another report. This limits transparency and requires reliance on an external document to assess risks and performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "leading-edge technology",
+    "unique value",
+    "significant economies of scale",
+    "mitigates our remarketing risks"
+  ],
+  "risk_summary": "The excerpt uses a strongly promotional and confident tone, emphasizing market leadership, stable contractual revenue, and operational advantages. Although it includes some contract durations, fleet counts, and quantified segment results, many benefits are asserted through broad, non-verifiable language and downside risks receive limited attention. The truncated text also limits assessment of the full risk discussion."
+}

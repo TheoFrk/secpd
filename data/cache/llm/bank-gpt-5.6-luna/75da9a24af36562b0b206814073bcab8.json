@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "all references ... are estimates",
+    "we believe",
+    "can be affected by",
+    "various factors involved",
+    "adjusted results"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue declines, restructuring costs, expected savings, currency, commodity, and channel-inventory exposure. Risk tone is moderately negative due to weakened demand, deferred customer spending, foreign-exchange pressure, and reliance on estimates, although management presents specific mitigation actions and savings targets."
+}

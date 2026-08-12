@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "inherently uncertain and outside our control",
+    "among others",
+    "may differ, possibly materially",
+    "timing, costs, profitability and other aspects"
+  ],
+  "risk_summary": "The excerpt presents strong quantified 2020 performance and capital ratios, supporting a moderately confident tone. However, elevated litigation provisions, credit-loss provisions, COVID-19 exposure and extensive forward-looking disclaimers indicate material uncertainty and downside sensitivity. The disclosure is technically detailed but includes substantial boilerplate and broad, non-quantified risk qualifiers."
+}

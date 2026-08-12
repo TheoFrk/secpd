@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to exception",
+    "as necessary and appropriate",
+    "changing or emerging risks",
+    "unforeseen threats",
+    "few exceptions"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative detail on portfolio concentration, underwriting limits, stress testing, and earnings, but relies substantially on standard banking risk language and broad macroeconomic caveats. Concentration in commercial real estate and construction lending creates material sensitivity to property values, borrower cash flow, interest rates, and economic deterioration; policy waivers and qualitative reserves introduce additional uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "actual results may differ",
+    "ability to generate profits remains uncertain",
+    "continued investment in new technologies",
+    "related-party transactions"
+  ],
+  "risk_summary": "The disclosure is quantitatively informative on revenue decline, operating losses, cash burn, and lease obligations, but includes substantial boilerplate forward-looking disclaimers and promotional language. Risk tone is moderately negative because of recurring losses, declining legacy revenue, competitive pressure, and uncertain future profitability. Related-party arrangements and continued investment requirements add governance and liquidity risk."
+}

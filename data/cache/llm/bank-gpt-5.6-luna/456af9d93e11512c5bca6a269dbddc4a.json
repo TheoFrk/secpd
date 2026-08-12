@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "business outlook remains positive",
+    "we believe",
+    "expected to grow",
+    "cautionary forward-looking statements",
+    "revision of previously issued financial statements"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating outlook supported by detailed revenue, volume, margin, acquisition, and geographic metrics. Credit-relevant risks include a prior deferred-tax accounting error, government and class-action settlements, acquisition funding through cash and revolver borrowings, and reliance on favorable Medicare and demographic trends. Boilerplate forward-looking language and repeated strategic descriptions moderately limit transparency but do not materially obscure the quantified results."
+}

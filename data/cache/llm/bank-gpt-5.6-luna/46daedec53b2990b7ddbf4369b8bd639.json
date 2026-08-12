@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "subject to obtaining 510(k) clearance",
+    "revenues can be generated shortly",
+    "may need to raise additional capital",
+    "cannot assure financing will be available",
+    "substantial doubt as a going concern"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and business-continuity risk, including an auditor’s going-concern opinion, minimal revenue, recurring losses, and dependence on uncommitted external financing. The operating plan is contingent on FDA 510(k) clearance, which has not yet been obtained, and management provides no firm funding or commercialization timeline."
+}

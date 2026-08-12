@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "strategic alternatives",
+    "market in secular decline",
+    "anticipated operating requirements",
+    "best estimate of selling price"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative information on revenue, liquidity, cash distribution, headcount, and product-market conditions, but relies substantially on standard forward-looking disclaimers and accounting-policy boilerplate. Risk tone is materially negative, citing a secularly declining core market, customer concentration, intense competition, delayed product acceptance, absent revenue from the new solution, workforce reductions, and pursuit of strategic alternatives. Liquidity is presented as sufficient after the large special distribution, though future operating needs and st…"
+}

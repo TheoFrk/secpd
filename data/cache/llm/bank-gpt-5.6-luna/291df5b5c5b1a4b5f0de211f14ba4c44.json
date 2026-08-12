@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "numerous important factors, risks and uncertainties",
+    "do not assume any obligation to update",
+    "simple-to-use and innovative solutions",
+    "strategic acquisitions and investments"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking-statement disclaimers and promotional descriptions, which reduce transparency around prospective risks. It provides some useful quantitative detail on acquisitions, revenue mix, taxes, foreign exchange and interest expense, but the truncated presentation limits assessment of underlying operating risks. Overall tone is mildly positive, with material uncertainty emphasized through standard legal disclaimers."
+}

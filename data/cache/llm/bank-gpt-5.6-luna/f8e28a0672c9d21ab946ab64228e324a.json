@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "does not disclose quantitative information",
+    "subject to significant risks",
+    "could have a significant effect",
+    "actual results could differ",
+    "sales milestones ranging from $0 to an unlimited amount"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including geographic exposure, liquidity, acquisition costs, impairments, restructuring charges, and contingent consideration. Risk tone is mixed: strong liquidity and diversified operations are offset by goodwill and IPR&D impairments, restructuring execution risks, currency and government-spending exposure, tax uncertainty, and a prior FCPA matter. Some product-level and forward-looking information remains generalized or qualified."
+}

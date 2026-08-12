@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "significant growth potential",
+    "no assurance financing will be available",
+    "anti-dilutive financing claims",
+    "substantial doubt about going concern"
+  ],
+  "risk_summary": "The disclosure combines highly promotional projections about growth, financing, listing prospects, and cash flow with limited supporting quantification, while reporting increased net losses and derivative-related volatility. The auditor’s substantial doubt regarding going-concern status and reliance on uncertain debt or equity financing indicate material liquidity and execution risk."
+}

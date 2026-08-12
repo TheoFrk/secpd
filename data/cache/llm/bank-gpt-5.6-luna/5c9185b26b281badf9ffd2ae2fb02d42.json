@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could cause actual results to differ materially",
+    "currently evaluating the impact",
+    "preliminary assessment",
+    "ability to obtain additional financing"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate risk-factor language, including customer concentration, working-capital strain, financing and covenant risks, accounting-control weaknesses, and competitive pressures. Several accounting impacts remain under evaluation, limiting precision, although some operating and balance-sheet information is quantified. Overall, the tone is cautious rather than crisis-like, with a modestly negative risk orientation."
+}

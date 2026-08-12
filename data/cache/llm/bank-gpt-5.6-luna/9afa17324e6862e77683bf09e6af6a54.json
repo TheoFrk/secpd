@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ",
+    "believed to be reasonable",
+    "reasonably possible",
+    "full valuation allowance"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified regarding segment exposure, acquisitions, divestiture proceeds, and tax positions, but includes standard forward-looking disclaimers and estimation caveats. Risk tone is moderately cautious due to semiconductor cyclicality, reliance on assumptions, full deferred-tax valuation allowance, and potential variability in contract estimates."
+}

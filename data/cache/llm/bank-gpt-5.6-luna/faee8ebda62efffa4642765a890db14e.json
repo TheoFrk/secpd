@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "including but not limited to",
+    "inherent uncertainties",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad, non-quantified lists of legal, regulatory, integration, pricing, product, and operational risks. Although it reports several quantified sales increases and presents a confident strategic overview, the overall disclosure is complex and risk-neutral, with limited prioritization or quantification of downside exposures."
+}

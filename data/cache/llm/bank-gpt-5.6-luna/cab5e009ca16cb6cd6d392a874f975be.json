@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance actual results",
+    "materially different",
+    "we believe",
+    "conditional obligations not included"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and segment data, but includes extensive standard forward-looking disclaimers and reliance on management beliefs regarding market recovery, sales trends, and future performance. Risk tone is mixed: revenue and earnings improved, while seasonal concentration, a soft boating market, economic uncertainty, website transition impacts, and potential store optimization pressures remain material risks."
+}

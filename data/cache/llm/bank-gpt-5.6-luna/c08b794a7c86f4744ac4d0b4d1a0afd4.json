@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "leading-edge technology",
+    "unique value",
+    "maximum utilization",
+    "for the foreseeable future"
+  ],
+  "risk_summary": "The excerpt is strongly promotional and relies heavily on management assertions about competitive advantages, stability, and risk mitigation, with limited quantified support for several claims. Although it provides useful fleet and contract detail, it largely emphasizes strengths while providing little discussion of downside scenarios, concentration, execution, or market risks."
+}

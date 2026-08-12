@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to close subject to customary approvals",
+    "reported as discontinued operations",
+    "fair value and credit-spread effects",
+    "results were impacted by",
+    "including gains and losses related to"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively specific, but its dense segment structure and extensive discontinued-operations presentation complicate comparability. It describes improving markets while highlighting material credit-spread losses, elevated unemployment, challenged real estate conditions, and volatile trading results. Overall risk tone is cautiously negative but not crisis-like, reflecting recovery alongside substantial residual market and credit risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could continue to adversely impact",
+    "effect will depend on ability to mitigate",
+    "highly uncertain and cannot be predicted",
+    "at least the next twelve months and thereafter",
+    "broad macroeconomic trend references"
+  ],
+  "risk_summary": "The disclosure identifies material exposure to foreign exchange, supply-chain disruption, inflation, labor shortages, COVID-19 restrictions, geopolitical conflict, and construction-cycle volatility. Some mitigation actions and savings targets are quantified, but the magnitude and duration of adverse impacts remain broadly conditional and difficult to predict. Liquidity is presented as adequate, although future financing could increase interest expense or dilute earnings."
+}

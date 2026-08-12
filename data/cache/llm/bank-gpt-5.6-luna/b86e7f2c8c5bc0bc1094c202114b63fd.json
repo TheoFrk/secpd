@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks",
+    "cannot assure you",
+    "management estimates and judgments",
+    "non-GAAP net loss exclusions"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and broad, unquantified references to uncertainties, limiting visibility into forward performance. Risk is elevated by substantial non-GAAP net losses, reliance on subjective revenue-recognition and tax estimates, and excluded investigation, restatement, litigation, and acquisition-related costs."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.2,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "may continue to impact",
+    "uncertain whether a sustainable recovery",
+    "non-GAAP measures",
+    "investments may not deliver expected results"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including revenue trends, cash balances, currency effects, debt repayment, and 2011 growth expectations. Risk is moderate: results remain exposed to macroeconomic uncertainty, large-customer concentration, currency volatility, long sales cycles, and execution risk. The tone is cautiously optimistic but relies on forward-looking assumptions and non-GAAP performance measures."
+}

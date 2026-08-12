@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "pro forma financial information",
+    "non-GAAP financial measures",
+    "primarily driven by",
+    "partially offset",
+    "reasonable estimate"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent regarding merger costs, restructuring expenditures, tax impacts, segment performance, and savings. Operating risk is moderate, reflected in declining 2017 net sales, unfavorable volume/mix, distribution losses, and commodity-cost pressure, though profitability improved through integration savings and lower overhead. Extensive pro forma and non-GAAP adjustments complicate comparability and may obscure underlying performance."
+}

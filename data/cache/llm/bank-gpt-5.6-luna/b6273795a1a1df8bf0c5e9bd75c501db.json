@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "Non-GAAP adjustments for special items",
+    "believe this will ultimately drive",
+    "focused on improving efficiency",
+    "primarily resulting from",
+    "modified liquidity level requirement"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but emphasizes adjusted results and forward-looking efficiency initiatives that could soften the presentation of reported losses. Key risks include a 12% staffing revenue decline, operating losses, impairments, restructuring, asset disposals, and relaxed financing covenants accompanied by higher borrowing costs. Management’s tone is cautiously optimistic despite material operating and liquidity pressures."
+}

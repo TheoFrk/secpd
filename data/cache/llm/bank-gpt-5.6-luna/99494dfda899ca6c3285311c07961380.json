@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "if approved by the FDA",
+    "expected to be accretive",
+    "significant opportunity",
+    "long-term growth strategies",
+    "cannot be fairly predicted"
+  ],
+  "risk_summary": "The excerpt provides useful revenue, R&D spending, employee, and pipeline figures, but relies heavily on promotional strategy language and repeated references to growth and synergies. Material uncertainty remains around regulatory approvals, commercialization, reimbursement, profitability, and acquisition outcomes, with limited quantification of these risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily comprised of",
+    "approximately 4% of net sales",
+    "when appropriate",
+    "excluding the impact of",
+    "continued cost management"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with year-over-year metrics, tax-rate reconciliations, pension funding data, and lease obligations. Risk is moderated by improving margins and sales growth, but pension underfunding, foreign-exchange exposure, acquisition effects, and non-comparable items remain relevant credit considerations. Some boilerplate and adjusted measures modestly reduce comparability."
+}

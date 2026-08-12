@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly competitive and subject to numerous regulations",
+    "could result in major changes",
+    "potential negative impact",
+    "we believe",
+    "results attributed to"
+  ],
+  "risk_summary": "The excerpt is generally confident and supported by substantial quantitative disclosure, including sales, cash generation, acquisitions, divestitures, and productivity targets. It nevertheless highlights material industry risks from generic competition, pricing controls, regulatory delays, manufacturing complexity, and healthcare-policy changes, with some causal explanations remaining incomplete or vague due to truncated tables and attribution statements."
+}

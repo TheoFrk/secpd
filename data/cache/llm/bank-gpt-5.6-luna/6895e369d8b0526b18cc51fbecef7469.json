@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial progress",
+    "we believe",
+    "anticipated proceeding",
+    "potential commercial operations",
+    "substantial doubt about ability to continue"
+  ],
+  "risk_summary": "The excerpt combines promotional descriptions of development and regulatory progress with limited quantitative operating evidence and frequent qualifiers. The most material risk is the explicit going-concern warning: recurring losses, no established revenue source, dependence on financing, and substantial doubt about continued operations."
+}

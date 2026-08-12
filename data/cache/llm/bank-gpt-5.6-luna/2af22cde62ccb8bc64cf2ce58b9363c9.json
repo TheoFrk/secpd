@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily attributed to",
+    "to a lesser extent",
+    "management is currently evaluating",
+    "contractual arrangements with VIE",
+    "forward-looking information"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data and year-over-year comparisons, but relies on broad causal explanations and includes extensive accounting and regulatory boilerplate. The company remains exposed to operating losses, content licensing commitments, partner/channel concentration, derivative-liability volatility, and complexities surrounding VIE consolidation and Chinese operations."
+}

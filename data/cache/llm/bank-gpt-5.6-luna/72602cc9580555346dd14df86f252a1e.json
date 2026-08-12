@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "many factors including but not limited to",
+    "significant judgment and estimates",
+    "beyond our control",
+    "materially different in the future"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains substantial boilerplate risk disclaimers, while providing some useful segment revenue percentages and accounting-policy detail. Key exposures include subjective revenue recognition, fair-value and performance assumptions, seasonality, leverage constraints, and potentially material changes from revised estimates. Overall tone is promotional and neutral-to-cautious rather than crisis-like, but the excerpt is truncated and does not quantify several downside scenarios."
+}

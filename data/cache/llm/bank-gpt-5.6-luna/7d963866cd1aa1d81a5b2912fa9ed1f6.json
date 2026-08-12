@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "length and severity ... are uncertain",
+    "primarily due to",
+    "partially offset by",
+    "estimated liability associated with lawsuits",
+    "non-GAAP reconciling items"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent about major exposures, particularly opioid litigation, COVID-19 impacts, inventory reserves, and tax benefits. Risk tone is materially negative because litigation charges drove a sharp swing from prior-year GAAP operating loss, although operating performance, liquidity, and mitigation actions are presented constructively. Dense accounting reconciliations and repeated cross-references make the disclosure harder to interpret but do not appear deliberately evasive."
+}

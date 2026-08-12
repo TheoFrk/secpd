@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance that these improvements will be obtained",
+    "we believe that we bring a unique value proposition",
+    "depend significantly on economic conditions",
+    "amount and timing ... will depend upon several factors",
+    "non-GAAP measures ... susceptible to varying calculations"
+  ],
+  "risk_summary": "The excerpt is substantially quantified regarding acquisitions, debt issuance, share repurchases, physician networks, and targeted cost improvements, limiting overall vagueness. Risk exposure exists from reimbursement shifts, weaker economic conditions, patient bad debt, execution uncertainty around operational initiatives, leverage, and reliance on non-GAAP measures, while the overall management tone remains moderately confident."
+}

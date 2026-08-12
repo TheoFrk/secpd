@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "actual results may differ materially",
+    "additional funding when needed",
+    "historical information may not reflect future results",
+    "truncated clinical trial expense disclosure"
+  ],
+  "risk_summary": "The excerpt relies substantially on standard forward-looking disclaimers and generalized statements about estimates, future performance, and funding needs. It reports significant cash burn and dependence on equity and debt financing while key clinical, liquidity, and operating details are incomplete or truncated. The development pipeline offers potential upside, but regulatory, clinical, commercialization, and financing risks remain substantial."
+}

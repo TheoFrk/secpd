@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "complex judgments and estimates",
+    "actual results could differ",
+    "more likely than not",
+    "may need to modify its judgment",
+    "continue to challenge"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with quantified earnings, tax effects, provisions, and interest-income changes, but relies on standard estimation disclaimers and forward-looking economic assumptions. Credit risk appears contained based on stable allowance coverage and favorable charge-off history, although a commercial-loan downgrade, intense lending competition, and a flattening yield curve present identifiable risks."
+}

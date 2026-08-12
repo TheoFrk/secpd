@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we anticipate",
+    "we believe",
+    "estimated",
+    "could potentially be significant",
+    "subject to review"
+  ],
+  "risk_summary": "The excerpt presents severe industry and company-specific stress, including depressed offshore drilling markets, oversupply, declining utilization and dayrates, customer contract termination, and a Chapter 11 bankruptcy filing. Although many operating and financing impacts are quantified, forward-looking statements rely on estimates and conditional language, and the excerpt is truncated near liquidity and impairment disclosures."
+}

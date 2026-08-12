@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may experience material adverse impacts",
+    "we believe",
+    "best estimated selling price",
+    "unable to reliably determine",
+    "future technologies"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosure on losses, accumulated deficit, cash, borrowings, and availability, but emphasizes broad product claims and relies heavily on estimates and conditional language. Significant risks include persistent operating losses, negative operating cash flow, dependence on financing and borrowing capacity, and subjective revenue-allocation judgments."
+}

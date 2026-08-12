@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Non-GAAP exclusions and special items",
+    "constant currency adjustments",
+    "management believes",
+    "highly contingent on many factors",
+    "qualitative impairment assessment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, operating income, segment performance, and impairment assumptions, supporting relatively transparent disclosure. However, extensive non-GAAP adjustments, broad exclusions, and heavily qualified statements may make underlying performance and comparability harder to assess. The risk tone is cautiously constructive, reflecting recovery from COVID-19 disruption while acknowledging macroeconomic, regulatory, talent availability, and impairment risks."
+}

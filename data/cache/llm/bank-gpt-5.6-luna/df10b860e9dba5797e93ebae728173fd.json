@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.5,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "financial statement restatement",
+    "significant future benefit",
+    "excellent return on investment",
+    "forward-looking statements",
+    "estimates may require adjustment"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains operating drivers, liquidity, and major cost changes, but the financial statement restatement and related legal and accounting costs are significant risk signals. The 2013 initiatives are framed optimistically despite acknowledged startup costs, lower initial margins, and uncertain future benefits. Liquidity appears comparatively strong, with no fiscal-year-end debt and available borrowing capacity."
+}

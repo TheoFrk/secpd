@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to numerous risks",
+    "non-GAAP measure",
+    "consolidation adjustments",
+    "Legacy CLO and CDO runoff",
+    "Explanatory Notes placeholders"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed AUM, revenue, earnings, debt, and product information, but relies on standard forward-looking-risk disclaimers and complex consolidation/non-GAAP presentations. Operating performance weakened, with GAAP net income and revenues declining and legacy CLO/CDO runoff continuing, although management emphasizes record CLO issuance, liquidity, debt reduction, and platform diversification."
+}

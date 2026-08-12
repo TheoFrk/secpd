@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "uncertain economic environment",
+    "we believe",
+    "customary closing conditions",
+    "Adjusted EBITDA non-comparability",
+    "source of repayment is realization of assets"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, reporting revenue, expense, fleet, debt, and operating-statistic changes. Risk is concentrated in macroeconomic weakness, European demand, vehicle residual values, market volatility, acquisition execution, and substantial vehicle-program borrowings, while management maintains a moderately constructive outlook."
+}

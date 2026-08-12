@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "performance-based criteria",
+    "estimates of costs and timing",
+    "non-GAAP measures defined differently"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes meaningful revenue mix percentages and descriptions of billing and recognition practices. Key risks include revenue volatility from performance-based fees, utilization and seasonality, client concentration of engagements, and reliance on estimates; extensive standard disclaimers and non-GAAP caveats modestly reduce clarity."
+}

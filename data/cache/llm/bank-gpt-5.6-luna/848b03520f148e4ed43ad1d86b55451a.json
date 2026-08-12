@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.86,
+  "obfuscation_indicators": [
+    "long-term growth opportunities",
+    "we believe",
+    "seek to achieve",
+    "additional growth opportunities",
+    "order delays"
+  ],
+  "risk_summary": "The excerpt has a predominantly confident, promotional tone and provides several useful quantitative targets and operating metrics. However, much of the overview relies on broad strategic claims and forward-looking expectations, while a 7% backlog decline and increased order delays indicate emerging demand risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "restated for errors identified in prior filings",
+    "significantly affects comparability",
+    "believe these practices are consistent with industry practice",
+    "unlikely contingent consideration",
+    "indebtedness obtained to finance acquisitions"
+  ],
+  "risk_summary": "The excerpt reports strong revenue and gross-profit growth, but comparability is impaired by multiple acquisitions and a restatement of prior filings. Elevated acquisition-related debt, aggressive customer incentives near quarter-end, and reliance on optimistic or qualitative judgments introduce credit and reporting risks."
+}

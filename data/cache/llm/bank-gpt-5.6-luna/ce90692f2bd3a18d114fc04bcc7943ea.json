@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "management judgment",
+    "possibility of materially different results",
+    "qualitative adjustments",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail on loan-loss reserves, MSRs, servicing volume, and income trends, but relies heavily on standard forward-looking disclaimers and management assumptions. Risk tone is mixed: profitability and asset quality improved somewhat, while elevated non-performing loans, foreclosed properties, real estate exposure, and potential reserve adjustments remain material concerns."
+}

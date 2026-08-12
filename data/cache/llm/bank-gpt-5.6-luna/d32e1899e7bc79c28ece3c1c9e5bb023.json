@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "not disclosed comparable sales",
+    "ongoing and evolving economic impact",
+    "certain accounting estimates and judgments",
+    "certain loss contingencies",
+    "precautionary measure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, reporting sales, margins, liquidity actions, borrowings, capital expenditures, and repurchases. Risk tone is cautiously positive due to substantial operational recovery, but residual pandemic effects, legal contingencies, accounting-estimate uncertainty, and outstanding debt remain relevant. The excerpt contains some boilerplate pandemic language and omits comparable-sales data, limiting comparability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to predict the full impact",
+    "we believe",
+    "potentially replace",
+    "continue to look for additional areas",
+    "as described below"
+  ],
+  "risk_summary": "The excerpt provides substantial operational, ownership, transaction, and debt quantification, but contains extensive boilerplate and forward-looking strategic language. Key risks include regulatory uncertainty, reimbursement reductions, uninsured-volume exposure, restructuring needs, and significant refinancing obligations, partially offset by a confident tone around cost savings and ambulatory growth."
+}

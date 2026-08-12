@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ from these estimates",
+    "factors we believe appropriate",
+    "generally mitigate the risk",
+    "may be adjusted for items",
+    "table and disclosure truncated"
+  ],
+  "risk_summary": "The excerpt provides several quantified exposures, including customer and supplier concentration, contract mix, backlog, projected cash flow, and capital spending. However, it relies substantially on standard estimates-and-uncertainties language and presents risks alongside optimistic growth and mitigation claims; the truncated adjusted-measures table limits full assessment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "actual results may differ",
+    "may render predictions difficult",
+    "primarily due to",
+    "significant percentage of revenue"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating narrative with substantial quantitative disclosure on revenue mix, cash, receivables, allowances, and operating cash flow. Risk factors include foreign exchange exposure, seasonality, government spending dependence, customer collectability, and estimation uncertainty, though these are framed as manageable and largely lack quantified sensitivity analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "actual results may differ",
+    "non-U.S. GAAP measures",
+    "major customer concentration",
+    "fixed-price contract exposure"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and liquidity detail, including backlog, contract mix, capacity actions, debt compliance, and free cash flow definitions. Key risks include reliance on estimates, customer concentration, mature or declining North American volumes, international execution, and increasing fixed-price aerospace contract exposure. The tone is generally confident and growth-oriented but includes standard cautionary and non-GAAP disclosures."
+}

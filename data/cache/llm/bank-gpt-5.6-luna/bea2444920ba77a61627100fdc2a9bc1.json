@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.65,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to other sections",
+    "no quantitative disclosure",
+    "broad section enumeration",
+    "boilerplate navigation language"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and directs the reader to multiple other sections. Its broad cross-reference and lack of quantification limit standalone transparency and hinder direct assessment of credit risk."
+}

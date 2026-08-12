@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "material restatement",
+    "improper interpretation",
+    "extended timeframe",
+    "no hedging activities"
+  ],
+  "risk_summary": "The excerpt discloses a material revenue-recognition restatement, including a 15% reduction in 2013 revenue, a substantial increase in deferred revenue, and a $3.4 million increase in net loss. Although mobile and security revenue grew, the legacy landline business declined sharply and the company remains exposed to euro-dollar translation volatility without hedging."
+}

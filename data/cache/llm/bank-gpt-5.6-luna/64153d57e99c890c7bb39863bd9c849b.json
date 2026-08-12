@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including, without limitation",
+    "expect continued revenue growth",
+    "non-GAAP adjusted EBITDA exclusions",
+    "improving clarity around access to capital"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive recovery narrative, supported by quantified revenue growth, debt repayment, liquidity actions, and disclosed acquisitions. However, it contains substantial standard forward-looking disclaimers, pandemic-related uncertainty, segment restructuring, and extensive non-GAAP adjustment language that may limit comparability and obscure underlying performance. Liquidity appears adequate based on the described cash flows and debt reduction, but continued growth and operational benefits remain partly prospective."
+}

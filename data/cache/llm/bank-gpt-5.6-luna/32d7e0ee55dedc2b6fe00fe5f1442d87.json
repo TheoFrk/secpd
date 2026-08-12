@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "among other things",
+    "intended to improve",
+    "the Company believes",
+    "excluding the effects of refranchising",
+    "not add to totals due to rounding"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear year-over-year revenue, margin, sales-channel, and litigation figures. Risks include rising input costs, convenience-store customer losses, declining channel metrics, product-return exposure, and legal claims, although management presents mitigation initiatives and improving profitability. Missing tables and truncated text limit full assessment of underlying trends and reconciliations."
+}

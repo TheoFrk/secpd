@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "items impacting comparability",
+    "not intended to be a complete list",
+    "non-U.S. GAAP financial measures",
+    "solely for the purpose of complying with SEC Regulation G"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed reconciliations, earnings comparisons, and loan growth data, supporting relatively strong disclosure quality. However, extensive non-GAAP framing and management discretion over comparability items may complicate interpretation and make underlying performance less transparent. The overall tone is mildly positive, reflecting improved 2024 earnings and loan growth, without an evident crisis signal."
+}

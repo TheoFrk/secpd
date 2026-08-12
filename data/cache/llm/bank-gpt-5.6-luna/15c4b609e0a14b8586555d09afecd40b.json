@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "significant uncertainty",
+    "difficult to forecast",
+    "including but not limited to",
+    "leading position claims"
+  ],
+  "risk_summary": "The excerpt combines extensive boilerplate safe-harbor language and broad qualitative claims with limited quantified exposure or sensitivity analysis. COVID-19, demand cyclicality, raw-material volatility, pricing pressure, supply disruptions, and customer payment risk are identified, but their potential financial magnitude is not quantified. Overall tone is moderately confident regarding market position and growth opportunities, tempered by material uncertainty."
+}

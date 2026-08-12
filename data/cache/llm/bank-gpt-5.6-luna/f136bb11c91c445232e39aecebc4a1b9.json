@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "undertake no obligation to update",
+    "subject to further guidance",
+    "primarily due to",
+    "various opportunities as they arise"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and identifies material deterioration, including a 13.1% sales decline, lower gross margin, increased net loss, goodwill impairment, and reduced operating cash flow. Liquidity language is moderately reassuring but relies on anticipated operating cash flows and available financing, while extensive safe-harbor and accounting-policy boilerplate limits forward-looking accountability."
+}

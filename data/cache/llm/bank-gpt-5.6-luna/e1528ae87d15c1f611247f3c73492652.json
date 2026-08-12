@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could experience shifts",
+    "could have a material adverse effect",
+    "cannot predict",
+    "forward-looking statements",
+    "non-GAAP measures not comparable"
+  ],
+  "risk_summary": "The excerpt is relatively specific and quantitatively discloses practice exits, impairments, disposal losses, and operating losses, but includes substantial regulatory and forward-looking uncertainty. Risk tone is moderately negative, reflecting restructuring, reimbursement pressure, bad-debt exposure, and potential adverse effects from surprise-billing rules. Boilerplate is present but not dominant; the discussion is technically dense and legally qualified."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results may differ substantially",
+    "likely to have an impact",
+    "significant judgment is required",
+    "indefinitely invested outside the United States"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively informative, describing segment revenue concentrations, manufacturing dependencies, tax valuation allowances, and undistributed foreign earnings. Risk is moderated by substantial reliance on estimates, uncertain future realizability of tax assets, third-party suppliers, and forward-looking language. Overall tone is operationally confident but includes meaningful contingent and execution risks."
+}

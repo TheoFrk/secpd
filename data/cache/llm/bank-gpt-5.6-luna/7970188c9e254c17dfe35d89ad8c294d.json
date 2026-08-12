@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cautiously optimistic",
+    "we believe",
+    "expect this trend to continue",
+    "strong balance sheet",
+    "highest in the markets we serve"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively supported, with detailed revenue, margin, cash, debt repayment, and segment information. Risk factors include financial-institution failures, consolidation, regulatory changes, constrained customer spending, and reliance on recurring transaction and outsourcing revenues. The overall tone is positive but qualified by cautious economic expectations and customer-industry weakness."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict full impact",
+    "it is possible that",
+    "could have a material impact",
+    "continued generic erosion",
+    "specified items and non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, EPS, product erosion, regulatory milestones, and pricing exposure, but frequently qualifies the potential effects of policy and litigation developments. Key risks include generic competition, government price controls, reimbursement pressure, tax changes, and acquisition-related charges, partly offset by product approvals and portfolio growth."
+}

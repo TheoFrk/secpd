@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to accurately predict",
+    "anticipates improvement",
+    "if general economic conditions remain weak",
+    "constant currency adjustments",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but uses standard forward-looking caveats and optimistic assumptions regarding 2017 improvement despite declining revenue, EBITDA, and operating performance in certain markets. Impairment exposure, foreign-exchange sensitivity, Brexit uncertainty, and divestiture effects represent meaningful risks, while constant-currency and discontinued-operations adjustments complicate comparability."
+}

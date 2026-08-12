@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "could be material",
+    "best estimate",
+    "based upon historical trends",
+    "if material"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, particularly regarding geographic concentration, cash flows, reserves, and investment activity. Key risks center on self-insured workers’ compensation liabilities, actuarial estimation uncertainty, regional concentration, and potential material reserve adjustments, although the tone is predominantly routine and moderately confident."
+}

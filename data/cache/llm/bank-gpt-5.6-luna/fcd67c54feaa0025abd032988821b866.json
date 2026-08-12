@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "believes it is on track",
+    "subject to market conditions",
+    "could be paid in contingent payments",
+    "continued significant fluctuations"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent on acquisitions, liquidity, ratings, supplier disruptions, inflation, foreign exchange, and unrecovered costs. Risk tone is mixed: operational and macroeconomic pressures are acknowledged, while management remains confident in electrification targets and liquidity, supported by stable ratings and unused borrowing capacity. The truncated outlook limits assessment of forward-looking risks and assumptions."
+}

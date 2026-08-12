@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures exclude recurring-impact items",
+    "transformation strategy costs",
+    "legal contingencies and expenses",
+    "mark-to-market volatility adjustments",
+    "activity-based expense allocation estimates"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial detail on pension losses, legal costs, restructuring charges, currency effects, and allocation estimates. However, extensive non-GAAP adjustments and repeated boilerplate may present a more favorable view of recurring performance while reducing comparability with GAAP and peers. Overall risk tone is mixed: operating performance appears stable, but pension, legal, restructuring, fuel, and estimation risks are material."
+}

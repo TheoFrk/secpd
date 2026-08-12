@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "could adversely affect",
+    "among others",
+    "may not be able to",
+    "refer to Risk Factors"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed revenue, cost, liquidity, and cash-flow information. Its tone is moderately optimistic but acknowledges material risks involving consumer demand, growth execution, competition, supply-chain disruption, commodity costs, and access to capital. Some forward-looking statements rely on broad expectations and recurring risk-factor cross-references."
+}

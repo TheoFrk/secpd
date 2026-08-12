@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "customary conditions",
+    "subject to certain materiality exceptions",
+    "reasonable best efforts",
+    "under specified circumstances",
+    "certain exceptions"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and informative, reporting merchant counts, processing volumes, growth, attrition, and transaction terms. Risk is mainly associated with merger closing conditions, termination rights and fees, merchant attrition, credit-risk-driven account closures, and exposure to petroleum-sector volumes. Legal boilerplate and extensive nested merger language increase complexity but do not appear materially evasive."
+}

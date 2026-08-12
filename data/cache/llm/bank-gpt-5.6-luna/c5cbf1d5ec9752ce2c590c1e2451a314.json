@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks",
+    "restated financial statements",
+    "not current with SEC filings",
+    "Nasdaq delisting"
+  ],
+  "risk_summary": "The excerpt discloses substantial reporting, control, liquidity, and operational risks, including a major restatement, delinquent SEC filings, Nasdaq suspension and delisting, store closures, workforce furloughs, and limited access to government financing. Although many facts are quantified, extensive legal disclaimers and forward-looking caveats reduce specificity regarding the ultimate financial impact and remediation outcome."
+}

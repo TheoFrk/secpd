@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "forward-looking statements",
+    "certain other charges",
+    "other considerations",
+    "underlying operating performance"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and reports revenue, margins, earnings, cash flow, debt-related funding, and repurchases, supporting relatively transparent disclosure. However, extensive non-GAAP measures exclude recurring or potentially material costs, while forward-looking safe-harbor language and broad qualifiers reduce comparability and clarity. The overall tone is confident and operationally positive, tempered by supply-chain inefficiencies, inflation, unfavorable foreign exchange, increased inventory, and lower free cash flow."
+}

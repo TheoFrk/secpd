@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "plan to continue",
+    "could impact our results",
+    "among others",
+    "may not be able"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed operating definitions, but repeats growth-oriented boilerplate and relies on forward-looking, conditional language. Risk tone is mildly negative because North American retail disruption challenged growth and 2017 operating income was expected to decline, with additional exposure to consumer demand, competition, supply chain, and execution risks."
+}

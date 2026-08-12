@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no guarantee of debt financing",
+    "normal operating requirements",
+    "discretionary investment activities",
+    "non-GAAP measures",
+    "off-balance sheet risk"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights declining revenue, restructuring activity, suspended dividends, and reliance on refinancing and receivables facilities. Liquidity appears adequate based on reported cash and available revolver capacity, although access to future financing and recovery of contract investments remain conditional risks."
+}

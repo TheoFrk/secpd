@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we anticipate",
+    "should operate at optimal levels",
+    "significant growth",
+    "meaningful indicator",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed segment, margin, volume, acquisition, and benchmark data, limiting material vagueness. The tone is generally confident and constructive, though declining fuel margins, lower capture rates, maintenance-cycle assumptions, acquisition integration, and reliance on non-GAAP metrics present meaningful credit risks."
+}

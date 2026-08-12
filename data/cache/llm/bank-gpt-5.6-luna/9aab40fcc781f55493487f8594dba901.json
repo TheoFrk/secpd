@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.14,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could have a material impact",
+    "not possible to determine fully",
+    "various uncertainties",
+    "reasonably possible environmental loss"
+  ],
+  "risk_summary": "The excerpt reports strong revenue and earnings growth with quantified operating metrics, but relies heavily on judgmental assumptions for impairment, taxes, and environmental liabilities. Environmental and valuation exposures are acknowledged, while the potential magnitude and timing of adverse outcomes remain largely unquantified."
+}

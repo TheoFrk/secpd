@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be assured",
+    "at least the next 12 months",
+    "materially adversely affected",
+    "may have to cease operations",
+    "in negotiations to defer lease payments"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but indicates severe operating deterioration, including a 93% revenue decline, negative working capital of $1.1 million, continuing negative internal cash flow, employee furloughs, vendor payment deferrals, and reliance on external financing. Management states that more than $5 million of additional funding may be required and warns that failure to raise capital could force cessation of operations. Future commercialization, regulatory clearance, and funding outcomes remain highly uncertain."
+}

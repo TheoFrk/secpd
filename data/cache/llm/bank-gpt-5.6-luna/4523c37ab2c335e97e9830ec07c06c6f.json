@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "future events could cause",
+    "no assurance",
+    "expected to be funded",
+    "reasonably certain"
+  ],
+  "risk_summary": "The excerpt presents strong liquidity, operating cash flow, revenue growth, and a generally confident outlook. However, it relies heavily on standard accounting-policy boilerplate and management estimates, with limited quantified sensitivity around returns, impairment, taxes, leases, and future cash requirements. Dividend continuity and future funding are explicitly qualified by no-assurance language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "believes long-term strategic plans",
+    "may have to increase promotions",
+    "normal course of business",
+    "classification error",
+    "discontinued operations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but includes substantial boilerplate and complex historical adjustments. Risk tone is negative due to sharply declining sales, continuing losses, discretionary demand exposure, impairment and restructuring charges, and material debt obligations. Management presents strategic initiatives and liquidity details, but forward-looking benefits remain largely unquantified."
+}

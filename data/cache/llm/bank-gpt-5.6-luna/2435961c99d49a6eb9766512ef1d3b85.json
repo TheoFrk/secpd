@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance funds will be available",
+    "substantial doubt about going concern",
+    "limited operations and capital",
+    "forward-looking statements disclaimer",
+    "no repayment terms"
+  ],
+  "risk_summary": "The company has limited operations, substantial related-party financing, significant accrued liabilities, and explicitly states substantial doubt about its ability to continue as a going concern without product registration or outside financing. Disclosure is generally well quantified, but future funding is uncertain and related-party obligations lack repayment terms. The extensive standard accounting and forward-looking language adds complexity but does not materially obscure the core liquidity risk."
+}

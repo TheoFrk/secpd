@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial doubt about going concern",
+    "no assurance",
+    "planned acquisitions",
+    "raising additional capital"
+  ],
+  "risk_summary": "The excerpt discloses significant financial distress, including an accumulated deficit of $28.5 million, recurring losses, dependence on external financing, and substantial doubt about the Company's ability to continue as a going concern. Mitigation plans rely on uncertain acquisitions, equity or debt issuance, and future operating cash flow, while extensive forward-looking disclaimers limit accountability for projected outcomes."
+}

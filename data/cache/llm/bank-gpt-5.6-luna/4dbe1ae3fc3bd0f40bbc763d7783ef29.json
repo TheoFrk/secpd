@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily due to",
+    "expected to stabilize or decline",
+    "certain risks and uncertainties",
+    "preliminary estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance and liquidity data, but includes standard forward-looking disclaimers and several assumption-dependent estimates. Operating income declined materially, restructuring charges increased, and product, freight, and foreign-exchange costs pressured margins, indicating moderate operating risk despite adequate disclosed liquidity and debt capacity."
+}

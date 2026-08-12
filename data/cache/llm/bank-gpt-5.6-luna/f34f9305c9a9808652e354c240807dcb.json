@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.32,
+  "risk_sentiment": 0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "repeated section title",
+    "cross-reference only",
+    "no substantive discussion",
+    "read in conjunction with"
+  ],
+  "risk_summary": "The excerpt is a boilerplate navigation statement directing readers to the MD&A and financial statements. It provides precise page references but contains no substantive information about financial condition, operating results, or risk exposures."
+}

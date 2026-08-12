@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to benefit",
+    "if the economy continues to improve",
+    "could have a negative impact",
+    "when necessary, we will modify",
+    "timing of which are uncertain"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including segment sales, market trends, contractual obligations, and warranty reserves. The tone is moderately positive, but outlook statements rely on economic recovery, government funding, and customer demand, with material downside scenarios acknowledged. Some boilerplate risk language and forward-looking contingencies reduce precision regarding the magnitude and timing of adverse impacts."
+}

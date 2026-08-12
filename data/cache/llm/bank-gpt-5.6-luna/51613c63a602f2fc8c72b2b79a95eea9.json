@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot assure refinancing",
+    "significant amount of indebtedness",
+    "impacted from time to time",
+    "standard and customary covenants",
+    "difficult to quantify financial impacts"
+  ],
+  "risk_summary": "The disclosure is materially quantified regarding sales, earnings, restructuring costs, debt balances, and facility terms, but includes conventional uncertainty language around refinancing and the financial effects of the Australian fire. Risk tone is moderately negative due to declining operating and net income, restructuring activity, and substantial indebtedness, although liquidity and operational responses are described in detail."
+}

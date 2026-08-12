@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "actual results could materially differ",
+    "significant judgment and estimates",
+    "non-GAAP measures",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking disclaimers and emphasizes estimation uncertainty, particularly for revenue allowances, receivables, taxes, inventory, and pensions. It provides some operational and accounting detail, but extensive boilerplate, non-GAAP presentation, and reliance on management judgments limit transparency into downside sensitivity."
+}

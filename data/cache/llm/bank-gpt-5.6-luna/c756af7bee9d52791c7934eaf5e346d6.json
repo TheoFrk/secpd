@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "certain items",
+    "more likely than not",
+    "ultimate outcomes",
+    "currently available information"
+  ],
+  "risk_summary": "The excerpt is predominantly quantified and operationally transparent, reporting sales, margins, acquisitions, debt activity, recall charges, and tax rates. Risk exposure includes product recalls, increased leverage and interest expense, tax-audit uncertainty, and reliance on adjusted/non-GAAP measures, though management presents overall performance confidently."
+}

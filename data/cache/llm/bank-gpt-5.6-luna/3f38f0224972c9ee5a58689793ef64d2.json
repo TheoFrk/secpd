@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "dynamic and uncertain macroeconomic factors",
+    "we believe",
+    "well-positioned to create new opportunities",
+    "primarily reflecting",
+    "certain reconciling items"
+  ],
+  "risk_summary": "The excerpt is a largely standard, detailed MD&A with meaningful quantitative disclosures on revenue, expenses, share repurchases, severance, and foreign exchange effects. It acknowledges prior-year weakness, macroeconomic uncertainty, seasonality, deferred revenue, competition, and restructuring, but maintains a generally confident outlook based on product strength and continued investment. Risk transparency is reasonable, although portions rely on broad management assertions and causal explanations without full quantification in the excerpt."
+}

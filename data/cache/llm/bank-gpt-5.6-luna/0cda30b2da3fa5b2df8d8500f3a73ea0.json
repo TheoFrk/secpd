@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "actual results may differ materially",
+    "difficult to predict trends",
+    "may affect purchasing patterns",
+    "expected to be covered by insurance"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding Hurricane Helene losses, insurance recoveries, self-insurance reserves, and vendor allowances. Key risks include catastrophe-related disruption, uninsured losses, volatile operating assumptions, reliance on vendor allowances, self-insurance exposure, and competitive pressures. The tone is balanced but modestly negative because of the hurricane impact and acknowledged uncertainty around future trends and estimates."
+}

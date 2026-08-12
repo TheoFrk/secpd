@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.14,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks difficult to predict",
+    "other risks detailed in filings",
+    "appears to be tapering",
+    "partially offset by increases"
+  ],
+  "risk_summary": "The excerpt combines specific cash-flow, investment, debt, and working-capital figures with broad boilerplate risk disclosures and numerous generic qualifiers. Cash generation declined materially year over year and the company relied on credit facilities while making significant investments, indicating moderate liquidity and execution risk despite management’s generally confident tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "factors beyond our control",
+    "not able to estimate at this time",
+    "subject to global supply and demand forces",
+    "significant intercompany transactions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed segment results, earnings changes, and borrowing impacts. It identifies meaningful exposure to commodity prices, seasonality, weather, supply-demand conditions, joint ventures, and refinery pipeline uncertainty, although some potential impacts remain unquantified. Overall performance was strong, particularly in Energy, but Ag and Corporate earnings declined and working-capital borrowing increased."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "we anticipate",
+    "may explore opportunistically",
+    "outside our control",
+    "higher and better uses"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including capital expenditures, entitlements, projected impact-fee receipts, segment results, and tax effects, but relies on forward-looking assumptions about development returns, funding, demand, and timing. Key risks include volatility in homebuilder-driven sales, dependence on capital availability, uncertain impact-fee proceeds, and prior SEC investigation costs. The overall tone is strategically optimistic but tempered by moderate execution and market uncertainty."
+}

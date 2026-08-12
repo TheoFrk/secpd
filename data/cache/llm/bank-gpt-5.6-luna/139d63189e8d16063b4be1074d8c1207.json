@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may represent an elevated risk",
+    "we believe these are positive characteristics",
+    "expect deferrals to decrease",
+    "future securitizations not currently planned",
+    "regulatory deferral treatment"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed portfolio, deferral, collateral, guarantee, and loss-rate information, but repeatedly emphasizes mitigating factors and relies on expected government support and future repayment behavior. Key risks include hotel and retail exposures, unguaranteed SBA balances, payment deferrals, and retention of commercial real estate loans previously intended for sale or securitization."
+}

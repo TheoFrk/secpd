@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "we believe",
+    "potentially significant",
+    "subject to approval",
+    "pending feasibility study"
+  ],
+  "risk_summary": "The excerpt presents an expansion-oriented and generally confident strategy, supported by several quantified targets, project capacities, costs, and timelines. However, many projected benefits depend on feasibility studies, regulatory permits, market pricing, customer adoption, and execution, creating meaningful uncertainty around low-carbon projects and capacity expansion. The text is dense and somewhat promotional but not overtly crisis-like."
+}

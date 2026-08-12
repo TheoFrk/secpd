@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "promotional superlatives",
+    "forward-looking goals",
+    "expected revenue growth",
+    "declining legacy royalties",
+    "truncated debt discussion"
+  ],
+  "risk_summary": "The excerpt uses substantial promotional and forward-looking language, although it provides meaningful revenue, margin, operating income, royalty, and debt figures. Risk tone is mixed: branded product growth and product expansion are emphasized, but total revenue, operating income, OEM sales, service revenue, and royalty revenue declined, with continued dependence on refinancing and expected tape-market weakness."
+}

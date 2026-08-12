@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant percentage of revenue",
+    "may render predictions difficult",
+    "actual results may differ materially",
+    "based on assumptions believed reasonable",
+    "could continue to result in fluctuations"
+  ],
+  "risk_summary": "The excerpt provides several quantified disclosures, including international revenue, inventory, cash flow, debt facilities, and accounting estimates, but also relies on broad forward-looking and assumption-dependent language. Key risks include foreign exchange exposure, seasonality, government spending, inventory obsolescence, warranty liabilities, and estimation uncertainty. The overall tone is promotional and moderately confident, tempered by standard cautionary disclosures rather than indicating an immediate crisis."
+}

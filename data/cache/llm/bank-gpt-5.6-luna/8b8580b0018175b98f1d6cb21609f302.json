@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "rapidly evolving situation",
+    "cannot predict the extent, resurgence, or duration",
+    "continue to monitor and evaluate",
+    "potential escalation",
+    "intended to mitigate potential risks"
+  ],
+  "risk_summary": "The disclosure presents a generally stable operating and liquidity position, supported by specific information on debt hedges, pension funding, and limited direct exposure to Ukraine and Russia. However, it relies substantially on boilerplate monitoring language and emphasizes that the duration and magnitude of pandemic, geopolitical, supply-chain, inflation, and currency effects cannot be estimated. The overall tone is cautiously reassuring but acknowledges meaningful uncertainty and possible indirect impacts."
+}

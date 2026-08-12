@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to feature",
+    "could enable",
+    "state-of-the-art",
+    "continue to gain momentum",
+    "results are believed to be reasonable"
+  ],
+  "risk_summary": "The excerpt is relatively informative and quantitatively supported, particularly regarding margins, inventory provisions, capital returns, and litigation. Risk tone is generally promotional and confident, but forward-looking claims, extensive technical detail, litigation exposure, and declining Tegra margins introduce material uncertainty."
+}

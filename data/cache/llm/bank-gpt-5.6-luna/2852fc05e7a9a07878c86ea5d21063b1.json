@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance",
+    "substantial doubt about ability to continue",
+    "primarily dependent upon",
+    "non-cash liability",
+    "if any"
+  ],
+  "risk_summary": "The company has no commercial revenue, recurring losses, a substantial working capital deficit, and insufficient cash to fund the next twelve months. Continued operations depend on additional equity financing, shareholder support, successful exploration and development, and eventual profitability, with explicit substantial doubt about going-concern status and significant dilution risk."
+}

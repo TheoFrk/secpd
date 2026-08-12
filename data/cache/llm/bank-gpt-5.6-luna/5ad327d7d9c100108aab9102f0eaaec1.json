@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "we believe",
+    "significant estimates and assumptions",
+    "material change to results",
+    "detailed discussion follows"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue and expense changes with adjustments for deconversion activity, acquisitions, and separation costs. Management uses a confident, growth-oriented tone, but relies on recurring boilerplate and discusses material judgment in software capitalization, amortization, impairment, and purchase accounting. The excerpt is truncated, limiting assessment of the full risk discussion."
+}

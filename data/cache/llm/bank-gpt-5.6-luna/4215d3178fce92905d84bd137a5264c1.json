@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.2,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance of sufficient cash",
+    "depending upon market conditions",
+    "highly dependent on oil prices",
+    "general corporate purposes"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes substantial operating, cost, liquidity, and cash-flow quantification, but relies on optimistic assumptions regarding oil prices, rig counts, and customer activity. Key risks include cyclicality, limited long-term customer contracts, concentration in the Permian Basin and with a single equipment manufacturer, and potential dependence on external financing to sustain capital expenditures."
+}

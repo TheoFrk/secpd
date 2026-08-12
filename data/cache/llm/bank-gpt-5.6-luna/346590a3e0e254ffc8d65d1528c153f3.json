@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "special items",
+    "subject to regulatory approvals",
+    "strategic bets",
+    "expects to continue",
+    "business transformation initiatives"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent about sales, earnings, cash flow, acquisitions, and special items, but the sharp decline in continuing-operations income and reliance on adjusted presentations indicate material earnings volatility. Positive strategic and operational language is somewhat boilerplate, while acquisition execution, restructuring, portfolio repositioning, and international exposure remain relevant risks."
+}

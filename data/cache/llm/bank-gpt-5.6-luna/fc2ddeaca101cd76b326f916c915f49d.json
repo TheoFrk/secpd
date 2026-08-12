@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "may be materially affected by",
+    "customary closing conditions",
+    "non-GAAP financial information",
+    "wide variety of products and services"
+  ],
+  "risk_summary": "The excerpt presents strong, broadly quantified 2020 performance across segments, supported by higher revenues, earnings, capital ratios and asset flows. Risk language is largely standardized and cautionary, referencing market volatility, competition, regulation, credit losses and acquisition integration without detailing downside scenarios in this excerpt. Overall tone is confident and favorable, though the extensive business descriptions and legal disclaimers add boilerplate and complexity."
+}

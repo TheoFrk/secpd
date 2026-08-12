@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "due in part to COVID-19 pandemic",
+    "primarily driven by",
+    "for the foreseeable future",
+    "continued to be impacted",
+    "forward-looking statements and uncertainties"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but uses recurring qualified explanations for revenue declines and customer or industry pressures. Revenue fell across multiple solution groups, with COVID-19, theater closures, delayed releases, industry consolidation, and restructuring creating material operating risks. The tone is factual and moderately negative rather than crisis-like, with limited forward-looking assurance."
+}

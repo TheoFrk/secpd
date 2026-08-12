@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "calculation is not meaningful",
+    "currently available information and assumptions",
+    "not indicative of future results",
+    "pro forma comparability limitations",
+    "contracts renewed at a lower rate"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but comparability is complicated by the merger, differing fiscal periods, pro forma adjustments, and currency effects. Revenue declines on a constant-currency pro forma basis and contract repricing create moderate operating risk, partly offset by reported integration savings and digital growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "known and unknown risks and uncertainties",
+    "undertake no obligation to update",
+    "typically provide for automatic renewal",
+    "certain restrictions and permitted acquisitions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, but extensive forward-looking disclaimers and recurring qualifiers limit accountability for future performance. Credit risk is elevated by approximately 6.0x net secured leverage, a covenant threshold of 6.50x, and restrictions on dividends, acquisitions, and other payments. The disclosure is highly technical and acquisition-focused, with a moderately negative risk tone despite confident operating descriptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "remains uncertain",
+    "we believe",
+    "no guarantee",
+    "sufficient support"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook supported by quantified operating scale, growth, demographic trends, and liquidity claims. However, it acknowledges material exposure to reimbursement and regulatory uncertainty, labor inflation, supply costs, and limited ability to pass costs to Medicare and Medicaid patients. The discussion is relatively specific but includes standard forward-looking caveats and optimistic management assertions."
+}

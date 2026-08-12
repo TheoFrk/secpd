@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "including, but not limited to",
+    "no obligation to update",
+    "various other uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including volumes, revenue mix, trust returns, leverage-related concerns, and acquisition activity. Risk disclosure is broad and heavily reliant on standardized forward-looking-statement disclaimers, with limited quantification of downside exposure for several material risks. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

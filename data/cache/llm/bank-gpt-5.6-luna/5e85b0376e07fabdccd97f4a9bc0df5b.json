@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impact cannot be known at this time",
+    "subject to significant uncertainties",
+    "actual results may differ",
+    "management’s judgment",
+    "constant currency measures"
+  ],
+  "risk_summary": "The excerpt identifies meaningful exposure to declining PC markets, competitive pressure, macroeconomic volatility, tariffs, foreign exchange movements, and execution challenges, while providing limited quantified sensitivity for these risks. Critical accounting estimates and non-GAAP constant-currency measures introduce judgment and comparability limitations, although the disclosure includes detailed accounting frameworks and historical financial figures."
+}

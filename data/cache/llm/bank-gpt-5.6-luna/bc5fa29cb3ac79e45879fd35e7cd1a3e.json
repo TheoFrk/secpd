@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "believes this is a competitive advantage",
+    "factors that impact could have an impact",
+    "not as dependent on the overall economic environment",
+    "based on information available",
+    "discussion should be read in conjunction"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, including revenue, backlog, cash flow, working capital, and current-ratio figures, but contains recurring boilerplate and broad claims about competitive advantages and economic resilience. Key risks include competitive bidding, dependence on economic and industry conditions, acquisitions, geographic exposure, and working-capital movements. Overall tone is mildly positive, supported by revenue growth and improved liquidity, though the excerpt is truncated and does not provide a complete risk assessment."
+}

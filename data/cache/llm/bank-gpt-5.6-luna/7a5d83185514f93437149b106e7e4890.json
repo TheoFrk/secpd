@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to uncertainty",
+    "we believe",
+    "material limitations",
+    "in large part",
+    "may significantly impact"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively supported, including revenue declines, restructuring costs, debt issuance, free cash flow, and shareholder returns. Risk tone is balanced but somewhat optimistic, emphasizing resilience and recovery opportunities despite reduced volumes, weak commodity markets, lower energy prices, and increased indebtedness. Boilerplate forward-looking and accounting language moderately limits clarity, particularly around future acquisitions and the implications of higher interest expense."
+}

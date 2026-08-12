@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "truncated disclosure",
+    "expect to gain operating leverage",
+    "growth opportunities",
+    "may pursue capital reduction",
+    "qualitative growth drivers"
+  ],
+  "risk_summary": "The excerpt is generally quantified and operationally detailed, with a positive tone around growth, acquisitions, margins, and capital allocation. Risk visibility is reduced by truncated sections and reliance on forward-looking, qualitative claims regarding growth opportunities, operating leverage, and cost rationalization."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly unpredictable impact",
+    "may have a material effect",
+    "to the extent the macro-economic environment worsens",
+    "non-GAAP financial measure",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with strong operating performance, liquidity, cash flow, and margin disclosures. Risk exposure remains moderate due to macroeconomic demand uncertainty, customer liquidity and collectability concerns, foreign exchange and counterparty risks, and reliance on cost savings and entertainment performance. The tone is cautiously confident rather than crisis-like, although some forward-looking risks are expressed in broad or conditional terms."
+}

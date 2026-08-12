@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no exact measure of copper-price effects",
+    "best facts available",
+    "may require further actions",
+    "varying effects",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on revenue growth, acquisitions, restructuring costs, impairments, compensation obligations, and tax rates, supporting relatively transparent disclosure. Risk remains moderate due to commodity-price, currency, customer-credit, inventory-obsolescence, acquisition-integration, and impairment exposures, with several estimates dependent on judgment. The text is lengthy and partly corrupted or truncated, which reduces interpretability."
+}

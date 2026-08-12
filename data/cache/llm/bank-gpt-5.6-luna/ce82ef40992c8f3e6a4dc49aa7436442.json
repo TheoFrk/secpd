@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "cannot guarantee future results",
+    "subject to risks beyond control",
+    "positive evidence outweighs negative evidence"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive 2012 performance narrative with extensive quantitative disclosure, including improved profitability and asset quality. Key risks include dependence on mortgage banking volumes and margins, elevated but improving delinquencies, credit-loss estimation uncertainty, and extensive forward-looking-statement disclaimers. Disclosure is generally specific, although the boilerplate legal language and truncated asset-quality discussion limit completeness."
+}

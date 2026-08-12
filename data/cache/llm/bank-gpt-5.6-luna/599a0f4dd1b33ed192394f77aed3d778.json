@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "significant judgment and estimates",
+    "performance-based fee variability",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, including revenue mix percentages, billing arrangements, and tax valuation amounts. Risk disclosures are largely standard boilerplate, while key exposures include utilization volatility, performance-fee timing, estimation uncertainty, deferred tax asset recoverability, and discontinued operations. The provided text is truncated, limiting assessment of the full risk picture."
+}

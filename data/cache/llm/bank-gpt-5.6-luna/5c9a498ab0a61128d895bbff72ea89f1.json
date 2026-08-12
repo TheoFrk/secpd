@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "currently do not expect",
+    "may be negatively impacted",
+    "generally immaterial",
+    "proxy for sales trends",
+    "we believe"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on operating metrics, regional performance, margins, and distributor economics, but relies on management assertions and non-GAAP Volume Points that may not align with revenue recognition. The FTC settlement presents a material regulatory and business-model risk, although management frames its expected long-term impact as limited. The excerpt is dense and partially corrupted, reducing clarity in places."
+}

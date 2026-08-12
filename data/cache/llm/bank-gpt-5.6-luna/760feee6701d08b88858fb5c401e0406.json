@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "significant items",
+    "partially offset",
+    "appears poised for further improvement",
+    "continued execution of core strategies"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with detailed explanations of earnings, balance-sheet growth, acquisition effects, capital ratios, and tax impacts. Risk tone is moderately optimistic, although the outlook relies on favorable macroeconomic conditions and contains standard forward-looking disclaimers. Complexity is elevated due to dense banking terminology, extensive numerical detail, and long multi-clause sentences."
+}

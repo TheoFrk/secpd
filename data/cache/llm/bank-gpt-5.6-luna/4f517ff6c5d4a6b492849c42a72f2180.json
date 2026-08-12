@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results may differ",
+    "inherent uncertainty",
+    "materially different",
+    "to the extent possible"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including geographic concentration, cash flows, restricted assets, and reserve components. Key risks center on California concentration, workers’ compensation reserve uncertainty, insurance collateral requirements, and potential divergence between estimated and actual claims costs. The tone is cautiously positive due to reported net income and operating cash generation, but extensive caveats temper confidence."
+}

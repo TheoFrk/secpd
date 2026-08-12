@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may render predictions difficult",
+    "significant percentage of revenue",
+    "subject to customary regulatory approvals",
+    "actual results may differ materially",
+    "timing of orders and deployments"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent about foreign exchange, seasonality, program-transition risk, restructuring, acquisitions, and margin pressure. However, it relies on broad forward-looking qualifiers and extensive strategic boilerplate, while the excerpt is truncated before a complete assessment of results and liquidity."
+}

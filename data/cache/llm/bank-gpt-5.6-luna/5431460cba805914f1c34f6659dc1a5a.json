@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "can fluctuate significantly",
+    "not practicable",
+    "no assurance",
+    "foreseeable future"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, including insurance reserves, vendor allowances, debt capacity, covenant compliance, and liquidity sources. Key risks involve self-insurance, impairment estimates, vendor dependence, cross-default provisions, and uncertainty over future financing availability, but management presents liquidity and covenant headroom positively."
+}

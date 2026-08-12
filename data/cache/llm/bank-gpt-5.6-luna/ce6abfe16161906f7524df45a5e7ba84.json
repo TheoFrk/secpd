@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "growth-oriented promotional language",
+    "restatement of interim financial statements",
+    "overdue SEC filings",
+    "delisting and Pink Sheets trading"
+  ],
+  "risk_summary": "The excerpt discloses severe financial and reporting risks, including substantial net losses, a $543.9 million accumulated deficit, major impairment charges, delayed filings, Nasdaq delisting, and reliance on secured convertible debt financing. Business descriptions are promotional and contain limited operating detail relative to the magnitude of the financial distress, but the key adverse events and losses are quantified."
+}

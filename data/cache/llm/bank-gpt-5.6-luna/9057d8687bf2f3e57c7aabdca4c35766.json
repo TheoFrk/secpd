@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "where appropriate",
+    "subject to certain criteria",
+    "primarily due to",
+    "no material concessions",
+    "partly offset by"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and provides useful drivers for revenue, expenses, credit losses, late-fee changes, acquisitions, and financing. Risk tone is moderately positive, but leverage from acquisitions, rising interest expense, higher credit losses, foreign-exchange exposure, and restructuring costs present meaningful risks. Some boilerplate and qualified phrasing limit clarity regarding forward-looking impacts and downside sensitivity."
+}

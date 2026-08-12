@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "various other assumptions",
+    "expected to remain a key end market",
+    "detailed acquisition and segment boilerplate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified historical financial, acquisition, restructuring, margin, and royalty information, supporting relatively strong disclosure precision. Risk exposure remains meaningful due to semiconductor cyclicality, patent expirations, foreign-exchange pressure, restructuring dependence, estimation uncertainty, and a sharp decline in Life Science Systems gross margins. The tone is cautiously constructive but mixed, with growth and cost-improvement claims offset by prior losses and operational headwinds."
+}

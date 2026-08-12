@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to availability of capital",
+    "no assurance",
+    "limited operating history",
+    "may not have sufficient cash",
+    "anticipated operating losses"
+  ],
+  "risk_summary": "The company has no revenue, minimal cash of $864, recurring operating losses, negative operating cash flow, and substantial dependence on debt and equity financing. Management explicitly identifies going-concern uncertainty and provides no assurance that required funding, certifications, patent protection, or commercialization will be achieved."
+}

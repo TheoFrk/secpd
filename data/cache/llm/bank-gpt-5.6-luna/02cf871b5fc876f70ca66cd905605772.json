@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "restatement of previously issued financial statements",
+    "forward-looking statements",
+    "difficult to predict future results",
+    "full valuation allowance",
+    "transition towards subscription-based offerings"
+  ],
+  "risk_summary": "The disclosure is relatively quantified but highlights material deterioration, including a 36% decline in product revenue, lower service and royalty revenue, higher interest expense, restructuring activity, and a substantial deferred-tax valuation allowance. The restatement and reliance on adjustments, cost controls, favorable mix, and forward-looking caveats increase financial reporting and execution risk. Overall, the tone is moderately negative despite management's presentation of operational improvements."
+}

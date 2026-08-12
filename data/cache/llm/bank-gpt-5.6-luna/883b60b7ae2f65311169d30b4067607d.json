@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe we are well positioned",
+    "expect solid demand",
+    "positive actions",
+    "non-GAAP EBITDA adjustments",
+    "narrow fair-value cushion"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but uses optimistic forward-looking language and emphasizes adjusted performance measures. Declining EBITDA and adjusted EBITDA, plus the Pump Solutions reporting unit’s narrow impairment headroom and sensitivity failure, indicate meaningful downside risk despite stated liquidity and strategic advantages."
+}

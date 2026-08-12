@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "should not be taken as indicative of future operations",
+    "we believe",
+    "intends to satisfy such requirements",
+    "Actual results could ultimately differ",
+    "non-GAAP metric exclusions"
+  ],
+  "risk_summary": "The excerpt is generally confident and promotional, emphasizing portfolio scale, retailer relationships, strategic execution, and improving occupancy. It provides substantial quantitative detail on leasing, acquisitions, dispositions, and rental-income drivers, but relies on standard forward-looking disclaimers and management-belief statements. Key risks include tenant retention and leasing, unreimbursed property expenses, valuation and impairment exposure, capital structure flexibility, and reliance on adjusted operating metrics."
+}

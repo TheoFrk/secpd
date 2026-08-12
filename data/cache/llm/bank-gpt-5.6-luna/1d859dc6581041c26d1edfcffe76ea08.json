@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual outcomes may differ materially",
+    "other matters",
+    "future liabilities may be in excess",
+    "extensive risk-factor laundry list"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standard forward-looking safe-harbor language and an extensive, largely unquantified list of potential legal, regulatory, market, credit, operational, and geopolitical risks. Quantified operating and financial data provide useful specificity, but the risk section offers limited prioritization, probability assessment, or estimated financial exposure. Overall tone is neutral to mildly confident regarding the business, while acknowledging broad downside scenarios."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "should not place undue reliance",
+    "continued growth and strong earnings"
+  ],
+  "risk_summary": "The excerpt is broadly confident and growth-oriented, supported by detailed balance, yield, and rate data. However, extensive boilerplate forward-looking disclaimers, repeated materiality language, and reliance on generalized claims about market performance reduce disclosure specificity regarding downside risks. Key banking exposures such as credit quality, liquidity, interest-rate sensitivity, and OREO are referenced but not quantified in the provided section."
+}

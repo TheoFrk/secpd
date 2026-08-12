@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "undertake no obligation to revise",
+    "factors we are unaware of",
+    "derecognition of legacy payables"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and complex accounting language that dilute discussion of material risks. Financial condition appears highly stressed, with $49,343 of cash, a $3.36 million net loss, $15.57 million of current liabilities versus $2.70 million of assets, and substantial related-party revenue concentration. Gains from liability derecognition and other non-operating items also appear important to reported results, while recurring operations remain loss-making."
+}

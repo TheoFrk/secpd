@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not under any obligation to update",
+    "non-GAAP measures",
+    "excluding certain items",
+    "expected to continue expanding"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on extensive forward-looking disclaimers, broad uncertainty language, and non-GAAP exclusions that may reduce comparability with GAAP results. Operating trends are presented positively, but exposure remains to catastrophe losses, adverse reserve development, interest rates, competition, regulation, hedging performance, and legacy crisis matters."
+}

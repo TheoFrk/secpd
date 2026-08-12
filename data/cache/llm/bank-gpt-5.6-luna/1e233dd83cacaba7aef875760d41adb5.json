@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances",
+    "expected plans",
+    "strategic changes",
+    "restructuring actions",
+    "table truncation"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear attribution of sales, profit, currency, inflation, tax, and restructuring effects. Risk tone is moderately positive, but ongoing exposure to input-cost inflation, foreign exchange volatility, international markets, restructuring, and execution uncertainty around the proposed spin-off remains evident. The excerpt contains boilerplate framing and truncated table/text artifacts that limit completeness."
+}

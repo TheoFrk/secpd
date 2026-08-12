@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no material net impact",
+    "there can be no assurance",
+    "full impact ... is not known",
+    "adequate liquidity",
+    "variety of factors including, but not limited to"
+  ],
+  "risk_summary": "The excerpt provides several quantified operating and liquidity disclosures, including revenue, COVID-19 billings, customer counts, credit capacity, and letters of credit. Risk discussion relies substantially on standard forward-looking disclaimers and conditional language regarding COVID-19, workforce and supply-chain disruption, LIBOR transition, collectability, and liquidity. Overall tone is cautiously confident but acknowledges meaningful operational and financing uncertainties."
+}

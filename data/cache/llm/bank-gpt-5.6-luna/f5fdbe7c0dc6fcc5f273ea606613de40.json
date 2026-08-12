@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "no exact measure of the effect",
+    "over which the Company has no control",
+    "industry dynamics remain challenging",
+    "uncertainty in global market conditions"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantified information, but relies on standard forward-looking disclaimers and acknowledges material exposure to commodity prices, foreign exchange, seasonality, weak demand, and competitive pressures. Historical SEC/DOJ investigations, fines, restatements, restructuring, and the pending merger add elevated governance, execution, and transaction risk. Overall tone is cautiously negative but not crisis-like."
+}

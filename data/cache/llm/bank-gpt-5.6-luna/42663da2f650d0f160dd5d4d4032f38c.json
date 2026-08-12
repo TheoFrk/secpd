@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "certain product moves",
+    "current assessment",
+    "not aware of any significant issues",
+    "subject to fluctuation",
+    "continuing effort to drive growth"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, reporting sales, earnings, segment performance, geographic trends, disaster impacts, and insurance recoveries. Risk tone is moderately positive but acknowledges weakening Western European demand, electronics weakness, supply-chain disruptions, and exposure to cyclical end markets. Some disclosure is boilerplate or qualified, particularly around unallocated costs, potential disaster-related exposures, and management’s current assessments."
+}

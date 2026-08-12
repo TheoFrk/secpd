@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.08,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.22,
+  "risk_sentiment": 0.02,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "boilerplate cross-reference",
+    "defers substantive discussion",
+    "page-range reference"
+  ],
+  "risk_summary": "The excerpt is a procedural cross-reference and provides no substantive information about financial condition, operating results, or specific risks. Although page ranges are precise, the passage itself offers no basis for assessing underlying credit risk."
+}

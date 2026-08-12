@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "materially from actual results",
+    "we believe",
+    "reasonably likely",
+    "Adjusted EBITDA exclusions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including customer counts, break-even timing, liquidity commentary, and an Adjusted EBITDA reconciliation, but relies heavily on standard forward-looking caveats and management beliefs. Key risks include customer attrition, supply-chain and service-cost pressures, COVID-19 effects, solar-market execution, and significant debt and non-GAAP adjustments. Overall tone is cautiously constructive on recurring revenue and liquidity despite reported net losses and operational uncertainties."
+}

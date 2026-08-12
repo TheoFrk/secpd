@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unreasonable efforts exception",
+    "other adjustments",
+    "not representative of underlying business performance",
+    "inherent uncertainties exist",
+    "any or all of these factors could impact actual results"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative targets, segment drivers, market indicators, and sensitivity information, supporting generally adequate disclosure. However, extensive non-GAAP caveats, reliance on an unreasonable-efforts exception, and broad uncertainty language limit comparability and transparency around GAAP outlook measures. The tone is cautiously constructive but acknowledges meaningful exposure to commodity prices, supply constraints, demand weakness, environmental liabilities, and execution risk."
+}

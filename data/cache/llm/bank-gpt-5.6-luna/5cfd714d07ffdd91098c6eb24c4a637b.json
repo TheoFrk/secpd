@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance that expectations will be achieved",
+    "factors that could cause actual results to differ materially",
+    "not possible for management to predict all factors",
+    "undertakes no obligation to update",
+    "long enumerated risk disclaimer"
+  ],
+  "risk_summary": "The excerpt is dominated by standard forward-looking-statement disclaimers and an extensive, largely non-quantified list of operational, regulatory, market, environmental, cybersecurity, and financing risks. It provides some concrete project and investment figures, but the broad contingency language limits assessment of likelihood, magnitude, and timing. Overall tone is risk-aware and moderately negative, while the strategic overview remains confident."
+}

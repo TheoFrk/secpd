@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may consider additional restructuring",
+    "subject to customary closing conditions",
+    "believes ... reasonable",
+    "actual results may differ",
+    "management judgment to develop assumptions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including cash flow, investment, debt repayment, and warranty metrics. Risk disclosure is tempered by forward-looking strategy language, reliance on management estimates, potential restructuring, acquisition approvals, and model-based valuations. Overall tone is cautiously confident rather than crisis-like."
+}

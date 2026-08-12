@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "seek out other business opportunities",
+    "no written or firm agreement regarding financing",
+    "shell company",
+    "unable to honor conversion rights",
+    "notes payable on demand"
+  ],
+  "risk_summary": "The company is a shell with no revenue since 2007, minimal cash, substantial accumulated losses, significant liabilities, and no committed financing. Multiple notes are in default or payable on demand, and the company lacks sufficient authorized shares to honor conversion rights, indicating severe liquidity and going-concern risk."
+}

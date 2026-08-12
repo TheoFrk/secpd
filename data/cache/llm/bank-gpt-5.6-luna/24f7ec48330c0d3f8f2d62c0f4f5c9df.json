@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "could differ materially",
+    "beyond our control",
+    "among others"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking language and broad, non-quantified risk disclaimers, including regulatory, credit, cybersecurity, macroeconomic, and execution risks. Operating descriptions and historical interest-rate tables provide useful specificity, but the passage offers limited quantified assessment of current exposures or downside scenarios. Overall tone is operationally confident but tempered by weak economic conditions and extensive legal cautionary language."
+}

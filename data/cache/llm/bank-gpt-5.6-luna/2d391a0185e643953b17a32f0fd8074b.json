@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP special items",
+    "subject to approval and credit approval",
+    "if delayed, we believe",
+    "steps to preserve liquidity",
+    "covenant and liquidity dependence"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but indicates meaningful financial pressure, including declining revenue, negative operating cash flow, restructuring activity, covenant requirements, and dependence on a Maintech sale and IRS refund. Management presents contingency actions and liquidity assurances, but these are conditional and acknowledge that liquidity would become more limited if expected transactions are delayed."
+}

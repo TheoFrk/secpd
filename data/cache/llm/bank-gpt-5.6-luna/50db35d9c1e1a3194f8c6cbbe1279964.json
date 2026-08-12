@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "typically range from",
+    "certain markets",
+    "primarily due to",
+    "expected to provide benefits",
+    "excluding foreign exchange impacts"
+  ],
+  "risk_summary": "The excerpt is detailed and generally quantitative, but uses substantial boilerplate and recurring qualifiers such as “typically,” “certain,” and “primarily.” Risk tone is broadly neutral with modest negative signals from revenue pressure, impairment charges, restructuring initiatives, foreign-exchange sensitivity, and litigation-related expenses."
+}

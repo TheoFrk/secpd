@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements cautionary language",
+    "we expect",
+    "continue to grow",
+    "wide variety of services",
+    "significant percentage"
+  ],
+  "risk_summary": "The excerpt is highly detailed about business structure, transactions, and revenue composition, but contains substantial boilerplate and complex terminology. Operating income before taxes declined despite revenue growth, while forward-looking claims about electronic-market expansion and future value rely partly on generalized expectations rather than quantified guidance."
+}

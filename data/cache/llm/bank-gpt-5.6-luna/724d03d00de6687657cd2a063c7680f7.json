@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "actual results may differ materially",
+    "management considers adequate",
+    "various assumptions and qualitative factors",
+    "unobservable and significant inputs"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data and describes specific credit, valuation, liquidity, and accounting risks. However, extensive safe-harbor language and reliance on subjective assumptions, qualitative factors, and Level 3 inputs limit transparency regarding potential loss severity and timing."
+}

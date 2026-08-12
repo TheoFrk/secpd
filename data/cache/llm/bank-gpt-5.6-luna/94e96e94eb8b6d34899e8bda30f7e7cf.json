@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "inherently uncertain and outside our control",
+    "among others",
+    "estimated liability and probable losses",
+    "assumptions and judgments"
+  ],
+  "risk_summary": "The excerpt is generally precise and heavily quantified, but includes substantial legal safe-harbor language and uncertainty around litigation, regulatory changes, taxes, loan losses, and strategic initiatives. Risk tone is mildly negative because earnings and returns declined materially in 2017, although management presents strong capital ratios and a confident growth outlook."
+}

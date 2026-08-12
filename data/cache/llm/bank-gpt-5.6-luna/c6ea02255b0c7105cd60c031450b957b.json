@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "not necessarily indicative of future results",
+    "subject to important limitations",
+    "future forecast assumptions",
+    "potential goodwill impairment"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but relies materially on adjusted EBITDA, settlement offsets, and forward-looking impairment assumptions. Operating risk is modestly negative, reflected in declining revenue, a net loss, higher interest expense, business exits, and identified asset impairment exposure."
+}

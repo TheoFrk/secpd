@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "best judgment and other factors",
+    "generally mitigate the risk",
+    "known, stable customer base",
+    "not considered superior or a substitute"
+  ],
+  "risk_summary": "The excerpt provides substantial historical financial quantification and identifies concentration, commodity-cost, contract-estimation, and industry-demand risks. Risk disclosure is partly softened by broad mitigation claims and favorable strategic language, while some forward-looking outcomes remain qualitative and subject to estimation uncertainty."
+}

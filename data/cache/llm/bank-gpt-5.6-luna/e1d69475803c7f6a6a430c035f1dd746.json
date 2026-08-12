@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "could have a material impact",
+    "based on assumptions deemed reasonable",
+    "cannot be determined with certainty",
+    "subject to various uncertainties",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt reports strong 2012 sales, margins, and earnings growth, but earnings benefited materially from a $36.3 million tax valuation-allowance release. Significant judgment surrounds impairment testing, deferred-tax recoverability, environmental liabilities, and legal matters, with potentially material unquantified future effects."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "unable to determine",
+    "could differ materially",
+    "variety of reasons",
+    "other adjustments"
+  ],
+  "risk_summary": "The disclosure is detailed and includes useful operating metrics, segment changes, subscriber data, and identified macroeconomic, competitive, operational, and cost risks. However, much of the language is standard MD&A boilerplate and relies on broad contingencies without quantifying potential impacts, while the extensive Adjusted EBITDA exclusions may obscure GAAP profitability."
+}

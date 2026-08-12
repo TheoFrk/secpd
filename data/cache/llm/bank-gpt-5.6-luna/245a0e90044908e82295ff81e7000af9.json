@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "expected to continue to grow",
+    "generally mitigate the risk",
+    "best judgment",
+    "non-U.S. GAAP measures"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and includes substantial quantitative operating, contract, cost, backlog, and non-GAAP metric information. Key risks include customer and supplier concentration, commodity inflation, contract-estimate uncertainty, fixed-price aerospace exposure, and leverage-related restrictions, but the overall tone is cautiously confident and risk-mitigating."
+}

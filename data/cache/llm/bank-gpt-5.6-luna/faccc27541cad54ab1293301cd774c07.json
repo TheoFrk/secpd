@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "should no longer be relied upon",
+    "highly uncertain matters",
+    "may materially impact",
+    "actual outcomes differ",
+    "limited or no observable market data"
+  ],
+  "risk_summary": "The excerpt discloses a significant restatement arising from income tax accounting issues, although it quantifies the effect and states there was no impact on cash or operating expenses. Credit risk is heightened by substantial judgment in loan-loss allowances, fair-value estimates, and potential future provisions, with repeated caveats about uncertainty and adverse outcomes."
+}

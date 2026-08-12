@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to market conditions",
+    "may differ materially",
+    "no specific target",
+    "market value may not represent fair value"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on bitcoin holdings, acquisition cost, impairment losses, and net loss, but is interspersed with extensive boilerplate and promotional assertions. It highlights severe exposure to bitcoin volatility, liquidity, manipulation, regulatory, valuation, and financing risks, including $830.6 million of 2021 impairment losses representing 69% of operating expenses. Overall, the risk tone is materially cautionary despite management’s optimistic strategic rationale."
+}

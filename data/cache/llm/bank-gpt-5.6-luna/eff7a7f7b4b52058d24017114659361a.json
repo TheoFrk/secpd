@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cash sufficient to fund operations",
+    "if we do not increase sales",
+    "mainly due to",
+    "actual results could differ",
+    "truncated inventory obsolescence disclosure"
+  ],
+  "risk_summary": "The disclosure is generally quantified and specific, but indicates deteriorating financial performance, including a larger net loss, declining revenue, reduced cash, and ongoing operating cash usage. Management expresses confidence in near-term liquidity while acknowledging potential future debt or equity financing if sales do not improve, creating dilution and refinancing risk."
+}

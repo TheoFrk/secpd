@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "no obligation to update",
+    "strategic priorities",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is relatively quantified and provides concrete revenue, cash flow, restructuring, and investment figures, but includes substantial standard forward-looking and liability-limiting language. Risk tone is mildly negative due to a 10% revenue decline, reduced marketing services activity, workforce reductions, and restructuring costs, although management emphasizes cost control and adequate operating cash generation."
+}

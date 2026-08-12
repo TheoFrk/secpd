@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot predict the full extent",
+    "among other things",
+    "no material impacts",
+    "not directly related to ongoing operations",
+    "non-GAAP operating earnings"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, reporting earnings changes, impairment charges, and specific operational drivers. Risk disclosures include COVID-19 uncertainty, impairments, higher credit losses, storm costs, tax effects, and interest expense, but rely on standard forward-looking caveats. The use of adjusted non-GAAP earnings and extensive registrant-specific consolidation language adds some interpretive complexity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "uncertain replacement licensing arrangements",
+    "subject to known and unknown risks",
+    "DSCR fell below threshold",
+    "restricted reserve allocation"
+  ],
+  "risk_summary": "The excerpt contains substantial safe-h harbor boilerplate and relies on broad, non-quantified cautionary language, although it also provides meaningful operational and debt covenant details. Risk is elevated due to multiple non-renewed retail licenses, uncertainty over replacement revenue, declining royalty collections, and DSCR-triggered cash trapping that limits distributable liquidity."
+}

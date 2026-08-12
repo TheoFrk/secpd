@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "may cause actual results to differ materially",
+    "non-GAAP financial measures",
+    "subject to a limited annual cancellation right",
+    "revenue recognition transition"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong growth, recurring-revenue, cash-flow, and margin messaging. Key risks include the significant ASC 606 transition, customer contract cancellations, declining perpetual-license and support revenue, a material customer-dispute write-down, and substantial debt. The tone is confident but includes standard legal and accounting caveats."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "no assurance",
+    "except as otherwise required",
+    "expected to",
+    "best-in-class technologies"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on sales, volumes, costs, liquidity, debt-related interest expense, acquisition consideration, and geographic exposure. Risk tone is cautiously negative due to recessionary conditions, leverage from the Rohm and Haas acquisition, volatile costs, and uncertain recovery, although management emphasizes strategic execution and financial flexibility. Forward-looking safe-harbor language and broad, non-exhaustive risk descriptions introduce moderate boilerplate and uncertainty."
+}

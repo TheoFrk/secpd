@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "rapidly evolving situation",
+    "cannot predict the extent, resurgence, or duration",
+    "intended to mitigate potential risks",
+    "believe we currently have sufficient liquidity",
+    "estimates since actual quantities purchased will depend"
+  ],
+  "risk_summary": "The disclosure presents a generally positive operating outlook, citing over 20% earnings growth, successful acquisitions, and sufficient liquidity. However, it relies on substantial COVID-19 uncertainty language, non-GAAP measures, estimates, and incomplete quantification of potential supply-chain, currency, demand, and accounting risks."
+}

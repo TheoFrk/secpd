@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "continued strong sales growth",
+    "we believe",
+    "uniquely qualified",
+    "challenging budget environment",
+    "market volatility"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment, margin, expense, backlog, and restructuring disclosures. Risk factors include government budget pressure, technology and competitive disruption, declining iDEN infrastructure, legal charges, and employee reductions, but management presents a largely confident growth and execution outlook."
+}

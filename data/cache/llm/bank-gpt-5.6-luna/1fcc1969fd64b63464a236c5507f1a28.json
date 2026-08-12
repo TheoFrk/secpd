@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance as to future impact",
+    "difficult to assess",
+    "subject to numerous judgments",
+    "anticipated declines",
+    "may adversely affect"
+  ],
+  "risk_summary": "The excerpt is relatively specific and well quantified, but presents substantial operational exposure to declining semiconductor prices, foundry capacity constraints, inventory obsolescence, international markets, and foreign exchange without fully quantifying potential impacts. The tone is risk-aware and cautiously negative rather than crisis-like, with recurring forward-looking caveats and management-estimate dependencies."
+}

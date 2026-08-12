@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "other initiatives that increased profitability",
+    "strong organic growth",
+    "stable and improving loan quality",
+    "see the section entitled"
+  ],
+  "risk_summary": "The excerpt is highly quantified and presents a strongly positive performance narrative, emphasizing acquisition-driven growth, improving asset quality, and higher profitability. Risk discussion is limited and relies on broad causal explanations, with potential integration, funding-cost, credit-quality, and concentration risks not explored in depth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.95,
+  "risk_sentiment": -0.28,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "extensive forward-looking disclaimer",
+    "expectation-based projections",
+    "materiality qualifiers",
+    "uncertain regulatory outcomes",
+    "possible losses in excess of recorded amounts"
+  ],
+  "risk_summary": "The excerpt is dominated by lengthy forward-looking and disclaimer language, with extensive reliance on expectations, goals, and conditional outcomes. It does include substantial quantitative detail, but highlights significant exposure to repurchase claims, regulatory capital changes, funding conditions, litigation, servicing costs, and adverse market developments."
+}

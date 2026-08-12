@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "uncertain and cannot be fully predicted",
+    "we do not believe material impact",
+    "all references are estimates",
+    "may require external financing",
+    "significant economic disruption"
+  ],
+  "risk_summary": "The excerpt presents material COVID-19, cybersecurity, currency, commodity-price, channel-inventory, and liquidity risks, with several impacts described as uncertain or estimated. Quantified operating targets and segment drivers improve disclosure precision, but the discussion relies substantially on conditional language and broad management assertions. Liquidity is characterized as sufficient for current needs, although significant acquisitions could require external financing."
+}

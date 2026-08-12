@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown factors",
+    "restatement-related activities",
+    "strategic and financing options",
+    "adjusted available borrowing capacity"
+  ],
+  "risk_summary": "The disclosure is highly adverse, citing sustained operating losses, weak internal controls, delayed SEC filings, substantial restatement costs, rising leverage, and increased financing expense. Although many impacts are quantified, extensive legal disclaimers and dense cross-referencing partially obscure the severity and forward-looking implications of the risks."
+}

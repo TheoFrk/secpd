@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "not possible for management to predict all such factors",
+    "foregoing review of factors should not be construed as exhaustive",
+    "expressly disclaim any current intention to update",
+    "strategic review of competitive operations"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified deterioration, including a $6.177 billion net loss, $10.665 billion of impairment charges, weak PJM energy and capacity markets, and plans to exit competitive generation. Regulated operations provide a more stable outlook, but the extensive forward-looking disclaimers and dependence on regulatory approvals and future rate recovery indicate material execution and credit risks."
+}

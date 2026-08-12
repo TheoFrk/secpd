@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "actual losses may be higher or lower",
+    "could materially adversely impact earnings",
+    "limited or no observable market data",
+    "audit report should no longer be relied upon"
+  ],
+  "risk_summary": "The excerpt discloses a material accounting restatement and prior auditor-reliance issue, although it quantifies the tax-related impacts and states there was no cash or operating-expense effect. Credit risk remains sensitive to subjective loan-loss estimates, uncertain recoveries, fair-value assumptions, and potential future provisions."
+}

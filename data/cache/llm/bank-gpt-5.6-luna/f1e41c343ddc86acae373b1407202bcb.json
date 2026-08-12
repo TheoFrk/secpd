@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "remains uncertain",
+    "we believe",
+    "should provide sufficient support",
+    "highly regulated industry",
+    "tentative opening dates"
+  ],
+  "risk_summary": "The excerpt is generally specific, with substantial quantitative and dated disclosure regarding operations, the spin-off, expansion, debt maturities, and reimbursement exposure. However, the outlook relies heavily on optimistic management assertions and contains standard cross-references and broad statements about adaptability amid regulatory and reimbursement uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect ... in the future",
+    "economically attractive",
+    "highly rated and top selling",
+    "expanding demographics"
+  ],
+  "risk_summary": "The excerpt is predominantly promotional and descriptive, emphasizing franchises, market opportunities, and expected future growth while providing limited quantified operating or downside-risk analysis. It acknowledges dependence on successful product releases, development-cost management, licensing, platform transitions, and international expansion, but offers few measurable sensitivities or adverse scenarios."
+}

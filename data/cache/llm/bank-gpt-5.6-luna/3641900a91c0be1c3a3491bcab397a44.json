@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-core gains and charges",
+    "underlying business performance",
+    "Financial Flexibility",
+    "not comparable to other companies",
+    "free cash flow as a non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is detailed and includes quantified divestiture impacts and definitions, but heavily emphasizes management-adjusted non-GAAP metrics that exclude restructuring and other charges. Repeated qualifications and extensive methodological language may obscure GAAP performance and comparability, while recurring restructuring activity indicates execution and cost-management risk."
+}

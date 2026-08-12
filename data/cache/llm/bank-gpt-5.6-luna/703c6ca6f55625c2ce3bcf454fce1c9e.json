@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-U.S. GAAP measures",
+    "may credit the Company with growth",
+    "believes methodology is consistent",
+    "potential benefits and risks",
+    "comprehensive review of reportable segments"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantified, but contains extensive methodological and definitional boilerplate that may obscure operating trends. Risk tone is mildly negative due to declining operating margins, lower operating profit, adverse foreign exchange effects, and $48.5 million of goodwill impairment, although acquisition-driven revenue growth provides some offset."
+}

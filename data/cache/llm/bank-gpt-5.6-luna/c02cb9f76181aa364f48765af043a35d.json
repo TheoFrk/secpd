@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "difficult to predict",
+    "no obligation to update",
+    "expects to decline over time",
+    "partially offset"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on losses, revenue drivers, margins, ANDA filings, and expenses, but includes substantial standard forward-looking disclaimers and aspirational growth language. Risk tone is mildly negative because the company remains loss-making, operates in a highly competitive market, and depends on regulatory approvals and future execution, despite improved results and product launches."
+}

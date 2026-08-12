@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "constant currency basis",
+    "forward-looking statements",
+    "may materially impact",
+    "expected to continue to do so"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and reports strong operating and cash-flow growth, but presentation relies substantially on non-GAAP and constant-currency measures. Leverage is material at $1.36 billion of gross debt versus $272 million of cash, with management indicating it may substantially increase indebtedness for acquisitions. Contract-mix effects, foreign exchange headwinds, restructuring payments, and accounting adjustments complicate comparability and underlying performance assessment."
+}

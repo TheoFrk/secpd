@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous risks and uncertainties",
+    "non-GAAP measures",
+    "competitive pressure",
+    "accounting restatement and remediation"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and specific, with detailed segment-level revenue, expense, volume, currency, and fleet metrics. Risk tone is mildly negative due to declining revenues, competitive pricing pressure, foreign-exchange exposure, fleet residual-value sensitivity, liquidity needs, and disclosed accounting-restatement costs, although the discussion remains controlled and analytical."
+}

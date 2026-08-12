@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.88,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "refer you to",
+    "cautionary statement",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and redirects readers to another document through incorporation by reference. This limits transparency and prevents assessment of current operating, liquidity, or solvency risks from the excerpt alone."
+}

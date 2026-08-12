@@ -97,9 +97,9 @@ python train.py --data data/processed/zenodo_labeled.csv.gz \
    Bank-Server anpassen; robusteste Variante via Docker, siehe Skript-Header).
 2. **Home:** committen: Code, `requirements.txt`, ggf. `models/*_*.joblib`.
    Rohdaten **nicht** committen — Zenodo + EDGAR-Skripte (siehe oben).
-   Optional lokal: `vendor/wheels/`, `assets/nltk_data/`, `data/cache/llm/`.
+   Optional lokal: `vendor/wheels/`, `data/cache/llm/`.
 3. **Bank:** `bash scripts/install_offline.sh` (venv, `--no-index`-Install,
-   Editable-Install, NLTK-Pfad).
+   Editable-Install).
 4. **Bank:** ENV setzen und **identisch** trainieren/scoren:
 
 ```bash
@@ -118,12 +118,74 @@ committet werden — damit sind die Bank-LLM-Profile zu Hause exakt reproduzierb
 
 | Variable              | Zweck                                   | Default |
 |-----------------------|-----------------------------------------|---------|
-| `SECPD_LLM_MODE`     | `mock` \| `bank`                        | `mock`  |
-| `SECPD_LLM_ENDPOINT` | Interner Completions-Endpoint (Bank)    | —       |
-| `SECPD_LLM_API_KEY`  | Interner Key (Bank; nicht committen)    | —       |
-| `SECPD_LLM_MODEL`    | Modellname des Gateways                 | `internal-default` |
+| `SECPD_LLM_MODE`     | `mock` \| `openai` \| `lmstudio` \| `bank` | `mock`  |
+| `SECPD_LLM_ENDPOINT` | Gateway-/LM-Studio-URL oder Host        | OpenAI: api.openai.com |
+| `SECPD_LLM_API_KEY`  | Key (auch in `start.py` → `.secpd.env`) | —       |
+| `SECPD_LLM_MODEL`    | Modellname (`gpt-5.6-luna` / `auto`)    | je nach Modus |
+| `SECPD_LLM_JSON_MODE`| `1`/`0` — `response_format=json_object` | openai: `1` |
+| `SECPD_LLM_TIMEOUT`  | Request-Timeout (Sekunden)              | openai: `120` |
 | `SECPD_SEC_UA`       | SEC-Pflicht-User-Agent für EDGAR (Home) | —       |
 | `SECPD_LLM_CACHE`    | Cache-Verzeichnis (optional)            | `data/cache/llm` |
+
+### OpenAI / ChatGPT (empfohlen für Bulk)
+
+In `python start.py` → **Einstellungen → LLM → OpenAI** den Dev-API-Key
+eintragen (wird in `.secpd.env` gespeichert, gitignored). Beim Training:
+**Cache nutzen** (schnell) oder **Neu bewerten** (`--llm-refresh`).
+
+```bash
+# Oder per ENV:
+export SECPD_LLM_MODE=openai
+export SECPD_LLM_API_KEY=sk-...          # nie committen!
+# Default-Modell: gpt-5.6-luna
+
+make ping-llm                            # nach ENV / .secpd.env
+python scripts/precompute_llm_features.py \
+  --data data/processed/zenodo_labeled.csv.gz --llm openai --sample 5
+
+# Volles Sample cachen, danach Training mit Cache:
+python scripts/precompute_llm_features.py \
+  --data data/processed/zenodo_labeled.csv.gz \
+  --financials data/raw/financials_panel.csv \
+  --min-fyear 2009 --require-financials --llm openai \
+  --out data/processed/llm_features_openai.csv
+
+python train.py --data data/processed/zenodo_labeled.csv.gz \
+  --financials data/raw/financials_panel.csv \
+  --events data/raw/edgar_8k_events.csv \
+  --label-source default --require-financials \
+  --mode combined --llm openai --calibrate
+# Neu bewerten: zusätzlich --llm-refresh
+```
+
+### LM Studio (lokales LLM)
+
+In LM Studio den Local Server starten (Bind `0.0.0.0`, Port `1234`) und ein
+Modell laden. Vom Rechner im gleichen Netz:
+
+```bash
+export SECPD_LLM_MODE=lmstudio
+export SECPD_LLM_ENDPOINT=http://172.16.3.164:1234
+export SECPD_LLM_MODEL=auto          # oder exakte Modell-ID aus LM Studio
+
+make ping-llm                        # /v1/models + optional --analyze
+# Smoke-Test mit 5 Docs:
+python scripts/precompute_llm_features.py \
+  --data data/processed/zenodo_labeled.csv.gz --llm lmstudio --sample 5
+
+# Volles Clean-Sample cachen (wiederaufnehmbar):
+make precompute-llm
+
+# Danach Training nutzt denselben Cache:
+python train.py --data data/processed/zenodo_labeled.csv.gz \
+  --financials data/raw/financials_panel.csv \
+  --events data/raw/edgar_8k_events.csv \
+  --label-source default --require-financials \
+  --mode combined --llm lmstudio --calibrate
+```
+
+Cache-Dateien landen unter `data/cache/llm/bank-<modell>/` und werden bei
+Re-Runs übersprungen (auch wenn der LLM-Host offline ist — dann nur Hits).
 
 ## 8-K-Events & Default-Label (Insolvenz)
 

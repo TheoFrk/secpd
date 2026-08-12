@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict extent",
+    "unpredictable and fluid nature",
+    "currently do not expect",
+    "primarily due to",
+    "timing differences generally immaterial"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on margins, volume points, regional sales, pricing, and foreign exchange impacts, but also relies on standard forward-looking qualifiers and acknowledges limited predictability of macroeconomic and geopolitical effects. Risk tone is mildly negative because of declining volumes and sales, inflation, currency exposure, geopolitical conflicts, and continuing FTC compliance oversight, although management presents these risks as manageable."
+}

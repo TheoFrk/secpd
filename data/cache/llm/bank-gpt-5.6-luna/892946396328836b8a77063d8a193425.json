@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could have a material adverse effect",
+    "when necessary, we will modify",
+    "no assurance that financing would be available",
+    "expected to benefit",
+    "various factors and statistics"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed revenue, margin, market, and debt information. Risk tone is cautiously positive, but it highlights dependence on economic conditions, government funding, rail traffic, raw-material availability, contract performance, and refinancing access. Some forward-looking statements and standard contingency language reduce precision regarding downside scenarios."
+}

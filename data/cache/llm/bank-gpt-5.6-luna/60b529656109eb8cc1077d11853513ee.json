@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe",
+    "cannot be predicted at this time",
+    "actual results could differ",
+    "forward-looking statements",
+    "SEC investigation and restatement"
+  ],
+  "risk_summary": "The excerpt combines quantified revenue mix and accounting disclosures with extensive promotional and belief-based language. Material risk signals include prior financial restatements, an ongoing SEC investigation with uncertain remedies, and litigation exposure, although the tone is not crisis-like."
+}

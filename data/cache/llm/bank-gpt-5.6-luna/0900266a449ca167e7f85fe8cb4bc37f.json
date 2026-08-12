@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "including but not limited to",
+    "may differ materially",
+    "estimated contract revenue and costs",
+    "falsified records and inappropriate revenue recognition"
+  ],
+  "risk_summary": "The excerpt is highly detailed and includes substantial quantified information on the 2012 separation, segment structure, and related costs, but it also contains standard forward-looking disclaimers and estimate-dependent accounting language. Risk tone is moderately negative due to falsified receivable records in China, inappropriate historical revenue recognition, separation costs, debt refinancing, and uncertainty in long-term contract estimates."
+}

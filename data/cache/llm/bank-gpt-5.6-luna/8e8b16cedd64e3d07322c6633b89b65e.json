@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "various factors, including but not limited to",
+    "continue to monitor",
+    "non-GAAP measure",
+    "unprecedented self-insurance reserves"
+  ],
+  "risk_summary": "The excerpt reports severe deterioration, including a $1.8 billion net loss, a $3.5 billion year-over-year decline in net income, and $2.5 billion of impairment and related charges. Key ongoing risks include declining revenue per day, higher fleet and interest costs, used-vehicle values, personal injury claims, macroeconomic uncertainty, and potential travel-demand weakness. Disclosure is substantially quantified but includes extensive forward-looking caveats and complex non-GAAP adjustments."
+}

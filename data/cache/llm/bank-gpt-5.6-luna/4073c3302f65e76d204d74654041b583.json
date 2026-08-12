@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may prove inaccurate",
+    "other factors",
+    "material impact",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, including revenue mix, transaction volume, customer growth, and an impairment charge. Risk disclosure relies on standard accounting-policy language and management estimates, while non-GAAP metrics may emphasize core performance despite reported losses and impairment-related concerns."
+}

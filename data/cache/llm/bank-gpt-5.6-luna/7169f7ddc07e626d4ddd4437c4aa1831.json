@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "impact could be more or less than we expect",
+    "performance expected to stabilize",
+    "primarily due to",
+    "partially offset by",
+    "provisional transitional tax benefit"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and identifies material deterioration, including a 94% decline in GAAP operating earnings, a sharp cash reduction, customer losses, contract renewal pressure, generics weakness, litigation charges, and Cordis operating challenges. Forward-looking disclosures use moderate uncertainty language around pricing, segment profit, stabilization, and acquisition-related costs, while tax benefits and non-GAAP measures partially soften the reported deterioration."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to estimate the extent of the impact",
+    "remains unknown when there will be a return to normal economic activity",
+    "significant management judgment",
+    "various qualitative factors",
+    "qualified in their entirety by reference"
+  ],
+  "risk_summary": "The excerpt clearly identifies material pandemic, interest-rate, credit-quality, market-volatility, and liquidity risks, but provides limited quantified estimates of their potential financial impact. Risk controls and conservative practices are emphasized in a largely standard, highly technical MD&A style, while the COVID-19 discussion conveys a moderately negative outlook."
+}

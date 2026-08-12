@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurances",
+    "may continue to be affected",
+    "significant uncertainty",
+    "materially and adversely",
+    "subject to significant judgment"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, but uses substantial cautionary and accounting-estimate language that limits predictability. Key risks include declining profitability, reliance on non-recurring Qualcomm licensing income, lengthy product cycles, acquisition-related charges, third-party manufacturing dependence, and uncertain litigation and impairment outcomes."
+}

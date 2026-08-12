@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "non-GAAP limitations",
+    "restatement of financial statements",
+    "significant judgment and estimates"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, including a 17.4% revenue contraction, declining gross profit, and a restatement related to accounting errors and out-of-period corrections. Risk tone is moderately negative due to operating deterioration, development-stage products without revenue, reliance on estimates, and repeated non-GAAP and forward-looking disclaimers."
+}

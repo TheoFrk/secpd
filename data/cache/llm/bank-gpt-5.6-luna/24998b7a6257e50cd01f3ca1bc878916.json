@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "many factors",
+    "risks and uncertainties",
+    "materially affected",
+    "adverse impact",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and macroeconomic data, supporting relatively transparent disclosure. However, its extensive catalog of broad contingencies, cross-references, and forward-looking disclaimer language is largely boilerplate and offers limited quantification of specific downside exposures. Overall tone is cautiously neutral to mildly positive, with acknowledged sensitivity to market, regulatory, geopolitical, credit, and cybersecurity risks."
+}

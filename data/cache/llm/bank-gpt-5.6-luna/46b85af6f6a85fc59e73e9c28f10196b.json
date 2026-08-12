@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "principally due to",
+    "partially offset by",
+    "continued investments for growth",
+    "challenging macro-economic environment",
+    "net of divestitures"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, with detailed explanations of sales, cost, segment, pension, currency, and capital-deployment drivers. Risk tone is broadly confident and performance-oriented, though it acknowledges macroeconomic pressure, foreign-exchange headwinds, lower volumes in some segments, and substantial refinancing activity. Some causal explanations rely on recurring offsetting language and broad operational categories rather than fully granular attribution."
+}

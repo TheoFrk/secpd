@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "factors beyond our control",
+    "do not place undue reliance"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, largely non-quantified list of regulatory, credit, market, operational, and macroeconomic risks. Operating commentary is moderately positive and includes useful quantitative metrics, but declining loans, margin pressure, competitive pricing, and implementation risks indicate meaningful earnings and credit sensitivity."
+}

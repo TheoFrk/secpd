@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "cannot guarantee future results",
+    "no obligation to update",
+    "expected reductions and enhancements"
+  ],
+  "risk_summary": "The excerpt is heavily reliant on standard forward-looking disclaimers and broad references to risks, limiting precision around future performance. It provides meaningful operational detail and some quantified metrics, but acknowledges pressure from low rates, a flat yield curve, delayed cost reductions, and challenged profitability goals."
+}

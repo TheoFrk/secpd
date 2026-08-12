@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance transaction consummated",
+    "other strategic alternatives",
+    "sole discretion may extend",
+    "payment deferment until December 15, 2018",
+    "subject to approved budget and minimum EBITDA"
+  ],
+  "risk_summary": "The excerpt indicates severe liquidity and credit risk, including a $157.5 million borrowing base subject to payment deferral, a high-cost LIBOR plus 10% facility, covenant modifications, extensive collateral requirements, and reliance on an asset sale to repay debt. Management expresses optimism about completing the Federal Business sale but explicitly provides no assurance, while pursuing restructuring, recapitalization, or broader asset-sale alternatives."
+}

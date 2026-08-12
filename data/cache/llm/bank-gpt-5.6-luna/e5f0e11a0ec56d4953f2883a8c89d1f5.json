@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.82,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unaware of any trends or uncertainties",
+    "no guarantee",
+    "reasonably known or reasonably knowable",
+    "may be required to delay, limit, reduce or terminate",
+    "critical accounting policies disclosed in Note 1"
+  ],
+  "risk_summary": "The company reports substantial doubt about its ability to continue as a going concern, driven by recurring losses, minimal cash, working-capital deficiency, accumulated deficit, and dependence on new financing. Although the disclosure is quantitatively detailed, portions of the funding and outlook discussion rely on boilerplate contingencies and provide limited evidence that planned revenue growth or capital raising is achievable."
+}

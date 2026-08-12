@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "if necessary",
+    "currently anticipated investment and funding needs",
+    "excerpt is truncated"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including revenue, earnings, cash flow, leverage, impairments, restructuring charges and contingencies. Risk tone is moderately negative due to international weakness, currency pressures, lower demand and material one-time charges, although liquidity and credit access appear strong. The excerpt contains substantial MD&A boilerplate and a truncated transition that limits assessment of the full risk discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.05,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other similar matters",
+    "estimated range of possible loss",
+    "extensive risk laundry list"
+  ],
+  "risk_summary": "The excerpt is highly complex and contains substantial boilerplate forward-looking language that broadly disclaims predictability and limits reliance on projections. It identifies numerous material legal, regulatory, market, credit, operational, and cyber risks, but provides limited quantification of their potential impact in this passage. Operating disclosures are relatively confident and include meaningful scale metrics, producing an overall neutral risk tone."
+}

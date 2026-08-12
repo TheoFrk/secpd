@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.61,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot reasonably predict outcome",
+    "no reasonable estimate of possible loss",
+    "forward-looking statements",
+    "including but not limited to",
+    "highly technical and complex provisions"
+  ],
+  "risk_summary": "The disclosure is heavily weighted toward standard forward-looking and legal disclaimers, with limited quantified discussion of future performance beyond a mid-single-digit revenue growth expectation. Litigation exposure is material and the company states it cannot estimate potential losses, while related-party transactions and non-arm’s-length arrangements add governance risk. Operating performance improved in 2011 but remained below expectations following the 2008–2010 downturn."
+}

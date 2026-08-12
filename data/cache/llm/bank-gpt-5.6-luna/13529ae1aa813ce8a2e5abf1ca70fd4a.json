@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "expected to",
+    "subject to regulatory approval",
+    "impact ... is uncertain",
+    "primarily due to",
+    "customary closing conditions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with detailed revenue, earnings, cash flow, debt, acquisition, and capital deployment disclosures. Key risks include acquisition execution and integration, regulatory approvals, increased amortization and acquisition-related costs, debt funding, and uncertainty around pharmaceutical price appreciation and product launches. Overall tone is positive but tempered by clear forward-looking caveats."
+}

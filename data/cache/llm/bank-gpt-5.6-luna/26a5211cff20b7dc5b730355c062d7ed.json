@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks, uncertainties and other factors",
+    "could cause actual results to differ materially",
+    "subject to customary closing conditions",
+    "strong customer value proposition",
+    "expected to continue to fluctuate significantly"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking-statement disclaimers and broadly framed risk language, limiting direct assessment of downside exposure. It does provide useful transaction terms, segment descriptions, contract durations, revenue mix, and target returns, but the discussion is highly complex and partially truncated. Operating results are described as materially volatile, with dependence on customer demand, utility volumes, pricing, utilization, and execution."
+}

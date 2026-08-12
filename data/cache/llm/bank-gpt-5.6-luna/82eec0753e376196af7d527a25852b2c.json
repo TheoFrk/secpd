@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "effects are unpredictable and complex",
+    "could experience additional shifts",
+    "subject to specified conditions",
+    "expect that we can improve",
+    "not comparable to other companies"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed regarding acquisitions, debt, revenue growth, reimbursement effects, and share repurchases. Risk tone is moderately constructive but includes meaningful exposure to government reimbursement, patient bad debt, healthcare reform uncertainty, acquisition execution, and substantial leverage. Boilerplate forward-looking and non-GAAP language creates some qualification but does not materially obscure the core information."
+}

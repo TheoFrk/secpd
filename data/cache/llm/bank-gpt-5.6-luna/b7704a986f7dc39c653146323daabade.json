@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to be only partially offset",
+    "market is in decline",
+    "lower-than-expected results",
+    "company-specific risk premium",
+    "adjusted earnings"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear revenue, cash flow, restructuring, outlook, and impairment figures. Risk tone is moderately negative due to declining revenues, weaker earnings and cash flow, anticipated 2017 declines, and a $935 million goodwill impairment, although management presents cost savings and product launches as mitigants. Use of adjusted earnings and extensive forward-looking offset language modestly limits transparency regarding underlying performance."
+}

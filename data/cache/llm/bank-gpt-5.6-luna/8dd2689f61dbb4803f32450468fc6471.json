@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future effects are uncertain",
+    "unable to estimate the long-term impact",
+    "as opportunities arise",
+    "variety of factors",
+    "reasonably likely to result in"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including loan growth, revenue declines, charge-off ratios, delinquency rates, and liquidity conditions. Risk tone is mixed: operating performance improved materially, but COVID-19 uncertainty, reliance on stimulus benefits, elevated charge-offs, declining revenue, and potential covenant or capital-ratio pressure remain significant concerns. Some standard forward-looking and conditional language limits visibility into adverse outcomes."
+}

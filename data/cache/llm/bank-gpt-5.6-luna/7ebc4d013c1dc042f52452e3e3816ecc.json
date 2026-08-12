@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "expects recurring revenue growth",
+    "up to 95% cost reduction",
+    "material GAAP revenue decline",
+    "preferred stock redemption deferral"
+  ],
+  "risk_summary": "The excerpt combines extensive promotional and forward-looking language with limited operating detail, while reporting a 28.5% year-over-year Q4 GAAP revenue decline. The shift toward recurring revenue may create near-term volatility, and the deferred Series A preferred-stock redemption highlights potential liquidity and capitalization pressure."
+}

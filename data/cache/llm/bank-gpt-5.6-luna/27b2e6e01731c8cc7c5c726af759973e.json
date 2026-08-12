@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "actual results may differ materially",
+    "not able to assess the impact",
+    "difficult to predict",
+    "likely to continue"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including insurance reserves, vendor allowances, store counts, and profitability. Key risks include dependence on pandemic-related demand, uncertain future trends, self-insurance exposure, vendor incentives, impairment assumptions, volatile fuel costs, and intense competition. Tone is modestly positive due to strong earnings and favorable conditions, but acknowledges substantial uncertainty and potential margin pressure."
+}

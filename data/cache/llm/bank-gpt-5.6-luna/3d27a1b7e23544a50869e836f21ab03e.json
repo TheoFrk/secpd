@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot predict a […]",
+    "various circumstances",
+    "expect to continue providing services",
+    "otherwise addressed through the Chapter 11 cases",
+    "terms to be set forth in a plan of reorganization"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and some quantified information, but the discussion of the parent’s Chapter 11 proceedings relies on uncertain outcomes and an incomplete passage. Although the company states it is not a debtor and expects services to continue, termination, separation, intercompany, and execution risks remain material."
+}

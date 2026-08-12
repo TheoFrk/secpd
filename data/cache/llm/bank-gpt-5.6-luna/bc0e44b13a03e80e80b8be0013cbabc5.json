@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "no obligation to update",
+    "non-GAAP financial measures",
+    "not meaningful"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative performance information, but relies heavily on standard forward-looking disclaimers and non-GAAP metrics. Declining search revenue, prior-year EBITDA decline, and a significant free-cash-flow reduction driven by transaction-related cash taxes indicate underlying operating and liquidity risks despite a generally confident presentation."
+}

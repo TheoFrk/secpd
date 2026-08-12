@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "not all inclusive",
+    "may result in significant changes",
+    "significant degree of judgment",
+    "various assumptions and qualitative factors"
+  ],
+  "risk_summary": "The excerpt contains extensive standard safe-harbor and accounting-policy language, with substantial reliance on management judgment and assumptions for loan-loss reserves, securities valuation, and impairment. It identifies meaningful exposure to economic deterioration, illiquid markets, regulatory intervention, and potential future charge-offs, but provides limited current-period quantification of these risks in the supplied text."
+}

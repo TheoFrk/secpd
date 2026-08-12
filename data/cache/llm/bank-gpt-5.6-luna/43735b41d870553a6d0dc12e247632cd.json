@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "inherently uncertain",
+    "estimates can fluctuate significantly",
+    "difficult to predict",
+    "volatile costs"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including insurance reserves, vendor allowances, store counts, and earnings changes. Key risks involve self-insurance exposure, impairment estimates, vendor allowance dependence, inflation, labor costs, competition, and volatile fuel prices. The tone is operationally confident but moderately cautious given declining net income and uncertain market conditions."
+}

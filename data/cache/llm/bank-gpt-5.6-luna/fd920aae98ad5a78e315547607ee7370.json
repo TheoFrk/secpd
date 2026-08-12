@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate the full impact",
+    "expected to continue",
+    "what it believes to be",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, covering acquisitions, debt issuance, operating results, and cash flows. Key risks include semiconductor supply constraints, potential COVID-19 resurgence, volatile customer production, higher costs, warranty exposure, and substantial contractual debt obligations. The overall tone is cautiously positive, emphasizing growth and electrification while acknowledging material uncertainty."
+}

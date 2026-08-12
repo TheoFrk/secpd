@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "not expected to reoccur with any regularity",
+    "uncertain times and uncertain amounts",
+    "non-GAAP financial measure",
+    "difficult economic situation"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed reconciliations, but relies on recurring management judgments to classify items as non-core or uncertain. Credit and geographic risks are material, including Puerto Rico government exposure, non-performing assets, OTTI charges, and declining net interest income, although reported profitability and operating detail moderate the overall negative tone."
+}

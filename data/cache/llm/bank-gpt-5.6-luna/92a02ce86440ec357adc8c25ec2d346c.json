@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown factors",
+    "does not believe the impact is material",
+    "expected to improve substantially",
+    "significant judgment",
+    "actively seeking cost reimbursement"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail, but its risk profile is materially negative due to prior restatements, SEC and USAO investigations, elevated warranty costs, control remediation, and significant professional expenses. Management presents an optimistic outlook for sales, margins, and profitability, although these projections rely on multiple uncertain operational improvements and cost reductions."
+}

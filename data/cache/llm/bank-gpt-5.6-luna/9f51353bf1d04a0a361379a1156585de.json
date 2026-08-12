@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "no obligation to update",
+    "subject to approval",
+    "unilateral right to acquire shares"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and broad, non-quantified risk language that limits reliance on forward-looking statements. Liquidity and financing risk appear elevated, with declining cash, approximately $10.3 million of operating cash burn, reliance on equity issuance, convertible debt, and substantial note obligations. Although several transaction amounts and cash-flow figures are quantified, the disclosure is highly complex and partially truncated, limiting assessment of underlying operating performance."
+}

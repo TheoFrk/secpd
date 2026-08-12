@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe our strategy will enable",
+    "continue to evaluate our portfolio",
+    "primarily driven by",
+    "partially offset by",
+    "adjusted EBITDA non-GAAP exclusions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified results, including continuing losses, used-truck inventory buildup, reserves, restructuring activity, and segment sales declines. Management presents an improving turnaround narrative, but relies on forward-looking assurances, offsetting explanations, and non-GAAP adjusted EBITDA to frame performance positively."
+}

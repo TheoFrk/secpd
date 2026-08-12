@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "based on estimates and assumptions",
+    "may differ significantly",
+    "subject to periodic adjustment",
+    "expected to continue"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on restructuring charges, revenue estimates, distributor returns, and royalty uncertainty, but relies heavily on standard accounting-policy caveats and complex judgment-based explanations. Key risks include potentially material differences between estimated and realized distributor adjustments, HDMI royalty allocations, inventory demand, and future gross margins."
+}

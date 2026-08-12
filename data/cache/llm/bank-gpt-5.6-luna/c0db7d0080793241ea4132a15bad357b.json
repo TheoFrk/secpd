@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "timing of these opportunities is uncertain",
+    "could result in",
+    "unpredictable",
+    "not disclose every item"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative details on oil-price declines, liabilities, acquisition projections, fleet changes, and restructuring costs, but relies substantially on management expectations and conditional language. Exposure to the oil and gas downturn, uncertain contract opportunities, fleet impairment risk, foreign exchange volatility, and restructuring challenges creates a moderately negative risk tone."
+}

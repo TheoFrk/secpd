@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may or may not continue",
+    "primarily due to",
+    "difficulties in evaluating or estimating",
+    "not materially impact",
+    "substantially all of which"
+  ],
+  "risk_summary": "The excerpt presents strong fiscal 2024 performance with quantified revenue and net-income growth, but highlights exposure to device demand, customer inventory normalization, unfavorable product mix, licensing disputes, regulatory proceedings, restructuring, and tax-law changes. Risk disclosures are generally specific, though some outcomes and materiality assessments rely on broad qualifiers and management estimates."
+}

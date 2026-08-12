@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not feasible to identify or quantify",
+    "uncertainty of its duration",
+    "extent to which",
+    "adjusted measures",
+    "potential disruptions"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating and liquidity information, but COVID-19 impacts are partly described through broad, unquantified caveats and references to omitted sections or tables. Risk tone is cautious regarding pandemic duration, demand weakness, supply-chain disruption, and non-GAAP adjustments, while emphasizing operational continuity, liquidity access, and resilience."
+}

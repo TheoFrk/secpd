@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "based on current facts and circumstances",
+    "contingent clinical and regulatory milestones",
+    "estimate customer mix and rebate claims"
+  ],
+  "risk_summary": "The excerpt presents a strong commercial and pipeline profile with substantial quantified transaction and pricing details, but relies on standard forward-looking disclaimers and management estimates for rebates, volume-based discounts, and contingent obligations. Key risks include pricing pressure, revenue variability from product conversion and dosing patterns, regulatory or clinical milestone uncertainty, and potential contingent liabilities."
+}

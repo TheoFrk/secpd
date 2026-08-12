@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "including, but not limited to",
+    "currently expected to",
+    "up to approximately",
+    "for the foreseeable future",
+    "cautionary statements and risks described elsewhere"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on profitability, restructuring charges, headcount reductions, impairments, and expected cost savings. However, extensive forward-looking qualifiers and boilerplate risk language temper the otherwise improved operating results, while the cellular baseband wind-down and reliance on third-party manufacturers represent material ongoing risks."
+}

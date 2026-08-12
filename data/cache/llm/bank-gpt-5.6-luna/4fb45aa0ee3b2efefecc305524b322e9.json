@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "variety of factors",
+    "assumptions we believe to be reasonable",
+    "numerous assumptions and estimates",
+    "actual results could differ",
+    "weakened environment"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantified, but relies heavily on management estimates, forecasts, discount rates, and other assumptions in goodwill impairment testing. Significant prior-period impairment charges, including $373.7 million in 2016 and a $4.4 million charge in 2017, indicate material exposure to operating weakness and valuation deterioration."
+}

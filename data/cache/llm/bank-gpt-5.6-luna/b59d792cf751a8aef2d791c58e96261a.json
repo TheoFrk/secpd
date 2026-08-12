@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "expect moderate double-digit sales growth",
+    "strong value proposition",
+    "aggressive actions for future growth",
+    "projected undiscounted cash flow assumptions"
+  ],
+  "risk_summary": "The disclosure uses highly promotional language and optimistic forecasts, with limited supporting detail for targets such as moderate double-digit sales growth and a 20% EBITDA margin. It identifies meaningful exposure to economic conditions, foreign exchange, debt and interest rates, raw materials, acquisitions, and impairment assumptions, but much of the risk discussion is standardized and qualitative."
+}

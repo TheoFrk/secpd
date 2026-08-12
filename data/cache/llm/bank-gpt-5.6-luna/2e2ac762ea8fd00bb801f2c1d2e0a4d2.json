@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks and uncertainties",
+    "may adversely impact",
+    "without limitation",
+    "subject to significant change",
+    "management assumptions and estimates"
+  ],
+  "risk_summary": "The excerpt is dominated by extensive boilerplate risk-factor language covering macroeconomic, credit, regulatory, technology, liquidity, and operational risks, with limited company-specific quantification. It acknowledges substantial uncertainty in forecasts, models, impairment estimates, and future loan-loss provisions, although the disclosed OREO balance provides some concrete information. Overall tone is cautious and risk-heavy rather than crisis-like."
+}

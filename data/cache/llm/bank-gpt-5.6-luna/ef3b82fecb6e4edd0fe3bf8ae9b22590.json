@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe this enables",
+    "may be adversely affected",
+    "depends heavily upon",
+    "non-GAAP adjusted measures"
+  ],
+  "risk_summary": "The excerpt presents a diversified semiconductor business with meaningful competitive, demand, pricing, capacity-utilization, supply-chain, and customer-concentration risks. Risk disclosures are generally standard and balanced, but rely heavily on broad conditional language and optimistic assertions rather than quantified sensitivities. The extensive discussion of non-GAAP measures may reduce comparability with GAAP performance."
+}

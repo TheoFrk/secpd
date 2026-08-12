@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "primarily driven by",
+    "may reduce or even halt",
+    "closely monitoring the situation",
+    "assumes return to normal"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with positive operating performance and debt reduction. However, COVID-19 creates material supply-chain, production, logistics, inventory, and sales risks, while the outlook depends on an uncertain return to normal operations. Repeated non-GAAP explanations and strategic boilerplate somewhat dilute the risk discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "extent and duration is unknown",
+    "potentially including",
+    "uncertain",
+    "unexpected ways",
+    "may be effectively limited"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative information on liquidity, debt, cash flow, capital expenditures, and pandemic-related costs. Risk is primarily framed around uncertain COVID-19 duration, demand normalization, supply-chain disruptions, unemployment, economic weakness, and potentially constrained borrowing availability, while management maintains a generally stable and confident operating outlook."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.55,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximately",
+    "generally rely",
+    "we believe",
+    "subject to adjustment",
+    "primarily as a result"
+  ],
+  "risk_summary": "The excerpt is generally transparent and positively framed, with substantial quantified data on market share, acquisitions, backlog, shipments, costs, and discontinued operations. Some outlook statements rely on management beliefs, industry forecasts, approximate figures, and generalized causal explanations, while dealer inventory, labor costs, product mix, and demand remain relevant risk factors."
+}

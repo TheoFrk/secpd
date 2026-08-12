@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we expect",
+    "leading provider",
+    "favorable opportunities",
+    "strategic acquisitions",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt uses a generally confident, growth-oriented tone and provides substantial quantitative detail on revenue, acquisitions, and segment performance. It contains standard forward-looking disclaimers and optimistic assertions that introduce moderate uncertainty, while semiconductor cyclicality and acquisition dependence are acknowledged but not deeply quantified."
+}

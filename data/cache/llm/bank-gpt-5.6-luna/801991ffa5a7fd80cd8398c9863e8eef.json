@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "not limited to",
+    "details will be disclosed as plans are finalized",
+    "expected market demands",
+    "other risks associated with the Combination"
+  ],
+  "risk_summary": "The excerpt combines quantified historical results with extensive boilerplate forward-looking disclaimers and broad references to risks in other filings. Key exposures include pricing pressure, tender-system losses, generic competition, restructuring uncertainty, litigation, tax reserves, and execution risk related to the Upjohn combination."
+}

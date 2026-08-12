@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance / cannot assure",
+    "numerous factors",
+    "may be required to reduce or cease operations",
+    "additional external financing",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The excerpt provides useful quantified liquidity and financing details, including working capital, cash, credit availability, and equity proceeds. However, it signals severe liquidity and going-concern risk through recurring warnings about dependence on external financing, potential operational reductions, bankruptcy protection, continuing losses, and negative operating cash flow."
+}

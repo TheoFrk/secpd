@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "subject to availability of capital",
+    "no assurance",
+    "limited operating history",
+    "evolving and unpredictable business model",
+    "professional fees inconsistency"
+  ],
+  "risk_summary": "The company has no revenue, minimal cash, recurring operating losses, negative operating cash flow, and explicit going-concern and financing uncertainties. Its strategy depends heavily on future capital raising, certifications, patents, commercialization, and acquisitions, none of which is assured. The discussion contains a material internal inconsistency in the professional-fee variance explanation, reducing disclosure reliability."
+}

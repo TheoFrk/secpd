@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "largely driven by",
+    "partially offset by",
+    "expected to qualify",
+    "derived by methods other than GAAP"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with detailed performance, credit-quality, acquisition, and interest-rate disclosures. Risk indicators include rising non-performing assets, declining deposits, higher provision expense, and exposure to changing interest rates, although earnings and net interest margin improved. Some standard MD&A and non-GAAP language, along with causal qualifiers, modestly limits precision."
+}

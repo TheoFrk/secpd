@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "believes and expects",
+    "bookings rather than revenue",
+    "elongated evaluation process",
+    "promotional product claims"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue, cash, deferred revenue, customer additions, and tax items, but emphasizes product awards and management beliefs. Underlying 2015 revenue declined 18% excluding a one-time $11.3 million recognition, cash and securities fell materially, and elongated sales cycles and renewal evaluations indicate elevated execution and liquidity risk. Revenue comparability is obscured by changing licensing structures, subscriptions, and accelerated deferred-revenue recognition."
+}

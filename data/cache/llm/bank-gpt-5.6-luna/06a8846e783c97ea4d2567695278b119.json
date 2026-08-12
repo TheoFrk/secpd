@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "not expected to be repeated in the near term",
+    "multiple factors",
+    "inherently uncertain and subject to refinement",
+    "difficulty in predicting future results",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is relatively quantified and explains key drivers, but presents meaningful credit risks including recurring net losses, negative operating cash flow, substantial term debt, margin pressure, inventory obsolescence, and a full valuation allowance on deferred tax assets. Management uses some forward-looking and uncertainty language to characterize adverse items as non-recurring or dependent on future evidence, which moderates the transparency of downside persistence."
+}

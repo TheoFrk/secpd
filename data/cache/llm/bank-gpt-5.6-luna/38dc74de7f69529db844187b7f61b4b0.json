@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "broad growth",
+    "strong growth",
+    "virtually every major",
+    "nearly every major",
+    "aimed at getting ... on the road"
+  ],
+  "risk_summary": "The excerpt is highly quantitative regarding revenue, margins, cash, taxes, and shareholder returns, with relatively limited evasive language. Its tone is strongly confident and promotional, while some market and partnership claims rely on broad, non-specific descriptors; the excerpt is truncated before the full critical accounting discussion and risk factors."
+}

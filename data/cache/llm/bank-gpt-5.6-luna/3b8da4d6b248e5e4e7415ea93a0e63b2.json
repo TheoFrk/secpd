@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.77,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "could differ materially",
+    "beyond our control",
+    "should not place undue reliance"
+  ],
+  "risk_summary": "The excerpt combines detailed operating metrics with extensive boilerplate forward-looking disclaimers and a broad, non-prioritized list of potential risks. COVID-19, credit quality, real estate exposure, regulatory actions, liquidity, and interest-rate conditions are material risk areas, although reported results and liquidity trends remain generally favorable."
+}

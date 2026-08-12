@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "difficult to predict",
+    "materially different",
+    "not able to reasonably estimate",
+    "many variables",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent regarding sales drivers, acquisitions, margins, and capital allocation, with an overall positive operating tone. However, legal settlement exposure, underfunded pensions, uncertain tax positions, and other contingencies are described using broad uncertainty language and lack clear timing or ultimate-cost ranges."
+}

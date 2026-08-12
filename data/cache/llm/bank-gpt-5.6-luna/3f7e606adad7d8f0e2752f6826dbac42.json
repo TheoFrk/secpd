@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP measure limitations",
+    "primarily attributable to",
+    "other gains, losses, and expenses",
+    "expected to see a reduction",
+    "partially offset by declines"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains revenue, TAC, and regional drivers, but relies on lengthy boilerplate limitations for non-GAAP metrics. Risk tone is mildly negative because TAC growth materially exceeded revenue growth, revenue ex-TAC declined 7%, and legacy businesses and search traffic weakened, despite growth in mobile, native, and video advertising."
+}

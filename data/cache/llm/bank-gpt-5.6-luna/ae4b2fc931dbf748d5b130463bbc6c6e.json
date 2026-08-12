@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "subject to factors noted",
+    "typically provide",
+    "believe primary revenue drivers"
+  ],
+  "risk_summary": "The excerpt presents quantified liquidity, revenue, segment, and customer-base information, but contains substantial standard MD&A boilerplate and forward-looking qualifications. Business performance depends on client retention and acquisition, labor and supply costs, Medicare/Medicaid reimbursement conditions, bad debt, and self-insurance estimates. Liquidity appears relatively strong based on cash, working capital, and unused credit capacity, producing a mildly positive overall tone."
+}

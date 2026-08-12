@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.91,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "referral to external section",
+    "cautionary forward-looking statement",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead incorporates the MD&A by reference. This limits transparency and prevents assessment of liquidity, operating results, and forward-looking risks from the provided text."
+}

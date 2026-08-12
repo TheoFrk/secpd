@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.35,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "deferred disclosure",
+    "annual report exhibit"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead incorporates the MD&A by reference to another document. This limits transparency and requires reviewing the referenced annual report exhibit to assess liquidity, performance, and material risks."
+}

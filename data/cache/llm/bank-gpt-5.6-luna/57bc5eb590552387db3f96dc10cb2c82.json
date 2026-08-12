@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "not material to financial condition",
+    "recession resistant",
+    "could differ materially",
+    "beyond the ability to control",
+    "without limitation"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and presents sustained revenue, margin, and earnings growth with a confident operating tone. Risk discussion is largely boilerplate, relying on materiality assertions and standard forward-looking disclaimers, while identifying litigation, labor, regulatory, climate, market, and acquisition risks."
+}

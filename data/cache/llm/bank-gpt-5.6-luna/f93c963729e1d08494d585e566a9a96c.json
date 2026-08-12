@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no exact measure",
+    "all references ... are estimates",
+    "inherent risk associated",
+    "if actual results differ",
+    "assumptions and projections"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on revenue declines, acquisitions, repurchases, and operating drivers, but relies on estimates and management assumptions for commodity effects, channel inventory, market growth, and impairment valuations. Operating performance weakened in 2024, with lower volume, increased amortization, and higher interest expense, although the overall tone remains strategically confident and forward-looking."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "management estimates and judgments",
+    "various market valuation methodologies",
+    "subject to significant change"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful detail on loan-loss allowances, goodwill impairment, deferred taxes, asset composition, and interest-rate metrics. Risk tone is moderately negative due to a $19.4 million goodwill impairment charge, deteriorating commercial real estate asset quality, and reliance on materially judgmental estimates, although the disclosure is largely standard and not overtly evasive."
+}

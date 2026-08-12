@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "unable to predict precise impact",
+    "expect to benefit over time",
+    "subject to risks and uncertainties",
+    "could materially increase or decrease",
+    "when and if opportunities are available"
+  ],
+  "risk_summary": "The excerpt provides some useful operational detail and quantified disclosures, including hospital capacity, outpatient revenue mix, and estimated provider-fee revenue. However, it relies heavily on forward-looking, conditional language while identifying material risks from declining volumes, bad debt, reimbursement changes, regulation, and economic conditions. Overall tone is cautiously strategic but reflects meaningful industry and execution risk."
+}

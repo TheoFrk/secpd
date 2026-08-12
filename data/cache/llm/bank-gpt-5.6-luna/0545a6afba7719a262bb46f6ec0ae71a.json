@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to market conditions",
+    "certain other charges",
+    "non-GAAP measures",
+    "will likely continue"
+  ],
+  "risk_summary": "The excerpt reports strong revenue, margin, and EPS growth with substantial quantitative detail, producing a generally positive operating tone. Risk disclosure is partly boilerplate and relies on broad qualifiers, while extensive non-GAAP measures and exclusions may reduce comparability with GAAP and peers. COVID-19, working-capital and supply-chain pressures, tax uncertainties, and foreign earnings repatriation remain material risks."
+}

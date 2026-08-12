@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could have a material adverse effect",
+    "depends largely on",
+    "when necessary, we will modify",
+    "expected to remain about the same",
+    "risks inherent in global expansion"
+  ],
+  "risk_summary": "The excerpt is generally confident and quantitatively detailed, citing revenue drivers, market statistics, margins, liquidity, borrowing capacity, and interest rates. Key risks include economic sensitivity, government funding and customer demand, foreign exchange, global expansion, raw-material constraints, delayed orders, and variable-rate debt, though much of the risk language is standard forward-looking disclosure."
+}

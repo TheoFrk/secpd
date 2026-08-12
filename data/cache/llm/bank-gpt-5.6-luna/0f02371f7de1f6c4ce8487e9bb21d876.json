@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "primarily driven by",
+    "challenging global economic environment",
+    "temporary decrease expected to reverse",
+    "excluding restructuring and integration costs"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial reconciliation context, but relies on adjusted non-GAAP metrics and repeated attribution language that can soften underlying cost and margin pressures. Risk tone is mildly negative due to pricing pressure, weak exposure units, pension funding needs, and elevated receivables, although management presents operating performance and liquidity as controlled."
+}

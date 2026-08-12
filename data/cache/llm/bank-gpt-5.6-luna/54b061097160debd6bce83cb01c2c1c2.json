@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significantly impacted",
+    "estimated liquidation value",
+    "high degree of judgment and complexity",
+    "could differ materially",
+    "uncertainty as to timing"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and explains major credit charges, loan sales, write-downs, nonperforming assets, and FDIC loss-share mechanics with reasonable specificity. Risk remains elevated because of a substantial net loss, sharply higher loan-loss provisions, distressed loan dispositions, and reliance on judgmental fair-value and cash-flow estimates, although deposit trends and funding costs improved."
+}

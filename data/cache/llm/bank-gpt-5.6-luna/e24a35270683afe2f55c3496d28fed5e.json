@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "restated and recasted amounts",
+    "common control",
+    "related party transactions",
+    "subject to conditions",
+    "for further discussion"
+  ],
+  "risk_summary": "The excerpt is relatively quantitative and operationally descriptive, but the restatement, recast accounting, extensive related-party involvement, and complex merger structures indicate elevated reporting and governance risk. The overall tone is broadly factual and strategic rather than crisis-like, though it is tempered by disclosures of accounting corrections and significant transaction complexity."
+}

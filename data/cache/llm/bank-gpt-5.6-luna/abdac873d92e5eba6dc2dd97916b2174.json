@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may not match expense recognition",
+    "final fee amount not determined",
+    "historical results not necessarily indicative",
+    "factors may have a material impact"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including membership, earnings, revenue, fee estimates, and expected timing effects, but relies on standard forward-looking disclaimers and numerous conditional assumptions. Key risks include health-care reform fees, reimbursement timing mismatches, PDP volatility, implementation costs, medical-cost estimation, and the possibility of a first-quarter net loss."
+}

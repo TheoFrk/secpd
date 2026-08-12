@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "no assurance",
+    "expected to",
+    "reasonable expectations",
+    "potential impact",
+    "results may differ materially"
+  ],
+  "risk_summary": "The excerpt provides substantial business-structure and product detail but relies heavily on standard forward-looking language and omits the quantitative tables and much of the results discussion. Key risks include market, credit, interest-rate, regulatory, insurance, and legacy Closed Block exposures, although management presents the outlook in a generally stable and moderately confident tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor and forward-looking disclaimer",
+    "material weaknesses may be identified",
+    "additional errors and future restatement",
+    "other risks and uncertainties",
+    "internally developed assumptions"
+  ],
+  "risk_summary": "The excerpt discloses severe reporting, internal-control, restatement, regulatory, credit-rating, hedging, and insurance-liability risks, with substantial reliance on broad contingencies and boilerplate disclaimers. Risk assessment is complicated by long nested lists and unobservable internally developed assumptions in Level 3 valuations. The overall tone is materially negative and indicates elevated financial reporting and solvency-related uncertainty."
+}

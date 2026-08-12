@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance of obtaining financing",
+    "actual results could differ materially",
+    "powerful and elegant user interface",
+    "exceptional and unparalleled performance"
+  ],
+  "risk_summary": "The excerpt is heavily product- and marketing-oriented, with numerous superlatives and limited operating or financial performance detail in the provided portion. It includes standard forward-looking-risk language and a meaningful liquidity caveat regarding the ability to obtain additional financing, alongside quantified inventory and purchase-order exposures. Overall tone is modestly positive but partially offset by financing uncertainty and boilerplate disclaimers."
+}

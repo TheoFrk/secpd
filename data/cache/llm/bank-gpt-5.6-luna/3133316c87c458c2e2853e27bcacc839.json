@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor language",
+    "other risks and uncertainties",
+    "internally developed assumptions",
+    "unidentified or unanticipated risk",
+    "does not undertake to update"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate forward-looking-statement disclaimers and a broad, largely non-quantified list of risks spanning liquidity, reserves, capital, reinsurance, regulation, and market factors. It provides some useful operational and valuation detail, including product mix and Level 3 assumptions, but relies materially on management estimates and policyholder-behavior assumptions that could produce significant earnings or reserve volatility."
+}

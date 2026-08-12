@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unpredictable impacts",
+    "unable to predict",
+    "could continue to impact",
+    "wide range of factors beyond our control",
+    "normalized market conditions"
+  ],
+  "risk_summary": "The disclosure provides substantial operational detail and several quantified charges, but the outlook relies on broad uncertainty language regarding commodity prices, trade relations, weather, and market normalization. Risk tone is moderately cautious, with notable pressure on agricultural margins, liquidity, leverage, cash flows, and asset valuations, partly offset by improved fiscal 2019 energy performance."
+}

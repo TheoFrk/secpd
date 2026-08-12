@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "potentially first-in-class/best-in-class",
+    "it is possible that",
+    "not able to predict",
+    "expected to decline"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, but it omits the prior-year comparison and uses forward-looking uncertainty around pricing regulation, tax changes, product selection, and pipeline outcomes. Revenue pressure from generic erosion, especially for Revlimid, is material, although approvals, acquisitions, and pipeline expansion support a broadly balanced risk tone."
+}

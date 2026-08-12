@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad range of activities",
+    "highest and best use",
+    "actual results may differ",
+    "if the mill permanently ceases operations",
+    "qualitative and quantitative factors"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and contains substantial segment and accounting-policy boilerplate, but it provides some useful quantified year-over-year changes. Risk is moderate due to real-estate valuation and completion estimates, timber-price and mill-closure exposure, impairment effects, and references to SEC inquiry and litigation."
+}

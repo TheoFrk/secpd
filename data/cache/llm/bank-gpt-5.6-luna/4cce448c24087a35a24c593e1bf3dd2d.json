@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to:",
+    "may impact our businesses",
+    "we expect to:",
+    "continue to strive to mitigate",
+    "for additional information, refer to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but is weakened by truncated or omitted explanations following key causal headings and reliance on broad forward-looking language. Risk tone is moderately negative, reflecting sharp sales declines, major impairments, facility closures, restructuring, adverse operating leverage, and potential further market pressure, despite management’s confidence in long-term brand prospects."
+}

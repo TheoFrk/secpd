@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "as soon as practicable",
+    "cannot assure you",
+    "subject to periodic review",
+    "should no longer be relied upon",
+    "delisting proceedings"
+  ],
+  "risk_summary": "The excerpt discloses severe governance, reporting, and market-access risks, including delayed SEC filings, NYSE American suspension and potential delisting, Expert Market trading, and material restatements caused by inventory-costing errors and insufficient reserves. Although many financial impacts and operational drivers are quantified, the timing and outcome of regulatory, listing, and trading-related remediation remain uncertain."
+}

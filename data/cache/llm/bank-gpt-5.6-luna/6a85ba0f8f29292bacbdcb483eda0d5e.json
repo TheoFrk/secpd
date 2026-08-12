@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "favorable and unfavorable factors not enumerated",
+    "myriad of opportunities",
+    "various market, financial, and other factors",
+    "non-GAAP operating earnings adjustments",
+    "pending merger and integration costs"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear GAAP results, adjustments, projected acquisition costs, and planned capital investments. Risk tone is moderately confident, but competitive-market pressures, merger execution, regulatory conditions, and reliance on adjusted non-GAAP performance introduce meaningful uncertainty."
+}

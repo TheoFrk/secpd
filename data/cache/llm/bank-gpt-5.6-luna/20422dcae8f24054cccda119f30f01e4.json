@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could negatively impact",
+    "underlying business trends",
+    "higher-value recruitment solutions",
+    "non-GAAP EBITDA emphasis"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and strongly quantified, with detailed revenue, margin, expense, and EBITDA comparisons. Risk tone is mildly negative because of slowing growth, European sovereign-debt exposure, currency sensitivity, pricing pressure, and client delays, although management offsets this with promotional and forward-looking language. Extensive MD&A boilerplate, non-GAAP emphasis, and some broad strategic claims modestly reduce disclosure clarity."
+}

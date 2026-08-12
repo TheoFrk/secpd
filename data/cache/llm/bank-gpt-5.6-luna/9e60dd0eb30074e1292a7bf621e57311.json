@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may be adversely affected",
+    "we believe",
+    "highly competitive markets",
+    "depends heavily upon"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosures on customers, concentration, capacity, patents, and segment structure, but much of the discussion is standard boilerplate and relies on broad claims about competitiveness and mitigation. Key risks include customer concentration, cyclical demand, pricing pressure, capacity under-utilization, inventory obsolescence, and dependence on Korean manufacturing operations."
+}

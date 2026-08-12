@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "predictions regarding future performance difficult",
+    "significant percentage of revenue",
+    "based on various other assumptions",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on international exposure, receivables, cash balances, acquisitions, debt repayment, and operating results. Key risks include government and geographic spending weakness, foreign-exchange exposure, seasonality, customer credit deterioration, and a significant decline in cash, although the overall tone remains balanced and operationally confident."
+}

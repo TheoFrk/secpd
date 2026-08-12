@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "future sales growth rates may fluctuate",
+    "subject to variance",
+    "significantly affected by",
+    "not practicable or cost justified",
+    "strong renewals and broad-based strength"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by product and renewal commentary, but includes limited quantitative detail in the provided portion. Key risks include the significant cash reduction from the $11 billion special dividend, lower future investment income, foreign-exchange exposure, tax-rate variability, and non-comparable prior-period reporting."
+}

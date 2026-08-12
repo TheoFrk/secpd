@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt",
+    "cannot assure financing",
+    "developmental stage",
+    "may be incapable",
+    "expected to target"
+  ],
+  "risk_summary": "The company reports minimal revenue, escalating expenses, substantial net losses, derivative-related costs, and an auditor-issued going-concern opinion. Continued operations depend on obtaining additional financing, but no financing agreements exist and management cannot assure that capital will be available on acceptable terms or at all."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "pro forma adjustments",
+    "as otherwise indicated",
+    "expected to stabilize",
+    "contingency plans remain in place",
+    "historical results deemed predecessor"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on sales declines, pricing, volume, geographic effects, and COVID-19 operational conditions, limiting overt evasiveness. However, extensive restructuring and pro forma terminology materially complicate comparability, while pandemic, supply-chain, pricing, and demand pressures create a moderately negative risk tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not yet determinable",
+    "may or may not be material",
+    "continue to monitor",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking and regulatory boilerplate, which reduces specificity and increases disclosure complexity. It does quantify a material customer-account receivable of $31.3 million but states that ultimate losses remain indeterminate and may or may not be material. Management uses a defensive but confident tone regarding collection, enforcement, and compliance with liquidity and regulatory requirements."
+}

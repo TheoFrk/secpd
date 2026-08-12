@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "underlying business performance",
+    "various competitive and other factors",
+    "potentially expand market presence",
+    "as long as there are not any extended supply chain disruptions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative operating, market, and cash-flow data, but relies heavily on non-GAAP measures and broad management judgments about normalized performance and future demand. Key risks include commodity and raw-material volatility, supply-chain constraints, deferred railroad purchases, pandemic effects, and increased working-capital usage, partially offset by continued operations and expected infrastructure-driven demand."
+}

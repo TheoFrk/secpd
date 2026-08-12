@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "variety of risk factors",
+    "no obligation to update",
+    "do not disclose quantitative information",
+    "contingent consideration potentially payable"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking-statement disclaimers and explicitly limits quantitative disclosure by product. It identifies meaningful risks including substantial leverage, currency exposure, government-spending pressure, acquisition integration, contingent consideration, and an increased royalty accrual, although operations and liquidity are presented in a generally stable and confident manner."
+}

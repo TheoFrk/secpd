@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "inherently uncertain estimates",
+    "unknown future periods",
+    "various factors including, but not limited to",
+    "comparability not presented"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but comparability is reduced by the ASC 606 transition and extensive accounting-estimate caveats. Risk is elevated by margin compression, pension and environmental obligations, uncertain tax positions, and potential adverse cash-flow effects from operational and macroeconomic factors."
+}

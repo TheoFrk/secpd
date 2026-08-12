@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot reasonably predict outcome",
+    "no assurance",
+    "highly technical and complex provisions",
+    "significant uncertainties"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and broad, non-quantified uncertainty disclosures, particularly regarding forecasts, REIT qualification, and litigation. Operating results show recovery but continued underperformance versus the industry, while litigation, regulatory exposure, debt costs, and related-party transactions represent meaningful credit risks."
+}

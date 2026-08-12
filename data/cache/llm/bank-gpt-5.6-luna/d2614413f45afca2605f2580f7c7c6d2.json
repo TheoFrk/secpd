@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "may differ materially",
+    "without limitation",
+    "leading provider",
+    "adjusted operating income excluding charges"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified but contains substantial boilerplate forward-looking disclaimers and promotional descriptions. Operating risk is elevated, reflected in a wider operating loss, lower gross margin, acquisition-related costs, and reliance on acquisitions for growth. Adjusted metrics and numerous exclusions may soften the presentation of underlying performance."
+}

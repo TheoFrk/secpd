@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no financial detail",
+    "information deferred to other pages"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and merely directs the reader to another section. This limits assessment of liquidity, performance, and credit risks from the excerpt alone."
+}

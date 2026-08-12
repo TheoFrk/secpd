@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "uncertainty remains",
+    "we believe",
+    "expected to",
+    "as discussed above",
+    "impact ... discussed throughout"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and financial quantification, including revenue growth, fleet productivity, leverage of scale, and goodwill fair-value cushions. Risk tone is cautiously positive, emphasizing recovery and mitigation efforts, but repeated COVID-19 cross-references and forward-looking expectations leave some uncertainty around pandemic, macroeconomic, and impairment risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and broad disclaimers",
+    "subject to risks, uncertainties, and assumptions",
+    "undertake no obligation to update",
+    "estimates not readily apparent from other sources",
+    "many uncertainties associated with litigation"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative centered on revenue growth, market demand, product launches, and cost control, but its risk disclosures rely heavily on standard forward-looking disclaimers and broad uncertainty language. Material estimation risk exists around reserves, impairments, warranty costs, doubtful accounts, taxes, litigation, and potential intellectual-property royalties, with limited quantified exposure in the provided text."
+}

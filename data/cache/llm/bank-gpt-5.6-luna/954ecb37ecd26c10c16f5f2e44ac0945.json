@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"believe we are well positioned\"",
+    "\"generally denominated\"",
+    "\"actual results may differ\"",
+    "\"challenging economic conditions\"",
+    "\"strategic outlook and growth priorities\""
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively detailed, including revenue changes, currency effects, EPS impacts, and pension sensitivity. Risk tone is cautiously positive, but exposure to client spending, currency volatility, economic conditions, seasonality, and subjective accounting estimates remains material."
+}

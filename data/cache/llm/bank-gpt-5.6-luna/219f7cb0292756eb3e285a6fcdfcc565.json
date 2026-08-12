@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "if current conditions decline",
+    "where possible",
+    "unable to specifically quantify",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with substantial segment, market-share, portfolio, and credit-performance metrics. Risk is moderated but present, particularly through expected declines in truck markets and conditional warnings that weaker economic conditions could increase delinquencies, repossessions, and credit losses. Some causal explanations remain broad and several supporting tables are omitted or truncated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to substantial risks and uncertainties",
+    "various other factors",
+    "significant judgment and estimates",
+    "could materially impact",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed but relies heavily on standard forward-looking disclaimers and management estimates, with limited quantified sensitivity analysis. Risk signals include a larger net loss, lower revenue, increased inventory, reliance on credit-line borrowings, and a valuation allowance reducing deferred tax assets to zero. The disclosure is complex and partially truncated, limiting assessment of the full liquidity and accounting-risk profile."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "non-GAAP financial measures",
+    "limitations as an analytical tool",
+    "not intend or undertake to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, but relies heavily on standard forward-looking and non-GAAP disclaimers. Revenue, adjusted EBITDA, and free cash flow declined in 2014, with notable weakness in EMEA and Asia Pacific and rising global operating costs, indicating moderate operating risk."
+}

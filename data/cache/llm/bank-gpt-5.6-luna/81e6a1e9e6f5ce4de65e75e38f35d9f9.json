@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could have a material impact",
+    "more likely than not",
+    "ultimate outcome not yet known",
+    "significant estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt presents strong quantified operating performance, including higher sales and gross margins, but reported earnings declined and results benefited from favorable currency, mix, and volume effects. Disclosure of accounting estimates, impairment testing, tax recoverability, litigation, and environmental liabilities relies heavily on judgment and standard material-impact caveats. Environmental obligations remain ongoing with uncertain scope, timing, and ultimate cost."
+}

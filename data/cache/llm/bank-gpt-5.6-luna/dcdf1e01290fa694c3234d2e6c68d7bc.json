@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "assumptions, risks and uncertainties",
+    "may consider additional sales",
+    "favorable environment",
+    "full financial impact cannot be predicted"
+  ],
+  "risk_summary": "The excerpt combines extensive forward-looking disclaimers and conditional language with optimistic growth and market-position claims. Material risks include a financial-statement restatement, significant acquisition and integration complexity, regulatory scrutiny, foreclosure delays, servicing obligations, and reliance on portfolio and MSR transactions. Quantification is present for operating volumes and delinquency trends, but the discussion remains partly promotional and does not fully quantify downside exposure."
+}

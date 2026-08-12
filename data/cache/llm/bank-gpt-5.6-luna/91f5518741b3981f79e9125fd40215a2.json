@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that expectations will be achieved",
+    "risks and uncertainties",
+    "no obligation to update",
+    "not possible for management to predict all factors",
+    "subject to regulatory approval"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed operating, regulatory, and financial metrics, but its extensive forward-looking disclaimer language is boilerplate and limits accountability for projections. Key risks include weak demand, declining wholesale prices, below-normal hydro conditions, exposure to higher replacement-power costs, credit-market access, debt maturities, and regulatory recovery uncertainty. Overall tone is cautiously balanced, with improved plant availability and earnings offset by demand, market, and execution pressures."
+}

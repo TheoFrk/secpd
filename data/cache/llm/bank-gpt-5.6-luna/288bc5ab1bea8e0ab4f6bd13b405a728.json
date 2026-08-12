@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could have a material impact",
+    "more likely than not",
+    "unable to provide an estimate",
+    "too soon to determine"
+  ],
+  "risk_summary": "The excerpt provides strong quantified operating results and clearly explains key drivers, but relies on standard judgment-based disclosures for impairments, taxes, litigation, and environmental liabilities. Harriman remediation obligations remain uncertain, with an estimated liability range of $2 million to $7 million and no estimate of ultimate costs for the final remedy."
+}

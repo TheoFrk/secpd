@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "additional impacts could be incurred",
+    "may continue to be disrupted",
+    "more fully described",
+    "most likely scenario",
+    "could range from lower to upper estimate"
+  ],
+  "risk_summary": "The disclosure is generally detailed and heavily quantified, including market share, backlog, inventory, acquisition financing, and cost metrics. Risk tone is moderately negative due to COVID-19 production shutdowns, supply-chain disruption, workforce reductions, and liquidity concerns, although management emphasizes recovery, strong demand, and cost controls. Some forward-looking uncertainty and cross-referencing to other sections limit completeness within the excerpt."
+}

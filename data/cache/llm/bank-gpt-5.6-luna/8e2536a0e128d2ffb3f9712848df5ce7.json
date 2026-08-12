@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary statement",
+    "certain factors beyond our control",
+    "subject to financing and customary closing conditions",
+    "primarily due to",
+    "highly seasonal and volatile markets"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, segment performance, financing, investments, and capital projects, but also relies on standard forward-looking disclaimers and broad external-risk descriptions. Results weakened year over year, particularly in Energy and Ag, with exposure to commodity prices, refinery outages, RIN volatility, seasonality, and project execution. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

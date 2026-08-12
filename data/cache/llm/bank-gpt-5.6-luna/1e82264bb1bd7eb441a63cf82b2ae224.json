@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "no assurances",
+    "other risks detailed from time to time",
+    "negotiating additional funding",
+    "management believes funds are insufficient"
+  ],
+  "risk_summary": "The company has generated no revenue, reports negative working capital, limited cash, and an explicit going-concern uncertainty requiring substantial additional capital. Funding, commercialization, revenue generation, and positive cash flow remain speculative, with substantial reliance on management plans and uncompleted financing arrangements."
+}

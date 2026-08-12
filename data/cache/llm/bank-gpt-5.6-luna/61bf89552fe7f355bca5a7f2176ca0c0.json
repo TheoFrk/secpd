@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future impact remains uncertain",
+    "reasonably likely unforeseen consequences",
+    "primarily driven by",
+    "not meaningful",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and balance-sheet detail, but relies on some forward-looking and qualified language regarding COVID-19 and strategic initiatives. Risk is balanced: pandemic-related disruption and liquidity exposure are acknowledged, while improved demand, cost savings, and operational continuity support a mildly positive tone."
+}

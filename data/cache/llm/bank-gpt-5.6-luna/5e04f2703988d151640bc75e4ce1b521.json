@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "including, but are not limited to",
+    "other factors",
+    "future changes ... will impact"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking risk disclaimers covering consumer demand, inventory, acquisitions, impairments, customers, supply chains, and litigation, but provides limited probability or quantified downside assessment. Business descriptions and pension sensitivities are relatively specific, with disclosed rates and dollar impacts. Overall tone is balanced and procedural rather than crisis-like, though the breadth of potential adverse factors indicates meaningful operating and estimation risk."
+}

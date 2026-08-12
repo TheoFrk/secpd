@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future events could cause impairment",
+    "more-likely-than-not",
+    "no assurance",
+    "based on historical levels",
+    "various other factors"
+  ],
+  "risk_summary": "The excerpt presents strong liquidity, operating cash flow, and profitability, with substantial quantitative disclosures supporting a generally favorable tone. Risk is concentrated in management estimates for revenue returns, incentives, impairment, taxes, and leases, while future dividend continuity and funding of expansion are not assured. The passage is highly technical and contains substantial GAAP boilerplate, but is not notably evasive overall."
+}

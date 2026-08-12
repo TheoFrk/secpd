@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may impact future performance",
+    "significant management judgment",
+    "potential to drive significant variability",
+    "subject to periodic adjustment",
+    "in process of evaluating"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative information, but relies substantially on standard MD&A language and broad forward-looking qualifiers. Key risks include interest-rate volatility, credit losses, liquidity and unrealized securities losses, regulatory capital changes, and uncertainty in allowance estimates."
+}

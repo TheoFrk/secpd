@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "non-GAAP financial measures",
+    "excluding the impact of Arena",
+    "items not indicative of core operating results",
+    "constant currency basis"
+  ],
+  "risk_summary": "The excerpt is relatively precise and highly quantified, highlighting strong ARR, revenue, margin, cash-flow, and churn performance. Risk interpretation is moderated by substantial reliance on non-GAAP and constant-currency measures, material one-time tax benefits, acquisition effects, and $1.45 billion of gross debt against $327 million of cash. The overall tone is positive but includes standard forward-looking and adjustment-related qualifications."
+}

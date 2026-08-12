@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cautiously optimistic",
+    "we believe",
+    "expected to continue",
+    "absent a significant downturn",
+    "strong balance sheet"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, describing revenue, income, customer counts, acquisitions, cash balances, and segment drivers. It acknowledges financial-institution failures, weak customer profitability, regulatory pressure, acquisition volatility, and reduced capital spending, but offsets these risks with optimistic forward-looking language and limited scenario analysis. Liquidity appears positive operationally, although cash declined materially due to debt repayment and significant capital and software-development spending."
+}

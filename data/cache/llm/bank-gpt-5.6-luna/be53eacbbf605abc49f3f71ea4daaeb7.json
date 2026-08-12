@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to satisfaction or waiver",
+    "customary conditions",
+    "subject to certain exceptions and limitations",
+    "material impact"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively specifies merger consideration, termination payments, financing, and regulatory conditions. However, it contains substantial standard forward-looking disclaimers and conditional legal language, while the truncated COVID-19 and accounting sections limit assessment of certain operating risks."
+}

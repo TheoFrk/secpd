@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.46,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "actual results may differ",
+    "management estimates and assumptions",
+    "impairment indicators may exist"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting strong revenue, cash flow, liquidity, and operating growth. Risk disclosure is substantially boilerplate around forward-looking statements and accounting estimates, with potential exposure to impairment, tax positions, returns, and lease obligations. Overall tone is confident and favorable, though the excerpt is truncated and omits some potentially material operating detail."
+}

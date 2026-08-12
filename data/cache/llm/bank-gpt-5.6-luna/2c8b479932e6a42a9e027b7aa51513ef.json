@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to uncertainties",
+    "many factors",
+    "we believe",
+    "may impact timing and certainty",
+    "not adequately defined"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive outlook and provides meaningful quantitative detail on revenue, acquisitions, and financing, but relies extensively on standard forward-looking disclaimers and management judgment. Key risks include regulatory and permitting delays, inflation and commodity volatility, customer and industry concentration, contract-estimation uncertainty, and acquisition-related leverage."
+}

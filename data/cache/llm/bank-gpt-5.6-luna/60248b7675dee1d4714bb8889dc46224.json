@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "consumer demand slower than anticipated",
+    "do not provide specific information",
+    "exploring additional opportunities",
+    "inventory reserves for excess and obsolete product"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed revenue, margin, expense, and inventory-reserve data. Risk tone is mildly negative because consumer demand underperformed expectations, gross margins declined, excess inventory reserves increased, and sales to a major customer are not expected to be as significant in 2012. Boilerplate forward-looking disclaimers and limited disclosure of end-consumer demand modestly reduce transparency."
+}

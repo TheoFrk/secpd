@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliations",
+    "long-term planning horizon",
+    "we expect to continue to expand",
+    "industry-leading / world’s largest claims",
+    "recurring revenue not equal to recognized revenue"
+  ],
+  "risk_summary": "The excerpt is predominantly promotional and strategy-oriented, with extensive boilerplate around growth opportunities, sustainability, technology differentiation, and market expansion. It provides some useful quantitative disclosures, including distributor concentration and addressed market size, but relies heavily on forward-looking claims and non-GAAP measures whose limitations are acknowledged rather than fully quantified here. No acute distress is evident, although execution, acquisition, customer concentration, and demand-cycle risks are largely presented indirectly."
+}

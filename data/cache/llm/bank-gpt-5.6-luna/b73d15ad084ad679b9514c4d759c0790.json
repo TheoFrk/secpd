@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "not all inclusive",
+    "may result in significant changes",
+    "various assumptions",
+    "management considers adequate"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking-statement disclaimers and relies heavily on subjective estimates for loan-loss reserves, securities valuation, and other critical accounting policies. It identifies meaningful credit, liquidity, market, regulatory, and operational risks, but provides limited company-specific quantification in the presented section. Overall tone is cautious and legally defensive rather than indicative of an immediate crisis."
+}

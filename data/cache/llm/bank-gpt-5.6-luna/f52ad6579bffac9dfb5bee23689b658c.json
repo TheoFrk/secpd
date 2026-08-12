@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "limited customer visibility",
+    "materially different results",
+    "other accepted techniques"
+  ],
+  "risk_summary": "The excerpt is strongly growth-oriented and includes useful quantitative disclosures on historical CAGR, acquisitions, and projected fiscal 2013 sales, but relies heavily on optimistic expectations and broad strategic claims. Key risks include weak customer demand visibility, macroeconomic and currency pressures, leverage and interest-rate sensitivity, acquisition-related valuation effects, and judgment-heavy impairment estimates."
+}

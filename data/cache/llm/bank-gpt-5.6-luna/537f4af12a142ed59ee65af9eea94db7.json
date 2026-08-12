@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significantly higher/lower",
+    "inherently uncertain and outside our control",
+    "among others",
+    "may differ, possibly materially",
+    "qualitative assessment was not conclusive"
+  ],
+  "risk_summary": "The excerpt presents strong profitability, capital ratios, revenue growth, and asset growth, producing a generally confident tone. Risk disclosure is extensive but includes boilerplate forward-looking disclaimers and frequent qualitative terms such as “significantly” and “challenging,” limiting precision on drivers and downside exposure. Market sensitivity, regulatory change, legal contingencies, and potential goodwill impairment remain material risks."
+}

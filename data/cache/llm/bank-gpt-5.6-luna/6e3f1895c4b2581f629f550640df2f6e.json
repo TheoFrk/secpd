@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "pro forma results excluding deconsolidation",
+    "various factors",
+    "limited basis for testing",
+    "forward-looking information",
+    "VIE structure and currency controls"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but relies on repetitive boilerplate and broad qualifiers around future tax rates, product rollout, seasonality, and foreign-exchange convertibility. Risk tone is negative due to a substantial shift to gross losses, rising operating expenses, impairment charges, and dependence on an unproven VOD business, with additional structural and China-related risks."
+}

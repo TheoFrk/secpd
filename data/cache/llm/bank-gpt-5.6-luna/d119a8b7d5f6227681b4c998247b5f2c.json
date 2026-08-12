@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted financial measures",
+    "underlying operating results",
+    "benefits will not be fully realized",
+    "items affecting comparability",
+    "excluding mark-to-market charges"
+  ],
+  "risk_summary": "The excerpt is heavily quantified and provides substantial detail, but emphasizes non-GAAP adjusted results that exclude significant transformation and pension-related costs. Declining operating profit and margins, substantial pension mark-to-market losses, rising transportation costs, and delayed realization of investments indicate moderate operational and execution risk despite strong revenue growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "as discussed below",
+    "no material effect",
+    "other product lines"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but contains substantial insurance-specific jargon and recurring cross-references. Risk signals include catastrophe losses, adverse prior-year development, increased DFP reserves, and a 72% decline in Professional Liability pretax earnings, although the tone remains balanced rather than crisis-like."
+}

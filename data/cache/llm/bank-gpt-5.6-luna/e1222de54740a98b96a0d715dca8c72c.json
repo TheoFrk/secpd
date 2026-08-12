@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "many factors could affect",
+    "subject to inherent uncertainties",
+    "no obligation to update",
+    "extensive risk-factor enumeration"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standardized forward-looking disclaimers and a broad, repetitive catalog of potential risks, limiting insight into their likelihood, magnitude, or current exposure. Although some operating and tax figures are quantified, the risk discussion is generally non-specific and largely shifts emphasis to external uncertainties and management assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "typically and generally",
+    "insufficient evidence to determine fair value",
+    "customary representations, warranties and covenants",
+    "subject to extension at sole option",
+    "from time to time"
+  ],
+  "risk_summary": "The disclosure provides several useful quantitative details, including customer concentration, employee costs, financing commitments, interest rates, maturity, and collateral. However, extensive technical language, repeated boilerplate, and qualifiers around revenue recognition and contract terms reduce clarity. The debt structure presents meaningful credit risk due to high cash interest, secured obligations, guarantees, and vendor purchase commitments."
+}

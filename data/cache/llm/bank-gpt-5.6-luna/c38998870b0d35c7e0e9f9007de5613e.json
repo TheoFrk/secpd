@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "including but not limited to",
+    "we believe",
+    "may include",
+    "substantial content positions",
+    "truncated performance data"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on contract revenue, acquisitions, restructuring, margins, and backlog, but relies on promotional language and contains incomplete or truncated sections. Key risks include contract-estimate uncertainty, contract loss reserves, customer pricing pressure, program and backlog declines, restructuring exposure, and global operational complexity."
+}

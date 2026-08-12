@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "known and unknown risks",
+    "no obligation to update",
+    "substantially increase revenues",
+    "various factors, including without limitation"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad, largely unquantified growth and acquisition objectives. Quantified disclosures indicate substantial net losses, operating and investing cash outflows, reliance on debt and equity financing, and continued dilution/financing risk."
+}

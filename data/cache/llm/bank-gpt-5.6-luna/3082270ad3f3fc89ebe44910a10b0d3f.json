@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.46,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "do not undertake any obligation to update",
+    "including, but not limited to",
+    "Adjusted EBITDA exclusions",
+    "continued positive operations of IWCO"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but extensive legal disclaimers and broad dependency language limit forward-looking clarity. Credit risk is elevated by a $25.3 million operating loss, $66.7 million net loss, negative working capital of $43.5 million, debt repayments, and reliance on IWCO and sector conditions. The overall tone is operationally detailed but financially cautious and materially negative."
+}

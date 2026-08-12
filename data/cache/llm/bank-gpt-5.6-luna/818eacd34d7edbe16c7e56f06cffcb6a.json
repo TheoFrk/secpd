@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believe existing cash will be sufficient",
+    "actual results may differ",
+    "unable to make reasonably reliable estimates",
+    "unlikely event of payment",
+    "not necessarily meaningful"
+  ],
+  "risk_summary": "The excerpt presents a generally confident liquidity and operating outlook, supported by quantified receivables, allowances, international revenue exposure, and credit facilities. Key risks include foreign exchange volatility, seasonal sales fluctuations, customer credit deterioration, inventory valuation uncertainty, and excluded tax benefits or contingent obligations. Disclosure is fairly specific but relies on standard management assurances and forward-looking judgments in several areas."
+}

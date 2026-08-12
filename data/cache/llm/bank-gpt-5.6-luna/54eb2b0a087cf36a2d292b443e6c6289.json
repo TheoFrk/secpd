@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "transformative growth and business performance",
+    "rapidly evolving business environment",
+    "may include",
+    "other items primarily include",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on revenue, operating income, acquisitions, and expense drivers, but includes substantial strategic and boilerplate language. Revenue increased, while operating income and Adjusted EBITDA declined, indicating margin and cost pressure despite a generally constructive presentation. Non-GAAP measures, contingent acquisition consideration, client-retention exposure, seasonality, and reliance on acquisitions are notable risk considerations."
+}

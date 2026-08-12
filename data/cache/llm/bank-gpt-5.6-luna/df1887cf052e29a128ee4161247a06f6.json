@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily attributable to",
+    "not necessarily indicative",
+    "certain prior period amounts reclassified",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, liquidity, financing, and COVID-19 information, including revenue mix, customer and device counts, credit facilities, and processing-volume impacts. Risk tone is moderately positive, emphasizing recovery to pre-pandemic volumes, but uncertainty remains around pandemic effects, supply chain conditions, debt costs, and reliance on non-GAAP measures. Boilerplate disclaimers and some causal qualifiers modestly reduce disclosure precision."
+}

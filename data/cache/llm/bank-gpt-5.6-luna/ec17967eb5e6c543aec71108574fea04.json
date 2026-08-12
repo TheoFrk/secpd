@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not necessarily indicative",
+    "items impacting comparability",
+    "evolving macroeconomic environment"
+  ],
+  "risk_summary": "The excerpt combines useful quantified cash flow, debt repayment, sales, and EPS data with extensive boilerplate disclaimers and broad, non-quantified risk enumeration. Risk tone is moderately cautious, reflecting declining sales and volumes, consumer pressure, inflation, supply-chain exposure, and the need to deleverage, although management presents operating improvements and strong cash generation."
+}

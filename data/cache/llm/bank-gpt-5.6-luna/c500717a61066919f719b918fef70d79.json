@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.65,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance financing available",
+    "informal director funding commitment",
+    "may go out of business",
+    "internal projections and assumptions"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating and liquidity data, but highlights significant financing dependence, recurring expected losses, a working capital deficit, and potential failure to continue operations. Optimistic profitability projections are qualified by broad assumptions and the directors' nonbinding funding support, while extensive forward-looking disclaimers limit accountability for outcomes."
+}

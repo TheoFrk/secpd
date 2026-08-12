@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties not currently known",
+    "does not undertake obligation to update",
+    "additional capital may be required",
+    "discrete financial information is not available"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking language and broad disclaimers, alongside detailed operational and market data. Key risks include energy-market weakness, used-equipment oversupply, potential liquidity needs, a delayed SEC filing that restricted equity issuance, and obligations associated with a consolidated VIE. Management remains moderately constructive about demand recovery and market expansion, but the overall tone is cautiously negative due to financing and disclosure-related concerns."
+}

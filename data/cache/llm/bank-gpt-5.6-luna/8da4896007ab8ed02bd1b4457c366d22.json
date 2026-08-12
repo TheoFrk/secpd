@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "inherently uncertain",
+    "may negatively impact",
+    "subject to market conditions",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt combines quantified bitcoin holdings and acquisition costs with extensive forward-looking disclaimers and broad, non-quantified COVID-19 risk scenarios. Key exposures include macroeconomic weakness, customer payment and renewal risk, delayed sales cycles, and substantial bitcoin concentration and volatility. The disclosure is moderately boilerplate-heavy and complex, with the excerpt’s truncation limiting assessment of the treasury policy and subsequent accounting details."
+}

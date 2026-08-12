@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties beyond our control",
+    "no assurance actual results",
+    "without limitation",
+    "diverse set of opportunities and challenges"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and an extensive, largely non-quantified risk-factor list, limiting visibility into specific downside probabilities and sensitivities. Despite positive strategic positioning and quantified cost savings and liquidity actions, earnings declined materially year over year and leverage covenant amendments indicate elevated financial risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "should be read in conjunction with",
+    "believed to be reasonable",
+    "reasonably assured",
+    "tremendous throughput",
+    "future objectives and challenges"
+  ],
+  "risk_summary": "The excerpt is generally precise and strongly positive, with extensive quantified operating and financial results and detailed product descriptions. Risk disclosure is limited in the provided passage, while standard cautionary language and accounting-estimate qualifications introduce some uncertainty around revenue recognition, contingencies, and other judgments. The high technical and regulatory jargon density makes the discussion complex but not notably evasive."
+}

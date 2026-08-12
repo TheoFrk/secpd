@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we anticipate",
+    "there can be no assurances",
+    "temporary warehouse capacity constraints",
+    "customary affirmative and negative covenants"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financing detail, including store counts, targets, interest margins, fees, and facility terms, but relies on recurring qualifiers and management beliefs regarding remediation and future performance. Key risks include elevated shrink and damages, supply-chain and warehouse inefficiencies, unfavorable sales mix, macroeconomic pressure on low-income customers, and covenant restrictions. Overall tone is cautiously optimistic but acknowledges meaningful execution and margin pressures."
+}

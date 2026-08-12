@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no single determinative event or factor",
+    "consideration in totality",
+    "including but not limited to",
+    "more likely than not",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt discloses significant reporting and credit-risk concerns, including a restatement and $15.9 billion of goodwill and intangible-asset impairments, alongside weaker growth and margin expectations. Quantification is generally strong, but some causation is distributed across broad, non-specific factors and adjusted measures."
+}

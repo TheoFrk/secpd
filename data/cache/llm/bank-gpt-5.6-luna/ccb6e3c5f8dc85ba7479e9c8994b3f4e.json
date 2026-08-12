@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot predict with any degree of certainty",
+    "no obligations to update",
+    "among other things",
+    "substantial number of customers"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-statement disclaimers and broad risk qualifiers, particularly regarding regulatory uncertainty and potential effects of Dodd-Frank. It also presents quantified operational and capital details, including segregated assets and customer transfers, which provide meaningful transparency. Overall tone is cautiously confident but reflects material exposure to regulatory, market, liquidity, counterparty, and accounting risks."
+}

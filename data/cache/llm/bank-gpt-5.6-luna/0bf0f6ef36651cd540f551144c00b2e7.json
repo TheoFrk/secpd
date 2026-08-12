@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect to increase",
+    "other factors",
+    "not material to us",
+    "market-based exchange rates",
+    "comparable results are not available"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, describing scale, pipeline, segment structure, operating metrics, and quantified revenue and expense drivers. Risk tone is mildly positive, though reliance on third-party owners, foreign-exchange exposure, seasonality, development assumptions, and exclusions from comparable results warrant monitoring. The extensive definitions and boilerplate structure increase complexity but do not appear strongly evasive."
+}

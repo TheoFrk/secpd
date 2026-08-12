@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance financing available",
+    "informally agreed loans",
+    "indeterminate number of shares",
+    "may be required to curtail operations"
+  ],
+  "risk_summary": "The filing provides substantial quantified financial information but relies heavily on boilerplate forward-looking disclaimers and conditional projections. Liquidity risk is severe, with only $100,777 in cash, a $10.1 million working-capital deficit, recurring losses, convertible-debt effects, and stated dependence on additional financing. Management explicitly warns that failure to generate revenue or obtain financing could cause the company to cease operations."
+}

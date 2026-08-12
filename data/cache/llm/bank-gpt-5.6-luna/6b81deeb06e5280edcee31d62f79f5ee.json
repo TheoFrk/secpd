@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "beyond our control",
+    "not obligated to make funds available",
+    "permanently reinvested",
+    "compliance with debt covenants"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but contains standard forward-looking disclaimers and caveats regarding subsidiary cash access, seasonality, foreign earnings, and debt covenant compliance. Declining gross profit and margin, higher interest expense, and reliance on operating cash flow create a moderately cautious risk profile, although liquidity and covenant status are explicitly addressed."
+}

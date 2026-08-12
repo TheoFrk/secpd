@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may negatively impact",
+    "expectations and beliefs",
+    "manageable headwinds",
+    "differentiated mix of market-leading businesses"
+  ],
+  "risk_summary": "The excerpt uses substantial forward-looking and promotional language, with limited quantified outlook beyond selected implementation and interest-rate sensitivity figures. It acknowledges meaningful exposure to low interest rates, fee compression, market movements, credit-cycle changes, foreign exchange, and execution costs, but frames these risks as manageable. Overall tone is cautiously optimistic rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "appears to be slowly recovering",
+    "not clear at this time",
+    "management believes",
+    "significant judgment and estimates",
+    "refinement resulted in allowance reduction"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including large net losses, elevated nonaccrual loans, distressed-asset sales, and a full deferred-tax valuation allowance. Credit conditions improved materially during 2012, but the $7.4 million allowance reduction driven by methodology changes and reliance on management estimates introduce model and reserve adequacy risk. Overall tone is cautiously adverse despite management’s claims of improved asset quality."
+}

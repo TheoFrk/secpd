@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "macro outlook remains uncertain",
+    "numerous factors",
+    "could result in",
+    "non-cash impairment charges"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on debt refinancing, liquidity, revenue changes, operating losses, impairments, and customer activity, but relies heavily on broad forward-looking caveats and external uncertainty factors. Risk tone is moderately negative, reflecting cyclical oilfield exposure, pandemic and supply-chain disruption, customer capital discipline, regulatory uncertainty, and continuing segment losses, partly offset by cost reductions and extended debt maturities."
+}

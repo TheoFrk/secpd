@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "we are confident",
+    "with a lag",
+    "could adversely impact",
+    "optimization initiatives"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed drivers for sales, gross profit, expenses, acquisitions, and segment performance. Risk tone is moderately positive, but raw-material inflation, foreign-exchange volatility, interest-rate sensitivity, acquisition integration, and reliance on pricing and optimization actions remain material uncertainties. Some forward-looking statements use broad assurances and provide limited quantified downside or execution-risk analysis."
+}

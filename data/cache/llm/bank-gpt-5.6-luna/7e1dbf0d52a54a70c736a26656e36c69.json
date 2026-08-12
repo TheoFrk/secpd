@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "expected to provide sufficient financial resources",
+    "long-term prospects are positive",
+    "numerous risk factors",
+    "anticipated to outperform"
+  ],
+  "risk_summary": "The disclosure is generally optimistic and supported by substantial quantitative detail on backlog, fleet investments, project costs, and contracted revenue. Key risks include reduced customer spending, exposure to commodity and dayrate cycles, substantial construction commitments, contract termination due to rig corrosion, and execution or local-content risks in Brazil. Liquidity is described as adequate, but the excerpt relies on expectations regarding deepwater demand and project completion."
+}

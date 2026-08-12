@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "continuing uncertainty",
+    "cautious view of the macroeconomic outlook",
+    "subject to regulatory considerations",
+    "impact of new variants",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, with detailed figures for deposits, PPP loans, expenses, capital actions, and pandemic effects. Risk tone is cautiously constructive, emphasizing recovery, strong liquidity, and capital while acknowledging persistent pandemic, macroeconomic, and regulatory uncertainties. The excerpt contains substantial standard MD&A and pandemic boilerplate, and its truncated context limits assessment of certain underlying credit risks."
+}

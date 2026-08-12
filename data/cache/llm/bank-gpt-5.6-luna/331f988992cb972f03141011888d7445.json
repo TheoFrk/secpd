@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.55,
+  "risk_sentiment": 0.08,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "commercially viable product solutions",
+    "expected to provide",
+    "proactive steps to limit impact",
+    "sufficient liquidity to fund operations"
+  ],
+  "risk_summary": "The excerpt combines extensive product and expansion descriptions with standard forward-looking-statement disclaimers and limited operating detail in the supplied portion. Quantified liquidity, investment, financing, and acquisition figures improve precision, but supply-chain disruption, cost inflation, labor shortages, execution risk, and reliance on expectations remain material concerns."
+}

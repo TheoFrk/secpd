@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "possibly materially",
+    "highly uncertain nature",
+    "could further strain liquidity",
+    "not possible to estimate overall impacts"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on liquidity, debt, investment gains, COVID-19 costs, and capital actions, but relies on standard disclaimers and conditional language around pandemic, credit migration, and market risks. Management maintains a generally resilient and confident outlook while acknowledging material downside exposure to low rates, market disruption, liquidity strain, and portfolio losses."
+}

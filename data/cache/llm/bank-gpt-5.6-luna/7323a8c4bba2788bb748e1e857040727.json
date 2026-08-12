@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimates of future trends",
+    "likely significant regulatory actions",
+    "certain conditions",
+    "qualitative judgments by regulators",
+    "primary causes were [omitted]"
+  ],
+  "risk_summary": "The excerpt discloses severe deterioration, including a $720.1 million net loss, sharply higher nonperforming assets, declining capital ratios, regulatory intervention, and risk of further regulatory or ratings actions. Although many exposures and capital figures are quantified, key causal breakdowns appear omitted and the merger is presented as necessary to avoid potentially imminent regulatory consequences."
+}

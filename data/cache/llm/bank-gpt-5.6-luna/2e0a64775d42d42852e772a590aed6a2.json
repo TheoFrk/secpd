@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial doubt about going concern",
+    "no assurance financing available",
+    "may need to curtail operations",
+    "plans and expectations"
+  ],
+  "risk_summary": "The disclosure contains significant liquidity and going-concern risk, including approximately $9.5 million of operating cash use, dependence on additional financing, and substantial doubt about the Company’s ability to continue as a going concern. Although the filing provides some operational metrics and cash-flow figures, the risk discussion relies heavily on broad boilerplate disclaimers and aspirational growth language, with limited evidence supporting financing or execution assumptions."
+}

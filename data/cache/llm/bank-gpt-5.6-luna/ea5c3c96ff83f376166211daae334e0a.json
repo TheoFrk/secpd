@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.45,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "historical financial performance is not indicative",
+    "availability of off-balance sheet financial instruments",
+    "did not have any impact",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitatively supported, with detailed revenue, margin, regional, and expense changes. Risk tone is moderately positive due to sales and profit growth, although foreign-exchange exposure, international operations, prior losses, and higher operating expenses remain relevant risks. The excerpt includes standard boilerplate accounting guidance and is truncated, limiting assessment of potentially material adverse disclosures."
+}

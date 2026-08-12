@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.77,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ significantly",
+    "for the foreseeable future",
+    "include, but are not limited to",
+    "robust services across global markets"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative market-volume and debt data, but relies heavily on standard forward-looking disclaimers and broad qualitative claims. Risk exposure is tied to market volumes, sovereign and corporate credit conditions, volatility, regulation, and dependence on continued growth in brokerage activity; the tone remains moderately confident despite these vulnerabilities."
+}

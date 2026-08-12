@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "impact can vary significantly",
+    "somewhat sluggish",
+    "largely offset",
+    "positive year-over-year impact",
+    "limited based on current credit rating"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, with clear discussion of acquisitions, cash flows, leverage covenants, and segment performance. Forward-looking statements acknowledge risks from generic-drug timing, commodity prices, sluggish healthcare utilization, LIFO charges, and constrained commercial-paper access. Overall tone is cautiously positive, supported by covenant compliance and operating cash flow, but partly dependent on acquisitions and expected cost reductions."
+}

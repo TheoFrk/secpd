@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe",
+    "opportunity to",
+    "where possible",
+    "challenging conditions",
+    "subject to certain adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and acquisition information, but relies on optimistic strategic language and broad qualifiers when describing execution, market conditions, and mitigation efforts. Key risks include global economic and political uncertainty, volatile input costs, consumer demand sensitivity, acquisition integration, foreign exchange exposure, and increased borrowing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management's opinion",
+    "expected to cover probable losses",
+    "as opportunities arise",
+    "in line with historical levels",
+    "we may consider selling"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains the drivers of declining revenue, earnings, loan balances, and rising charge-offs. Credit risk is elevated, with net charge-offs increasing to 14.8% and delinquency measures worsening, although management frames results as historically consistent and provides mitigating explanations. Allowance adequacy relies partly on management estimates and qualitative adjustments, creating residual uncertainty."
+}

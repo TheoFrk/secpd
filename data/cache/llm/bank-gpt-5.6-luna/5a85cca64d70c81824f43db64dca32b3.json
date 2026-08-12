@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "repeated revenue recognition policy",
+    "non-GAAP adjusted EBITDA exclusions",
+    "non-cash charge framing",
+    "net loss and operating cash burn",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating growth and transaction metrics, supporting relatively transparent disclosure. However, repeated accounting-policy language, emphasis on adjusted EBITDA exclusions, a net loss, and negative operating cash flow indicate meaningful underlying liquidity and earnings risk."
+}

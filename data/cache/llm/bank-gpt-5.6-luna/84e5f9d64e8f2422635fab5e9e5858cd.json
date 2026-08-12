@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.63,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "various factors",
+    "may not be effective",
+    "material uncertainty and risk",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate uncertainty language regarding COVID-19 and macroeconomic conditions, with limited quantified discussion of operating impacts. Credit risk is elevated by debt in default at a 22% interest rate, substantial note restructurings, litigation settlements involving 592 million shares, and indications of liquidity pressure. The text is dense and partially truncated, reducing transparency regarding the company’s overall financial condition."
+}

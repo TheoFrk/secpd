@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "expected to close",
+    "best estimate for losses",
+    "potential additional consideration",
+    "not able to reliably estimate"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but highlights material COVID-19-related volume declines, elevated credit-loss expectations, litigation settlement costs, and transaction-related cash commitments. Some uncertainty remains around future credit losses, regulatory approvals, contingent consideration, and fair-value allocation."
+}

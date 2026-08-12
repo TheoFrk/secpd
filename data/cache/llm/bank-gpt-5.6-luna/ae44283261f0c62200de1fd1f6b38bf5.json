@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "excluding these items",
+    "expected to be reinvested",
+    "we believe",
+    "future sales growth",
+    "restructuring program"
+  ],
+  "risk_summary": "The excerpt is highly quantified and transparent about declining sales, a $4.068 billion net loss, significant impairment and restructuring charges, leverage, and business-line weakness. Management offsets these concerns with non-GAAP results, strong operating cash flow, investment-grade ratings, and optimistic growth language, creating a mixed but moderately negative risk tone."
+}

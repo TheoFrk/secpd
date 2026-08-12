@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "cannot guarantee future results",
+    "non-GAAP adjustments",
+    "pro forma expected cost synergies"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail, including revenue growth, recurring revenue mix, acquisitions, and expense data. However, extensive safe-harbor language, broad disclaimers, and reliance on adjusted metrics limit direct comparability and obscure downside sensitivity. The tone is modestly positive based on reported growth, but acquisition integration, leverage-related covenant metrics, and non-GAAP adjustments remain material credit risks."
+}

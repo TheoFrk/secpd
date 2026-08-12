@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking cautionary statements",
+    "may differ significantly",
+    "including, but not limited to",
+    "immaterial revisions",
+    "we believe this growth will accelerate"
+  ],
+  "risk_summary": "The excerpt is highly complex and contains substantial boilerplate, broad forward-looking disclaimers, and limited quantified discussion of financial condition or risk exposure. It discloses revisions to previously issued financial statements, but characterizes them as immaterial and provides few details here. The overall tone is cautiously optimistic regarding electronic trading growth, tempered by generalized market and regulatory risks."
+}

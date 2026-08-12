@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "assume no obligation to update",
+    "could differ materially",
+    "subjective assumptions",
+    "if available or through additional debt"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified risk indicators, including a $24.2 million net loss, $7.2 million operating cash use, significant derivative-liability charges, redeemable preferred stock, and reliance on additional financing. Boilerplate forward-looking disclaimers and promotional product claims dilute clarity, while liquidity and funding needs remain material concerns."
+}

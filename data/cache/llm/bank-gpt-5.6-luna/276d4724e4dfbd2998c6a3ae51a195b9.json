@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks beyond the Company's control",
+    "disciplined approach",
+    "competitive advantages",
+    "boilerplate risk enumeration"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful detail on sales growth, margins, cash flows, capital expenditures, and financing, but includes extensive boilerplate forward-looking language and broad non-quantified risk lists. Risk is elevated by margin pressure from feedstock-price lags, substantial expansion spending, reduced cash, and increased reliance on credit facilities, although management maintains a generally confident operating tone."
+}

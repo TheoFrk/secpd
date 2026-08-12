@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect to see solid results",
+    "expected to continue",
+    "potential to evolve",
+    "suitable applications",
+    "non-GAAP segment gross margin"
+  ],
+  "risk_summary": "The excerpt presents a generally optimistic operating outlook supported by revenue, margin, utilization, and dayrate metrics, but includes a significant $170 million impairment charge, continuing rig commissioning delays, idle rigs, and a net loss. Forward-looking statements rely substantially on expected drilling demand, market shifts, and successful deployment of new assets."
+}

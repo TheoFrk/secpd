@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.27,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "preliminary assessment",
+    "inherently difficult and subjective",
+    "including but not limited to",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is largely factual and quantitatively detailed regarding acquisitions, financing, acreage, and infrastructure expansion, with a generally confident growth-oriented tone. Key risk disclosures rely on standard forward-looking disclaimers and subjective accounting estimates, particularly for fair values and uncertain tax positions. The extensive transaction and credit-facility structure indicates meaningful acquisition, leverage, execution, and commodity-exposure risks despite the positive presentation."
+}

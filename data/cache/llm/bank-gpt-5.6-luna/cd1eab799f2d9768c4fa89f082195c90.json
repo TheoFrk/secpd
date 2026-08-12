@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "known and unknown risks",
+    "non-GAAP metrics",
+    "certain items excluded by management",
+    "multiple-element transactions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed year-over-year revenue, income, cash flow, deferred revenue, acquisition, and impairment data. Risk is moderated by acquisition-related cost increases, expected GAAP earnings dilution, lower interest income and cash balances, foreign-exchange effects, and prior securities impairments. Repeated forward-looking and non-GAAP framing introduces some management-selective presentation and boilerplate language."
+}

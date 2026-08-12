@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "no obligation to update",
+    "future events could cause impairment",
+    "estimates may differ"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, describing strong revenue growth, operating cash generation, and substantial investment in expansion. Risk disclosure is largely standard boilerplate, while key exposures include reliance on management estimates, potential asset impairment, returns reserves, tax positions, and execution challenges in training a growing health-coach network."
+}

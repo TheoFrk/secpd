@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "based on all available evidence",
+    "events or changes in circumstances",
+    "new customer acquisition continues to be challenging",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly for revenue, business-unit performance, returns reserves, and non-GAAP adjustments. Risk factors include declining Direct and MWCC revenue, customer-acquisition challenges, asset impairment, restructuring charges, and reliance on management estimates. Overall tone is cautiously constructive rather than crisis-like, but the excerpt contains substantial technical accounting boilerplate and some forward-looking uncertainty."
+}

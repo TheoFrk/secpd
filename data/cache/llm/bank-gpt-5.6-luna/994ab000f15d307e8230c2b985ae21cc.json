@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks",
+    "cannot assure you",
+    "not possible ... to predict all risks",
+    "best estimate of selling price",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking statement disclaimers and broad, non-quantified uncertainty language, which limits visibility into downside exposure. Accounting policies are technically detailed, but reliance on management estimates, impairment testing, lease assumptions, doubtful-account allowances, and adjusted EBITDA introduces reporting and credit-risk sensitivity. Operating results show strong revenue growth and recurring-fee concentration, although the excerpt is incomplete and does not provide sufficient liquidity or leverage context."
+}

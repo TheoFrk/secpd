@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on certain assumptions we consider reasonable",
+    "various transactions",
+    "expected to",
+    "depends heavily on",
+    "external factors"
+  ],
+  "risk_summary": "The excerpt provides substantial operational, liquidity, covenant, pricing, and restructuring detail, but its outlook relies on broad assumptions and external market conditions. Planned divestitures, a 7,000-employee workforce reduction, debt repayment needs, cyclicality, and a fully drawn term loan indicate meaningful execution and leverage risks despite management’s positive outlook."
+}

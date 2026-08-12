@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures not comparable",
+    "without unreasonable efforts",
+    "significant impact on GAAP results",
+    "positive momentum",
+    "potential headwind"
+  ],
+  "risk_summary": "The excerpt presents an optimistic recovery narrative supported by several quantified operating and backlog metrics, but relies heavily on adjusted non-GAAP measures and excludes potentially material charges that cannot be reconciled to GAAP. Key risks include commodity costs, challenging crane markets, execution of restructuring and simplification initiatives, and uncertainty around forward-looking assumptions."
+}

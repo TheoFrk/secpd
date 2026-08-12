@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad purpose-driven claims",
+    "primarily driven by",
+    "partially offset by",
+    "strong local presence and scale",
+    "truncated disclosure text"
+  ],
+  "risk_summary": "The excerpt is generally specific, with substantial operational and membership metrics, but relies heavily on boilerplate descriptions and attribution language. Key risks include COVID-19-related medical costs, utilization volatility, membership shifts, and a 19% decline in adjusted operating income for Health Care Benefits. The truncated passage limits confidence regarding the complete financial discussion."
+}

@@ -17,10 +17,10 @@ PROJECT_ROOT: Path = Path(__file__).resolve().parents[2]
 class Settings:
     """Laufzeit-Konfiguration (immutable Snapshot der ENV beim Aufruf)."""
 
-    llm_mode: str = "mock"                       # SECPD_LLM_MODE: mock | bank
-    llm_endpoint: str = ""                       # SECPD_LLM_ENDPOINT (nur Bank)
-    llm_api_key: str = ""                        # SECPD_LLM_API_KEY  (nur Bank)
-    llm_model: str = "internal-default"          # SECPD_LLM_MODEL
+    llm_mode: str = "mock"                       # SECPD_LLM_MODE: mock | bank | lmstudio
+    llm_endpoint: str = ""                       # SECPD_LLM_ENDPOINT (Bank / LM Studio)
+    llm_api_key: str = ""                        # SECPD_LLM_API_KEY
+    llm_model: str = "internal-default"          # SECPD_LLM_MODEL (lmstudio: auto)
     sec_user_agent: str = ""                     # SECPD_SEC_UA: "Firma name@mail" (EDGAR-Pflicht)
     llm_cache_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "data" / "cache" / "llm")
     data_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "data")

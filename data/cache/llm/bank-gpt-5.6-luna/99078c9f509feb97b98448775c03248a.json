@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "other risks and uncertainties",
+    "factors outside of our control",
+    "as the opportunities present themselves",
+    "could be adversely affected"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and broad, non-quantified risk categories, limiting visibility into the magnitude and probability of adverse outcomes. It includes some concrete operating and tax figures, but the promotional business overview and extensive boilerplate dilute risk-specific analysis. Overall tone is cautiously negative in the risk disclosure while remaining commercially confident."
+}

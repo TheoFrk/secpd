@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "intended to be",
+    "believes ... can deliver",
+    "may have to",
+    "primarily due to",
+    "normal course of business"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively supported, with detailed sales, margin, impairment, tax, and debt disclosures. Risk is moderated by the discretionary nature of luxury retail, sensitivity to economic downturns and promotions, prior operating losses, store closures, and convertible-note conversion and put features. Overall tone is cautiously positive because of improved sales and operating income, though some forward-looking claims remain non-committal."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.02,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "reference is made to",
+    "cross-reference to other sections",
+    "forward-looking statements",
+    "no substantive discussion",
+    "multiple section redirects"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, capital, or risk information and primarily redirects readers to other report sections. Its boilerplate cross-reference limits standalone transparency and requires review of the referenced pages to assess risk."
+}

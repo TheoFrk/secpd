@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant amount of judgment",
+    "if different conditions occur",
+    "as appropriate",
+    "variety of choices",
+    "refer to ... elsewhere"
+  ],
+  "risk_summary": "The excerpt is predominantly descriptive and promotional, emphasizing scale, brands, distribution strength, and strategic benefits. It contains meaningful transaction quantification, but risk analysis is dispersed through cross-references and relies on assumptions regarding impairment, recoverability, and geopolitical, economic, and regulatory conditions. Overall tone is confident, with moderate underlying exposure from acquisition debt, licensing obligations, emerging-market uncertainty, and potential impairment charges."
+}

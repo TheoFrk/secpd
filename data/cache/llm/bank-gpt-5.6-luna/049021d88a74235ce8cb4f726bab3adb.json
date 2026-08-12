@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad range of products and services",
+    "subject to cancellation if funds become unavailable",
+    "estimates ... often required",
+    "as facts and circumstances change",
+    "excerpt truncated mid-disclosure"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful customer concentration, government funding dependency, contract termination provisions, and accounting-estimate risks. However, much of the text is business-description boilerplate, and the truncated ending limits assessment of the full risk discussion."
+}

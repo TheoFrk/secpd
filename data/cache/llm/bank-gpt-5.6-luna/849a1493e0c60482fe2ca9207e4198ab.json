@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may experience more severe disruptions",
+    "impact may be significant in the future",
+    "take appropriate actions",
+    "customary closing conditions",
+    "omitted discussions comparing 2023 and 2022"
+  ],
+  "risk_summary": "The excerpt provides substantial operating and transaction-specific quantification, including debt rates, fleet metrics, acquisition values, and goodwill headroom. However, it relies on forward-looking, non-specific language regarding inflation, tariffs, supply-chain disruption, and mitigation actions, while omitting the 2023-versus-2022 comparison. Overall tone is strategically confident but acknowledges meaningful interest-rate, execution, integration, and macroeconomic risks."
+}

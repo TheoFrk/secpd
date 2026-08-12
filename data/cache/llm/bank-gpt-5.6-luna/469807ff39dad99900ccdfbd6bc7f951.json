@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe we are well positioned",
+    "expect to continue",
+    "assumptions and estimates may change",
+    "outside the control of management",
+    "potential impairment"
+  ],
+  "risk_summary": "The excerpt presents a predominantly confident operating and liquidity narrative, supported by extensive quantitative metrics and reported EBITDA growth. However, forward-looking demand and profitability expectations rely on macroeconomic assumptions, while goodwill valuation depends on highly judgmental ten-year projections, growth rates, and discount rates. Acquisition-related costs and declining EBITDA margins introduce moderate execution and credit risk despite reported liquidity of $1.71 billion."
+}

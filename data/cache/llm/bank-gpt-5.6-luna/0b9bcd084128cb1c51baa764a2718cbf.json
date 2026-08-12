@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "cannot be certain sufficient capital",
+    "various actions to improve profitability",
+    "other sources of capital",
+    "various other uncertainties"
+  ],
+  "risk_summary": "The excerpt discloses severe liquidity and leverage risks, including substantial doubt about the Partnership’s ability to continue as a going concern, refinancing dependence, covenant compliance risk, and uncertain cash-flow improvements. Risk discussion is extensive but relies heavily on generic forward-looking disclaimers and omits the detailed negative trends and remediation actions referenced in the truncated text."
+}

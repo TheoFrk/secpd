@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-US GAAP measures not standardized",
+    "may include",
+    "variety of factors",
+    "estimated deferred acquisition consideration",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and revenue information, but relies on broad qualitative explanations for client retention, growth drivers, and performance indicators. Risk is elevated by the sharp deterioration from fourth-quarter operating profit to operating loss and the $40.2 million increase in estimated deferred acquisition consideration expense, despite revenue growth and margin expansion in the comparative annual discussion."
+}

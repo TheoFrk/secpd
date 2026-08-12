@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be assured",
+    "do not expect positive internal cash flow",
+    "funding in excess of $5 million",
+    "may have to cease operations",
+    "ongoing COVID-19 crisis"
+  ],
+  "risk_summary": "The company reports no revenue, negative working capital of $1.81 million, continued operating losses, and no expectation of positive internal cash flow for at least the next 12 months. It requires more than $5 million in additional funding and states that failure to raise capital could materially adversely affect it or force it to cease operations. Disclosure is relatively quantified, but the excerpt contains substantial going-concern risk and reliance on uncertain FDA clearance, sales ramp-up, and financing."
+}

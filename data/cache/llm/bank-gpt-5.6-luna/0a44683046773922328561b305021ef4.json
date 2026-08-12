@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "believed to be reasonable",
+    "future events could cause",
+    "expects future cash requirements",
+    "reasonably certain"
+  ],
+  "risk_summary": "The excerpt is largely standardized accounting-policy and business-description disclosure, with substantial technical complexity and limited discussion of adverse scenarios. Liquidity appears supported by operating cash flow, but cash declined, financing outflows were significant, and continued dividends and expansion depend on future cash generation."
+}

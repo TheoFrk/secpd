@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to accurately predict",
+    "cannot provide assurance",
+    "if market conditions deteriorate substantially",
+    "additional sources of funds",
+    "underlying business trends"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data and reconciliations, but relies on standard forward-looking disclaimers and conditional language regarding liquidity and market conditions. Performance is mixed, with revenue growth in several regions offset by flat gross profit and lower EBITDA, while the loss of a global contract highlights concentration and demand risk."
+}

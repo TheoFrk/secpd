@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may vary materially",
+    "not possible to predict all factors",
+    "no specific store-opening timeframe",
+    "goodwill impairment sensitivity"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting segment sales, margins, profitability, cash, inventory, debt, and expense movements. Risks include weak consumer spending, slower store expansion, personnel constraints, supplier and product-mix effects on margins, currency exposure, and potential goodwill impairment. The overall tone is cautiously positive, supported by improving sales, margins, cash, and net income, though standard forward-looking disclaimers limit certainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict ultimate effect",
+    "cannot provide any assurance",
+    "material adverse effect",
+    "potential changes to the ACA",
+    "sweeping new authority"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including acquisition counts, revenue, EBITDA, earnings, and reimbursement information. However, extensive forward-looking disclaimers and repeated uncertainty language around healthcare reform, Medicaid, reimbursement, and economic conditions limit clarity regarding downside magnitude and probability. Reported EBITDA and adjusted EPS declined year over year, indicating some deterioration despite otherwise neutral presentation."
+}

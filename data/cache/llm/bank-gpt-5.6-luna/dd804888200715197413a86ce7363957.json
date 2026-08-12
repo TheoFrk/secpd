@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "unable to reconcile without unreasonable efforts",
+    "significant impact",
+    "best available information",
+    "subject to change"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on segment declines, production reductions, margin guidance, and market weakness, but is interspersed with extensive non-GAAP definitions and standard qualifying language. Risk tone is mildly negative due to softening demand, reduced production, margin contraction, and uncertainty around forward-looking GAAP reconciliation, partially offset by confident strategic and operational commentary."
+}

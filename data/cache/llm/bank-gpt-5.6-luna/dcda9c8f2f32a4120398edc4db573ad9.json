@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "qualitative impairment assessment",
+    "non-GAAP financial measures",
+    "not intended as a substitute for GAAP",
+    "fair value and discounted cash flow assumptions"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively supported, highlighting strong revenue and connection growth. Key risk areas include estimation uncertainty in revenue recognition, asset impairment testing, goodwill valuation, and reliance on non-GAAP performance measures. The tone is moderately positive but includes standard accounting and comparability caveats."
+}

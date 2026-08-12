@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unreasonable efforts exception",
+    "other unusual items",
+    "subject to factors that could cause actual results to differ materially",
+    "inherent uncertainties exist",
+    "may incur costs"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes market estimates, operating priorities, and selected quantified sensitivities, but relies substantially on forward-looking qualifiers and non-GAAP measures. Key risks include weaker demand, raw-material scarcity and volatility, restructuring and impairment charges, environmental liabilities, seasonality, and uncertainty around unforecastable GAAP adjustments."
+}

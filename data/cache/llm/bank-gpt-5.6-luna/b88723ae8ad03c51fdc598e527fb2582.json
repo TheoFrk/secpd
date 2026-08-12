@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "based on estimates and judgments",
+    "may be materially different",
+    "inherently complex",
+    "more-likely-than-not recoverable"
+  ],
+  "risk_summary": "The excerpt provides useful liquidity and cash-flow quantification, including cash balances and operating cash generation, but much of the discussion relies on standard uncertainty language and management estimates. Key exposures include supply-chain disruption, macroeconomic volatility, inventory write-downs, revenue adjustments, valuation judgments, and tax recoverability. Overall tone is cautiously positive on liquidity and operating performance but remains materially qualified by external and accounting uncertainties."
+}

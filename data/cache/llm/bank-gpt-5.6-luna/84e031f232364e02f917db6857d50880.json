@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "long-term planning horizon",
+    "we believe provides useful information",
+    "expected to continue",
+    "market projections"
+  ],
+  "risk_summary": "The excerpt is predominantly strategic and promotional, with extensive non-GAAP discussion and limited detail on specific downside scenarios or quantified execution risks. Growth expectations and market opportunities are stated confidently, while distributor concentration, acquisition effects, currency adjustments, and negative investing and financing cash flows warrant further analysis."
+}

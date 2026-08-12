@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "intended to enable",
+    "favorable impact of",
+    "continued investments for growth"
+  ],
+  "risk_summary": "The excerpt is generally precise and highly quantified, with clear discussion of sales, costs, taxes, margins, and portfolio transactions. Its tone is strongly confident and performance-oriented, while risks are framed mainly as offsetting factors and the extensive use of standardized causal language somewhat limits transparency around underlying exposures."
+}

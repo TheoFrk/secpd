@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may be materially different",
+    "primarily due to",
+    "estimates could occur at any time",
+    "probable and reliably estimated",
+    "truncated and garbled cash-flow disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, explaining revenue declines, regional weakness, project closeouts, receivables allowances, and contract-estimate exposure. Risk is moderated by improved net income and a near-breakeven operating result, but continuing-operations losses, material estimation uncertainty, bad-debt exposure, and project-cost risk remain significant."
+}

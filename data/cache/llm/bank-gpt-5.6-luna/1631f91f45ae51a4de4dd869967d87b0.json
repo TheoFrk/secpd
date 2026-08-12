@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.48,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "evaluating various alternatives",
+    "could result in additional impairments",
+    "management-defined Adjusted EBITDA",
+    "covenant relief and stepped-down leverage limits"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, highlighting a $116.8 million operating loss, substantial impairments, discontinued projects, Fortress uncertainty, and $922.8 million of debt with tightened future leverage requirements. Although many risks are quantified, reliance on non-GAAP measures and broad forward-looking disclaimers somewhat limits transparency regarding future performance and liquidity resilience."
+}

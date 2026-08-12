@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may remain in place for a significant period",
+    "actively monitor the impact",
+    "revisions would be required if estimates differ",
+    "partially attributable to acquisitions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitative, including revenue changes, margin pressure, backlog levels, and debt-service improvements. Risk tone is mildly negative because ongoing supply-chain constraints, higher materials and freight costs, reduced margins, and estimation uncertainty may limit shipments and profitability. Boilerplate forward-looking language and broad COVID-19 caveats modestly reduce specificity."
+}

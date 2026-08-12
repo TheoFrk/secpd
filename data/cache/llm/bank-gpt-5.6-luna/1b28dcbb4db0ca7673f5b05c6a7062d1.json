@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to estimate financial impact",
+    "may cause economic disruption",
+    "we expect this trend to continue",
+    "closely monitor the impact",
+    "not material"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including quantified revenue and dividend information, but relies on forward-looking and non-quantified language regarding Russia sanctions, COVID-19 effects, subscription transition, and margin pressure. Risk tone is cautiously constructive, tempered by uncertainty around future revenue, operating margins, foreign exchange, and geopolitical or pandemic impacts."
+}

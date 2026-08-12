@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "restatement of previously issued financial statements",
+    "risks and uncertainties",
+    "cannot be certain",
+    "no obligation to update",
+    "significant leverage"
+  ],
+  "risk_summary": "The excerpt discloses a material restatement, dependence on trust-funded cash flows and external financing, significant leverage, and weaknesses or uncertainty around internal controls. Risk language is extensive and partly boilerplate, with limited quantification of downside scenarios or liquidity headroom in the provided section."
+}

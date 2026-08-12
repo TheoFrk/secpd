@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.59,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "duration nor scope cannot be predicted",
+    "could materially adversely affect",
+    "various factors, including",
+    "continue to monitor",
+    "subject to regulatory approvals"
+  ],
+  "risk_summary": "The excerpt provides several useful quantified disclosures on liquidity, leases, purchase obligations, and the PharmaCann investment, but relies heavily on standard forward-looking and contingency language. COVID-19, supply-chain disruption, regulatory uncertainty, and potential investment dilution present downside risks, partly offset by stated adequate liquidity and no external financing."
+}

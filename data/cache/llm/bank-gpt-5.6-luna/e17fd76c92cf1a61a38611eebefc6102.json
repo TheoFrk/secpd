@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "should not place undue reliance",
+    "believes it has adequate working capital",
+    "anticipated to raise capital",
+    "solid position for profitable growth"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, but relies on extensive forward-looking and cautionary boilerplate. Key risks include a substantial accumulated deficit, recurring net losses, cash consumption, concentrated revenue and receivables exposure to Gogiro, and liquidity sufficient for only approximately one quarter without additional funding."
+}

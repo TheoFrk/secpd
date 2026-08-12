@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to be completed",
+    "we believe",
+    "when and if opportunities are available",
+    "no assurances as to whether or when",
+    "over time"
+  ],
+  "risk_summary": "The excerpt is generally constructive and provides substantial quantified transaction, segment, and operating details, but relies on forward-looking expectations regarding acquisitions, profitability, regulatory developments, and Medicaid expansion. Extensive MD&A boilerplate, long sentences, and healthcare-specific terminology reduce accessibility, while funding and reimbursement uncertainty represent notable risks."
+}

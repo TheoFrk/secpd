@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to reasonably estimate the financial effect",
+    "various competitive and other factors",
+    "may experience material fluctuations",
+    "subject to restrictions",
+    "not able to recover raw material cost increases"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, identifying margin pressure, raw-material availability, foreign exchange exposure, facility closures, impairment charges, and a material environmental incident with an unestimated financial impact. Risk tone is moderately negative but balanced by evidence of recovering demand and explicit discussion of mitigants and contractual pass-through mechanisms. Complex covenant and operational descriptions reduce accessibility but do not appear principally evasive."
+}

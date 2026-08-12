@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "under certain circumstances",
+    "expected to continue to decline",
+    "extent of the impact will depend",
+    "commercially reasonable efforts"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, particularly regarding merger consideration, termination fees, contingent costs, liquidity obligations, and operating metrics. Key risks include the DOJ litigation, remaining regulatory approvals, potential merger termination, declining product revenue and operating cash flow, and ongoing macroeconomic and supply-chain uncertainty. The tone is cautiously negative but not crisis-like, with management emphasizing expected improvement in sales cycles and inventory conditions."
+}

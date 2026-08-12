@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "unable to specifically predict",
+    "could result in significant adverse impacts",
+    "expected to continue",
+    "based on information currently available",
+    "timing ... could change"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including restructuring costs, synergy targets, geographic exposure, assets at risk, and guarantees, but contains extensive forward-looking uncertainty around supply chains, inflation, geopolitics, and demand. Risk tone is moderately negative, although management emphasizes mitigation actions and long-term growth initiatives. Key residual risks include potentially higher costs, impairment charges, operational disruption, and uncertain recovery of affected assets."
+}

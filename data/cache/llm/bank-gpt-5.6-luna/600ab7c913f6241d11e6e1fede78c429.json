@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cross-reference without substance",
+    "see information under caption",
+    "page-number deflection",
+    "table markup artifacts"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, operating, or risk discussion and merely redirects the reader to other pages. This materially limits assessment of the issuer’s risk profile from the provided text."
+}

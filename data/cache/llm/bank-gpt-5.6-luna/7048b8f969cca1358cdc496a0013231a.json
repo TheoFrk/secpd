@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "we expect",
+    "not yet complete",
+    "subject to a proceeding"
+  ],
+  "risk_summary": "The excerpt is generally optimistic and provides substantial operational detail and quantitative metrics, including sales growth, investment, platform targets, and ownership percentages. Forward-looking plans rely on expected savings, future product execution, and strategic integration with Fiat, while the unresolved VEBA Trust pricing dispute introduces legal and ownership uncertainty. The truncated ending limits assessment of critical accounting risks and financial-condition disclosures."
+}

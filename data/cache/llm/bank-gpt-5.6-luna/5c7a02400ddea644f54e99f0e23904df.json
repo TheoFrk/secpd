@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective estimates",
+    "may prove inaccurate",
+    "unallocated component",
+    "hypothetical interest rate changes",
+    "Supervisory Agreements"
+  ],
+  "risk_summary": "The excerpt provides useful balance-sheet figures and detailed methodology, but relies heavily on boilerplate caveats and management judgment regarding loan-loss reserves, impairment, and interest-rate sensitivity. References to non-performing assets, troubled debt restructurings, supervisory agreements, and potential material regulatory or economic impacts indicate elevated credit and regulatory risk. Scenario analyses are explicitly limited by numerous assumptions and may not reflect actual outcomes."
+}

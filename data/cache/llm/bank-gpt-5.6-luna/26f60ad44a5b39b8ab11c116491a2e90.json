@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance that transactions will close",
+    "subject to satisfaction or waiver of conditions",
+    "highly judgmental assumptions",
+    "fund operations through closing"
+  ],
+  "risk_summary": "The excerpt presents meaningful execution and liquidity risks, including no revenue from development-stage products, reliance on equity financing, and dependence on the completion of the merger and asset sale. While several transaction terms and financing amounts are quantified, risk disclosures rely substantially on standard conditional and forward-looking language, and the excerpt is incomplete."
+}

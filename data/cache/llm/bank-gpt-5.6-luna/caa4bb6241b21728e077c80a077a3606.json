@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.32,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "read in conjunction with",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt is a procedural cross-reference and provides no substantive financial, liquidity, or risk analysis. It is highly boilerplate and offers insufficient information to assess the issuer’s underlying risk profile."
+}

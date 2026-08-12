@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "no obligation to update",
+    "falsified customer contracts",
+    "variability in timing and length"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative revenue, backlog, segment, debt, and tax information, but includes extensive boilerplate disclaimers and some generic explanations. Risk tone is negative due to operating pressure, restructuring, significant debt-extinguishment charges, losses, tax-rate volatility, and the discovery of falsified customer contracts and revised backlog figures."
+}

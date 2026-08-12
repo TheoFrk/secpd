@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "risks and uncertainties beyond control",
+    "regulatory enforcement orders",
+    "could have a material adverse effect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial detail, but includes standard forward-looking disclaimers and some conditional language. The dominant risk signal is significant: regulatory enforcement orders concerning BSA/AML deficiencies, compliance-related costs, activity restrictions, and potential additional penalties or adverse financial effects. Operating performance and capital levels are presented positively, partially offsetting but not eliminating the compliance and margin-compression concerns."
+}

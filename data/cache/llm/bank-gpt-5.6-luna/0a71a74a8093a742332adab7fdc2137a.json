@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "uncertain economic conditions",
+    "subject to adjustment",
+    "forecast",
+    "continuing economic uncertainties"
+  ],
+  "risk_summary": "The excerpt is relatively transparent, with extensive market-share, shipment, backlog, sales, and cost quantification. Risk tone is cautiously positive, supported by improving demand and backlog, but tempered by consumer-confidence concerns, economic uncertainty, discounting, dealer caution, and rising material and warranty costs."
+}

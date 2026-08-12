@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "non-GAAP financial measures",
+    "subject to customary conditions",
+    "if not offset by"
+  ],
+  "risk_summary": "The excerpt presents strong 2022 performance, cash generation, dividend growth, and a confident strategic outlook, supported by substantial quantitative disclosure. Risk discussion is largely standard and references external risk factors, while reliance on non-GAAP measures and extensive assumptions around pensions introduce interpretive complexity. The truncated text limits assessment of the full downside-risk discussion."
+}
