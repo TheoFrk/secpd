@@ -7,6 +7,7 @@ import pytest
 from secpd.data.events import (
     REGIME_SWITCH,
     add_event_features,
+    annotate_default_labels,
     attach_default_labels,
     bankruptcy_dates,
     match_concept,
@@ -74,7 +75,7 @@ def test_post_bankruptcy_rows_dropped():
 
 
 # --------------------------------------------------------------------------- #
-# 4) Item-Regime: alt "3" vor Stichtag, "3.01" nie, "1.03" danach
+# 4) Item-Regime: match_concept kennt beide Regime; Labels default nur neu
 # --------------------------------------------------------------------------- #
 def test_item_regime_matching():
     before = REGIME_SWITCH - pd.Timedelta(days=1)
@@ -85,10 +86,48 @@ def test_item_regime_matching():
     assert match_concept("3.01,9.01", after, "bankruptcy") is False
     assert match_concept("1.03,9.01", after, "bankruptcy") is True
     assert match_concept("1.03", before, "bankruptcy") is False      # altes Regime: kein 1.03
-    # bankruptcy_dates nimmt das erste Event über beide Regime hinweg:
+    # Default-Policy: Legacy-Item-3 zählt nicht als Bankruptcy-Datum
     ev = _events([(1, "2001-12-02", "3"), (1, "2010-01-01", "1.03")])
     bk = bankruptcy_dates(ev)
-    assert bk.loc[1] == pd.Timestamp("2001-12-02")
+    assert bk.loc[1] == pd.Timestamp("2010-01-01")
+    # Audit/Override: Legacy weiterhin einschaltbar
+    bk_legacy = bankruptcy_dates(ev, trust_legacy_regime=True)
+    assert bk_legacy.loc[1] == pd.Timestamp("2001-12-02")
+
+
+def test_legacy_bankruptcy_ignored_in_labels():
+    fy = _firm_years([(1, "1999-12-31", "2000-03-31")])
+    ev = _events([
+        (1, "2000-06-01", "3"),          # Alt-Regime — Standard: ignorieren
+        (9, "2030-01-01", "9.01"),
+    ])
+    out = attach_default_labels(fy, ev, horizon_months=12, drop_censored=False)
+    assert out.iloc[0]["label_default"] == 0
+    out_legacy = attach_default_labels(
+        fy, ev, horizon_months=12, drop_censored=False, trust_legacy_regime=True
+    )
+    assert out_legacy.iloc[0]["label_default"] == 1
+
+
+def test_legacy_event_features_masked():
+    fy = _firm_years([(1, "2000-12-31", "2001-03-31")])
+    ev = _events([(1, "2001-01-15", "6")])  # Alt-Regime Officer
+    out, _ = add_event_features(fy, ev, window_days=365)
+    assert out.iloc[0]["evt_n_officer_departure"] == 0
+    out_legacy, _ = add_event_features(fy, ev, window_days=365, trust_legacy_regime=True)
+    assert out_legacy.iloc[0]["evt_n_officer_departure"] == 1
+
+
+def test_annotate_default_labels_keeps_rows():
+    fy = _firm_years([
+        (1, "2009-12-31", "2010-03-31"),
+        (1, "2010-12-31", "2011-03-31"),
+    ])
+    ev = _events([(1, "2010-06-01", "1.03"), (9, "2030-01-01", "9.01")])
+    ann = annotate_default_labels(fy, ev, horizon_months=12)
+    assert len(ann) == 2
+    assert list(ann["label_default"]) == [1, 0]
+    assert pd.Timestamp(ann.iloc[0]["bankruptcy_date"]) == pd.Timestamp("2010-06-01")
 
 
 # --------------------------------------------------------------------------- #

@@ -1,0 +1,160 @@
+{
+  "created_at_utc": "2026-08-12T09:27:26+00:00",
+  "freeze_hash": "c293c92e9297e7ecebe4c2d1cc9989a631b50e95",
+  "policy": {
+    "label_source": "default",
+    "default_horizon_months": 12,
+    "trust_legacy_regime": false,
+    "min_fyear": 2009,
+    "require_financials": true,
+    "split": "temporal",
+    "test_size": 0.2,
+    "seed": 42
+  },
+  "data": "data/processed/zenodo_labeled.csv.gz",
+  "financials": "data/raw/financials_panel.csv",
+  "events": "data/raw/edgar_8k_events.csv",
+  "models": {
+    "financial": "models/financial_default_h12.joblib",
+    "combined": "models/combined_default_h12.joblib",
+    "financial_train_run_id": "c7c2e3fc69bd",
+    "combined_train_run_id": "c7c2e3fc69bd"
+  },
+  "n_train": 2615,
+  "n_test": 722,
+  "positives_test": 6,
+  "firm_overlap": {
+    "n_train_firms": 343.0,
+    "n_test_firms": 198.0,
+    "n_overlap_firms": 195.0,
+    "overlap_rate": 0.9848484848484849,
+    "n_new_test_firms": 3.0
+  },
+  "metrics": {
+    "null_base_rate": {
+      "n": 722.0,
+      "positives": 6.0,
+      "base_rate": 0.008310249307479225,
+      "brier": 0.008241189063926764,
+      "brier_skill": 0.0,
+      "roc_auc": 0.5,
+      "pr_auc": 0.008310249307479225,
+      "top_10pct_n": 72.0,
+      "top_10pct_events": NaN,
+      "top_10pct_capture": 0.1,
+      "top_10pct_precision": 0.008310249307479225,
+      "top_10pct_lift": 1.0,
+      "top_30pct_n": 217.0,
+      "top_30pct_events": NaN,
+      "top_30pct_capture": 0.3,
+      "top_30pct_precision": 0.008310249307479225,
+      "top_30pct_lift": 1.0
+    },
+    "financial": {
+      "n": 722.0,
+      "positives": 6.0,
+      "base_rate": 0.008310249307479225,
+      "brier": 0.008194826142177156,
+      "brier_skill": 0.005625756355056577,
+      "roc_auc": 0.9036312849162011,
+      "pr_auc": 0.10488447714543331,
+      "top_10pct_n": 72.0,
+      "top_10pct_events": 4.0,
+      "top_10pct_capture": 0.6666666666666666,
+      "top_10pct_precision": 0.05555555555555555,
+      "top_10pct_lift": 6.685185185185184,
+      "top_30pct_n": 217.0,
+      "top_30pct_events": 5.0,
+      "top_30pct_capture": 0.8333333333333334,
+      "top_30pct_precision": 0.02304147465437788,
+      "top_30pct_lift": 2.772657450076805
+    },
+    "combined": {
+      "n": 722.0,
+      "positives": 6.0,
+      "base_rate": 0.008310249307479225,
+      "brier": 0.008013128996919833,
+      "brier_skill": 0.027673199248054337,
+      "roc_auc": 0.896415270018622,
+      "pr_auc": 0.1493938217796816,
+      "top_10pct_n": 72.0,
+      "top_10pct_events": 4.0,
+      "top_10pct_capture": 0.6666666666666666,
+      "top_10pct_precision": 0.05555555555555555,
+      "top_10pct_lift": 6.685185185185184,
+      "top_30pct_n": 217.0,
+      "top_30pct_events": 5.0,
+      "top_30pct_capture": 0.8333333333333334,
+      "top_30pct_precision": 0.02304147465437788,
+      "top_30pct_lift": 2.772657450076805
+    }
+  },
+  "bootstrap": {
+    "financial": {
+      "roc_auc": {
+        "point": 0.9036312849162011,
+        "ci_low": 0.782512610415845,
+        "ci_high": 0.9846528126569563,
+        "n_boot": 1000.0
+      },
+      "pr_auc": {
+        "point": 0.10488447714543331,
+        "ci_low": 0.02480186846568547,
+        "ci_high": 0.3409510499581061,
+        "n_boot": 1000.0
+      },
+      "brier": {
+        "point": 0.008194826142177156,
+        "ci_low": 0.002746679491036395,
+        "ci_high": 0.0156768643743918,
+        "n_boot": 1000.0
+      },
+      "brier_skill": {
+        "point": 0.005625756355056577,
+        "ci_low": -0.10225691920173521,
+        "ci_high": 0.0440315464815833,
+        "n_boot": 1000.0
+      }
+    },
+    "combined": {
+      "roc_auc": {
+        "point": 0.896415270018622,
+        "ci_low": 0.7463169669165312,
+        "ci_high": 0.9886584966747315,
+        "n_boot": 1000.0
+      },
+      "pr_auc": {
+        "point": 0.1493938217796816,
+        "ci_low": 0.027451657804826727,
+        "ci_high": 0.4760314266646046,
+        "n_boot": 1000.0
+      },
+      "brier": {
+        "point": 0.008013128996919833,
+        "ci_low": 0.002695712103092299,
+        "ci_high": 0.01540277972535928,
+        "n_boot": 1000.0
+      },
+      "brier_skill": {
+        "point": 0.027673199248054337,
+        "ci_low": -0.08911511160797138,
+        "ci_high": 0.07998849318604258,
+        "n_boot": 1000.0
+      }
+    },
+    "delta_combined_minus_financial_roc": {
+      "metric": "roc_auc",
+      "point": -0.0072160148975791705,
+      "ci_low": -0.03614711934156367,
+      "ci_high": 0.012473175655631451,
+      "n_boot": 1000.0
+    },
+    "delta_combined_minus_financial_pr": {
+      "metric": "pr_auc",
+      "point": 0.0445093446342483,
+      "ci_low": -0.026171701741057197,
+      "ci_high": 0.22266834534316993,
+      "n_boot": 1000.0
+    }
+  }
+}

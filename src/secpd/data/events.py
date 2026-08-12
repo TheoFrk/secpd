@@ -20,6 +20,12 @@ Wrapper). Pflicht-``User-Agent`` via ``SECPD_SEC_UA``.
 
 Die 8-K-Item-Nummerierung wechselte am 2004-08-23 — Matching daher mit
 Datums-Guard und exaktem Token-Vergleich (``"3"`` darf nie ``"3.01"`` treffen).
+
+**Default-Policy (ab Daten-Sanierung):** Submissions-API-``items`` vor dem
+Regimewechsel sind unzuverlässig (leere ``ITEM INFORMATION``). Deshalb gelten
+Bankruptcy-Labels und Event-Features standardmäßig nur für Filings
+``≥ REGIME_SWITCH``. Legacy-Treffer bleiben über ``trust_legacy_regime=True``
+für Audits erreichbar, fließen aber nicht mehr ins Training.
 """
 from __future__ import annotations
 
@@ -39,6 +45,9 @@ SUBMISSIONS_PAGE_URL = "https://data.sec.gov/submissions/{name}"
 
 #: Stichtag des Wechsels der 8-K-Item-Nummerierung.
 REGIME_SWITCH = pd.Timestamp("2004-08-23")
+
+#: Ab diesem Geschäftsjahr sind XBRL-Companyfacts flächig verfügbar.
+MIN_FYEAR_WITH_FINANCIALS = 2009
 
 #: Konzept → (Item neues Regime ≥ 2004-08-23, Item altes Regime davor oder None).
 ITEM_MAP: dict[str, tuple[str, str | None]] = {
@@ -246,14 +255,22 @@ def match_concept(items: str, filing_date: pd.Timestamp, concept: str) -> bool:
     return old_code is not None and old_code in toks
 
 
-def mark_concepts(events: pd.DataFrame) -> pd.DataFrame:
-    """Ergänzt je Konzept eine bool-Spalte ``is_<konzept>`` (vektorisiert genug)."""
+def mark_concepts(
+    events: pd.DataFrame,
+    *,
+    trust_legacy_regime: bool = False,
+) -> pd.DataFrame:
+    """Ergänzt je Konzept eine bool-Spalte ``is_<konzept>``.
+
+    Ohne ``trust_legacy_regime`` zählen nur Treffer ab ``REGIME_SWITCH``
+    (Item-Metadaten der Submissions-API davor sind nicht belastbar).
+    """
     out = events.copy()
     tok_sets = out["items"].map(_tokens)
     is_new = out["filing_date_8k"] >= REGIME_SWITCH
     for concept, (new_code, old_code) in ITEM_MAP.items():
         hit_new = tok_sets.map(lambda s, c=new_code: c in s) & is_new
-        if old_code is not None:
+        if trust_legacy_regime and old_code is not None:
             hit_old = tok_sets.map(lambda s, c=old_code: c in s) & ~is_new
         else:
             hit_old = pd.Series(False, index=out.index)
@@ -261,14 +278,46 @@ def mark_concepts(events: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
-def bankruptcy_dates(events: pd.DataFrame) -> pd.Series:
+def bankruptcy_dates(
+    events: pd.DataFrame,
+    *,
+    trust_legacy_regime: bool = False,
+) -> pd.Series:
     """Erstes Bankruptcy-8-K je CIK (Index: cik, Werte: Timestamp)."""
-    marked = mark_concepts(events)
+    marked = mark_concepts(events, trust_legacy_regime=trust_legacy_regime)
     bk = marked.loc[marked["is_bankruptcy"], ["cik", "filing_date_8k"]]
     if bk.empty:
         return pd.Series(dtype="datetime64[ns]", name="bankruptcy_date")
     out = bk.groupby("cik")["filing_date_8k"].min()
     out.name = "bankruptcy_date"
+    return out
+
+
+def annotate_default_labels(
+    df: pd.DataFrame,
+    events: pd.DataFrame,
+    *,
+    horizon_months: int = 12,
+    trust_legacy_regime: bool = False,
+    label_col: str = DEFAULT_LABEL_COL,
+) -> pd.DataFrame:
+    """Hängt ``label_default`` + ``bankruptcy_date`` an — ohne Zeilen zu droppen.
+
+    Für UI/Scoring-Verläufe: jedes Firm-Year behält seine Zeile; Label 0/1
+    bzw. fehlendes Event bleibt sichtbar.
+    """
+    out = df.copy()
+    rep = pd.to_datetime(out.get("reporting_date"), errors="coerce")
+    bk = bankruptcy_dates(events, trust_legacy_regime=trust_legacy_regime)
+    out["bankruptcy_date"] = out["cik"].map(bk)
+    horizon_end = rep + pd.DateOffset(months=horizon_months)
+    label = (
+        rep.notna()
+        & out["bankruptcy_date"].notna()
+        & (rep < out["bankruptcy_date"])
+        & (out["bankruptcy_date"] <= horizon_end)
+    )
+    out[label_col] = label.fillna(False).astype(int)
     return out
 
 
@@ -279,6 +328,7 @@ def attach_default_labels(
     horizon_months: int = 12,
     drop_censored: bool = True,
     drop_post_bankruptcy: bool = True,
+    trust_legacy_regime: bool = False,
     label_col: str = DEFAULT_LABEL_COL,
 ) -> pd.DataFrame:
     """Konstruiert das Default-Label über den Prognosehorizont.
@@ -286,6 +336,8 @@ def attach_default_labels(
     ``label = 1`` ⟺ ``reporting_date < bankruptcy_date ≤ reporting_date +
     horizon_months``. Die Insolvenz ist ZIEL, nicht Wissen des Modells —
     deshalb existiert bewusst kein korrespondierendes Feature.
+
+    Standard: nur Bankruptcy-8-Ks ab ``REGIME_SWITCH`` (siehe Moduldoc).
     """
     out = df.copy()
     rep = pd.to_datetime(out.get("reporting_date"), errors="coerce")
@@ -298,7 +350,13 @@ def attach_default_labels(
     out = out.loc[rep.notna()].copy()
     rep = rep.loc[rep.notna()]
 
-    bk = bankruptcy_dates(events)
+    bk = bankruptcy_dates(events, trust_legacy_regime=trust_legacy_regime)
+    if not trust_legacy_regime:
+        logger.info(
+            "Default-Label: Legacy-Regime vor %s ignoriert "
+            "(trust_legacy_regime=False).",
+            REGIME_SWITCH.date(),
+        )
     out["_bk_date"] = out["cik"].map(bk)
     horizon_end = rep + pd.DateOffset(months=horizon_months)
 
@@ -344,6 +402,7 @@ def add_event_features(
     window_days: int = 365,
     prefix: str = "evt_",
     include_restatement_flag: bool = False,
+    trust_legacy_regime: bool = False,
 ) -> tuple[pd.DataFrame, list[str]]:
     """PIT-saubere Event-Zähler je Firm-Year.
 
@@ -351,6 +410,9 @@ def add_event_features(
     bis einschließlich des 10-K-Filing-Datums; alles danach wäre Look-ahead.
     Kein Event ⇒ 0 (nicht NaN): die Abwesenheit von 8-Ks ist Information.
     Bankruptcy (1.03/alt-3) ist bewusst KEIN Feature (Label-Leakage).
+
+    Standard: Konzept-Treffer nur ab ``REGIME_SWITCH`` — sonst lernt das Modell
+    den Regime-Sprung (z. B. Officer-Items) statt Risiko.
     """
     out = df.copy()
     feature_cols = event_feature_names(prefix, include_restatement_flag=include_restatement_flag)
@@ -371,7 +433,9 @@ def add_event_features(
         return out, feature_cols
 
     concepts = list(FEATURE_CONCEPTS) + (["restatement"] if include_restatement_flag else [])
-    marked = mark_concepts(events)[["cik", "filing_date_8k"] + [f"is_{c}" for c in concepts]]
+    marked = mark_concepts(events, trust_legacy_regime=trust_legacy_regime)[
+        ["cik", "filing_date_8k"] + [f"is_{c}" for c in concepts]
+    ]
 
     left = pd.DataFrame(
         {"_row": out.index[valid], "cik": out.loc[valid, "cik"].astype("Int64"),

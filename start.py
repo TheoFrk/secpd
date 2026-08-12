@@ -48,7 +48,13 @@ _bootstrap()
 import pandas as pd  # noqa: E402
 
 from secpd.data.edgar import build_financials_panel  # noqa: E402
-from secpd.data.events import add_event_features, build_events_table, load_events  # noqa: E402
+from secpd.data.events import (  # noqa: E402
+    MIN_FYEAR_WITH_FINANCIALS,
+    add_event_features,
+    annotate_default_labels,
+    build_events_table,
+    load_events,
+)
 from secpd.data.zenodo import resolve_columns  # noqa: E402
 from secpd.features.financial import add_financial_features  # noqa: E402
 from secpd.features.textual import extract_text_features, text_feature_names  # noqa: E402
@@ -722,6 +728,24 @@ def score_frame(
         out["name"] = work["name"].values
     if "label" in work.columns:
         out["label"] = work["label"].values
+    meta = dict(payload.get("metadata") or {})
+    if meta.get("label_source") == "default":
+        ev = events_df
+        if ev is None and EVENTS.exists():
+            ev = load_events(EVENTS)
+        if ev is not None and not ev.empty and "reporting_date" in work.columns:
+            horizon = int(meta.get("default_horizon_months") or 12)
+            trust_legacy = bool(meta.get("trust_legacy_regime", False))
+            annotated = annotate_default_labels(
+                work,
+                ev,
+                horizon_months=horizon,
+                trust_legacy_regime=trust_legacy,
+            )
+            out["label_default"] = annotated["label_default"].values
+            out["bankruptcy_date"] = annotated["bankruptcy_date"].values
+        elif "label_default" in work.columns:
+            out["label_default"] = work["label_default"].values
     if "total_assets" in work.columns:
         out["has_financials"] = work["total_assets"].notna().values
     for col in ("filing_date", "reporting_date"):
@@ -901,8 +925,12 @@ def print_score_table(
     print()
     label_hdr = "Default" if label_source == "default" else "AAER"
     score_hdr = f"PD%{horizon}M" if label_source == "default" else "Score"
-    print(f"  {'Jahr':<6} {score_hdr:>8}  {'Risiko':<16}  {label_hdr:<7}  Verlauf")
-    print(f"  {C.DIM}{'-' * 58}{C.RESET}")
+    window_hdr = "Fenster" if label_source == "default" else ""
+    print(
+        f"  {'Jahr':<6} {score_hdr:>8}  {'Risiko':<16}  {label_hdr:<7}  "
+        f"{'Event':<12} {window_hdr:<23} Verlauf"
+    )
+    print(f"  {C.DIM}{'-' * 88}{C.RESET}")
     for _, row in result.iterrows():
         s_model = float(row["pd_score"])
         s = (
@@ -916,22 +944,45 @@ def print_score_table(
             horizon_months=horizon,
             base_rate_12m=base_rate_12m,
         )
-        label = int(row["label"]) if "label" in row and pd.notna(row["label"]) else -1
+        if label_source == "default":
+            if "label_default" in row.index and pd.notna(row["label_default"]):
+                label = int(row["label_default"])
+            else:
+                label = -1
+        else:
+            label = int(row["label"]) if "label" in row.index and pd.notna(row["label"]) else -1
         if label == 1:
             flag = f"{C.RED}JA   {C.RESET}"
         elif label == 0:
             flag = "nein "
         else:
             flag = "–    "
+        event_cell = "—"
+        window_cell = ""
+        if label_source == "default":
+            event_cell = _fmt_date(row.get("bankruptcy_date")) if "bankruptcy_date" in row.index else "—"
+            if label != 1:
+                event_cell = "—"
+            rep_row = (
+                pd.to_datetime(row.get("reporting_date"), errors="coerce")
+                if "reporting_date" in row.index
+                else pd.NaT
+            )
+            if pd.notna(rep_row):
+                end_row = rep_row + pd.DateOffset(months=horizon)
+                window_cell = f"({_fmt_date(rep_row)}, {_fmt_date(end_row)}]"
+            else:
+                window_cell = "—"
         base_h = scale_pd(base_rate_12m, from_months=12, to_months=horizon)
         scale = max(3.0 * base_h, 0.02) if label_source == "default" else 1.0
         spark = "▂▃▄▅▆"[min(4, int(min(s / scale, 1.0) * 5))]
-        y = int(row["fyear"]) if "fyear" in row and pd.notna(row["fyear"]) else "?"
+        y = int(row["fyear"]) if "fyear" in row.index and pd.notna(row["fyear"]) else "?"
         marker = " ←" if focus_doc_id and str(row.get("doc_id")) == str(focus_doc_id) else ""
         score_cell = f"{100 * s:7.2f}%" if label_source == "default" else f"{s:8.3f}"
         print(
             f"  {y:<6} {color}{score_cell}{C.RESET}  {color}{band:<16}{C.RESET}  "
-            f"{flag}  {color}{spark}{C.RESET}{C.DIM}{marker}{C.RESET}"
+            f"{flag}  {event_cell:<12} {window_cell:<23} "
+            f"{color}{spark}{C.RESET}{C.DIM}{marker}{C.RESET}"
         )
 
     print()
@@ -940,7 +991,15 @@ def print_score_table(
         f"Min {result['pd_score'].min():.4f}  ·  "
         f"Max {result['pd_score'].max():.4f}  {C.DIM}(Modell-{model_horizon}M){C.RESET}"
     )
-    if label_source != "default" and "label" in result.columns and result["label"].isin([0, 1]).any():
+    if label_source == "default" and "label_default" in result.columns:
+        pos = result[result["label_default"] == 1]
+        if len(pos):
+            print(
+                f"  Default-Jahre (12M-Label): "
+                f"{', '.join(str(int(y)) for y in pos['fyear'])} "
+                f"(Ø-Score {pos['pd_score'].mean():.3f})"
+            )
+    elif label_source != "default" and "label" in result.columns and result["label"].isin([0, 1]).any():
         pos = result[result["label"] == 1]
         if len(pos):
             print(
@@ -1000,7 +1059,39 @@ def show_model_quality() -> None:
         print(f"    ROC-AUC   {roc:6.3f}  {C.CYAN}{bar(roc)}{C.RESET}  {C.DIM}Ranking-Güte{C.RESET}")
         print(f"    PR-AUC    {pr:6.3f}  {C.CYAN}{bar(pr, 0.05, 0.25)}{C.RESET}  {C.DIM}bei seltenen Events{C.RESET}")
         print(f"    Brier     {brier:6.3f}  {C.DIM}Kalibrierung (niedriger = besser){C.RESET}")
+        skill = metrics.get("brier_skill")
+        if skill is None and base == base and brier == brier and 0 < base < 1:
+            skill = 1.0 - float(brier) / (float(base) * (1.0 - float(base)))
+        if skill is not None and skill == skill:
+            print(
+                f"    Skill     {skill:+6.3f}  {C.DIM}"
+                f"vs. konstanter Basisrate (>0 = besser){C.RESET}"
+            )
         print(f"    Testset   n={n}, Positive={pos}, Basisrate={fmt_pct(base)}")
+        if md.get("min_fyear") is not None:
+            print(
+                f"    policy    min_fyear={md.get('min_fyear')}  ·  "
+                f"legacy={md.get('trust_legacy_regime', '?')}  ·  "
+                f"require_fin={md.get('require_financials', '?')}"
+            )
+
+    freeze = ROOT / "benchmarks" / "default_h12_clean" / "REPORT.md"
+    if freeze.exists():
+        print()
+        print(f"  {C.BOLD}Frozen Benchmark{C.RESET}  {C.DIM}{freeze.relative_to(ROOT)}{C.RESET}")
+        for line in freeze.read_text(encoding="utf-8").splitlines():
+            if line.startswith("| ") or line.startswith("- "):
+                print(f"  {line}")
+
+    rolling = ROOT / "benchmarks" / "rolling_default_h12" / "REPORT.md"
+    if rolling.exists():
+        print()
+        print(f"  {C.BOLD}Rolling-Origin{C.RESET}  {C.DIM}{rolling.relative_to(ROOT)}{C.RESET}")
+        for line in rolling.read_text(encoding="utf-8").splitlines()[:12]:
+            if line.startswith("- ") or line.startswith("| cut") or (
+                line.startswith("| ") and line[2].isdigit()
+            ):
+                print(f"  {line}")
 
     print()
     print(f"  {C.DIM}Faustregel: ROC-AUC ~0.5 = Zufall, >0.6 brauchbar, >0.7 stark.{C.RESET}")
@@ -1830,6 +1921,16 @@ def settings_train() -> None:
         except ValueError:
             h = 12
         argv += ["--default-horizon", str(h)]
+        argv += ["--min-fyear", str(MIN_FYEAR_WITH_FINANCIALS)]
+        if ask(
+            f"Nur Zeilen mit Finanzdaten (total_assets)? (j/n)",
+            "j",
+        ).lower().startswith("j"):
+            argv.append("--require-financials")
+        print(
+            f"  {C.DIM}Policy: Legacy-Regime vor 2004-08-23 ignoriert; "
+            f"min-fyear={MIN_FYEAR_WITH_FINANCIALS}.{C.RESET}"
+        )
     if mode in {"combined", "ensemble"}:
         argv += ["--llm", llm]
     if calibrate:

@@ -24,3 +24,10 @@ assets/nltk_data/
 # LLM-Cache kann groß werden
 data/cache/llm/**
 !data/cache/llm/.gitkeep
+
+# Benchmark-Vorhersagen lokal; Report/Manifest dürfen versioniert werden
+benchmarks/**/predictions.csv
+benchmarks/**/test_ids.csv
+benchmarks/**/deciles_*.csv
+benchmarks/**/reliability_*.csv
+benchmarks/**/folds.csv

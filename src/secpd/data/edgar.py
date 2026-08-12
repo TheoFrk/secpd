@@ -81,10 +81,15 @@ def fetch_company_facts(
 def annual_financials_from_facts(facts: dict[str, Any]) -> pd.DataFrame:
     """Extrahiert Jahreswerte (Form 10-K, fp=FY) ins kanonische Schema.
 
+    Point-in-time: je ``(fyear, Konzept)`` zählt der **zuerst filed**-Wert
+    (frühestes ``filed``-Datum). Spätere 10-K/A-Restatements überschreiben
+    nicht — Look-ahead durch nachträgliche Korrekturen wird vermieden.
+
     Rückgabe: eine Zeile je ``fyear`` mit den Spalten aus :data:`TAG_MAP`.
     """
     gaap = facts.get("facts", {}).get("us-gaap", {})
-    per_year: dict[int, dict[str, float]] = {}
+    # fyear → concept → (value, filed_ts)
+    per_year: dict[int, dict[str, tuple[float, pd.Timestamp]]] = {}
 
     for canonical, tags in TAG_MAP.items():
         for tag in tags:
@@ -98,18 +103,32 @@ def annual_financials_from_facts(facts: dict[str, Any]) -> pd.DataFrame:
                 val = e.get("val")
                 if fy is None or val is None:
                     continue
+                filed = pd.to_datetime(e.get("filed"), errors="coerce")
                 row = per_year.setdefault(int(fy), {})
-                # Spätere Einträge (Re-Filings) überschreiben frühere.
-                row[canonical] = float(val)
+                prev = row.get(canonical)
+                if prev is None:
+                    row[canonical] = (float(val), filed)
+                    found_any = True
+                    continue
+                _, prev_filed = prev
+                # Früheres filed-Datum gewinnt (erster berichteter Wert).
+                if pd.isna(prev_filed) and pd.notna(filed):
+                    row[canonical] = (float(val), filed)
+                elif pd.notna(filed) and pd.notna(prev_filed) and filed < prev_filed:
+                    row[canonical] = (float(val), filed)
                 found_any = True
             if found_any:
                 break  # erster Tag mit Treffern gewinnt (Prioritätsliste)
 
     if not per_year:
         return pd.DataFrame(columns=["fyear", *TAG_MAP.keys()])
-    df = pd.DataFrame(
-        [{"fyear": fy, **vals} for fy, vals in sorted(per_year.items())]
-    )
+    rows = []
+    for fy, vals in sorted(per_year.items()):
+        row: dict[str, Any] = {"fyear": fy}
+        for concept, (value, _) in vals.items():
+            row[concept] = value
+        rows.append(row)
+    df = pd.DataFrame(rows)
     df["cik"] = int(facts.get("cik", 0))
     return df
 
@@ -143,7 +162,8 @@ def build_financials_panel(
     if not frames:
         return pd.DataFrame(columns=["cik", "fyear", *TAG_MAP.keys()])
     panel = pd.concat(frames, ignore_index=True)
-    panel = panel.drop_duplicates(subset=["cik", "fyear"], keep="last").reset_index(drop=True)
+    # Keep first: bei doppelten CIK-Läufen nicht das spätere Panel gewinnen lassen
+    panel = panel.drop_duplicates(subset=["cik", "fyear"], keep="first").reset_index(drop=True)
     logger.info("Finanz-Panel: %d Firm-Years, %d CIKs", len(panel), panel["cik"].nunique())
     return panel
 

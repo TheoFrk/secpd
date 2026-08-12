@@ -33,12 +33,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent / "src"))
 import pandas as pd  # noqa: E402
 
 from secpd.data.events import (  # noqa: E402
+    MIN_FYEAR_WITH_FINANCIALS,
     attach_default_labels,
     add_event_features,
     load_events,
 )
 from secpd.data.zenodo import load_dataset, resolve_columns  # noqa: E402
-from secpd.evaluation import evaluate_probs, print_report  # noqa: E402
+from secpd.evaluation import evaluate_probs, firm_overlap_stats, print_report  # noqa: E402
 from secpd.features.financial import add_financial_features  # noqa: E402
 from secpd.features.textual import extract_text_features, text_feature_names  # noqa: E402
 from secpd.llm import get_llm_client  # noqa: E402
@@ -50,7 +51,7 @@ from secpd.models.persistence import (  # noqa: E402
     save_ensemble,
     save_single,
 )
-from secpd.models.pipeline import build_pipeline, build_text_pipeline  # noqa: E402
+from secpd.models.pipeline import build_pipeline, build_text_pipeline, fit_pipeline, make_calibration_cv  # noqa: E402
 from secpd.splitting import smart_split  # noqa: E402
 
 logger = logging.getLogger("train")
@@ -69,6 +70,24 @@ def parse_args() -> argparse.Namespace:
                         "aus 8-K Item 1.03 (erfordert --events)")
     p.add_argument("--default-horizon", type=int, default=12,
                    help="Prognosehorizont des Default-Labels in Monaten")
+    p.add_argument(
+        "--trust-legacy-regime",
+        action="store_true",
+        help="Auch vor 2004-08-23 Item-3/Alt-Codes als Bankruptcy/Events zählen "
+             "(Default: aus — Submissions-Items vor dem Regimewechsel unzuverlässig)",
+    )
+    p.add_argument(
+        "--min-fyear",
+        type=int,
+        default=None,
+        help="Nur Firm-Years ab diesem GJ (Default bei --label-source default: "
+             f"{MIN_FYEAR_WITH_FINANCIALS}, sonst kein Cut)",
+    )
+    p.add_argument(
+        "--require-financials",
+        action="store_true",
+        help="Zeilen ohne total_assets droppen (sinnvoll nach --financials-Merge)",
+    )
     p.add_argument("--mode", choices=["financial", "combined", "ensemble"], default="financial")
     p.add_argument("--llm", choices=["mock", "bank"], default=None,
                    help="Überschreibt SECPD_LLM_MODE (Default: ENV bzw. mock)")
@@ -82,7 +101,9 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--test-size", type=float, default=0.2)
     p.add_argument("--n-estimators", type=int, default=300)
     p.add_argument("--calibrate", action="store_true",
-                   help="Isotonic-Kalibrierung (CV=3) für kalibrierte PD-Niveaus")
+                   help="Wahrscheinlichkeits-Kalibrierung (Default-Methode: sigmoid)")
+    p.add_argument("--calibrate-method", choices=["sigmoid", "isotonic", "auto"], default="auto",
+                   help="auto: sigmoid bei <100 Trainings-Positiven, sonst isotonic")
     p.add_argument("--w-fin", type=float, default=0.6, help="Ensemble-Gewicht Finanzmodell")
     p.add_argument("--max-chars", type=int, default=12_000, help="LLM-Input-Trunkierung")
     p.add_argument("--sample", type=int, default=None,
@@ -114,9 +135,39 @@ def main() -> int:
             logger.error("--label-source default erfordert --events "
                          "(s. scripts/fetch_edgar_events.py).")
             return 2
-        df = attach_default_labels(df, events_df, horizon_months=args.default_horizon)
+        df = attach_default_labels(
+            df,
+            events_df,
+            horizon_months=args.default_horizon,
+            trust_legacy_regime=bool(args.trust_legacy_regime),
+        )
         if args.label_col is None:
             args.label_col = "label_default"
+
+    min_fyear = args.min_fyear
+    if min_fyear is None and args.label_source == "default":
+        min_fyear = MIN_FYEAR_WITH_FINANCIALS
+    if min_fyear is not None and "fyear" in df.columns:
+        before = len(df)
+        df = df.loc[pd.to_numeric(df["fyear"], errors="coerce") >= int(min_fyear)].copy()
+        logger.info(
+            "min-fyear=%d: %d → %d Zeilen (%.1f%% behalten).",
+            int(min_fyear), before, len(df),
+            100 * len(df) / before if before else 0.0,
+        )
+    if args.require_financials:
+        if "total_assets" not in df.columns:
+            logger.error("--require-financials braucht --financials (Spalte total_assets).")
+            return 2
+        before = len(df)
+        df = df.loc[df["total_assets"].notna()].copy()
+        logger.info(
+            "require-financials: %d → %d Zeilen mit total_assets.",
+            before, len(df),
+        )
+    if df.empty:
+        logger.error("Datensatz nach Filtern leer — min-fyear / Labels prüfen.")
+        return 2
 
     cols = resolve_columns(
         df,
@@ -137,7 +188,11 @@ def main() -> int:
 
     evt_features: list[str] = []
     if events_df is not None:
-        df, evt_features = add_event_features(df, events_df)
+        df, evt_features = add_event_features(
+            df,
+            events_df,
+            trust_legacy_regime=bool(args.trust_legacy_regime),
+        )
     numeric_features = fin_features + evt_features
 
     llm_features: list[str] = []
@@ -176,6 +231,17 @@ def main() -> int:
         "Split (%s): Train n=%d (%.1f%% pos) | Test n=%d (%.1f%% pos)",
         used_strategy, len(df_train), 100 * y_train.mean(), len(df_test), 100 * y_test.mean(),
     )
+    overlap = {"overlap_rate": float("nan")}
+    if group_col is not None:
+        overlap = firm_overlap_stats(df_train[group_col], df_test[group_col])
+        logger.info(
+            "Firm-Overlap: %.1f%% der Testfirmen auch im Training "
+            "(%d/%d; neu=%d)",
+            100 * overlap["overlap_rate"],
+            int(overlap["n_overlap_firms"]),
+            int(overlap["n_test_firms"]),
+            int(overlap["n_new_test_firms"]),
+        )
 
     # ------------------------------------------------------------------ #
     # 4) Training & Evaluation
@@ -188,26 +254,68 @@ def main() -> int:
         "label_col": cols.label_col,
         "label_source": args.label_source,
         "default_horizon_months": args.default_horizon if args.label_source == "default" else None,
+        "trust_legacy_regime": bool(args.trust_legacy_regime),
+        "min_fyear": int(min_fyear) if min_fyear is not None else None,
+        "require_financials": bool(args.require_financials),
         "event_features": evt_features,
         "calibrated": bool(args.calibrate),
+        "firm_overlap": overlap,
         "data": str(args.data),
         "train_run_id": train_run_id,
     }
 
     # 4a) Financial-Baseline — immer, als Referenzpunkt für den Text-Mehrwert.
+    n_pos_train = int(y_train.sum())
+    if args.calibrate_method == "auto":
+        cal_method = "sigmoid" if n_pos_train < 100 else "isotonic"
+    else:
+        cal_method = args.calibrate_method
+    groups_train = df_train[group_col].to_numpy() if group_col else None
+    cal_cv = make_calibration_cv(groups_train, y_train) if args.calibrate else 3
+    if args.calibrate:
+        logger.info(
+            "Kalibrierung: method=%s cv=%s (train positives=%d)",
+            cal_method,
+            f"GroupSplits({len(cal_cv)})" if isinstance(cal_cv, list) else cal_cv,
+            n_pos_train,
+        )
+
     fin_pipe = build_pipeline(
         numeric_features,
         n_estimators=args.n_estimators,
         calibrate=args.calibrate,
+        calibration_method=cal_method,
+        cv=cal_cv,
         random_state=args.seed,
     )
-    fin_pipe.fit(df_train, y_train)
+    fit_pipeline(fin_pipe, df_train, y_train, groups=groups_train)
     p_fin_test = fin_pipe.predict_proba(df_test)[:, 1]
     results["financial_baseline"] = evaluate_probs(y_test, p_fin_test)
+    # New-firm Subset (streng): nur Test-CIKs ohne Trainingsjahre
+    if group_col is not None:
+        train_ciks = set(df_train[group_col].dropna().astype(int))
+        new_mask = ~df_test[group_col].astype("Int64").isin(train_ciks)
+        if new_mask.any() and df_test.loc[new_mask, cols.label_col].nunique() >= 2:
+            results["financial_new_firms"] = evaluate_probs(
+                df_test.loc[new_mask, cols.label_col].astype(int).to_numpy(),
+                p_fin_test[new_mask.to_numpy()],
+            )
+            logger.info(
+                "New-firm Subset: n=%d pos=%d ROC=%.3f",
+                int(results["financial_new_firms"]["n"]),
+                int(results["financial_new_firms"]["positives"]),
+                results["financial_new_firms"]["roc_auc"],
+            )
     fin_bundle = ModelBundle(
         pipeline=fin_pipe,
         feature_cols=numeric_features,
         metadata=runtime_metadata({**base_meta, "component": "financial",
+                                   "calibration_method": cal_method if args.calibrate else None,
+                                   "calibration_cv": (
+                                       f"GroupSplits({len(cal_cv)})"
+                                       if isinstance(cal_cv, list)
+                                       else cal_cv
+                                   ) if args.calibrate else None,
                                    "metrics": results["financial_baseline"]}),
     )
     fin_name = bundle_filename(
@@ -226,9 +334,11 @@ def main() -> int:
             combined_features,
             n_estimators=args.n_estimators,
             calibrate=args.calibrate,
+            calibration_method=cal_method,
+            cv=cal_cv,
             random_state=args.seed,
         )
-        comb_pipe.fit(df_train, y_train)
+        fit_pipeline(comb_pipe, df_train, y_train, groups=groups_train)
         p_comb_test = comb_pipe.predict_proba(df_test)[:, 1]
         results["combined_model"] = evaluate_probs(y_test, p_comb_test)
         comb_name = bundle_filename(
@@ -242,6 +352,7 @@ def main() -> int:
                 feature_cols=combined_features,
                 metadata=runtime_metadata({**base_meta, "component": "combined",
                                            "llm_features": llm_features,
+                                           "calibration_method": cal_method if args.calibrate else None,
                                            "metrics": results["combined_model"]}),
             ),
             out_dir / comb_name,
