@@ -48,6 +48,7 @@ def get_llm_client(
     *,
     cached: bool = True,
     force_refresh: bool = False,
+    cache_only: bool = False,
 ) -> BaseLLMClient:
     """Factory für den LLM-Client.
 
@@ -60,6 +61,9 @@ def get_llm_client(
     force_refresh:
         Bei Cache: vorhandene Einträge ignorieren und neu bewerten (danach
         wieder speichern).
+    cache_only:
+        Keine LLM-API bei Cache-Miss — Fallback-Profil. Wird automatisch
+        gesetzt, wenn OpenAI ohne API-Key und ohne ``force_refresh``.
     """
     settings = load_settings()
     resolved = (mode or settings.llm_mode).strip().lower()
@@ -69,11 +73,15 @@ def get_llm_client(
         client = MockLLMClient()
     elif resolved in {"openai", "chatgpt", "gpt"}:
         api_key = settings.llm_api_key or os.getenv("OPENAI_API_KEY", "")
-        if not api_key:
+        if force_refresh and not api_key:
             raise ValueError(
-                "OpenAI-Modus braucht SECPD_LLM_API_KEY (oder OPENAI_API_KEY) — "
+                "OpenAI-Refresh braucht SECPD_LLM_API_KEY (oder OPENAI_API_KEY) — "
                 "in start.py → Einstellungen → LLM setzen."
             )
+        if not api_key:
+            cache_only = True
+            api_key = "cache-only"
+            logger.info("OpenAI ohne API-Key — Cache-only Replay.")
         endpoint = settings.llm_endpoint or DEFAULT_OPENAI_ENDPOINT
         model = settings.llm_model
         if not model or model in {"internal-default", "auto", "local"}:
@@ -121,6 +129,9 @@ def get_llm_client(
 
     if cached:
         client = CachedLLMClient(
-            client, settings.llm_cache_dir, force_refresh=force_refresh
+            client,
+            settings.llm_cache_dir,
+            force_refresh=force_refresh,
+            cache_only=cache_only,
         )
     return client

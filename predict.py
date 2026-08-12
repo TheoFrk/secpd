@@ -24,7 +24,12 @@ import pandas as pd  # noqa: E402
 from secpd.data.events import add_event_features, load_events  # noqa: E402
 from secpd.data.zenodo import load_dataset, resolve_columns  # noqa: E402
 from secpd.features.financial import add_financial_features  # noqa: E402
-from secpd.features.textual import extract_text_features, text_feature_names  # noqa: E402
+from secpd.features.textual import (  # noqa: E402
+    attach_text_features,
+    extract_keyword_features,
+    needs_keyword_columns,
+    needs_llm_columns,
+)
 from secpd.llm import get_llm_client  # noqa: E402
 from secpd.models.ensemble import EnsembleWeights, combine_probabilities  # noqa: E402
 from secpd.models.persistence import (  # noqa: E402
@@ -41,17 +46,13 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--model", required=True, help="Pfad zum .joblib-Bundle")
     p.add_argument("--data", required=True, help="Datensatz (.csv/.csv.gz/.parquet)")
     p.add_argument("--out", default="scores.csv")
-    p.add_argument("--llm", choices=["mock", "bank", "lmstudio"], default=None)
+    p.add_argument("--llm", choices=["mock", "bank", "lmstudio", "openai", "chatgpt"], default=None)
     p.add_argument("--events", default=None,
                    help="8-K-Eventliste (CSV) — nötig, wenn das Bundle evt_*-Features erwartet")
     p.add_argument("--id-col", default=None)
     p.add_argument("--text-col", default=None)
     p.add_argument("--max-chars", type=int, default=12_000)
     return p.parse_args()
-
-
-def _needs_llm(feature_cols: list[str]) -> bool:
-    return any(c in feature_cols for c in text_feature_names())
 
 
 def main() -> int:
@@ -71,10 +72,13 @@ def main() -> int:
 
     if payload["kind"] == BUNDLE_KIND_SINGLE:
         feature_cols = list(payload["feature_cols"])
-        needs_llm = _needs_llm(feature_cols)
     elif payload["kind"] == BUNDLE_KIND_ENSEMBLE:
-        feature_cols = list(payload["financial"]["feature_cols"])
-        needs_llm = True
+        feature_cols = list(
+            dict.fromkeys(
+                list(payload["financial"]["feature_cols"])
+                + list(payload["text"]["feature_cols"])
+            )
+        )
     else:
         raise ValueError(f"Unbekannter Bundle-Typ: {payload['kind']!r}")
 
@@ -88,26 +92,25 @@ def main() -> int:
             return 2
         df, _ = add_event_features(df, load_events(args.events))
 
-    if needs_llm:
-        if cols.text_col is None:
-            logger.error("Bundle benötigt Text-Features, aber keine Textspalte gefunden.")
-            return 2
-        client = get_llm_client(args.llm)
-        text_feats = extract_text_features(
-            df, client=client, text_col=cols.text_col, id_col=cols.id_col,
-            max_chars=args.max_chars,
-        )
-        df = df.merge(text_feats, on=cols.id_col, how="left")
-
-    all_needed: list[str] = list(feature_cols)
-    if payload["kind"] == BUNDLE_KIND_ENSEMBLE:
-        all_needed = list(
-            dict.fromkeys(
-                list(payload["financial"]["feature_cols"])
-                + list(payload["text"]["feature_cols"])
+    if cols.text_col is not None and (
+        needs_llm_columns(feature_cols) or needs_keyword_columns(feature_cols)
+    ):
+        if needs_llm_columns(feature_cols):
+            client = get_llm_client(args.llm, cache_only=True)
+            df, _ = attach_text_features(
+                df,
+                client=client,
+                text_col=cols.text_col,
+                id_col=cols.id_col,
+                max_chars=args.max_chars,
             )
-        )
-    for c in all_needed:
+        else:
+            kw = extract_keyword_features(
+                df, text_col=cols.text_col, id_col=cols.id_col
+            )
+            df = df.merge(kw, on=cols.id_col, how="left")
+
+    for c in feature_cols:
         if c not in df.columns:
             df[c] = float("nan")
 

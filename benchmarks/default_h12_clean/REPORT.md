@@ -8,14 +8,14 @@
 | Modell | ROC-AUC | PR-AUC | Brier | Skill | Top10% Capture | Top10% Lift |
 |--------|---------|--------|-------|-------|----------------|-------------|
 | Null (Test-Basisrate) | 0.500 | 0.008 | 0.0082 | +0.000 | 10.0% | 1.00× |
-| Financial | 0.904 | 0.105 | 0.0082 | +0.006 | 66.7% | 6.69× |
-| Combined | 0.896 | 0.149 | 0.0080 | +0.028 | 66.7% | 6.69× |
+| Financial | 0.894 | 0.085 | 0.0082 | +0.008 | 66.7% | 6.69× |
+| Combined | 0.946 | 0.157 | 0.0081 | +0.021 | 83.3% | 8.36× |
 
 ## CIK-Bootstrap 95%-CI
 
-- Financial ROC: 0.783–0.985
-- Combined ROC: 0.746–0.989
-- Δ Combined−Financial ROC: -0.007 [-0.036, +0.012]
-- Δ Combined−Financial PR: +0.045 [-0.026, +0.223]
+- Financial ROC: 0.790–0.982
+- Combined ROC: 0.867–0.991
+- Δ Combined−Financial ROC: +0.052 [+0.002, +0.130]
+- Δ Combined−Financial PR: +0.072 [+0.001, +0.250]
 
 **Hinweis:** Bei wenigen Positives sind AUC-CIs breit — Top-k und Skill mitlesen.

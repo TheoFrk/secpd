@@ -37,6 +37,7 @@ rolling:
 		--data data/processed/zenodo_labeled.csv.gz \
 		--financials data/raw/financials_panel.csv \
 		--events data/raw/edgar_8k_events.csv \
+		--llm openai --llm-cache-only --group-split \
 		--out benchmarks/rolling_default_h12
 
 ping-llm:

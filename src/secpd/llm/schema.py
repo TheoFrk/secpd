@@ -62,13 +62,18 @@ class TextRiskProfile(BaseModel):
         description="Knappe (<= 3 Sätze) Risiko-Zusammenfassung in natürlicher Sprache.",
     )
 
-    #: Felder, die als numerische ML-Features exportiert werden.
+    #: Alle numerischen Felder (Cache / Debug).
     FEATURE_FIELDS: ClassVar[tuple[str, ...]] = (
         "vagueness_score",
         "redundancy_score",
         "complexity_score",
         "risk_sentiment",
         "confidence",
+    )
+    #: Schlanke Modell-Features: nur Felder mit empirischem Default-Signal.
+    MODEL_FEATURE_FIELDS: ClassVar[tuple[str, ...]] = (
+        "risk_sentiment",
+        "complexity_score",
     )
 
     # ------------------------------------------------------------------ #
@@ -92,9 +97,10 @@ class TextRiskProfile(BaseModel):
     # Projektion in den Feature-Raum der sklearn-Pipeline.
     # ------------------------------------------------------------------ #
     @classmethod
-    def feature_names(cls, prefix: str = "llm_") -> list[str]:
+    def feature_names(cls, prefix: str = "llm_", *, for_model: bool = False) -> list[str]:
         """Spaltennamen der numerischen Features (für Pipeline-Definitionen)."""
-        return [f"{prefix}{f}" for f in cls.FEATURE_FIELDS]
+        fields = cls.MODEL_FEATURE_FIELDS if for_model else cls.FEATURE_FIELDS
+        return [f"{prefix}{f}" for f in fields]
 
     def to_features(self, prefix: str = "llm_") -> dict[str, float]:
         """Numerische Felder als flaches Dict (eine DataFrame-Zeile)."""

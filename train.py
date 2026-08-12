@@ -41,7 +41,7 @@ from secpd.data.events import (  # noqa: E402
 from secpd.data.zenodo import load_dataset, resolve_columns  # noqa: E402
 from secpd.evaluation import evaluate_probs, firm_overlap_stats, print_report  # noqa: E402
 from secpd.features.financial import add_financial_features  # noqa: E402
-from secpd.features.textual import extract_text_features, text_feature_names  # noqa: E402
+from secpd.features.textual import attach_text_features  # noqa: E402
 from secpd.llm import get_llm_client  # noqa: E402
 from secpd.models.ensemble import EnsembleWeights, combine_probabilities  # noqa: E402
 from secpd.models.persistence import (  # noqa: E402
@@ -96,6 +96,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Textfeatures neu via LLM bewerten (Cache überschreiben); "
              "Default: vorhandene Cache-Treffer nutzen",
+    )
+    p.add_argument(
+        "--llm-cache-only",
+        action="store_true",
+        help="Keine LLM-API bei Cache-Miss (Fallback statt Request)",
     )
     p.add_argument("--out", default="models", help="Ausgabeverzeichnis für .joblib-Bundles")
     p.add_argument("--label-col", default=None)
@@ -206,20 +211,24 @@ def main() -> int:
         if cols.text_col is None:
             logger.error("Modus %r benötigt eine Textspalte (--text-col).", args.mode)
             return 2
-        client = get_llm_client(args.llm, cached=True, force_refresh=bool(args.llm_refresh))
+        client = get_llm_client(
+            args.llm,
+            cached=True,
+            force_refresh=bool(args.llm_refresh),
+            cache_only=bool(args.llm_cache_only),
+        )
         if args.llm_refresh:
             logger.info("LLM: Force-Refresh aktiv — Cache wird überschrieben (%s)", client.name)
         else:
-            logger.info("LLM: Cache bevorzugt (%s)", client.name)
-        text_feats = extract_text_features(
+            logger.info("LLM: Cache bevorzugt, keine neuen API-Calls bei Hits (%s)", client.name)
+        df, llm_features = attach_text_features(
             df,
             client=client,
             text_col=cols.text_col,
             id_col=cols.id_col,
             max_chars=args.max_chars,
         )
-        df = df.merge(text_feats, on=cols.id_col, how="left")
-        llm_features = text_feature_names()
+        logger.info("Text-Features fürs Modell: %s", llm_features)
 
     # ------------------------------------------------------------------ #
     # 3) Leakage-bewusster Split

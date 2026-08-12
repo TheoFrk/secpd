@@ -154,8 +154,10 @@ python train.py --data data/processed/zenodo_labeled.csv.gz \
   --financials data/raw/financials_panel.csv \
   --events data/raw/edgar_8k_events.csv \
   --label-source default --require-financials \
-  --mode combined --llm openai --calibrate
-# Neu bewerten: zusätzlich --llm-refresh
+  --mode combined --llm openai --llm-cache-only --calibrate
+# Neu bewerten: --llm-refresh (braucht API-Key)
+# Combined nutzt llm_risk_sentiment + llm_complexity_score plus
+# MD&A-Keyword-Zähler (going concern, liquidity, covenant, …).
 ```
 
 ### LM Studio (lokales LLM)

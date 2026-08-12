@@ -47,7 +47,7 @@ from secpd.evaluation import (  # noqa: E402
     top_k_capture,
 )
 from secpd.features.financial import add_financial_features  # noqa: E402
-from secpd.features.textual import extract_text_features, text_feature_names  # noqa: E402
+from secpd.features.textual import attach_text_features  # noqa: E402
 from secpd.llm import get_llm_client  # noqa: E402
 from secpd.models.persistence import load_any  # noqa: E402
 from secpd.splitting import smart_split  # noqa: E402
@@ -73,7 +73,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--test-size", type=float, default=0.2)
     p.add_argument("--seed", type=int, default=42)
     p.add_argument("--n-boot", type=int, default=1_000)
-    p.add_argument("--llm", choices=["mock", "bank", "lmstudio"], default="mock")
+    p.add_argument("--llm", choices=["mock", "bank", "lmstudio", "openai", "chatgpt"], default="openai")
     p.add_argument("--max-chars", type=int, default=12_000)
     return p.parse_args()
 
@@ -87,13 +87,13 @@ def _score_bundle(df: pd.DataFrame, model_path: Path, *, llm: str, max_chars: in
     payload = load_any(model_path)
     work = df.copy()
     feature_cols = list(payload["feature_cols"])
-    needs_llm = any(c in feature_cols for c in text_feature_names())
-    if needs_llm:
+    needs_text = any(str(c).startswith(("llm_", "txt_")) for c in feature_cols)
+    if needs_text:
         cols = resolve_columns(work)
         if cols.text_col is None:
             raise RuntimeError(f"{model_path.name}: Textspalte fehlt")
-        client = get_llm_client(llm)
-        text_feats = extract_text_features(
+        client = get_llm_client(llm, cache_only=True)
+        work, _ = attach_text_features(
             work,
             client=client,
             text_col=cols.text_col,
@@ -101,7 +101,6 @@ def _score_bundle(df: pd.DataFrame, model_path: Path, *, llm: str, max_chars: in
             max_chars=max_chars,
             progress_every=10_000,
         )
-        work = work.merge(text_feats, on=cols.id_col, how="left")
     for c in feature_cols:
         if c not in work.columns:
             work[c] = float("nan")

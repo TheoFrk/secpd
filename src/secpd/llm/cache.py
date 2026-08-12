@@ -30,14 +30,18 @@ class CachedLLMClient(BaseLLMClient):
         cache_dir: Path | str,
         *,
         force_refresh: bool = False,
+        cache_only: bool = False,
     ) -> None:
         self.inner = inner
         self.cache_dir = Path(cache_dir) / inner.cache_namespace
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.force_refresh = bool(force_refresh)
+        self.cache_only = bool(cache_only) and not self.force_refresh
         self.name = f"cached({inner.name})"
         if self.force_refresh:
             self.name += "+refresh"
+        elif self.cache_only:
+            self.name += "+cache-only"
 
     @property
     def cache_namespace(self) -> str:
@@ -54,6 +58,10 @@ class CachedLLMClient(BaseLLMClient):
                 return TextRiskProfile.model_validate_json(path.read_text(encoding="utf-8"))
             except Exception:  # noqa: BLE001 — korrupten Cache-Eintrag neu berechnen
                 logger.warning("Korrupter Cache-Eintrag wird neu berechnet: %s", path.name)
+
+        if self.cache_only:
+            logger.warning("Cache-Miss (cache-only, kein LLM-Call): %s", path.name)
+            return TextRiskProfile.fallback(reason="cache miss")
 
         profile = self.inner.analyze(text, doc_id=doc_id)
         tmp = path.with_suffix(".tmp")

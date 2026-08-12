@@ -59,7 +59,12 @@ from secpd.data.events import (  # noqa: E402
 from secpd.llm.bank import DEFAULT_OPENAI_ENDPOINT, DEFAULT_OPENAI_MODEL  # noqa: E402
 from secpd.data.zenodo import resolve_columns  # noqa: E402
 from secpd.features.financial import add_financial_features  # noqa: E402
-from secpd.features.textual import extract_text_features, text_feature_names  # noqa: E402
+from secpd.features.textual import (  # noqa: E402
+    attach_text_features,
+    extract_keyword_features,
+    needs_keyword_columns,
+    needs_llm_columns,
+)
 from secpd.llm import get_llm_client  # noqa: E402
 from secpd.models.ensemble import EnsembleWeights, combine_probabilities  # noqa: E402
 from secpd.models.persistence import (  # noqa: E402
@@ -689,10 +694,13 @@ def score_frame(
 
     if payload["kind"] == BUNDLE_KIND_SINGLE:
         feature_cols = list(payload["feature_cols"])
-        needs_llm = any(c in feature_cols for c in text_feature_names())
     elif payload["kind"] == BUNDLE_KIND_ENSEMBLE:
-        feature_cols = list(payload["financial"]["feature_cols"])
-        needs_llm = True
+        feature_cols = list(
+            dict.fromkeys(
+                list(payload["financial"]["feature_cols"])
+                + list(payload["text"]["feature_cols"])
+            )
+        )
     else:
         raise ValueError(f"Unbekannter Bundle-Typ: {payload['kind']!r}")
 
@@ -709,22 +717,29 @@ def score_frame(
             print(f"  {C.DIM}8-K-Event-Features ({len(ev)} Events) …{C.RESET}")
         work, _ = add_event_features(work, ev)
 
-    if needs_llm:
-        if cols.text_col is None or cols.text_col not in work.columns:
+    if cols.text_col and (
+        needs_llm_columns(feature_cols) or needs_keyword_columns(feature_cols)
+    ):
+        if cols.text_col not in work.columns:
             raise RuntimeError("Modell braucht Text (MD&A), aber keine Textspalte gefunden.")
-        if work[cols.text_col].fillna("").astype(str).str.len().max() < 50:
-            raise RuntimeError("MD&A-Text fehlt oder ist zu kurz für das Combined-Modell.")
-        llm_mode = os.environ.get("SECPD_LLM_MODE", "mock")
-        client = get_llm_client(llm_mode)
-        print(f"  {C.DIM}Textanalyse ({len(work)} Dokumente, LLM={llm_mode}) …{C.RESET}")
-        text_feats = extract_text_features(
-            work,
-            client=client,
-            text_col=cols.text_col,
-            id_col=cols.id_col,
-            progress_every=10_000,
-        )
-        work = work.merge(text_feats, on=cols.id_col, how="left")
+        if needs_llm_columns(feature_cols):
+            if work[cols.text_col].fillna("").astype(str).str.len().max() < 50:
+                raise RuntimeError("MD&A-Text fehlt oder ist zu kurz für das Combined-Modell.")
+            llm_mode = os.environ.get("SECPD_LLM_MODE", "mock")
+            client = get_llm_client(llm_mode, cache_only=True)
+            print(f"  {C.DIM}Textanalyse ({len(work)} Dokumente, LLM={llm_mode}) …{C.RESET}")
+            work, _ = attach_text_features(
+                work,
+                client=client,
+                text_col=cols.text_col,
+                id_col=cols.id_col,
+                progress_every=10_000,
+            )
+        else:
+            kw = extract_keyword_features(
+                work, text_col=cols.text_col, id_col=cols.id_col
+            )
+            work = work.merge(kw, on=cols.id_col, how="left")
 
     # Fehlende Feature-Spalten (z. B. fin_interest_coverage ohne ebit in EDGAR)
     # als NaN anlegen — SimpleImputer in der Pipeline füllt sie.
