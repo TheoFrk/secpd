@@ -204,7 +204,9 @@ def build_events_table(
     """
     all_rows: list[dict[str, Any]] = []
     unique = sorted({int(c) for c in ciks if pd.notna(c)})
+    cache_root = Path(cache_dir)
     for n, cik in enumerate(unique, start=1):
+        cached = (cache_root / f"CIK{int(cik):010d}.json").exists() and not force
         try:
             payload = fetch_submissions(
                 cik, user_agent=user_agent, cache_dir=cache_dir, force=force
@@ -218,7 +220,8 @@ def build_events_table(
             logger.warning("CIK %s übersprungen: %s", cik, exc)
         if n % 25 == 0:
             logger.info("  … %d/%d CIKs verarbeitet", n, len(unique))
-        time.sleep(sleep_s)
+        if not cached:
+            time.sleep(sleep_s)
 
     df = pd.DataFrame(all_rows, columns=["cik", "filing_date_8k", "items", "accession"])
     if not df.empty:

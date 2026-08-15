@@ -12,13 +12,17 @@ data/raw/*
 !data/raw/.gitkeep
 !data/raw/aaer_mark5.csv
 !data/raw/financials_panel.csv
+!data/raw/financials_panel_full.csv
 !data/raw/edgar_8k_events.csv
-# firm_years_labels.json (~683MB) und edgar_submissions/ bleiben lokal
+!data/raw/edgar_8k_events_full.csv
+# firm_years.json (~4.9GB), submissions/ und companyfacts-Cache bleiben lokal
 
 # Regenerierbar via convert_zenodo / Training:
 data/processed/*.csv
+data/processed/zenodo_full.csv.gz
 !data/processed/.gitkeep
 !data/processed/zenodo_labeled.csv.gz
+!data/processed/zenodo_full_index.csv.gz
 
 # Optional große Offline-Bundles lokal halten:
 vendor/wheels/

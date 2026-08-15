@@ -13,8 +13,10 @@ für ältere Firm-Years greift später die Median-Imputation der Pipeline.
 """
 from __future__ import annotations
 
+import json
 import logging
 import time
+from pathlib import Path
 from typing import Any, Iterable
 
 import pandas as pd
@@ -61,13 +63,24 @@ def fetch_company_facts(
     user_agent: str,
     session: requests.Session | None = None,
     timeout: float = 30.0,
+    cache_dir: Path | str | None = None,
+    force: bool = False,
 ) -> dict[str, Any]:
-    """Lädt das companyfacts-JSON eines CIK (wirft bei HTTP-Fehlern)."""
+    """Lädt das companyfacts-JSON eines CIK (wirft bei HTTP-Fehlern).
+
+    Optionaler Datei-Cache (wie Submissions): Lauf ist damit unterbrechbar.
+    """
     if not user_agent:
         raise ValueError(
             "SEC verlangt einen User-Agent — SECPD_SEC_UA setzen, "
             'z. B. "Commerzbank Praktikum vorname.nachname@example.com".'
         )
+    cache_file: Path | None = None
+    if cache_dir is not None:
+        cache_file = Path(cache_dir) / f"CIK{int(cik):010d}.json"
+        if cache_file.exists() and not force:
+            return json.loads(cache_file.read_text(encoding="utf-8"))
+
     sess = session or requests.Session()
     resp = sess.get(
         COMPANYFACTS_URL.format(cik=int(cik)),
@@ -75,7 +88,11 @@ def fetch_company_facts(
         timeout=timeout,
     )
     resp.raise_for_status()
-    return resp.json()
+    payload = resp.json()
+    if cache_file is not None:
+        cache_file.parent.mkdir(parents=True, exist_ok=True)
+        cache_file.write_text(json.dumps(payload), encoding="utf-8")
+    return payload
 
 
 def annual_financials_from_facts(facts: dict[str, Any]) -> pd.DataFrame:
@@ -139,17 +156,32 @@ def build_financials_panel(
     user_agent: str,
     sleep_s: float = 0.15,
     session: requests.Session | None = None,
+    cache_dir: Path | str | None = "data/raw/edgar_companyfacts",
+    force: bool = False,
 ) -> pd.DataFrame:
     """Lädt Companyfacts für mehrere CIKs und stapelt sie zu einem Panel.
 
     Fehlertolerant: einzelne 404/Fehler werden geloggt und übersprungen.
+    Cache-Treffer ohne Netzpause, damit ein Restart nur die fehlenden CIKs holt.
     """
     sess = session or requests.Session()
     frames: list[pd.DataFrame] = []
     ciks = sorted({int(c) for c in ciks})
+    cache_root = Path(cache_dir) if cache_dir else None
     for i, cik in enumerate(ciks, start=1):
+        cached = bool(
+            cache_root
+            and (cache_root / f"CIK{int(cik):010d}.json").exists()
+            and not force
+        )
         try:
-            facts = fetch_company_facts(cik, user_agent=user_agent, session=sess)
+            facts = fetch_company_facts(
+                cik,
+                user_agent=user_agent,
+                session=sess,
+                cache_dir=cache_root,
+                force=force,
+            )
             frames.append(annual_financials_from_facts(facts))
         except requests.HTTPError as exc:
             logger.warning("CIK %d übersprungen (%s)", cik, exc)
@@ -157,7 +189,8 @@ def build_financials_panel(
             logger.warning("CIK %d Netzwerkfehler (%s)", cik, exc)
         if i % 25 == 0:
             logger.info("  … %d/%d CIKs abgefragt", i, len(ciks))
-        time.sleep(sleep_s)
+        if not cached:
+            time.sleep(sleep_s)
 
     if not frames:
         return pd.DataFrame(columns=["cik", "fyear", *TAG_MAP.keys()])
