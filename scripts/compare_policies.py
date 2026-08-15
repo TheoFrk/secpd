@@ -31,21 +31,30 @@ def _slug(p: dict) -> str:
 
 
 def main() -> int:
+    import argparse
+    ap = argparse.ArgumentParser(description="Label-Policy-Vergleich (Rolling-PR)")
+    ap.add_argument("--data", default=str(ROOT / "data/processed/zenodo_full.csv.gz"))
+    ap.add_argument("--financials", default=str(ROOT / "data/raw/financials_panel_full.csv"))
+    ap.add_argument("--events", default=str(ROOT / "data/raw/edgar_8k_events_full.csv"))
+    ap.add_argument("--tag", default="full", help="Ordnerpräfix: rolling_<tag>_<slug>")
+    ap.add_argument("--n-boot", type=int, default=200)
+    args = ap.parse_args()
+
     rows = []
     for pol in POLICIES:
         slug = _slug(pol)
-        out = ROOT / "benchmarks" / f"rolling_{slug}"
+        out = ROOT / "benchmarks" / f"rolling_{args.tag}_{slug}"
         cmd = [
             PY, str(ROOT / "scripts" / "rolling_eval.py"),
-            "--data", str(ROOT / "data/processed/zenodo_labeled.csv.gz"),
-            "--financials", str(ROOT / "data/raw/financials_panel.csv"),
-            "--events", str(ROOT / "data/raw/edgar_8k_events.csv"),
+            "--data", args.data,
+            "--financials", args.financials,
+            "--events", args.events,
             "--default-horizon", str(pol["horizon"]),
             "--label-concepts", pol["concepts"],
             "--llm", "openai",
             "--llm-cache-only",
             "--group-split",
-            "--n-boot", "200",
+            "--n-boot", str(args.n_boot),
             "--out", str(out),
         ]
         print("==>", " ".join(cmd[-12:]), flush=True)
@@ -82,6 +91,8 @@ def main() -> int:
     lines = [
         "# Label-Policy-Vergleich (Leitmetrik: Rolling-PR Combined)",
         "",
+        f"Universum: `{Path(args.data).name}` · tag=`{args.tag}`",
+        "",
         f"**Gewinner:** `{winner['slug']}` "
         f"(mean fold PR={winner['mean_pr_comb']:.3f}, "
         f"Top10%={winner['pooled_top10_comb']:.1%})",
@@ -100,10 +111,11 @@ def main() -> int:
             f"{fmt(r['group_pr_comb'])} | {fmt(r['mean_pr_fin'])} |"
         )
     lines.append("")
-    out_md = ROOT / "benchmarks" / "policy_compare.md"
+    out_md = ROOT / "benchmarks" / f"policy_compare_{args.tag}.md"
     out_md.write_text("\n".join(lines), encoding="utf-8")
-    (ROOT / "benchmarks" / "policy_compare.json").write_text(
-        json.dumps({"winner": winner, "rows": ranked}, indent=2) + "\n", encoding="utf-8"
+    (ROOT / "benchmarks" / f"policy_compare_{args.tag}.json").write_text(
+        json.dumps({"winner": winner, "tag": args.tag, "rows": ranked}, indent=2) + "\n",
+        encoding="utf-8",
     )
     print("\n".join(lines))
     print(f"\nWrote {out_md}")

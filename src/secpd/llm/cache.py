@@ -60,7 +60,10 @@ class CachedLLMClient(BaseLLMClient):
                 logger.warning("Korrupter Cache-Eintrag wird neu berechnet: %s", path.name)
 
         if self.cache_only:
-            logger.warning("Cache-Miss (cache-only, kein LLM-Call): %s", path.name)
+            n_miss = getattr(self, "_cache_misses", 0) + 1
+            self._cache_misses = n_miss
+            if n_miss <= 3 or n_miss % 10_000 == 0:
+                logger.info("Cache-Miss (cache-only, kein LLM-Call) #%d: %s", n_miss, path.name)
             return TextRiskProfile.fallback(reason="cache miss")
 
         profile = self.inner.analyze(text, doc_id=doc_id)
