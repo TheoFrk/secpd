@@ -1,0 +1,89 @@
+{
+  "winner": {
+    "slug": "h24_bankruptcy-delisting",
+    "horizon": 24,
+    "concepts": "bankruptcy,delisting",
+    "mean_pr_comb": 0.2942158615320732,
+    "mean_roc_comb": 0.7499694920547597,
+    "pooled_pr_comb": 0.3684449665208216,
+    "pooled_top10_comb": 0.3856769861991794,
+    "pooled_pos": 2681.0,
+    "group_pr_comb": 0.3334123855683931,
+    "group_roc_comb": 0.7634072423904052,
+    "group_n_pos": 583.0,
+    "mean_pr_fin": 0.2910919045830022
+  },
+  "tag": "full",
+  "rows": [
+    {
+      "slug": "h24_bankruptcy-delisting",
+      "horizon": 24,
+      "concepts": "bankruptcy,delisting",
+      "mean_pr_comb": 0.2942158615320732,
+      "mean_roc_comb": 0.7499694920547597,
+      "pooled_pr_comb": 0.3684449665208216,
+      "pooled_top10_comb": 0.3856769861991794,
+      "pooled_pos": 2681.0,
+      "group_pr_comb": 0.3334123855683931,
+      "group_roc_comb": 0.7634072423904052,
+      "group_n_pos": 583.0,
+      "mean_pr_fin": 0.2910919045830022
+    },
+    {
+      "slug": "h36_bankruptcy",
+      "horizon": 36,
+      "concepts": "bankruptcy",
+      "mean_pr_comb": 0.16848012697738968,
+      "mean_roc_comb": 0.8395295296407138,
+      "pooled_pr_comb": 0.07663311968210179,
+      "pooled_top10_comb": 0.5316455696202531,
+      "pooled_pos": 316.0,
+      "group_pr_comb": 0.16163229278069025,
+      "group_roc_comb": 0.8482043637349235,
+      "group_n_pos": 100.0,
+      "mean_pr_fin": 0.13798626294478286
+    },
+    {
+      "slug": "h12_bankruptcy-delisting",
+      "horizon": 12,
+      "concepts": "bankruptcy,delisting",
+      "mean_pr_comb": 0.14666994120447613,
+      "mean_roc_comb": 0.7347259410355936,
+      "pooled_pr_comb": 0.18509499304078908,
+      "pooled_top10_comb": 0.40344580043072503,
+      "pooled_pos": 1393.0,
+      "group_pr_comb": 0.21469023220134714,
+      "group_roc_comb": 0.7591002638921405,
+      "group_n_pos": 307.0,
+      "mean_pr_fin": 0.1439197470736637
+    },
+    {
+      "slug": "h12_bankruptcy",
+      "horizon": 12,
+      "concepts": "bankruptcy",
+      "mean_pr_comb": 0.07669283276054725,
+      "mean_roc_comb": 0.8453215118294075,
+      "pooled_pr_comb": 0.05528648082359338,
+      "pooled_top10_comb": 0.5975609756097561,
+      "pooled_pos": 82.0,
+      "group_pr_comb": 0.14785796835200013,
+      "group_roc_comb": 0.893627345266336,
+      "group_n_pos": 20.0,
+      "mean_pr_fin": 0.04299409335897359
+    },
+    {
+      "slug": "h24_bankruptcy",
+      "horizon": 24,
+      "concepts": "bankruptcy",
+      "mean_pr_comb": 0.07272254515565359,
+      "mean_roc_comb": 0.8663506206999605,
+      "pooled_pr_comb": 0.05592948958174094,
+      "pooled_top10_comb": 0.5792079207920792,
+      "pooled_pos": 202.0,
+      "group_pr_comb": 0.0789718163450875,
+      "group_roc_comb": 0.8456329862821362,
+      "group_n_pos": 42.0,
+      "mean_pr_fin": 0.06641751085440205
+    }
+  ]
+}
