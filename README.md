@@ -254,7 +254,11 @@ mit einem Zahlungsausfall im Kreditvertragssinn.
   laufen über die Median-Imputation (oder vorab filtern).
 * **joblib-Portabilität:** Bundles stempeln sklearn-/Python-Versionen und
   warnen bei Drift — deshalb `requirements.txt` auf beiden Seiten identisch
-  halten.
+  halten. Die Pins brauchen **Python 3.11+**; auf der Bank mit nur 3.14
+  (`3.14.3`/`3.14.6`) die aktuelle `requirements.txt` verwenden — ältere
+  Pins (numpy 1.26 / pandas 2.2 / sklearn 1.4) haben keine 3.14-Wheels.
+  Offline-Bundle: `PY_VERSION=3.14 PLATFORM=manylinux_2_28_x86_64`.
+  Nach einem sklearn-Bump Modelle neu trainieren, nicht alte `.joblib` laden.
 
 ## Schnittstellen für spätere Integration
 

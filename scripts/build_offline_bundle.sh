@@ -9,13 +9,14 @@
 #   sklearn, pydantic-core) sind an Python-Minor-Version + Plattform gebunden.
 #
 # Robusteste Variante (garantiert passende ABI, umgeht Windows/macOS-Probleme):
-#   docker run --rm -v "$PWD":/w -w /w python:3.11-slim \
+#   docker run --rm -v "$PWD":/w -w /w python:3.14-slim \
 #       bash scripts/build_offline_bundle.sh
 # =============================================================================
 set -euo pipefail
 
-PY_VERSION="${PY_VERSION:-3.11}"
-PLATFORM="${PLATFORM:-manylinux2014_x86_64}"   # Alternative: manylinux_2_28_x86_64
+PY_VERSION="${PY_VERSION:-3.14}"
+# 3.14-Wheels von numpy/pandas/sklearn sind manylinux_2_28, nicht 2014.
+PLATFORM="${PLATFORM:-manylinux_2_28_x86_64}"
 WHEEL_DIR="vendor/wheels"
 
 mkdir -p "$WHEEL_DIR"

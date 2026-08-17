@@ -1,14 +1,16 @@
 # SEC-PD — gepinnte Abhängigkeiten (Home UND Bank identisch halten!)
-# Pins getestet mit Python 3.10–3.12. Vor dem Wheel-Bundle die Python-Version
-# des Bank-Servers prüfen (python3 -V) und PY_VERSION im Bundle-Skript setzen.
+# Getestet für Python 3.12 (Home) und 3.14 (Bank). Die alten Pins
+# numpy 1.26 / pandas 2.2 / sklearn 1.4 haben keine cp314-Wheels.
+# Vor dem Wheel-Bundle: python3 -V auf der Bank, dann
+#   PY_VERSION=3.14 PLATFORM=manylinux_2_28_x86_64 bash scripts/build_offline_bundle.sh
 
 # Kern (offline zwingend nötig)
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.4.2
-joblib==1.4.2
-pydantic==2.7.4
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+joblib==1.5.3
+pydantic==2.13.4
 requests==2.32.3
 
 # Entwicklung/Tests
-pytest==8.2.2
+pytest==8.4.2
