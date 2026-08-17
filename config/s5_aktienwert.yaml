@@ -1,0 +1,28 @@
+# S5 Aktienwert-Modul: SEC-PD Overlay auf die Bachelor-Praxis (S1–S4)
+#
+# Die Praxis-Repo-Wurzel NICHT ins Git legen. Stattdessen:
+#   export BACHELOR_PRAXIS_ROOT="/Users/…/Bachelorarbeit_Praxis"
+
+szenario: S5_SEC_PD
+rolle: "10-K Distress-PD als langsam laufendes Equity-Qualitätssignal"
+fusion: late  # analog HYBRID_S1_LEX_50_50 / S4 hybrid_weight_s1
+
+hybrid:
+  weight_s1: 0.5
+  weight_secpd: 0.5
+
+join:
+  # PIT: Score gilt ab dem Tag nach dem 10-K-Filing (conservative_lag1).
+  asof_col: asof_date
+  key_secpd: cik
+  key_praxis: yahoo_ticker  # Mapping separat, Demo: AAPL / TSLA
+
+praxis:
+  root_env: BACHELOR_PRAXIS_ROOT
+  input_db: "DATA/thesis_data v2.sqlite"
+  s1_results: "outputs/results/s1_revised_results.sqlite"
+
+secpd:
+  model: models/combined_default_h36.joblib
+  events: data/raw/edgar_8k_events_full.csv
+  min_fyear: 2009

@@ -267,3 +267,19 @@ Austauschformat der Textanalyse, (2) `get_llm_client()` als Injektionspunkt
 für beliebige eigene LLM-Infrastruktur, (3) `.joblib`-Bundles mit
 Feature-Vertrag + Metadaten für das Serving. `predict.py` zeigt den
 minimalen Inferenz-Pfad.
+
+## Bachelor-Praxis: Aktienwertmodul (S5)
+
+Branch `Bachelor_Aktienwertmodul`. SEC-PD liefert ein langsames 10-K-Distress-
+Signal als Overlay auf die Szenarien S1–S4 der Bachelorarbeit (Preis, Lexikon,
+FinBERT, News-LLM). Die Praxis-SQLite bleibt im iCloud-Repo; hier nur Adapter
+und Demos (Apple CSV, Tesla JSON).
+
+```bash
+export BACHELOR_PRAXIS_ROOT="…/Bachelorarbeit_Praxis"
+python scripts/export_aktienwert.py \
+  --data docs/demo/apple_10k.csv --ticker AAPL \
+  --out docs/demo/apple_aktienwert.csv
+```
+
+Details: `docs/bachelor_aktienwertmodul.md`, Konfig `config/s5_aktienwert.yaml`.

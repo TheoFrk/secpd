@@ -1,4 +1,4 @@
-.PHONY: synth train train-combined train-ensemble train-default score test bundle install-offline benchmark rolling ping-llm precompute-llm
+.PHONY: synth train train-combined train-ensemble train-default score test bundle install-offline benchmark rolling ping-llm precompute-llm aktienwert-demo
 
 synth:
 	python scripts/make_synthetic_data.py --n 1200 --out data/processed/synthetic.csv \
@@ -51,6 +51,14 @@ precompute-llm:
 		--min-fyear 2009 --require-financials \
 		--llm $${SECPD_LLM_MODE:-openai} \
 		--out data/processed/llm_features.csv
+
+aktienwert-demo:
+	python scripts/export_aktienwert.py \
+		--data docs/demo/apple_10k.csv --ticker AAPL \
+		--out docs/demo/apple_aktienwert.csv
+	python scripts/export_aktienwert.py \
+		--data docs/demo/tesla.json --ticker TSLA \
+		--out docs/demo/tesla_aktienwert.csv
 
 test:
 	python -m pytest -q

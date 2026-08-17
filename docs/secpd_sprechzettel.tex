@@ -1,0 +1,637 @@
+% !TeX program = pdflatex
+% SEC-PD — Sprechzettel / Präsentationsgrundlage
+% Nicht automatisch kompiliert. Später z. B.:
+%   pdflatex -output-directory=docs docs/secpd_sprechzettel.tex
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage{csquotes}
+\usepackage{parskip}
+
+\geometry{margin=2.2cm}
+\hypersetup{colorlinks=true,linkcolor=blue!50!black,urlcolor=blue!50!black}
+\usetikzlibrary{arrows.meta,positioning,fit,calc}
+
+\definecolor{secpdblue}{HTML}{1B4F72}
+\definecolor{secpdgray}{HTML}{F4F6F7}
+\definecolor{sprechbg}{HTML}{EAF2F8}
+\definecolor{warnbg}{HTML}{FDEBD0}
+\definecolor{codebg}{HTML}{F7F9F9}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\textcolor{secpdblue}{SEC-PD \textperiodcentered\ Sprechzettel}}
+\fancyhead[R]{\small Credit Risk Innovation}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\titleformat{\section}{\Large\bfseries\color{secpdblue}}{\thesection}{0.8em}{}
+\titleformat{\subsection}{\large\bfseries\color{secpdblue!80!black}}{\thesubsection}{0.7em}{}
+
+\newcommand{\code}[1]{\texttt{\detokenize{#1}}}
+\newcommand{\file}[1]{\texttt{\small #1}}
+\lstset{
+  basicstyle=\ttfamily\small,
+  backgroundcolor=\color{codebg},
+  frame=single,
+  rulecolor=\color{black!15},
+  breaklines=true,
+  columns=fullflexible,
+  keepspaces=true,
+}
+
+\newenvironment{sprech}{%
+  \par\medskip\noindent
+  \begin{tikzpicture}
+    \node[fill=sprechbg, draw=secpdblue!40, rounded corners=2pt,
+          inner sep=7pt, text width=\dimexpr\textwidth-16pt\relax]
+      {\textbf{\textcolor{secpdblue}{Sprechen.}}
+}{%
+      };
+  \end{tikzpicture}
+  \par\medskip
+}
+
+\newenvironment{achtung}{%
+  \par\medskip\noindent
+  \begin{tikzpicture}
+    \node[fill=warnbg, draw=orange!60!black, rounded corners=2pt,
+          inner sep=7pt, text width=\dimexpr\textwidth-16pt\relax]
+      {\textbf{Achtung.}
+}{%
+      };
+  \end{tikzpicture}
+  \par\medskip
+}
+
+\title{\textbf{SEC-PD}\\[0.3em]
+\large Ausfallscore aus 10-K MD\&A, Finanzkennzahlen und 8-K-Events\\[0.6em]
+\large Sprechzettel: Architektur, Features, Code-Karte}
+\author{Praktikumsbeitrag \textperiodcentered\ Credit Risk Innovation}
+\date{Stand: Branch \texttt{feat/distress-text-features}, August 2026}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+% =============================================================================
+\section{30-Sekunden-Pitch}
+% =============================================================================
+
+\begin{sprech}
+SEC-PD schätzt je Firm-Year eine \textbf{12- bzw.\ 36-Monats-Ausfallwahrscheinlichkeit}
+aus drei Quellen: XBRL-Finanzkennzahlen, Distress-Sprache in der 10-K MD\&A und
+8-K-Frühindikatoren. Das Insolvenz-8-K (Item~1.03) ist \textbf{nur Label}, nie Feature.
+Das Modell ist ein kalibrierter Random Forest, offline-fähig (Bank-Gateway) und
+über versionierte \texttt{.joblib}-Bundles übertragbar.
+\end{sprech}
+
+\textbf{Was es ist:} eigenständiges Python-Modul, eine Woche Praktikum, unabhängig
+vom Zielsystem der Bank.\\
+\textbf{Was es nicht ist:} keine regulatorische PD, kein Marktpreis-Modell, kein
+vollständiges Credit-Rating. Chapter~11 ist ein Default-\emph{Proxy}.
+
+\textbf{Leitmetrik:} PR-AUC und Top-10\,\%-Capture, nicht ROC allein --- Defaults
+sind selten.\\
+\textbf{Produktionslabel (aktuell):} 36-Monats-Insolvenz, ohne Delisting, ohne
+vor-2004-Item-3 (unzuverlässige Submissions-Metadaten).
+
+% =============================================================================
+\section{Architektur}
+% =============================================================================
+
+\subsection{Datenfluss (Home $\rightarrow$ Training)}
+
+\begin{center}
+\begin{tikzpicture}[
+  font=\small,
+  box/.style={draw=secpdblue, rounded corners=2pt, align=center,
+              inner sep=5pt, fill=white, text width=3.4cm},
+  arr/.style={-{Latex}, secpdblue, thick},
+]
+\node[box] (zen) {Zenodo 17121948\\[-1pt]{\scriptsize MD\&A + AAER}};
+\node[box, right=0.55cm of zen] (conv) {\texttt{convert\_zenodo}\\[-1pt]{\scriptsize Firm-Year-Tabelle}};
+\node[box, right=0.55cm of conv] (edg) {EDGAR\\[-1pt]{\scriptsize companyfacts + 8-K}};
+\node[box, below=0.85cm of conv] (tr) {\texttt{train.py}\\[-1pt]{\scriptsize Features $\rightarrow$ Split $\rightarrow$ RF}};
+\node[box, below=0.85cm of zen] (fin) {\file{features/financial.py}\\[-1pt]{\scriptsize Ratios, Trends, SIC}};
+\node[box, below=0.85cm of edg] (txt) {\file{features/textual.py}\\[-1pt]{\scriptsize LLM + Keywords}};
+\node[box, below=0.85cm of tr] (out) {\texttt{models/*.joblib}\\[-1pt]{\scriptsize + Benchmarks}};
+
+\draw[arr] (zen) -- (conv);
+\draw[arr] (conv) -- (edg);
+\draw[arr] (conv) -- (tr);
+\draw[arr] (edg) -- (tr);
+\draw[arr] (fin) -- (tr);
+\draw[arr] (txt) -- (tr);
+\draw[arr] (tr) -- (out);
+\end{tikzpicture}
+\end{center}
+
+Drei Quellen, ein Join-Schlüssel \texttt{(cik, fyear)}:
+
+\begin{enumerate}[leftmargin=1.4em]
+  \item \textbf{Zenodo} liefert 10-K-MD\&A-Texte (und optional AAER-Fraud-Fenster).
+        Keine Finanzkennzahlen.
+  \item \textbf{EDGAR companyfacts} liefert XBRL-Positionen $\rightarrow$ kanonisches
+        Finanz-Panel.
+  \item \textbf{EDGAR submissions} liefert 8-K-Metadaten: Insolvenz-\emph{Label} und
+        Event-\emph{Features}, strikt getrennt.
+\end{enumerate}
+
+\subsection{Zwei Welten: Home und Bank}
+
+\begin{tabularx}{\textwidth}{@{}l X X@{}}
+\toprule
+ & \textbf{Home} (Internet) & \textbf{Bank} (air-gapped) \\
+\midrule
+Daten holen & Zenodo + EDGAR-APIs & nur lokale CSVs / Cache \\
+LLM & OpenAI \texttt{gpt-5.6-luna} oder Mock & internes Gateway (\texttt{SECPD\_LLM\_MODE=bank}) \\
+Replay & Cache unter \file{data/cache/llm/} & dieselben JSON-Dateien, keine API \\
+Install & \texttt{pip install -r requirements.txt} & \file{scripts/install\_offline.sh} + Wheels \\
+Python & 3.12 getestet & 3.14: Pins ab Commit \texttt{c54e756} \\
+\bottomrule
+\end{tabularx}
+
+\begin{sprech}
+Der LLM-Cache ist der Trick für die Bank: einmal scoren, JSON committen, auf der
+Box nur noch Replay. Training und Scoring brauchen dann kein LLM mehr.
+\end{sprech}
+
+\subsection{Modell-Modi}
+
+\begin{itemize}[leftmargin=1.2em]
+  \item \textbf{financial} --- nur \texttt{fin\_*} + \texttt{evt\_*} (Baseline).
+  \item \textbf{combined} (Produktion) --- Financial plus Text in \emph{einem}
+        Random Forest (Option~A).
+  \item \textbf{ensemble} --- separates Text-Logit-Modell, Aggregation im Logit-Raum
+        (Option~B, Gewichte typisch 0{,}6 Finanz / 0{,}4 Text).
+\end{itemize}
+
+Estimator: \texttt{RandomForestClassifier} (\texttt{class\_weight=balanced\_subsample},
+300 Bäume), davor Median-Imputation. Optional \texttt{CalibratedClassifierCV}
+(sigmoid bei wenigen Positiven, isotonic wenn $\ge 100$ Positive; Group-Splits über CIK).
+
+\begin{achtung}
+Alte \texttt{.joblib} aus sklearn~1.4.2 nicht auf sklearn~1.7.2 laden --- nach dem
+3.14-Pin-Bump neu trainieren. Bundles stempeln Python- und sklearn-Version.
+\end{achtung}
+
+% =============================================================================
+\section{Label-Logik (was \emph{nicht} ins Modell darf)}
+% =============================================================================
+
+\subsection{Default-Definition}
+
+\[
+\texttt{label\_default}=1
+\quad\Longleftrightarrow\quad
+\text{Insolvenz-8-K liegt in }(\text{reporting date},\;\text{reporting date}+H].
+\]
+
+$H$ ist 12, 24 oder 36 Monate. Produktionswahl: \textbf{$H=36$, nur Bankruptcy}.
+
+Zusätzlich:
+\begin{itemize}[leftmargin=1.2em]
+  \item Firm-Years \textbf{nach} der Insolvenz werden gedroppt (kein Post-Event-Lernen).
+  \item Rechtszensierte Zeilen (Horizont ragt über das Beobachtungsende) werden gedroppt.
+  \item Vor dem Regimewechsel 2004-08-23: Item~3 der Submissions-API ist unzuverlässig
+        (Walmart-ASDA-Amendment wurde fälschlich als Insolvenz gezählt).
+        Default: \texttt{trust\_legacy\_regime=False}.
+  \item Training nur ab GJ~\textbf{2009} (\texttt{require\_financials}): davor keine
+        flächigen XBRL-Companyfacts.
+\end{itemize}
+
+\subsection{Leakage-Regeln (prüfbar, in Tests abgesichert)}
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\toprule
+Regel & Begründung \\
+\midrule
+Item 1.03 / alt-3 nie als Feature & Das \emph{ist} das Label. \\
+Delisting nicht als Feature, wenn es Label ist & \texttt{feature\_exclusions\_for\_labels} \\
+Item 4.02 Restatement standardmäßig aus & zu nah am Fraud-Label \\
+Event-Fenster endet am 10-K-Filing & sonst Look-ahead \\
+Text-Features vor dem Split, ohne Fitting & deterministisch, daher kein Leak \\
+Temporal-Split, plus Rolling-Origin + Group-Split & keine Zukunft, keine Firm-Memorization \\
+\bottomrule
+\end{tabularx}
+
+\begin{sprech}
+Wenn jemand ``Daten-Snooping'' fragt: das härteste Leakage-Risiko wäre, die
+Insolvenzmeldung selbst als Feature zu nutzen. Das ist explizit verboten und
+per Test abgesichert. Delisting als \emph{Label} haben wir geprüft --- höhere
+Basisrate, aber schlechteres Ranking; deshalb bleibt reine Insolvenz.
+\end{sprech}
+
+% =============================================================================
+\section{Feature-Katalog}
+% =============================================================================
+
+Drei Präfixe: \texttt{fin\_} Finanzen, \texttt{evt\_} 8-K-Zähler, \texttt{txt\_}/\texttt{llm\_} Text.
+Combined = alle drei. Financial = \texttt{fin\_}+\texttt{evt\_}.
+
+\subsection{Finanzkennzahlen (\texttt{fin\_*})}
+
+Datei: \file{src/secpd/features/financial.py}.
+Rohwerte kommen aus \file{src/secpd/data/edgar.py} (\texttt{TAG\_MAP}, us-gaap).
+Divisionen sind NaN-sicher (kein Inf).
+
+\subsubsection{Level --- klassischer PD-Katalog}
+
+\begin{longtable}{@{}p{0.28\textwidth} p{0.32\textwidth} p{0.32\textwidth}@{}}
+\toprule
+Feature & Formel / Inhalt & Warum (Sprechen) \\
+\midrule
+\endhead
+\texttt{fin\_leverage} & Verbindlichkeiten / Aktiva & Verschuldungsgrad, Altman/Ohlson-Kern \\
+\texttt{fin\_debt\_to\_equity} & (DLTT + DLC) / Equity & Kapitalstruktur; negativ bei Distress \\
+\texttt{fin\_current\_ratio} & Umlaufvermögen / kurzfr.\ Verb. & kurzfristige Zahlungsfähigkeit \\
+\texttt{fin\_quick\_ratio} & (UV $-$ Inventar) / kfr.\ Verb. & ohne Lager, strenger \\
+\texttt{fin\_cash\_ratio} & Cash / kfr.\ Verb. & härteste Liquidität \\
+\texttt{fin\_wc\_to\_assets} & Working Capital / Aktiva & Altman~$X_1$ \\
+\texttt{fin\_roa} & Jahresüberschuss / Aktiva & Ertragskraft \\
+\texttt{fin\_net\_margin} & NI / Umsatz & Marge, Preisspielraum \\
+\texttt{fin\_interest\_coverage} & EBIT / Zinsaufwand & Zins tragbar? Coverage-Stress \\
+\texttt{fin\_re\_to\_assets} & Gewinnrücklagen / Aktiva & Altman~$X_2$, kumulierte Substanz \\
+\texttt{fin\_asset\_turnover} & Umsatz / Aktiva & Effizienz, Altman~$X_5$ \\
+\texttt{fin\_log\_assets} & $\log(1+\text{Aktiva})$ & Größe / Skaleneffekt \\
+\texttt{fin\_d\_log\_revenue} & $\Delta\log$ Umsatz YoY & Wachstumsschock \\
+\texttt{fin\_altman\_z} & $1{,}2X_1+1{,}4X_2+3{,}3X_3+0{,}6X_4+X_5$ & Komposit; $X_4$ mit \emph{Buch}-Equity \\
+\bottomrule
+\end{longtable}
+
+\begin{sprech}
+Altman-Z hier mit Buch- statt Marktequity --- wir haben keine Marktpreise.
+Trotzdem nützlich als verdichteter Distress-Score. Einzelratios bleiben im
+Modell, der RF darf beides nutzen.
+\end{sprech}
+
+\subsubsection{Dynamik --- Verfall ist informativer als Niveau}
+
+Für die Basisgrößen Leverage, ROA, D/E, Current Ratio, $\log$ Assets, Turnover,
+Net Margin:
+
+\begin{itemize}[leftmargin=1.2em]
+  \item \texttt{fin\_d\_*} --- Jahresveränderung (erste Differenz, je CIK).
+  \item \texttt{fin\_vol3\_*} --- rollierende 3-Jahres-Standardabweichung
+        (min.\ 2 Beobachtungen).
+\end{itemize}
+
+\textbf{Warum:} Eine Current Ratio von 1{,}1 kann normal sein. Der \emph{Absturz}
+von 2{,}0 auf 1{,}1 in einem Jahr ist das PD-Signal. Volatilität fängt
+erratisches Reporting / Geschäftsrisiko.
+
+\subsubsection{Branche --- SIC-2 $\times$ Jahr}
+
+\texttt{fin\_leverage\_sic\_pct}, \texttt{fin\_roa\_sic\_pct},
+\texttt{fin\_current\_ratio\_sic\_pct}, \texttt{fin\_wc\_to\_assets\_sic\_pct}:
+Perzentilrang in der Zelle SIC-2-Steller $\times$ Geschäftsjahr, nur wenn
+$\ge 5$ Beobachtungen, sonst NaN.
+
+\textbf{Warum:} 2$\times$ Leverage in Utilities ist etwas anderes als in Software.
+Ohne Peer-Normierung lernt der RF Industrie-Dummies über den Umweg der Niveaus.
+
+\subsubsection{Missing-Indikatoren}
+
+Zu jeder Kennzahl \texttt{fin\_miss\_<name>} $\in\{0,1\}$.
+
+\textbf{Warum:} Die Pipeline imputiert den Median. Ohne Flag wäre ``kein Cash
+in XBRL'' unsichtbar --- oft selbst ein Qualitätssignal (junge Filings, Lücken,
+nicht-standard Tags).
+
+In den Logs: $\approx 64$ Finanz-Spalten, davon $\approx 13$ Level.
+
+% -----------------------------------------------------------------------------
+\subsection{8-K-Event-Features (\texttt{evt\_*})}
+
+Datei: \file{src/secpd/data/events.py}, Funktion \texttt{add\_event\_features}.
+Fenster: $(\text{10-K-Filing}-365\,\text{Tage},\;\text{10-K-Filing}]$.
+Kein Event $\Rightarrow 0$ (Abwesenheit ist Information, nicht Missing).
+
+\begin{tabularx}{\textwidth}{@{}l l X@{}}
+\toprule
+Feature & 8-K-Item & Warum \\
+\midrule
+\texttt{evt\_n\_8k} & alle 8-K/8-K/A & Unruhe, Kommunikationsfrequenz \\
+\texttt{evt\_n\_auditor\_change} & 4.01 (alt: 4) & Prüferwechsel oft vor Stress \\
+\texttt{evt\_n\_officer\_departure} & 5.02 (alt: 6) & CFO/CEO-Abgang \\
+\texttt{evt\_n\_covenant\_accel} & 2.04 & Covenant-Bruch / Beschleunigung --- direkt PD-nah \\
+\texttt{evt\_n\_impairment} & 2.06 & Wertberichtigung, Asset-Qualität \\
+\texttt{evt\_n\_delisting} & 3.01 & Börsenhinweis; \emph{raus}, wenn Delisting Label ist \\
+\bottomrule
+\end{tabularx}
+
+\textbf{Nicht im Feature-Raum:}
+\begin{itemize}[leftmargin=1.2em]
+  \item Insolvenz Item 1.03 --- Zielvariable.
+  \item Restatement 4.02 --- Default aus, zu nah an AAER/Fraud.
+\end{itemize}
+
+\begin{sprech}
+``PIT-sauber'' heißt: nur Informationen, die am 10-K-Tag schon öffentlich waren.
+Ein 8-K drei Tage nach dem Filing darf den Score dieses Firm-Years nicht
+beeinflussen.
+\end{sprech}
+
+% -----------------------------------------------------------------------------
+\subsection{Text-Features (nur Combined)}
+
+Datei: \file{src/secpd/features/textual.py}.
+Design: \textbf{precompute-then-join} --- kein LLM im sklearn-Transformer.
+Gründe: Scoring ohne Netz, Batch/Cache an einer Stelle, kein Fitting also kein Leak.
+
+\subsubsection{LLM --- Vertrag \texttt{TextRiskProfile}}
+
+Datei: \file{src/secpd/llm/schema.py}. Jeder Client (Mock, OpenAI, Bank) muss
+dieses Pydantic-Objekt liefern.
+
+Das LLM \emph{extrahiert} mehr, als das Modell \emph{nutzt}:
+
+\begin{tabularx}{\textwidth}{@{}l l X@{}}
+\toprule
+Feld & Im RF? & Rolle \\
+\midrule
+\texttt{llm\_risk\_sentiment} $\in[-1,1]$ & \textbf{ja} & Krisenton vs.\ Zuversicht; einziges LLM-Modellfeature \\
+\texttt{llm\_vagueness\_score} & nein & Hedging; empirisch ohne Extra-Signal \\
+\texttt{llm\_redundancy\_score} & nein & Boilerplate \\
+\texttt{llm\_complexity\_score} & nein & früher im Modell, später gestrichen \\
+\texttt{llm\_confidence} & nein & Fallback hat 0 --- Debug, nicht Target \\
+\texttt{obfuscation\_indicators} & nein & Stichworte, nur Cache/UX \\
+\texttt{risk\_summary} & nein & max.\ 3 Sätze, UI \\
+\bottomrule
+\end{tabularx}
+
+Input: MD\&A, Tabellen raus, Head+Tail auf 12k Zeichen (Anfang = Lage, Ende =
+Liquidität/Going-Concern). Cache-Schlüssel = SHA-256 des vorbereiteten Texts.
+
+\begin{sprech}
+Warum nur Sentiment? Vagheit und Komplexität waren im Luna-Cache, haben im
+Combined-RF aber nichts über Keywords + Sentiment hinaus geliefert. Schlank
+halten reduziert Overfit bei wenigen Defaults.
+\end{sprech}
+
+\subsubsection{Keyword-Zähler auf dem \emph{vollen} MD\&A}
+
+Nicht auf dem 12k-Ausschnitt --- Going-Concern steht oft hinten.
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\toprule
+Feature & Typische Phrasen (Zähler, nicht 0/1) \\
+\midrule
+\texttt{txt\_going\_concern} & going concern, substantial doubt, continue as a going concern \\
+\texttt{txt\_liquidity\_stress} & insufficient liquidity, working capital deficit/shortfall, unable to meet \ldots debt \\
+\texttt{txt\_covenant} & covenant violation/breach/waiver/default \\
+\texttt{txt\_restructuring} & restructur(e|ing), recapitalization, debt exchange/forbearance \\
+\texttt{txt\_bankruptcy\_lang} & chapter 11, bankruptcy, receivership \\
+\bottomrule
+\end{tabularx}
+
+\textbf{Warum Zähler:} Der RF kann Schwellen lernen (ein ``restructuring'' im
+Boilerplate vs.\ zehn im Liquiditätsabschnitt).
+
+\begin{sprech}
+Im erweiterten Universum kam der Text-Mehrwert vor allem von diesen Keywords,
+nicht vom LLM --- der Luna-Cache deckt die neuen CIKs noch dünn. Combined
+schlägt Financial trotzdem, weil Going-Concern und Covenant harte, seltene
+Flags sind, die Ratios nicht ersetzen.
+\end{sprech}
+
+% =============================================================================
+\section{Wie das Modell entscheidet}
+% =============================================================================
+
+\subsection{Split und Evaluation}
+
+\begin{itemize}[leftmargin=1.2em]
+  \item \textbf{Temporal} (Default): letzte Geschäftsjahre = Test. Entspricht Deployment.
+  \item \textbf{Group-Split} über CIK: dieselbe Firma nie in Train und Test
+        (Memorization-Check).
+  \item \textbf{Rolling-Origin}: Cutoffs 2012, 2014, \ldots je 2-Jahres-Testfenster ---
+        ehrlicher als ein Split, weil Firm-Overlap im Temporal-Split hoch ist
+        ($\approx 80\,\%$ der Testfirmen waren schon im Training).
+\end{itemize}
+
+Metriken in \file{src/secpd/evaluation.py}:
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\toprule
+Metrik & Wann du sie nennst \\
+\midrule
+ROC-AUC & Ranking-Güte; 0{,}5 Zufall, $>$0{,}7 stark. Bei 1\,\% Basisrate zu schmeichelhaft. \\
+PR-AUC & \textbf{Leitmetrik} bei seltenen Events. \\
+Top-10\,\%-Capture / Lift & Kreditrisiko-Sprache: ``von 10 Defaults liegen $x$ im riskantesten Dezil''. \\
+Brier + Skill vs.\ Basisrate & Kalibrierung; Skill $>0$ = besser als konstante PD. \\
+CIK-Cluster-Bootstrap & Konfidenz, weil mehrere Jahre derselben Firma korrelieren. \\
+\bottomrule
+\end{tabularx}
+
+\subsection{Was du zu den Zahlen sagen kannst}
+
+\textbf{Kleines Label-Set} (533 CIKs, Policy-Gewinner h36 Bankruptcy):
+Combined ROC $\approx 0{,}90$, PR $\approx 0{,}30$, Top-10\,\%-Capture $\approx 60\,\%$,
+Brier-Skill $+0{,}07$. Group-Split hält (ROC $\approx 0{,}85$) --- kein reines Merken.
+
+\textbf{Volles Universum} ($\approx 5\,500$ CIKs, Rolling):
+h36 Bankruptcy pooled $\approx 316$ Positive, Combined ROC $\approx 0{,}80$,
+Top-10\,\% $\approx 53\,\%$. Delisting-h24 gewinnt mean-PR nur über die Basisrate
+($\approx 2\,700$ Positive), Ranking ist schlechter (ROC $\approx 0{,}75$, Capture $\approx 39\,\%$).
+
+\begin{sprech}
+Satz zum Delisting: ``Mehr Events $\neq$ besseres Label. PR-AUC steigt mit der
+Basisrate. Für Ranking und Watchlist bleibt 36-Monats-Insolvenz der Gewinner.''
+\end{sprech}
+
+% =============================================================================
+\section{Code-Karte: wo steht was?}
+% =============================================================================
+
+\subsection{Einstiege (was du live zeigen kannst)}
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\toprule
+Datei & Rolle \\
+\midrule
+\file{start.py} & Interaktives Menü: scoren, Güte, LLM-Key, Fetch, Training \\
+\file{train.py} & Kanonischer Trainingspfad (Bank und Home identisch) \\
+\file{predict.py} & Minimales Serving: Bundle laden, PD schreiben \\
+\file{README.md} & Architektur, ENV, Home$\rightarrow$Bank \\
+\file{requirements.txt} & Pins; Home und Bank \emph{identisch} \\
+\bottomrule
+\end{tabularx}
+
+\subsection{Paket \texttt{src/secpd/}}
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\toprule
+Datei & Was du dort findest \\
+\midrule
+\file{config.py} & ENV: \texttt{SECPD\_LLM\_*}, \texttt{SECPD\_SEC\_UA}, Cache-Pfad \\
+\file{splitting.py} & \texttt{smart\_split}, \texttt{rolling\_origin\_splits} \\
+\file{evaluation.py} & ROC/PR/Brier, Dezile, Cluster-Bootstrap \\
+\file{data/zenodo.py} & JSON streamen, AAER-Join, Spalten auflösen \\
+\file{data/edgar.py} & \texttt{TAG\_MAP}, companyfacts $\rightarrow$ Panel \\
+\file{data/events.py} & Item-Map, Label, PIT-Features, Leakage-Guard \\
+\file{data/synthetic.py} & Demo-Daten mit echtem Signalfluss (ohne Download) \\
+\file{features/financial.py} & alle \texttt{fin\_*} \\
+\file{features/textual.py} & \texttt{prepare\_text}, Keywords, LLM-Join \\
+\file{llm/schema.py} & \texttt{TextRiskProfile} --- der Vertrag \\
+\file{llm/base.py} & ABC + Batch-Fallback \\
+\file{llm/mock.py} & deterministische Heuristik, Tests/Demo \\
+\file{llm/bank.py} & OpenAI-kompatibles \texttt{/v1/chat/completions} \\
+\file{llm/cache.py} & JSON je Text-Hash, \texttt{cache\_only} \\
+\file{llm/\_\_init\_\_.py} & Factory \texttt{get\_llm\_client()} \\
+\file{models/pipeline.py} & RF + Imputer + Kalibrierung; Text-LogReg \\
+\file{models/ensemble.py} & Logit-Mittelung Option~B \\
+\file{models/persistence.py} & joblib + Versionsstempel \\
+\bottomrule
+\end{tabularx}
+
+\subsection{Skripte}
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\toprule
+Skript & Wann \\
+\midrule
+\file{scripts/fetch\_zenodo.py} & Roh-MD\&A / AAER laden \\
+\file{scripts/convert\_zenodo.py} & $\rightarrow$ \file{zenodo\_labeled.csv.gz} bzw.\ \file{zenodo\_full.csv.gz} \\
+\file{scripts/fetch\_edgar\_financials.py} & companyfacts-Panel, resumefähiger JSON-Cache \\
+\file{scripts/fetch\_edgar\_events.py} & 8-K-Metadaten \\
+\file{scripts/precompute\_llm\_features.py} & Luna-Cache füllen (wiederaufnehmbar) \\
+\file{scripts/rolling\_eval.py} & Financial vs.\ Combined über Cutoffs \\
+\file{scripts/compare\_policies.py} & $H\in\{12,24,36\}\times$ bankruptcy[/delisting] \\
+\file{scripts/freeze\_benchmark.py} & reproduzierbarer Frozen-Report + Hash \\
+\file{scripts/build\_offline\_bundle.sh} & manylinux-Wheels für die Bank (3.14: \texttt{PLATFORM=manylinux\_2\_28\_x86\_64}) \\
+\file{scripts/install\_offline.sh} & pip \texttt{--no-index} auf der Box \\
+\bottomrule
+\end{tabularx}
+
+\subsection{Tests --- was du als Qualitätssicherung erwähnst}
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+\toprule
+Test & Absicherung \\
+\midrule
+\file{tests/test\_events.py} & Label-Fenster, Leakage (1.03 nicht in Features), End-to-End Default \\
+\file{tests/test\_financial\_features.py} & Ratios, NaN-sichere Division \\
+\file{tests/test\_keyword\_features.py} & Distress-Zähler \\
+\file{tests/test\_splitting\_rolling.py} & Temporal / Rolling ohne Klassenkollaps \\
+\file{tests/test\_evaluation.py} & Metriken, Dezile \\
+\file{tests/test\_llm\_mock.py} & Schema-Vertrag, Mock deterministisch \\
+\file{tests/test\_end\_to\_end.py} & Synth $\rightarrow$ Fit $\rightarrow$ joblib \\
+\bottomrule
+\end{tabularx}
+
+33 Tests, ohne Netz.
+
+\subsection{Daten- und Artefaktpfade}
+
+\begin{lstlisting}
+data/raw/firm_years.json              # volles MD&A, lokal, nicht im Git
+data/raw/aaer_mark5.csv               # Fraud-Fenster
+data/raw/financials_panel[_full].csv  # XBRL-Panel (committbar)
+data/raw/edgar_8k_events[_full].csv   # 8-K-Metadaten
+data/raw/edgar_companyfacts/          # JSON-Cache, lokal
+data/raw/edgar_submissions/           # JSON-Cache, lokal
+data/processed/zenodo_labeled.csv.gz  # 533 CIKs
+data/processed/zenodo_full.csv.gz     # ~5487 CIKs, gitignore (zu groß)
+data/cache/llm/bank-gpt-5.6-luna/     # Luna-Replay
+models/*_default_h{12,36}.joblib
+benchmarks/rolling_* / policy_compare*.md
+\end{lstlisting}
+
+% =============================================================================
+\section{Live-Demo: welche Datei aufklappen?}
+% =============================================================================
+
+Falls jemand den Laptop sieht --- in dieser Reihenfolge:
+
+\begin{enumerate}[leftmargin=1.4em]
+  \item \file{src/secpd/data/events.py} --- \texttt{ITEM\_MAP}: ``1.03 nur Label''.
+  \item \file{src/secpd/features/financial.py} --- der Ratio-Katalog.
+  \item \file{src/secpd/features/textual.py} --- \texttt{\_KEYWORD\_GROUPS}.
+  \item \file{src/secpd/llm/schema.py} --- \texttt{MODEL\_FEATURE\_FIELDS = (risk\_sentiment,)}.
+  \item \file{src/secpd/models/pipeline.py} --- RF + Kalibrierung.
+  \item \file{benchmarks/policy\_compare.md} (klein) und
+        \file{benchmarks/policy\_compare\_full.md} (Universum).
+\end{enumerate}
+
+Training (Produktion, Cache-only):
+\begin{lstlisting}
+python train.py \
+  --data data/processed/zenodo_full.csv.gz \
+  --financials data/raw/financials_panel_full.csv \
+  --events data/raw/edgar_8k_events_full.csv \
+  --label-source default --default-horizon 36 \
+  --label-concepts bankruptcy --require-financials \
+  --mode combined --llm openai --llm-cache-only --calibrate
+\end{lstlisting}
+
+% =============================================================================
+\section{Einwände und klare Antworten}
+% =============================================================================
+
+\begin{description}[style=nextline,leftmargin=1.2em,font=\bfseries]
+  \item[Ist das eine regulatorische PD?]
+    Nein. Es ist ein Distress-/Insolvenz-Proxy-Score aus öffentlichen Filings.
+    Kalibriert auf 8-K-Item~1.03, nicht auf IRB-Default im Kreditvertragssinn.
+  \item[Warum nicht Gradient Boosting?]
+    Auf dem Gewinner-Policy hat RF mit Sigmoid-Kalibrierung GBM geschlagen
+    (wenige Positive, $\approx 100$ im kleinen Set). Hebel ist Datenuniversum,
+    nicht der Learner.
+  \item[Look-ahead / Firm-Leakage?]
+    Temporal + Rolling-Origin; Group-Split als Holdout; Eventfenster PIT;
+    Insolvenz-Item ausgeschlossen. Tests dazu.
+  \item[Warum MD\&A und nicht der ganze 10-K?]
+    MD\&A ist der narrative Risikoteil. Tabellen im Zenodo-Dump sind Zahlensuppe
+    und werden vor dem LLM gestrichen.
+  \item[Untererfassung von Defaults?]
+    Ja. Nicht jede Insolvenz erzeugt ein 8-K (Delisting vorher, Filing-Pflichten
+    weg). Deshalb PR-AUC, nicht nur ROC; und deshalb Delisting als Label getestet
+    und verworfen.
+  \item[Python 3.14 auf der Bank?]
+    Alte Pins ohne cp314-Wheels. Aktuell: numpy~2.3.5, pandas~2.3.3, sklearn~1.7.2.
+    Modelle danach neu fitten.
+  \item[Kann das interne LLM rein?]
+    \texttt{get\_llm\_client()} / \file{llm/bank.py}: Endpoint, Key, Modell über ENV.
+    Marker \texttt{\# ADAPT}. Cache macht Home und Bank bitgleich.
+\end{description}
+
+% =============================================================================
+\section{Ein-Folien-Gerüst (wenn du slides baust)}
+% =============================================================================
+
+\begin{enumerate}[leftmargin=1.4em]
+  \item Problem: öffentliche Filings $\rightarrow$ früher Distress-Score, air-gapped.
+  \item Drei Quellen, ein Join \texttt{(cik, fyear)}; 1.03 nur Label.
+  \item Features: Ratios+Trends+SIC, 8-K-Frühwarnung, MD\&A-Keywords+Sentiment.
+  \item Modell: RF, kalibriert, Combined vs.\ Financial-Baseline.
+  \item Güte: Rolling-PR, Top-10\,\%-Capture, Group-Split.
+  \item Policy: h36 Bankruptcy, Legacy vor 2004 aus, ab GJ 2009.
+  \item Übergabe: Cache, joblib-Stempel, Offline-Wheels, 3.14-Pins.
+\end{enumerate}
+
+\vspace{1.2em}
+\noindent\textcolor{secpdblue}{\rule{\textwidth}{0.6pt}}\\[0.4em]
+{\small
+Dieser Zettel beschreibt den Code-Stand auf \texttt{feat/distress-text-features}.
+Zahlen aus \file{benchmarks/policy\_compare.md} und
+\file{benchmarks/policy\_compare\_full.md} bei der Präsentation aufschlagen,
+nicht aus dem Kopf zitieren, wenn die Reports sich geändert haben.}
+
+\end{document}
