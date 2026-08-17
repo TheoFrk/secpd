@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "inherently uncertain",
+    "management estimate of borrower repayment"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, margins, capital ratios, loan-loss methodology, and historical trends. Risk is moderated by net interest margin compression, declining return on equity, exposure to interest rates and real estate activity, and reliance on subjective impairment and loss-rate estimates. Overall tone is cautiously positive, supported by strong capitalization and earnings growth, but includes substantial standard forward-looking disclaimers."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "assumes no obligation to update",
+    "uncertainty as to future profitability",
+    "protracted customer negotiations"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified detail, but emphasizes broad forward-looking disclaimers and unspecified assumptions. Operating performance deteriorated materially, with revenue down 46.2%, gross margin compression, and a shift to a $0.7 million operating loss, driven largely by delayed customer orders and industry weakness."
+}

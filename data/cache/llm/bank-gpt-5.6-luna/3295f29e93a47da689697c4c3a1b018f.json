@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partly offset by",
+    "we expect",
+    "where feasible",
+    "items impacting comparability"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and includes substantial quantitative disclosure, including earnings, margins, tax rates, acquisitions, and planned cost savings. Risk is moderate, driven by declining earnings, lower gross margins, currency headwinds, adverse weather, restructuring costs, and execution demands associated with organizational changes and acquisitions. Management maintains a forward-looking, strategic tone with some reliance on broad expectations and offsetting-factor language."
+}

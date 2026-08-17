@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.67,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurances can be given",
+    "without limitation",
+    "cannot give assurance",
+    "additional financing required"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk, including insufficient cash, substantial current liabilities, projected funding needs of approximately $2 million, and the possibility of ceasing operations without additional financing or revenue. It includes useful quantified figures but relies heavily on boilerplate forward-looking disclaimers and unverified expectations regarding customer launches, revenue generation, and capital raising."
+}

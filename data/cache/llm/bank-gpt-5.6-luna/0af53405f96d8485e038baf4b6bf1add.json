@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to continue",
+    "relatively flat",
+    "well positioned",
+    "past operating results are not necessarily indicative"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail on sales declines, currency effects, segment performance, and leverage, but contains substantial boilerplate and forward-looking claims about market positioning and growth. Risk tone is mixed: it acknowledges weak global conditions, reduced customer spending, and uncertainty while emphasizing strategic advantages and financial flexibility."
+}

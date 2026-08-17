@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "we believe",
+    "future date",
+    "may be realized in the future",
+    "guarantees may include"
+  ],
+  "risk_summary": "The disclosure is generally detailed and strongly quantified, but includes meaningful softening in housing demand, exposure to interest rates and pricing, joint-venture funding commitments, and potentially broad guarantees. The tone remains cautiously constructive, supported by liquidity, backlog, revenue growth, and embedded-value claims, although some future obligations and outcomes are not yet determinable."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain and subject to refinement",
+    "actual results may differ significantly",
+    "based on management judgment and estimates",
+    "expected future growth",
+    "not tracked or allocated by program"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth-oriented business narrative and includes some quantified expense and investment data. However, critical estimates for revenue recognition, credit losses, inventory, and acquisitions rely substantially on management judgment, with limited sensitivity analysis and explicit warnings that actual results may differ materially. The truncated disclosure and extensive accounting boilerplate reduce transparency regarding the magnitude of potential downside risks."
+}

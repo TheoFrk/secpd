@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could adversely affect",
+    "among other things",
+    "cautiously optimistic",
+    "incomplete disclosure (\"[…] securities\")"
+  ],
+  "risk_summary": "The excerpt identifies meaningful exposure to demand weakness, inflation, supply-chain disruption, tariffs, China/Hong Kong geopolitical risk, labor shortages, and rising costs, while relying on broad conditional language for mitigation and outlook. Liquidity disclosure is relatively specific, including $17.9 million of working capital and positive operating cash flow, but the excerpt contains an apparent date error and an incomplete passage that reduce clarity."
+}

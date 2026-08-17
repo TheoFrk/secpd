@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "not able to predict",
+    "may not prevent",
+    "material adverse effect",
+    "favorable market conditions",
+    "growth and diversification strategy"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, detailing growth, profitability, capital ratios, loan losses, charge-offs, and nonperforming loans. The tone is cautiously positive due to strong growth and capital improvement, but elevated provisions, charge-offs, nonperforming loans, funding growth, and interest-rate uncertainty indicate meaningful credit and balance-sheet risks."
+}

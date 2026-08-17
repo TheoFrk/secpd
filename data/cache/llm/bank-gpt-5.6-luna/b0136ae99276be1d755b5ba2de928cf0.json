@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot guarantee future results",
+    "disclaim any obligation to update",
+    "believe expectations are reasonable",
+    "results may differ from estimates"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantified, but includes standard forward-looking disclaimers and substantial management judgment around estimates. Revenue declined 7.0% in fiscal 2012 due primarily to weak economic and semiconductor industry conditions, indicating moderate operating sensitivity despite an overall confident strategic tone."
+}

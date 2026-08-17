@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may refer to adjusted measures",
+    "unallocated items",
+    "possible expansion of conflict",
+    "current and expected future cash flows"
+  ],
+  "risk_summary": "The excerpt is largely standard, boilerplate MD&A language with substantial use of non-GAAP measures and generalized descriptions of operational drivers. It identifies geopolitical exposure, restructuring, impairment, tax recoverability, and forecasting risks, but provides limited direct quantification of their potential future impact. Overall tone is moderately confident, supported by detailed historical amounts but tempered by broad caveats and forward-looking uncertainty."
+}

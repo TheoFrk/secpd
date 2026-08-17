@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe we operate",
+    "including but not limited to",
+    "primarily attributable to",
+    "many factors which have impacted and continue to impact",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting revenue, EBITDA, cash flow, utilization, tax, and debt-related amounts. The tone is moderately positive, emphasizing acquisition-driven growth, pricing, operating leverage, and cash generation, but profitability is affected by tax normalization, facility downtime, working-capital needs, capital spending, and refinancing activity. Some risk discussion remains broad and boilerplate, and the excerpt is truncated in places."
+}

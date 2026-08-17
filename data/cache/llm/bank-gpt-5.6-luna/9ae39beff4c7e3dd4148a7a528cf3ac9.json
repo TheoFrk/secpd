@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "subjectivity of assumptions",
+    "may require additional provisions",
+    "all factors subject to change",
+    "reasonable and supportable forecasts"
+  ],
+  "risk_summary": "The excerpt is substantially quantified regarding earnings, loan balances, growth, and credit-loss methodology, but relies on standard caveats around estimates, forecasts, regulatory review, and potential future provisions. The overall tone is positive due to strong profitability and growth, while acknowledging material sensitivity to credit performance and economic conditions."
+}

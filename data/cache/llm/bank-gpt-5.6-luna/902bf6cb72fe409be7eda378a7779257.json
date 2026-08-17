@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to continue generating revenue",
+    "aggressively pursue other opportunities",
+    "based on our current cash position",
+    "estimates, judgments and assumptions",
+    "actual results could be different"
+  ],
+  "risk_summary": "The disclosure is largely quantified and transparent about revenue declines, a net loss, cash usage, federal contract disruption, and an expected continuation of quarterly losses. Liquidity appears adequate, with no revolver borrowings and management projecting coverage beyond twelve months, but dependence on contracts and variable software demand presents ongoing risk."
+}

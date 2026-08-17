@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "other factors beyond control",
+    "assumptions believed reasonable",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on loan growth, credit quality, charge-offs, nonperforming assets, and allowance coverage, with an overall positive risk tone. However, extensive boilerplate disclaimers and reliance on management estimates and assumptions limit forward-looking certainty, particularly around loan losses, securities impairment, and mortgage servicing rights valuations."
+}

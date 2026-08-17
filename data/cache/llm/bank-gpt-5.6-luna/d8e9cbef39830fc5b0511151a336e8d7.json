@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "not necessarily indicative",
+    "acceptable prices",
+    "customary for financings",
+    "certain properties"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear details on asset sales, debt repayment, liquidity, covenants, and operating results. Key risks include reliance on real estate sales at acceptable prices, cyclical development activity, competition, regulated utility operations, and potential borrowing needs. Liquidity and covenant compliance are presented positively as of December 31, 2017, but available cash was modest relative to potential obligations."
+}

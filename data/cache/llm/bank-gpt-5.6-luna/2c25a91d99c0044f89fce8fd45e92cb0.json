@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance additional capital",
+    "foreseeable future losses",
+    "ability to enter into future agreements",
+    "duration or final outcome undetermined",
+    "clinical hold on IND"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified clinical-trial and revenue information, but relies on extensive forward-looking caveats and leaves key financing, patent, regulatory, and commercialization outcomes uncertain. Material risks include ongoing losses, lack of approved internally developed products, dependence on external financing and royalties, and the FDA clinical hold affecting BTA585."
+}

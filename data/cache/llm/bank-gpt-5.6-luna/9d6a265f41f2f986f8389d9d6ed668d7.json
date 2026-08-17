@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks, uncertainties, and other factors",
+    "actual results may differ materially",
+    "previously disclosed",
+    "uncertainty remains"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, loan sales, acquisitions, expenses, and pandemic-related impacts. Risk disclosure relies partly on repeated standard forward-looking language and broad references to incorporated risk factors, but the overall tone is cautiously positive due to improved earnings and mitigation of pandemic effects."
+}

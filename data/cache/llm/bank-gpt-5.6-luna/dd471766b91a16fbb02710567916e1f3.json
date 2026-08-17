@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subjective or complex judgment",
+    "reasonable estimates",
+    "could vary materially",
+    "forecasted future cash flows",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but relies heavily on forecasts, statistical models, assumptions, and subjective judgments regarding loan collections and cash-flow timing. CECL is expected to reduce reported 2020 net income by approximately 30% to 60%, with potentially material variation depending on portfolio quality, assignment volume, economic conditions, and model refinements. Operating performance is presented positively, but credit-loss estimation and accounting-transition risks materially temper the tone."
+}

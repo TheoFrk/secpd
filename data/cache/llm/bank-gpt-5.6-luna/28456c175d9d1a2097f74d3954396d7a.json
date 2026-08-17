@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no obligation to update",
+    "VIE contractual arrangements",
+    "no assurance financing available",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, concentration, acquisition, and liquidity data, but is heavily surrounded by boilerplate forward-looking disclaimers and complex VIE/legal-structure descriptions. Key risks include dependence on Gufeng’s concentrated distributors, exposure to PRC VIE arrangements, acquisition and expansion funding needs, and potential inability to obtain acceptable financing. Liquidity is presented positively, although management acknowledges that deviations from its operating plan could require capital raising or spending reductions."
+}

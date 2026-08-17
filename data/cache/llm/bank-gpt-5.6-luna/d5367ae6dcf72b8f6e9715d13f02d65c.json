@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "not necessarily indicative",
+    "future economic or market conditions",
+    "more likely than not",
+    "non-GAAP measures not standardized"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on deposits, capital, acquisitions, merger costs, and non-GAAP measures, supporting relatively transparent disclosure. Risk tone is moderately confident despite acknowledging banking-sector volatility, liquidity and deposit risks, unrealized securities losses, commercial real estate credit concerns, and uncertainty in DTA realization. Extensive cross-references, technical terminology, and standard caveats increase complexity and somewhat limit comparability."
+}

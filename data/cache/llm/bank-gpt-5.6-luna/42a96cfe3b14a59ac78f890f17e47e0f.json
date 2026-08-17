@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "could have a material adverse effect",
+    "foreseeable future",
+    "subject to risks and uncertainties",
+    "not providing the table of contractual obligations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative exposure data and describes key insurance, reserve, reinsurance, investment, and liquidity risks, but relies heavily on management estimates and does not provide sensitivity ranges or stress scenarios. The tone is cautiously stable, supported by stated liquidity expectations, while acknowledging potentially material adverse impacts from adverse claims development, reinsurer insolvency, market volatility, and impairment risk."
+}

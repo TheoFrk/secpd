@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "not required, and undertakes no obligation, to revise or update",
+    "including but not limited to",
+    "cautiously optimistic"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding operating performance, debt reduction, liquidity, and segment trends, with a generally positive risk tone. Risk disclosure relies heavily on standard forward-looking-statement disclaimers and highlights uncertainty from COVID-19 variants, supply-chain congestion, and recovery trajectories. The passage is complex and partly boilerplate, but the reported financial metrics are relatively specific."
+}

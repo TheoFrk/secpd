@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "improved economic conditions",
+    "no assurance that a restaurant will be successful",
+    "not expected to have a material impact",
+    "reclassified to discontinued operations"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including operating income, same-store sales, impairments, closures, and planned investments. Risk factors include modest total revenue growth, discontinued or underperforming locations, weather and flood exposure, and losses at a new restaurant. The tone is cautiously favorable because profitability improved, but some causal explanations and materiality assertions are management-framed and potentially optimistic."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "such other factors",
+    "actual results may differ",
+    "more likely than not",
+    "material impact"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, particularly regarding earnings, assets, loans, securities, and interest-rate metrics. Risk is concentrated in judgment-based estimates for loan losses, goodwill recoverability, business-combination valuations, and deferred tax assets, with outcomes dependent on economic conditions and management assumptions. The overall tone is modestly positive due to strong earnings growth, but it includes substantial standard uncertainty language."
+}

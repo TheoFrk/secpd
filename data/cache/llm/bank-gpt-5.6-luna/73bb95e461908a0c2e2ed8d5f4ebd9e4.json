@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "difficult to predict prices",
+    "actual results could differ",
+    "subject to future change",
+    "management judgments and estimates",
+    "expected to provide additional production"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and explains operational and financial changes, but relies on forecasts and management estimates regarding production, reserves, pricing, impairment, and revenue accruals. Risk is moderate: earnings and revenues declined, impairment increased, and commodity-price and estimation uncertainty remain, although drilling, acquisitions, and reserves support a cautiously constructive outlook."
+}

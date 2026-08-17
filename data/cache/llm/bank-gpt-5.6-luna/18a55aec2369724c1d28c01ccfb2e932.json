@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other factors referenced",
+    "foreseeable future",
+    "may vary from accrued amounts"
+  ],
+  "risk_summary": "The excerpt is generally specific and decision-useful, with detailed sales, margins, cash flows, working capital, and credit facility metrics. Key risks include margin compression from raw-material costs, seasonal demand, inventory and receivables growth, consumer and weather volatility, and substantial historical special dividends. The forward-looking disclaimer is broad and boilerplate, but the overall tone remains moderately confident regarding liquidity."
+}

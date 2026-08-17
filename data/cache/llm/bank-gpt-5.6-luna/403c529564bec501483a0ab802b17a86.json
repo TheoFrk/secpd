@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to significant risks and uncertainties",
+    "do not undertake to update",
+    "continue to evaluate opportunities",
+    "believe we are well positioned"
+  ],
+  "risk_summary": "The excerpt presents improving performance, quantified earnings growth, loan growth, deposit growth, and favorable net interest margin trends, with a generally confident tone. Risk disclosure is largely boilerplate and relies on broad forward-looking disclaimers, while strategic plans and market opportunities remain conditional on economic conditions, demographics, and execution. The detailed rate/volume table improves precision, but the excerpt provides limited granular discussion of downside scenarios or asset-quality vulnerabilities."
+}

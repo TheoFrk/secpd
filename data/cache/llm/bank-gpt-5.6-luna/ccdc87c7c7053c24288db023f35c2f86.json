@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "could experience",
+    "continuing economic uncertainty",
+    "no expectation that a dividend will be paid",
+    "interest recognized on an accrual basis"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on portfolio performance, financing, loan losses, and operating results. Risk remains meaningful due to economic sensitivity, potential borrower defaults, foreclosure costs, financing constraints, suspended dividends, and the possibility of overstated accrued income. Overall tone is cautiously negative despite improved originations and reduced non-performing loans."
+}

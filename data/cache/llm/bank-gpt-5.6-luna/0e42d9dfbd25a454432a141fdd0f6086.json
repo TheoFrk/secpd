@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurances",
+    "beyond our control",
+    "going concern dependent upon",
+    "revenue table omitted"
+  ],
+  "risk_summary": "The company reports sharply worsening net losses, a substantial current-liability deficit, negative operating cash flow, and dependence on shareholder financing, indicating significant going-concern risk. The disclosure is heavily padded with standard forward-looking and accounting boilerplate, while the excerpt omits key revenue and investing-cash-flow details and provides limited operational visibility."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "believed to be reasonable",
+    "has not determined the impact",
+    "smaller reporting company omissions"
+  ],
+  "risk_summary": "The excerpt provides useful quantified sales declines and segment-level detail, but is heavily dominated by boilerplate disclaimers, accounting-policy language, and extensive qualifications. Several potentially material impacts, including inventory estimates, receivable losses, stock-based compensation assumptions, and new accounting standards, are described without quantified sensitivity or expected financial effects."
+}

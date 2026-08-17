@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "can have a significant effect",
+    "management believes",
+    "in an effort to",
+    "generally",
+    "prescribed thresholds"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively grounded, including revenue growth, credit-loss ranges, margin data, dealership counts, and financing constraints. It highlights material risks from subprime exposure, competition, customer affordability, macroeconomic conditions, collections, and liquidity, while emphasizing mitigation efforts and improved recent performance. The excerpt is highly dense and contains some boilerplate and an apparent text truncation."
+}

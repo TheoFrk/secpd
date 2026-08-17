@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily relates to",
+    "partially offset by",
+    "we believe demand decreased",
+    "not significant enough to merit separate disclosure",
+    "future volatility could adversely affect"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides useful segment-level explanations, but consolidated sales declined 5.4% and Snack Food Products sales declined 7.5%, with weaker volumes and inflationary consumer pressure. Liquidity is presented as adequate, though results remain exposed to raw-material costs, inflation, returns, insurance claims, aging vehicles, and estimation uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict with certainty",
+    "future effects continue to evolve",
+    "on currently acceptable terms",
+    "subject to revision or withdrawal",
+    "supplemental non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong occupancy, rental-rate growth, liquidity capacity, and financing activity indicating a favorable operating tone. Key uncertainties include the evolving effects of COVID-19, tenant rent-relief requests, refinancing and capital-market access, development commitments, and reliance on supplemental FFO/PNOI measures. Overall, the risk tone is cautiously confident rather than crisis-like."
+}

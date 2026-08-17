@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "significant judgment and estimates",
+    "future net revenues based on assumptions",
+    "ceiling test impairment risk"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes substantial quantitative information, but relies on extensive accounting assumptions and commodity-price-sensitive reserve valuations. Key risks include potential ceiling-test impairments, declining realized prices, production volatility, and dependence on external funding sources. Overall tone is cautious and predominantly neutral, with meaningful downside exposure acknowledged."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "substantial market opportunity",
+    "numerous advantages",
+    "will generally require",
+    "forward-looking statements involving risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt is technically dense and promotional, relying heavily on unquantified beliefs about platform advantages, market opportunity, customer adoption, and future commercialization. A material execution and regulatory risk is disclosed because the company lacks cGMP facilities needed for direct clinical applications, while the financing disclosure is comparatively precise and indicates approximately $3.7 million in net proceeds."
+}

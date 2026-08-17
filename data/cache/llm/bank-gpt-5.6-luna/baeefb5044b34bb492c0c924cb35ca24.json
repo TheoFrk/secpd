@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP ongoing results",
+    "excluding acquisition contributions",
+    "constant currency basis",
+    "forward-looking statements",
+    "NM = not meaningful"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed explanations of revenue changes, acquisitions, foreign exchange effects, and segment trends. However, repeated use of adjusted metrics and exclusions can obscure underlying performance, while RCM losses, uncollectible receivables, project cost overruns, legal expenses, and commodity-price sensitivity indicate material risks. Management remains cautiously optimistic about fiscal 2017 growth, but several outlook statements are conditional and forward-looking."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "duration and extent remain uncertain",
+    "could adversely impact",
+    "management assumptions and judgment",
+    "including but not limited to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and cash-flow data, but relies on standard forward-looking disclaimers and generalized uncertainty language around COVID-19, supply constraints, reserves, and tax positions. Risk tone is mildly negative due to operational and estimation uncertainties, although revenue growth and cash generation indicate generally stable performance."
+}

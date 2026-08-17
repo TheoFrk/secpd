@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "as deemed appropriate",
+    "expected continuation of improved earnings",
+    "excluding these amounts",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent regarding sales, margins, segment performance, and tax effects, with a generally improving operating trend. Risk is moderated by weaker regional and product performance, restructuring adjustments, acquisition-related effects, and reliance on projected taxable income supporting deferred tax assets. Frequent qualifications and non-GAAP measures introduce some interpretive complexity but do not appear overtly evasive."
+}

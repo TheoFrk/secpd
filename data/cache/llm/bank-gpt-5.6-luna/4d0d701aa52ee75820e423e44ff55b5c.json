@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to",
+    "ongoing uncertainty",
+    "difficult to predict",
+    "subject to risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting store counts, sales growth, margins, cash flow, and specific basis-point impacts. Risk tone is cautiously positive, but future performance depends on discretionary consumer spending, inflation, freight and wage costs, incentive compensation, and broader macroeconomic and geopolitical conditions. Forward-looking disclosures rely on standard uncertainty disclaimers and do not quantify the potential downside of these risks."
+}

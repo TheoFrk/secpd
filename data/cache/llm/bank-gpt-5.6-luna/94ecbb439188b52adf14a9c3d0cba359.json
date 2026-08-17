@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual sales may materially differ",
+    "we believe",
+    "estimates and assumptions",
+    "ultimate outcome may differ",
+    "qualitative evaluation"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, providing operating metrics, segment composition, inventory levels, impairment assessments, and earnings data. Risk is framed as manageable, but forward-looking expectations and accounting estimates rely on hedged language and could be sensitive to market conditions, inventory values, impairment, and tax outcomes."
+}

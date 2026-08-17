@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "highly subjective and subject to change",
+    "difficult to predict future revenues",
+    "many risks and uncertainties"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively supported, highlighting substantial product revenues, profitability, cash growth, and identifiable pipeline and competitive risks. Forward-looking statements rely materially on belief and expectation language, particularly regarding regulatory approvals, reimbursement, market acceptance, and timing of competing therapies. Overall tone is cautiously optimistic but acknowledges significant pharmaceutical-development, regulatory, commercial, and supply-chain uncertainty."
+}

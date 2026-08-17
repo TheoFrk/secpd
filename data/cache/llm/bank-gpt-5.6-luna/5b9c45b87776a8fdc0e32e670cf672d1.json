@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to change as business conditions warrant",
+    "depends on future operating performance",
+    "timing and actual amounts may differ",
+    "materially differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with substantial quantitative detail on declining profitability, margin compression, cost inflation, and segment performance. Risk is elevated by a 43% net income decline, higher mining and operating costs, substantial investment and cash usage, and dependence on future operating performance for covenant and liquidity compliance. Boilerplate forward-looking disclaimers and uncertainty around cash requirements and contractual obligations modestly reduce precision."
+}

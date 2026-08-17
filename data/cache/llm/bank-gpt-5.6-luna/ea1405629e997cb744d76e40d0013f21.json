@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "may adversely affect",
+    "could adversely affect",
+    "continuing uncertainty",
+    "without limitation",
+    "contrasting recommendations"
+  ],
+  "risk_summary": "The excerpt provides substantial product, acquisition, regulatory, and geographic detail, but relies heavily on conditional risk language rather than quantifying potential financial impacts. Key exposures include macroeconomic demand weakness, customer financing constraints, reimbursement reductions, healthcare reform taxes, regulatory changes, and shifting clinical recommendations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "if market conditions become less favorable",
+    "additional write-downs may be required",
+    "management estimates and judgment",
+    "forward-looking spending plans"
+  ],
+  "risk_summary": "The disclosure is relatively precise and quantitative, highlighting strong sales and earnings growth, margin improvement, and funding from the equity offering. Risk discussion is primarily assumption- and estimate-based, particularly for inventory obsolescence, receivables, clinical trial spending, and non-GAAP adjustments, with some boilerplate limitations on comparability."
+}

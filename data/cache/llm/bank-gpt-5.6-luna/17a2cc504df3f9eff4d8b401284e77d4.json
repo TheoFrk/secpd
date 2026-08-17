@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "unexpected changes in market conditions",
+    "inherently uncertain",
+    "no assurance that positive trends will continue",
+    "numerous inputs and assumptions"
+  ],
+  "risk_summary": "The disclosure is detailed and includes quantitative operating data, but relies substantially on management estimates for revenue recognition, inventory valuation, impairment testing, and completion costs. The outlook is generally positive, supported by revenue and community growth, while acknowledging material exposure to market conditions, land valuation, margins, and execution risk."
+}

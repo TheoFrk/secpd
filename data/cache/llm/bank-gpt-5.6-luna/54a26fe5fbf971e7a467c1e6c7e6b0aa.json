@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain severity and duration",
+    "possibly beyond",
+    "additional actions may be necessary",
+    "various mitigating actions",
+    "safe harbor boilerplate"
+  ],
+  "risk_summary": "The excerpt clearly discloses material pandemic-related damage to operations, liquidity, sales, margins, supply chain, and on-premise channels, with quantified exposure and specific charges. Forward-looking impacts remain uncertain, with management expecting significant adverse effects in 2021 and potentially beyond, while mitigation and liquidity actions are described without fully quantifying their likely effectiveness."
+}

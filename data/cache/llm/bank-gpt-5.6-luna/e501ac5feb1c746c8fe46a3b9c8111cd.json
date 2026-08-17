@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.05,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "combined presentation",
+    "no representation as to information",
+    "comparisons not included",
+    "cross-reference to prior filing"
+  ],
+  "risk_summary": "The excerpt is primarily procedural and boilerplate, providing little substantive information about financial performance, liquidity, or risks. Its combined-registrant structure and cross-reference to a prior filing may limit entity-specific transparency, but the passage itself does not indicate an acute adverse condition."
+}

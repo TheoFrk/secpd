@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "certain events or changes in circumstances",
+    "material adverse effect",
+    "estimated future cash flows",
+    "forward-looking disclaimer language"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including portfolio size, occupancy, lease duration, geographic exposure, and impairment amounts. Key risks arise from tenant-sector and regional concentration, reliance on management estimates for valuations and cash flows, and potential impairment or collectibility issues. The tone is mildly confident but tempered by standard forward-looking and accounting uncertainty language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "no assurance of profitability",
+    "may be forced to abandon",
+    "subject to numerous factors",
+    "additional capital when needed"
+  ],
+  "risk_summary": "The disclosure explicitly identifies substantial doubt about the company’s ability to continue as a going concern, persistent losses, negative operating cash flow, and a need for substantial additional capital. Although liquidity and financing options are quantified, the timing and availability of future funding remain uncertain, creating significant dilution, execution, and business-continuity risk."
+}

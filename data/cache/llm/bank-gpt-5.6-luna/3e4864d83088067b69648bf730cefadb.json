@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believe that we receive a significant return",
+    "not materially affect",
+    "subject to certain adjustments",
+    "certain other income/expense items",
+    "potential fines and/or penalties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on sales, repurchases, discontinued operations, segment performance, and regulatory matters. However, it uses optimistic and non-GAAP framing while downplaying uncertain impacts from product-registration investigations, recalls, potential penalties, weather sensitivity, and restructuring charges."
+}

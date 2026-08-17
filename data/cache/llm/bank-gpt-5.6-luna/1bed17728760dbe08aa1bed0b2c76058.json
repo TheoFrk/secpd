@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "non-GAAP financial measures",
+    "fully-diluted, fully-converted basis",
+    "capital base more or less fully deployed"
+  ],
+  "risk_summary": "The excerpt is generally precise and heavily quantified, with strong reported growth and detailed transaction, investment, and capital metrics. Risk is moderated by substantial exposure to MediaAlpha valuation gains, significant capital deployment into Ark, dilution contingencies, and the statement that capital is largely fully deployed. Standard forward-looking and non-GAAP disclaimers introduce limited boilerplate opacity but do not dominate the disclosure."
+}

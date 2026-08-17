@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements caution",
+    "known and unknown risks",
+    "significant judgment and estimates",
+    "inherent uncertainties",
+    "subject to significant change"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides detailed discussion of acquisition effects, loan growth, funding, profitability, and nonperforming assets. Risk is concentrated in standard forward-looking disclaimers and subjective estimates for credit losses, goodwill, securities impairment, and acquisition valuations, with limited sensitivity analysis or quantified downside scenarios."
+}

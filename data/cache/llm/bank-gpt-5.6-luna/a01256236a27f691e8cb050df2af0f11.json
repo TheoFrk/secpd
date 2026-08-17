@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "many factors beyond our control",
+    "potential adverse impacts",
+    "assumptions and estimates are complex and subjective"
+  ],
+  "risk_summary": "The excerpt reports strong quantified growth in revenue, profitability, margins, and ARR, producing a generally favorable operating tone. However, extensive boilerplate disclaimers and broad macroeconomic, supply-chain, geopolitical, customer, and impairment risks indicate meaningful uncertainty, including elevated inventory and potential future goodwill charges."
+}

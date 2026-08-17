@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.43,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "committed to continuing to improve",
+    "targeted acquisitions",
+    "comfortable match",
+    "could produce a materially different estimate",
+    "likely have a negative impact"
+  ],
+  "risk_summary": "The excerpt presents strong 2019 results and an optimistic growth outlook, supported by quantified revenue, earnings, assets, and operating metrics. Key risks include sensitivity to interest-rate declines, reduced client cash balances, regulatory and compliance demands, acquisition execution, and subjectivity in valuation assumptions. Disclosure is generally quantitative but includes some repetitive aspirational language and limited quantification of forward-looking downside scenarios."
+}

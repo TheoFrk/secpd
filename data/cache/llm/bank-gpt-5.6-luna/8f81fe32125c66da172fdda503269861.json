@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "many factors beyond our control",
+    "no obligation to update",
+    "may never be profitable"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and broad risk-factor language, including substantial liquidity, valuation, execution, and partner-company loss risks. It provides some concrete information on cash, marketable securities, financing targets, and transaction proceeds, but the risk discussion is largely non-quantified and partly boilerplate."
+}

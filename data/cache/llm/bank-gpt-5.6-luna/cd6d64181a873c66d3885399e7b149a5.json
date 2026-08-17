@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.67,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "immaterial impact",
+    "we believe",
+    "partially offset by",
+    "expect to add"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, margins, earnings, segment results, currency effects, and store growth. Risk tone is strongly positive, emphasizing record performance and improving margins, although some causal explanations rely on broad attribution and offsetting-factor language. The passage is complex and dense but not materially evasive."
+}

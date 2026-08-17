@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "non-run-rate items",
+    "cautiously optimistic",
+    "inherently unpredictable",
+    "expected to improve slightly"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, with detailed volume, pricing, earnings-impact, and capital-spending disclosures. Risk tone is cautiously positive, but outlook relies on uncertain aerospace and automotive demand, trade conditions, pricing execution, and maintenance performance. Extensive definitions and non-GAAP framing may complicate comparability with GAAP results."
+}

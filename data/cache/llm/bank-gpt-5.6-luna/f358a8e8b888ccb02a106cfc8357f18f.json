@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimers",
+    "actual results likely to differ materially",
+    "non-GAAP core earnings exclusions",
+    "not meaningful (NM) threshold",
+    "results may be obscured by excluded items"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains extensive boilerplate disclaimers, limiting the interpretability of forward-looking statements. It provides meaningful quantified targets and costs for the Hartford Next program, but reliance on non-GAAP measures and numerous exclusions may obscure underlying profitability and risk."
+}

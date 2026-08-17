@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "subject to approval",
+    "in the future, we anticipate",
+    "primarily due to",
+    "projects under development"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with substantial disclosure of acquisitions, ownership structures, regulatory exposure, incidents, debt-related interest expense, and project impairments. Risk tone is cautiously positive, emphasizing growth and fee-based revenues while acknowledging operational incidents, execution dependencies, commodity-linked exposure, and higher leverage. Some forward-looking statements and approval contingencies limit certainty around development projects and future asset contributions."
+}

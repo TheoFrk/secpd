@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "disclaims any obligation to update",
+    "results may differ materially",
+    "various other assumptions",
+    "fair value and impairment estimates"
+  ],
+  "risk_summary": "The excerpt combines detailed accounting-policy disclosures and some quantified information with extensive standard forward-looking disclaimers and management-estimate caveats. Key risks include acquisition integration, customer credit exposure, inventory obsolescence, impairment assumptions, foreign currency effects, and uncertain valuation inputs, while the overall tone remains cautiously positive."
+}

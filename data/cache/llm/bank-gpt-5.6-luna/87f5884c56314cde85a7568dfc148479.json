@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "focused on the long term",
+    "variety of risks",
+    "among other things",
+    "subject to economic conditions",
+    "could cause future events to differ materially"
+  ],
+  "risk_summary": "The excerpt presents a generally positive and stable risk tone, supported by quantified earnings, loan, deposit, securities, and capital data. However, substantial strategic and forward-looking boilerplate, broad conditional language, and references to risks described elsewhere limit specificity regarding downside exposures. Key disclosed risks include slower economic growth, trade and geopolitical pressures, interest-rate uncertainty, regulatory capital constraints, and rising deposit costs."
+}

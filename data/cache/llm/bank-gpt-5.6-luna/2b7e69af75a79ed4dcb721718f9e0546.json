@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "high degree of judgment and complexity",
+    "subjective estimates and assumptions",
+    "regulatory and loss uncertainty"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broad, non-quantified risk factors, particularly around credit losses, asset valuations, FDIC-assisted loans, regulation, and interest-rate sensitivity. It acknowledges meaningful downside uncertainty but does not indicate an immediate crisis, and provides limited quantitative support for assessing the magnitude of risks."
+}

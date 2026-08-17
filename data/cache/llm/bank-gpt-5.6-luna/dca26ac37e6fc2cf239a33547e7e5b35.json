@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "certain effects",
+    "generally stable",
+    "could adversely impact",
+    "as further discussed",
+    "not meaningful"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, highlighting strong revenue growth, operating cash flow, liquidity, and the Bard acquisition. Key risks include substantial acquisition-related debt, global pricing pressure, currency exposure, healthcare utilization uncertainty, dependence on government funding in emerging markets, and tax-related charges. The tone is cautiously positive but includes standard forward-looking caveats and limited detail in some underlying segment disclosures."
+}

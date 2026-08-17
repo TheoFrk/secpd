@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "may differ materially",
+    "many factors not anticipated",
+    "ongoing global challenges remain uncertain",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and includes broad forward-looking disclaimers, uncertainty around energy costs, supply-chain disruptions, maintenance costs, pensions, and the Lu’An facility. Risk tone is nevertheless moderately positive, supported by quantified 2021 results, growth projects, stable-cash-flow claims, and continued dividend increases. Extensive non-GAAP discussion and repeated caveats may complicate assessment of underlying performance."
+}

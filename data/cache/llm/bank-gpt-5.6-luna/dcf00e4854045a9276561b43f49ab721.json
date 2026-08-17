@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "disclaim any obligation to update",
+    "expects continued losses",
+    "valuation allowance reassessment",
+    "off-balance-sheet purchase commitments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating information, including revenue growth, margins, tax attributes, and commitments, but includes extensive standard forward-looking disclaimers. Risk is elevated by expected ongoing losses, deferred tax asset valuation allowances, reliance on commercialization and international growth, and $3 million of off-balance-sheet purchase commitments."
+}

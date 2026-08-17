@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "may differ materially",
+    "no obligation to update",
+    "under certain circumstances",
+    "no assurances can be given"
+  ],
+  "risk_summary": "The excerpt contains extensive legal boilerplate and broad forward-looking disclaimers that limit specificity regarding future performance. Quantified disclosures identify meaningful risks, including operating losses, a substantial net operating loss carryforward, estimation uncertainty, and heavy dependence on one customer representing 40% of 2020 sales. Overall tone is cautious and risk-aware rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "constrained by funds available",
+    "volatility of feedstock prices",
+    "estimated undiscounted future cash flows"
+  ],
+  "risk_summary": "The excerpt provides substantial operating volumes, capacities, pricing drivers, contractual terms, and segment detail, but includes standard forward-looking disclaimers and relies on management estimates for impairment and projected cash flows. Risk tone is mildly negative because India operations were constrained by liquidity and loan repayments, while revenues remain exposed to commodity prices, production decisions, and biological-process variability."
+}

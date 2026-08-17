@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "well positioned to benefit",
+    "long-term impact uncertain",
+    "could adversely affect",
+    "case-by-case basis"
+  ],
+  "risk_summary": "The excerpt is generally confident and highly detailed, with extensive quantitative disclosures on acquisitions, dispositions, leasing, occupancy, rents, and market conditions. Risk discussion is present but relies partly on broad uncertainty language regarding COVID-19, economic conditions, tenant behavior, and future development impacts. The text contains substantial real-estate and non-GAAP terminology and includes some promotional framing around market positioning."
+}

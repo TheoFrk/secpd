@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimate",
+    "highly subjective",
+    "may differ from these estimates",
+    "no assurance",
+    "if revenues expand as expected"
+  ],
+  "risk_summary": "The disclosure provides useful quantified revenue, margin, cash-flow, debt-return, and funding figures, but relies on subjective assumptions regarding future revenue, receivables, tax recoverability, and the PDL put option. Significant cash used in operations, a high effective interest rate, dependence on additional capital, potential dilution, and uncertainty around funding availability indicate elevated liquidity and execution risk despite strong reported growth."
+}

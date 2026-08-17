@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict ultimate impact",
+    "timing is uncertain",
+    "expected to continue",
+    "possible contagion effects",
+    "cautiously optimistic"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, including segment exposure, budgets, debt, tax rates, backlog, and orders. Risk is concentrated in macroeconomic volatility, European debt contagion, defense budget reductions, sequestration, and uncertain program timing, although management maintains a cautiously optimistic outlook."
+}

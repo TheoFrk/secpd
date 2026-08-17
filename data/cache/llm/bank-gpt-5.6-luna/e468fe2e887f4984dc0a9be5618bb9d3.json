@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may adversely affect",
+    "cannot predict whether or to what extent",
+    "no assurance",
+    "believes it would be able",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative liquidity and operating data, including $8.05 million in cash and no long-term debt, supporting a generally stable near-term financial position. However, it relies extensively on conditional and boilerplate risk language concerning economic weakness, financing availability, vendor concentration, expansion strain, and revenue forecasting uncertainty. Growth plans require continued investment while cash flexibility could be reduced by acquisitions or unexpected revenue shortfalls."
+}

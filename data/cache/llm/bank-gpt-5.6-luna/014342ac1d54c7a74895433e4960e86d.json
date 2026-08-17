@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "significant management estimates",
+    "certain inherent, but undetected, losses",
+    "potential for growth is significant",
+    "current economic environment"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides detailed operating, asset-quality, cash-flow, and contractual-obligation data, with a moderately positive performance tone. Key uncertainty centers on subjective allowance-for-loan-loss and goodwill impairment estimates, undetected inherent losses, economic sensitivity, and interest-rate exposure. The excerpt is technically dense and includes some broad strategic claims and boilerplate risk language."
+}

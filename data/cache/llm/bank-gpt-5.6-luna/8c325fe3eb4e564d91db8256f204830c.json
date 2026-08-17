@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking information and risks",
+    "could differ materially",
+    "primarily attributed to",
+    "more likely than not",
+    "subject to future estimates"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear year-over-year revenue, margin, expense, tax, and deferred-tax-asset information. Risk is moderated by reliance on forecasts, royalty and new-product assumptions, pension estimates, and potential changes in deferred-tax-asset realizability, while extensive forward-looking disclaimers and repeated explanations add boilerplate."
+}

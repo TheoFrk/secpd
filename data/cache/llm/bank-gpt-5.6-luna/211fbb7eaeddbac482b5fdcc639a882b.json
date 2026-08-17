@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.43,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to substantial uncertainty",
+    "primarily due to",
+    "partially offset by",
+    "believe position us for long-term growth",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is generally positive and provides substantial quantitative detail on revenue, operating profit, debt reduction, dividends, acquisitions, and divestitures. Key risks include exposure to issuance and market activity, regulatory and compliance costs, acquisitions, foreign exchange, impairment charges, restructuring, and reliance on non-recurring gains. Boilerplate forward-looking language and frequent causal qualifiers modestly limit transparency but do not appear materially evasive."
+}

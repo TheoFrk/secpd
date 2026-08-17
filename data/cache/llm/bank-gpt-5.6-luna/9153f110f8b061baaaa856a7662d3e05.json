@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected renewal will be adequate",
+    "continue to fuel Company growth",
+    "many barriers to entry",
+    "touch 80% of all US households",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, expenses, cash flows, debt, availability, and working-capital needs. Risk tone is moderately positive but includes reliance on acquisition-driven growth, slower receivable collections, expected credit-line renewal, customer concentration, and promotional market claims. The liquidity discussion is incomplete in the supplied text, limiting assessment of near-term funding risk."
+}

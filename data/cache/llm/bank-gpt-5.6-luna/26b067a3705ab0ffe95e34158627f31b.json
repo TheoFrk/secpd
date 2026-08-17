@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to risks and uncertainties",
+    "no obligation to update",
+    "reasonable and supportable expectations",
+    "smaller reporting company omissions"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and acknowledges estimation uncertainty, potential credit losses, inventory write-downs, and lease obligations. Quantified balances, write-downs, cash flows, and repurchases provide useful specificity, while management presents liquidity as sufficient for foreseeable needs."
+}

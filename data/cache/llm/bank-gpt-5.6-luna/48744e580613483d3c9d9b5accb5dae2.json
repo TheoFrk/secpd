@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no assurance",
+    "other risks and uncertainties",
+    "customer-specific inventory exposure",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative detail on customer concentration, liquidity, covenants, inventory practices, and financing, but relies heavily on standard forward-looking disclaimers and broad, non-specific risk categories. Key risks include customer concentration, cancellation-related inventory impairment, fixed-cost operating leverage, covenant restrictions, inflation, and dependence on future design wins."
+}

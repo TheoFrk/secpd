@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "impact may affect period-to-period comparisons",
+    "timing of recognition is unknown",
+    "continue to incur taxes at rates below",
+    "effective tax rate may vary significantly",
+    "underlying revenue measures"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified revenue and operating-income growth across segments, supporting a generally positive risk tone. Key uncertainties include foreign-exchange movements, acquisitions and dispositions, insurance-market conditions, deferred performance-fee recognition, and potentially volatile effective tax rates. Disclosure is relatively specific but dense and contains standard forward-looking and underlying-performance adjustments that can complicate comparability."
+}

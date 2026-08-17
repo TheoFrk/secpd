@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "implementation date not set",
+    "dependent on collecting receivables",
+    "expected revenues may not materialize"
+  ],
+  "risk_summary": "The company remains loss-making with negative operating cash flow, dependence on limited project activity, and a stated need for additional capital to support working capital and growth. Liquidity improved largely due to an obligation reclassification, while financing availability and a major expected project phase remain uncertain. The $200,000 license obligation and contractual engine commitment create additional execution and funding risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict",
+    "expect to accelerate",
+    "best-in-class operations",
+    "not intended to represent",
+    "NM/not meaningful"
+  ],
+  "risk_summary": "The excerpt combines detailed transaction and debt disclosures with promotional, forward-looking language and limited quantification of strategic benefits. Key risks include cyclical commodity exposure, PEDv impacts, assumed merger debt, and non-comparable unaudited transition-period results."
+}

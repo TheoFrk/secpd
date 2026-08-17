@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could increase or decrease",
+    "no assurance",
+    "estimated future cash flows",
+    "requires management judgment"
+  ],
+  "risk_summary": "The excerpt is generally specific and data-rich, with substantial quantitative disclosure on production, spending, wells, costs, and impairments. Risk tone is balanced: operating results improved, but exposure to commodity-price volatility, reserve replacement, regulatory obligations, completion-service constraints, and significant estimation judgment remains. Standard forward-looking disclaimers and conditional language introduce moderate caution without indicating an immediate crisis."
+}

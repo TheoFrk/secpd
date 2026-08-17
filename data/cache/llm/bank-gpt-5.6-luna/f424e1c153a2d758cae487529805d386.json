@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "various factors and uncertainties",
+    "broad expansion ambitions",
+    "unquantified funding plans",
+    "total loss of investment warning"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and broad, largely unquantified growth plans, with repeated promotional product claims. Credit risk is materially elevated because management states an immediate and urgent need for capital and a significant risk of failure to continue as a going concern, despite reporting revenue growth."
+}

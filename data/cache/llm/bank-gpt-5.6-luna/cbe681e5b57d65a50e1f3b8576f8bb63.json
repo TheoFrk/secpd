@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.61,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "if available at all",
+    "no assurances",
+    "sufficient cash resources",
+    "materially different"
+  ],
+  "risk_summary": "The excerpt discloses substantial operating and liquidity risks, including dependence on future profitability, credit-line and CEO borrowings, and potentially dilutive financing. Management expresses near-term liquidity confidence but heavily conditions it on uncertain future cash flow and financing availability. Repeated forward-looking disclaimers and conditional language reduce the specificity of the outlook."
+}

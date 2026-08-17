@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "without unreasonable efforts",
+    "may be materially different",
+    "non-GAAP measures",
+    "unfavorable FX impact"
+  ],
+  "risk_summary": "The excerpt is generally quantified and provides segment-level revenue and operating income changes, but relies substantially on non-GAAP measures and omits reconciliation for a forward-looking metric. Performance is mixed, with material declines in U.S. segment organic operating income and exposure to foreign exchange, show rotation, restructuring, and operational changes, partly offset by acquisitions and growth in other segments."
+}

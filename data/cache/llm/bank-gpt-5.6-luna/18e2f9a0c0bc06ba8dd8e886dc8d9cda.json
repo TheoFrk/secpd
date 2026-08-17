@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "difficult to predict when market will improve",
+    "subject to cancellation or delay",
+    "not necessarily representative of actual sales",
+    "omitted from the table",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including revenue, backlog, margins, customer concentration, and deferred revenue. Risk tone is moderately cautious due to cyclical markets, supply-demand imbalance, customer delays, concentration, revenue-recognition timing, and uncertainty around Kingstone’s $6.1 million funding commitment. The omission of Kingstone commitments from the contractual-obligations table warrants additional scrutiny."
+}

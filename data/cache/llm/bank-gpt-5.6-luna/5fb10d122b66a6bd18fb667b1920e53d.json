@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.06,
+  "complexity_score": 0.47,
+  "risk_sentiment": -0.91,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no definitive plan",
+    "questionable ability to raise capital",
+    "reliance on affiliates",
+    "lack of capital"
+  ],
+  "risk_summary": "The disclosure is unusually direct and well quantified, clearly identifying severe liquidity constraints, recurring losses, a large working-capital deficit, reliance on affiliates, and substantial doubt about going-concern viability. The absence of a definitive financing or operating plan and inability to schedule a season indicate acute execution and funding risk."
+}

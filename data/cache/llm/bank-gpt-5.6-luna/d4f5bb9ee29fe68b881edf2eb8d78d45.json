@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "duration and extent remain uncertain",
+    "assumptions we believe to be reasonable",
+    "inherently uncertain and unpredictable",
+    "actual results may differ from estimates"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including revenue, cash flow, acquisition spending, debt issuance, and tax-rate data. Risk tone is mixed: strong operating performance is offset by supply-chain disruption, pandemic uncertainty, increased leverage and interest expense, acquisition-related amortization, and valuation-sensitive estimates. Boilerplate forward-looking disclaimers and uncertain assumptions modestly reduce transparency around downside exposure."
+}

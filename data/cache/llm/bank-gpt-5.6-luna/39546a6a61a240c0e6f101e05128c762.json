@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks are not exhaustive",
+    "not possible to assess all risk factors",
+    "data dependent",
+    "excluded items are unpredictable"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate cautionary language and broad disclaimers that limit specificity regarding future outcomes. It identifies meaningful exposure to interest rates, equity markets, regulation, credit conditions, and assumption changes, including $121 million of unfavorable after-tax unlocking from lower long-term investment yield assumptions. Overall tone is measured and operationally confident but reflects moderate external and model-assumption risk."
+}

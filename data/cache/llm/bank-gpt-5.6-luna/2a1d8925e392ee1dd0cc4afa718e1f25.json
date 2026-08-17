@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "more-likely-than-not realization",
+    "cannot assure you",
+    "future taxable income assumptions",
+    "terms acceptable cannot be determined",
+    "partial reversal of valuation allowance"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on contracts, revenue, cash, tax allowances, and liquidity, but relies on forecasts and conditional language regarding deferred tax asset realization and future financing. The tone is cautiously positive, supported by reported profitability and cash balances, while cumulative-loss history, uncertain future revenue, and potential Section 382 limitations remain material risks."
+}

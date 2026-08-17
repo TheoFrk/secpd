@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measure framing",
+    "not comparable across years",
+    "projected future shipments",
+    "partially offset",
+    "integrated nature of network"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with detailed year-over-year revenue, volume, cost, fuel, and debt metrics. Risk tone is moderately negative because of severe economic weakness, broad volume declines, lower fuel surcharge revenue, and increased leverage, although management provides clear operational explanations and quantified offsets."
+}

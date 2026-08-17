@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "does not believe material resources will be required",
+    "not aware of any factors",
+    "foreseeable future",
+    "at Newtek’s discretion",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is largely quantified and transparent, but indicates weakening operating performance, recurring net losses, negative operating cash flow, reduced working capital, goodwill impairment, and reliance on related-party and inventory-secured financing. Liquidity is vulnerable to lender discretion over reserves, advance rates, and repayment demands, while portions of the disclosure are boilerplate or truncated."
+}

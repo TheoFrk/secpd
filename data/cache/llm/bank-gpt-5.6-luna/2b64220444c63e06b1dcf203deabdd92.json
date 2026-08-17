@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.66,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ",
+    "subjective estimates",
+    "significant uncertainty",
+    "truncated and mismatched disclosure"
+  ],
+  "risk_summary": "The excerpt presents a generally positive growth narrative but relies heavily on broad claims, forward-looking qualifiers, and non-quantified expectations. Accounting estimates, inventory valuation, legal contingencies, and liquidity projections introduce material uncertainty, while the truncated and apparently mismatched prospectus language reduces disclosure clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "little visibility into ordering habits",
+    "large and unpredictable variations in demand",
+    "anticipate seeing some growth",
+    "general market weakness",
+    "forward-looking statement disclaimers"
+  ],
+  "risk_summary": "The disclosure is reasonably specific, with quantified segment, product, sales, liquidity, inventory, and cost information. However, it highlights meaningful demand volatility, limited customer-order visibility, labor and manufacturing inefficiencies, market weakness, and dependence on uncertain future growth while repeatedly using forward-looking disclaimers."
+}

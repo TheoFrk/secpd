@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "numerous assumptions, estimates and adjustments",
+    "various factors",
+    "more likely than not",
+    "does not guarantee future performance"
+  ],
+  "risk_summary": "The disclosure is generally substantive and well quantified, reporting earnings, margins, expenses, capital strength, and multi-year comparisons. Risk is concentrated in loan-loss estimation, securities impairment, goodwill, deferred tax assets, weak economic conditions, problem assets, and elevated funding or regulatory costs. The tone is cautiously positive, emphasizing continued profitability and capitalization while acknowledging persistent credit and macroeconomic pressures."
+}

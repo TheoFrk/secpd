@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "large degree of economic uncertainty remains",
+    "extent of the potential impact ... has yet to be determined",
+    "could significantly impact our capital requirements",
+    "subjective and complex judgment",
+    "not likely to increase in future periods"
+  ],
+  "risk_summary": "The disclosure combines strong earnings claims with acknowledged uncertainty around regulation, persistently low interest rates, capital requirements, and credit-loss estimates. Quantitative detail is substantial, but forward-looking impacts and key assumptions remain partly non-specific, particularly for ALLL, TDRs, and regulatory changes."
+}

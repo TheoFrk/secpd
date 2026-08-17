@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "no assurances",
+    "management judgment and estimates",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and emphasizes uncertainty in loan-loss reserves, fair values, and mortgage servicing rights, where assumptions could materially affect reported results. Despite these valuation and credit-estimation risks, the earnings discussion conveys a generally positive operating trend with quantified increases in net income and earnings per share."
+}

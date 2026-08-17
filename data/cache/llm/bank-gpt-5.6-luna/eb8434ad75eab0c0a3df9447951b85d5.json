@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.43,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "highly successful in obtaining government contracts and grants",
+    "goal of securing up to 5%",
+    "will need to raise additional financing",
+    "substantial doubt about ability to continue",
+    "primarily the result of"
+  ],
+  "risk_summary": "The disclosure is relatively precise about historical results and financing, but the company has recurring operating cash outflows, depends on additional financing, and has an explicit going-concern warning. Management highlights an ambitious potential government-funding opportunity without demonstrating that the targeted funding is secured or probable."
+}

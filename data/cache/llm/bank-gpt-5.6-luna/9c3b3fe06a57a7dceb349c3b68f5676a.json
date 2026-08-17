@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "partially offset by",
+    "excluding unfavorable FX impact",
+    "long multi-factor explanations",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed regional drivers, supporting relatively low vagueness. However, extensive non-GAAP adjustments, layered offsetting explanations, and very long sentences complicate interpretation; reported EPS declined materially and operating conditions were affected by COVID-19, hydrology, outages, rate changes, and impairments."
+}

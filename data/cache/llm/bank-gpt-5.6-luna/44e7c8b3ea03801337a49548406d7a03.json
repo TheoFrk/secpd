@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "partially offset by",
+    "organic growth",
+    "material weaknesses",
+    "internal embezzlement loss"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but relies on recurring boilerplate and omits key drivers after phrases such as “due mainly to” and “partially offset by.” Material risks include an internal embezzlement, misstated subledger data, significant doubtful-account allowances, control remediation costs, Venezuela deconsolidation, and currency exposure."
+}

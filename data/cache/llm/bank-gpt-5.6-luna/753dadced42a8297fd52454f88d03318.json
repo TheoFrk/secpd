@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "may affect future revenues",
+    "primarily due to",
+    "additional allowances may be required",
+    "state-of-the-art; fiber-rich"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on revenue, earnings, debt hedging, subsidies, acquisitions, and access-line losses. Risk is moderate: legacy voice and switched-access revenues are declining, while future offsets depend on broadband growth, bundling, regulatory support, and successful integration. Some forward-looking statements and generic promotional language limit precision regarding downside scenarios."
+}

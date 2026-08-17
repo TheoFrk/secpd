@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "for more information",
+    "not material",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear segment-level revenue and EBITDA changes. Risk signals include a substantial decline in net income, reduced margins, PE Films weakness, and a shift to negative operating cash flow driven partly by a $50 million special contribution. Explanations rely moderately on attribution language and extensive cross-references, while the excerpt omits portions of the supporting tables and discussion."
+}

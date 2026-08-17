@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be reasonably predicted",
+    "there can be no assurance",
+    "could offset impacts",
+    "actual results could differ",
+    "emergence and spread of variants"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosure on COVID-19 revenue concentration, working capital, operating cash flow, and mortgage obligations, but relies substantially on standard uncertainty language regarding reimbursement, pandemic developments, and future growth. Risk tone is moderately negative because COVID-19 demand is declining, working capital decreased, and operating cash flow shifted to a $16.6 million use after a profitable prior year."
+}

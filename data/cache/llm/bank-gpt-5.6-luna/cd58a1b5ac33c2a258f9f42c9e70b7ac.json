@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimers",
+    "known and unknown risks and uncertainties",
+    "cannot be predicted with confidence",
+    "potential adverse effect of COVID",
+    "no obligation to update or revise"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial results, including revenue, margins, regional growth, and discontinued-operations losses. Risk disclosure is heavily hedged and boilerplate in the forward-looking and COVID sections, emphasizing uncertainty around duration, supply availability, economic effects, and future developments without quantifying potential impacts. Overall tone is cautiously positive, supported by operational continuity and earnings growth, but partially offset by pandemic, cost, supply-chain, and retained-liability risks."
+}

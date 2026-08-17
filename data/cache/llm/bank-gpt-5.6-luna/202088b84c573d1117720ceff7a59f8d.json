@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to refund and hearing procedures",
+    "expected to reduce revenues",
+    "significant earnings volatility",
+    "generally offset",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is detailed and includes quantitative operating, regulatory, and project information, but relies on dense segment descriptions and offsetting explanations. Key risks include the Transco rate case, regulatory litigation affecting Regional Energy Access, commodity-derivative volatility, and a $954 million year-over-year decline in attributable net income. Overall tone is operationally confident but tempered by regulatory and earnings-volatility exposures."
+}

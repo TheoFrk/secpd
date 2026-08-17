@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "selectively continuing ongoing and planning",
+    "our goals, when this work is complete",
+    "endeavoring to show preclinical activity",
+    "we presume, but have not yet confirmed",
+    "may contain substantial amounts of unreported impurities"
+  ],
+  "risk_summary": "The excerpt is highly technical and promotional, emphasizing development objectives, regulatory history, and product-quality claims while providing limited quantified evidence of clinical, financial, or commercialization outcomes. Repeated conditional goals and unconfirmed assumptions create material execution, regulatory, manufacturing, and product-quality uncertainty."
+}

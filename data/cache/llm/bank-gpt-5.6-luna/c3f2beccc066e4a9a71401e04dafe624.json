@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "repeated cross-references",
+    "no quantified discussion",
+    "maturity details deferred"
+  ],
+  "risk_summary": "The excerpt provides virtually no substantive MD&A analysis or quantified risk information, instead deferring key details to other documents and pages. This limits transparency regarding borrowings, deposit maturities, liquidity, and contractual obligations."
+}

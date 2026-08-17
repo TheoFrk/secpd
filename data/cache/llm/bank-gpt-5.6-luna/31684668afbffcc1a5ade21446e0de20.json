@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "fixed currency rates",
+    "acquisition-adjusted growth",
+    "significant margin",
+    "qualitative impairment assessment"
+  ],
+  "risk_summary": "The disclosure is comparatively quantitative and transparent, with detailed sales, margin, operating income, EPS, cash flow, and credit-rating metrics. Risk is moderated by positive liquidity and balance-sheet commentary, but margin compression, cost inflation, lower EPS, higher interest expense, and reliance on adjusted measures indicate underlying pressure."
+}

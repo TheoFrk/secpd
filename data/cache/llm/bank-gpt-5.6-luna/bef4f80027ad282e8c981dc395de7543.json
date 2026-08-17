@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "estimated net realizable value",
+    "more likely than not",
+    "major customer concentration"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but includes standard legal safe-harbor language and several management estimates. Operating performance deteriorated materially, with a 10% sales decline, a shift to operating and net losses, margin compression, pricing pressure, customer concentration, and legacy-product weakness. Liquidity appears adequate based on the available credit line and management’s projections, although the excerpt is truncated and omits some supporting tables."
+}

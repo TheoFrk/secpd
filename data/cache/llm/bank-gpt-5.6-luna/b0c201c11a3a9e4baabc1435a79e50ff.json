@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.55,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "expect ... over time",
+    "continued strength",
+    "disciplined growth initiatives",
+    "truncated and misaligned table text"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed revenue, margin, store-growth, acquisition, tax, and litigation figures. Its tone is strongly confident and growth-oriented, though projections depend on continued comparable-store growth, new-store expansion, commodity costs, and successful Starbucks Japan integration. The excerpt contains truncated and duplicated table content that reduces clarity and may obscure portions of the historical results."
+}

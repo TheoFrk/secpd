@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual sales may materially differ",
+    "expect continued improvement",
+    "adjust them as appropriate",
+    "actual outcomes could differ materially",
+    "certain estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, but includes substantial standard MD&A boilerplate and forward-looking qualifications. Risk tone is cautiously constructive, offset by depressed industry sales, high unemployment, housing weakness, refinancing activity, and reliance on estimates and impairment testing."
+}

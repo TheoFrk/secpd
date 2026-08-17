@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.52,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "cannot guarantee",
+    "out of our control",
+    "sensitive to general economic conditions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, reporting strong sales, profitability, cash, and working-capital improvements. Residual risks include dependence on contract renewals, economic conditions, seasonal demand, foreign cash, and weather-related disruptions, with some reliance on optimistic forward-looking language."
+}

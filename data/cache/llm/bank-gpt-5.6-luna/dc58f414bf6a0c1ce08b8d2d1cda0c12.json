@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.55,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "assumptions, risks, and uncertainties",
+    "not necessarily indicative of future results",
+    "ongoing efficiencies",
+    "favorable volume and rate variances"
+  ],
+  "risk_summary": "The excerpt presents a generally positive performance narrative supported by extensive quantitative metrics, including revenue, earnings, loan growth, capital, and margin improvements. Risk disclosure is largely standardized and heavily caveated, with limited discussion of specific downside exposures in the provided section. Repeated strategic language and forward-looking disclaimers add boilerplate and modestly reduce transparency."
+}

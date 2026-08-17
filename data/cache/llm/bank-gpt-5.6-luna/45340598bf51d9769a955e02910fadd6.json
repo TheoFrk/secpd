@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "primarily attributed to",
+    "partially offset",
+    "excluding acquisitions and foreign currency",
+    "indefinitely reinvested"
+  ],
+  "risk_summary": "The excerpt is highly quantified and attributes results to identifiable drivers, but reports broad-based sales and margin deterioration, including weakness in oil and gas, agriculture, and several international markets. Repeated emphasis on adjusted/non-GAAP measures and offsetting factors may soften the presentation of weaker GAAP performance. Overall tone is factual and moderately negative rather than crisis-like."
+}

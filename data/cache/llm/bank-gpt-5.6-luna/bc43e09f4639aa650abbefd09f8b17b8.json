@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.47,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "increasingly intense competition",
+    "significant retailer loss",
+    "non-recurring favorable contract"
+  ],
+  "risk_summary": "The disclosure is relatively precise and quantitatively detailed, but reports substantial deterioration: net sales fell 33.9%, gross profit fell 62.1%, the company incurred a $5.0 million net loss, and cash declined. Competitive pressure, loss of major customers, an impairment charge, and reliance on non-recurring favorable contract effects indicate elevated operating and earnings risk. Optimistic statements about product relevance and diversification are partly offset by extensive forward-looking safe-harbor language."
+}

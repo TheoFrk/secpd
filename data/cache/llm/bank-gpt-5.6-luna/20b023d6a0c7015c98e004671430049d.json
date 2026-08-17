@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and outside of our control",
+    "difficult or impossible to anticipate",
+    "non-GAAP financial measures",
+    "primarily due to",
+    "certain other items"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed reconciliations, but relies on extensive non-GAAP adjustments and boilerplate uncertainty language. Operating profit and net income declined materially, restructuring and impairment-related charges increased, and leverage covenant requirements indicate meaningful financial risk. The excerpt also identifies ongoing COVID-19, demand, input-cost, foreign-exchange, and refinancing uncertainties."
+}

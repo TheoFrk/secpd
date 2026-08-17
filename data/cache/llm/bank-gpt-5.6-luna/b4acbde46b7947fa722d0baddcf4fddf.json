@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expects revenues to remain consistent",
+    "could impact results",
+    "subject to PPUC approval",
+    "largely determined by",
+    "if this were to happen"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantified operating and financial data. Risk tone is cautiously positive, although it acknowledges sensitivity to weather, regulatory actions, pension assumptions, customer usage, and rising operating costs. Forward-looking statements rely on moderate hedging regarding rates, taxes, expenses, and market conditions."
+}

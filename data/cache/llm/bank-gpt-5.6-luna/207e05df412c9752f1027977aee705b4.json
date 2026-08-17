@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "highly uncertain and cannot be predicted",
+    "no obligation to update",
+    "non-GAAP measure limitations",
+    "excess cash above FDIC insurance limit"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, but is heavily surrounded by repetitive legal disclaimers and broad uncertainty language. Key risks include a $7.2 million net loss, $3.9 million operating cash burn, declining vapor sales, regulatory and competitive pressures, litigation-related costs, and uninsured cash concentrations."
+}

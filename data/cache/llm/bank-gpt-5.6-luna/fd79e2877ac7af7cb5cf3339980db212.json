@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.0,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "refer to separate MD&A",
+    "long entity enumeration",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides no financial, operational, liquidity, or risk information and merely redirects the reader to another section. Its extensive entity listing adds structural complexity without substantive content, preventing meaningful assessment of underlying credit risk."
+}

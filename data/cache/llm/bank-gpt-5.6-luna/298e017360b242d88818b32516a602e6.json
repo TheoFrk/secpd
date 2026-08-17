@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "no assurance that risk factors are complete",
+    "impact is being evaluated",
+    "reasonable and supportable forecasts",
+    "may differ materially"
+  ],
+  "risk_summary": "The disclosure is generally constructive and includes useful quantified capital, earnings, tax, and credit-loss information, but it relies heavily on standard forward-looking disclaimers and management estimates. Key uncertainties include the unresolved tax treatment of the dissolved captive, ACL estimation assumptions, changing interest rates, and the possibility that recent non-interest revenue growth normalizes."
+}

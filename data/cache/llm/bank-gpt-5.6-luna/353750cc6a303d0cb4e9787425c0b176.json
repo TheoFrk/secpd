@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "anticipate utilities will continue to evaluate",
+    "we project over $30 million",
+    "subjective assumptions",
+    "failure of certain financial covenants",
+    "other reasonable assumptions could result in different fair values"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenues, costs, financing, covenants, and projected sales, but relies on optimistic adoption and compliance assumptions. Covenant breaches, substantial high-cost convertible debt, warrant dilution, volatile utility operations, and significant reliance on estimates indicate elevated liquidity, execution, and financing risk."
+}

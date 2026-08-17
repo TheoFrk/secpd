@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "potential future payments",
+    "reasonable and supportable projections",
+    "significantly impacted after December 31, 2013"
+  ],
+  "risk_summary": "The disclosure contains substantial boilerplate forward-looking language and relies on management judgments and projections, although it provides several specific revenue, royalty, acquisition, and payment figures. Key risks include dependence on a limited customer base, expiration of Bristol royalty payments after December 31, 2013, historical cumulative losses, and uncertainty around Pfizer milestones and future product development."
+}

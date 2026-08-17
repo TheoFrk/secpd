@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "tables omitted",
+    "broad array of products and services",
+    "additional financial measures",
+    "may differ from other companies",
+    "rounded numbers for disclosure purposes"
+  ],
+  "risk_summary": "The excerpt is largely introductory and boilerplate, with limited quantified performance or risk information because the referenced tables are absent. It provides methodological and non-GAAP disclaimers but does not identify specific adverse trends, exposures, or emerging credit risks."
+}

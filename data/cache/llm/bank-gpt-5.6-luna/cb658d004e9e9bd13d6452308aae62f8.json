@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "among other things",
+    "could have a material impact",
+    "not subject to accurate forecasting",
+    "unless offset by",
+    "non-GAAP discussion and analysis"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified, including revenue declines, COVID-19 effects, impairment charges, restructuring costs, and segment performance. Risk tone is moderately negative because of pandemic-related uncertainty, economic contraction, volatile case volumes, and material potential impacts on future results. Lengthy explanations, accounting terminology, and repeated segment-performance framing increase complexity but do not appear strongly evasive."
+}

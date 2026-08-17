@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks beyond our control",
+    "duration and severity uncertainties",
+    "ability to achieve strategic goals",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily reliant on standardized forward-looking risk language and extensive contingencies, limiting precision about potential downside magnitude and timing. It provides some useful quantitative detail on segment mix, acquisitions, dividends, reserves, and margin targets, while indicating ongoing supply-chain, inflation, pandemic, and execution risks. Overall tone is cautiously negative on external uncertainties but balanced by claims of operational continuity and transformation objectives."
+}

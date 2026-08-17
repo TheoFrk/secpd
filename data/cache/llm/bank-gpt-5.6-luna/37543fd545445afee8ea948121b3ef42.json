@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "non-GAAP performance emphasis",
+    "uneven order activity",
+    "cannot estimate settlement years",
+    "foreseeable future",
+    "market weakness monitored"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful operating, backlog, cash flow, debt, and market information, but relies heavily on adjusted EBITDA and other non-GAAP measures. Risk exposure is moderate, with disclosed weakness in energy, freight rail, commodity volumes, project timing, supply chains, and uncertain long-term liabilities, while management maintains a generally confident liquidity and growth outlook."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "cannot be fully predicted",
+    "management’s estimate and judgment",
+    "deemed adequate by management",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including quantified provisions, margin trends, branch closures, and business wind-down activities. Risk tone is moderately negative due to inflation, rising rates, unrealized investment losses, borrower stress, deteriorating ALC credit quality, and increased loan-loss provisions. Some uncertainty is framed through standard forward-looking disclaimers and management-based adequacy judgments."
+}

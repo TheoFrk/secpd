@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management considers adequate",
+    "as needed",
+    "other risk factors",
+    "qualitative factors",
+    "may be necessary"
+  ],
+  "risk_summary": "The disclosure provides substantial detail on allowance methodology, impairment testing, collateral valuation, and review controls, but relies materially on management judgment, qualitative adjustments, and changing economic assumptions. Credit risk is acknowledged, particularly for real estate values and acquired loans, without presenting the underlying reserve amounts or sensitivity impacts in this excerpt."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "no assurance",
+    "difficult to forecast",
+    "material adverse effect",
+    "outside the Company’s control"
+  ],
+  "risk_summary": "The company reports positive liquidity, no debt, and modest revenue growth, but has no bank credit lines and relies on operating cash flows. Future performance is exposed to subscriber retention, revenue volatility, rising costs, supplier dependence, competition, technology risks, and macroeconomic conditions. The risk discussion is comprehensive but heavily boilerplate and relies on broad conditional language rather than quantified sensitivity analysis."
+}

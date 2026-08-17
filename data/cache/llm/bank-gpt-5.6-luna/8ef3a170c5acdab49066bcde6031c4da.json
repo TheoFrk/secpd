@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "principally due to",
+    "primarily due to",
+    "please see the section",
+    "non-routine transactions",
+    "no standardized definitions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and favorable performance narrative, supported by extensive quantitative disclosure on revenue, earnings, loan growth, capital, and provisions. Risk visibility is somewhat limited by repeated attribution to broad factors such as rising rates, periodic re-estimations, and non-routine items, while the discussion of non-GAAP tangible capital measures notes comparability limitations."
+}

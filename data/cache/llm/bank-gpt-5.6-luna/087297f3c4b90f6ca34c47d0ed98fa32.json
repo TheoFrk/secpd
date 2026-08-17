@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance",
+    "may differ materially",
+    "among other things",
+    "undertake no obligation to update"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on leasing, occupancy, expirations, development, and debt refinancing, but begins with extensive boilerplate forward-looking disclaimers and broad, non-quantified risk factors. Operating performance is presented in a generally favorable tone, although declining occupancy, known non-renewal exposure, refinancing costs, and dependence on defense and data-center demand create material risks."
+}

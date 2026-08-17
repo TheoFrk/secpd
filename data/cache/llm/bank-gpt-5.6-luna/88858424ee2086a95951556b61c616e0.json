@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.78,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "constant currency adjustments",
+    "excluding strategic gains and charges",
+    "management believes",
+    "underlying business trends"
+  ],
+  "risk_summary": "The excerpt presents strong, highly quantified 2021 operating and cash-flow performance with a confident management tone. Potential presentation risk arises from extensive reliance on non-GAAP metrics, constant-currency adjustments, and exclusions of strategic gains, charges, and tax impacts, which may make underlying performance less directly comparable."
+}

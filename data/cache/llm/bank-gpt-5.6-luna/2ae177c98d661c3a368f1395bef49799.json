@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future results may differ from estimates",
+    "based on assumptions about future demand",
+    "outside of our control",
+    "primarily due to",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but relies on management estimates, historical assumptions, and conditional language regarding returns, inventory, impairment, and supply interruptions. Risk tone is moderately negative because fiscal 2016 showed declining sales, gross margins, and operating income, with currency, promotional, product-mix, and off-price pressures. The truncated text limits assessment of the full disclosure context."
+}

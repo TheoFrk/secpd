@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "underlying revenue measure",
+    "effective tax rate may vary significantly",
+    "depends on estimates of realizability",
+    "primarily reflecting"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding revenue, operating income, debt issuance, tax charges, and earnings-per-share impacts. Key risks include substantial tax reform and pension charges, foreign-exchange and acquisition effects, jurisdictional tax uncertainty, and reliance on estimates for deferred tax asset realization."
+}

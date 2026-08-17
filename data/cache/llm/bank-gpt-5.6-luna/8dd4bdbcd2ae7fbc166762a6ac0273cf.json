@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believe we can mitigate costs over time",
+    "strong operational, financial and reputational position",
+    "scalable foundation",
+    "exciting market-based application opportunities",
+    "uncertain economic outlook"
+  ],
+  "risk_summary": "The company reports modest sales contraction and materially lower net income and EPS, driven by COVID-19 effects, supply-chain disruption, tariffs, and acquisition-related expenses. Management maintains a cautiously positive outlook based on backlog, market diversification, and expected efficiency gains, but several forward-looking claims are qualitative and dependent on uncertain market conditions. Liquidity is positive, although most cash is held by foreign entities and inventory increased due to demand shifts and supply-security efforts."
+}

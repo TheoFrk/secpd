@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily due to",
+    "no guarantee of success",
+    "non-GAAP adjusted net income",
+    "material negative or positive effect"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and explains year-over-year changes, cash resources, merger-related expenses, and non-GAAP adjustments. Risk tone is mixed: profitability and liquidity improved, but sales and margins declined and supply-chain, labor, inventory, investment, and tax uncertainties could pressure results. The excerpt contains standard forward-looking and accounting-policy boilerplate, with some discussion truncated."
+}

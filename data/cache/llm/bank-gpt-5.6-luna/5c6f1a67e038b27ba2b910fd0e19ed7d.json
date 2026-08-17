@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant risks and uncertainties",
+    "could cause actual results to differ materially",
+    "effects of or changes in",
+    "certain items management deems unusual or non-recurring",
+    "reasonable levels"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative disclosures on PPP lending, net interest margin, loan-loss estimation, and collateral valuation. However, it contains substantial standard forward-looking-statement disclaimers and management-judgment language, while the excerpt is truncated and does not fully quantify key credit-risk exposures. Overall tone is cautious but not crisis-like."
+}

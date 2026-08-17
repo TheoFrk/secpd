@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "historical information not directly comparable",
+    "may limit our ability",
+    "could increase interest expense",
+    "no intention to repatriate",
+    "subject to insignificant deferred and contingent consideration"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with clear revenue, margin, acquisition, litigation, tax, liquidity, and covenant disclosures. Risk tone is mildly negative because of declining gross margins, weaker organic growth, refinancing and credit-access risks, foreign cash restrictions, and only modest debt-service covenant headroom. Dense financial and legal terminology reduces readability but does not appear materially evasive."
+}

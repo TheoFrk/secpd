@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor disclaimer",
+    "actual results could be materially different",
+    "subjective judgment and estimates",
+    "under adversely different conditions",
+    "expects to incur no losses"
+  ],
+  "risk_summary": "The disclosure is detailed and includes quantified non-performing loan trends, but relies heavily on standard forward-looking disclaimers and judgment-based assumptions regarding loan-loss allowances, collateral values, OTTI, and goodwill impairment. Credit indicators improved year over year, although material exposure remains to borrower performance, real estate values, economic conditions, and the accuracy of credit-enhancement assumptions."
+}

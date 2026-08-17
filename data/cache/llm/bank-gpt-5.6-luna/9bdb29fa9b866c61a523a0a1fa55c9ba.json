@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "partially offset",
+    "generally recognized",
+    "other expenses",
+    "striving to provide"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively supported, with detailed year-over-year drivers, fuel exposure, debt levels, and tax rates. Operational risks include network congestion, hiring challenges, deteriorating velocity and dwell metrics, inflation, labor-related charges, and higher leverage. Boilerplate and non-GAAP framing are present but do not substantially obscure the disclosure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "factors beyond the Company’s control",
+    "could cause actual results to differ materially",
+    "does not undertake to update",
+    "under adversely different conditions"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and broad, largely unquantified risk factors. Credit risks are acknowledged through potential increases in loan-loss allowances, collateral-value declines, borrower refinancing risk, and CECL-related volatility, but management presents current positions as reasonable and not materially adverse."
+}

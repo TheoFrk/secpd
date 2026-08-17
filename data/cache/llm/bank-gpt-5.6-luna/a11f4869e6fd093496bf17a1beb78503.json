@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "vendor production and delivery issues",
+    "customer cancellation charges",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with clear segment-level revenue, cost, margin, tax, and acquisition details. Risk tone is mildly negative because gross margins and net income declined despite sales growth, driven by launch costs, vendor issues, customer cancellations, and higher tax expense. The excerpt is truncated and contains a duplicated or incomplete passage, limiting assessment of the full risk discussion."
+}

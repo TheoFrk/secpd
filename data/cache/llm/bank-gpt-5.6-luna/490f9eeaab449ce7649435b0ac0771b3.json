@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "pending regulatory appeals",
+    "cannot predict outcome",
+    "subject to regulatory approval",
+    "additional losses may be recorded",
+    "missing table content"
+  ],
+  "risk_summary": "The disclosure is detailed and materially quantified, but highlights significant regulatory uncertainty, potential disallowances, and additional losses tied to pending appeals. The company presents its positions assertively while acknowledging adverse scenarios, including a potential $146.1 million write-off and further losses if resolution is delayed."
+}

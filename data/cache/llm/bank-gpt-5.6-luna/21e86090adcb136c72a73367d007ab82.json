@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "restated prior period errors",
+    "actual results could differ materially",
+    "estimates and assumptions",
+    "subject to changes",
+    "impairment testing"
+  ],
+  "risk_summary": "The excerpt is generally transparent, with substantial quantitative disclosure on margins, expenses, restructuring, and segment operations. Risk is moderated by the prior-period restatement and reliance on subjective estimates for receivables, inventory, asset values, goodwill, and impairments, while the overall operating tone remains cautiously positive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "many factors not anticipated by management",
+    "adjusted/non-GAAP measures",
+    "underlying business performance",
+    "stable cash flow regardless of economic environment"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and reports strong year-over-year performance, pricing gains, cash-flow stability, and project financing. Risk disclosure is largely standardized, while extensive use of adjusted metrics and positive management framing may reduce comparability with GAAP results and emphasize favorable trends."
+}

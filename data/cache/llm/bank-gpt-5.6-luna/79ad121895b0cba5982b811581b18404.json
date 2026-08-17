@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.05,
+  "complexity_score": 0.35,
+  "risk_sentiment": 0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "set forth on pages 107 through 125",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and redirects readers to another document section. This is procedurally precise but limits standalone transparency."
+}

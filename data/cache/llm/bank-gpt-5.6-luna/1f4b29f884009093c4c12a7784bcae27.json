@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot assure",
+    "subject to seasonal or general economic conditions",
+    "no obligation to update",
+    "qualified third-party capacity"
+  ],
+  "risk_summary": "The excerpt is relatively specific and quantitatively detailed, but contains extensive standard forward-looking-statement disclaimers and multiple conditional caveats. Key risks include fuel-price exposure, driver and capacity shortages, self-insured claims, customer failures, regulatory costs, and limited long-term capacity contracts. The tone is operationally neutral to mildly cautious rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of additional capital",
+    "foreseeable future losses",
+    "materially different estimates",
+    "not able to continue operations"
+  ],
+  "risk_summary": "The disclosure is unusually explicit about severe liquidity risk, recurring losses, limited sales, inventory impairments, debt funding dependence, and potential inability to continue operations. Although key historical figures and financing amounts are quantified, extensive boilerplate and forward-looking caveats reduce clarity regarding the timing and probability of remediation."
+}

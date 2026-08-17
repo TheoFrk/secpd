@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties and assumptions",
+    "other unknown effects of the pandemic",
+    "expected to continue through at least",
+    "significant judgments and estimates",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and reports strong revenue, earnings, cash flow, and demand trends, but it also identifies material exposure to supply-chain disruptions, labor shortages, inflation, vehicle availability, and pandemic effects. Forward-looking expectations are hedged and rely on multiple uncertain assumptions, while repeated boilerplate and extensive business terminology reduce readability."
+}

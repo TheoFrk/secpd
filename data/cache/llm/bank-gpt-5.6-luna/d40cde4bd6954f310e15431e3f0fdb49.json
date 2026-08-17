@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "numerous events",
+    "subject to revision",
+    "significant impact",
+    "100% valuation allowance",
+    "note receivable recovery"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on liquidity, operations, reserves, and accounting estimates, but relies on broad caveats around reserve valuations, impairment, recoverability, and receivables. Risk is elevated by prior full-cost ceiling write-downs, a fully reserved deferred tax asset, dependence on commodity prices, and unusually large recoveries on a $10 million note receivable."
+}

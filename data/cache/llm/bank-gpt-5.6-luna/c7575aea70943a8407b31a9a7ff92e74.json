@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may differ materially",
+    "management’s estimates and assumptions",
+    "subject to change",
+    "customary valuation procedures and techniques"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but includes substantial standard forward-looking and valuation-disclaimer language. Risk is elevated by a 17% revenue decline, materially lower margins, weaker COVID-related demand, market headwinds, and exposure to contingent receivables and impairment estimates, although management maintains a generally confident outlook."
+}

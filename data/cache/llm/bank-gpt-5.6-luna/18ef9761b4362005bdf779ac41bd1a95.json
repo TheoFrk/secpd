@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.26,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "we believe",
+    "including but not limited to",
+    "cost reduction initiatives"
+  ],
+  "risk_summary": "The excerpt is generally quantified and provides segment-level explanations, but results show materially weaker revenues, EBITDA, operating income, and a net loss, along with goodwill impairments and exposure to oil, industrial, commodity, and currency pressures. Management emphasizes acquisitions, cost reductions, and organizational changes, which moderates the otherwise negative risk tone."
+}

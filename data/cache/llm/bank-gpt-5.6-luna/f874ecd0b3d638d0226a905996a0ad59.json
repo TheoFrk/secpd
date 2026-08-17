@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management deems adequate",
+    "highly sensitive to changes",
+    "could impact materially",
+    "a number of assumptions",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative loan and acquisition information, but relies heavily on management estimates, assumptions, and conditional impairment judgments. Credit risk is elevated by exposure to commercial and real estate lending, changing economic conditions, and the decline of FDIC loss-share protection, although the tone remains controlled and moderately confident."
+}

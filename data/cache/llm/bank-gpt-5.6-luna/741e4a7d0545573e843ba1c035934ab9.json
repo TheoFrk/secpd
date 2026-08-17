@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot presently estimate specific future payment dates",
+    "subject to certain conditions",
+    "potentially for third-party products",
+    "deferred license fee payments"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and unquantified technology and commercialization claims. Videocon payments have been deferred, no payments were received in fiscal 2011, and future payment timing remains indeterminate, creating collection and execution risk. License arrangements and technical-development obligations are described in lengthy, complex language with repeated passages."
+}

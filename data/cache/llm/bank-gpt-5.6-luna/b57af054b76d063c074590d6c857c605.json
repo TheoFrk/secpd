@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe-harbor boilerplate",
+    "potential future operations",
+    "new joint venture opportunities",
+    "stable cash flow and operating base",
+    "without seeking dilutive additional funding"
+  ],
+  "risk_summary": "The company reports minimal revenue, substantial liabilities exceeding $1.0 million, and a stockholders’ deficit exceeding $1.0 million, indicating severe financial weakness. Liquidity depends on distributions from a single investment and uncertain future opportunities, while the discussion provides limited concrete support for refinancing or sustainable operations."
+}

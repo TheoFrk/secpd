@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "does not believe ... indicates a specific trend",
+    "might be required to implement further cost cutting",
+    "expected to continue",
+    "might not be a reliable indicator",
+    "primarily reflecting"
+  ],
+  "risk_summary": "The disclosure is generally well quantified and reconciles year-over-year operating and cash-flow changes, but it highlights weakening bookings, a declining backlog, dependence on defense-program timing, and lower product yields. Conditional language around order declines and potential downsizing limits the specificity of forward-looking risk assessment. Current profitability and operating cash flow provide some offset, although the excerpt is mixed with boilerplate audit and financial-statement material."
+}

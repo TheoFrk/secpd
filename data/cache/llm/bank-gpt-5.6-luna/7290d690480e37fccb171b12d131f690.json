@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may prove to be inaccurate",
+    "could adversely affect",
+    "qualitative judgment",
+    "additional provisions could be required"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, including earnings, loan, deposit, securities, and credit-loss information. Risk disclosure focuses on judgment-sensitive allowance estimates and potential adverse effects if outcomes differ from forecasts, but the overall tone is moderately positive due to improved profitability and liquidity."
+}

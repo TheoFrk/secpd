@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.45,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "may provide a healthier foundation",
+    "we expect",
+    "table/excerpt artifacts",
+    "incomplete financial discussion"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, describing strong revenue, margin, backlog, capital-raising, and profitability improvements. It acknowledges housing-market variability, rising mortgage rates, consumer-confidence weakness, elevated debt-related interest expense, and reliance on continued market recovery. Disclosure quality is reduced by extraction artifacts, duplicated or misplaced text, and an incomplete ending."
+}

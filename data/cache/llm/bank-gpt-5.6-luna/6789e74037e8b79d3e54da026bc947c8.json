@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-exhaustive risk factors",
+    "materially differ",
+    "management estimates and judgments",
+    "disclaims obligation to update",
+    "full valuation allowance"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate in its forward-looking disclaimer and emphasizes numerous unquantified risks, estimates, and contingencies. Revenue recognition, inventory valuation, and deferred tax assets involve potentially material judgment, including a full valuation allowance on U.S. deferred tax assets. Overall tone is cautious but not crisis-like, with limited quantified impact analysis."
+}

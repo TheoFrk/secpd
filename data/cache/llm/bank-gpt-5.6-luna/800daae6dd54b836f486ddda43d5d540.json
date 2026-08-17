@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "not an exhaustive list",
+    "materially different",
+    "difficult to predict",
+    "do not undertake any obligation",
+    "current expectations, estimates and projections"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, non-ranked catalog of potential risks, which limits specificity about probability and financial impact. However, the operating and economic discussion includes substantial quantitative detail and presents a generally stable-to-positive performance tone, tempered by credit, interest-rate, liquidity, concentration, and pandemic-related risks."
+}

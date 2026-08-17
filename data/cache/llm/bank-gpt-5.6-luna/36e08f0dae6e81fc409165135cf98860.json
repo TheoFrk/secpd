@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "discontinued operations exclusions",
+    "indemnification for certain losses",
+    "economic conditions continue to weaken",
+    "tuition discounting and lower pricing"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, but extensive exclusions for divested businesses and reliance on non-GAAP measures complicate comparability with reported results. Key risks include Brazilian macroeconomic weakness, regulatory and enrollment sensitivity, lower online-program pricing, and contingent indemnification obligations. Overall tone is moderately constructive but acknowledges operational and financial pressure points."
+}

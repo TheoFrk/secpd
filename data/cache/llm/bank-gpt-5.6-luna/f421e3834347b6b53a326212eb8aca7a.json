@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risk, uncertainties, and other factors",
+    "assumptions and methodologies ... reasonable",
+    "may not be indicative",
+    "subject to a borrowing base"
+  ],
+  "risk_summary": "The excerpt uses substantial standard legal and definitional boilerplate, with extensive cross-references and qualified statements that limit interpretability. Liquidity disclosure is moderately reassuring, citing cash flows and a $175 million ABL facility, but reliance on seasonality, borrowing-base availability, transitional parent-company arrangements, and uncertain standalone costs introduces meaningful execution and liquidity risk."
+}

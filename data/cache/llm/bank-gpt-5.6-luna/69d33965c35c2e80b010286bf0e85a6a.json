@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "mixed operating environment",
+    "among other things",
+    "we believe",
+    "may continue to negatively affect",
+    "it is possible they may worsen"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear year-over-year operating, liquidity, cash flow, margin, and backlog metrics. Risk is present through lower revenues, margins, earnings, deliveries, and backlog, plus sensitivity to mortgage rates, concessions, supply-chain issues, and tax changes, but management maintains a generally constructive tone based on liquidity and improving demand trends."
+}

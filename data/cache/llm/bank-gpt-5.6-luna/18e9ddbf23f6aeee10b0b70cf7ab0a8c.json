@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor and cautionary language",
+    "numerous assumptions, risks and uncertainties",
+    "significant management judgment",
+    "could produce significantly different results",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and investment information, but includes extensive forward-looking safe-h harbor language and relies on management judgment for valuations, impairments, policy liabilities, and derivatives. Reported earnings were positive, although results remain sensitive to foreign exchange movements, market valuations, credit conditions, and actuarial assumptions."
+}

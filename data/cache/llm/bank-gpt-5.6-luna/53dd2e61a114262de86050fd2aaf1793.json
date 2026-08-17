@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "unable to state with certainty",
+    "where management deems appropriate",
+    "historical experience and other factors",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified balance-sheet data, but relies on standard boilerplate and broad management judgments for critical estimates. Key risk signals include a 10.5% decline in deposits, a significant increase in FHLB borrowings, high loan concentration, and sensitivity of credit-loss and servicing-rights valuations to uncertain forecasts and assumptions."
+}

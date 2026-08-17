@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future growth expectations",
+    "if the industry downturn continues",
+    "materially and adversely affect",
+    "single enterprise reporting",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on production economics, acquisitions, divestitures, revenues, and losses, but relies on optimistic forward-looking language regarding growth, liquidity, and operational momentum. Key risks include depressed and volatile commodity prices, dependence on drilling economics, merger integration, derivatives exposure, and limited area-level financial reporting. Overall tone is cautiously positive despite meaningful industry and commodity-price risk."
+}

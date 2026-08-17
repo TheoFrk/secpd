@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "actual results may differ materially",
+    "various other assumptions",
+    "single source or limited suppliers",
+    "not readily apparent from other sources"
+  ],
+  "risk_summary": "The excerpt is generally standard and quantitatively supported, but includes substantial boilerplate around forward-looking statements and subjective accounting estimates. Key risks include supplier concentration, debt and rising interest expense, intangible impairment, restructuring costs, and exposure to demand and manufacturing conditions in Asia. Management maintains a generally constructive tone, although the disclosures acknowledge material uncertainty and downside sensitivity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "fundamentally outside of our control",
+    "often unpredictable",
+    "could significantly affect",
+    "inherently uncertain",
+    "not reasonably estimate the timing or amount"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed segment, unit, revenue, and cost metrics. It identifies meaningful exposure to labor, commodity, insurance, inflation, consumer demand, and franchise-related volatility, while maintaining a mildly positive tone based on sales growth and post-pandemic recovery. Critical estimates and uncertain tax-payment timing introduce some residual uncertainty."
+}

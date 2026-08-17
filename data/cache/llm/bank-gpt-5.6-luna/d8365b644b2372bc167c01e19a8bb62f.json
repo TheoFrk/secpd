@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we expect",
+    "we believe",
+    "not indicative of ongoing performance",
+    "significant judgment",
+    "may incur additional impairment losses"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, margins, cash flow, debt reduction, restructuring savings, and transaction terms, but includes extensive legal and accounting boilerplate. Key risks include supply constraints, reliance on third-party foundries, subjective impairment and tax estimates, and potentially recurring future losses that management qualifies with forward-looking language."
+}

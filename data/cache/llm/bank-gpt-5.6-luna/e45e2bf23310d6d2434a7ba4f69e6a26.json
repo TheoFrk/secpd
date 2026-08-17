@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to assumptions, risks and uncertainties",
+    "no assurances can be given",
+    "customary covenants and events of default",
+    "non-GAAP measures with inherent limitations"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and legal disclaimer language, limiting precision around future performance and liquidity. Quantified cash, covenant, debt, dividend, and preferred-stock redemption information provides some transparency, while management expresses cautious confidence in funding operations for at least the next 12 months."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.91,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "oral understanding",
+    "assuming acquisition closes",
+    "may be unable to continue",
+    "additional financing required"
+  ],
+  "risk_summary": "The disclosure is unusually explicit about severe liquidity distress: approximately $30,000 in cash and Bitcoin versus $2.7 million of near-term indebtedness, no working capital, and a stated likelihood of ceasing operations if the acquisition or financing fails. Substantial doubt about going-concern status is clearly acknowledged, although reliance on an acquisition and oral financing understandings creates significant execution uncertainty."
+}

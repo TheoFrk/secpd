@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "we believe",
+    "expected to result",
+    "refranchising-related cash flow decline"
+  ],
+  "risk_summary": "The excerpt provides several quantified operating metrics, but balances adverse developments—particularly a roughly 55% decline in operating cash flow and free cash flow and continuing IHOP same-restaurant sales declines—with optimistic strategic language. Extensive forward-looking disclaimers and reliance on generalized claims about franchising benefits reduce transparency regarding execution and future performance risks."
+}

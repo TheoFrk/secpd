@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "subject to risks and uncertainties",
+    "mid-single digit growth",
+    "largely dependent on marine retail demand",
+    "lower restructuring charges"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with clear year-over-year operating, restructuring, debt, tax, and segment information. Risk remains moderate due to substantial restructuring history, marine-market dependence, debt-related costs, and reliance on forecasted growth and lower future charges. The overall tone is cautiously positive, emphasizing restored profitability and operational improvements while acknowledging material uncertainties."
+}

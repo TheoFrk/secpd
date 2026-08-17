@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "reasonable but uncertain and unpredictable",
+    "ample sensitivity ranges",
+    "substantial excess of fair value",
+    "qualitative impairment assessment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, goodwill balances, impairment testing, and valuation methods, but relies heavily on management assumptions and forward-looking estimates. COVID-19, foreign exchange pressure, declining organic sales, and goodwill impairment sensitivity represent meaningful risks, although management reports substantial valuation cushions and no identified impairment."
+}

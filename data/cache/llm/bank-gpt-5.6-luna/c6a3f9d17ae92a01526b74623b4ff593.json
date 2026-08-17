@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "best estimate",
+    "variety of factors beyond our control",
+    "do not undertake any obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily standardized and precautionary, emphasizing broad macroeconomic, credit, regulatory, cyber, geopolitical, and operational risks without quantifying likely impacts. Credit-loss estimation relies substantially on subjective judgments, forecasts, and factors outside management’s control, although some subsequent MD&A discussion provides concrete performance figures."
+}

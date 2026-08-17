@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "could have a material impact",
+    "based on market forecasts and other economic conditions",
+    "beyond our control",
+    "independent third-party valuation"
+  ],
+  "risk_summary": "The disclosure identifies material estimation risk in ALLL, MSR, and OREO valuations, particularly from credit losses, collateral recovery, prepayment speeds, discount rates, and market conditions. Results were presented positively with record earnings and quantified growth, but the COVID-19 disruption and substantial reliance on subjective assumptions create meaningful downside uncertainty."
+}

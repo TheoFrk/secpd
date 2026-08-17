@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.55,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "difficult or impossible to predict",
+    "no assurance",
+    "reduction in ownership interest",
+    "cleaning up other expenses"
+  ],
+  "risk_summary": "The company presents severe liquidity and solvency risk, with only $16 of cash, a $229,880 working-capital deficit, negative stockholders’ equity, and a $301,445 net loss. Although losses and expenses declined, the business appears dependent on asset interests and shareholder capital, while extensive forward-looking disclaimers emphasize uncertainty."
+}

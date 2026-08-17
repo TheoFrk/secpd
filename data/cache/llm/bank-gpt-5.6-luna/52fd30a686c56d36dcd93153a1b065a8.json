@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to numerous risks",
+    "may differ materially",
+    "as necessary to manage risks",
+    "uncertain consumer credit availability",
+    "primarily due to market share gains"
+  ],
+  "risk_summary": "The disclosure is relatively quantified and transparent about sales, margins, segment performance, acquisitions, currency effects, and raw-material exposure. It uses standard forward-looking disclaimers and some broad causal explanations, while highlighting meaningful sensitivity to economic cycles, consumer credit, commodity costs, supply disruptions, and execution of growth initiatives. Overall tone is cautiously positive, supported by reported growth, but underlying risks remain material."
+}

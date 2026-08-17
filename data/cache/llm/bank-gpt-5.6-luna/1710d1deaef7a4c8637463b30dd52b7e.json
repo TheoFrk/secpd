@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could materially differ",
+    "factors over which the Company has little or no control",
+    "may be required to record",
+    "amounts ultimately realize or disburse could differ",
+    "not possible to quantify the impact"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, reporting strong sales, earnings and cash-flow improvement, but it includes substantial standard forward-looking caveats and sensitivity to consumer spending, economic conditions, weather and impairment assumptions. Historical goodwill impairment and potential future asset write-downs indicate meaningful downside exposure despite management’s optimistic outlook."
+}

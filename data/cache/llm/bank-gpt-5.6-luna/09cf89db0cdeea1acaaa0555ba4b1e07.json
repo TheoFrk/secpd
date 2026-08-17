@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual amounts paid may be different",
+    "funding requirement can vary",
+    "based on current information",
+    "relatively even with prior year"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear segment, margin, cost, tax, and cash-flow data. Risk tone is mildly negative because net income and gross profit declined, manufacturing costs increased, and cat-litter sales weakened, although liquidity and business-to-business performance remained stable. Boilerplate forward-looking language and qualification of pension and commitment estimates introduce limited ambiguity."
+}

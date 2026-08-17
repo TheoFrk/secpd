@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "subject to certain limitations",
+    "generally offset",
+    "we expect to meet all requirements",
+    "specified deadline"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes meaningful dollar amounts, reimbursement data, contractual terms, and project deadlines. Risk is moderated by dependence on government grants and reimbursements, execution requirements, subsidy expirations, legacy-service declines, and substantial project obligations, while management presents outcomes with generally confident expectations."
+}

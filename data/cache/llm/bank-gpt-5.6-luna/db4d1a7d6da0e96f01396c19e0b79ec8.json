@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "Recent significant events include:",
+    "primarily due to",
+    "non-GAAP adjusted results",
+    "foreign currency translation effects",
+    "incomplete segment discussion"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed revenue, volume, pricing, currency, and operating-income drivers. Risk factors include COVID-19-related demand disruption, plant outage impacts, market softness, customer share loss, currency headwinds, and segment-level declines, although overall 2020 profitability improved. Long descriptive passages, technical terminology, and incomplete event sections moderately reduce readability and comparability."
+}

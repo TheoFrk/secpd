@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "including but not limited to",
+    "continued variability",
+    "current business outlook"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including revenue, cash flow, liquidity, and operating expense figures. Risk tone is moderately positive but acknowledges semiconductor demand volatility, lower fiscal-year revenue, reduced factory utilization, and uncertainty in near-term capital investment. Standard forward-looking disclaimers and broad strategic claims introduce some uncertainty but do not dominate the disclosure."
+}

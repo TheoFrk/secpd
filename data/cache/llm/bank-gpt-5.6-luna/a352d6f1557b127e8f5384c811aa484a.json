@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "actual results could differ materially",
+    "various important factors",
+    "outside the control of management",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is heavily boilerplate and relies on broad forward-looking disclaimers and generalized economic, competitive, and execution risks. Accounting estimates involve material management judgment, particularly rebates, inventory, receivables, taxes, goodwill, and pensions, although the company reports negligible historical write-offs, no impairment indicators, and sufficient liquidity for at least twelve months."
+}

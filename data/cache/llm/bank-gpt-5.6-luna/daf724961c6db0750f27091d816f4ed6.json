@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous uncertainties",
+    "if ever",
+    "cannot forecast with any degree of certainty",
+    "could significantly increase capital requirements",
+    "subject to numerous uncertainties"
+  ],
+  "risk_summary": "The excerpt provides useful program-level details and quantified historical R&D spending, but emphasizes substantial uncertainty around clinical timelines, costs, regulatory approval, partnerships, and future financing. The tone is cautiously negative on execution and liquidity risk, despite optimistic descriptions of the pipeline and strategic options."
+}

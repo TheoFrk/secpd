@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "may be significantly affected",
+    "expected to continue",
+    "believes estimates are reasonable",
+    "industry-wide trends"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenue changes, access-line losses, and allowance balances, but relies on forward-looking and non-specific language regarding regulatory changes, access-charge disputes, and future growth. The overall tone is cautiously negative for legacy voice and network-access revenues, partially offset by confidence in broadband, video, and managed-service expansion."
+}

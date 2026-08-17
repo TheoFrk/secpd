@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "projected sales information",
+    "numerous factors and assumptions",
+    "fair value not significantly above carrying value",
+    "management considers reserves adequate"
+  ],
+  "risk_summary": "The excerpt combines promotional, boilerplate business descriptions with quantified liquidity, debt, and credit-line disclosures. Key judgment areas, including inventory reserves, deferred tax assets, and goodwill impairment, depend on projections and multiple unspecified assumptions; Transition Networks goodwill had limited valuation headroom. Overall tone is mildly confident but acknowledges competitive, economic, technological, and estimation risks."
+}

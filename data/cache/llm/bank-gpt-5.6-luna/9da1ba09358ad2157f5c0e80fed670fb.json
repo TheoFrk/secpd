@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "macro-economic factors",
+    "can have a significant effect",
+    "expects ... to continue",
+    "higher than historical ranges",
+    "efforts to improve"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosure on revenue growth, credit losses, and allowance levels, but highlights elevated credit losses, lower down payments, longer terms, liquidity pressure, and macroeconomic sensitivity. Forward-looking mitigation language is broad and repeatedly relies on management expectations and operational improvements, while the excerpt is truncated."
+}

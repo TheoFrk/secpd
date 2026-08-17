@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "actual results could differ materially",
+    "no obligation to update",
+    "plans may not yield positive results",
+    "history of losses and major-customer concentration"
+  ],
+  "risk_summary": "The excerpt contains substantial legal and forward-looking boilerplate that limits specificity regarding future performance and risks. Quantified disclosures identify material customer concentration, recurring losses, a $682,000 tax-loss carryforward, and reliance on estimates, indicating meaningful operating and financial vulnerability."
+}

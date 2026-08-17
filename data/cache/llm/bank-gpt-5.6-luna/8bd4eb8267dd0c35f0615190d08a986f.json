@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.65,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "anticipated distributions of earnings",
+    "forecasted cash flows from future operations",
+    "amounts ... are not known at this time",
+    "no assurance financing ... available",
+    "long sales cycles and multi-year trial periods"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and liquidity narrative, supported by quantified sales, working capital, cash, securities, and credit-line data. Key risks include reliance on variable joint-venture profitability and dividends, lengthy oil-and-gas sales cycles, ongoing expansion spending, and uncertainty regarding future financing availability. The disclosure is detailed but uses substantial business-description and forward-looking boilerplate, with the excerpt truncated before completing some financial discussion."
+}

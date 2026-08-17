@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may be expected",
+    "cannot predict whether financing will become available",
+    "potential new business plan",
+    "business combination",
+    "substantial number of restricted shares"
+  ],
+  "risk_summary": "The company has no assets or revenue, recurring operating losses, significant liabilities, related-party financing, and a history of bankruptcy. Its future depends on an uncommitted business combination or property acquisition and potentially unavailable financing, with substantial dilution and change-of-control risk for shareholders."
+}

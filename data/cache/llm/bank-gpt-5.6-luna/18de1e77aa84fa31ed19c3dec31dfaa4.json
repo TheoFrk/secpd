@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "potential claims not yet determined",
+    "management cannot fully determine",
+    "alleged losses",
+    "material breach",
+    "amounts not justified"
+  ],
+  "risk_summary": "The excerpt provides substantial transaction amounts, dates, counterparties, regulatory approvals, and reserve information, but disclosure of mortgage indemnification exposure remains uncertain and litigation-related. Potential claims and unaccrued losses could create material earnings or capital pressure, while the detailed reinsurance disclosures are largely factual and not overtly evasive."
+}

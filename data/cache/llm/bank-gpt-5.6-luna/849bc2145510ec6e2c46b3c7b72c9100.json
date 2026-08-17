@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "including but not limited to",
+    "assume no obligation to update",
+    "adverse patent infringement decisions"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and extensive business background, with limited direct discussion of quantified forward risks. Operating results are mixed: revenue was flat, printing revenue and gross profit declined materially, and adverse patent litigation decisions reduced the value of capitalized patent costs."
+}

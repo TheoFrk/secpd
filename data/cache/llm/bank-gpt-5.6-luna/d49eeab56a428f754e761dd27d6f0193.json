@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance financing available",
+    "cannot reliably project results",
+    "sufficient to finance operations",
+    "actual results may differ"
+  ],
+  "risk_summary": "The company reports declining revenue, increasing net losses, a substantially larger working-capital deficit, and reduced cash with no financing proceeds during 2019. Liquidity risk is significant because operations depend on collecting receivables, increasing revenue, and obtaining external capital, while pandemic-related disruptions make the next twelve months uncertain. Disclosure is partly quantified but relies on extensive forward-looking disclaimers and repeated no-assurance language."
+}

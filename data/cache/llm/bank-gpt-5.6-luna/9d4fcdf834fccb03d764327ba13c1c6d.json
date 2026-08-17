@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to revision",
+    "could reflect different estimates",
+    "most subjective or complex judgments",
+    "does not anticipate additional losses",
+    "page and text truncation"
+  ],
+  "risk_summary": "The disclosure is generally quantified and presents improving earnings, solid credit quality, and no loan-loss provision, producing a moderately positive risk tone. Key risks relate to subjective allowance-for-loan-loss estimates, fair-value volatility, contingent liabilities, and sensitivity to interest rates. The excerpt is lengthy and partly corrupted or truncated, limiting assessment of the complete risk discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "beyond the Company’s control",
+    "may result in significant changes",
+    "reasonable and supportable forecasts",
+    "does not undertake publicly release revisions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on loan growth, yields, capital structure, and CECL assumptions, but relies heavily on standard forward-looking disclaimers and emphasizes uncertainty around credit-loss estimates. Risk tone is cautiously constructive, with improving earning-asset yields and loan growth offset by potential allowance volatility, adverse economic conditions, and model-dependency."
+}

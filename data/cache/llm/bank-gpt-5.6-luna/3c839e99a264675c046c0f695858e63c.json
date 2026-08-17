@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "sufficient for the foreseeable future",
+    "primarily due to",
+    "challenging economic environment",
+    "non-GAAP financial measure",
+    "classification varies across the retail industry"
+  ],
+  "risk_summary": "The excerpt reports material sales declines and deteriorating macroeconomic conditions, indicating meaningful operating pressure. Liquidity and cash generation are presented as strong, with quantified cash balances, operating cash flow, debt, and free cash flow supporting a cautiously confident tone. Some standard definitions and repeated explanations add boilerplate but do not materially obscure the key financial trends."
+}

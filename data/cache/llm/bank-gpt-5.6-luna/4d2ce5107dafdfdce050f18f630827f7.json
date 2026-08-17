@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.18,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "assumptions, risks, and uncertainties",
+    "may differ materially",
+    "no list could be complete",
+    "beyond our control"
+  ],
+  "risk_summary": "The excerpt is dominated by standard forward-looking-statement disclaimers and an extensive, largely non-quantified catalog of potential risks. It identifies meaningful exposures across credit, funding, liquidity, regulation, technology, litigation, competition, and macroeconomic conditions, but provides little prioritization, probability assessment, or estimated financial impact."
+}

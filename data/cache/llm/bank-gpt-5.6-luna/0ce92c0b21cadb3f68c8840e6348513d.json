@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results may differ materially",
+    "estimated bookings",
+    "not practicable to reliably determine",
+    "dependent upon estimates"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, showing revenue, margins, cash generation, segment performance, and capital allocation. Key uncertainty arises from estimated bookings, transaction volumes, customer usage, tax liabilities, and the reliance on forward-looking assumptions. Overall tone is moderately confident, reflecting growth and profitability despite margin pressure and execution variability."
+}

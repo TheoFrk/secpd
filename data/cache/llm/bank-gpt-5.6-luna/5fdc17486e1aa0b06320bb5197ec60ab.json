@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures and comparability caveat",
+    "primarily related to",
+    "subject to customary purchase price adjustments",
+    "forecasted cash flows",
+    "Please read Note 4 for further discussion"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, but presents meaningful operating and credit risks, including recurring net losses, sharply lower Adjusted EBITDA, weak crack spreads, refinery turnaround costs, impairments, and higher interest expense. Extensive transaction, segment, and non-GAAP terminology increases analytical complexity, while repeated cross-references and partial truncation limit completeness."
+}

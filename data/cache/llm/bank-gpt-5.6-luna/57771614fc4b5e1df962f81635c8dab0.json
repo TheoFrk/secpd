@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "may not occur for many years",
+    "financing unavailable on favorable terms or at all",
+    "significant amounts of capital",
+    "truncated financing disclosure"
+  ],
+  "risk_summary": "The company reports minimal or no revenue, continuing operating losses, limited working capital, and dependence on additional financing to sustain operations. Management explicitly discloses substantial doubt about the company’s ability to continue as a going concern within one year. The disclosure includes quantified results but is weakened by optimistic preclinical claims, conditional language, and an incomplete financing discussion."
+}

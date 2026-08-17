@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted with confidence",
+    "potential equity and debt offerings",
+    "projected cash flow insufficient to retire debt",
+    "expects tenants to dispute events of default",
+    "anticipate approval during the summer of 2021"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but highlights material liquidity dependence on refinancing, future capital offerings, and tenant rental payments. Tenant defaults, accruing unpaid taxes, lease termination disputes, Chapter 11 bankruptcies, increased bad-debt risk, and COVID-related uncertainty indicate elevated operating and credit risk. Management expresses confidence in ongoing liquidity, although this is qualified by the need to renew maturing secured obligations because operating cash flow is insufficient to repay them."
+}

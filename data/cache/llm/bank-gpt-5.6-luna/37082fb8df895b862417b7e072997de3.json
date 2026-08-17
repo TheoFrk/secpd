@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "Adjusted EBITDA limitations",
+    "expected to provide sufficient liquidity",
+    "ultimate liability will depend on",
+    "not included in the table",
+    "favorable product mix"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and explains year-over-year drivers, but contains repetitive non-GAAP disclaimers and some boilerplate liquidity assurances. Credit risks include higher debt and interest expense, acquisition-related cash usage, customer concentration, and uncertain environmental liabilities."
+}

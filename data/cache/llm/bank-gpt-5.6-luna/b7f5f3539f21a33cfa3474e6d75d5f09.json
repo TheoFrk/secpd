@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "actual results could differ",
+    "future economic changes cannot be predicted",
+    "subject to future earnings and regulatory restrictions",
+    "additional losses may be recorded"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively supported, particularly regarding earnings, margins, credit losses, impaired loans, and funding. Risk is concentrated in subjective loan-loss, securities-impairment, and goodwill valuations, with explicit sensitivity to economic and market conditions. Overall tone is cautiously positive, supported by higher net income and well-capitalized subsidiaries, but tempered by forward-looking uncertainty."
+}

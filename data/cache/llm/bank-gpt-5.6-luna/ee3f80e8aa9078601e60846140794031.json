@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "pro forma cash rent",
+    "excludes transitioned properties",
+    "most recent periods available",
+    "various other assumptions",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding portfolio size, facility mix, NOI, reserves, and coverage ratios. Risk transparency is moderated by extensive exclusions, pro forma adjustments, delayed reporting periods, and reliance on subjective accounting estimates, which may make underlying tenant and asset performance less comparable. Overall tone is neutral to mildly confident, with material exposure to operator performance, regulation, occupancy, reimbursement, and credit-loss risk."
+}

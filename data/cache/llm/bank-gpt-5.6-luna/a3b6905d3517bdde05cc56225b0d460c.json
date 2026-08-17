@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "cannot assure future recovery levels",
+    "risks and uncertainties",
+    "subject to economic conditions",
+    "timing and amount depends upon conditions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative liquidity and capital expenditure information, including operating cash flow, debt, capital commitments, and planned investment. However, extensive forward-looking disclaimers and conditional language limit visibility into future fuel recovery, capacity costs, customer demand, insurance exposure, and pandemic effects. Liquidity appears adequate in the period described, but the business remains exposed to cyclical demand, labor and capacity shortages, regulatory costs, and self-insured claims."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "not exhaustive risk factors",
+    "actual results may differ materially",
+    "not possible to predict all factors",
+    "disclaims obligation to update",
+    "management estimates and expectations"
+  ],
+  "risk_summary": "The excerpt contains extensive standard safe-h harbor language and broad, non-quantified risk factors, limiting its usefulness for assessing forward performance. Accounting estimates, backlog realization, contract costs, inventory valuation, and deferred tax asset recovery create material judgment and execution risks. The tone is cautiously positive regarding liquidity, backlog, and expected profitability, but is tempered by prior losses and significant uncertainty."
+}

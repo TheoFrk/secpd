@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significantly increase",
+    "leading provider",
+    "based largely on an assessment",
+    "reasonably available",
+    "certain acquisition related items"
+  ],
+  "risk_summary": "The excerpt is generally confident and commercially promotional, supported by detailed product descriptions and quantified non-GAAP reconciliations. Key risks arise from management estimates for variable consideration, inventory obsolescence, standalone selling prices, acquisitions, and deferred taxes, but no acute financial distress is indicated."
+}

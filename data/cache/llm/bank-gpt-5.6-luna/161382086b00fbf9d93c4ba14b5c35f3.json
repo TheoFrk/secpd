@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.72,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "constant currency measures",
+    "non-GAAP performance measures",
+    "excluding items",
+    "refranchising effects",
+    "sustainable growth claims"
+  ],
+  "risk_summary": "The excerpt presents a confident, growth-oriented outlook supported by quantified operating and earnings metrics. However, it relies substantially on non-GAAP and constant-currency measures, strategic boilerplate, and adjustments for refranchising and special items, which can complicate assessment of underlying performance. Key risks include currency volatility, lower reported revenue from refranchising, and dependence on continued execution of the growth plan."
+}

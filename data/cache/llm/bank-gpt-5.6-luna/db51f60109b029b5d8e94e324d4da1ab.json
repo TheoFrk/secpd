@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP free cash flow framing",
+    "projected future shipments",
+    "comparative impact of",
+    "partially offset",
+    "not entirely comparable"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, describing revenue, volume, pricing, fuel surcharges, and commodity trends in detail. The tone is predominantly positive, though exposure to fuel prices, economic conditions, customer behavior, operational disruptions, environmental claims, and comparability adjustments presents ongoing risk."
+}

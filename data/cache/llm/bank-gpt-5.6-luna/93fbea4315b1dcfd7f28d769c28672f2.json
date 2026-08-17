@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "inherently uncertain",
+    "subjective judgments by management",
+    "cannot be reasonably predicted"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including earnings, capital ratios, loan growth, margins, and allowance levels, but relies on standard forward-looking disclaimers and subjective estimates for credit losses. Risk tone is mixed: the company remains well capitalized and reports loan growth, while declining margins, expected continued compression, and uncertainty around future loan losses present material risks."
+}

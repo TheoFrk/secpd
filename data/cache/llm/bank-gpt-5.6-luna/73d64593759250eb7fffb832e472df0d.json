@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.68,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "business combination objective",
+    "may be expected",
+    "cannot predict financing availability",
+    "limited personnel and financial resources",
+    "related-party borrowings"
+  ],
+  "risk_summary": "The company has no assets or revenue, recurring losses, substantial liabilities, and relies on related-party borrowings while pursuing an uncertain business combination. Disclosure is reasonably quantified but contains speculative language regarding future acquisitions, financing, dilution, and change of control."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "we expect to",
+    "strategically advantaged hubs",
+    "long-term goals",
+    "subject to regulatory approvals"
+  ],
+  "risk_summary": "The excerpt is predominantly quantitative and transparent, with strong liquidity, operating cash flow, debt reduction, and operational performance disclosures. Risks include declining passenger revenue and PRASM, rising labor and non-fuel costs, refinery losses tied to RINs and crack spreads, and execution or regulatory uncertainty around international partnerships. Overall tone is confident and growth-oriented, though some emphasis on adjusted metrics and strategic initiatives may soften visibility into underlying volatility."
+}

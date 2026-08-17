@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances",
+    "actual results could differ",
+    "reasonably assured",
+    "not have a material impact",
+    "anticipated cash flow"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenue growth, vendor deposits, tax liens, and tax payments, but relies on standard estimates, materiality qualifiers, and forward-looking assurances. Key risks include regulatory uncertainty, federal tax liens, contingent legal liabilities, and potential dependence on future equity or debt financing. The overall tone is cautiously optimistic on growth and liquidity but tempered by explicit uncertainty and unresolved obligations."
+}

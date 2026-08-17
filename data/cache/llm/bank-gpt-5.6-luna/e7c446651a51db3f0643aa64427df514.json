@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "not limited to",
+    "no obligation to update",
+    "terms favorable to us",
+    "sufficient funds over the next several years"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative operating and liquidity disclosures with extensive boilerplate safe-harbor language and broad, largely unquantified risk lists. Key exposures include refinancing, debt covenant compliance, interest rates, marketable securities on margin, occupancy, financing availability, and economic weakness, while management presents liquidity and growth prospects cautiously positively."
+}

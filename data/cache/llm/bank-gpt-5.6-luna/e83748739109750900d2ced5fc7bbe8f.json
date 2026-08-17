@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "may be impacted",
+    "we believe",
+    "currently anticipated",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt presents a generally positive and stable operating profile, supported by recurring revenue exceeding 90% of total revenue and more than 90% of quarterly revenue already committed. It acknowledges semiconductor cyclicality, customer spending sensitivity, macroeconomic volatility, acquisition execution, and reliance on significant accounting judgments. Disclosure is relatively quantified but includes standard forward-looking qualifiers and a truncated revenue-recognition discussion."
+}

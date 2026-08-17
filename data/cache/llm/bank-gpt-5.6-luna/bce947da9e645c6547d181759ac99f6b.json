@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "non-GAAP financial measure",
+    "expected to continue",
+    "meaningful impact",
+    "for the foreseeable future"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook, supported by detailed historical financial figures, cash-flow data, margin targets, and capital allocation disclosures. Risk is moderated by reliance on forward-looking expectations, non-GAAP measures, and generalized statements regarding future synergies, revenue initiatives, and debt-payment capacity. The long awards and accomplishments sections add promotional and partly boilerplate content but do not materially obscure the quantified operating discussion."
+}

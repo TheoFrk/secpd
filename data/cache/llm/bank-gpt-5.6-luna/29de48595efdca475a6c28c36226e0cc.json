@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "actual results differ materially",
+    "no obligation to revise",
+    "expected proceeds"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, with clear segment descriptions, transaction history, impairment charges, and operating-cost changes. Risk tone is mildly negative because of standard forward-looking disclaimers, limited wireline customer growth, discontinued-operation sale uncertainty, and rising network and handset costs, but there is no indication of an immediate crisis."
+}

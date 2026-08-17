@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "subject to management’s judgment",
+    "various other assumptions",
+    "future demand or market conditions",
+    "qualitative and quantitative factors"
+  ],
+  "risk_summary": "The disclosure is generally specific and constructive, with quantified revenue, margin, profitability, liquidity, and debt metrics showing substantial year-over-year improvement. Risk is concentrated in management estimates for revenue allowances, inventory obsolescence, goodwill impairment, and taxes, where outcomes may vary materially from assumptions. Significant accounting and debt-related jargon increases reading complexity, but the excerpt is not strongly evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expected to",
+    "net effect of",
+    "impractical to revise"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed explanations of sales, earnings, cash flow, capital expenditures, restructuring, and pension obligations. Risk tone is moderately cautious because of declining sales, lower projected earnings and operating cash flow, higher capital expenditures, plant closure costs, and reliance on nonrecurring CDSOA receipts. Repeated segment and tax disclosures, along with extensive offsetting-factor language, modestly reduce clarity."
+}

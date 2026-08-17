@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict additional consequences",
+    "potentially volatile and severe",
+    "actual amounts could differ materially",
+    "subjective or complex judgment",
+    "if estimates or assumptions change"
+  ],
+  "risk_summary": "The excerpt identifies material pandemic, workforce, regulatory, receivables, tax-asset, and impairment uncertainties, although it cites positive cash flows, low debt, and available liquidity as support for continued operations. Disclosure is moderately hedged and contains boilerplate accounting-estimate language, with limited quantified sensitivity analysis beyond tax assets and credit facilities."
+}

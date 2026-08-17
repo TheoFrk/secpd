@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted with confidence",
+    "could adversely affect",
+    "among others",
+    "subject to comprehensive regulation",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear descriptions of regulated operations, customer exposure, revenues, margins, and weather effects. Key risks include regulatory decisions, pandemic-related disruption, seasonal volatility, energy supply and demand changes, although pass-through mechanisms and continued service are presented as mitigating factors."
+}

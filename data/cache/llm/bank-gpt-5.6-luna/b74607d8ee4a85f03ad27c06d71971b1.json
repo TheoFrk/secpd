@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "little risk of impairment",
+    "reasonable expectations and assumptions",
+    "may occur",
+    "if such indicators are present"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified debt, liquidity, and covenant information, but relies heavily on management estimates and scenario-dependent assumptions for impairment, reserves, taxes, and valuations. The tone is mildly confident, particularly regarding goodwill impairment and inflation mitigation, while acknowledging material sensitivity to macroeconomic conditions, discount rates, vendor policies, and claims experience."
+}

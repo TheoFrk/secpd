@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could reflect different estimates",
+    "subject to revision",
+    "subject to court approval",
+    "inherently results in volatility",
+    "most subjective or complex judgments"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding earnings, credit quality, tax effects, contingencies, and accounting judgments. Risk tone is moderately positive, supported by solid credit metrics and improved net income, but reliance on estimates, legal settlements, valuation judgments, and no loan-loss provision introduces residual uncertainty."
+}

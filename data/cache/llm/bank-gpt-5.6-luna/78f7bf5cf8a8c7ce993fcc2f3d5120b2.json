@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.78,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "substantial doubt as to whether",
+    "may never do",
+    "no assurance can be given",
+    "risks and uncertainties"
+  ],
+  "risk_summary": "The company reports recurring losses, negative operating cash flow, an $85.2 million accumulated deficit, and substantial doubt about its ability to continue as a going concern. It requires immediate additional financing, primarily through equity or debt issuance, creating dilution and financing-availability risks. Nasdaq compliance was restored through financing and cost reductions, but continued compliance is not assured."
+}

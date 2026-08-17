@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.91,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurances of transaction success",
+    "possible bankruptcy or dissolution",
+    "safe-harbor forward-looking boilerplate",
+    "possible future effects on recoverability"
+  ],
+  "risk_summary": "The disclosure presents severe financial distress: the company is a shell with zero revenue, discontinued operations, recurring losses, and substantial doubt about its ability to continue as a going concern. Liquidity depends on selling the company or completing a merger, with explicit risk of dissolution or bankruptcy if unsuccessful. Quantified cash-flow data is provided, but the discussion relies heavily on repetitive accounting and forward-looking boilerplate and does not specify a viable funding runway."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.56,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements boilerplate",
+    "extent of impact is uncertain",
+    "we believe we are well positioned",
+    "no assurance",
+    "sufficient taxable income"
+  ],
+  "risk_summary": "The excerpt presents a materially improved 2012 performance with quantified growth, restored profitability, stronger working capital, and no revolving-credit borrowings. Key risks include government-budget dependence, seasonality, competitive pricing and product-cost pressure, contract-manufacturing reliance, and uncertainty around realization of deferred tax assets. Disclosure is generally specific and transparent, although the forward-looking section contains standard cautionary language and some unquantified assumptions."
+}

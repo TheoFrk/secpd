@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and substantial risks",
+    "could differ materially",
+    "strategic options and opportunities",
+    "subject to the terms of the Agreement",
+    "estimates and judgments based on historical volumes"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, earnings, cash flow, debt, acquisition consideration, and contractual obligations, supporting relatively strong disclosure specificity. Risk is partly softened by standard forward-looking disclaimers and broad strategic-option language, while inventory impairment, foreign-affiliate dependence, receivable collectability, acquisition-related obligations, and potential additional leverage remain material concerns."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "going concern uncertainty",
+    "anticipated significant additional orders",
+    "dependent on capital raising",
+    "related-party debt dispute",
+    "forward-looking statement disclaimers"
+  ],
+  "risk_summary": "The excerpt describes severe financial distress, suspended operations, substantial debt restructuring, potential dilution, disputed related-party obligations, and an auditor’s going-concern doubt. Although management cites planned refinancing, a prospective restart, and contracted orders, these outcomes depend on shareholder approvals, capital raising, and successful execution, with limited evidence of sustainable operations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors",
+    "expected to",
+    "approximately",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed segment, geographic, booking, backlog, cash flow, restructuring, and acquisition information. Risk tone is moderately negative due to substantial revenue, bookings, backlog, and Energy segment declines tied to oil and gas weakness, although cost controls, acquisitions, and cash generation provide offsets. Forward-looking assumptions rely on uncertain oil prices, currency effects, acquisition contributions, and potential additional restructuring."
+}

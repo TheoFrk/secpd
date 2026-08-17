@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties beyond our control",
+    "no obligation to update",
+    "possible significant costs and liabilities",
+    "ability to access credit and capital markets"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, rate outcomes, capital spending, financing, liquidity, and capitalization, supporting relatively transparent disclosure. However, extensive boilerplate forward-looking disclaimers and a broad list of unquantified contingencies reduce specificity around downside exposure. Overall tone is confident and growth-oriented, but the capital-intensive business remains sensitive to regulation, financing access, operational hazards, weather, cybersecurity, and commodity-market risks."
+}

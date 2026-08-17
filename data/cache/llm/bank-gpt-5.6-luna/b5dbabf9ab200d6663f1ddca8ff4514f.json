@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.45,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "challenging economy",
+    "reasonable under the circumstances",
+    "actual results could differ",
+    "not reasonably likely to materially affect",
+    "excluded from the table"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear year-over-year metrics for sales, margins, cash flow, store growth, and credit-card performance. Risk tone is cautiously positive, though it acknowledges macroeconomic pressure, comparable-store sales declines, credit portfolio changes, and estimation uncertainty. Some contractual obligations and pension disclosures rely on exclusions and boilerplate qualification language, and the excerpt is truncated."
+}

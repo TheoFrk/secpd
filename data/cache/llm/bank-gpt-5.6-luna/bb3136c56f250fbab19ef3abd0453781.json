@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significantly affected by",
+    "management believes ... adequate",
+    "currently known potential plans",
+    "not practical due to complexity",
+    "management cannot predict"
+  ],
+  "risk_summary": "The disclosure identifies substantial exposure to commodity prices, political and economic conditions, foreign exchange, fuel costs, regulatory changes, and operating volatility across multiple segments. Liquidity appears strong and is supported by nearly $1.0 billion in cash and short-term investments plus increased borrowing capacity, but cash declined $256 million after a large share repurchase. Forward-looking statements rely on broad uncertainty language, and the excerpt is truncated, limiting assessment of certain tax and segment-specific risks."
+}

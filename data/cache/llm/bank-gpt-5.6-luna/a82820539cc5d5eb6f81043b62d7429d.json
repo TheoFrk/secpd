@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor language",
+    "no assurance expectations will be realized",
+    "undertake no obligation to update",
+    "risks beyond our control",
+    "actual results may differ from estimates"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed regarding fiscal 2017 performance, capital spending, regulatory filings, and cash flows, but is preceded by extensive standard forward-looking disclaimers and broad risk enumerations. Operating results and regulatory recovery trends are presented positively, while liquidity, regulatory, commodity, weather, operational, cyber, and climate risks remain material."
+}

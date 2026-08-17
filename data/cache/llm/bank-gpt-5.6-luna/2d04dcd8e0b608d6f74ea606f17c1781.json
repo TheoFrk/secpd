@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor disclaimer",
+    "actual results may differ materially",
+    "numerous factors and uncertainties",
+    "extensive risk-factor enumeration",
+    "anticipated cost savings"
+  ],
+  "risk_summary": "The excerpt contains meaningful quantified operating and cash-flow data, but is dominated by lengthy boilerplate forward-looking disclaimers and an extensive, largely unprioritized list of potential risks. Risk exposure is substantial across agriculture, weather, disease, water availability, commodity pricing, debt obligations, regulation, and execution of the modernization program, while management maintains a moderately constructive tone regarding efficiency improvements."
+}

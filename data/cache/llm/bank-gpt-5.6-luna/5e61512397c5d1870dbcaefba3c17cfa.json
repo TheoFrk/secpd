@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding these items",
+    "subject to customary closing conditions",
+    "could positively impact ... but could also",
+    "we believe our capital and financial positions are strong",
+    "truncated transaction disclosure"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and presents improved earnings, strong capital ratios, and substantial liquidity, supporting a generally confident tone. Key risks include a $2.6 billion unrealized investment loss, rising long-term-care premium ratios, unfavorable experience in certain businesses, and dependence on regulatory approval for a material reinsurance transaction. Frequent adjusted measures and conditional language somewhat mitigate the otherwise transparent disclosure."
+}

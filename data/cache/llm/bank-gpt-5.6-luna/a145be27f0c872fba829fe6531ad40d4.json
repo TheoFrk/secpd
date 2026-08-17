@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict whether there will be material supply chain shortages",
+    "for the foreseeable future",
+    "currently unknown",
+    "expected to be recoverable through the PSA",
+    "evolving situation"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including COVID-19 impacts, bad-debt costs, sales sensitivities, and deferred payroll taxes. Key risks include supply-chain and labor constraints, increased bad debt, customer disconnection moratoria, and uncertainty around future pandemic and customer behavior impacts. The overall tone is controlled and operationally confident, though partially tempered by forward-looking uncertainty and regulatory recovery assumptions."
+}

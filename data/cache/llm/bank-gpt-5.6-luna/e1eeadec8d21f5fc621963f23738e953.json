@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "dependent upon several factors",
+    "believed to be reasonable",
+    "subjective judgments and assumptions"
+  ],
+  "risk_summary": "The excerpt is formal and generally informative, with several quantified investment figures and segment descriptions, but it contains substantial boilerplate and broad strategic language. Outlook and capital-allocation statements rely on multiple contingencies, while accounting estimates are explicitly subject to material variation. Overall tone is cautiously positive rather than crisis-like, with standard forward-looking and estimation risk caveats."
+}

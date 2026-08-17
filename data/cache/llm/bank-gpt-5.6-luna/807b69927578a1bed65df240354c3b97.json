@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "non-GAAP measures",
+    "subject to revision",
+    "no obligation to revise"
+  ],
+  "risk_summary": "The excerpt is generally precise and highly quantified, providing extensive business, accounting, and net interest income detail. Risk disclosures are largely standardized, emphasizing uncertainty around estimates, forward-looking statements, regulatory measures, and non-GAAP presentation rather than signaling immediate distress. The overall tone is neutral to mildly confident, supported by reported revenue and NII growth."
+}

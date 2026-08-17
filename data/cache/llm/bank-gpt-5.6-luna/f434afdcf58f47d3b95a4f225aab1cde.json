@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "no assurance",
+    "not meaningful",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively detailed, reporting segment revenues, margins, income, and revenue mix. Results show strong operating improvement, but reported net income is materially inflated by a $102.5 million tax benefit, while sustainability of the customer base and historical margins is expressly uncertain. Boilerplate forward-looking disclaimers and repeated segment descriptions modestly reduce transparency but do not indicate crisis-level risk."
+}

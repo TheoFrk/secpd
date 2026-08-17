@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "one time, non-cash expense",
+    "anticipates being able to fund",
+    "as demand increases",
+    "foreseeable liquidity requirements"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear year-over-year operating, cash flow, and balance-sheet metrics. Risk is mixed: annual sales and net income remained positive, but fourth-quarter profitability deteriorated materially, margins compressed due to milk costs, and the Golden Guernsey acquisition increased capital spending and notes payable. Forward-looking statements regarding demand, cost savings, acquisitions, and internal liquidity are not supported by detailed sensitivity analysis."
+}

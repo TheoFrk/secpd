@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "a number of factors",
+    "uncertain cash requirements",
+    "truncated accounting-policy discussion"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, including revenue, margin, customer concentration, geographic exposure, and currency sensitivity. Risk tone is moderately cautious due to macroeconomic, geopolitical, cyclical, concentration, pricing, and liquidity risks, although management states that liquidity should meet requirements for at least 12 months. Boilerplate cautionary language and the truncated section limit assessment of certain accounting and financial details."
+}

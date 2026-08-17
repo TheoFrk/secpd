@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-exhaustive risk factors",
+    "could cause actual results to differ materially",
+    "no duty to update",
+    "expected benefits and synergies",
+    "other risk factors listed from time to time"
+  ],
+  "risk_summary": "The excerpt contains extensive standard safe-harbor and risk-factor language, with substantial reliance on broad contingencies and projections that limit precision. Quantified disclosures are present, including revenue, operating losses, transaction proceeds, impairment, and equity ownership, but the overall tone reflects meaningful operating, market, transaction-integration, and execution risks partially offset by management’s confidence in cost reduction and portfolio initiatives."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "actual results may differ",
+    "not readily apparent",
+    "may not be comparable"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified, including sales, margins, leverage, capital expenditures, and pension assumptions. Risk factors include fourth-quarter sales softening, competition, product availability and quality issues, lower margins, and sensitivity to consumer and housing conditions. Management remains moderately confident about 2016 growth, but the outlook relies on improving macroeconomic and consumer spending conditions."
+}

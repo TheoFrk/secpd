@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "anticipated close date",
+    "currently estimates",
+    "mixed COVID-19 impact",
+    "results excluding divested product lines"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear reporting of revenue, margins, costs, divestitures, and expected charges. Key risks include pandemic-related demand weakness, ongoing divestiture execution, estimated future charges, and reliance on extensive non-GAAP adjustments that may obscure GAAP performance. Overall tone is cautiously positive because operating income and margins improved, despite stable revenue and continuing restructuring and portfolio-exit costs."
+}

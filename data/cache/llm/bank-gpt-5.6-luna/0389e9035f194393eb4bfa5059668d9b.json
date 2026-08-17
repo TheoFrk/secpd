@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "may differ materially",
+    "risks are manageable",
+    "including but not limited to",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and financial data, including sales, margins, income, housing trends, and deferred tax assets. However, the extensive standardized forward-looking disclaimer and broad, non-prioritized risk catalog rely on generalized contingencies without estimating likelihood or potential financial impact. Overall performance is presented positively, but exposure remains meaningful to housing demand, input costs, customers, leverage, interest rates, and operational disruptions."
+}

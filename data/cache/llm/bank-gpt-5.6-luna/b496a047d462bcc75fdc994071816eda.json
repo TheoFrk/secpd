@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "qualitative analysis",
+    "all relevant facts and circumstances",
+    "highly subjective assumptions",
+    "may result in",
+    "could potentially be significant"
+  ],
+  "risk_summary": "The disclosure is technically detailed and identifies material estimation risks in contract accounting, claims, VIE consolidation, stock compensation, pensions, and taxes, but provides limited quantitative sensitivity analysis. Risk tone is balanced to mildly positive, supported by reported earnings and revenue growth, while reliance on management judgments and uncertain contract and tax outcomes remains significant."
+}

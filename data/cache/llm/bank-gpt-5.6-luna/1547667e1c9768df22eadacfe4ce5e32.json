@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "not exhaustive",
+    "disclaim responsibility to update",
+    "may not be in our best interest"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and portfolio information, but its opening disclosure is heavily boilerplate and repeatedly emphasizes unquantified risks, unknown factors, and management’s lack of responsibility to update forecasts. The company’s real estate, leverage, related-party, variable-rate financing, and unconsolidated-investment exposures are identifiable, while the overall tone is cautious rather than crisis-like."
+}

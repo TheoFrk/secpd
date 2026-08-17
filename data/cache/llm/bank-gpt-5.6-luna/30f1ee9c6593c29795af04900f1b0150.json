@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "including but not limited to",
+    "subjective assumptions and estimates",
+    "customer concentration and consolidation",
+    "expected transition to software margins"
+  ],
+  "risk_summary": "The disclosure is generally specific and well supported by quantified revenue, customer concentration, cash flow, financing, and debt figures, but it highlights substantial demand, concentration, execution, technology-transition, and foreign-exchange risks. Management uses optimistic projections regarding CableOS, software migration, margins, and the TVN acquisition while acknowledging declining revenue, restructuring, and depressed legacy demand."
+}

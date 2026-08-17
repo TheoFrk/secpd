@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects to achieve",
+    "subject to necessary regulatory approvals",
+    "based on specific customer needs",
+    "anticipated in-service dates",
+    "potential impacts"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, investment-oriented strategy with substantial quantified emissions, capacity, and capital targets. However, many future outcomes depend on regulatory approvals, customer needs, project execution, and unresolved solar-panel tariff and supply-chain matters. Boilerplate ESG and customer-value language somewhat softens discussion of implementation and financial risks."
+}

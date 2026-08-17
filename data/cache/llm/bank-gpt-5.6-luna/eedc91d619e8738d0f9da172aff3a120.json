@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "considerable amount of subjective judgments",
+    "may be material",
+    "estimates of future cash flows",
+    "exploring the potential sale",
+    "based on market conditions"
+  ],
+  "risk_summary": "The disclosure is generally quantified and specific regarding portfolio size, expenses, accounting methods, and year-over-year changes. Key risks arise from subjective fair-value, impairment, useful-life, and cash-flow assumptions, with potential material effects on reported results; the planned exploration of office and retail asset sales adds execution and valuation uncertainty."
+}

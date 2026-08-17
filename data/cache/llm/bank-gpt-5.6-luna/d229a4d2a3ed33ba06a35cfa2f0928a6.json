@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures excluding certain items",
+    "primarily due to",
+    "highly inflationary accounting",
+    "resolutions of DOJ/FinCEN investigations",
+    "various factors including"
+  ],
+  "risk_summary": "The excerpt is comparatively quantified, with detailed revenue, cost, margin, currency, and earnings changes, but relies on recurring management framing and broad causal language. Key risks include severe Argentine peso effects, highly inflationary accounting, higher debt costs, transformation expenses, and DOJ/FinCEN investigation resolution costs. Overall tone is cautiously positive because profitability and EPS improved, although the disclosure highlights material operating and compliance exposures."
+}

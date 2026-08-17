@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "reasonable under the circumstances",
+    "significant management judgment",
+    "uncertainties regarding realization",
+    "subject to risk and uncertainties"
+  ],
+  "risk_summary": "The excerpt is technically detailed but relies heavily on standard forward-looking disclaimers and management estimates, particularly for revenue recognition, taxes, receivables, inventory, and impairment. Key risks include distributor return and pricing rights, deferred tax asset realizability, customer credit quality, inventory demand, asset impairment, and reliance on a customer representing approximately 62% of sales. The credit facility terms are specified, but the excerpt is truncated before the full commitment and covenant details are disclosed."
+}

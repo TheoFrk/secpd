@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "impact is uncertain",
+    "could have a material impact",
+    "inherently uncertain",
+    "subject to volatility and downward pressure",
+    "outside the Company’s control"
+  ],
+  "risk_summary": "The excerpt presents strong quantified growth, profitability, and shareholder-return results, producing an overall confident but qualified tone. Key risks include COVID-19 disruption, supply-chain shortages, margin volatility, tax uncertainties, and legal contingencies, with several outcomes described as uncertain or potentially material."
+}

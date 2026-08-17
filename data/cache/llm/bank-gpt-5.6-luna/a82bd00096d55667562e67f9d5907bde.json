@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "primarily due to",
+    "as deemed appropriate",
+    "if business or economic conditions change",
+    "reasonably assured"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including debt balances, cash flows, collateral, covenants, and working-capital movements. Key risks include negative operating cash flow, substantial inventory and receivables growth, increased secured borrowing, and reliance on marketable securities and credit facilities. The tone is neutral to mildly confident, with some standard forward-looking and estimation-based caveats."
+}

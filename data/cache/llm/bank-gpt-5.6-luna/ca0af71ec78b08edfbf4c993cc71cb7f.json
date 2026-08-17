@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "we believe",
+    "seek opportunities",
+    "dependent upon",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth-oriented narrative centered on recurring revenue, customer utilization, and product differentiation, including a useful quantified disclosure that recurring diagnostic revenue represented approximately 79% of consolidated revenue. Disclosure is highly detailed but relies substantially on strategic and boilerplate language, with limited current-period operating metrics in the provided section. Tax realization and contingent liability language identifies potential earnings volatility from changes in deferred tax assets, valuation allowances, tax…"
+}

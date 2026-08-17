@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "highly uncertain matters",
+    "may not be sufficient",
+    "material adverse effect",
+    "qualitative loss factors"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including loan balances, net income changes, credit-loss sensitivity, and funding movements, but relies heavily on judgmental CECL assumptions and qualitative adjustments. Risk tone is moderately negative because net income declined sharply, provision expense increased, and the company acknowledges potential material credit losses, regulatory allowance adjustments, and adverse earnings impacts."
+}

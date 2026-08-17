@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "including but not limited to",
+    "subject to significant uncertainties",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is highly repetitive and includes extensive standard forward-looking disclaimer language, but the operating discussion provides substantial quantitative detail. Risk tone is moderately negative due to declining revenue, recurring losses, client concentration, financing dependence, litigation, and weak demand, partially offset by improving gross margins and operating cash flow."
+}

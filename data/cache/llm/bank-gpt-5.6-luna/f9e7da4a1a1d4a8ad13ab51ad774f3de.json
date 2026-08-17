@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "risks and uncertainty",
+    "could cause results to differ materially",
+    "primarily attributable to",
+    "best information available"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and explains segment-level performance, but includes extensive boilerplate risk disclosures and relies on broad, non-quantified contingencies. Reported earnings improved, though consolidated sales declined, Housewares performance weakened, and net earnings benefited materially from discontinued-operation gains and other income."
+}

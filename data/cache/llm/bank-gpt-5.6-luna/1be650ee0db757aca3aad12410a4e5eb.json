@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurances",
+    "designed to",
+    "we believe",
+    "expected to",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The excerpt presents severe liquidity and going-concern risk, including only $60,000 of cash, a $528.7 million accumulated deficit, dependence on additional capital, and no assurance that funding will be obtained. Although the disclosure is materially quantified, extensive technical and transaction detail, promotional platform language, and standard estimation caveats somewhat dilute the central financial risk."
+}

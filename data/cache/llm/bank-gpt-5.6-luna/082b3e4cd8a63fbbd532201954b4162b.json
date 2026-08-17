@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict entire impact",
+    "may be significantly affected",
+    "expected to continue",
+    "ongoing petitions and appeals",
+    "unfavorable access line trends"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified on historical revenue changes, customer counts, and access-line trends. Forward-looking disclosures identify meaningful competitive, regulatory, and technology risks, but often lack quantified impact ranges and rely on conditional language. Overall tone is mildly negative due to declining legacy revenues and anticipated FCC-related pressure, partly offset by broadband, video, and bundling growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks and uncertainties",
+    "expressly disclaim any obligation to update",
+    "may vary materially",
+    "not construed as exhaustive"
+  ],
+  "risk_summary": "The excerpt reports strong operating performance, low vacancy, rent growth, and substantial quantified liquidity and refinancing activity. However, it highlights increased leverage amid rising interest rates and a potential economic slowdown, while extensive boilerplate disclaimers and limited discussion of downside sensitivity reduce transparency regarding future risks."
+}

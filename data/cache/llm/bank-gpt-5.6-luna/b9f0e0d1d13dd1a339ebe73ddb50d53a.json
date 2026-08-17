@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "attempts to maintain",
+    "generally 80% or less",
+    "varies based on prevailing conditions",
+    "boilerplate risk descriptions",
+    "truncated and malformed table data"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative balance-sheet, earnings, lending-limit, and funding information, but much of the strategy and risk discussion is standardized and uses broad qualifiers. It acknowledges meaningful credit, commercial real estate, construction, concentration, and interest-rate risks without quantifying portfolio-level exposures, delinquencies, or stress impacts in the provided text. The excerpt is incomplete and contains malformed table data, limiting analytical reliability."
+}

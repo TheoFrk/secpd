@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.81,
+  "risk_sentiment": -0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties not exhaustive",
+    "we cannot guarantee",
+    "primarily the result of:",
+    "these increases were partially offset by"
+  ],
+  "risk_summary": "The excerpt combines detailed acquisition and revenue figures with extensive boilerplate disclaimers and numerous omitted or incomplete explanations of operating drivers. The $200.5 million goodwill impairment and weaker residential filtration markets indicate material operating risk, despite generally promotional descriptions of market position and growth prospects."
+}

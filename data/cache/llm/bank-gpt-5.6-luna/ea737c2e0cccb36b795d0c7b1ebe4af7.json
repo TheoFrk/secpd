@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.68,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted EBITDA",
+    "management believes",
+    "well positioned",
+    "customary events of default",
+    "various factors"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and liquidity profile, supported by detailed growth, margin, cash flow, leverage, maturity, and borrowing-capacity figures. Risk disclosure is partly boilerplate and relies on favorable management characterizations, while adjusted EBITDA and other non-GAAP measures may reduce comparability. Debt maturities, credit-agreement default provisions, acquisition activity, and reliance on continued operating cash flow remain key credit considerations."
+}

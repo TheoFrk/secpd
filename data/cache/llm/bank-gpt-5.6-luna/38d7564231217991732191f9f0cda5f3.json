@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects positive cash flow",
+    "leasing benchmarks waived",
+    "adequate to cover",
+    "certain tenants open and begin paying rent",
+    "actual results could differ"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but includes optimistic projections regarding rental growth, leasing, cash flow, and debt-service coverage. Key risks include low Rotunda residential leasing, waived leasing benchmarks, increased borrowing costs, interest-reserve requirements, and an earlier loan maturity without an extension option."
+}

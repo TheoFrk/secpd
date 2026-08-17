@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "various assumptions",
+    "subjective factors",
+    "probable recovery assessment"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and relies on assumptions regarding regulatory recovery, nuclear decommissioning costs, tax positions, and long-term cash flows. It also provides meaningful quantified disclosures, including ARO balances, accretion expense, and unrecognized tax benefits, mitigating concerns about outright opacity. Overall tone is neutral to mildly positive, supported by reported earnings growth but offset by material estimation and regulatory risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "may reflect, at least in part",
+    "expect some fluctuations",
+    "seeking funding from a partner",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is generally precise and data-rich, with detailed sales, margin, expense, and inventory metrics. It acknowledges competitive pressure, feed-cost inflation, seasonal demand, weaker Wipe Out sales, regulatory compliance costs, and dependence on partner funding, while maintaining a broadly positive operating tone. Some forward-looking claims and standard accounting-policy language introduce moderate uncertainty."
+}

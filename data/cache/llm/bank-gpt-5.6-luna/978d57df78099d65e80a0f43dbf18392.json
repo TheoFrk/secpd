@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict duration or scope",
+    "negative financial impact cannot be reasonably estimated",
+    "could continue to be material",
+    "other factors",
+    "ultimate outcome may differ"
+  ],
+  "risk_summary": "The excerpt provides useful operational detail and some geographic and revenue quantification, but relies substantially on standard MD&A and accounting-policy boilerplate. Key risks include COVID-19 disruptions, supply-chain and freight constraints, inflation, foreign-exchange exposure, uncertain tax positions, and potentially material impacts that management states cannot reasonably estimate."
+}

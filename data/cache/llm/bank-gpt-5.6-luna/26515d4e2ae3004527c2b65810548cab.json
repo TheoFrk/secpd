@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "normalized segment operating income",
+    "expects to profitably grow",
+    "generally in balance with demand",
+    "primarily due to factors discussed above",
+    "excludes restructuring charges and unusual items"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed segment and year-over-year explanations, but is lengthy and repetitive regarding organizational and reporting changes. Risk tone is mildly positive, though the 13% decline in net income, higher costs and promotional spending, supply uncertainty, and reliance on acquisitions and distributor arrangements indicate meaningful operating and execution risks."
+}

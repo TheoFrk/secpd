@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.86,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurances of financing",
+    "going-concern adjustment disclaimer",
+    "anti-dilution conversion price",
+    "long, repetitive financing terms",
+    "management judgment estimates"
+  ],
+  "risk_summary": "The excerpt indicates severe liquidity and going-concern risk, including only $123,000 of cash, a $6.36 million working-capital deficit, an $88.97 million accumulated deficit, limited revenues, and dependence on additional financing. Numerous convertible instruments, warrants, dilution provisions, settlement obligations, and derivative liabilities materially increase financial complexity and capital-structure risk. Disclosure is detailed in places but difficult to parse because of lengthy, repetitive transaction descriptions and substantial reliance on management estimates and contingency lan…"
+}

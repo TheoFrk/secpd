@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "adjusted EBITDA non-GAAP measure",
+    "recent acquisitions",
+    "higher average debt levels",
+    "partially offsetting",
+    "special tax items"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides detailed segment-level explanations, supporting relatively strong disclosure quality. The tone is broadly positive, reflecting substantial revenue and operating income growth, but acquisition-related leverage, higher material costs, foreign exchange exposure, and volatile tax benefits introduce moderate risk. The discussion is somewhat boilerplate-heavy in its introductory language and relies on adjustments and offsetting explanations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "boilerplate forward-looking safe harbor",
+    "no assurance of financing",
+    "likelihood cannot be estimated",
+    "shell corporation",
+    "forced to dissolve"
+  ],
+  "risk_summary": "The disclosure indicates severe financial distress: the company is a shell with no revenue, recurring losses, limited cash, reliance on financing, and explicit going-concern and potential dissolution risks. Although cash flows and expenses are quantified, substantial boilerplate and repeated uncertainty language provide limited detail on the viability, timing, or funding of a proposed acquisition or merger."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "relatively stable economic conditions",
+    "by varying degrees",
+    "despite economic uncertainty",
+    "strategic repositioning",
+    "significant judgments and assumptions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, covering earnings, credit quality, liquidity, capital, and 2025 guidance. Risk tone is cautiously confident, though substantial uncertainty remains around interest rates, geopolitics, regulation, credit performance, and the effects of securities repositioning. The truncated ACL discussion and reliance on adjusted non-GAAP guidance modestly limit transparency."
+}

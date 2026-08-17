@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "historical results may not indicate future trends",
+    "based on information available",
+    "estimated in good faith",
+    "significant judgment and estimates",
+    "non-GAAP measures not necessarily comparable"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting strong earnings, capital, asset-quality, loan-growth, and deposit metrics. Risk is concentrated in acquisition-driven growth, credit-loss estimation, fair-value judgments, and reliance on non-GAAP measures, with some standard caveats and truncated critical-policy discussion limiting completeness."
+}

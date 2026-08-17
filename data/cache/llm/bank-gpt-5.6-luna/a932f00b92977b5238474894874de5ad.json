@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Underlying results exclude notable items",
+    "may not be comparable",
+    "do not place undue reliance",
+    "combined impacts of interest rates",
+    "company-specific idiosyncratic charge-offs"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but emphasizes adjusted Underlying measures that may soften the presentation of weaker GAAP performance. Credit risk is elevated, particularly in commercial real estate, with criticized balances rising substantially and office-sector exposure affected by interest rates and return-to-office dynamics."
+}

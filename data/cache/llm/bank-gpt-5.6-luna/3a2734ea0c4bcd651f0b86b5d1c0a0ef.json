@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot accurately measure full impact",
+    "unknown future related expenses",
+    "risks and uncertainties",
+    "strategic imperatives without detail",
+    "safe harbor forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and selected quantitative metrics, but relies on standard caveats regarding pandemic effects, inflation, competition, and future expenses. Risk disclosure is broad rather than scenario-specific, and the strategic imperatives section appears incomplete or insufficiently detailed."
+}

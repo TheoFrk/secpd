@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding non-cash impairment charges",
+    "adjusted net earnings",
+    "we believe",
+    "attempted to estimate",
+    "not a direct obligation or liability"
+  ],
+  "risk_summary": "The disclosure is highly quantitative but presents performance using adjusted metrics that exclude a $1.14 billion impairment, while reported earnings fell sharply to $70 million. Material risks include margin pressure, deflation, competition, and an estimated $2.7 billion share of multi-employer pension underfunding, although management maintains a generally confident strategic tone."
+}

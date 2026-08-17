@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.72,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP performance emphasis",
+    "management expects to improve",
+    "hedge against interruption of supply",
+    "within its reserve balances",
+    "FX-adjusted comparisons"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and transparent, with detailed reconciliations of GAAP and non-GAAP results, liquidity metrics, debt reduction, and operating trends. Risk tone is predominantly positive due to strong cash generation, debt repayment, and improved margins, although exposure remains to foreign exchange, China distributor demand, inventory buildup, and supply-transition execution."
+}

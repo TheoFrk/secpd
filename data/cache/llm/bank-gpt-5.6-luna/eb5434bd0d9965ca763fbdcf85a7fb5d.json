@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "ultimate implementation",
+    "ability to obtain new financings",
+    "could cause actual results to differ materially",
+    "subject to permits and contracts"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and financial quantification, but relies heavily on forward-looking assumptions regarding project implementation, permitting, contracts, and financing. Repeatedly emphasizing potential future cash flow contrasts with minimal current revenue and substantial net losses, indicating meaningful execution and liquidity risk."
+}

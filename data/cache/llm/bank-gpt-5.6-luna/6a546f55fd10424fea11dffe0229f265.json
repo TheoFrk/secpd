@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily reflecting",
+    "customary for financings of this type",
+    "substantial uncertainties",
+    "more likely than not",
+    "immaterial restatements"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but performance reflects a 37% revenue decline, operating losses in certain segments, substantial debt, and significant valuation allowances. Risk is partly obscured by reliance on nonrecurring gains, discontinued operations, and standard uncertainty language around taxes and litigation. Liquidity appears constrained, with limited cash and covenant-dependent borrowing capacity."
+}

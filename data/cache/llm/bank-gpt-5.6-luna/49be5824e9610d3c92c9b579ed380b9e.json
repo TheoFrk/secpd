@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "certain risks and uncertainties",
+    "subject to satisfaction or waiver of conditions",
+    "could be as much as twice",
+    "potential ways to mitigate incremental costs"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but includes standard forward-looking disclaimers and conditional language around the pending nTelos acquisition. Risk tone is mildly negative because migration assumptions materially changed, integration may extend through 2017, and non-recurring costs could reach twice prior estimates."
+}

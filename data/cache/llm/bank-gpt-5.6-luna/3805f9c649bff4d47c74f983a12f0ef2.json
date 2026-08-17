@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.52,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "we believe",
+    "subject to uncertainties",
+    "material impact",
+    "strategic initiative boilerplate"
+  ],
+  "risk_summary": "The excerpt presents strong 2019 operating performance, with quantified growth in revenue, closings, orders, backlog, margins, and improved leverage. Risk disclosure is largely standard and centers on housing-market variability, accounting estimates, and potential deviations from management assumptions; the excerpt provides limited downside sensitivity or stress-case quantification."
+}

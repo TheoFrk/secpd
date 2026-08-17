@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "key indicators include (but are not limited to)",
+    "subject to risk, uncertainties, and other factors",
+    "we believe",
+    "could adversely affect profitability",
+    "missing comparative results tables"
+  ],
+  "risk_summary": "The excerpt relies heavily on forward-looking, qualified language and generic growth objectives, while omitting the underlying key indicators and comparative results referenced in the text. Liquidity is quantified, but the company reports limited cash resources, an acquisition-related cash decline, expected ERP spending, and heightened competitive pressure."
+}

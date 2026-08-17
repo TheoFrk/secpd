@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.03,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results may differ",
+    "no guarantee recoverable",
+    "difficult to corroborate",
+    "non-binding broker quotations"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified interest-rate and balance data, but relies heavily on standard accounting-policy disclaimers and management judgment. Key risks involve credit-loss allowances, securities valuation and impairment, deferred tax-asset recoverability, and goodwill impairment, with limited sensitivity analysis or quantified downside exposure."
+}

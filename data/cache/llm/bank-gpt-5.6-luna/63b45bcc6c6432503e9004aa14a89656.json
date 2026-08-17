@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "include, but are not limited to",
+    "cannot always predict",
+    "actual results could differ significantly",
+    "limited ability to predict demand"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and broad, non-exhaustive risk categories, limiting specificity about probability and financial impact. It identifies meaningful exposure to construction delays, fixed-price cost inflation, demand uncertainty, commodity prices, competitive bidding, and collection risk, while providing limited quantified downside analysis."
+}

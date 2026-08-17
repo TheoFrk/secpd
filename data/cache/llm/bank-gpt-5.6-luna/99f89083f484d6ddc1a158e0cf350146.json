@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance regarding timing or form",
+    "estimates subject to change",
+    "could materially impact operating results",
+    "inherently uncertain and unpredictable",
+    "non-GAAP exclusion of impairment"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified sensitivity analyses, but relies heavily on uncertain assumptions around demand, inventory, fair values, impairment, and tax positions. The $1.45 billion net loss, goodwill and intangible impairment, higher interest expense, and uncertain Topgolf separation indicate elevated financial and execution risk. Non-GAAP results materially soften the reported loss, requiring careful reconciliation to GAAP performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor language",
+    "could differ materially",
+    "no assurances can be given",
+    "estimates based on reasonable assumptions",
+    "undertake no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate risk disclaimers and forward-looking language, with limited discussion of specific sensitivities or quantified downside scenarios. Material risks include a highly concentrated customer base, recurring losses and net operating loss carryforwards, acquisition-related obligations, and reliance on subjective accounting estimates. The tone is cautious overall, despite stated expansion plans."
+}

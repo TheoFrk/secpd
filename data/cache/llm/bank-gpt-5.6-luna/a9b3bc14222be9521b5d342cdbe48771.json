@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset",
+    "to a lesser extent",
+    "expected production decline",
+    "outside the control of management"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, explaining major year-over-year changes in production, prices, expenses, reserves, impairments, and derivatives. Risk remains moderate because production declined in key categories, results depend heavily on volatile commodity prices, and reserve and impairment estimates are sensitive to pricing assumptions."
+}

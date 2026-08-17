@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "risks include, but are not limited to",
+    "could differ materially",
+    "expects to approximate",
+    "slightly higher",
+    "no adverse events or changes in circumstances"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides useful segment, margin, liquidity, and ERP expenditure details, but includes standard forward-looking disclaimers and several qualitative expectations. Key risks include weak growth markets, sharply reduced profitability in Information Security and Print Finishing, ERP implementation costs and execution risk, reliance on customer relationships, and financing compliance."
+}

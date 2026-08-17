@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actively managed balance sheet",
+    "ample liquidity",
+    "asset quality continues to remain strong",
+    "primarily attributed to",
+    "if rates continue to decline"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting loan growth, funding costs, borrowing capacity, uninsured deposits, credit metrics, and maturities. Risk tone is mildly positive, but reliance on brokered deposits and FHLB funding, substantial uninsured deposits, rising deposit costs, and near-term maturities warrant monitoring. Repeated passages and favorable management characterizations modestly reduce clarity."
+}

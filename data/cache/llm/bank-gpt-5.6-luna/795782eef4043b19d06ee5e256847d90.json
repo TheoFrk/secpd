@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "could be materially different",
+    "not possible to predict all factors",
+    "significant judgment",
+    "anticipated claims"
+  ],
+  "risk_summary": "The excerpt reports strong, quantified revenue and margin growth across the architectural segments, producing a generally positive operating tone. Risk disclosure is largely standardized and broad, while goodwill valuation and product liability reserves depend on significant forecasts, judgment, insurance deductibles, and potentially uninsured claims."
+}

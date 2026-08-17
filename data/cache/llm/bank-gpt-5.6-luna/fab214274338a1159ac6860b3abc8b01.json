@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.27,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "current expectations",
+    "may take advantage of opportunities",
+    "other circumstances",
+    "overall market conditions",
+    "table and OCR artifacts"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and moderately confident outlook, including expected lower input costs and sufficient liquidity. However, liquidity and refinancing depend on operating performance, market conditions, credit arrangements, and other contingencies, while the excerpt provides limited quantified detail on downside risks. Repetitive segment headings and apparent table-extraction artifacts reduce clarity."
+}

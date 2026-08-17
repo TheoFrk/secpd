@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly subjective, complex and subject to variability",
+    "Actual results could differ significantly",
+    "other relevant factors",
+    "current market conditions",
+    "projected cash flows"
+  ],
+  "risk_summary": "The excerpt reports strong earnings growth and improving credit quality, but relies substantially on management judgments, historical loss rates, collateral valuations, and projected cash flows. Key exposures include low interest rates, mortgage-rate sensitivity, commodity and regulatory risks, collateral volatility, and potential impairment or credit losses exceeding estimates. The dense accounting discussion and truncated text limit transparency in assessing downside magnitude."
+}

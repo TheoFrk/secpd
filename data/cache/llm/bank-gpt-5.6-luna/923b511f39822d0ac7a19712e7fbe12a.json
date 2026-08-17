@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "subject to customary conditions",
+    "we believe sufficient liquidity",
+    "economically feasible",
+    "anticipate percentage rent to be less than 1%"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, covering leverage, liquidity capacity, maturities, covenants, acquisitions, and lease characteristics. Risk tone is cautiously positive, though reliance on capital markets, variable-rate borrowing, acquisition funding, tenant default risk, and substantial dividend distributions create meaningful financial flexibility and interest-rate risks."
+}

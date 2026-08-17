@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results could differ significantly",
+    "qualitative information and knowledge of increased risk",
+    "unforeseen and under-quantified liabilities",
+    "favorable or unfavorable loss development"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and technically detailed, with quantified underwriting history and clear definitions of key measures. However, reserve adequacy depends heavily on judgment, qualitative enhancements, legal developments, inflation, claims uncertainty, and potentially under-quantified liabilities. The tone is confident regarding historical performance but acknowledges meaningful reserve estimation and loss development risk."
+}

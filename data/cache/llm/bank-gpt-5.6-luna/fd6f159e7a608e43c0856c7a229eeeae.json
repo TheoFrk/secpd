@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and actual results may differ",
+    "customary regulatory consents and closing conditions",
+    "no assurance of recovery",
+    "subject to certain conditions",
+    "macro-economic and geopolitical risk qualifiers"
+  ],
+  "risk_summary": "The disclosure is reasonably specific, with quantified acquisition costs, debt balances, receivables write-offs, and liquidity figures, but relies on standard forward-looking and contingency language. Risk tone is moderately negative due to challenged marine and land segments, customer bankruptcies, substantial leverage, covenant/default exposure, and dependence on volatile commodity and macroeconomic conditions."
+}

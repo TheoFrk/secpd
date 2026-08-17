@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subject to risks and uncertainties",
+    "inherently uncertain and unpredictable",
+    "additional financing may not be available",
+    "truncated disclosure text"
+  ],
+  "risk_summary": "The disclosure presents a materially adverse liquidity and going-concern profile: monthly operating cash outflows are approximately $200,000, current cash is insufficient for 12 months, and continued operations depend on additional financing or revenue generation. Although several amounts and accounting policies are quantified, extensive boilerplate, technical language, management estimates, and a truncated section reduce transparency around execution and funding prospects."
+}

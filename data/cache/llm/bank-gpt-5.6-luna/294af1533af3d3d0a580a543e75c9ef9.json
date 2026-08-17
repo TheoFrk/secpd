@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "assumptions, risks, and uncertainties",
+    "no list ... could be complete",
+    "other assumptions, risks, or uncertainties",
+    "ability to effectively manage"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate and broad, non-quantified risk disclosures, particularly around forward-looking statements, regulation, liquidity, technology, and macroeconomic conditions. It does provide specific figures for the FDIC assessment and selected operating changes, but the overall discussion is lengthy and generic, with a mildly negative tone reflecting banking-sector volatility and liquidity concerns."
+}

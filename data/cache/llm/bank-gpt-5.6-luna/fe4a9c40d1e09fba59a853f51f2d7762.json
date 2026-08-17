@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significant estimates and assumptions",
+    "subjective and/or complex judgments",
+    "could have a material impact",
+    "future impairment charges"
+  ],
+  "risk_summary": "The excerpt is generally precise and strongly quantified, reporting substantial growth in sales, gross profit, and operating income across end markets. Risk exposure remains moderate due to supply-chain constraints, commodity and labor cost volatility, acquisition-related valuation assumptions, and potential future impairment charges. The overall tone is confident and performance-oriented, with standard cautionary and accounting-estimate disclosures."
+}

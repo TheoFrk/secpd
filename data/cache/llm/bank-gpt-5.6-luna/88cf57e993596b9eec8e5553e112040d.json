@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "variety of assumptions",
+    "other […]",
+    "changing mix between periods",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent about revenue growth, margin compression, litigation, higher debt-related interest, labor constraints, and rising land costs. Risk is partly softened by optimistic outlook language and broad caveats around estimates, comparability, and future conditions. Overall tone is cautiously positive, but profitability and cost-control pressures remain material."
+}

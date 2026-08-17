@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "expected to generate significant savings",
+    "positive impact",
+    "other costs impacting comparability",
+    "evolving consumer trends"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, operating profit, EPS, segment performance, and growth targets, but relies on adjusted non-GAAP measures and broad forward-looking claims around investments and Project K. The risk tone is mildly negative, reflecting declining reported and comparable results, cereal and snack weakness, margin pressure, and challenging consumer trends, while management presents remediation efforts with measured confidence."
+}

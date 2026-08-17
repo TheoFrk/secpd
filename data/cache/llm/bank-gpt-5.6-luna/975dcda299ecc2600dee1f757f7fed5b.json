@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "when market conditions permit",
+    "may seek to",
+    "appropriate risk management strategies",
+    "unable to estimate future margins"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on sales, commodity-price movements, financing terms, and covenant requirements, but relies on boilerplate forward-looking disclaimers and noncommittal language regarding operations and margin management. Risk is elevated due to significant ethanol, corn, and natural-gas price exposure, limited resources, potential negative margins, and restrictive credit covenants."
+}

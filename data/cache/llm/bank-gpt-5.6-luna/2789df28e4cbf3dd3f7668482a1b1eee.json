@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "deemed collectible",
+    "typically received",
+    "primarily",
+    "most significant assumptions",
+    "truncated impairment discussion"
+  ],
+  "risk_summary": "The excerpt is largely historical and boilerplate, with substantial accounting-policy detail but limited direct discussion of forward-looking risks or quantified sensitivities. Revenue recognition and impairment disclosures rely on collectibility judgments, estimates, and conditional language, while reported margins and royalties show a modestly positive operating trend."
+}

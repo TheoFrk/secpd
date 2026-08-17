@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "difficult to predict with certainty",
+    "could lead to increases",
+    "potential to generate sales increases",
+    "financing may not be available",
+    "if we cannot raise funds"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, but relies on optimistic projections regarding new products, orders, and future revenue growth. Liquidity risk is material, given recurring operating losses, negative operating cash flow, dependence on external financing, and explicit uncertainty regarding the availability and terms of financing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expect significant contribution",
+    "cannot assure you financing will be available",
+    "based on current sales forecasts",
+    "no binding commitments",
+    "material impact on financial statements"
+  ],
+  "risk_summary": "The disclosure identifies substantial liquidity and going-concern risk, including insufficient operating cash flow, prior Chapter 11 bankruptcy, no credit facility, and dependence on uncertain external financing. Projections for sales, engineering activity, inventory realization, and product development are forward-looking and only lightly quantified. Failure to raise approximately $10 million could require major expense reductions and threaten the company’s viability."
+}

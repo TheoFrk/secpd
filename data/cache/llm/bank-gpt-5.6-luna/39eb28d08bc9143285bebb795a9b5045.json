@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurance of further financing",
+    "as needed",
+    "may be necessary to discontinue operations",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The disclosure is relatively specific about cash balances, operating cash burn, losses, financing dependence, and the explicit substantial doubt regarding going-concern status. Liquidity risk is severe because the company has minimal revenue, recurring losses, relies on external financing, and acknowledges that failure to obtain capital could delay development or force cessation of operations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily as a result of the Acquisition",
+    "broad-based increase in demand",
+    "partially offset by",
+    "data categorization may vary over time",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, but repeatedly attributes performance improvements to the Linear acquisition and uses broad causal wording such as “primarily” and “broad-based.” Acquisition-related debt financing and accounting adjustments represent material credit considerations, although the overall operating tone is favorable."
+}

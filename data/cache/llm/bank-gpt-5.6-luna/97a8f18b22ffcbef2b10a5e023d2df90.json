@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "actual results could differ materially",
+    "no obligation to revise or update",
+    "management estimates and assumptions",
+    "future adjustments may be necessary"
+  ],
+  "risk_summary": "The excerpt is technically detailed but contains substantial standard forward-looking disclaimers and reliance on subjective estimates, particularly for loan losses, fair values, and FDIC-related obligations. Credit risks include borrower repayment capacity, collateral values, interest-rate exposure, economic conditions, and potential future allowance adjustments, while management maintains a generally stable and mildly confident tone."
+}

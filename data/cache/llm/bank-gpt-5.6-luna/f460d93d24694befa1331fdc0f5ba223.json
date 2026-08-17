@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "expected to",
+    "where appropriate",
+    "not meaningful",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally specific and transparent, with extensive quantified results, restructuring costs, debt terms, and future cash obligations. Risk factors include recessionary European demand, emerging-market slowdown, currency volatility, litigation and settlement charges, restructuring cash needs, and acquisition commitments, but the overall tone remains cautiously confident."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "known and unknown risks",
+    "actual results may differ materially",
+    "no obligation to update",
+    "other unknown or unpredictable factors"
+  ],
+  "risk_summary": "The excerpt presents a generally stable banking profile with quantified assets, deposits, loans, capital, and operating metrics, and states that capital exceeded well-capitalized guidelines. Risk disclosure is dominated by standard forward-looking-statement disclaimers and broad references to unknown factors, while credit risk increased in 2015 as provisions shifted from reversals to a $6.8 million expense due to specific reserves and loan growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "constant currency adjustments",
+    "non-GAAP adjusted measures",
+    "anticipated future market conditions",
+    "ongoing facility-related costs",
+    "approximately/expected savings"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear explanations of revenue, cost, restructuring, and acquisition effects. Risk is moderate: cost inflation, restructuring charges, facility obligations, acquisition-related amortization, and weaker adjusted operating income indicate margin pressure despite reported growth. Reliance on constant-currency and adjusted measures may reduce comparability with GAAP results."
+}

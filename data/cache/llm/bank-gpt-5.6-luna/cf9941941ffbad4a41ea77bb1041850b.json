@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.63,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "partially offset by",
+    "approximately",
+    "normal production decline",
+    "unallocated expenses"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and financial performance narrative, supported by extensive quantitative detail on production, reserves, income, expenses, and segment results. Key risks include lower realized gas prices, production declines, higher depletion and interest expense, substantial capital investment, and reliance on hedging and infrastructure expansion. Disclosure is generally specific, though frequent attribution to offsetting factors and allocation changes increases interpretive complexity."
+}

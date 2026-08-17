@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.7,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "ability to predict orders is limited",
+    "subject to changes in market interest rates",
+    "significant estimates and judgments",
+    "duplicated tax-benefit disclosure"
+  ],
+  "risk_summary": "The disclosure is highly quantitative but describes significant deterioration, including a 38% sales decline, a 66% gross-profit decline, and a shift to a $12.5 million net loss. Excess inventory, customer demand weakness, unabsorbed manufacturing overhead, and limited order visibility indicate elevated operating and forecasting risk, with margins expected to remain depressed for several quarters."
+}

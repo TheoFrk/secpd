@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "known and unknown risks and uncertainties",
+    "may cause actual results to differ",
+    "no obligation to update",
+    "potential revenue opportunities subject to uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial information, including revenue, margins, costs, charges, and regional performance. Risk disclosure is extensive but heavily boilerplate in the forward-looking section, while key pressures include inflation, foreign exchange, higher interest expense, discontinued-operations liabilities, and execution risk for BioPhero commercialization. Overall tone is cautiously positive, supported by growth and mitigation actions, but tempered by margin compression and unresolved uncertainties."
+}

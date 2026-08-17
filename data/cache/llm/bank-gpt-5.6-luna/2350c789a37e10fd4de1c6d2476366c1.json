@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "subject to market conditions",
+    "disclaims any obligation to update",
+    "strategic pillars"
+  ],
+  "risk_summary": "The excerpt is largely specific and transparent, with extensive quantified operating, financial, and investment metrics. Risk disclosure is primarily standard forward-looking-statement boilerplate and identifies meaningful execution, market, interest-rate, competitive, and spin-off risks without quantifying their potential impact. Overall tone is confident and favorable, supported by strong growth and liquidity indicators."
+}

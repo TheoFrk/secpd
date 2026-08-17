@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "we believe",
+    "primarily due to",
+    "could experience fluctuation",
+    "broad array of products",
+    "past performance does not guarantee future results"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting assets under management, market impacts, net outflows, acquisitions, revenues, and operating income. Risk is present through declining equity markets, negative market performance, net outflows, fee-rate compression, and reliance on asset levels, but the overall tone remains moderately positive due to acquisition-driven growth and improved profitability."
+}

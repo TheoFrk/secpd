@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict duration or total magnitude",
+    "may include, but are not limited to",
+    "expected to provide",
+    "significantly impacted by COVID-19",
+    "non-GAAP measures exclude significant items"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including pandemic impacts, expected initiative costs, savings, liquidity, and transaction details. Key uncertainty remains around the duration and magnitude of COVID-19, customer demand, receivables realization, impairments, and future cash flows. The tone is cautiously resilient rather than crisis-like, supported by continued operations and active liquidity management."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "known and unknown liabilities",
+    "may not achieve projected profitability",
+    "probable recovery",
+    "significant future capital investment"
+  ],
+  "risk_summary": "The disclosure provides meaningful operational detail and some quantified information, but relies heavily on standard strategic and risk language around acquisitions, regulatory recovery, and integration outcomes. Key risks include drought conditions, substantial future capital requirements, regulatory disallowance of assets, and uncertainty regarding the success and profitability of acquisitions."
+}

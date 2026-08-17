@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "may be utilized",
+    "dependent upon proceeds from sale of securities",
+    "until such time as CEL-SCI becomes profitable",
+    "derivative liabilities and fair-value adjustments"
+  ],
+  "risk_summary": "The company is pre-revenue and expects expenses to exceed revenues, requiring continued equity, debt, or grant financing to fund clinical development. Clinical and regulatory outcomes, funding availability, and commercialization timing remain materially uncertain, while derivative liabilities and related-party debt add financial complexity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "continuing poor operating results",
+    "capital constraints",
+    "no material impact on liquidity"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but it reports declining casino revenue, recurring net losses, goodwill impairments, and capital constraints. Risk factors are presented in broad boilerplate terms, while the conclusion that no trends are reasonably likely to materially affect liquidity appears cautiously reassuring despite the adverse operating results."
+}

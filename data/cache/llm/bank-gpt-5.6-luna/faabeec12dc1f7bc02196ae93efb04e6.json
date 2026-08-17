@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "other items that vary from period to period",
+    "expects to continue to optimize",
+    "non-GAAP financial measures",
+    "may continue to have the effect"
+  ],
+  "risk_summary": "The excerpt is generally informative and quantitatively detailed, but contains substantial legal, accounting, and non-GAAP terminology that increases interpretive complexity. COVID-19, cost inflation, competition, impairment charges, and franchisee-related exposure are acknowledged, while management maintains a cautiously confident growth-oriented tone."
+}

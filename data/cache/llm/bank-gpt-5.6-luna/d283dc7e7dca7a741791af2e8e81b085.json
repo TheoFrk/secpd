@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks",
+    "expressly disclaim any obligation to update",
+    "not construed as exhaustive",
+    "if available acquisitions do not meet criteria"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on occupancy, rent growth, acquisitions, cash reserves, and fixed-rate debt, but is heavily surrounded by repetitive legal safe-h harbor language and broad uncertainty disclaimers. Operating performance is presented positively, although rising interest rates, increased leverage, acquisition execution risk, concentrated ownership, and potential impairment or refinancing needs remain relevant credit risks."
+}

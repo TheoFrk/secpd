@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties beyond our control",
+    "backlog not firm orders",
+    "significant judgment and estimates",
+    "no assurance future profitability"
+  ],
+  "risk_summary": "The disclosure presents strong housing demand, a $1.1 billion backlog, and improving capacity utilization, but qualifies these positives because orders may be canceled and production remains constrained by labor and supply-chain issues. Credit and liquidity risks include distributor and borrower credit exposure, mandatory investor remittances during forbearance, limited financing markets, inflation, and higher interest rates. Extensive boilerplate disclaimers and reliance on forecasts and unobservable valuation inputs reduce certainty around future results."
+}

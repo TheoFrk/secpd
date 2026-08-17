@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.89,
+  "obfuscation_indicators": [
+    "adjusted/non-GAAP measures",
+    "long-term growth objectives",
+    "expects to generate",
+    "partially offset by",
+    "omitted target table"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but presents performance through extensive adjusted and constant-currency measures, while organic sales were flat and diluted EPS declined 20%. Positive management messaging emphasizes strategy, cash generation, and deleveraging, but risks include input-cost inflation, margin pressure, acquisition integration, and reliance on non-GAAP metrics."
+}

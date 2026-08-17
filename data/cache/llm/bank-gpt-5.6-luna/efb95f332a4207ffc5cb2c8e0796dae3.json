@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expected improvement",
+    "significant improvement in demand",
+    "about $123 million",
+    "somewhat improve margins",
+    "true earnings power"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but relies on forward-looking assumptions about demand, pricing, margins, acquisitions, and credit-market conditions. Key risks include weak non-residential construction demand, pricing volatility, working-capital funding needs, and debt covenant or refinancing exposure, although leverage and liquidity are presented as manageable."
+}

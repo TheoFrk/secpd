@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "factors that might cause such differences",
+    "subject to volatility and downward pressure",
+    "significant judgment and uncertainties",
+    "outcome of litigation is inherently uncertain"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate but includes meaningful quantified disclosure, including a 2% or $5.4 billion sales decline and identified iPhone and currency pressures. Risk tone is mildly negative due to weaker sales, expected gross-margin pressure, tax uncertainty, warranty estimates, and litigation exposure, although management presents these risks in a controlled and confident manner."
+}

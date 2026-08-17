@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect costs to be offset",
+    "projecting high single digit increases",
+    "largely driven by",
+    "favorable mix of earnings",
+    "challenging economic environment"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear attribution of sales, margin, cash flow, tax, and acquisition impacts. Risk tone is cautiously positive, but material cost inflation, margin compression, higher debt-related interest expense, foreign exchange exposure, joint venture profit pressure, and reliance on pricing and cost savings are notable risks. Forward-looking offsets rely on management expectations rather than fully quantified sensitivity analysis."
+}

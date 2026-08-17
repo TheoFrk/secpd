@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "uncertain and difficult to predict",
+    "expected to continue",
+    "timing and impact ... unknown",
+    "non-GAAP financial measures",
+    "additional information ... can be found"
+  ],
+  "risk_summary": "The excerpt is generally constructive, emphasizing merger expansion, strategic initiatives, and operational efficiencies, with substantial quantitative detail. Key uncertainties include COVID-19 aftereffects, inflation, labor and supply-chain disruptions, interest-rate changes, and execution risk during Sterling integration. Repeated cross-references and extensive non-GAAP discussion add boilerplate and interpretive complexity."
+}

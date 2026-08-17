@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "many factors outside of our control",
+    "expected to be funded by borrowings",
+    "may adjust our capital program",
+    "borrowing base may be decreased"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on cash flow, debt, liquidity, pricing, and borrowing-base availability, but relies on broad qualifiers and forward-looking assumptions regarding commodity prices, reserves, capital access, and operational performance. Risk is elevated by commodity-price volatility, reserve-estimation uncertainty, dependence on revolving credit, collateral requirements, and potential borrowing-base reductions, despite management’s confident strategic language."
+}

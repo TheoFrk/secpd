@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "assumptions prove incorrect",
+    "no obligation to update",
+    "generally favorable outlook"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and safe-harbor language that limits reliance on projections, but it also provides meaningful quantitative operating detail. COVID-19 reduced sales, gross profit, margins, capacity utilization, and demand, while acquisition dependence, customer credit risk, inventory exposure, and global economic uncertainty remain material risks."
+}

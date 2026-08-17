@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "uncertainty related to the duration",
+    "we expect",
+    "likely result in",
+    "no assurance can be given",
+    "does not currently expect materially"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative information on operating income, liquidity, debt capacity, covenants, ratings, and interest-rate sensitivity. Risk tone is cautiously positive, but COVID-19 uncertainty, channel normalization, higher expenses, inflation, and potential credit-rating effects could pressure 2021 performance. Extensive procedural and pandemic-response boilerplate increases length and partially obscures the key financial risks."
+}

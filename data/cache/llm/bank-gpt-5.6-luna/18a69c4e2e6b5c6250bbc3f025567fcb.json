@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could cause actual results to differ materially",
+    "we do not believe",
+    "a number of factors",
+    "uncertainty regarding future realization"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, reporting revenue growth, customer deployments, product mix, and implementation metrics, but it includes standard forward-looking disclaimers and management judgments. Key risks include product and channel-partner concentration, competitive pressure, lengthy implementation cycles, license-renewal timing, valuation assumptions, and deferred tax asset realization uncertainty. Overall tone is cautiously positive, supported by strong growth and market positioning claims, while acknowledging material execution and demand risks."
+}

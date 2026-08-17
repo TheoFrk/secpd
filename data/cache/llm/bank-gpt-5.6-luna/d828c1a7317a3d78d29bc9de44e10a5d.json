@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "various uncertainties and changes in circumstances",
+    "believed to be reasonable under the circumstances",
+    "actual results may differ from those estimates",
+    "changes in any of these estimates could materially change",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is detailed and grounded in segment descriptions and accounting policies, but relies substantially on standard forward-looking disclaimers and management estimates. Key risks include environmental and mine-closure liabilities, impairment assumptions, tax judgments, and a NAMining operating loss, although the overall tone is neutral to mildly confident."
+}

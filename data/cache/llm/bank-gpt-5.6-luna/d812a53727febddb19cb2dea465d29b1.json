@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "known and unknown liabilities",
+    "potential for a negative impact",
+    "from time to time pursues opportunities",
+    "may not achieve projected profitability"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and provides substantial operating metrics, service-area data, regulatory context, and water-supply information. Risk disclosure is cautious but broadly boilerplate, emphasizing uncertain acquisition outcomes, integration costs, regulatory impacts, financing constraints, and potential adverse effects without quantifying their probability or financial magnitude."
+}

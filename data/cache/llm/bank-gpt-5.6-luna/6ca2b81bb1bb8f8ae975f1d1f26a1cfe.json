@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "complex judgments and estimates",
+    "numerous alternative judgments",
+    "changes could impact earnings",
+    "economic uncertainty",
+    "other-than-temporary impairment"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, reporting earnings, capital, asset quality, loan growth, and net interest income metrics. Risk is concentrated in judgment-heavy allowance, pension, and securities impairment estimates, with downside sensitivity to economic deterioration and market conditions. Overall tone is cautiously positive, emphasizing strong profitability, capital, and asset quality while retaining standard forward-looking caveats."
+}

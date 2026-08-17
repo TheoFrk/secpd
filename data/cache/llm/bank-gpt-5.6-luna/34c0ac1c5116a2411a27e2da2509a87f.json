@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "outside of our control",
+    "cannot be reasonably predicted",
+    "without unreasonable effort",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides specific year-over-year drivers, liquidity, profitability, capital spending, and tax information. Risk tone is generally stable and moderately positive, though reliance on non-GAAP measures, hedging, estimates, and forward-looking reconciliation exclusions introduces transparency and execution risk."
+}

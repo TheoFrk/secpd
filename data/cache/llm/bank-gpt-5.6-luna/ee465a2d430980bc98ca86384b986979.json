@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "considerable judgment",
+    "other external factors",
+    "believed to be reasonable",
+    "more likely than not",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative portfolio, asset, liability, and yield information, but critical accounting discussions rely on standard judgment-based and conditional language. Credit risk is acknowledged through potential increases in delinquencies, defaults, non-performing assets, charge-offs, and provisions under adverse economic conditions, without providing scenario-specific quantified impacts here."
+}

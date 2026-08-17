@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "moderate improvement",
+    "management does not expect",
+    "could have an adverse effect",
+    "no assurance can be given",
+    "non-GAAP Adjusted EBITDA"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative, reporting occupancy, ADR, REVPAR, revenue, expenses, interest, losses, and Adjusted EBITDA, but relies on generic forward-looking assumptions about economic improvement and competition. The company remains loss-making and exposed to hotel demand, pricing, occupancy, operating costs, and market supply risks, despite improved operating metrics and reduced losses."
+}

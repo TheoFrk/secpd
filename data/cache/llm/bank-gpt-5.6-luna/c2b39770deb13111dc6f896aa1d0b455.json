@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict revenue timing",
+    "may be utilized",
+    "subject to regulatory approval",
+    "substantial doubt about going concern",
+    "dependent on equity financing"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified regarding losses, cash flows, financing, and expenses, but repeatedly emphasizes uncertainty around regulatory approval and revenue generation. Liquidity risk is significant, with ongoing operating losses, reliance on securities issuance, limited cash balances, and an explicit substantial doubt about going concern. The clinical and regulatory pathway remains lengthy and uncertain, while the confirmatory study and manufacturing readiness require additional capital."
+}

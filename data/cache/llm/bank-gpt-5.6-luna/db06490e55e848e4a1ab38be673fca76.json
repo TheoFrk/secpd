@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "other factors may in the future",
+    "do not place undue reliance",
+    "primarily due to",
+    "unknown retirement dates"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear explanations of revenue, margin, expense, and earnings changes. Risk tone is mildly negative because diluted EPS and net income declined amid weaker agricultural conditions, lower fuel-margin volatility, and wage pressures, although sales growth and operating initiatives provide offsets. Standard forward-looking and liquidity caveats are present but do not substantially obscure the financial discussion."
+}

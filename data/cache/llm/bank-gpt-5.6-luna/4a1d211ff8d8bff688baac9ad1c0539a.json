@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "does not undertake any obligation to update",
+    "adjusted financial measures not GAAP",
+    "significant estimates and judgments",
+    "could result in an impairment charge"
+  ],
+  "risk_summary": "The excerpt provides substantial historical quantification of sales, earnings, acquisition effects, margins, and goodwill, but relies on standard forward-looking disclaimers and non-GAAP measures. Flat earnings, declining biotechnology sales, acquisition-related cost effects, investment impairments, and potential future goodwill impairment indicate moderate operating and valuation risk. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

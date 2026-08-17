@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "approximately",
+    "planned program exits",
+    "non-cash charges"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, but includes promotional boilerplate and repeated causal qualifiers. Risk is elevated by goodwill impairments, restructuring costs, pension settlement charges and an outlook for lower 2015 earnings, although management provides specific cash-flow and funding expectations."
+}

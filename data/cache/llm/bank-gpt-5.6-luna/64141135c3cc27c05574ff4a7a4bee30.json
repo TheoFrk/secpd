@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.25,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.45,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "significant liquidity",
+    "industry-leading operating results",
+    "will continue to mitigate earnings volatility",
+    "cautionary statements and significant risks"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides concrete operating, liquidity, leverage, pricing, impairment, and acquisition data. Management uses a generally confident tone, but emphasizes operational successes and mitigation strategies while exposure to lower demand, pricing volatility, energy-related businesses, and impairment charges remains material."
+}

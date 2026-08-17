@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "remains subject to post-closing adjustment",
+    "estimated net working capital",
+    "final resolution",
+    "significant noncontrolling interest",
+    "extensive reliance on Coca-Cola marketing support"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively reports extensive acquisition and exchange activity, but its long transaction descriptions and legal terminology materially increase complexity. Some settlement amounts and purchase prices remain estimated or subject to later adjustment, creating moderate execution and valuation uncertainty. Overall, the tone is factual and mildly constructive rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may be deemed forward-looking statements",
+    "we believe",
+    "actively addressing",
+    "where appropriate",
+    "additional discussion can be found elsewhere"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific regarding portfolio scale, leasing, expenses, sustainability initiatives, and cybersecurity controls. It acknowledges inflation, high interest rates, tenant payment risk, and evolving cyber threats, but presents mitigation efforts in a largely reassuring tone. Some risk discussion relies on cross-references, generalized commitments, and conditional language rather than quantified sensitivity analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may be deemed forward-looking statements",
+    "continue to monitor and address risks",
+    "we believe actions taken will mitigate",
+    "should one occur",
+    "no material impact reported"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, occupancy, cybersecurity, and sustainability information, reducing overall disclosure vagueness. Risk tone is mildly cautious due to inflation, interest rates, tenant payment risk, climate exposure, and cybersecurity threats, but management presents mitigation efforts confidently. Some risk discussion relies on boilerplate assurances and conditional language rather than quantified downside scenarios."
+}

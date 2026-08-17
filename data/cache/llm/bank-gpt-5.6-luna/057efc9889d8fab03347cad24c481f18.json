@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "material estimates",
+    "believed by management to be adequate",
+    "other pertinent factors",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding earnings, capital, charge-offs, provisioning, and funding actions. Credit risk is evident from rising net charge-offs, individually significant borrower losses, and reliance on subjective allowance and impairment estimates, although strong capital ratios and improved profitability moderate the tone."
+}

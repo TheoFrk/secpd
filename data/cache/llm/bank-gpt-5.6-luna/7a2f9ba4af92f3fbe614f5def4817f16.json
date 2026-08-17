@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "among other things",
+    "substantial doubt about going concern",
+    "additional capital may not be available",
+    "material impact not quantified"
+  ],
+  "risk_summary": "The disclosure explicitly states that auditors expressed substantial doubt about the Company’s ability to continue as a going concern and that additional financing is necessary. Liquidity depends on uncertain future equity, debt financing, and revenue generation, with significant dilution, financing-cost, and operational-curtailment risks. The discussion is technically dense and includes substantial boilerplate and unquantified contingencies."
+}

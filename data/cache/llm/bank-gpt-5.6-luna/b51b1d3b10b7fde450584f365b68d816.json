@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to the following factors",
+    "These increases were offset by",
+    "partially offset by",
+    "constant currency basis",
+    "cross-reference to omitted tables"
+  ],
+  "risk_summary": "The excerpt is materially quantified but contains several incomplete references to tables and contributing factors, limiting standalone transparency. Performance trends are mildly adverse, including lower operating income, gross margin, and EPS, alongside higher debt-related interest expense and acquisition-related losses. The tone remains formal and explanatory rather than crisis-like."
+}

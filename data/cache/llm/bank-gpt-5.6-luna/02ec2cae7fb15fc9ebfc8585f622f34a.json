@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "industry-wide downturn",
+    "we expect customers will reduce activity",
+    "subjective assumptions and judgments",
+    "more likely than not",
+    "non-GAAP Adjusted EBITDA"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively specific, but reflects severe operating deterioration, including a 64% revenue decline, negative segment profits, negative Adjusted EBITDA, and reliance on a troubled debt restructuring. Risk is driven by oil-price volatility, reduced rig activity, COVID-19 effects, customer pricing pressure, and substantial tax and accounting judgment."
+}

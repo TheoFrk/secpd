@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "no assurance",
+    "may need additional borrowings",
+    "reasonably possible impairments"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitative, clearly explaining revenue declines, production, pricing, cost changes, derivatives, reserves, and abandonment obligations. Risk tone is moderately negative because lower gas prices have sharply reduced sales, while production funding depends on prices and continued drilling success. The primary uncertainties involve commodity-price volatility, reserve replacement, impairment risk, and potential need for additional borrowing."
+}

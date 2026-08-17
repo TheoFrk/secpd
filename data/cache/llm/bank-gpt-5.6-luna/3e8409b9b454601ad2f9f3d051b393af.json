@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "cannot guarantee future results",
+    "no assurance as to impact",
+    "ongoing compromise",
+    "material weaknesses"
+  ],
+  "risk_summary": "The excerpt discloses significant risks, including $8.24 billion acquisition-related consideration and financing, material weaknesses in tax and IT controls, and an ongoing network compromise with the scope and impact still under evaluation. Risk is partly obscured by repeated boilerplate forward-looking disclaimers and broad uncertainty language, although key transaction amounts and control deficiencies are quantified."
+}

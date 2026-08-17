@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "believed to be reasonable",
+    "inherently uncertain estimates",
+    "seamless and integrated supply chain"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic and operating narrative, supported in parts by quantified financial comparisons. Risk transparency is reduced somewhat by extensive boilerplate, broad strategic claims, and repeated forward-looking and accounting-estimate caveats, while the truncated text limits assessment of the full risk discussion."
+}

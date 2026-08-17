@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to continue to grow",
+    "actual results could differ materially",
+    "future events cannot be determined with certainty",
+    "anticipated military spending reductions",
+    "strategic acquisitions and targeted marketing"
+  ],
+  "risk_summary": "The excerpt presents improved revenue, earnings, and operating margins with a generally constructive tone, but aerospace demand is exposed to government spending reductions and economic weakness. Risk disclosure is largely standardized and qualitative in areas involving forecasts, estimates, warranties, and future growth, while the extensive historical business narrative adds length without materially improving forward-looking risk clarity."
+}

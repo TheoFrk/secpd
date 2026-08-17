@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "sufficient liquidity for next 12 months",
+    "uncertain times",
+    "strong customer and dealer reaction",
+    "target significant accretion"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, documenting sales declines, COVID-19 effects, margin pressure, restructuring costs, and reliance on government credits and equity offerings. Liquidity is presented as adequate for 12 months, but this conclusion is qualified by pandemic uncertainty and dependence on continued operating cash flow and capital resources. The optimization narrative is notably optimistic and includes forward-looking targets without extensive supporting metrics."
+}

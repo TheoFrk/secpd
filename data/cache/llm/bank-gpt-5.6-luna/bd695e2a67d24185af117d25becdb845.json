@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "probable expectation",
+    "could have a material effect",
+    "substantially all",
+    "expected to be accretive"
+  ],
+  "risk_summary": "The excerpt provides several quantified balances and remediation estimates, but relies materially on regulatory recovery assumptions, uncertain environmental outcomes, derivative valuation judgments, and forward-looking expectations. The overall tone is moderately confident and growth-oriented, tempered by standard accounting and contingency caveats."
+}

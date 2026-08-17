@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "does not undertake to update",
+    "subjective elements and significant change",
+    "other qualitative factors",
+    "actual outcomes differ from estimates"
+  ],
+  "risk_summary": "The excerpt is highly detailed and includes substantial quantitative disclosure, but relies heavily on standard forward-looking disclaimers and management judgment around loan-loss estimates. Credit risk is material, particularly given sensitivity to economic conditions, borrower information, collateral values, and model assumptions, though the tone is measured rather than crisis-like."
+}

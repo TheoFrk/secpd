@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "items excluded from core business",
+    "cannot reasonably estimate timing",
+    "revised expectations for future performance",
+    "operational inefficiencies and customer losses"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, but extensive non-GAAP adjustments may reduce comparability and obscure the severity of GAAP results. Material goodwill and intangible impairments, customer losses, margin pressure, warehouse inefficiencies, and a large diluted loss indicate elevated operating and execution risk."
+}

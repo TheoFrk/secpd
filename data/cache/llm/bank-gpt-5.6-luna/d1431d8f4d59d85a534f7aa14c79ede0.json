@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and very difficult to predict",
+    "cannot predict duration",
+    "may not be able to replace lost revenue",
+    "significant judgments",
+    "inherently difficult"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on revenue declines, pricing pressure, gross-margin deterioration, underutilization costs, Huawei-related revenue exposure, and COVID-19 disruption. Risk disclosure is balanced by descriptions of mitigation actions, but recurring uncertainty language and reliance on forecasts leave meaningful exposure to demand, pricing, supply-chain, tax, and inventory valuation risks."
+}

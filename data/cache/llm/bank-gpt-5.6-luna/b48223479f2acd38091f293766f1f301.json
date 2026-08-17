@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "inherently subject to risks and uncertainties",
+    "various factors",
+    "other risks",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt presents positive operating trends, including 9.5% revenue growth, 15.8% subscription growth, 84% recurring revenue, and approximately 2% client attrition. However, the disclosure relies substantially on standardized forward-looking disclaimers and broad, largely unquantified risk factors covering cybersecurity, public-sector budgets, acquisitions, competition, personnel, and macroeconomic conditions. The truncated passage limits assessment of underlying margins, liquidity, cash flow, and debt-related risks."
+}

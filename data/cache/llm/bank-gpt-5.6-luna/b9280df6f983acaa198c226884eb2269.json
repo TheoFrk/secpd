@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measure disclaimers",
+    "conditional outlook language",
+    "market conditions dependency",
+    "rating-triggered liquidity restriction",
+    "incomplete and fragmented disclosure"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, with detailed revenue, volume, fuel-price, debt, and liquidity figures, but includes substantial boilerplate around non-GAAP measures and several conditional statements. Risk tone is mildly negative due to declining volumes, commodity weakness, leverage increases, and potential restrictions on financing access if credit ratings deteriorate."
+}

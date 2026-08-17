@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "adjusted operating income exclusions",
+    "pro forma revenue presentation",
+    "expected renewal of credit facilities",
+    "foreseeable future liquidity assertion",
+    "estimates inherently uncertain"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and generally transparent, but uses extensive accounting adjustments, pro forma measures, and management estimates. Risk is moderate: academic and government-market weakness, acquisition-related leverage, near-term debt maturities, and reliance on refinancing are disclosed, while liquidity is presented as sufficient."
+}

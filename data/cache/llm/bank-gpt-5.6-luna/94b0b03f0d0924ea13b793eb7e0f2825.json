@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ",
+    "subjective judgment and estimates",
+    "fair value impairment testing",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but contains standard forward-looking disclaimers and significant reliance on management estimates. Risk tone is materially negative due to continuing operating losses, market-capitalization decline, goodwill and trademark impairment, derivative losses, and pension withdrawal liabilities, despite improved losses and collections."
+}

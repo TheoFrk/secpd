@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance",
+    "substantial amounts of capital",
+    "expected to be generated",
+    "no assurances of financing success"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail, but extensive boilerplate disclaimers and ambiguous explanations around cash flows and financing reduce clarity. Risk is elevated due to severe net losses, negative operating cash flow, minimal cash, significant accrued interest and debt, past-due liabilities, and dependence on uncertain external financing."
+}

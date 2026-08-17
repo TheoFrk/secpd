@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "among others",
+    "could differ materially",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative with substantial quantified performance data, including sales, gross profit, expenses, store growth, and ERP impacts. Disclosure is diluted by extensive boilerplate forward-looking language, broad risk disclaimers, and references to omitted tables and truncated analysis. Key uncertainty remains around estimates, implementation effects, contractual obligations, and future operating assumptions."
+}

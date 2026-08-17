@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "among other things",
+    "reasonable and supportable forecasts",
+    "wide variety of factors and inputs",
+    "could change significantly"
+  ],
+  "risk_summary": "The excerpt provides a detailed description of credit-loss methodology, risk grading, economic scenarios, and impaired-loan evaluation, but relies heavily on standard estimation disclaimers. ACL adequacy is inherently sensitive to changing economic forecasts, loan-risk classifications, and other inputs, with limited quantified sensitivity presented in the excerpt."
+}

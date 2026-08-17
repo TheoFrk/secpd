@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "risks and uncertainties",
+    "actual results may differ materially",
+    "including but not limited to",
+    "extensive risk-factor enumeration"
+  ],
+  "risk_summary": "The excerpt contains extensive standardized forward-looking disclaimers and a broad, largely unquantified list of operational, regulatory, market, environmental, and financing risks. Reported 2022 net income attributable to Dominion Energy decreased 70%, driven by impairments, asset-sale losses, regulatory charges, and other adverse items, indicating a materially negative operating outcome despite some offsets."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "may affect accuracy or validity",
+    "if actual conditions are less favorable",
+    "a number of factors",
+    "material effect on financial statements"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including revenue, customer concentration, merger timing, and gross-margin impacts. Risk is concentrated in semiconductor capital-spending cyclicality, customer concentration, merger-related accounting effects, inventory exposure, and impairment assumptions. The tone is measured and predominantly factual, with modestly negative implications from declining margins and demand uncertainty."
+}

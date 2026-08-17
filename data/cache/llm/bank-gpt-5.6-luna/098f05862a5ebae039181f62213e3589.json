@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.56,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "we believe",
+    "expect to",
+    "high-growth, high-margin businesses"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook supported by quantified operating, backlog, capital allocation, and segment information. However, extensive forward-looking language, reliance on favorable government budgets and defense spending, and broad strategic claims introduce execution and demand uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to result in",
+    "could differ significantly",
+    "adjusted non-GAAP measures",
+    "uncertainty and market disruptions",
+    "actual repayments may differ"
+  ],
+  "risk_summary": "The excerpt is highly quantified and transparent on financial performance, credit metrics, capital, and forward guidance, with an overall constructive tone. Key risks include pandemic-related uncertainty, inflation and rate sensitivity, reliance on economic forecasts, and subjective CECL/ACL estimates. Use of adjusted measures and extensive accounting caveats modestly reduces comparability but does not appear materially evasive."
+}

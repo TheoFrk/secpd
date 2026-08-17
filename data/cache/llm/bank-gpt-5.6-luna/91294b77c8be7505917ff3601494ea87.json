@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributed to",
+    "as noted above",
+    "expected to",
+    "high degree of judgment",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally well quantified, but contains substantial technical and formulaic language that can obscure the underlying deterioration. Key risks include a $11.3 million continuing-operations loss, gross-margin compression, goodwill impairment, increased borrowing costs, and a $3.3 million U.S. deferred-tax valuation allowance."
+}

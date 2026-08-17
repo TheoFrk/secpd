@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "primarily driven by",
+    "partially offset by",
+    "ongoing COVID-19 impacts",
+    "strategic actions to date"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed segment, margin, cash flow, and year-over-year comparisons. Risk is moderated by COVID-19 disruptions, declining sales in several regions, foreign-exchange exposure, lower volumes, and reliance on non-GAAP measures, while management adopts a strongly confident and promotional tone."
+}

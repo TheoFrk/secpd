@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "severity, magnitude and duration uncertain",
+    "unable to reasonably estimate overall impact",
+    "numerous alternative judgments",
+    "as necessary adjustments",
+    "actively monitoring the impact"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and reports strong 2020 growth, profitability, liquidity, and loan expansion. However, material uncertainty remains around COVID-19 effects, loan-loss assumptions, economic conditions, and the inability to estimate the pandemic’s overall impact. The risk tone is cautiously positive but contains standard forward-looking and judgment-based qualifiers."
+}

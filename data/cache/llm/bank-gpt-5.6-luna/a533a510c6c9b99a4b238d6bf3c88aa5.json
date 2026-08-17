@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "softening market demand",
+    "primarily due to",
+    "could produce significantly different results",
+    "future undiscounted cash flows",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but reports material deterioration: revenue declined 11%, gross margin contracted, and the company shifted from operating profit to a substantial operating loss. Demand weakness, competitive pressure, unfavorable overhead absorption, segment losses, and goodwill impairment indicate elevated operating and earnings risk. The impairment discussion acknowledges significant estimation uncertainty despite concluding that no long-lived-asset impairment was required."
+}

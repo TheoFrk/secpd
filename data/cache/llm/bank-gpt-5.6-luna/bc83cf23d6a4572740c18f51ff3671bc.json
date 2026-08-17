@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking non-GAAP reconciliation unavailable",
+    "no assurance",
+    "anticipated to close",
+    "expected to be immediately accretive",
+    "discretion of our Board of Directors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified historical results and explicit 2021 outlook ranges, but relies on non-GAAP measures and includes broad caveats around predictability, liquidity, expenditures, dividends, and acquisition benefits. Risk tone is cautiously positive, offset by significant commercial aerospace weakness, COVID-19 disruption, and reliance on recovery assumptions."
+}

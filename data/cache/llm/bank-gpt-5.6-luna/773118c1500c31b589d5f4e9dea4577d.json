@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "should the PRC government’s policy remain in place",
+    "solely for accounting purposes",
+    "transaction between entities under common control",
+    "historical financial statements reflect acquired entities"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent regarding revenue, volumes, pricing, cash flow, acquisitions, and accounting treatment. Risk factors include declining bromine and crude salt volumes, exposure to PRC macroeconomic tightening, acquisition-driven revenue growth, and references to impairment and write-offs, although operating cash flow and liquidity remain strong."
+}

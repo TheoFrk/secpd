@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expected to",
+    "likely to",
+    "seasonally weaker demand",
+    "one-quarter lag",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed reconciliations of earnings, cash flow, pricing, volumes, costs, and special items. Risk is moderate: near-term earnings face seasonal weakness, pricing pressure, higher input costs, currency effects, and expected one-time costs, although strong cash flow and improved annual results support a cautiously positive tone."
+}

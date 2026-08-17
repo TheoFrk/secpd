@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "should not be relied upon",
+    "disclaims any obligation to update",
+    "various other assumptions",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking-statement disclaimers and broad risk-factor language, limiting reliance on management’s outlook. Accounting policies are comparatively specific and include useful quantification, such as customer credits equal to approximately 3% of net revenue and operating-margin data. Reported performance is positive, but exposure remains to currency movements, acquisitions, impairment judgments, valuation assumptions, and collection or inventory risks."
+}

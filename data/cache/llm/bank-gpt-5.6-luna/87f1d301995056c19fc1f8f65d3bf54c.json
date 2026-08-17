@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "boilerplate section heading",
+    "no substantive disclosure",
+    "cross-reference to table of contents"
+  ],
+  "risk_summary": "This excerpt is purely a boilerplate MD&A heading and cross-reference, with no quantitative results, outlook, or risk discussion. It provides insufficient information to assess the issuer’s financial condition or risk exposure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks are not exhaustive",
+    "not possible to predict all such risk factors",
+    "may cause actual results to differ materially",
+    "do not place undue reliance",
+    "disclaim any obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive standard safe-harbor and risk-disclaimer language, with limited quantification of the potential impact of identified risks. Key exposures include interest rates, equity markets, credit-related losses, regulatory changes, capital requirements, and assumptions underlying insurance reserves and deferred acquisition cost amortization."
+}

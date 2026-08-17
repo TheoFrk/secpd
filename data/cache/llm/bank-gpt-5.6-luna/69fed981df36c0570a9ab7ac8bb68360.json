@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "assumes no obligation to update",
+    "primarily due to",
+    "mid-to-high utilization ranges"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, cash flow, leverage, impairment, and utilization data, but begins with extensive standard forward-looking-risk disclaimers. Key risks include cyclical petrochemical demand, weather and waterway disruptions, fleet oversupply, pandemics, fuel and interest costs, competition, and prior significant asset impairments."
+}

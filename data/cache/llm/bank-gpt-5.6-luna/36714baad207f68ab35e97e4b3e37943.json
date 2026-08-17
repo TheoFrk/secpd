@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results may differ",
+    "such other factors",
+    "more-likely-than-not",
+    "estimated useful lives"
+  ],
+  "risk_summary": "The excerpt is largely standard accounting-policy disclosure with substantial technical detail but limited company-specific quantification of sensitivities or downside exposure. Key risks relate to judgment in loan-loss allowances, securities impairment, goodwill valuation, PCI loan cash flows, and deferred tax asset realization; the tone is neutral to mildly confident."
+}

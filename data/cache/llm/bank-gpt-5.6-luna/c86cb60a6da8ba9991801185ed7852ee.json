@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "not exhaustive",
+    "risks and uncertainties",
+    "not possible for management to predict",
+    "based upon current available information",
+    "management’s experience and expectations"
+  ],
+  "risk_summary": "The excerpt contains substantial standard safe-h harbor language and broad, non-quantified risk disclaimers, while also presenting meaningful estimation uncertainty in contract revenue recognition and inventory valuation. Operating performance shows a material satellite revenue decline, delayed orders, and lower network infrastructure revenue, although several revenue concentrations and changes are quantified. Overall tone is cautious and risk-aware rather than crisis-like."
+}

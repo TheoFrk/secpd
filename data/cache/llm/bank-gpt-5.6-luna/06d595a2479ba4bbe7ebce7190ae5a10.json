@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict with any reasonable certainty",
+    "will not have a material effect",
+    "no guarantee of success",
+    "no assurance fully effective",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally detailed and strongly quantified, showing solid sales, margin, cash-flow, and organic-growth performance. Key risks include higher debt and interest expense, raw-material cost inflation, foreign-exchange exposure, market-specific demand weakness, and potentially uncertain environmental liabilities. Risk language is partly boilerplate and relies on management estimates and materiality conclusions, but the overall tone remains moderately positive."
+}

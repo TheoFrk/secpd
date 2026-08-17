@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "cannot be reasonably estimated",
+    "do not foresee liquidity issues",
+    "expected continued improvement",
+    "covenant noncompliance waiver"
+  ],
+  "risk_summary": "The disclosure is materially quantified and provides useful detail on liquidity, debt, inventory, and revenue recognition, but includes optimistic projections and broad uncertainty language. Key credit risks include supply-chain and labor disruptions, reliance on financing and inventory monetization, significant borrowing utilization, and a debt-to-worth covenant breach that required a waiver."
+}

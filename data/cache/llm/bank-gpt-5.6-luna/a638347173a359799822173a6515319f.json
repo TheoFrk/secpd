@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "foreseeable working capital requirements",
+    "if appropriate, we may pursue limited financing",
+    "no assurance of additional capital",
+    "modify our business plan or cease operations",
+    "future field sales force expansion"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent regarding revenue, expenses, cash flows, liquidity, and liabilities, but relies on optimistic operating assumptions and conditional financing language. Liquidity risk is meaningful, given declining cash, negative operating cash flow, current liabilities exceeding current assets, and dependence on additional capital if operations do not generate sufficient cash."
+}

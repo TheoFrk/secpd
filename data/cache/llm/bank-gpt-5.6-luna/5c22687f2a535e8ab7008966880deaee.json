@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.14,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "reasonable level",
+    "de minimis",
+    "not comparable",
+    "product liability",
+    "adjusted NICS data"
+  ],
+  "risk_summary": "The disclosure is largely specific and transparent, with extensive quantified operating, sales, backlog, inventory, margin, and profitability data. The tone is strongly positive due to substantial growth in demand, production, sales, margins, and net income, although product-liability costs, distributor inventory movements, seasonal demand, and reliance on adjusted third-party metrics represent identifiable risks."
+}

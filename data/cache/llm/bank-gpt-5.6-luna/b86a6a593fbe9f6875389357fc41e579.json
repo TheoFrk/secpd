@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not measures under GAAP",
+    "should not be considered in isolation",
+    "susceptible to varying calculations",
+    "integrated and interdependent segments"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed segment, revenue, visitation, pricing, and acquisition information. Risk tone is mildly positive due to reported growth and customer loyalty, but substantial boilerplate disclaimers and reliance on non-GAAP measures temper the assessment."
+}

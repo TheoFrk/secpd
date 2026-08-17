@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "ultimate impact is uncertain",
+    "cannot be predicted",
+    "could decline",
+    "believe will continue to grow",
+    "additional loans can be obtained"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on gold prices, purchase volumes, liquidity support, debt terms, and capital expenditures, but relies on broad uncertainty language regarding COVID-19, demand, working capital, and future growth. Liquidity and refinancing dependence, pandemic-related disruption, commodity-price exposure, and inventory valuation are notable risks, partially offset by diversified operations and management’s cautiously optimistic outlook."
+}

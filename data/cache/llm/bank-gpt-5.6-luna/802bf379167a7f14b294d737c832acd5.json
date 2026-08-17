@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "we believe",
+    "major customer concentration",
+    "deferred recognition of gain or loss"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on assets, cash, receivables, segment mix, and discontinued operations, but uses broad causal explanations and contains dense accounting language. Key risks include discontinued fabrication operations, dependence on a major customer, cross-border joint-venture and property exposure, and prior guarantee obligations. Overall tone is neutral to mildly confident, supported by improved collections and cash, while offset by restructuring and concentration risks."
+}

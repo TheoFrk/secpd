@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "excluding special charges",
+    "expected to offset",
+    "long-term growth objectives",
+    "unfavorable currency exchange"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear breakdowns of sales, margins, cash flow, acquisitions, restructuring charges, and currency effects. Risk is moderated by foreign-exchange headwinds, higher material and benefit costs, elevated special charges, and reliance on cost savings and pricing actions to sustain growth. Repeated emphasis on adjusted results and exclusions may soften the presentation of reported performance."
+}

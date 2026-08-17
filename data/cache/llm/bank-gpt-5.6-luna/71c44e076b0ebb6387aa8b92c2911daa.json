@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not exhaustive",
+    "not possible for management to predict",
+    "may turn out to be incorrect",
+    "disclaims any obligation to update",
+    "based upon management’s experience and expectations"
+  ],
+  "risk_summary": "The excerpt contains substantial standard safe-h harbor language and broad, non-quantified risk factors, limiting the predictive value of forward-looking statements. Accounting estimates for contract costs, inventory valuation, and percentage-of-completion revenue introduce material earnings and asset-valuation sensitivity, although reported revenue growth and stated liquidity appear broadly positive."
+}

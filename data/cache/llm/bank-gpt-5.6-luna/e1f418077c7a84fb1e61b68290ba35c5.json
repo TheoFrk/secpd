@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expected to",
+    "we believe",
+    "special items",
+    "non-GAAP financial measure",
+    "projected operating results"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on operating drivers, cash flow, debt reduction, costs, and segment performance. Risk factors include weak demand, rising fiber costs, maintenance outages, pension obligations, substantial interest expense, and reliance on alternative fuel mixture credits and special items. Management maintains a moderately optimistic outlook, but several projected benefits and earnings improvements remain uncertain."
+}

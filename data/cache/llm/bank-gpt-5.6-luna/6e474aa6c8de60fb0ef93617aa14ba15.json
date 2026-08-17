@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP financial measure",
+    "primarily resulted from",
+    "subject to regulatory approvals",
+    "expected to generate",
+    "political and economic uncertainty"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with strong revenue and liquidity performance presented in a confident tone. Key risks include fuel-price volatility, elevated labor costs, pension contributions, geopolitical and currency uncertainty, and pending regulatory approvals. Reliance on non-GAAP measures and frequent causal qualifiers modestly limit comparability and transparency."
+}

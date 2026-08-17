@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to variability",
+    "actual results could differ significantly",
+    "likely to continue to flatten",
+    "significant judgments",
+    "current market conditions"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified earnings and sensitivity information, but relies heavily on judgment-based estimates and broad macroeconomic assumptions. Key risks include prolonged low interest rates, energy-price deterioration, borrower and collateral stress, and volatility in projected credit losses. Overall tone is cautious but not crisis-like, with relatively stable reported profitability."
+}

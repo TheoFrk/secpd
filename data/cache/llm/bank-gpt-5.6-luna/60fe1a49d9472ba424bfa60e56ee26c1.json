@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "numerous evolving factors",
+    "uncertain and cannot be reasonably predicted",
+    "could significantly impact",
+    "materially different than originally reported",
+    "based on available estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial data and identifies allowance for credit losses as a critical estimate, but relies on broad uncertainty language around economic conditions, interest rates, liquidity, and industry volatility. Risk tone is cautious and mildly negative, with material exposure to changing credit conditions and funding pressures, while reported results remain specific and generally stable."
+}

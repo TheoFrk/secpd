@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "it is not clear if this will impact",
+    "we intend to submit",
+    "we anticipate filing",
+    "lawsuit is without merit",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with positive revenue, income, and EPS trends. Key risks include patent-exclusivity erosion, clinical development failures, regulatory uncertainty, an FDA warning letter affecting a partner facility, and patent litigation that may delay product approval."
+}

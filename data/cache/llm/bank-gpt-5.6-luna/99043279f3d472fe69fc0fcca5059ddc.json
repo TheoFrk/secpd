@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "inherent limitations",
+    "strategically focused",
+    "balanced competing objectives",
+    "may fluctuate from period to period"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with substantial discussion of asset, deposit, loan, fee, and credit-loss trends. Boilerplate non-GAAP explanations and repeated table-of-contents artifacts reduce clarity, while risks include margin compression, softer loan demand, market-sensitive gains, and workforce turnover. Overall tone is cautiously positive and management-oriented rather than crisis-like."
+}

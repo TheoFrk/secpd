@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurances can be provided",
+    "non-GAAP performance measures",
+    "not necessarily indicative of cash",
+    "other unforecastable market- or transaction-driven items"
+  ],
+  "risk_summary": "The excerpt is detailed on portfolio composition, dispositions, and non-GAAP measure definitions, but contains substantial standard forward-looking disclaimers and broad qualification language. Risk visibility is reduced somewhat by reliance on adjusted performance metrics and extensive exclusions, although quantified asset sales and impairment information provide useful transparency."
+}

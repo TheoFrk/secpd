@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "we believe we are well positioned",
+    "subject to a certain cap",
+    "any of which may be material"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantified information on capital expenditures, liquidity, backlog, loans, and tax exposures. Risk is concentrated in semiconductor-cycle volatility, technological substitution, high fixed costs, potential underutilization, and significant ongoing capital requirements, while management maintains a cautiously optimistic outlook."
+}

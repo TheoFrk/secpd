@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurances can be provided",
+    "substantial doubt about going concern",
+    "efforts to raise capital",
+    "materially and adversely affected"
+  ],
+  "risk_summary": "The excerpt provides substantial transaction and operating detail, including quantified revenue, expenses, acquisition consideration, and debt terms. However, it explicitly raises substantial doubt about the Company’s ability to continue as a going concern and relies on uncertain capital raising, product launches, and acquisitions to address liquidity concerns."
+}

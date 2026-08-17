@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "partially offset by",
+    "primarily due to",
+    "non-GAAP Adjusted EBITDA",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but includes standard forward-looking disclaimers and repeated causal phrasing. Risk tone is materially negative, reflecting declining shipments and sales, a $102.2 million impairment charge, restructuring costs, and a substantial net loss, although the discussion remains factual rather than crisis-like."
+}

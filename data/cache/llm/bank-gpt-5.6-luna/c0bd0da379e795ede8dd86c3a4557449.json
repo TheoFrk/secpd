@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "management believes",
+    "inherently subject to uncertainty",
+    "actual results could differ",
+    "where management deems appropriate",
+    "not comparable to similar non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, particularly regarding loan growth, portfolio composition, PPP exposure, and servicing balances. Risk disclosure is technically dense and relies on standard management judgments, estimates, and non-GAAP caveats, with some boilerplate language. Credit risk appears moderate, given substantial real-estate concentration and reliance on assumptions in loan-loss, securities, and servicing-rights valuations, but the tone is not crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may not be sufficient",
+    "various other assumptions",
+    "fair value could be higher or lower",
+    "other risks detailed from time to time"
+  ],
+  "risk_summary": "The excerpt presents quantified operating results and sustained profitability, but relies heavily on standard forward-looking disclaimers and management estimates. Key risks include acquisition integration, international credit exposure, inventory obsolescence, impairment assumptions, and potentially insufficient funds for development and acquisitions. Overall tone is cautiously positive, tempered by financing uncertainty and broad non-quantified risk factors."
+}

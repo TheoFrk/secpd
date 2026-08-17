@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and broad risk-factor cross-reference",
+    "estimated insurance recoveries",
+    "not expected to be significant",
+    "subject to management estimates and assumptions",
+    "truncated impairment discussion"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent about ransomware impacts, revenue declines, customer concentration, insolvency-related charges, restructuring, and margin pressures. Risk tone is moderately negative, although management emphasizes rapid restoration, insurance coverage, and the absence of evidence of data exfiltration. Some uncertainty remains around insurance recoveries, future ransomware costs, impairment assumptions, and customer demand."
+}

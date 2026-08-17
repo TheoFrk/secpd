@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "unpredictable and beyond our control",
+    "primarily due to",
+    "strong market conditions",
+    "tables and metrics omitted"
+  ],
+  "risk_summary": "The excerpt provides substantial year-over-year financial quantification and identifies market, interest-rate, operational, and technology risks. However, causal explanations are often broad, repetitive, and dependent on generic market conditions, while referenced tables and portions of the discussion are missing or truncated. Overall tone is mildly positive due to improved revenue and earnings, with meaningful sensitivity to external markets and fixed operating costs."
+}

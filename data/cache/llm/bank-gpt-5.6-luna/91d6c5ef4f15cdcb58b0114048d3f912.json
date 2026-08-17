@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "inherently subject to significant uncertainties",
+    "no assurance that estimates will be realized",
+    "actual results could vary materially",
+    "estimated fair value and valuation assumptions",
+    "fresh start accounting comparability limitation"
+  ],
+  "risk_summary": "The excerpt documents a completed Chapter 11 reorganization, substantial debt repayment and new borrowing, indicating severe historical financial distress and ongoing structural complexity. Although the disclosure is highly specific about transaction dates, amounts, ownership and capital structure, it relies on uncertain valuation assumptions and warns that actual results may differ materially. Comparability of predecessor and successor financial statements is materially impaired by fresh start accounting."
+}

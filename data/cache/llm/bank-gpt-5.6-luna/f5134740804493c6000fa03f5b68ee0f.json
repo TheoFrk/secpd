@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain",
+    "various other assumptions",
+    "expected utilization",
+    "actual results may differ",
+    "depend substantially on JAKAFI"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including liquidity, cash-flow, acquisition, repurchase, and revenue-estimate sensitivities. Key risks include substantial dependence on JAKAFI, product exclusivity and competition, pricing pressure, uncertain drug development, and estimation risk in rebates and chargebacks. The overall tone is measured and moderately confident rather than crisis-like."
+}

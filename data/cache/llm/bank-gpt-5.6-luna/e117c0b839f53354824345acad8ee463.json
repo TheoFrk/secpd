@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "predominantly",
+    "partially offsetting",
+    "critical assumptions and estimates",
+    "notable items",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with clear year-over-year performance drivers and disclosed legal, tax, and accounting impacts. Risk tone is moderately positive due to substantial earnings and margin growth, although declining earning assets, litigation reserves, and reliance on judgment-based estimates introduce meaningful risks. Repetition and a truncated section limit completeness but do not appear materially evasive."
+}

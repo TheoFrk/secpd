@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "various risk factors",
+    "estimates and assumptions",
+    "reasonably possible valuation changes",
+    "estimated undiscounted future cash flows"
+  ],
+  "risk_summary": "The excerpt provides detailed accounting policies and some quantified tax expiration information, but relies heavily on standard forward-looking disclaimers and management estimates. Key risks include inventory impairment, construction cost estimation, deferred tax asset valuation, mortgage guarantees, and housing-market recovery uncertainty."
+}

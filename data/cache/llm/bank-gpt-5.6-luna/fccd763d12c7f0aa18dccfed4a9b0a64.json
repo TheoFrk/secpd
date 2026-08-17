@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "tends to be correlated",
+    "planning assumes",
+    "expected to grow",
+    "about 16%",
+    "as further described"
+  ],
+  "risk_summary": "The excerpt is broadly transparent and includes meaningful quantitative disclosures, including revenue concentration, mortgage-market expectations, geographic exposure, cash held overseas, settlement payments, and capital expenditures. Risk tone is cautiously constructive but acknowledges macroeconomic, interest-rate, mortgage-market, seasonality, and regulatory technology-investment sensitivities. Complexity is elevated due to extensive business-line descriptions, technical terminology, and long nested sentences."
+}

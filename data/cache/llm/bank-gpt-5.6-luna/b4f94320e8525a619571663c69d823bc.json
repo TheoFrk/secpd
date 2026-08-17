@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "profitable growth",
+    "operational excellence",
+    "could impact our financial results",
+    "likely to continue for a period of time",
+    "other factors"
+  ],
+  "risk_summary": "The excerpt combines detailed segment and sales data with substantial promotional language and broad, non-quantified descriptions of capabilities and strategic objectives. It identifies meaningful operating risks, including semiconductor shortages, labor and commodity cost inflation, logistics disruptions, COVID-19 resurgence, customer concentration, and vehicle-platform production declines. Overall tone is commercially confident but tempered by persistent supply-chain and demand uncertainty."
+}

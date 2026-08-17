@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance as to timing",
+    "may differ significantly",
+    "not within complete control",
+    "could take years",
+    "inconsistent and uncertainty regarding reimbursement"
+  ],
+  "risk_summary": "The excerpt provides some useful quantitative growth and cost information, but substantial discussion relies on generic accounting boilerplate and unquantified expectations. Key risks include volatile adoption, uncertain reimbursement, dependence on limited customers and suppliers, legal contingencies, and estimates whose actual outcomes may differ materially."
+}

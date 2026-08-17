@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results could differ significantly",
+    "reasonable and supportable forecasts",
+    "subject to refinement",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, particularly regarding acquisitions, credit-loss provisioning, and unemployment sensitivity. It highlights material estimation uncertainty in ACL, goodwill, fair values, and economic forecasts, but does not indicate an immediate crisis. Overall tone is cautiously confident with standard forward-looking and judgment-related caveats."
+}

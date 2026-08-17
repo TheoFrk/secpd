@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "could have a material adverse effect",
+    "if different conditions were to prevail",
+    "history of accurately estimating",
+    "all known relevant facts and circumstances"
+  ],
+  "risk_summary": "The disclosure identifies meaningful revenue-recognition, collectibility, contract-structure, project-estimation, and tax-accounting risks, including potential material effects from changes in assumptions. It provides some quantified operating data and historical comparisons, but relies heavily on conditional language and management assertions regarding estimation accuracy. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

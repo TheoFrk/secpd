@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "largely attributable",
+    "primarily",
+    "partially offset",
+    "may not be comparable",
+    "uncertain if or when"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed explanations of revenue, margins, credit performance, store closures, impairments, and tax effects. Risk tone is modestly negative because of substantial sales declines, reduced store count, prior-year impairment charges, and lower receivables, although margin improvement and higher pretax income mitigate the concerns."
+}

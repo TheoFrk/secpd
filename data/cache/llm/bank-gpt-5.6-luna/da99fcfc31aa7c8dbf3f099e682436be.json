@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor cautionary language",
+    "actual results may differ materially",
+    "reliance on military spending and major customers",
+    "non-GAAP EBITDA emphasis",
+    "subject to assumptions and market conditions"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results and segment detail with extensive boilerplate forward-looking disclaimers and numerous external dependencies. Sales and EBITDA increased, but net income declined and the business remains exposed to aerospace demand, military spending, commodity prices, acquisitions, pension assumptions, and liquidity conditions."
+}

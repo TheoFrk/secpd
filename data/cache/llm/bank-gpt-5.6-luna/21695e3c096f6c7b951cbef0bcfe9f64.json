@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot predict future operating results",
+    "subject to significant volatility",
+    "broad range of alternatives",
+    "at or near nameplate capacity",
+    "adequate cash flows for sustained periods"
+  ],
+  "risk_summary": "The disclosure is detailed and heavily quantified, but highlights substantial exposure to volatile commodity prices, narrowing or negative crush spreads, plant shutdown risk, and uncertain future earnings. The company has exited retail operations and deconsolidated one ethanol investment after losses, while relying on favorable production and market conditions for projected results."
+}

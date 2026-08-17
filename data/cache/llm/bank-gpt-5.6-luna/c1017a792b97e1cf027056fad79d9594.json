@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "projects under development",
+    "limited operating revenues",
+    "subject to regulation",
+    "estimates likely different from actual results"
+  ],
+  "risk_summary": "The excerpt is highly detailed and includes substantial quantitative operating, ownership, pricing, impairment, and transaction information, limiting overall vagueness. Risk tone is mildly negative due to a $2.68 billion decline in continuing-operations income, impairments, sharply lower NGL prices, increased interest expense, and significant merger-related uncertainty, although fee-based revenues and regulated capacity provide mitigating factors."
+}

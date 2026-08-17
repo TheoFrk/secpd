@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to risks and uncertainties",
+    "considerable management judgment",
+    "actual results could differ",
+    "undue reliance warning"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified disclosure, but relies heavily on standard forward-looking disclaimers and management estimates. Key risks include customer deductions and collectability, goodwill and intangible impairment assumptions, and uncertainty in revenue offsets and future cash flows."
+}

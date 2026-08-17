@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "difficult to assess and estimate",
+    "future events and circumstances",
+    "materially different findings",
+    "as more fully described below"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial information, including a $41.0 million net loss and a $62 million litigation expense, but contains extensive standard uncertainty language around environmental, impairment, tax, pension, and litigation estimates. The outlook is cautiously positive for 2019, although lower expected Kronos earnings and potentially higher remediation or impairment costs remain material risks."
+}

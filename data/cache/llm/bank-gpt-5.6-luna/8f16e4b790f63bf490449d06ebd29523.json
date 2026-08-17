@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks include, but are not limited to",
+    "other risks detailed from time to time",
+    "more likely than not",
+    "may differ from actual cash flows"
+  ],
+  "risk_summary": "The excerpt combines specific operating metrics with extensive boilerplate disclaimers and broad, largely unquantified risk factors. Risk tone is mixed but modestly negative, reflecting declining sales, weaker consumer demand, macroeconomic pressures, internal-control uncertainty, and financing and supply-chain risks, partially offset by improved gross margins and stated strategic initiatives."
+}

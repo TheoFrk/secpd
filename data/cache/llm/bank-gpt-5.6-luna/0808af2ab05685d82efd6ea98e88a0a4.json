@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant estimates and assumptions",
+    "we believe",
+    "we expect",
+    "hope to have meaningful offsets",
+    "not more likely than not"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, but highlights declining revenue, higher operating investments, workforce reductions, increased reliance on borrowings, and potential pressure from lower interest income. Material judgment remains in revenue recognition and goodwill/intangible-asset impairment assessments, with some forward-looking offsets expressed tentatively."
+}

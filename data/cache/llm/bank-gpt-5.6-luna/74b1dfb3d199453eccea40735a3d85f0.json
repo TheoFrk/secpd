@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "partially offset by",
+    "primarily driven by",
+    "unrealized derivative gains/losses",
+    "record-breaking drought conditions"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed year-over-year reconciliations, reducing concerns about evasiveness. However, reported earnings improvement contrasts with lower Adjusted EBITDA, higher interest expense, outages, drought-related underperformance, foreign-exchange volatility, and substantial reliance on non-GAAP and unrealized items."
+}

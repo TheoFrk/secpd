@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "if required to purchase",
+    "we anticipate some or all",
+    "variability in revenues",
+    "delays in orders",
+    "text truncated/incomplete"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear revenue, margin, debt, customer concentration, warranty, and liquidity data. Key risks include substantial debt and potential $223.6 million convertible-note repurchase, customer concentration, margin pressure, foreign-exchange and demand variability, and significant warranty claims. The overall tone is cautiously positive because growth and liquidity are emphasized, but several outcomes remain conditional."
+}

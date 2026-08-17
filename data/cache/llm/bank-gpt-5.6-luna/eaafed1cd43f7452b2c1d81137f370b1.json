@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking information that involves risks and uncertainties",
+    "risks ... not presently aware of",
+    "challenges under power sales agreements",
+    "extreme market volatility and transmission congestion",
+    "subject to certain conditions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment, earnings, customer, rate, and operating disclosures. It identifies meaningful risks from regulatory proceedings, interim-rate refunds, industrial demand, transmission congestion, market volatility, and project losses, although the opening risk disclaimers are standard boilerplate. Overall tone is moderately positive because earnings increased and regulated operations performed well, but clean-energy performance remains pressured."
+}

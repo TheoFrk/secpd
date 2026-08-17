@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor disclaimer",
+    "actual results could differ materially",
+    "under adversely different conditions",
+    "various qualitative factors",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate disclaimers and conditional language, limiting the precision of forward-looking risk disclosure. Credit risk is acknowledged through allowance, collateral, economic, and COVID-19 sensitivities, but the discussion is generally reassuring and provides limited quantified downside analysis beyond historical forbearance data."
+}

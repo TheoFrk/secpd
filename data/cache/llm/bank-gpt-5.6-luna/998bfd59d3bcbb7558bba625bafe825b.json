@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain timing",
+    "unforeseen difficulties or delays",
+    "may be forced to wind down",
+    "substantial judgment",
+    "no assurance significant revisions"
+  ],
+  "risk_summary": "The disclosure highlights material liquidity and going-concern risk, including potential inability to fund capital expenditures and possible liquidation or bankruptcy beyond December 2020. Although it provides some quantified sensitivity information and explicit assumptions, the outlook depends heavily on volatile commodity prices, uncertain drilling activity, asset sales, and management estimates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "various assumptions believed reasonable",
+    "actual results may differ",
+    "including but not limited to",
+    "may constitute the majority",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is detailed on products, licensing arrangements, revenue recognition, and lease accounting, with some quantified operating data. However, it is heavily technical and boilerplate-oriented, provides limited discussion of financial performance or liquidity risk, and includes management estimates whose outcomes may differ materially from assumptions."
+}

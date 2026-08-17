@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "material adverse effect",
+    "among other factors",
+    "risks and uncertainties",
+    "estimated fair value determined by management"
+  ],
+  "risk_summary": "The excerpt is detailed and materially quantified, but relies heavily on actuarial assumptions, management estimates, and scenario-dependent judgments for reserves, policy benefits, receivables, and investment impairments. Key downside risks include adverse claims development, reinsurer insolvency, market volatility, impairment recognition, and interest-rate or counterparty exposure; the overall tone is cautious rather than crisis-like."
+}

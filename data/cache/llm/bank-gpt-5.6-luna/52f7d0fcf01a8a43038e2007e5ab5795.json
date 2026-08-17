@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "numerous assumptions",
+    "variety of risks and uncertainties",
+    "no obligation to update",
+    "significant judgment and estimates"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate in its forward-looking disclaimer and relies on broad, non-quantified risk categories, particularly around credit losses, liquidity, regulation, systems, and economic conditions. Risk tone is balanced but modestly positive because quantified earnings, profitability, liquidity, and capital commentary emphasizes strong 2018 performance. Critical accounting estimates involve substantial management judgment, creating potential reserve and fair-value uncertainty."
+}

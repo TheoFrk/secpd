@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "certain items not judged sustainable",
+    "market share estimates with limitations",
+    "expected to complete transaction"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate and legal safe-harbor language, with substantial reliance on qualitative definitions and management-adjusted metrics. It does provide meaningful quantitative disclosures, including foreign-exchange effects, divestiture proceeds, and the $2.1 billion Venezuela charge, but the passage is incomplete and contains limited direct discussion of adverse scenarios. Overall tone is cautiously positive, emphasizing leadership, portfolio reshaping, and cost savings despite currency, competitive, execution, and transaction risks."
+}

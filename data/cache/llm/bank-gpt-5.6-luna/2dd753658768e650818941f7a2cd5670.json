@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "materially affect",
+    "more likely than not",
+    "variety of assumptions",
+    "other-than-temporary impairment",
+    "industry-standard models"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding earnings, capital, asset quality, and interest income, with a moderately confident tone. Key risks arise from judgment-heavy estimates for loan losses, pensions, deferred taxes, goodwill, securities impairment, and valuation models, but the company emphasizes strong capitalization and asset quality."
+}

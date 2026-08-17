@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "changes in any of these estimates could materially change",
+    "based on management judgment",
+    "reduced customer requirements",
+    "legacy environmental liabilities"
+  ],
+  "risk_summary": "The excerpt is generally specific and includes useful sensitivity quantification for pension assumptions, but relies substantially on estimates for self-insurance, asset retirement, environmental remediation, and pension obligations. Operating performance improved overall despite revenue declines caused by customer power-plant outages, while legacy mine liabilities and estimation risk remain material concerns."
+}

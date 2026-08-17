@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potential impact ... currently unknown",
+    "do not expect ... material",
+    "primarily due to",
+    "subject to contractual milestones",
+    "actively manage these matters"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides specific explanations for revenue, operating income, and cash-flow changes, supporting relatively strong disclosure quality. It acknowledges supply-chain, labor, geopolitical, project-milestone, asbestos, acquisition, and leverage-related risks, but generally presents them as contained or improving. The long, densely structured sentences and reliance on qualifiers such as “primarily” and “currently unknown” modestly limit transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "may cause actual results to differ materially",
+    "assume no obligation to update",
+    "based on assumptions believed reasonable",
+    "incomplete disclosure and truncated text"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate safe-h harbor language and repeated broad disclaimers that limit reliance on forward-looking statements. Although it reports quantified revenue growth and staffing data, important areas rely on estimates, assumptions, and conditional language, including liquidity and future sales. Management also states it could not obtain comparable third-party financing, indicating a meaningful financial risk."
+}

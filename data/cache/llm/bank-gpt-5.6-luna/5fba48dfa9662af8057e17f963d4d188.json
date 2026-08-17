@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "directs reader to another filing",
+    "no quantitative disclosure",
+    "boilerplate cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, or risk information and instead relies entirely on a cross-reference to another document. This materially limits standalone transparency and prevents assessment of the issuer’s condition from the excerpt alone."
+}

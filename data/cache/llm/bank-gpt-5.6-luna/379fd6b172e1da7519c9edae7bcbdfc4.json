@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks, uncertainties and other factors",
+    "could have a material adverse effect",
+    "hypothetical changes in assumptions",
+    "critical accounting estimates"
+  ],
+  "risk_summary": "The excerpt combines quantified operating trends with substantial boilerplate forward-looking and accounting-estimate disclaimers. Healthcare Services revenue was broadly stable, but Pharmacy revenue and several volume metrics declined, while dependence on assumptions and payer-related payment changes creates earnings and financial-condition risk."
+}

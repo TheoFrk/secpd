@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to regulatory approvals",
+    "cannot predict revenue requirement",
+    "other factors",
+    "significant discrete items",
+    "subject to reasonableness review"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed capital, rate-case, tax, and project information, limiting overall vagueness. Risk is moderate and primarily tied to regulatory approval, rate recovery, potential refunds, nuclear oversight, permitting, and uncertainty around planned capital spending and authorized revenue requirements."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-recurring items",
+    "ongoing (non-GAAP) EBIT",
+    "significant external challenges",
+    "strong cost discipline",
+    "believes facilities are sufficient"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but presents a substantial GAAP loss, major impairment and settlement charges, declining EMEA performance, inflation, tariffs, and currency pressure. Management uses positive framing and non-GAAP measures to emphasize resilience and expected improvement, while some regional margin data and forward-looking claims remain insufficiently quantified."
+}

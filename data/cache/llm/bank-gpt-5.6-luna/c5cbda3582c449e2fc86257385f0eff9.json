@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "adjusted earnings non-GAAP measure",
+    "non-qualifying hedge activity",
+    "subject to limitations",
+    "could result in increased volatility",
+    "tax reform impacts"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial segment, operational, regulatory, and earnings detail, reducing overall disclosure vagueness. Risk factors include derivative-related earnings volatility, storm restoration costs, dependence on tax credits and tax reform benefits, regulatory mechanisms, and ongoing reliance on debt and equity funding. The overall tone is moderately confident and performance-oriented, though favorable results are partly supported by non-GAAP adjustments and temporary tax-related effects."
+}

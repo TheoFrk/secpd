@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant judgment",
+    "could vary materially",
+    "not able to reasonably estimate",
+    "negotiated settlements",
+    "certain other expenses"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but highlights major uncertainty around Canadian liquidation claims, guarantees, data-breach liabilities, and future cash recoveries. Risk tone is materially negative due to the Canada exit, $5.1 billion pretax charges, and ongoing contingent liabilities, although management frames estimates and mitigation efforts in a controlled manner."
+}

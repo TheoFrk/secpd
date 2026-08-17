@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "certain other factors",
+    "impact more fully described elsewhere",
+    "strategic pricing actions",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt presents strong sales, earnings, liquidity, and shareholder-return results with a generally confident tone. It also identifies meaningful supply-chain disruption, inflation, product-availability constraints, and gross-margin pressure, although these risks are described alongside quantified operating metrics. Boilerplate forward-looking and non-GAAP disclosures modestly reduce transparency but do not appear unusually evasive."
+}

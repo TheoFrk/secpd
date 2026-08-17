@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "subject to satisfaction or waiver",
+    "customary closing conditions",
+    "could result in merger not at all"
+  ],
+  "risk_summary": "The excerpt presents strong operating growth with quantified revenue and operating-income increases across segments, producing a moderately positive tone. However, the pending Finisar acquisition carries material completion and regulatory uncertainty, while extensive legal language and forward-looking disclaimers limit clarity on potential adverse outcomes."
+}

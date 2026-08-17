@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors including, but not limited to",
+    "subject to heightened volatility",
+    "we believe",
+    "attempt to mitigate"
+  ],
+  "risk_summary": "The disclosure is broadly quantified and provides meaningful detail on leverage, book value decline, funding costs, hedging, and market exposures. Risk remains elevated from interest-rate volatility, funding-cost increases, leverage and reliance on repurchase agreements, while the outlook uses optimistic but conditional language regarding reinvestment opportunities and policy developments."
+}

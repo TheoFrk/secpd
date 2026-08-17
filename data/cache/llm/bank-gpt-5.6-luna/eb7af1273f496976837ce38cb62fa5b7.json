@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to elevated uncertainty",
+    "may impact",
+    "not expected to impact",
+    "adjusted operating measures exclude",
+    "long list of non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure identifies substantial exposure to market movements, interest rates, inflation, volatility, insurance liabilities, LTC reserves, and regulatory uncertainty, but generally frames these risks as manageable within the company’s strategy. Extensive non-GAAP adjustments and highly technical explanations may make underlying performance and risk sensitivity more difficult to assess, despite some quantified targets and asset figures."
+}

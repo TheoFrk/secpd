@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "significant estimates and assumptions",
+    "undiscounted future cash flows",
+    "non-GAAP measure comparability"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer language and relies on management estimates for impairment, fair values, lease revenue, and recoverability. It provides useful quantitative operating details, but disclosures around future performance and asset impairment remain conditional and judgment-dependent. A 6% decline in renewal rental rates is a modest negative indicator."
+}

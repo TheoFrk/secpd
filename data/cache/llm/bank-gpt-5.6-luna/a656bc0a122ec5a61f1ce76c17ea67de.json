@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "industry leading growth",
+    "peer beating financial results",
+    "highest margin revenue opportunities",
+    "not a material acquisition"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating information, including revenue, margin, and expense changes, but also contains extensive boilerplate strategic language and forward-looking disclaimers. Risk tone is mildly negative because gross profit and margins declined, product revenue weakened, and professional-services costs increased, despite management’s growth-oriented framing."
+}

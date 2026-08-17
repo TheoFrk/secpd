@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimer",
+    "expected to ship",
+    "could lead to higher efficiencies",
+    "actual results could differ materially",
+    "demand and inventory obsolescence assumptions"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and presents strong revenue, profitability, cash flow, and customer-deposit growth in an optimistic tone. Key risks include reliance on forecast demand, potential inventory obsolescence, customer credit deterioration, technology and product-adoption uncertainty, tariffs, and execution of growth initiatives."
+}

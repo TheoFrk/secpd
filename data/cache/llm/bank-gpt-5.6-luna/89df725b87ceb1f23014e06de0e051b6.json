@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expect to",
+    "plan to obtain additional funding",
+    "until commercialization",
+    "sufficient funds",
+    "specifically generated (missing detail)"
+  ],
+  "risk_summary": "The company reports precise cash, revenue, expense, loss, financing, and contract figures, but relies heavily on consulting revenue and future equity or debt offerings while continuing to incur losses. Liquidity appears improved after the January 2014 equity financing, yet the absence of credit facilities and dependence on commercialization and additional funding represent material going-concern and execution risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "other risks and uncertainties",
+    "subject to change at any time",
+    "without limitation",
+    "possible acquisitions and financing"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified historical performance, strong cash generation, and no outstanding debt, supporting a generally positive operating tone. However, the extensive boilerplate disclaimer and broad catalog of operational, market, regulatory, climate, cyber, liquidity, and acquisition risks introduce meaningful uncertainty and limit forward-looking specificity."
+}

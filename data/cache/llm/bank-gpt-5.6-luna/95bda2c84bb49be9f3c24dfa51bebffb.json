@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to substantial risks",
+    "we believe revenues potential is significant",
+    "expects to file for FDA clearance",
+    "large-order revenue volatility",
+    "liquidity disclosure truncated"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and liquidity data, but relies on multiple contingent projections regarding clinical trials, FDA clearance, partnerships, and future sales. Risk tone is moderately negative due to declining cash, steeply higher cost of sales, COVID-19 inventory reserves, doubtful-account allowances, operating pressure, and SEC investigation-related legal fees."
+}

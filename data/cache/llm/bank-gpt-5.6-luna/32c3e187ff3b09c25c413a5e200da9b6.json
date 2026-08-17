@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to determine or predict",
+    "may take further actions",
+    "adequate liquidity",
+    "as expected",
+    "no significant disruption anticipated"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes substantial quantitative information on liquidity, refinancing, acquisitions, restructuring, and COVID-19 effects. Risk tone is cautiously positive, supported by available borrowing capacity, cash, and operational continuity, but uncertainty around the pandemic and future business impact remains material. The excerpt is complex and contains some forward-looking, non-specific assurances."
+}

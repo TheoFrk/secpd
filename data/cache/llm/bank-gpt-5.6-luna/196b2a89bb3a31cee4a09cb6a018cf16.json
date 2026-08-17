@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "as it considers prudent",
+    "non-GAAP measure",
+    "partially offset by",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally precise and transparent, with extensive year-over-year dollar, percentage, balance, rate, and credit-loss data. Tone is moderately positive, reflecting earnings, asset, loan, and deposit growth, although rising funding costs, commercial real estate concentration, and reliance on favorable loan recoveries warrant monitoring."
+}

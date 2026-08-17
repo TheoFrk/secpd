@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "reasonably possible estimates will change",
+    "no assurance of successful competition",
+    "materially adverse effect",
+    "inherently uncertain losses"
+  ],
+  "risk_summary": "The excerpt uses substantial technical accounting and boilerplate language, with limited company-specific quantification of estimates, exposures, or financial impacts. It identifies meaningful competitive, market contraction, regulatory, litigation, and estimation risks, producing a moderately negative risk tone. The disclosure is generally conventional and transparent about uncertainty, but the truncated passage limits assessment of complete results and mitigation details."
+}

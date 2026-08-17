@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly subjective assumptions",
+    "actual results could differ",
+    "other factors and trends",
+    "reasonable and supportable information",
+    "fair value estimates"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified provisions, charge-offs, and a specific bankruptcy-related loss, supporting meaningful credit-risk transparency. However, extensive reliance on management estimates, subjective assumptions, and broad qualitative factors limits precision, while the dense accounting boilerplate reduces accessibility. The tone is generally matter-of-fact but reflects moderate underlying credit and valuation risk."
+}

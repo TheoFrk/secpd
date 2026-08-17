@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.03,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot reliably estimate",
+    "many difficulties and uncertainties",
+    "significant cost estimations and allocations",
+    "rapid and severe decline",
+    "Congress is expected to take up"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial and product information, but highlights material uncertainty in R&D outcomes, regulatory approvals, patent litigation, health-care reform costs, and generic competition. Positive revenue and earnings growth is offset by explicit exposure to severe declines in Gemzar and potentially Strattera sales, as well as unreliable project-level R&D cost data."
+}

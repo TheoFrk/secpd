@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "principally reflects",
+    "assumptions deemed reasonable by management",
+    "if events or changes in circumstances indicate",
+    "estimated future cash flows",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment, revenue, margin, acquisition, and impairment information. Risk tone is cautiously positive due to improving results and recovery indicators, but commercial aviation demand remains below pre-pandemic levels, particularly internationally. Complexity and boilerplate business descriptions reduce readability, while impairment assumptions and forward-looking language introduce moderate uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "subject to significant judgment and estimates",
+    "no assurance allowance will be adequate",
+    "valuation model inputs subject to change"
+  ],
+  "risk_summary": "The excerpt combines detailed quantitative performance data with extensive legal disclaimers and estimates surrounding loan-loss allowances, interest recognition, and servicing-right valuations. Earnings declined year over year, but management presents asset quality, recoveries, loan growth, and net interest margin as favorable, producing a mildly positive overall risk tone. Key risks include acquisition-related costs, changing economic conditions, borrower losses, and sensitivity to valuation and prepayment assumptions."
+}

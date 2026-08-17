@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A provided",
+    "duplicated wording: this this",
+    "document cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive discussion of financial condition or operating results, instead incorporating another document by reference. This limits transparency and requires review of Exhibit 13 to assess underlying credit risks."
+}

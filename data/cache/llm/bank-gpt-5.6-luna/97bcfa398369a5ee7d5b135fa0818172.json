@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could cause actual loan losses to differ materially",
+    "management deems adequate",
+    "wherever feasible",
+    "unable to accurately predict",
+    "future cash flows"
+  ],
+  "risk_summary": "The excerpt presents improved earnings and asset growth, with generally factual and quantified reporting. Credit risk disclosure is technically detailed but relies on management estimates, economic assumptions, and potentially material deviations in loan-loss outcomes; transaction-related expenses are also described as difficult to predict."
+}

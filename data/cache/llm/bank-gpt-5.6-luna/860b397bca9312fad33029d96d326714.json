@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects continued earnings growth",
+    "challenging operating environment",
+    "minimal financial benefit",
+    "adjusted operating earnings",
+    "deflation to eventually subside"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing operating footprints, transaction values, segment details, debt maturity changes, and selected performance expectations. Risk tone is cautiously positive but relies on forward-looking assumptions regarding deflation, retail sales recovery, efficiency initiatives, acquisitions, and the DeCA private-brand rollout. Use of non-GAAP adjusted earnings and broad strategic language may reduce comparability and obscure underlying performance pressures."
+}

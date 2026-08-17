@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.81,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "believed to be reasonable",
+    "no assurance that positive returns",
+    "not yet determined the impact",
+    "strategic opportunities that may present themselves"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and critical-accounting-policy boilerplate, with substantial technical detail but limited quantified discussion beyond the 12% sales decline and $1.4 million decrease. Risk is elevated by reliance on estimates, a full valuation allowance on deferred tax assets, potential liquidity-driven investment liquidation, and uncertainty regarding contract costs and future accounting impacts."
+}

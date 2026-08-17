@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "strong financial condition",
+    "positive outlook",
+    "scalable foundation",
+    "critical issues",
+    "subject to certain exceptions"
+  ],
+  "risk_summary": "The excerpt uses a generally optimistic, strategy-focused tone with substantial promotional and forward-looking language, while providing some useful quantified liquidity, capital expenditure, debt, and cash-flow information. Key risks include supply-chain and cost pressures, reliance on execution of growth initiatives, foreign cash repatriation considerations, and significant revolving-facility obligations subject to financial covenants. Disclosure is moderately vague and repetitive, with high complexity driven by long sentences, extensive product descriptions, and cross-references."
+}

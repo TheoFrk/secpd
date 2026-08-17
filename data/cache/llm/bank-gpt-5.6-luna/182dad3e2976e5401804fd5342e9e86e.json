@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "should continue to aid",
+    "absolutely necessary",
+    "different assumptions",
+    "excluding balloon payments"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, including debt terms, project funding, revenue changes, and impairment assumptions. Risk is present through a sharp decline in net income, tenant bankruptcy-related losses, lower occupancy, floating-rate exposure, and reliance on development financing, although management maintains a generally constructive outlook."
+}

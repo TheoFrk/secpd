@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "actual results could differ",
+    "probable significant reversal",
+    "forecasted costs at completion",
+    "cumulative catch-up adjustment"
+  ],
+  "risk_summary": "The disclosure is technically detailed but relies heavily on management estimates and judgments, particularly for variable consideration, contract costs, change orders, and percentage-of-completion accounting. Reported results indicate meaningful deterioration, including a $33.1 million net loss, sharply lower Electrical Infrastructure revenue, a segment gross loss, poor execution, and under-recovered overhead costs."
+}

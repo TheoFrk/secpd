@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.93,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "refer to section",
+    "no substantive discussion",
+    "forward-looking statements",
+    "risk factors cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A information and relies almost entirely on cross-references to other documents and sections. This limits transparency and makes assessment of financial condition, operating results, and risks dependent on external material."
+}

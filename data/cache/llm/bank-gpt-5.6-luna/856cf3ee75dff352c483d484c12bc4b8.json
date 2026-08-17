@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "no obligation to update",
+    "business model transition",
+    "ARR and ARPS not intended to be combined"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking disclaimers and broad strategic language, limiting specificity around execution risks and expected outcomes. Quantified results show meaningful transition pressure, including a 99% decline in operating income, while subscription growth and new metrics are presented as offsetting indicators. Overall tone is cautiously negative on near-term financial effects but confident regarding the long-term cloud and subscription strategy."
+}

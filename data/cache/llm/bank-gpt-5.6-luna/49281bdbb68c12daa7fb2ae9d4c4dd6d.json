@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.66,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "strong financial performance",
+    "financial position remains solid",
+    "adjusted non-GAAP measures",
+    "excluding certain items",
+    "effect would not be material"
+  ],
+  "risk_summary": "The excerpt presents a confident, favorable operating narrative supported by substantial quantitative detail on sales, margins, costs, and charges. Potential obfuscation risks arise from reliance on adjusted non-GAAP measures, exclusion of restructuring and impairment items, and generally positive characterizations such as \"strong\" and \"solid.\" The excerpt also contains recurring boilerplate explanations and is truncated, limiting assessment of broader liquidity and downside risks."
+}

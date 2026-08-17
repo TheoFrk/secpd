@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "actual results may differ significantly",
+    "higher degree of judgment and complexity",
+    "unobservable management estimates",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt presents strong operating momentum, including record revenue and positive revenue growth, but relies substantially on management estimates for fair values, tissue yields, impairment, and deferred costs. These estimates could materially affect margins, asset values, and future-period expenses, while the excerpt is technically dense and ends with an incomplete disclosure."
+}

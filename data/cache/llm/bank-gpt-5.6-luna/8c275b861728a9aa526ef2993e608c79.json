@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "unless we are successful in obtaining additional liquidity",
+    "potential ... notice ... of a default",
+    "could require us to curtail or cease operations",
+    "assumptions may require impairment charge"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and solvency risk, including insufficient cash for the next 12 months, missed debt payments, pension funding obligations, potential defaults, and an explicit going-concern qualification. While many amounts and sensitivities are quantified, the discussion relies on uncertain refinancing, operating, and valuation assumptions."
+}

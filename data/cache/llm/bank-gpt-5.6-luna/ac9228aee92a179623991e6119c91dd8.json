@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant fluctuations",
+    "could be materially impacted",
+    "subject to unpredictable funding",
+    "anticipated timing of shipments",
+    "historically able to perform"
+  ],
+  "risk_summary": "The excerpt identifies meaningful exposure to government contract cancellations, unpredictable funding, contract-estimate revisions, customer acceptance, and integration-related comparability issues. It provides some quantified figures and accounting detail, but relies heavily on conditional forecasts and broad risk qualifiers, with optimistic fiscal 2018 expectations dependent on orders and market conditions."
+}

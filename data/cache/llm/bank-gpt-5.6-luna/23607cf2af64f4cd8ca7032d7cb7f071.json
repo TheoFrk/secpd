@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "subject to certain conditions",
+    "believes there is significant appreciated value",
+    "anticipated to offset",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides useful operating metrics, revenue, expense, investment, and contractual detail. Risk tone is mildly positive, emphasizing occupancy, RevPAR growth, technology upgrades, and borrowing capacity despite a substantial decline in net income and continued investment losses. Some forward-looking and judgment-based statements are qualified without detailed sensitivity analysis, particularly regarding property values, renovations, inflation, and estimates."
+}

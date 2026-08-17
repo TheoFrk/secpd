@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to risks and uncertainties",
+    "other risks detailed from time to time",
+    "management cannot predict the full impact",
+    "not necessarily indicative of future results"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail, but is heavily surrounded by broad forward-looking risk disclaimers and extensive boilerplate. Operating performance weakened materially, with a 16.0% revenue decline, lower operating margin, and continued exposure to demand, inventory, inflation, supply-chain, and internal-control risks. Liquidity appears comparatively strong, with a 4.4 current ratio and no material capital-expenditure commitments, although future performance remains uncertain."
+}

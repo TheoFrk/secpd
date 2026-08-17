@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "for the foreseeable future",
+    "no guarantee",
+    "various unconsolidated entities",
+    "prices to be determined"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, highlighting strong revenue, earnings, liquidity, backlog, and leverage metrics. Risk tone is cautiously positive but acknowledges cyclicality, elevated mortgage rates, affordability pressures, macroeconomic sensitivity, long development periods, and volatile joint-venture earnings. Extensive definitions, cross-references, and complex business descriptions add boilerplate and reduce readability without appearing materially evasive."
+}

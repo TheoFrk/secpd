@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "many known and unknown risks",
+    "other factors",
+    "may be delayed/changed",
+    "expected to improve",
+    "continuous improvement"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue declines, margin compression, operating losses, segment performance, and other income, but embeds substantial boilerplate risk language and forward-looking assumptions. Risk tone is moderately negative, reflecting material deterioration in operating results, customer concentration, supply-chain exposure, payment-term risk, and aviation-market sensitivity, partially offset by management’s confidence in backlog and future demand."
+}

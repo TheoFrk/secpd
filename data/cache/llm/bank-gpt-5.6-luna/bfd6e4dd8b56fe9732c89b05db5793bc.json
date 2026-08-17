@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures as supplemental information",
+    "may not be the same as similarly titled measures",
+    "could continue for several",
+    "varying degrees of discretion",
+    "unpredictable movements in exchange rates"
+  ],
+  "risk_summary": "The excerpt is largely detailed and quantified, but contains substantial boilerplate regarding non-GAAP measures, cost classifications, and accounting policies. Risk tone is mildly negative due to excess industry capacity, currency volatility, declining regional market share, lower China joint-venture earnings, and unfavorable pricing and exchange effects, though no immediate crisis is indicated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "not indicative of ongoing operating performance",
+    "challenging macroeconomic environment",
+    "we expect",
+    "strategic investments",
+    "limited waiver of exclusivity"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but AMD reported sharply deteriorating results, including a $1.18 billion net loss, declining revenue and gross margin, reduced liquidity, inventory write-downs, and substantial obligations to GlobalFoundries. Management attributes much of the deterioration to macroeconomic and industry conditions and emphasizes restructuring and strategic initiatives, while some large charges are framed as nonrecurring."
+}

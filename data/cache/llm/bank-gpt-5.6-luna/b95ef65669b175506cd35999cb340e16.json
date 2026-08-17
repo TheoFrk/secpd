@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to quantify possible effects",
+    "cannot be certain",
+    "highly uncertain",
+    "may adversely impact",
+    "materially impacted"
+  ],
+  "risk_summary": "The disclosure provides useful historical sales figures and identifies severe concentration, tariff, pandemic, supply-chain, logistics, and component-shortage risks. However, several forward-looking impacts remain unquantified and depend on uncertain mitigation, pricing pass-through, demand, and recovery assumptions. Customer concentration and exclusive reliance on China-based manufacturing create material vulnerability to disruptions and margin pressure."
+}

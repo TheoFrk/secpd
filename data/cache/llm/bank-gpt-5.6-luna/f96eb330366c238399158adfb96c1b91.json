@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial expenses",
+    "significantly depends on",
+    "cannot predict whether or when",
+    "estimates and assumptions",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt presents substantial dependence on EYLEA, collaborators, regulatory approvals, and successful commercialization of pipeline products, with meaningful clinical, competitive, and execution risks. Financial outcomes are subject to significant estimates, reimbursement variability, development delays, and quarter-to-quarter fluctuation, although several historical amounts and revenue details are quantified."
+}

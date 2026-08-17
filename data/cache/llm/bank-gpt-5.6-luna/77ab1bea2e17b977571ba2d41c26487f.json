@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to other closing conditions",
+    "could adversely affect the value",
+    "cannot predict future prices",
+    "material effect on consolidated results",
+    "EBITDA material limitations"
+  ],
+  "risk_summary": "The excerpt is detailed and substantially quantified, but presents significant exposure to commodity price volatility, cyclical housing demand, operating losses, and regulatory uncertainty surrounding a material acquisition. The tone is predominantly factual and balanced, with moderate downside emphasis and some standard cautionary language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "unobservable inputs (Level 3)",
+    "estimated acquisition earn-out payables",
+    "contingent commissions",
+    "limiting exposure to claims expenses"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of revenue drivers, acquisitions, debt financing, interest-rate exposure, and insurance-related risks. Complexity is high due to extensive segment terminology, accounting rules, and non-GAAP measures, while valuation of earn-outs and contingent commissions introduces estimation risk. The overall tone is growth-oriented but partially tempered by increased leverage, floating-rate debt, catastrophe exposure, and reliance on management estimates."
+}

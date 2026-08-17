@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "expected future savings",
+    "adequate to fund operations for at least twelve months",
+    "strategic decision to decrease prices",
+    "anti-dilution and put-option provisions"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, but relies on forward-looking expectations regarding future savings, demand, capacity, and liquidity. Key risks include sharply reduced POS gross margins, significant operating expense growth, ongoing cash funding needs, dilution or repurchase exposure from financing terms, and an incomplete disclosure due to truncation."
+}

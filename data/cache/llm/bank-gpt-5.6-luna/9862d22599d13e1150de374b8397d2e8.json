@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance production estimates achieved",
+    "not independently assessed or verified",
+    "estimates and assumptions",
+    "actual amounts could differ",
+    "confidential information and preliminary discussions"
+  ],
+  "risk_summary": "The disclosure is generally specific and provides substantial operational and financial detail, but relies materially on third-party operator estimates and reserve assumptions that the company does not independently verify. Commodity-price volatility, production uncertainty, and a receivable allowance indicate moderate underlying risk, while the tone remains largely factual rather than crisis-like."
+}

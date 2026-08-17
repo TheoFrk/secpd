@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "customary covenants and events of default",
+    "no assurances can be given",
+    "expected to be offset",
+    "adequate cash resources"
+  ],
+  "risk_summary": "The excerpt is heavily characterized by standard MD&A, forward-looking statement, and accounting boilerplate, with limited quantified discussion of operating performance in the provided portion. Liquidity disclosure is cautiously positive, but repayment capacity depends on projected cash flow and compliance with a 3:1 senior funded debt-to-EBITDA covenant. The truncated text limits assessment of underlying financial deterioration or performance trends."
+}

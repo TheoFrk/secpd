@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot predict when we will learn more",
+    "significant input",
+    "numerous consultants and contractors",
+    "unique risks and uncertainties",
+    "estimates could change in the future"
+  ],
+  "risk_summary": "The excerpt provides several quantified disclosures, including expenses, patents, lease costs, preferred dividends, and contract timing, but relies on optimistic projections and broad statements about market potential and strategic benefits. Key risks include delayed government awards, coronavirus-related execution and financing uncertainty, shell-company history, and substantial unpaid preferred dividends. Overall, the tone is cautiously negative despite management's growth-oriented path forward."
+}

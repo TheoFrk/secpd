@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.63,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "underlying profitability",
+    "predictable, consistent and achievable",
+    "known trends and uncertainties",
+    "business realignment and impairment charges"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative supported by extensive quantified sales, margin, cost, and foreign-exchange metrics. Risk transparency is moderated by substantial emphasis on adjusted non-GAAP results and exclusion of volatile pension, realignment, impairment, and transaction items, which may make underlying performance less comparable to GAAP results. The text is technically dense and includes some promotional boilerplate, but it is generally specific rather than evasive."
+}

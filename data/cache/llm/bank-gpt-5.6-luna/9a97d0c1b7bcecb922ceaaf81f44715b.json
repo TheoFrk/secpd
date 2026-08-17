@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties difficult to predict",
+    "undue reliance should not be placed",
+    "subjective and sensitive assumptions",
+    "materially different allowance value"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed rate, volume, earnings, and balance-sheet information. Key risk areas are the subjective allowance for loan losses, valuation of debt securities, potential OTTI, and sensitivity to changing economic conditions, while repeated safe-h harbor language is largely boilerplate."
+}

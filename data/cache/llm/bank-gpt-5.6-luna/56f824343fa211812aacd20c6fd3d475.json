@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could be required to recognize",
+    "actual results to differ materially",
+    "unless otherwise noted",
+    "anticipated to approximate"
+  ],
+  "risk_summary": "The disclosure presents improving earnings and operating cash generation, but highlights material estimation risk in fair values, impairment testing, receivables, inventory, and percentage-of-completion contracts. Acquisition activity and reliance on a revolving credit facility create leverage and integration-related exposure, while the excerpt is structurally truncated and omits important results and liquidity detail."
+}

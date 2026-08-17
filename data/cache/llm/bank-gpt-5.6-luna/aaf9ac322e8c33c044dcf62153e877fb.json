@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "subject to regulatory approvals and customary closing conditions",
+    "expected to generate sufficient cash flows",
+    "continues to evaluate further cost reduction initiatives"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but includes substantial industry-risk boilerplate, forward-looking hedging, and a duplicated transaction and financing passage. Key risks include semiconductor cyclicality, underutilized capacity, capital intensity, technology substitution, execution of the PDMC merger, and debt or lease obligations."
+}

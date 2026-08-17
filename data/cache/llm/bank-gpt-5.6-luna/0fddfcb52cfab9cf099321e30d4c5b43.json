@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that this will be the case",
+    "cannot be determined at this time",
+    "foreseeable future",
+    "additional financing may be in the form of",
+    "repeated financing disclosure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but it highlights dependence on operating cash flow and potential external financing while acknowledging uncertainty about funding availability and terms. Liquidity appears adequate for current operations based on management’s assessment, yet the approximately $4.2 million intercompany balance and limited corporate cash indicate meaningful funding risk."
+}

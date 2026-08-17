@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "most significant factors ... included",
+    "primarily reflects",
+    "solid growth in sales and earnings",
+    "adjusted earnings non-GAAP measure",
+    "missing table/detail sections"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, but repeatedly uses boilerplate explanations and omits the underlying factors in several referenced tables. Risk is elevated by declining net income, compressed gross margins, rising raw-material costs, acquisition-related charges, and weak Velvac earnings, despite management's optimistic growth outlook."
+}

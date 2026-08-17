@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "other items that vary from period to period",
+    "expects to continue to optimize",
+    "without correlation to core operating performance",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is highly detailed and provides substantial operational counts, segment definitions, and selected cost figures, limiting factual vagueness. However, it contains extensive legal boilerplate, nested corporate-structure explanations, and reliance on adjusted/non-GAAP measures that may obscure comparability. The tone is cautiously constructive regarding growth and optimization, while acknowledging material exposure to inflation, labor, competition, consumer demand, weather, and COVID-19 effects."
+}

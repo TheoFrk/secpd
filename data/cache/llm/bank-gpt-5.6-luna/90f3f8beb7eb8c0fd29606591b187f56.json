@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "little control",
+    "material adverse effect",
+    "subject to fluctuations",
+    "alternative sources of capital"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified on revenues, customer concentration, products, and contractual terms, but repeatedly relies on forward-looking caveats and broad risk disclaimers. Key risks include a prior financial restatement, heavy dependence on Hospira, competitive pressure, uncertain acquisition and product-development outcomes, and potential liquidity or financing constraints."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "subject to significant risks and uncertainties",
+    "not possible to predict all of them",
+    "undertake no obligation to update",
+    "other economic, competitive, governmental or technological factors"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating and capital-position narrative, supported by several quantified acquisition, deposit, earnings, and capital figures. Risk disclosure is broad and heavily reliant on standardized forward-looking-statement disclaimers, with limited quantification of downside exposure or sensitivity to identified risks. The acquisition, interest-rate compression, deposit funding, credit quality, and regulatory factors remain material areas of potential risk."
+}

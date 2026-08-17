@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking expectations",
+    "constant-currency measures",
+    "adjusted measures excluding certain items",
+    "unreconciled non-GAAP metrics",
+    "growth objectives and savings targets"
+  ],
+  "risk_summary": "The excerpt provides substantial historical quantification, but emphasizes adjusted and constant-currency measures that can present performance more favorably than GAAP results. Revenue declined, international operating profit fell materially, and growth assumptions depend on restructuring savings, selective investment, and forward-looking targets."
+}

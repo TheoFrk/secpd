@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could be required",
+    "principally using",
+    "unless otherwise noted",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding acquisitions, ownership interests, and operating metrics. Risk disclosure is concentrated in standard accounting-policy language concerning valuation assumptions, impairment, contract estimates, and cost revisions, with limited evidence of acute distress. The text is structurally complex and appears truncated or corrupted in places, reducing interpretability."
+}

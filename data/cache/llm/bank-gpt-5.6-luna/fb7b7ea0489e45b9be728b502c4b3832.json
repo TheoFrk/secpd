@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "broad array of macroeconomic factors",
+    "none were individually significant",
+    "expected to be accretive",
+    "actual results could differ"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of sales, margins, cash flow, transaction proceeds, and capital allocation. Risk tone is moderately positive, though reliance on adjusted metrics, transaction-related benefits, and forward-looking expectations introduces some caution. The text also uses standard boilerplate and broad attribution for factors that limit comparability or precision."
+}

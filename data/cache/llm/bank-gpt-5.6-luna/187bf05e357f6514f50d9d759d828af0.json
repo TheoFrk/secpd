@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "may materially adversely impact",
+    "actual outcomes differ",
+    "based on information currently available",
+    "subject to significant change"
+  ],
+  "risk_summary": "The excerpt reports strong earnings and loan growth, but relies heavily on subjective allowance estimates and standard forward-looking caveats. Credit risk is rising, as classified loans increased to $82.3 million from $67.3 million, while management acknowledges that actual losses and required provisions may exceed current estimates."
+}

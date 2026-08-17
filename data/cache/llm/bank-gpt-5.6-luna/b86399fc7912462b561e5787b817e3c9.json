@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict how changes will affect",
+    "potential for further tariff increases",
+    "highly dependent on",
+    "we would expect",
+    "for the foreseeable future"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes meaningful operating, cash flow, and regional metrics, but it identifies substantial exposure to tariffs, trade restrictions, carrier capacity, fuel prices, geopolitical disruption, and working-capital needs. Management maintains a cautiously confident liquidity outlook, supported by $1.148 billion in cash and no long-term debt other than lease liabilities, while relying on forward-looking and partly non-quantified assumptions regarding external risks."
+}

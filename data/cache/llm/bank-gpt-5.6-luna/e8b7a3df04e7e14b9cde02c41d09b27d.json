@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "management discretion",
+    "no expiration date",
+    "expected to continue",
+    "minimal disruption"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, presenting strong sales, backlog, cash generation, liquidity, and order growth. Risk tone is optimistic, though supply-chain pressures, inflation, pension assumptions, customer shipment delays, and discretionary dividend and repurchase decisions create relevant uncertainties. Extensive promotional language and reliance on adjusted metrics moderately reduce neutrality."
+}

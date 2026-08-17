@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to determine or predict",
+    "may adversely affect",
+    "additional potential modifications",
+    "scientifically-validated product claims",
+    "truncated and discontinuous disclosure"
+  ],
+  "risk_summary": "The excerpt combines extensive promotional product descriptions with broad, non-quantified COVID-19 and market-disruption risks. Liquidity and covenant terms are comparatively precise, but the disclosure is lengthy, repetitive, and includes forward-looking uncertainty without estimating financial impact."
+}

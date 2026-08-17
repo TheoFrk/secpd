@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.02,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "mostly offset by",
+    "about flat",
+    "changes in dealer inventories",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, detailing revenue, profit, segment, geographic, cost, and inventory drivers. Performance was mixed, with modestly lower sales, weaker Construction Industries results, currency pressure, higher manufacturing costs, and expected dealer inventory reductions in 2020. Repeated causal language and the truncated Energy & Transportation section modestly limit clarity."
+}

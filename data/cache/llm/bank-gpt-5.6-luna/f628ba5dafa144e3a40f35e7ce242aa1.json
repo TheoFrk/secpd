@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "future impairment risk",
+    "subjective estimates and assumptions",
+    "little headroom over carrying value",
+    "warrant fair-value fluctuations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but is dense and heavily reliant on boilerplate non-GAAP explanations and management estimates. Key risks include declining profitability, a 2020 impairment charge, limited intangible-asset headroom, high effective tax expense, and potentially volatile warrant liabilities."
+}

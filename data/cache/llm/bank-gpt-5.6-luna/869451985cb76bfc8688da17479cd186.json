@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "not limited to",
+    "considerable management judgment",
+    "actual results could differ",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on receivables, allowances, goodwill, insurance liabilities, credit facilities, and letters of credit, supporting reasonably transparent assessment. However, extensive boilerplate disclaimers and reliance on management estimates create uncertainty around revenue offsets, customer deductions, impairment assumptions, and collectability. The company reports covenant compliance and no revolver borrowings, indicating a generally stable but assumption-sensitive risk profile."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "other factors which could affect potential credit losses",
+    "sound underwriting guidelines",
+    "generally well known",
+    "primarily confined to specific geographic areas",
+    "no significant concentrations existed"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and controlled risk-management posture, supported by quantified credit-loss, charge-off, allowance, and portfolio-concentration metrics. However, reliance on management judgment, qualitative reserving factors, broad control descriptions, and extensive technical boilerplate leaves some uncertainty regarding forward-looking credit deterioration and stress sensitivity."
+}

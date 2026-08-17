@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to many variables",
+    "reasonable estimate cannot be determined",
+    "future financial performance",
+    "judgment and significant estimates"
+  ],
+  "risk_summary": "The excerpt is highly technical and dense but provides substantial quantitative detail on customer concentration, contract mix, liquidity, debt repayment, and contractual obligations. Key risks include heavy U.S. government and DoD exposure, budgetary pressure, and significant estimation uncertainty in contract accounting, award fees, costs, and goodwill valuation. Management presents liquidity as adequate, though longer-term debt-servicing capacity depends on future performance and external economic conditions."
+}

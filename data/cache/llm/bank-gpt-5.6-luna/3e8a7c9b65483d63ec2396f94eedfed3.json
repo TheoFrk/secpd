@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "reliance on equity and debt investors",
+    "plans to achieve cost savings",
+    "various factors",
+    "undertake no obligation to update"
+  ],
+  "risk_summary": "The disclosure presents severe financial risk, including recurring net losses, limited working capital, a working capital deficit, and an auditor-identified substantial doubt about going concern. The company remains dependent on debt and equity financing, while several segments experienced significant revenue declines and some operations generated costs exceeding revenue. Although results are quantified, remediation plans are broadly described and lack specific milestones, funding commitments, or measurable targets."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "could potentially extend for the full year and beyond",
+    "extent ... remains highly uncertain and unpredictable",
+    "no assurance of material adverse impact",
+    "non-GAAP financial measures and limitations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear revenue, margin, cash flow, and geographic information. Risk tone is mixed: strong operating performance and cash generation are presented alongside substantial COVID-19 disruption, supply-chain, demand, regulatory, and liquidity uncertainties. Some uncertainty language and non-GAAP framing modestly limit transparency but are largely standard filing practice."
+}

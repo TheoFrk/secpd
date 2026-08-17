@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-binding letter-of-intent",
+    "believe that",
+    "anticipate a similar commitment",
+    "to the extent applicable",
+    "certain other specified countries"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, describing segment structure, debt-related actions, acquisitions, repurchases, dividends, and seasonal and weather exposure. Risk tone is cautiously confident, but reliance on management expectations, non-binding transaction language, and broad statements about diversification and long-term trends leaves some uncertainty around execution and outlook."
+}

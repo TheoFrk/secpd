@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could differ materially",
+    "unable to project improvement",
+    "unobservable Level 3 inputs",
+    "could not be determined with precision"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and reports strong profitability, cash generation, and a debt-free balance sheet, but operating conditions are pressured by weak freight demand, excess trucking capacity, declining rates, and lower utilization. Auction-rate securities introduce valuation and liquidity uncertainty because fair values rely on unobservable assumptions and could change materially."
+}

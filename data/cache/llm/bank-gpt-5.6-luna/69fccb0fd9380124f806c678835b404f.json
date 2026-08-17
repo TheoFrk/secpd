@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict the extent",
+    "any of which could have a material adverse effect",
+    "more likely than not",
+    "other similar words",
+    "undertake no obligations to update"
+  ],
+  "risk_summary": "The disclosure is broadly informative on operations and accounting policies but relies heavily on standard forward-looking and impairment-testing caveats. COVID-19 is identified as a potentially material threat to supply chains, liquidity, workforce availability, and results, although no significant current impact was reported. Quantitative sensitivity data and detailed downside scenarios are limited."
+}

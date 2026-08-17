@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily due to",
+    "non-GAAP measures",
+    "future changes in exchange rates",
+    "no recourse provisions"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear revenue, profitability, cash expenditure, acquisition, guarantee, and foreign-exchange disclosures. Risk tone is cautiously positive because operating results improved substantially, but low absolute profitability, $28.5 million of guarantee exposure, restructuring charges, impairment sensitivity, and FX uncertainty remain relevant credit risks. Repeated non-GAAP explanations and standard forward-looking disclaimers modestly reduce disclosure efficiency but do not appear strongly evasive."
+}

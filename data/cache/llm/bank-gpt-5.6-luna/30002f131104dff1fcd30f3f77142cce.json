@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "further analysis ... infeasible",
+    "non-GAAP Adjusted EPS",
+    "not necessarily comparable",
+    "we believe",
+    "material adverse impact"
+  ],
+  "risk_summary": "The excerpt presents a generally strong and confident operating profile, supported by quantified sales, earnings, margin, cash flow, and store-investment metrics. Disclosure includes standard caveats around non-GAAP measures, comparability, tax judgments, actuarial assumptions, and limited sales-mix analysis, which modestly reduce transparency but do not indicate crisis-level risk."
+}

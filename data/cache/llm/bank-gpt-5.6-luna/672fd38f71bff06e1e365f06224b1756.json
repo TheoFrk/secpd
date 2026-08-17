@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "historical information, current trends",
+    "subject to Board approval",
+    "intercompany revenues and income eliminated",
+    "extensive business and segment descriptions"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and mildly positive operating profile, supported by 8.7% revenue growth, dividends, and share repurchases. Key risks include dependence on customer employment levels, macroeconomic and regulatory conditions, raw-material costs, collectability, and management estimates. Disclosure is detailed but includes substantial business-description and accounting-jargon density, with the provided text truncated before completing the results discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurances can be provided",
+    "faster growing, business-friendly markets",
+    "non-GAAP performance measures",
+    "timing of acquisitions versus dispositions"
+  ],
+  "risk_summary": "The excerpt is generally descriptive and includes meaningful portfolio and transaction figures, but relies substantially on standard forward-looking disclaimers and qualitative market characterizations. Extensive discussion of non-GAAP measures and omitted or truncated tables may make underlying operating performance and liquidity risks harder to assess. The tone is cautiously positive rather than crisis-like, with explicit acknowledgment of uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believes it can fund its operations",
+    "combination of ... potential funding sources",
+    "expected to be converted to cash within a year",
+    "vagaries of timing",
+    "changes in assumptions, estimates or circumstances"
+  ],
+  "risk_summary": "The company reports a worsening $5.1 million working-capital deficit, operating cash use, substantial impairment and inventory write-down charges, and reliance on asset liquidation, related-party financing, and creditor repayment flexibility. Disclosure is relatively quantified but contains uncertainty around liquidity, transaction timing, asset realizability, contingent consideration, and future impairment risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "currently available information",
+    "cannot assure",
+    "unless otherwise required",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including segment trends, operating metrics, fuel exposure, insurance risks, capacity constraints, and capital needs. Risk language is substantially standard MD&A boilerplate, with forward-looking statements heavily qualified and the excerpt truncated in places. Overall tone is cautiously positive, reflecting strong demand and revenue growth while acknowledging sensitivity to economic conditions, labor availability, fuel costs, regulation, insurance claims, and third-party capacity."
+}

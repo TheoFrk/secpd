@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "significant costs",
+    "known and unknown liabilities",
+    "probable of recovery",
+    "may not achieve projected profitability"
+  ],
+  "risk_summary": "The disclosure combines quantified operating changes with substantial boilerplate regarding acquisition, integration, regulatory, and accounting risks. Key exposures include potential regulatory disallowances, recoverability of regulatory assets, execution and financing risks from acquisitions, and unaccounted-for water losses, although the regulated utility model is presented as relatively resilient."
+}

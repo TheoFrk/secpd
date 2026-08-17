@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "currently expect",
+    "subject to adjustment",
+    "if, and when",
+    "non-GAAP financial measure",
+    "materially adjusted"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, reporting revenue declines, project-related charges, pension losses, impairment charges, debt, and cash-flow effects. Risk is partially offset by improved segment profitability, divestiture proceeds, debt reduction, and planned strategic actions, but project delays, subcontractor challenges, pension assumptions, and potential future adjustments remain material concerns."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance goals will be achieved",
+    "appropriate level determined using accounting estimates",
+    "actual amount may materially vary",
+    "cautionary statement regarding forward-looking statements",
+    "troubled debt restructurings ... [truncated]"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with reported earnings, balance-sheet metrics, loan growth, asset-quality statistics, and capital requirements. Risk is moderate rather than crisis-like: nonperforming and impaired loans remain material, while past-due loans increased, although earnings, deposits, equity, and overall operations show modest improvement. Some boilerplate qualifications and the truncated discussion limit assessment of reimbursement exposures and troubled debt restructurings."
+}

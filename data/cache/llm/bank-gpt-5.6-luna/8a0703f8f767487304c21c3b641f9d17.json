@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of financing",
+    "limited cash reserves",
+    "substantial doubt as a going concern",
+    "funds expected but not assured"
+  ],
+  "risk_summary": "The company reports a working capital deficit, limited cash runway, minimal revenue, increasing losses, and substantial dependence on additional equity financing. Management explicitly acknowledges substantial doubt about its ability to continue as a going concern and warns that operations may be discontinued if financing is unavailable. While the disclosure is quantitatively detailed, repeated forward-looking disclaimers and uncertain government grant expectations temper its specificity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict the full impact",
+    "highly uncertain",
+    "subject to periodic review and revision",
+    "expects to renew this line of credit",
+    "may be materially affected"
+  ],
+  "risk_summary": "The disclosure provides useful operating and liquidity metrics, including customer counts, water volumes, capital expenditures, credit availability, and debt terms. However, it relies substantially on forward-looking, hedged language regarding COVID-19, weather sensitivity, growth assumptions, financing availability, and renewal of a demand credit facility. Overall tone is cautiously optimistic, with identifiable exposure to operational disruption, customer payment issues, regulatory conditions, and refinancing or liquidity risk."
+}

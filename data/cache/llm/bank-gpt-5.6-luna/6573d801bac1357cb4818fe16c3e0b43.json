@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP free cash flow",
+    "could potentially impact seasonality",
+    "meaningful foreign exchange impact",
+    "covenant violation consequences",
+    "contractual obligations not reflected"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with a positive tone supported by sales growth, free cash flow, covenant compliance, and shareholder returns. Key risks include foreign-exchange volatility, fiscal-calendar comparability, expansion execution, liquidity commitments, and potential consequences of debt-covenant breaches. Some definitions and standard liquidity language are repetitive and the excerpt is structurally complex."
+}

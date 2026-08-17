@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "as opportunities arise",
+    "other general corporate purchases",
+    "highly talented and diverse team",
+    "text truncation/corruption"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified revenue, operating income, and earnings growth, with generally confident management language. Credit risks include higher borrowings, substantial share repurchases funded partly through debt, slight receivables aging deterioration, acquisitions, and ongoing litigation exposure. Disclosure is relatively specific, though the strategy discussion contains boilerplate language and the excerpt is truncated in places."
+}

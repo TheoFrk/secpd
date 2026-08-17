@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "principally reflects",
+    "more likely than not",
+    "could trigger additional ownership changes",
+    "forecasted taxable income",
+    "potential loss of future tax benefits"
+  ],
+  "risk_summary": "The excerpt is highly quantified and comparatively transparent, but presents meaningful credit risks including recurring net losses, declining revenue, substantial underfunded pension obligations, elevated interest expense, and reliance on future taxable income to realize deferred tax assets. The repeated discussion of valuation allowances and tax-planning strategies introduces some uncertainty, although the overall disclosure is specific rather than overtly evasive."
+}

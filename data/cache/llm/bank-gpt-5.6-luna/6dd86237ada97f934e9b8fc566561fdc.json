@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "for the foreseeable future",
+    "subject to uncertainty",
+    "could differ materially",
+    "long period of time"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and presents improving demand, strong backlog, liquidity, and positive earnings trends. However, it contains substantial forward-looking assumptions and uncertainty around housing demand, construction-defect liabilities, actuarial estimates, joint ventures, and off-balance-sheet exposures. Overall tone is cautiously optimistic rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "general consensus among leading economists",
+    "various detailed business objectives",
+    "hopeful that prepayments have passed",
+    "highly selective, disciplined buyer"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, expense, loan, funding, and branch-consolidation metrics. Risk tone is cautiously positive, but includes material uncertainty around economic growth, interest rates, prepayments, credit quality, and strategic execution. Forward-looking disclaimers and aspirational language modestly reduce specificity regarding future outcomes."
+}

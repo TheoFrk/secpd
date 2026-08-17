@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "actual results may differ materially",
+    "other risks and uncertainties",
+    "significant customer concentration",
+    "ability to raise additional funds"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, but the lengthy forward-looking disclaimer and broad references to incorporated risk factors add boilerplate and limit specificity regarding future outcomes. Risk tone is moderately negative, reflecting recurring net losses, declining revenue and gross margin, customer concentration, reliance on product execution, and potential future funding needs."
+}

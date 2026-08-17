@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "actual results may differ",
+    "without limitation",
+    "unpredictable or unknown factors",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, including quantified startup and goodwill impairment charges. Risk disclosure is broad and largely standard boilerplate, while the company acknowledges uncertainty around estimates, revenue recognition changes, customer concentration, costs, compliance, and operational disruptions. Overall tone is neutral to cautiously confident, tempered by the reported goodwill impairment and significant forward-looking caveats."
+}

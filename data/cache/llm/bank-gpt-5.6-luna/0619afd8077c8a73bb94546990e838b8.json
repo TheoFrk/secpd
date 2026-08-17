@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to predict full extent",
+    "foreseeable future",
+    "could have an adverse effect",
+    "expect production levels to continue",
+    "subject to conditions beyond our control"
+  ],
+  "risk_summary": "The disclosure presents strong fiscal 2024 growth, margin expansion, liquidity, and covenant compliance, supported by favorable aerospace and defense demand. Key risks include Boeing production constraints and strikes, inflation, supply-chain challenges, macroeconomic uncertainty, and dependence on future operating cash flows and lender commitments. The narrative is generally confident but relies on forward-looking expectations and broad contingencies rather than detailed quantified sensitivities."
+}

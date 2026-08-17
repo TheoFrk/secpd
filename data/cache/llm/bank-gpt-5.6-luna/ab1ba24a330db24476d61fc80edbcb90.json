@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "significant estimates and assumptions",
+    "potential future risks",
+    "we believe there is significant growth potential",
+    "may materially impact",
+    "qualitative assessment"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and strategic, with substantial operational detail and quantitative footprint metrics, but it relies on optimistic projections and judgment-based impairment assumptions. Key risks include supply-chain exposure, execution of growth initiatives, and sensitivity of goodwill and intangible valuations to forecast growth, margins, royalty rates, and discount rates."
+}

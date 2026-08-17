@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects more than",
+    "other factors",
+    "qualitative and quantitative factors",
+    "straight-line reversion",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with specific year-over-year results, portfolio metrics, underwriting thresholds, and 2022 targets. Risk remains tied to low interest rates, excess liquidity, credit-loss forecasting assumptions, economic conditions, and exposure to auto and home-equity lending. The overall tone is moderately confident, though forward-looking expectations and qualitative reserving judgments introduce uncertainty."
+}

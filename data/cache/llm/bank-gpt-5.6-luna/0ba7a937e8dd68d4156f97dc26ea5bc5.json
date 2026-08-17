@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "attempt to raise capital",
+    "subject to funding",
+    "unable to accurately quantify",
+    "some obligations are duplicative"
+  ],
+  "risk_summary": "The company reports no revenue, minimal cash, continuing operating losses, inadequate financing, substantial overdue obligations, and dependence on related parties and future capital raises. Management explicitly states that a $2.17 million liquidity shortfall could trigger default and jeopardize continued viability. Risk disclosures are detailed but rely heavily on boilerplate disclaimers and uncertain plans rather than committed funding or quantified recovery measures."
+}

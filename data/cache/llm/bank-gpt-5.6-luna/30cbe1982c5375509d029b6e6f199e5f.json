@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "non-GAAP adjusted results",
+    "strategic transformation initiatives",
+    "positive momentum and strong business model"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and non-GAAP disclaimers, with numerous broad risk categories but limited quantified downside analysis. Management’s tone is strongly promotional and confident, emphasizing growth, margins, recurring revenue, and transformation benefits while framing adverse factors as contingencies."
+}

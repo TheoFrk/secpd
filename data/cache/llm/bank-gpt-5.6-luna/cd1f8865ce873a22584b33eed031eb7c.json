@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "no obligation to update",
+    "management’s best estimate",
+    "factors beyond the Corporation’s control"
+  ],
+  "risk_summary": "The excerpt combines strong quantified performance results with extensive standard forward-looking and accounting-estimate disclaimers. Credit risk is concentrated in the loan-loss allowance, whose adequacy depends on subjective assumptions and economic, interest-rate, portfolio-performance, and regulatory conditions."
+}

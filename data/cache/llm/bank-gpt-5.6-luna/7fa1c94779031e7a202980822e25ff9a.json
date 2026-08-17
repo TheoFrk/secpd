@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "underlying sales/business",
+    "primarily due to",
+    "forward-looking statements",
+    "intended to/expect"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed reconciliations of GAAP results, segment performance, and cost drivers. Risk factors include currency headwinds, modest expected economic growth, delayed LNG customer investments, restructuring and separation costs, and losses in the Industrial Gases–Global segment. The overall tone is cautiously positive, supported by improved margins, earnings growth, and cost reductions, but relies materially on non-GAAP and underlying-performance measures."
+}

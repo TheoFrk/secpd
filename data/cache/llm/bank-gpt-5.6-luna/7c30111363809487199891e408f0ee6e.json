@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimates of future activity",
+    "if required",
+    "potential future payments",
+    "significant change occurs",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt presents strong revenue growth and detailed product-level metrics, producing a generally confident operating tone. Key uncertainties involve forecast-based royalty amortization, clinical-trial accrual estimates, pricing pressure, foreign-exchange effects, development milestones, and potential product safety or recall impacts."
+}

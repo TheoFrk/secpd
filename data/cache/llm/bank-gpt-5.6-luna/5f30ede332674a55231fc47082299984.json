@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "results classified as discontinued operations",
+    "anticipated total investment will exceed original estimate",
+    "revised estimate later in 2015",
+    "significant business interruption",
+    "special charges, net"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and highly quantified, but highlights material execution, integration, ERP implementation, raw-material, and foreign-exchange risks. Earnings per share declined substantially, while project costs exceeded expectations and the revised completion cost and timetable remained unavailable. Overall tone is candid but moderately negative due to operational disruption and uncertain future investment requirements."
+}

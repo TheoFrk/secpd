@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.52,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "reasonably possible estimates may change",
+    "could have a material effect",
+    "unable to predict customer collectibility",
+    "potential acquisitions and investments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, showing improved sales, profitability, operating cash flow, liquidity, and no material off-balance-sheet arrangements. Key risks relate to estimate uncertainty, receivables collectibility, inventory obsolescence, investment volatility, tax changes, contingent earn-outs, and future capital allocation needs. Management expresses confidence that available cash and operating cash flow will meet requirements for at least the next 12 months."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "expected to open",
+    "we believe such relationships give us an advantage",
+    "qualified in its entirety",
+    "large expenditures ... may pursue"
+  ],
+  "risk_summary": "The company reports minimal revenue, substantial operating and net losses, significant cash usage, and continued dependence on equity and debt financing. Liquidity appears vulnerable given $1.2 million of cash, $5.0 million of operating cash burn, and $3.3 million of capital expenditures recorded in accounts payable. Expansion plans and financing terms are described with some uncertainty and may increase dilution and repayment risk."
+}

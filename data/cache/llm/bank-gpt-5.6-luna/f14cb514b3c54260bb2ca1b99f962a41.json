@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "may never occur",
+    "no specific attributes or criteria",
+    "cannot assure investors",
+    "difficult to quantify",
+    "if at all"
+  ],
+  "risk_summary": "The Company has no operations, no present sources of capital or liquidity, substantial accumulated deficits, and explicitly substantial doubt about its ability to continue as a going concern. Its survival depends on interim management funding, future financing, and completing a highly uncertain business transaction that may never occur. Disclosure is generally candid and quantified, but includes repetitive boilerplate and a malformed cost estimate that omits a lower-bound figure."
+}

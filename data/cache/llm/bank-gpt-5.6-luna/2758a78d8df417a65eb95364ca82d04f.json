@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.96,
+  "redundancy_score": 0.88,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive disclosure",
+    "boilerplate section heading",
+    "externalized MD&A content"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and redirects readers to another report. This materially limits assessment of liquidity, results, and emerging risks from the provided text."
+}

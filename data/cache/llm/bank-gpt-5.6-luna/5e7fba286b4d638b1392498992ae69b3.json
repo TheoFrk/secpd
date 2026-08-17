@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "\"carefully managed\" and \"continuously underway\"",
+    "fuel-surcharge netting and reclassification",
+    "\"partially offsetting\" explanations",
+    "margin account borrowings",
+    "truncated liquidity outlook"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear year-over-year operating metrics and explanations. Risk is elevated by a 99.2% truckload operating ratio, increased debt and margin borrowings, substantial fleet capital expenditures, and driver-cost pressure, although management presents these issues as manageable. The excerpt ends mid-sentence, limiting assessment of the complete liquidity outlook."
+}

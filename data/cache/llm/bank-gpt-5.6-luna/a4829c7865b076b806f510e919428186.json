@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.65,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "assumptions, judgments and estimates",
+    "reasonable under the circumstances",
+    "believe methodology achieves a reliable measure",
+    "maximum potential amount ... unlimited",
+    "minimal exposure beyond insurance"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance, revenue and earnings growth, increased billable hours, and a generally confident outlook. Key risks relate to estimation uncertainty in fixed-price project revenue, contract losses, doubtful accounts, and potentially unlimited indemnification obligations, although management characterizes historical variances and residual exposure as immaterial or minimal."
+}

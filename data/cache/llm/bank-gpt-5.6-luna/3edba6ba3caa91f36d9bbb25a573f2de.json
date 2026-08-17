@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "once funded and initiated",
+    "management estimates",
+    "subject to FDA review and agreement",
+    "reasonable best efforts"
+  ],
+  "risk_summary": "The excerpt combines detailed historical and transaction disclosures with promotional descriptions of an early-stage oncology platform and substantial forward-looking assumptions. Key risks include curtailed R&D due to financing needs, dependence on regulatory and clinical milestones, uncertain companion-diagnostic requirements, and potential registration-related liquidated damages. The tone is cautiously negative on funding but otherwise strongly optimistic about development timelines, costs, and commercial potential."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.87,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management deems adequate",
+    "could cause actual loan losses to differ materially",
+    "variety of internal and external factors",
+    "assumptions about future cash flows",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is highly technical and generally quantified, but relies substantially on management estimates, assumptions, and conditional accounting judgments for loan-loss reserves, OTTI, and goodwill impairment. Credit risk is material due to real-estate concentration, economic sensitivity, acquired impaired loans, and reliance on FDIC loss-share protections, although the tone is controlled rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "factors listed above are not exhaustive",
+    "not possible for management to predict",
+    "estimates based on current available information",
+    "expressly disclaims any obligation to update"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating information, but the extensive safe-h harbor language is boilerplate and broadly disclaims predictability and update obligations. Key risks include government-budget exposure, customer and contract concentration, cost-to-complete estimates, inventory valuation, and potential margin volatility from long-term fixed-price contracts."
+}

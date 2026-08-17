@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective assessments",
+    "estimated fair value",
+    "reasonable range of current market rates",
+    "actual results could materially differ",
+    "anticipated hold period"
+  ],
+  "risk_summary": "The excerpt is heavily focused on accounting policies and management estimates, with substantial reliance on subjective judgments regarding collectability, impairment, useful lives, valuations, and projected cash flows. Although it includes quantified historical results, the disclosure is largely boilerplate and provides limited sensitivity analysis or explicit downside quantification. The tone is neutral to mildly cautious rather than crisis-like."
+}

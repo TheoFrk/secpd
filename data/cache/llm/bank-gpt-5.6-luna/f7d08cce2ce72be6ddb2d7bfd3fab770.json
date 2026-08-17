@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks include, but are not limited to",
+    "could differ materially",
+    "management believes",
+    "significant synergies",
+    "cannot accurately determine"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue, margins, expenses, taxes, investments, and capital expenditures, but relies heavily on standard forward-looking disclaimers and broad, non-quantified strategic claims. Risk is moderate: revenue growth and acquisitions are positive, while gross-margin compression, weak archery performance, integration dependence, customer concentration, and financing or supply-chain risks remain relevant."
+}

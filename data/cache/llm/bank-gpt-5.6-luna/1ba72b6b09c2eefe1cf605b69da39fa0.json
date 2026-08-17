@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "likely continue to have a negative impact",
+    "primarily due to",
+    "may not be comparable",
+    "among other factors",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, but reports material deterioration, including a 6.9% sales decline, a pretax loss, a net loss, higher SG&A ratios, and 111 store closures. Ongoing inflation, high interest rates, supply-chain disruptions, and elevated shipping costs create continued downside risk, while some causal explanations rely on broad or qualified language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe our strategy will enable",
+    "continue to focus on",
+    "potentially mitigate unfavorable impacts",
+    "long-term sustainable growth",
+    "excluding certain items"
+  ],
+  "risk_summary": "The excerpt presents a predominantly confident, promotional tone supported by several quantitative operating and investment figures. It acknowledges material exposure to regulation, macroeconomic volatility, climate and water constraints, political instability, and currency fluctuations, but often discusses mitigation at a high level without quantifying potential impacts. The extensive strategic and sustainability language is partly boilerplate and may obscure the relative magnitude of specific risks."
+}

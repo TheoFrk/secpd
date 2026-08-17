@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "approximately",
+    "unfavorable foreign exchange impact",
+    "currently shut down indefinitely",
+    "dis-synergies associated with"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but uses some standard causal qualifiers and approximations. Risk tone is moderately negative, reflecting declining sales and margins, facility shutdowns, restructuring, impairment charges, elevated separation costs, and execution risks from the planned spin-off."
+}

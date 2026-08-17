@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "may result in declines and/or volatility",
+    "non-GAAP financial measures",
+    "special items",
+    "no such estimate is made"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and strongly quantified, highlighting subscriber, revenue, margin, cash flow, and cost trends. Risk tone is cautiously positive, but it flags substantial exposure to advertising weakness, macroeconomic volatility, labor costs, competition, geopolitical events, and generative AI. Extensive non-GAAP measures and exclusions may complicate comparability with GAAP results."
+}

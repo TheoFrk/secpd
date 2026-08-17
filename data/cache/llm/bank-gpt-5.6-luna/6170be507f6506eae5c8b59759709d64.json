@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "we believe we are well positioned",
+    "could materially adversely affect",
+    "continue to evaluate further cost reduction initiatives",
+    "alternative methods may reduce demand"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with quantified backlog, capital expenditures, cash-flow effects, and non-GAAP reconciliations, but relies on substantial forward-looking language and conditional risk scenarios. Key risks include cyclical demand, technology substitution, underutilized capacity, margin pressure, asset impairments, and significant planned capital investment."
+}

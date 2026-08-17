@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly leveraged",
+    "non-GAAP metric exclusions",
+    "preliminary fair value determination",
+    "temporary Congressional relief",
+    "cannot be guaranteed"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, covering operating scale, revenue, payor mix, acquisitions, reimbursement exposure, liquidity, and leverage. Key risks include dependence on temporary Medicare reimbursement relief, high leverage, non-GAAP adjustments, and preliminary acquisition accounting, although the overall tone remains operationally confident."
+}

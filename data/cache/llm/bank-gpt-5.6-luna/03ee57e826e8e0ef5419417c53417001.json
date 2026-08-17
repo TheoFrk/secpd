@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "subject to regulatory approvals",
+    "based on specific customer needs",
+    "could add up to",
+    "continue to evaluate"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, strategy-oriented outlook with substantial quantified targets, capacity plans, investment amounts, and timelines. However, execution depends on regulatory approvals, customer demand, technology performance, fuel-transition assumptions, and potential solar supply-chain impacts, while extensive forward-looking language limits certainty."
+}

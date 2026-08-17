@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to certain exclusions",
+    "a number of assumptions",
+    "high degree of judgment",
+    "primarily driven by",
+    "for further details refer to"
+  ],
+  "risk_summary": "The disclosure is relatively specific on the Chapter 11 restructuring, emergence, refinancing, and $950 million senior secured notes, but provides limited quantified operating performance in the excerpt. Risk tone is materially negative because of the recent bankruptcy and continued reliance on refinancing, while impairment and forecast assumptions introduce uncertainty. Boilerplate cross-references and dense legal/accounting terminology reduce transparency."
+}

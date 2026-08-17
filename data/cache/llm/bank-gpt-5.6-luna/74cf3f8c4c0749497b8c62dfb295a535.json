@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties beyond our control",
+    "do not consider backlog to be firm orders",
+    "difficult to predict future impacts",
+    "significant judgment, estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt is substantially boilerplate in its legal disclaimers and contains broad hedging around COVID-19, demand, labor, supply-chain conditions, and impairment assumptions. Disclosed backlog is quantified but remains cancellable and therefore provides limited revenue visibility; operational capacity and workforce constraints are identified as meaningful risks. Overall tone is cautiously positive, supported by growth and strategic positioning, but tempered by uncertainty and reliance on management estimates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot be accurately predicted",
+    "may need to borrow additional funds",
+    "funding may not be available",
+    "full valuation allowance"
+  ],
+  "risk_summary": "The company reports continuing net losses, substantial operating expenses relative to revenue, and uncertainty about generating sufficient cash flow to support operations. It may require additional debt or equity financing, which may be unavailable or unfavorable, while deferred tax asset realizability is uncertain. Disclosure is generally quantified but contains extensive technical and forward-looking boilerplate."
+}

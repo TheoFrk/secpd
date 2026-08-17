@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant degree of judgment",
+    "could have a material adverse effect",
+    "subject to risks and uncertainties",
+    "for the foreseeable future",
+    "various methods and assumptions"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative exposure data, including liabilities tied to loss reserves, future policy benefits, and investment assets, but emphasizes substantial estimation uncertainty and sensitivity to adverse claims, investment, reinsurance, and actuarial developments. Liquidity is presented as adequate, though the conclusion relies partly on expected subsidiary payments and potential additional borrowings. Overall tone is neutral to mildly reassuring, with material contingent risks clearly disclosed but not quantified under stress scenarios."
+}

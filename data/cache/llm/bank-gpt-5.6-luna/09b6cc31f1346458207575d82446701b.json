@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "risks beyond our ability to control or predict",
+    "disclaim any intent or obligation to update",
+    "potential unintended consequences",
+    "fair values exceeded carrying values by less than 10%"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating and acquisition information, including revenue, margins, earnings, debt-funded acquisition cost, goodwill, and impairment headroom. However, extensive safe-harbor language and a broad catalog of contingencies rely on generalized risk framing, while supply-chain pressures, macroeconomic uncertainty, acquisition integration, and relatively narrow impairment cushions remain material risks. Overall tone is cautiously positive, supported by strong reported growth but moderated by significant uncertainty and reliance on forecasts."
+}

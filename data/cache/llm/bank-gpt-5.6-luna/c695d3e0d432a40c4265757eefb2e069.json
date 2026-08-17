@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.93,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive disclosure",
+    "cross-reference to annual report",
+    "boilerplate MD&A language"
+  ],
+  "risk_summary": "The excerpt provides no substantive discussion of financial condition, liquidity, capital resources, or accounting estimates. Reliance on an external cross-reference limits transparency and requires review of the cited annual report for risk assessment."
+}

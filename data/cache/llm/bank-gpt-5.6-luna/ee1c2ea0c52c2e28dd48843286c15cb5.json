@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.93,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "section of the 2019 Annual Report",
+    "immediately following the Notes",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and redirects the reader to another filing section. This limits transparency and prevents assessment of liquidity, performance, or emerging risks from the excerpt alone."
+}

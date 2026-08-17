@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "based on management’s beliefs, estimates, assumptions",
+    "certain organizational changes",
+    "very difficult to detail key market indicators",
+    "residual assets and wind-down activity"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating outlook, citing earnings growth, acquisition-driven volume gains, and profitable joint ventures, but acknowledges mixed volumes, soft Engineered Cabs demand, impairments, restructuring, and business wind-down activity. Disclosure is relatively quantified in several areas, though extensive forward-looking language, segment reclassifications, and broad market-indicator caveats limit comparability and precision."
+}

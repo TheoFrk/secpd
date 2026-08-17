@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.35,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-binding letter of intent",
+    "subject to post-closing adjustments",
+    "expects transaction to close",
+    "anticipated closing",
+    "weather-related explanations"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear reporting of sales, operating income, transaction values, and distribution costs. Some uncertainty remains around pending acquisitions, transaction timing, and post-closing adjustments, while repeated weather and product-growth explanations modestly dilute the disclosure. Overall, the tone is operationally confident rather than crisis-like."
+}

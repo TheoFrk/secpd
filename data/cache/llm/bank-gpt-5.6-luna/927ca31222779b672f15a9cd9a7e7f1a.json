@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could cause actual results to differ materially",
+    "adequate liquidity",
+    "currently in dispute",
+    "estimate volatility because insufficient trading"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, reserve, liquidity, and borrowing-base information, but relies on standard forward-looking disclaimers and does not fully quantify sensitivity to commodity prices, liquidity needs, or covenant risks. The working-capital deficit, disputed payables, debt amendments, covenant waiver, and volatile oil pricing indicate meaningful financial and execution risk despite management's moderately positive liquidity assessment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "cannot be accurately predicted",
+    "may continue to impact",
+    "estimates, assumptions and judgments",
+    "constrained production cycles"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but includes substantial standard safe-harbor and uncertainty language. Risk exposure is elevated due to sharply lower operating income and net income, pandemic effects, input-cost inflation, labor shortages, supply-chain constraints, and execution risk from facility consolidation and ERP implementation. A strong backlog and anticipated infrastructure spending provide offsets, although production constraints may limit conversion of backlog into timely sales."
+}

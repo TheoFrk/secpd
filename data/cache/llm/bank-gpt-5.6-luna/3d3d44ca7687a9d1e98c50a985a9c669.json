@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "broad array of products",
+    "could experience fluctuation, volatility and declines",
+    "primarily attributable to",
+    "past performance does not guarantee future results",
+    "partially offset by increased expenses"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with clear attribution of growth to the RidgeWorth acquisition and market appreciation. Risk tone is moderately positive, but it acknowledges market volatility, potential asset-flow pressure, fee-rate compression, leverage effects, and acquisition-related cost increases. Operating income growth materially lagged revenue growth, indicating expense and margin risks."
+}

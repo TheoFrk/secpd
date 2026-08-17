@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "certain programs",
+    "projected build rate",
+    "partially offset",
+    "no associated tax benefit"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, but reports an 8.4% decline in net sales, lower gross profit and margin compression, driven largely by weakness in energy markets and program timing. Fixed-cost leverage, U.S. losses without tax benefit, valuation allowances, and restructuring-related items indicate meaningful operating and earnings risk. The tone is generally factual rather than crisis-like, with some reliance on broad causal explanations and forward-looking expectations."
+}

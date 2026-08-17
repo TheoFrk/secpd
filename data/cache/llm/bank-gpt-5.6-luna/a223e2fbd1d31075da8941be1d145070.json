@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unpredictable factors",
+    "significant portfolio actions",
+    "primarily related to",
+    "results were negatively impacted",
+    "truncated/inconsistent period references"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including earnings declines, segment profit changes, charges, and operating pressures from weather, trade tensions, ethanol oversupply, and African swine fever. However, extensive strategic and boilerplate language, broad causal explanations, and apparent date/reference inconsistencies reduce clarity. Overall tone is operationally cautious and mildly negative rather than crisis-like."
+}

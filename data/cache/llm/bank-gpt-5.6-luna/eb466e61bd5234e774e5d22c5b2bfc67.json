@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "COVID-19 uncertainty",
+    "no assurance",
+    "future operating trends",
+    "significant estimates and assumptions",
+    "sufficient liquidity and borrowing capacity"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including segment-level sales impacts, liquidity, debt, margins, and acquisition effects. Risk tone is cautiously stable, but COVID-19 uncertainty, demand sensitivity, tax audit exposure, and valuation assumptions create meaningful forward-looking risks. Management offsets these concerns with assertions regarding liquidity, diversification, and operational resilience."
+}

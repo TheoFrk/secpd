@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "customer-specific acceptance criteria",
+    "operating inputs are accurate",
+    "historically not had a material effect",
+    "look for growth opportunities",
+    "not been robust enough to offset"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure, but relies on management estimates and customer-provided operating assumptions in revenue recognition. Declining U.S. demand, coal-to-gas substitution, weak foreign sales, and identified loss contracts indicate moderate operating and execution risk, partly offset by stated growth opportunities and backlog improvement."
+}

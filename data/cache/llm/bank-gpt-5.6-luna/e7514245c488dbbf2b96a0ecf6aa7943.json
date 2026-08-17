@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "not expected to have a significant impact",
+    "may not be fully comparable",
+    "not necessarily indicative of future results",
+    "highly uncertain estimates"
+  ],
+  "risk_summary": "The excerpt presents strong 2024 earnings growth with extensive quantitative detail, but emphasizes standard forward-looking limitations and accounting uncertainty. Key risk areas include credit-loss estimates, valuation judgments, interest-rate-sensitive mortgage activity, regulatory effects on debit-card revenue, and rapidly increasing noninterest expenses."
+}

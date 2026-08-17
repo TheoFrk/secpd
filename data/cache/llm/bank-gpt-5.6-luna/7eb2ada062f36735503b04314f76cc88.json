@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant judgments and estimates",
+    "inherently subjective",
+    "could differ significantly",
+    "adjusted pre-tax, pre-credit costs",
+    "qualitative loss factors"
+  ],
+  "risk_summary": "The excerpt presents a generally positive risk profile, with improving credit metrics, declining charge-offs and non-performing assets, loan and deposit growth, and solid capital levels. Disclosure is highly quantified, but reliance on non-GAAP measures and subjective allowance assumptions introduces estimation and comparability risk. Commercial real estate and investment-property exposure is material and growing, warranting monitoring despite favorable current credit trends."
+}

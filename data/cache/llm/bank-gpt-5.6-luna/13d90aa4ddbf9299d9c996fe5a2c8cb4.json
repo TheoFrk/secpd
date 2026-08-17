@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "does not assume any obligation to update",
+    "may/will/should/could",
+    "non-GAAP core income measures",
+    "recovery lag in energy portfolio"
+  ],
+  "risk_summary": "The excerpt presents a generally optimistic operating outlook, supported by quantified market and financial metrics, but acknowledges material exposure to energy-sector weakness and a potentially delayed credit recovery. Extensive forward-looking disclaimers, modal language, and non-GAAP measures limit interpretability and may soften the presentation of downside risks."
+}

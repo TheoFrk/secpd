@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP underlying measures",
+    "difficult to quantify or predict",
+    "estimated net change in distributor inventories",
+    "if tariffs remain in place",
+    "aggregated market and brand disclosures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and transparent about non-GAAP adjustments, tariff exposure, reclassifications, and outlook assumptions, but relies substantially on standardized definitions and omitted tables. Risk tone is mildly positive because management expresses optimism for fiscal 2020, although tariffs, foreign exchange, distributor inventory changes, and potential additional tariffs remain material uncertainties."
+}

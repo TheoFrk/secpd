@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "beyond our control",
+    "no obligation to update",
+    "subject to significant judgment"
+  ],
+  "risk_summary": "The disclosure is heavily dominated by standardized forward-looking and liability-limiting language, reducing specificity despite some useful quantified information, including the sharp decline in backlog. Key risks include order cancellations, distributor and investor credit exposure, mandatory servicing cash obligations, constrained financing markets, catastrophe claims, inflation, and interest rates. The tone is cautious and moderately negative rather than crisis-like."
+}

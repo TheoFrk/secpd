@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "insignificant contributions",
+    "largely attributable",
+    "primarily attributable",
+    "expected to expand",
+    "favorable mix of income"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear attribution of changes in sales, volumes, pricing, currency effects, expenses, and earnings. Risk factors include restructuring and impairment charges, customer claims, foreign exchange headwinds, plant underutilization, and dependence on raw-material pricing, but management presents overall performance in a moderately positive tone."
+}

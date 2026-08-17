@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.56,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "broad array of customers",
+    "important competitive advantage",
+    "strategic acquisitions and investments",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative, supported by quantified sales, income, market, and acquisition impacts. Risk disclosure is largely standardized and cross-referenced, while exposure to international markets, end-market cyclicality, acquisitions, COVID-19 effects, and non-GAAP adjustments remains relevant. Overall disclosure is reasonably specific but dense and includes broad qualitative claims that warrant validation against the detailed financial statements."
+}

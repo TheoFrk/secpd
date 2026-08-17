@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "other operational, financial or legal risks",
+    "could cause actual results to differ materially",
+    "no obligation to publicly update",
+    "dependence on third party capacity providers"
+  ],
+  "risk_summary": "The excerpt combines detailed operating and financial metrics with extensive standard forward-looking disclaimers and broad, largely unquantified risk categories. The business tone is moderately positive, supported by revenue, profitability, and cost data, but material exposure exists to claims, demand, competition, contractors, vendors, regulation, and third-party capacity."
+}

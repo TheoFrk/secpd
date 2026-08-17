@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "could differ materially",
+    "no obligation to update",
+    "Level III unobservable inputs"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, citing revenue growth, backlog, acquisitions, purchase prices, and operating metrics. Risk discussion relies partly on broad boilerplate categories and extensive forward-looking-statement disclaimers, with limited quantification of downside exposure. Overall tone is moderately confident, reflecting strong growth and subscription momentum despite integration, cybersecurity, regulatory, and execution risks."
+}

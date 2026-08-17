@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad line of health care products",
+    "approximately 50 percent",
+    "expected to receive approval",
+    "additional charges will be incurred",
+    "impacted sales, costs and financial position"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including sales trends, rebate sensitivity, debt levels, restructuring charges, and product-specific developments. Key risks include patent expirations, generic competition, rebate estimation uncertainty, regulatory approvals, acquisition-related debt, and additional restructuring costs. Overall tone is moderately confident but qualified by ongoing execution and market risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "factors beyond the Company’s control",
+    "actual losses could differ significantly",
+    "management has determined",
+    "not included in consolidated financial statements",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue drivers, profitability, margins, loan-loss provisions, and tax impacts. Risk disclosure is partly generic, particularly regarding economic conditions and allowance estimates, while the truncated critical-accounting section limits assessment of underlying credit-risk detail. Overall tone is moderately positive, supported by improved earnings and net interest income, but acknowledges sensitivity to asset quality, funding costs, and economic conditions."
+}

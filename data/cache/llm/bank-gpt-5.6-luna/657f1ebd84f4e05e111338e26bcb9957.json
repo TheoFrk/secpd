@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances",
+    "believe that we are uniquely qualified",
+    "variety of factors",
+    "non-core expenses",
+    "estimates and judgments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, operating income, interest expense, debt, and listing compliance, but uses some boilerplate and non-GAAP framing. Credit risk remains elevated due to substantial interest expense, refinancing activity, prior listing deficiencies, cost inflation, and dependence on operational improvements, despite improved operating results and restored NYSE compliance."
+}

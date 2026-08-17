@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.15,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "partially offset by",
+    "ultimate resolution may result",
+    "materially different from current estimate",
+    "anticipated capital requirements"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with clear year-over-year changes in sales, margins, earnings, taxes, debt-related interest, and restructuring charges. Risk factors include declining 2019 sales and profitability, acquisition-related costs and leverage, foreign-exchange exposure, restructuring activity, and uncertain tax positions. Management presents liquidity as adequate, but the conclusion regarding anticipated capital requirements is not supported by detailed forward-looking amounts in the excerpt."
+}

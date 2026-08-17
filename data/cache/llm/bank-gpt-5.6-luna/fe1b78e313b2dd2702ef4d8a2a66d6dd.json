@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe-harbor boilerplate",
+    "factors outside of our control",
+    "continue to take actions to mitigate",
+    "estimates may change",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but includes standard forward-looking disclaimers and broad references to external factors and management estimates. Key risks include cyclical demand, project scheduling and revenue-recognition uncertainty, Canadian ramp-up inefficiencies, higher costs, margin deterioration, and deferred-tax-asset realizability."
+}

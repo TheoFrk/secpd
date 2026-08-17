@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "not possible for us to predict all",
+    "undertake no obligation to publicly update",
+    "expected to more than offset",
+    "controlled through policies and procedures"
+  ],
+  "risk_summary": "The excerpt provides useful quantified balances and loss metrics, but much of the risk discussion relies on standardized, non-specific descriptions of controls and broad forward-looking disclaimers. Management presents a mildly confident outlook, while highlighting material exposure to credit quality, interest rates, liquidity, funding costs, competition, regulation, and acquisition execution."
+}

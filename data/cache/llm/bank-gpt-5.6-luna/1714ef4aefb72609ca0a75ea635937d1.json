@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "other factors",
+    "can vary significantly",
+    "monitor and evaluate",
+    "strategic investments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes quantitative cash flow, capital expenditure, and financing data, but contains substantial standard MD&A boilerplate and broad descriptions of cyclical and pandemic-related risks. The tone is cautiously positive, emphasizing operational continuity, customer demand, and growth opportunities while acknowledging material volatility and dependence on industry conditions."
+}

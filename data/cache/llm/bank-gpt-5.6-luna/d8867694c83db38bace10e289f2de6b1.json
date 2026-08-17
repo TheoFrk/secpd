@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "no assurance financing available",
+    "anticipated revenue streams",
+    "materially different actual results",
+    "monetization without quantified outlook"
+  ],
+  "risk_summary": "The company has no operating revenue, limited operations, and acknowledges that it may be unable to continue expanding without additional capital or new revenue. Reported 2023 net income was supported by gains on asset sales and securities rather than recurring operations, while future revenue depends on unproven monetization of NFTs and legacy virtual-reality assets."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "net effects of",
+    "actual results might differ significantly",
+    "reasonably likely",
+    "substantially in excess",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt reports materially improved earnings and no identified goodwill or long-lived-asset impairments, producing a mildly positive tone. However, key drivers are omitted or truncated, while outcomes depend heavily on management estimates, future cash flows, currency movements, tax judgments, and impairment assumptions."
+}

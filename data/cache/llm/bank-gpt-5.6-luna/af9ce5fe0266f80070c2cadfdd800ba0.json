@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "it is not known how long this can be sustained",
+    "early to determine the long-term impact",
+    "could be an adverse material financial impact",
+    "would expect the U.S. dollar to decline",
+    "dependent upon future levels of fund assets"
+  ],
+  "risk_summary": "The disclosure quantifies AUM, revenue, fee rates, and market movements, but relies substantially on uncertain macroeconomic projections and conditional language regarding COVID-19, markets, and future obligations. Risk exposure is meaningful because revenues depend on volatile AUM and investor flows, although strong ETF inflows and maintained operating controls provide mitigating support."
+}

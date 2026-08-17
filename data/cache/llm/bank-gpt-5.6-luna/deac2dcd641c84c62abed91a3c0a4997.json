@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.15,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "many factors, including but not limited to",
+    "do not anticipate significant liquidity constraints",
+    "foreseeable future",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively informative, but includes standard forward-looking disclaimers and some broad, non-quantified risk language. Operating revenue, income, margins, and several segment metrics deteriorated materially in 2023, although the company reports no long-term debt, substantial equity, positive operating cash flow, and adequate anticipated liquidity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "unable to determine duration and completion costs",
+    "may never succeed",
+    "subjective assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on royalty obligations, grants, fair-value remeasurements, and sensitivity assumptions, but relies on standard forward-looking disclaimers and acknowledges major uncertainty around clinical success, regulatory approval, commercialization timing, and costs. The company expects significant future R&D and manufacturing investment while offering no reliable estimate of completion costs or future product revenue."
+}

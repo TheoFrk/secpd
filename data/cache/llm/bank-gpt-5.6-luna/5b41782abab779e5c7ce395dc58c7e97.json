@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "plans to achieve cost savings and strategic objectives",
+    "anticipated to be most profitable",
+    "no obligation to update forward-looking statements",
+    "various factors and other uncertainties"
+  ],
+  "risk_summary": "The disclosure explicitly identifies substantial doubt about going-concern status, substantial operating losses, a working-capital deficit, and dependence on debt and equity financing. Growth initiatives and cost-saving plans are described broadly, with limited quantified evidence of execution or profitability, while extensive forward-looking disclaimer language is prominent."
+}

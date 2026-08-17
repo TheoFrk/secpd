@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unable to estimate with certainty",
+    "if approved",
+    "additional funding may be unavailable",
+    "substantial resources"
+  ],
+  "risk_summary": "The disclosure is heavily dependent on regulatory approval, clinical outcomes, commercialization execution, and access to additional financing. It identifies material uncertainties but provides limited quantified estimates for development costs, funding needs, and contractual exposure, while repeatedly relying on standard forward-looking language and contingencies."
+}

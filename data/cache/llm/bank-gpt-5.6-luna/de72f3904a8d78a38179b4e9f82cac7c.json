@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "customer ordering patterns",
+    "may vary significantly",
+    "significant management judgments and estimates",
+    "customer-specific limits",
+    "primarily impacted by"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and confident operating narrative with useful quantitative sales, cash flow, acquisition, and capital allocation data. Key risks include seasonality, weather-sensitive demand, customer inventory levels, warranty and overstock returns, foreign exchange exposure, and reliance on working-capital borrowings. Disclosure is lengthy and jargon-dense, with some qualitative explanations and limited quantification of forward-looking sensitivities."
+}

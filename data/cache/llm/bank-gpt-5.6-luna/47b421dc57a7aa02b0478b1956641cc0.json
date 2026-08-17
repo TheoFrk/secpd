@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including but not limited to",
+    "management judgment and inherent uncertainties",
+    "could lead to further mandates",
+    "duplicated impairment disclosure"
+  ],
+  "risk_summary": "The disclosure provides meaningful year-over-year revenue and operating income quantification, but relies on substantial boilerplate and conditional language regarding COVID-19, macroeconomic pressures, liquidity actions, and impairment estimates. Results improved materially as restrictions eased, while inflation, labor shortages, supply-chain disruption, seasonality, and potential asset impairments remain notable risks."
+}

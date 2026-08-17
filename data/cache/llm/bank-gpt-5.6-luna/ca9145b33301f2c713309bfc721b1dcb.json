@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results could differ materially",
+    "undertake no obligation to update",
+    "non-GAAP measure limitations",
+    "potentially highly dilutive warrants"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but includes substantial boilerplate forward-looking disclaimers and non-GAAP caveats. Risk tone is materially negative, reflecting declining vapor sales and store closures, regulatory and competitive pressure, $10.1 million continuing-operations net loss, operating cash burn, and potentially dilutive warrants."
+}

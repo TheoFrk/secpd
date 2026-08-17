@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "may continue to experience adverse impacts",
+    "do not guarantee quantities",
+    "results may differ",
+    "confidential joint development project"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on declining sales, margins, earnings, restructuring charges, and capital expansion. Risk tone is moderately negative due to pandemic-related demand deterioration, reduced backlog, customer concentration, and requirements-based contracts without guaranteed volumes, although the discussion is generally specific rather than evasive."
+}

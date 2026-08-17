@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "including but not limited to",
+    "currently expect",
+    "could be significantly different",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, particularly regarding acquisitions, goodwill, expenses, and the expected CECL allowance impact. Risk is moderated by forward-looking disclaimers and uncertainty around model refinement and final adoption effects, but the overall tone remains operationally confident rather than crisis-like."
+}

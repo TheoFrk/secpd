@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.03,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor disclaimer",
+    "plans to develop or acquire",
+    "multiple unrelated business lines",
+    "limited operating detail",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt relies heavily on boilerplate forward-looking disclaimers and describes nine highly diverse business lines, many in planning or development stages, with limited quantified operating detail. Reported changes in research, operating, interest, and investment-related expenses provide some specificity, but the overall strategic sprawl and incomplete excerpt reduce transparency and increase execution risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "could cause actual results to differ materially",
+    "assumptions and methodologies ... reasonable",
+    "may not be indicative",
+    "not materially different"
+  ],
+  "risk_summary": "The excerpt is largely structured and quantitatively specific, but contains substantial boilerplate disclaimers and repeated separation-related language. Key risks include uncertainty around standalone cost levels, reliance on transitional services and related-party arrangements, and the effects of a product recall."
+}

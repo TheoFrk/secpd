@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "non-GAAP financial measures",
+    "material limitations",
+    "following success factors",
+    "excluding the effects of these items"
+  ],
+  "risk_summary": "The excerpt presents strong growth, profitability, cash generation, and competitive positioning, creating a generally confident tone. Risk disclosure is largely standardized and references uncertainties broadly, while extensive non-GAAP adjustments and tax-related items complicate interpretation of underlying performance. The text is quantitatively detailed but includes some broad strategic assertions and an incomplete section on success factors."
+}

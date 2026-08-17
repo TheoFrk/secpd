@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurances",
+    "significant management judgments and estimates",
+    "may vary significantly",
+    "potential future deterioration",
+    "customer-specific limits"
+  ],
+  "risk_summary": "The disclosure provides several quantitative and operational details, including credit capacity, borrowing terms, seasonality, and COVID-19 impacts, but also relies on broad boilerplate and conditional language. Key risks include demand volatility, inventory returns, estimation uncertainty, customer concentration, supply-chain disruption, and dependence on secured revolving credit availability. Overall tone is cautiously positive because operations reportedly rebounded, though liquidity and pandemic-related risks remain material."
+}

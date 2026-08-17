@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "factors outside of our control",
+    "cannot guarantee deposit levels",
+    "subjective and/or complex judgments"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on broad forward-looking disclaimers and extensive lists of contingencies, which limits specificity about probability and expected financial impact. It does provide useful quantitative disclosure on deposit composition, uninsured deposits, and borrowing changes, but highlights material liquidity, credit, funding, regulatory, technology, and macroeconomic vulnerabilities. Overall tone is cautious and risk-aware rather than crisis-like."
+}

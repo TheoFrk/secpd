@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to a number of risks and uncertainties",
+    "management’s judgments",
+    "pending regulatory approval",
+    "may need to seek additional financing"
+  ],
+  "risk_summary": "The excerpt contains substantial standard safe-h harbor language and reliance on management estimates, limiting forward-looking certainty. It reports improved revenue and adequate liquidity for at least 24 months, but highlights dependence on major customers, regulatory approvals, increased development spending, potential financing needs, and dilution risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.27,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may not be available upon acceptable terms",
+    "expected to be adequate",
+    "additional capital or borrowing",
+    "risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue, cost, margin, and expense data, but contains substantial boilerplate disclaimers and forward-looking language. The principal risk is funding dependence: continued operations and expansion require additional equity, debt, or shareholder support, with potential dilution and uncertain financing availability. Operating trends are presented positively, although profitability and customer growth remain contingent on successfully scaling physician adoption."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "known and unknown risks and uncertainties",
+    "subject to further estimates",
+    "limited observable transactions",
+    "truncated liquidity discussion"
+  ],
+  "risk_summary": "The excerpt reports substantial operating and net losses, reliance on volatile investment valuations, and significant estimation uncertainty for notes and private-company investments. Liquidity disclosures appear incomplete, including a truncated statement regarding financing activities and cash-flow sufficiency, limiting assessment of funding risk. Boilerplate forward-looking disclaimers are extensive, while operational drivers and mitigation plans are only partially explained."
+}

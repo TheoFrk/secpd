@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-haven disclaimer",
+    "numerous assumptions, risks and uncertainties",
+    "actual results could differ materially",
+    "highly uncertain and require a high degree of judgment",
+    "projected future defaults and expected cash flows"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and regulatory disclosure, with substantial boilerplate around forward-looking statements and non-GAAP measures. Credit risk is acknowledged through uncertainty in loan-loss estimates, investment valuations, projected defaults, and OTTI cash-flow modeling, but the tone is measured rather than crisis-like. Quantified figures and methodological explanations improve transparency, although the omitted section limits assessment of full exposure and outcomes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "management believes",
+    "adequate for expected resource requirements",
+    "minimal adverse effect",
+    "risks and uncertainties"
+  ],
+  "risk_summary": "The company reports a 19.1% revenue decline, a swing to a net loss, negative operating cash flow, and customer concentration, alongside supply-chain and inventory risks. Liquidity and working capital remain substantial relative to current liabilities, but operations rely solely on product sales and management’s outlook includes several largely qualitative assurances."
+}

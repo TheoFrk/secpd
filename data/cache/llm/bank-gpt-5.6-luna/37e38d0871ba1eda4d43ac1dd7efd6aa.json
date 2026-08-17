@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.77,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "declined slightly",
+    "muted macroeconomic environment",
+    "primarily due to",
+    "partially offset by",
+    "future taxable income may vary"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including revenue impacts, restructuring charges, tax liabilities, and valuation allowances, but frequently relies on broad causal qualifiers and directional terms. Risk tone is mixed: COVID-related demand and macroeconomic weakness pressured results, while productivity improvements, acquisitions, and strategic investments provide offsets. Key uncertainties involve end-market recovery, China activity, tax positions, and realization of deferred tax assets."
+}

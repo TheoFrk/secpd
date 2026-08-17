@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe we are well positioned",
+    "could materially impact",
+    "among other things",
+    "special items not indicative",
+    "carefully managing promotional activity"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results, cost estimates, and specific disclosures regarding COVID-19, inflation, technology separation, and non-GAAP adjustments. Risk tone is cautiously positive, emphasizing strong growth and strategic positioning while acknowledging material macroeconomic, execution, and cost pressures. Some forward-looking claims rely on broad expectations and promotional language rather than quantified probabilities or sensitivity analysis."
+}

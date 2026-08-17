@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "adequate resources",
+    "significant management judgment",
+    "exercise of options"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail and explains year-over-year improvements, but it also highlights persistent losses, a $121.0 million accumulated deficit, customer concentration, inventory impairment, and dependence on optional government contract periods. Liquidity and going-concern discussion is truncated, limiting assessment of funding adequacy and future capital needs."
+}

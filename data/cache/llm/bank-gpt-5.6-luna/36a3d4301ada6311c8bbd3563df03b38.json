@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "client losses and fund closures",
+    "market appreciation dependence",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantitatively detailed, reporting strong revenue, earnings, margin, asset-balance, and capital-allocation metrics. Risk is moderated by reliance on market appreciation and asset levels, client losses, fund closures, competitive labor costs, and standard forward-looking-statement disclaimers. Overall tone is positive but acknowledges material sensitivities and offsets."
+}

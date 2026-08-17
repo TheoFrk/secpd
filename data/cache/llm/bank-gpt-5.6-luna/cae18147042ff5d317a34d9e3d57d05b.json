@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment is required",
+    "best estimate",
+    "reasonably assured",
+    "may differ materially",
+    "estimated benefit period"
+  ],
+  "risk_summary": "The disclosure provides substantial accounting and transaction detail, including quantified debt, audit adjustments, and revenue-recognition mechanics. However, reliance on uncertain performance periods, partner-dependent milestones, provisional billing rates, and prospective estimate changes creates material uncertainty around reported revenue and future cash flows. The strategic tone is cautiously constructive but tempered by dependence on licensing partners, financing arrangements, and estimates."
+}

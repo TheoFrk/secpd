@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "primarily due to",
+    "cannot reasonably estimate",
+    "indefinitely reinvested",
+    "excluding this impact"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and highly quantified, but relies substantially on adjusted non-GAAP measures and exclusions that may present performance more favorably than GAAP results. International revenue declined, including lost business and an exited U.K. contract, while ongoing restructuring and acquisition-related charges indicate execution and integration risks."
+}

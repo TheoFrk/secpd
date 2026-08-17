@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict future impacts",
+    "various macroeconomic factors",
+    "we believe",
+    "strategic tests",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting strong sales, earnings, margin, and store growth. Risk discussion relies on standard uncertainty language around fuel prices, economic conditions, weather, and demand drivers, but does not indicate an immediate crisis. Extensive operational and non-GAAP detail increases complexity and warrants attention to adjusted performance measures and leverage."
+}

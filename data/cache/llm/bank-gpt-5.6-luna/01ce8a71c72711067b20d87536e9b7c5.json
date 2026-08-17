@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "subject to change at any time",
+    "no obligation to update",
+    "other risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, cash flow, capital spending, and project-cost information, supporting relatively transparent analysis. However, the extensive boilerplate risk disclaimer and long, densely nested list of contingencies dilute emphasis on the most material risks. Results show weaker revenue, gross profit, and net income, while liquidity remains supported by operating cash flow and cash balances."
+}

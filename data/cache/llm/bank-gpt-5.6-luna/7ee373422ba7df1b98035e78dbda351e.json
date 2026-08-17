@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain judgments",
+    "highly effective",
+    "limited market activity",
+    "current estimates of savings",
+    "fair value option"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but contains substantial technical accounting jargon and boilerplate descriptions of fair-value methods. Key risks include Level 3 instruments with unobservable inputs, hedge and liquidity exposures, and a sizable long-term lease commitment. Management presents the consolidation and cost savings in a cautiously positive tone, although some benefits remain estimates."
+}

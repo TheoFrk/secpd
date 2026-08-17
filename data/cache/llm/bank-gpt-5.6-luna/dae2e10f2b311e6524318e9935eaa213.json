@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "without limitation",
+    "non-GAAP adjustments",
+    "prior period misstatements",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily reliant on standard forward-looking and cautionary language, with extensive non-GAAP adjustments that may reduce comparability. It discloses meaningful risk signals, including restructuring, impairment sensitivity, prior-period misstatements, changing segment reporting, and dependence on uncertain forecasts and market conditions."
+}

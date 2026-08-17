@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "designed to enable",
+    "potential cost synergies",
+    "believed to be reasonable",
+    "inherently uncertain and unpredictable",
+    "may be required"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating results and transaction details, but contains substantial boilerplate strategy language and extensive qualifications around economic conditions, customer demand, acquisitions, inventory valuation, and future outcomes. The overall tone is modestly positive due to revenue growth and margin improvement, although risks from customer delays, military volume declines, estimation uncertainty, and possible inventory write-downs are acknowledged."
+}

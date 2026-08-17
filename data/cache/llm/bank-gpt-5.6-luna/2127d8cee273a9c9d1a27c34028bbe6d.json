@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "after considering these items",
+    "favorable mix of revenues",
+    "potentially significant risks",
+    "non-GAAP free cash flow",
+    "balance our investments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed revenue, margin, pension, and operating cash flow comparisons. Risk tone is cautiously positive, but profitability is affected by pension-related items, foreign exchange, margin pressure, debt management, competition, adoption, and acquisition integration risks. The non-GAAP free cash flow discussion appropriately includes limitations but may complicate comparability."
+}

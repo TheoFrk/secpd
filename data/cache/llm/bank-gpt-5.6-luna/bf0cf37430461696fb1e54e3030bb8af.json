@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily traceable to",
+    "challenging economic environment",
+    "many assumptions and estimates",
+    "complex and subjective assumptions",
+    "tempered by lower sales"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear segment, revenue, margin, expense, tax, and acquisition figures. Risk is moderate: operating expenses rose substantially, continuing-operations income and return on sales declined, and results benefited from a sizable tax adjustment and included product replacement costs. The excerpt also relies on standard valuation and compensation assumptions that introduce estimation risk."
+}

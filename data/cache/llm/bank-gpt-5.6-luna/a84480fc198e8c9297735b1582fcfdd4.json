@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.14,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "anticipated significant benefits",
+    "favorable future results",
+    "dynamic operating environment",
+    "non-GAAP adjusted earnings",
+    "macro-economic headwinds"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including segment sales, margins, cost savings, cash flow, and earnings reconciliation. Risk is moderated by declining GAAP earnings, lower case volumes, margin pressure, higher LIFO and SG&A costs, and macroeconomic headwinds, despite improved adjusted EBITDA and reported transformation savings. Forward-looking benefits are described positively but remain dependent on execution and market conditions."
+}

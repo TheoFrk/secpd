@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "actual results could differ",
+    "high degree of subjectivity",
+    "more likely than not",
+    "immaterial at balance sheet dates"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified portfolio and yield data, but relies substantially on standardized accounting-policy language and management judgment. Key risk areas include OTTI assessments, impaired-loan valuations, expected cash flows, and collateral-dependent Level 3 measurements, with limited quantified sensitivity or outcome analysis."
+}

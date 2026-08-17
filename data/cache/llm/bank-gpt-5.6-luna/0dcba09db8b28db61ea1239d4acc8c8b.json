@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt as to going concern",
+    "cannot make any assurances",
+    "subject to significant risks and uncertainties",
+    "future capital offerings or alternative financing",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but presents severe liquidity and viability risks: no operating revenue, a $499,393 annual loss, only $31,782 cash, and liabilities exceeding current assets by $782,972. Continuity depends on obtaining additional financing despite management’s explicit inability to assure that funding will be secured."
+}

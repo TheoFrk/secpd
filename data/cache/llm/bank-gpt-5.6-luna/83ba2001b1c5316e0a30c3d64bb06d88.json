@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we expect",
+    "we anticipate",
+    "market-based price",
+    "no determination",
+    "will be mined"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding reserves, capacity, contracts, and mine assets, but uses optimistic forward-looking language around demand, customer longevity, mine contributions, and liquidity. Key credit risks include coal-market and regulatory exposure, customer and geographic concentration, required shipment commitments on unpriced tons, and execution risk from integrating and developing acquired mines."
+}

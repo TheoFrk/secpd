@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "no assurance of further financing",
+    "as needed",
+    "could be forced to cease operations",
+    "substantial doubt",
+    "plans to address the above"
+  ],
+  "risk_summary": "The disclosure clearly identifies substantial going-concern risk, no revenue, significant operating cash burn, recurring losses, and dependence on external financing. Although liquidity and operating figures are quantified, the financing plans are contingent and provide no assurance of execution; failure to raise capital could delay development or force cessation of operations."
+}

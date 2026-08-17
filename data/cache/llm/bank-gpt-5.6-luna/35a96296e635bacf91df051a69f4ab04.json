@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unknown and potentially prolonged impact",
+    "may experience difficulties or be delayed",
+    "cannot be predicted at this time",
+    "not probable or estimable",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure is broadly quantified and provides meaningful detail on divestitures, recall costs, debt, and operating trends, but includes substantial strategic boilerplate and forward-looking hedging. Material risks include the Jif recall, potential FDA action and litigation, macroeconomic pressures, execution delays, and elevated debt relative to equity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "assumptions ... inherently uncertain",
+    "may be required to record a material impairment charge",
+    "incorporated by reference",
+    "potential renewal periods"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on geographic sales mix, brand concentration, intangible assets, and impairment assumptions. Key risks include dependence on third-party licenses, subjective cash-flow forecasts, foreign-exchange exposure, outsourced manufacturing, and potential material impairment charges, while some supporting details are deferred to incorporated sections and the excerpt contains an incomplete table and truncated discussion."
+}

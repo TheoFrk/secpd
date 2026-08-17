@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "unexpected costs and expenses",
+    "if additional financing is not available",
+    "estimated fair values and significant estimates",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, liquidity, acquisition, debt, and financing information, but relies on standard forward-looking disclaimers and contains an incomplete liquidity section. Key risks include financing availability, potential dilution, rising interest expense, acquisition-related leverage, and uncertainty in goodwill and intangible-asset valuations."
+}

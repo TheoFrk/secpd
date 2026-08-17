@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "strives to",
+    "may experience some decline",
+    "varies based on",
+    "when deposits are not adequate",
+    "inherent risk of lending"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on assets, loans, deposits, capital, earnings, interest margins, lending authorities, and funding sources. It acknowledges credit, concentration, deposit-pricing, interest-rate, and wholesale-funding risks, but generally presents them as manageable and uses some broad or conditional language regarding future pressure."
+}

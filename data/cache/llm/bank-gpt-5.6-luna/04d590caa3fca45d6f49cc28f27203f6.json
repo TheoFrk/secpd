@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not intended to be exhaustive",
+    "may not be linear",
+    "we expect",
+    "significant portion",
+    "variety of factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with clear revenue, margin, cash flow, and capital return figures. Key risks include reliance on live services and a concentrated portfolio of popular franchises, intense competition, talent retention costs, and potential volatility in tax rates. The tone is cautiously confident, though some outlook statements rely on broad qualifiers and estimates."
+}

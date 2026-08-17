@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe will improve",
+    "potentially raise additional funds",
+    "in certain circumstances",
+    "subject to review of performance criteria",
+    "non-recurring event"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, including credit commitments, covenant status, losses, cash-flow deficits, and operating expenses. However, recurring operating losses, the lack of operating cash generation, reliance on additional financing, and secured borrowing indicate meaningful liquidity and going-concern risk. The promotional discussion of products and expected improvements partially offsets but does not eliminate the negative risk tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "plans to increase",
+    "anticipated to increase 2-3 times",
+    "host of improvements",
+    "may differ",
+    "EBITDA approximates free cash flow"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and reports improved profitability, cash balances, sales volumes, and EBITDA. However, forward-looking production targets are not supported by detailed costs, timelines, capacity assumptions, or execution contingencies, while supplier disruptions, equipment failures, labor constraints, rising input costs, and assay or remediation estimation uncertainty remain material risks."
+}

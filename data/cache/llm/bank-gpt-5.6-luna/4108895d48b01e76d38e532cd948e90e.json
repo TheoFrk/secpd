@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "highly uncertain matters",
+    "may not be sufficient",
+    "future expected conditions",
+    "qualitative factors"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but highlights substantial estimation uncertainty in CECL, collateral values, economic forecasts, and regulatory loss provisioning. Credit risk is moderated by described monitoring and modeling practices, while the loan portfolio’s significant growth and potential insufficiency of reserves remain material concerns."
+}

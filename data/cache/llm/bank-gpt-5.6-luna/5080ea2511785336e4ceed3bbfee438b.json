@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "may negatively impact",
+    "no obligation to update",
+    "estimated undiscounted cash flows"
+  ],
+  "risk_summary": "The excerpt provides useful operating detail and several quantified metrics, including revenue, client counts, credit facility size, and pandemic-related impacts. However, it contains extensive boilerplate disclaimers and relies on conditional language around future growth, client demand, sales execution, and impairment estimates. The risk tone is mildly negative due to COVID-19 effects and financing changes, but not crisis-like."
+}

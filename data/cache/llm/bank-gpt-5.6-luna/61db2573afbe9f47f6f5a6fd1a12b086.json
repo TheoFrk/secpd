@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot guarantee future mitigation",
+    "actual results may differ",
+    "sufficient for immediate and longer-term needs",
+    "customer-driven project delays",
+    "truncated disclosure on revenue recognition"
+  ],
+  "risk_summary": "The disclosure presents a generally confident outlook and provides some useful quantified information, including backlog, investment collateral, and standby letters of credit. However, it relies heavily on standard accounting caveats and forward-looking assurances, while highlighting dependence on fossil-fuel demand, project timing, inflation, supply disruptions, and customer inputs. The excerpt is technically dense and truncated, limiting assessment of contract estimates and potential downside exposure."
+}

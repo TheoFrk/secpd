@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP covenant measures",
+    "subjective valuation estimates",
+    "best estimates based on projections",
+    "high short-term funding utilization",
+    "recovery of loan losses"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial detail on lending, funding, debt maturities, and performance, but emphasizes adjusted non-GAAP metrics for covenant compliance. Risk factors include reliance on short-term funding, judgmental foreclosed-asset valuations, and materially improved results driven partly by loan-loss recoveries and one-time adjustments. Overall tone is cautiously positive, supported by refinancing and liquidity actions, but underlying credit and valuation risks remain."
+}

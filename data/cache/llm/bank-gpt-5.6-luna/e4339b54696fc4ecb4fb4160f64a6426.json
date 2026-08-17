@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "significant judgment is required",
+    "materially adversely impact",
+    "various other assumptions",
+    "not observable in the market"
+  ],
+  "risk_summary": "The excerpt presents substantial insurance, reserve, reinsurance collectibility, investment valuation, catastrophe, and long-term-care risks, with outcomes highly dependent on actuarial and management assumptions. It provides some useful quantified catastrophe-loss information, but relies heavily on standard caveats and does not quantify the sensitivity of several key exposures in the provided portion."
+}

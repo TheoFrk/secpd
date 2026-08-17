@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may adversely affect",
+    "could have a material adverse effect",
+    "there can be no assurance",
+    "if economic conditions persist or deteriorate",
+    "expected rental rates or projected timeframes"
+  ],
+  "risk_summary": "The disclosure is materially quantified, including occupancy, lease expirations, retention, receivables allowances, and portfolio revenue, but contains extensive conditional risk language regarding refinancing, tenant defaults, valuation, leasing, and development execution. Overall tone is cautious and moderately negative, partially offset by management’s assertion of asset quality and balance-sheet strength."
+}

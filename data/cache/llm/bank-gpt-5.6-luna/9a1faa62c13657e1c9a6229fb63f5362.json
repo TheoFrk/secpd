@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.15,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt is a procedural cross-reference and provides no substantive discussion of financial condition, results, or risk factors. Risk tone is therefore neutral, but the excerpt alone is insufficient for assessing underlying credit risk."
+}

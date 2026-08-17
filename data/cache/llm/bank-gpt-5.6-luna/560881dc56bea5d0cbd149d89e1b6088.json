@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on management’s current expectations",
+    "to the extent practicable",
+    "subject to approval",
+    "regulatory lag",
+    "expected to go into effect"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, but relies on forward-looking assumptions regarding rate recovery, regulatory approvals, inflation, and capital investment. Key risks include regulatory lag, changing state policies, delayed rate relief, and dependence on favorable rate-case outcomes, although the regulated utility model conveys a generally stable and constructive tone."
+}

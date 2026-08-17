@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to be immediately cash flow accretive",
+    "plans to issue new debt",
+    "intends to repay at least $4.5 billion",
+    "volatile for the foreseeable future",
+    "with incentives necessary for their development and deployment"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including commodity prices, debt maturities, acquisition financing, ratings, shareholder distributions, and reserve revisions. Key risks include commodity-price volatility, substantial debt concentrated in 2028 and thereafter, CrownRock execution and refinancing requirements, and dependence on projected divestitures and excess cash flows. The tone remains moderately confident but relies on forward-looking assumptions regarding cash-flow accretion, deleveraging, and low-carbon initiatives."
+}

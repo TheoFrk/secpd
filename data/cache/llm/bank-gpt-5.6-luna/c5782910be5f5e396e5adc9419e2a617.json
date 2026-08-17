@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not possible to predict all factors",
+    "non-GAAP measures",
+    "significant judgment and projections"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, but is partly obscured by extensive forward-looking and non-GAAP boilerplate. Risk indicators include declining Architectural Glass performance, margin pressure, EFCO-related project charges, higher debt costs, operational challenges, and product or project claims. Management retains a cautiously positive outlook while emphasizing broad uncertainty and limited obligations to update forecasts."
+}

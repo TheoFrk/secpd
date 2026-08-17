@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.59,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor disclaimer",
+    "subject to factors and uncertainties",
+    "expect sufficient cash",
+    "no assurance of financing",
+    "several projects for one customer"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, with improved revenue, profitability, and operating cash flow. Liquidity remains conditional on future operating cash generation, with limited external funding, potential asset sales or expense reductions, and no assurance of additional financing. Customer concentration in engineering revenue and extensive forward-looking disclaimers are notable risk signals."
+}

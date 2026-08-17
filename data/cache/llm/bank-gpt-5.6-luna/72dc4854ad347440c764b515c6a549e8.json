@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "primarily reflected",
+    "partially offset by",
+    "modestly lower",
+    "not material",
+    "comparable to prior year"
+  ],
+  "risk_summary": "The excerpt is highly quantified and comparatively transparent, providing detailed operating, investment, reserve, liquidity, and leverage metrics. Risk tone is mixed: earnings and underwriting margins declined, catastrophe losses increased, and investment income fell, but the company remained profitable with a 92.0% operating combined ratio and substantial liquidity."
+}

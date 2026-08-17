@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "constant-currency presentation",
+    "strong performance",
+    "broad-based growth",
+    "challenging commercial and economic environment",
+    "not meaningful"
+  ],
+  "risk_summary": "The excerpt is generally transparent, with substantial operational metrics, geographic detail, and quantified revenue-channel disclosures. Risk tone is mildly positive but acknowledges competition, cost pressure, currency exposure, and global economic challenges. Constant-currency measures and qualitative growth descriptors may somewhat soften comparability and underlying risk assessment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "factors beyond CNB's control",
+    "non-GAAP measures and limitations"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate, with extensive forward-looking disclaimers and broad, non-quantified risk factors covering credit, liquidity, interest rates, regulation, cybersecurity, competition, and economic conditions. Quantified loan-level credit-loss tables provide useful specificity, but the excerpt offers limited forward-looking sensitivity analysis or magnitude estimates for identified risks. Overall tone is cautious and legally defensive rather than crisis-like."
+}

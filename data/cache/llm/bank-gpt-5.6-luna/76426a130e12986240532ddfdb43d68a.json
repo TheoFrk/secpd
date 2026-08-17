@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "risks and uncertainties are not exclusive",
+    "no obligation to update",
+    "may emerge from time to time",
+    "should not place undue reliance"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking-statement disclaimers and broad, non-exhaustive risk language, which limits specificity around future performance. Operating disclosures are comparatively concrete and quantify material revenue declines, including weaker agricultural demand and the near completion of the Iraq contract, while management maintains a generally constructive long-term outlook."
+}

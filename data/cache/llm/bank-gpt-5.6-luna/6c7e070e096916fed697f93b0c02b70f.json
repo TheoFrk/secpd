@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "subjective estimates and assumptions",
+    "non-GAAP measures",
+    "all other factors remain constant"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively grounded, providing substantial operating scope, asset, deposit, equity, and acquisition information. Risk is disclosed mainly through standard forward-looking, accounting-estimate, non-GAAP, market-valuation, fee-waiver, and low-interest-rate caveats, with limited evidence of acute distress. The language is technically dense and includes extensive boilerplate, which may impede readability but does not appear strongly evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected significant year-over-year increases",
+    "meaningful cost synergies",
+    "could be adversely impacted",
+    "not indicative of a trend",
+    "subject to unpredictable funding"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on the TCS acquisition, backlog, book-to-bill, synergies, and contract accounting, but relies on optimistic forward-looking claims and estimates. Key risks include government contract termination and funding uncertainty, long-term contract margin estimation, integration execution, customer acceptance, and dependence on significant future orders."
+}

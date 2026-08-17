@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "difficult to predict with certainty",
+    "could lead to increases",
+    "we believe",
+    "subject to certain conditions",
+    "commercially reasonable efforts"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights weakening revenue, gross margins, customer volumes, and higher operating expenses, alongside reliance on asset-sale and equity-financing proceeds for liquidity. Forward-looking growth claims are hedged by uncertainty around order timing, commercialization, competition, and dependence on new products. Overall, the tone is cautiously negative on recent operating performance but optimistic regarding future opportunities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.55,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may differ materially",
+    "management’s opinion",
+    "minimal adverse effect",
+    "as deemed necessary",
+    "solely on revenues"
+  ],
+  "risk_summary": "The disclosure is generally quantified and presents improving revenue, earnings, working capital, and cash flow, supporting a mildly positive risk tone. Key risks include customer concentration, reliance on product sales, supply-chain-driven inventory growth, lower liquidity ratios, and component availability, although several risk statements are generalized or unsupported by detailed sensitivity analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "expect to",
+    "potential for future",
+    "future success depends on",
+    "until profitability is achieved"
+  ],
+  "risk_summary": "The disclosure provides substantial operating detail and quantified revenue, margin, customer concentration, and R&D data, but relies heavily on forward-looking expectations regarding pipeline conversion, revenue recovery, and commercialization. Key risks include dependence on seven customers for 62% of sales, competitive disadvantages versus larger companies, declining traditional product revenue, and the need to raise cash to fund operating losses until profitability."
+}

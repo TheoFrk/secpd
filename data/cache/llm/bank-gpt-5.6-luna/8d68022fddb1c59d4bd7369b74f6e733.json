@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "could have a continued material adverse impact",
+    "sufficient to meet foreseeable needs",
+    "estimated forecasts of product demand",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on sales volumes, inventory, debt, capital spending, credit availability, covenants, and contractual obligations. However, it relies on standard forward-looking disclaimers and management estimates, while highlighting competition, COVID-19 uncertainty, inventory-demand sensitivity, and reliance on operating cash flow and financing capacity. Overall risk tone is mildly negative but not crisis-like, given the absence of outstanding revolver borrowings and stated covenant compliance."
+}

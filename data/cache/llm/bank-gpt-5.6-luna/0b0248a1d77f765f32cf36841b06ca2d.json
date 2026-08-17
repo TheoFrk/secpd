@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP constant currency measures",
+    "partially offset",
+    "challenging operating environment",
+    "exclusion of restructuring and impairment charges",
+    "incomplete reconciliation/excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but it repeatedly emphasizes non-GAAP measures and offsets that may make underlying deterioration less prominent. Revenue and operating profit declined materially, with elevated restructuring and impairment charges, while management expects continued weakness in North America and Europe amid economic and geopolitical risks."
+}

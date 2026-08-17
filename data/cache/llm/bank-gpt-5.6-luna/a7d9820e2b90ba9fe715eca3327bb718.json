@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurances of timing",
+    "cannot predict future trend",
+    "expected to enable",
+    "anticipated synergies and cost savings",
+    "complex, costly and time-consuming"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and several quantified figures, but relies on forward-looking expectations regarding regulatory approval, integration benefits, and future case volumes. Key risks include acquisition integration, delayed international reporting, volatile catastrophe-driven demand, competitive pressure, and declining average fees in certain case categories."
+}

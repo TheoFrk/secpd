@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to assumptions, risks, and uncertainties",
+    "does not undertake to update",
+    "continues to monitor",
+    "results not necessarily indicative"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and balance-sheet data, supporting relatively strong disclosure quality. However, extensive standardized forward-looking disclaimers, repeated monitoring language, and limited quantification of pandemic, market, vendor, and credit-loss sensitivities introduce moderate uncertainty. Overall tone is cautiously positive, emphasizing revenue, net interest income, efficiency, and capital strength despite acknowledged volatility and disruptions."
+}

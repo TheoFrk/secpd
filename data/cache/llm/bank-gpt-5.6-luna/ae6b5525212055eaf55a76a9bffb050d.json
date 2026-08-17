@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "incomplete cause explanations",
+    "generic strategy language",
+    "forward-looking disclaimer",
+    "extensive challenge lists",
+    "cross-referenced risk factors"
+  ],
+  "risk_summary": "The excerpt identifies broad regulatory, commodity, competitive, permitting, cost, workforce, and economic risks, while providing limited quantified detail on their impact. Several earnings explanations are truncated or followed by blank causal sections, materially reducing transparency. The tone is strategically confident but tempered by earnings declines and extensive forward-looking caveats."
+}

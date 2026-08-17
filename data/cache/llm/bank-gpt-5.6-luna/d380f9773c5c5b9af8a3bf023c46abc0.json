@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.25,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "cannot predict all such risk factors",
+    "reasonable beliefs and assumptions",
+    "projected margins and impairment assumptions"
+  ],
+  "risk_summary": "The excerpt reports strong revenue growth, but margin compression, reduced large turnaround activity, higher indirect costs, and reliance on projected cash flows introduce meaningful operating and valuation risks. Extensive boilerplate safe-h harbor language limits reliance on forward-looking projections, while goodwill conclusions depend on management assumptions about fair value and future performance."
+}

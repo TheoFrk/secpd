@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate a range of losses",
+    "significant factual and legal issues",
+    "could be material in future periods",
+    "probable loss but unasserted claims",
+    "record when probable and estimable"
+  ],
+  "risk_summary": "The disclosure is highly quantified regarding the breach, affected customers, incurred costs, insurance coverage, and known proceedings, but significant legal and financial exposure remains unresolved. Repeated reliance on standard probable-and-estimable language and the inability to estimate potential losses obscure the magnitude of future liabilities. Overall tone is materially risk-negative despite strong liquidity and remediation measures."
+}

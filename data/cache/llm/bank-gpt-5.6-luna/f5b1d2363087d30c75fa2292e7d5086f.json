@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "could cause materially different results",
+    "no obligation to update",
+    "adequate to meet requirements"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate forward-looking disclaimers and broad, largely unquantified risk factors, limiting visibility into downside scenarios. Liquidity is presented confidently and supported by debt, equity, property sales, and operating cash flows, with some quantified financing and portfolio data. Exposure remains tied to capital-market access, occupancy, rental growth, development execution, competition, and joint ventures."
+}

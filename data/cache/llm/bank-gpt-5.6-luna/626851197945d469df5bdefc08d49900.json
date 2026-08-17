@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "no obligation to revise",
+    "significant transactions",
+    "estimated fair value"
+  ],
+  "risk_summary": "The excerpt is detailed and frequently quantified, but includes standard forward-looking disclaimers and some uncertain projections regarding asset sales, customer growth, system upgrades, and future depreciation. Key credit risks include discontinued operations, repeated impairment charges, limited wireline growth potential, ongoing divestiture negotiations, and substantial expected 4G-related capital and depreciation costs."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot estimate future impact",
+    "fluid circumstances",
+    "may take further actions",
+    "significant management judgment",
+    "ultimate tax determination is uncertain"
+  ],
+  "risk_summary": "The excerpt is highly quantified and transparent regarding sales, cash flow, debt, dividends, acquisition funding, COVID-related costs, and liquidity. Risk disclosures focus on pandemic, supply-chain, labor, tax, valuation, and acquisition uncertainties, but management maintains a generally confident tone regarding liquidity and operational adaptability."
+}

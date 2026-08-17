@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "estimates and assumptions",
+    "other methods considered reasonable",
+    "future claims growth",
+    "subject to review and revision"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including insurance accruals, reimbursement receivables, revenue changes, and cash-flow figures. Key risks involve estimation uncertainty in claims, asset values, revenue collectability, and tax positions, while operating performance is mixed but not crisis-like. The excerpt is highly technical and includes standard forward-looking and limitation language."
+}

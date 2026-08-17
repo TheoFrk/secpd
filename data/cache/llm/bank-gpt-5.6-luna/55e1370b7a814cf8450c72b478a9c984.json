@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high degree of uncertainty",
+    "unable to predict",
+    "may be relicensed at a later date",
+    "observable and unobservable market data",
+    "subject to terms and conditions"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but contains substantial transaction, accounting, and valuation complexity. Risk is elevated by significant operating-cost growth, royalty-asset impairment, discontinued development programs, and uncertainty around clinical, regulatory, partner, and cash-flow outcomes."
+}

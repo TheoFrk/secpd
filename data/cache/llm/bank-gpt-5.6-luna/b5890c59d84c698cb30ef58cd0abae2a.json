@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherently uncertain assumptions",
+    "little risk of impairment",
+    "if factors dictate",
+    "other relevant qualitative factors",
+    "unrecorded contractual commitments"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful quantification of debt, credit availability, letters of credit, capital leases, and accounting estimates. Key risks arise from subjective valuation assumptions, goodwill and intangible impairment sensitivity, self-insurance reserves, tax estimates, and potential macroeconomic effects, although management characterizes impairment risk as low and reports covenant compliance. The excerpt is partially truncated and contains substantial accounting boilerplate, limiting assessment of the full financial condition."
+}

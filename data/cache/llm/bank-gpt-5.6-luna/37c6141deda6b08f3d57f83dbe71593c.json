@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including but not limited to",
+    "subject to numerous assumptions",
+    "expected to recover",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitatively supported, showing improving profitability, liquidity, capital, and asset-quality metrics. Risk discussion is largely standardized and forward-looking, with limited quantified sensitivity analysis around acquisitions, renovation costs, interest-rate exposure, and securities impairment. Overall tone is confident, although reliance on management expectations and broad risk disclaimers warrants monitoring."
+}

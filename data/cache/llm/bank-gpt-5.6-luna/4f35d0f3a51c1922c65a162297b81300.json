@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other factors beyond control",
+    "assumptions and estimates",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on loan losses, allowance coverage, securities, and portfolio composition, supporting relatively good disclosure quality. However, extensive boilerplate forward-looking disclaimers and reliance on management assumptions introduce moderate vagueness, while interest-rate volatility, credit losses, valuation changes, and economic conditions remain key risks. Overall tone is cautiously neutral, with some confidence in asset quality and controls but no strongly positive outlook."
+}

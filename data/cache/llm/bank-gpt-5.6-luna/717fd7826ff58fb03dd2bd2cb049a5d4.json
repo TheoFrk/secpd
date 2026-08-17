@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "non-GAAP measures",
+    "well positioned for continued growth",
+    "modest to moderate expansion",
+    "somewhat less optimistic outlook"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting strong earnings, loan growth, capital improvement, and improved credit quality. Risk factors are acknowledged through standard forward-looking language and discussion of trade, political, commodity-price, energy, and real-estate uncertainties, but the overall tone remains confident. Extensive financial terminology and non-GAAP measures increase interpretive complexity, although reconciliations are referenced."
+}

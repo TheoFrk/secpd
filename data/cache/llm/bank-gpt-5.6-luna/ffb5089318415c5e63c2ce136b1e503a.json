@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurance of lender forbearance",
+    "may not be able to continue business operations",
+    "estimated reimbursement deductions",
+    "seeking debt or equity financing"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure of severe liquidity stress, lender default, negative working capital, vendor prepayment requirements, and substantial doubt about going-concern status. Continued operations depend on refinancing, equity or debt financing, and lender forbearance, none of which is assured. The tone is candid but materially negative, with some optimistic operating-plan language that does not offset the acute financing risk."
+}

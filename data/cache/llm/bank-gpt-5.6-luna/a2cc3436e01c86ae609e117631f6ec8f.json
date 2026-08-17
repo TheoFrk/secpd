@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.03,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to uncertainties",
+    "not possible to predict",
+    "significant judgments",
+    "if actual market conditions",
+    "future undiscounted cash flows"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified reserves and accounting-policy detail, but relies heavily on standard boilerplate and management assumptions. Material uncertainty surrounds environmental remediation, inventory recoverability, impairment testing, goodwill valuation, and future cash-flow projections. Overall tone is neutral, with disclosed downside risks partially offset by stated conclusions that no impairment was indicated."
+}

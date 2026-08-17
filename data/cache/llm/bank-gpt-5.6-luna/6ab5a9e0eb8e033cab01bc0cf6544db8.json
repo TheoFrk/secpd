@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.68,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "believe continued advances will enable",
+    "goal of 10 or more new drug applications",
+    "greatest potential to create value",
+    "dynamic state and constantly shifting resources"
+  ],
+  "risk_summary": "The excerpt presents a strongly optimistic growth narrative supported by substantial revenue, cash, pipeline, and clinical-development figures. However, many future objectives rely on hedged language and broad strategic claims, while clinical, regulatory, commercialization, and resource-allocation uncertainties are largely deferred to other sections."
+}

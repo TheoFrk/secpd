@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures and limitations",
+    "management judgment and estimates",
+    "anticipated future market conditions",
+    "primarily due to",
+    "not considered in isolation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but its long, technical structure and extensive non-GAAP and forward-looking caveats reduce clarity. Operating risk is elevated due to declining sales and gross profit, reduced fixed-cost leverage, higher expenses, customer bankruptcy, acquisition-related borrowing, and exposure to aerospace, energy, and program build-rate changes."
+}

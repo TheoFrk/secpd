@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "current outlook",
+    "anticipate organic growth to be flat",
+    "mainly attributable to",
+    "acceptable terms",
+    "no identifiable events or uncertainties"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantitatively supported, with clear segment, margin, debt-capacity, and forecast data. Risk tone is mildly negative because management expects continued global economic contraction and flat organic growth, while productivity improvements and liquidity capacity provide offsetting support. Some causal explanations rely on broad attribution language and the excerpt contains substantial business-description boilerplate."
+}

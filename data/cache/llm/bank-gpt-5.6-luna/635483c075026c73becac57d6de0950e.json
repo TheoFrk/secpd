@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "including, but not limited to",
+    "not measures under GAAP",
+    "should not be considered in isolation",
+    "varying calculations"
+  ],
+  "risk_summary": "The excerpt is data-rich and provides meaningful segment, revenue-mix, seasonality, and operating-driver detail, but contains substantial boilerplate disclaimers and emphasizes non-GAAP measures. It identifies weather, economic, geopolitical, fixed-cost, and seasonality risks without signaling an immediate crisis. The excerpt is truncated, limiting assessment of the full risk discussion."
+}

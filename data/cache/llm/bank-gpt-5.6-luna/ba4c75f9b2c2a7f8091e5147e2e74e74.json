@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "reasonable under the circumstances",
+    "may differ materially",
+    "qualitative factors",
+    "force majeure notifications"
+  ],
+  "risk_summary": "The disclosure is technically detailed but relies heavily on judgmental assumptions, projected cash flows, and qualitative impairment assessments without providing sensitivity ranges or quantified downside scenarios. The tone is moderately constructive due to reported sales and margin improvements, but supply-chain disruptions, inflation, supplier force majeure notices, and potential impairment estimation risk are material concerns."
+}

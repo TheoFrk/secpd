@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to unpredictable funding",
+    "may be significantly affected",
+    "management judgment",
+    "if order flow remains strong",
+    "could be adversely impacted"
+  ],
+  "risk_summary": "The excerpt provides quantified fiscal 2020 targets and detailed revenue-recognition methodology, but relies heavily on estimates, management judgment, and conditional language. Key risks include contract volatility, U.S. government funding and termination rights, delivery and order delays, economic deterioration, and potential cost-reduction or acquisition expenses."
+}

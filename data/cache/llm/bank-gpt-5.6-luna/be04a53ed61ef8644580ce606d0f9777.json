@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.56,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we expect",
+    "we believe",
+    "foreseeable future",
+    "non-GAAP exclusions",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed segment, margin, expense, pension, and transaction disclosures. The tone is confident and growth-oriented, though forecasts depend on China growth, market-share gains, regulatory effects, and product transitions. Non-GAAP pension adjustments and the visibly truncated text modestly reduce comparability and completeness."
+}

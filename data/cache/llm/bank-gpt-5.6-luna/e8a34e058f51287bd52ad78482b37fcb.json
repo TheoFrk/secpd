@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact remains uncertain",
+    "expected to decline by greater than 20%",
+    "to a lesser extent",
+    "partially offset by",
+    "more fully described below"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and confident operating outlook, supported by revenue growth and substantial operating cash generation. Material risks include pandemic uncertainty, sensitivity to economic and mortgage-market activity, expected mortgage inquiry declines, technology transformation costs, and the legacy cybersecurity-related legal exposure. Disclosure is detailed and includes quantitative data, but relies on lengthy boilerplate, extensive business descriptions, and forward-looking qualifiers."
+}

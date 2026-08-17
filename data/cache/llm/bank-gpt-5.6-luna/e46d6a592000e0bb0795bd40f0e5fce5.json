@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance / cannot be estimated",
+    "going concern uncertainty",
+    "limited cash resources",
+    "boilerplate forward-looking disclaimer",
+    "possible forced dissolution"
+  ],
+  "risk_summary": "The company is a shell corporation with no revenue, discontinued operations, recurring losses, limited cash, and substantial dependence on financing or a successful merger or acquisition. Management explicitly states that the timing and likelihood of a transaction cannot be estimated and that insufficient liquidity could force dissolution. Although operating cash use and expenses are quantified, much of the disclosure relies on repetitive uncertainty and safe-harbor language."
+}

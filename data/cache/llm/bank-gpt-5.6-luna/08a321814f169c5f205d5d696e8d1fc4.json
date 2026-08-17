@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "approximately $19.0 million to $21.0 million",
+    "business outlook is positive",
+    "uncertainties surrounding healthcare reform",
+    "significant effect on consolidated results",
+    "favorable mix of product sales"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with substantial quantification of revenue, restructuring charges, savings, currency impacts, and earnings. Risk is moderate rather than acute: operating profit and net income declined, restructuring involved plant closures and impairments, and the outlook cites macroeconomic, customer-consolidation, currency, and healthcare-reform uncertainties. The overall tone remains cautiously positive, supported by stronger sales, cash flow, and reduced net debt."
+}

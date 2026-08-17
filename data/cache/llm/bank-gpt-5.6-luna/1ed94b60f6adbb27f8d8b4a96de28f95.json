@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "certain conditions",
+    "specified circumstances",
+    "anticipated transaction-related fees",
+    "we believe"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and contractual detail on the pending WMS merger, financing commitments, regulatory approvals, termination fees, and expected costs. Risk is concentrated in financing conditions, approval requirements across numerous jurisdictions, potential termination payments, and integration or transaction expenses, while the overall tone remains largely neutral and procedural."
+}

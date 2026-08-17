@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "likely to require at least another year",
+    "following table presents",
+    "not solely due to rate or volume"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with specific income, margin, balance, acquisition, and funding metrics. Risk tone is cautiously positive but acknowledges slow economic recovery, weak loan demand, real-estate exposure, revenue-growth challenges, and declining acquisition-related accretion benefits. Some boilerplate disclaimers and incomplete or truncated sections limit assessment of the full risk picture."
+}

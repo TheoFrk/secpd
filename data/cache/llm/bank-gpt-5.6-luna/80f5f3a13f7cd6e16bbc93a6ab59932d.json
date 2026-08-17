@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no obligation to update",
+    "significant judgment and estimates",
+    "could differ materially",
+    "no assurance allowance adequate"
+  ],
+  "risk_summary": "The excerpt contains substantial legal safe-harbor and uncertainty language, with repeated reliance on management estimates and assumptions. Credit risk disclosures identify potential deterioration in loan losses, delinquencies, collateral values, investment securities, goodwill, and mortgage servicing rights, although management states the allowance was adequate and reports improving earnings."
+}

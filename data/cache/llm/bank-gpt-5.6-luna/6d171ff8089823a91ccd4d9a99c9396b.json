@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "outlook is favorable",
+    "we believe",
+    "where necessary",
+    "adequate to support",
+    "positive note"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies meaningful risks, including lower net income, recession-driven demand declines, restructuring charges, production disruptions, and potential further workforce and capacity-reduction charges. Its tone is cautiously optimistic, relying on recovery expectations and recurring forward-looking qualifiers while providing limited sensitivity analysis around those assumptions."
+}

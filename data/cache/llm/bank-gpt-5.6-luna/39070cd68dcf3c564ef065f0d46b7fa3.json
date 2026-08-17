@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "partially offset",
+    "management believes",
+    "expected to continue",
+    "truncated and malformed disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified segment and enrollment data, but emphasizes non-GAAP results and uses forward-looking, qualified language. Key risks include sustained enrollment and revenue declines in U.S. Traditional Postsecondary, regulatory uncertainty at the Houston nursing campus, medical-school enrollment pressure, and dependence on Brazil’s FIES funding program."
+}

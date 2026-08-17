@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe-harbor boilerplate",
+    "factors outside of our control",
+    "may be able to realize",
+    "estimates may change",
+    "operational inefficiencies"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear year-over-year operating results, but it identifies significant execution, scheduling, Canadian operations, margin, tax-asset recoverability, and contractual-claim risks. The tone is moderately negative because gross profit and continuing income declined and operating inefficiencies generated losses, although management describes mitigation actions and provides detailed explanations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "could cause actual results to differ materially",
+    "no obligation to update",
+    "substantial management judgment"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking statement disclaimers and broad, largely unquantified risk factors, limiting visibility into future performance. It also identifies meaningful exposure to apartment-market conditions, capital-market availability, development execution, occupancy, rental rates, and joint-venture valuations. The operating overview and acquisition disclosures are specific and expansion-oriented, producing a broadly neutral risk tone rather than a crisis signal."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "actual results could differ from estimates",
+    "management must exercise judgment",
+    "non-GAAP adjusted results",
+    "complex and dynamic nature of the business"
+  ],
+  "risk_summary": "The excerpt is generally constructive and provides substantial quantitative detail on acquisitions, loan growth, yields, and accounting treatments. Risk disclosure is largely standard boilerplate, while significant judgment in loan-loss estimates, acquired-loan valuations, goodwill, and non-GAAP adjustments creates interpretive risk. The dense technical presentation and truncated context limit assessment of underlying asset-quality and forward-looking risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "difficult to predict",
+    "many factors",
+    "impact is uncertain",
+    "we believe resources will be sufficient",
+    "may consider other plans"
+  ],
+  "risk_summary": "The company reports sustained operating losses, expected negative cash flows, and dependence on product commercialization, regulatory approvals, partnerships, and additional financing. Liquidity is projected to support operations into 2023, but this depends on uncertain revenue, expenses, milestone timing, and access to a $75 million credit facility option. The disclosure is detailed but contains substantial boilerplate and forward-looking qualifiers, with the excerpt truncated before key capital-requirement details."
+}

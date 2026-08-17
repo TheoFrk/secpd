@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "net effects of:",
+    "primarily due to",
+    "actual results might differ significantly",
+    "as market conditions allow",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt documents a sharp deterioration from income to a $98.0 million loss, reduced capacity utilization, elevated feedstock costs, a Canadian facility lockout, and cost of sales rising to 94% of net sales. Disclosure includes useful quantified operational details, but several key reconciliations and drivers are missing from the excerpt and are replaced by broad causal language. Management maintains a cautiously positive 2014 outlook, creating some forward-looking risk if pricing, demand, or cost assumptions fail to improve."
+}

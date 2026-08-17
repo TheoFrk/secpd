@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could cause actual results to differ materially",
+    "undertakes no obligation to update",
+    "unforeseen difficulties and delays",
+    "subjective more-likely-than-not standard"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue and profitability comparisons, but includes extensive standard forward-looking-risk disclaimers and broad, largely unquantified risk categories. Operating performance appears fragile, with minimal net income, declining equipment-segment revenue, reliance on GEHC agreements, and substantial deferred commission revenue exposed to delivery timing."
+}

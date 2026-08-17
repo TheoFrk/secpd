@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not exhaustive of the types of risks",
+    "various assumptions, risks and uncertainties",
+    "may differ materially",
+    "beyond our control",
+    "no duty to update"
+  ],
+  "risk_summary": "The excerpt is primarily standardized forward-looking-risk language, with extensive broad and non-quantified contingencies spanning economic, regulatory, operational, geopolitical, and funding risks. Specific disclosure of the 2023 bank failures, $29.9 million FDIC special assessment, and deposit-balance metrics adds useful quantification, but the overall tone remains cautious and heavily reliant on boilerplate safe-harbor language."
+}

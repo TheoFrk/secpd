@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor cautionary language",
+    "factors may not be exhaustive",
+    "beyond the Company's ability to control or predict",
+    "expected benefits and timing",
+    "other risk factors listed from time to time"
+  ],
+  "risk_summary": "The disclosure reflects elevated operating risk, including a $265 million goodwill impairment, segment downturns, contract exits, restructuring costs, project cancellations, and a substantial shift to an operating loss. Liquidity is described as sufficient, but the outlook depends on expected cost savings, asset sales, financing availability, and uncertain market recovery. The extensive boilerplate risk enumeration and repeated restructuring discussion reduce clarity on probability and magnitude of individual risks."
+}

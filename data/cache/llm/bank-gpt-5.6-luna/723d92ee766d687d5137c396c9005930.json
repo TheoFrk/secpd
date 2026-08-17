@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance can be given",
+    "strategic growth plan",
+    "losses and cash burn",
+    "highly cyclical and volatile"
+  ],
+  "risk_summary": "The excerpt discloses significant operational and strategic risks, including cyclical semiconductor demand, continuing Solar-segment losses and cash burn, divestiture uncertainty, and an expected disposal loss. Management provides some quantitative investment and loss estimates, but relies heavily on forward-looking, aspirational language regarding profitable growth and acquisitions. Overall tone is cautiously negative, partly offset by confidence in semiconductor and SiC/LED opportunities."
+}

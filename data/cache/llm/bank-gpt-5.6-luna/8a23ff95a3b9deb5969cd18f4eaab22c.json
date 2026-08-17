@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently subject to significant uncertainties",
+    "many of which are beyond the Company’s control",
+    "among others",
+    "does not undertake any obligation to publicly correct or update"
+  ],
+  "risk_summary": "The disclosure is generally detailed and strongly quantified, highlighting loan growth, earnings improvement, reduced non-performing assets, and enhanced credit quality. Risk discussion is largely standardized and forward-looking, with limited scenario analysis around acquisitions, competition, rates, loan quality, and regulatory burden. Overall tone is confident and performance-oriented, though extensive legal disclaimers and repeated acquisition exclusions temper transparency."
+}

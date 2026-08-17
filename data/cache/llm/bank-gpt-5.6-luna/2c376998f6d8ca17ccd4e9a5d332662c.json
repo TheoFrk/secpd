@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ significantly",
+    "assumes no obligation to revise or update",
+    "incorporated herein by reference",
+    "primarily due to / partially offset by"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively detailed, highlighting strong sales growth, substantial cash generation, and significant capital returns. Risk disclosure is largely standardized, with limited specificity in the forward-looking disclaimer and references to risks incorporated elsewhere. The tone is confident and favorable overall, although weakness in certain products, foreign-exchange exposure, and reliance on debt-funded capital returns are noted."
+}

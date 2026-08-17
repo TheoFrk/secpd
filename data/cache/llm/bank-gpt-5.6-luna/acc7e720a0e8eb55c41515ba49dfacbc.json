@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "limited sources of liquidity",
+    "anticipated future demand",
+    "unmet medical needs",
+    "truncated accounting disclosure"
+  ],
+  "risk_summary": "The excerpt contains substantial SEC boilerplate and promotional language, with numerous expectations regarding growth, market expansion, and product development that are not consistently quantified. Explicit liquidity constraints, seasonal revenue concentration, financing dependence, execution risk, and preclinical-stage biotechnology activities indicate meaningful risk despite the generally optimistic business framing."
+}

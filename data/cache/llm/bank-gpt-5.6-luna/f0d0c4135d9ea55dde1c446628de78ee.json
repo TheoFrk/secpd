@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "meaningful growth prospects",
+    "considerable financial flexibility",
+    "primarily driven by",
+    "mainly due to",
+    "if necessary"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitatively detailed, including segment sales, backlog, liquidity, debt terms, and covenant compliance. Risk tone is moderately positive, supported by strong sales growth and available borrowing capacity, though growth is substantially acquisition-driven and the excerpt is truncated before completing the cash-flow discussion."
+}

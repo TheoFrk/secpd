@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "results may not necessarily be indicative of future results",
+    "we believe",
+    "impacted by a number of external factors",
+    "substantially all",
+    "ongoing system optimization initiative"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on restaurant counts, revenues, initiative costs, gains, and expected additional costs, supporting relatively strong transparency. Risk tone is mildly positive but tempered by commodity inflation, weaker operating performance, customer-count declines, foreign exchange exposure, and reliance on franchisee and strategic optimization outcomes."
+}

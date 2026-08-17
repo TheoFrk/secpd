@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks, uncertainties and other factors",
+    "assumptions and other considerations",
+    "more likely than not",
+    "subjective evidence"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail, but relies on extensive forward-looking, accounting-estimate, and tax-disclaimer language. Risk is elevated by recurring operating losses, difficulties attracting qualified employees, reliance on government relief and ERC refunds, and an $8.286 million deferred tax valuation allowance, despite revenue growth and reduced operating losses."
+}

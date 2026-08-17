@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "subject to change",
+    "may be significant",
+    "unique circumstances",
+    "not reflective of deteriorating trends"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and transparent about declining profitability, an $18.1 million wire-fraud loss, and elevated credit-loss risk factors. Credit-risk methodology is described in substantial detail, but reliance on management judgment, forecasts, and broad environmental factors leaves meaningful estimation uncertainty. Management characterizes the major charge-off as isolated, which tempers but does not eliminate concern."
+}

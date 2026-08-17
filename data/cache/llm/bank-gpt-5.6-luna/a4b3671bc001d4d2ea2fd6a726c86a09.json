@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "may result in additional adjustments",
+    "other pertinent factors",
+    "believed by management to be adequate",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, loan trends, asset quality recoveries, tax effects, and strong regulatory capital ratios. Key uncertainty arises from subjective allowance, impairment, collateral valuation, and deferred-tax estimates, while the repeated tax-remeasurement discussion and standard forward-looking language add limited boilerplate. Overall tone is cautiously positive, supported by profitability and capitalization, but offset by declining earnings and reliance on recoveries and management estimates."
+}

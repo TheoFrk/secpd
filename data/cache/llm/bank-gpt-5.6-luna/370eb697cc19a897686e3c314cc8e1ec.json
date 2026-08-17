@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "various other factors",
+    "not necessarily indicative",
+    "critical accounting estimates",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, highlighting improved sales, profitability, cash flow, and reduced debt costs. Risk discussion is largely standard retail-seasonality and accounting-estimate language, with limited quantified downside sensitivity; the excerpt is also truncated and omits portions of the stated 2015 guidance."
+}

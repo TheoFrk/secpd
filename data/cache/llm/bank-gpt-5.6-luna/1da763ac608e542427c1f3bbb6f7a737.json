@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "similar expressions",
+    "non-GAAP limitations",
+    "inconsistent financial figures"
+  ],
+  "risk_summary": "The excerpt indicates elevated financial risk, including recurring net losses, negative working capital, goodwill impairment, operating cash outflows, substantial financing cash usage, and adverse same-store sales trends. Disclosure is generally quantified but contains extensive boilerplate disclaimers and apparent numerical inconsistencies, including the vapor sales comparison and SG&A increase attribution. Reliance on acquisitions and adjusted EBITDA further complicates assessment of underlying operating performance."
+}

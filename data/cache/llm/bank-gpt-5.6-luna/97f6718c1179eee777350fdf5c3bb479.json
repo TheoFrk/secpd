@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "positive outlook",
+    "expect continued expansion",
+    "may extend into 2020",
+    "potential future revenue",
+    "significant judgment"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified growth, debt, interest rates, backlog concepts, and contract details, but includes optimistic forward-looking language and limited quantification of execution risks. Federal Services faces a challenging year and possible revenue decline following contract completion, while leverage and interest expense increased materially. The excerpt is technically dense and partially truncated, limiting assessment of covenant and liquidity risks."
+}

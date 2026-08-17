@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "reasonable under the circumstances",
+    "actual results may differ",
+    "could have a material impact",
+    "variety of assumptions and estimates",
+    "if events or changes indicate"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantified disclosures on inventory valuation, LIFO liquidations, and accounting estimates. However, it relies substantially on standard critical-accounting-policy boilerplate and conditional language around impairment, obsolescence, collectability, and valuation risks. Overall tone is mildly positive due to improved profitability and cash position, offset by material estimation and market-demand uncertainties."
+}

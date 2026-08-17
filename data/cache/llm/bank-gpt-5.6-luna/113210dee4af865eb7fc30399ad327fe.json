@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and associated risks",
+    "risks, uncertainties, and other factors",
+    "actual results may differ materially",
+    "levels deemed necessary by management",
+    "estimated, probable incurred losses"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with strong reporting of earnings, acquisitions, charge-offs, and allowance ratios. Risk tone is mildly positive overall, but increased provisions and charge-offs tied to adversely classified commercial relationships indicate localized credit deterioration. Repeated forward-looking disclaimers and management-estimation language add boilerplate and modestly reduce transparency."
+}

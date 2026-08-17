@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "as listed below",
+    "following table",
+    "certain other items",
+    "all results exclude PPC",
+    "discontinued operations"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but earnings declined, operating cash flow fell materially, and debt and acquisition activity increased. Risk transparency is reduced by references to omitted tables and unspecified “certain other items,” while management maintains a moderately confident liquidity outlook."
+}

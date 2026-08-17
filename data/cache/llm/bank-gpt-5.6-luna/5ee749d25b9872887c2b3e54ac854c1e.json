@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "challenging economic environment",
+    "primarily due to",
+    "estimated fair value",
+    "subjective assumptions",
+    "long-range planning forecast"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, reporting sales, margins, expenses, segment results, and tax effects. Risk is moderate: profitability and gross margin declined, results benefited from tax and legal items, and impairment and share-based compensation estimates rely on subjective assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "adjusted EBITDA",
+    "continued strong demand",
+    "supplemental to financial statements"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, showing strong growth in sales, operating income, margins, backlog, and reduced interest expense. Risk disclosure is limited in the provided portion, with extensive reliance on favorable attribution language and non-GAAP performance measures. The overall tone is confident and positive, though the excerpt is truncated and may omit material downside discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to extension for up to 90 days",
+    "do not expect to commence operations",
+    "anticipated that",
+    "among other reasons",
+    "excerpt truncated and duplicated"
+  ],
+  "risk_summary": "The company has no meaningful operating revenue, has invested approximately $350 million in acquisition and retooling, and relies heavily on secured debt and preferred equity financing. Significant execution, liquidity, and covenant risk remains because refinery completion and production milestones can trigger acceleration, while the disclosure includes extensive financing complexity and repeated text."
+}

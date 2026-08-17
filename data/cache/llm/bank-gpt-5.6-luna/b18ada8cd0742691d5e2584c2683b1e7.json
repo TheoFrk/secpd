@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "special items",
+    "primarily driven by",
+    "expected to",
+    "significant improvement",
+    "market prices not necessarily indicative"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with clear explanations of earnings changes, operating costs, fuel-hedge mark-to-market losses, fleet restructuring, and pension funding. Risk is moderated by substantial forward-looking language around expected efficiency gains, demand, network performance, and future restructuring charges, including estimated charges of $50 million to $150 million. Overall tone is cautiously confident, although fuel-price volatility, international demand weakness, pension obligations, and execution risks remain material."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurances can be given",
+    "additional financing may be unavailable",
+    "as time and available capital allows",
+    "actual results may differ materially",
+    "potential sources of cash"
+  ],
+  "risk_summary": "The company has no revenue or production, limited cash, and explicitly states that additional funding is required to sustain operations, creating substantial going-concern and liquidity risk. The BeMetals option agreement provides potential near-term funding and project support, but proceeds and exercise value remain contingent on conditions and financing availability. Disclosure is detailed in places but relies heavily on forward-looking caveats and broad financing alternatives without firm certainty."
+}

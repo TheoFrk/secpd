@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot accurately predict or control",
+    "significant subjective decisions",
+    "numerous assumptions and judgments",
+    "factors beyond our control",
+    "future potential upside"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative operating and cash-flow data, but emphasizes substantial exposure to commodity prices, reserve estimation uncertainty, derivative counterparty risk, and asset-retirement obligations. Management uses generally positive positioning language while relying on broad contingencies and unquantified assumptions for several material risks."
+}

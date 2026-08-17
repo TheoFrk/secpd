@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "customary post-closing adjustments",
+    "non-GAAP measures not comparable",
+    "inorganic revenue increases",
+    "discontinued operations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on acquisitions, divestitures, revenue growth, liquidity, and operating cash use, but relies on standard forward-looking disclaimers and non-GAAP framing. Risk is mixed: strong reported growth is offset by cash used in operations, acquisition-related financing, discontinued operations, and integration or comparability uncertainty."
+}

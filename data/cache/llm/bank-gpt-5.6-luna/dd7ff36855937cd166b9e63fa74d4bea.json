@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective and/or complex judgments",
+    "actual results could differ significantly",
+    "may be subject to significant change",
+    "among other factors",
+    "additional information can be found"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily reliant on standard accounting-policy and cross-reference language, which limits direct clarity on exposure and forward impact. It identifies meaningful uncertainty around loan-loss estimates, securities impairment, taxes, goodwill, and fair values, while providing some quantified impairment amounts and methodology. Management expresses adequacy of reserves, but acknowledges that adverse estimate revisions could materially affect future earnings."
+}

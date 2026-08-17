@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "restated financial statements",
+    "actual results may differ",
+    "without limitation",
+    "one-time arbitration recovery",
+    "dividend suspension"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed explanations of earnings, balance-sheet changes, funding, and credit trends. Risk concerns include the restatement, reliance on a nonrecurring arbitration recovery, suspended common dividends, litigation costs, and exposure to local economic and interest-rate conditions."
+}

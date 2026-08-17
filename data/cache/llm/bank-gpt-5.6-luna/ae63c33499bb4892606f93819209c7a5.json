@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "including, without limitation",
+    "subjective estimates and assumptions",
+    "may have a material impact",
+    "other external developments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on loan-loss estimation, deposits, funding, and net interest metrics, but relies heavily on broad forward-looking disclaimers and subjective assumptions. Key risks include merger integration, credit losses, economic and interest-rate changes, liquidity, regulatory actions, and potential impairment of goodwill or intangibles."
+}

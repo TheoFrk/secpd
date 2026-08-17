@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may impact results of operations",
+    "await final rules and interim guidance",
+    "variety of factors",
+    "could restrict growth or increase costs"
+  ],
+  "risk_summary": "The excerpt is generally confident and operationally descriptive, but contains substantial standard forward-looking and regulatory caveats. Key risks include rising medical utilization and costs, regulatory uncertainty from health care reform, margin pressure, business-mix changes, and exposure to estimates for unpaid claims and disputes."
+}

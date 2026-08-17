@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "lower demand",
+    "challenging trading conditions",
+    "partially offset",
+    "material adverse effect",
+    "if actual market conditions differ"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but reports declining revenue, gross margin compression, lower operating profit, restructuring and impairment costs, and customer bankruptcies. Debt refinancing reduced interest expense but generated significant extinguishment costs, while foreign earnings repatriation and inventory valuation assumptions create contingent downside risks."
+}

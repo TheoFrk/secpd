@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "additional allowances may be required",
+    "significant differences in amount and timing",
+    "transfer price typically in excess of cost",
+    "judgment and estimates"
+  ],
+  "risk_summary": "The excerpt is detailed and quantitatively specific, with substantial business and segment disclosure and generally constructive operating commentary. Risk is principally framed through standard accounting-estimate caveats, customer credit deterioration, foreign exchange, employment sensitivity, and complex intercompany transfer-pricing mechanics rather than acute distress."
+}

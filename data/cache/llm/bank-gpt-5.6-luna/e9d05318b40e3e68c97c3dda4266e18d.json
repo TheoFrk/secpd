@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "management’s discretion",
+    "subject to regulatory approval",
+    "customary closing conditions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, acquisition values, asset quality metrics, and funding changes. Risk tone is moderately positive, although it acknowledges increased non-performing and delinquency ratios, accounting estimate subjectivity, acquisition execution risks, and regulatory closing conditions."
+}

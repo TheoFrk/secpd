@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements involve significant risks and uncertainties",
+    "may experience significant fluctuations",
+    "among other reasons",
+    "subjective or complex estimates",
+    "may differ materially"
+  ],
+  "risk_summary": "The excerpt presents strong revenue growth and quantified operational metrics, but profitability declined and operating cash flow was relatively modest compared with net income. Risk disclosure relies partly on standard forward-looking disclaimers and qualitative expectations regarding demand, acquisitions, supply availability, and accounting estimates. Overall tone is cautiously positive but includes meaningful uncertainty around execution, macroeconomic conditions, and estimation risk."
+}

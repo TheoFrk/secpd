@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantially all",
+    "certain rights offering",
+    "not yet finalized",
+    "subject to Board review",
+    "less than 1% fair-value cushion"
+  ],
+  "risk_summary": "The disclosure is highly quantitative regarding ownership, offerings, acquisitions, debt, and operating results, but contains substantial structural and technical complexity. Key risk signals include a less-than-1% goodwill fair-value cushion for the VCS reporting unit, an unfinished Step 2 impairment assessment, and restructuring plans whose details remain unresolved."
+}

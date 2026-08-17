@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.31,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "where appropriate",
+    "variety of assumptions and actions",
+    "seeks to",
+    "strives to maintain",
+    "fully tax-equivalent basis"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified regarding earnings, asset growth, margins, securities holdings, and credit-rating developments. Risk tone is cautiously positive, but portions rely on broad strategic language and generalized descriptions of controls, assumptions, and mitigation processes rather than quantified sensitivity or loss exposures."
+}

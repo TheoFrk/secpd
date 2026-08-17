@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "restatement of prior financial statements",
+    "employee misconduct concealed",
+    "forward loss assumptions and estimates",
+    "non-GAAP measure limitations",
+    "internal control deficiencies"
+  ],
+  "risk_summary": "The excerpt discloses significant reporting risk, including employee misconduct, concealed cost misallocation, a multi-period restatement, and material contract-loss and tax adjustments. Although the company provides detailed quantified impacts and methodology, reliance on estimates and extensive non-GAAP discussion partially obscures the underlying risk. The tone is materially negative regarding controls and contract accounting, despite management’s stated deleveraging progress."
+}

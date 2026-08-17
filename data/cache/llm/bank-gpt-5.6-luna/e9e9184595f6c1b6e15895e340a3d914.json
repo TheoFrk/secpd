@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "cannot assure financing availability",
+    "significant improvements in competitiveness",
+    "cash flows may not be adequate"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and identifies meaningful cyclicality, technology-obsolescence, fixed-cost, capital-expenditure, covenant, and refinancing risks. Liquidity appears adequate over the next twelve months, but substantial ongoing investment and dependence on operating cash flow create downside exposure if semiconductor or FPD demand weakens."
+}

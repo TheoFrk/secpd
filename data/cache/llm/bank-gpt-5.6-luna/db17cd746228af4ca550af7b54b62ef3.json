@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no firm assurances",
+    "known and unknown risks",
+    "not exhaustive",
+    "undue reliance",
+    "disclaims any obligation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and identifies numerous operational, market, customer-concentration, technology, litigation, tax, and acquisition risks. However, the forward-looking section is largely standardized and broad, with extensive disclaimers and limited probability, magnitude, or sensitivity analysis for individual risks."
+}

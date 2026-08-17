@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors",
+    "primarily due to",
+    "partially offset by",
+    "leading innovator claims"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed year-over-year revenue, expense, cash flow, acquisition, and liquidity disclosures. Risk tone is mildly positive due to revenue growth and customer scale, but declining net income and operating cash flow, significant acquisition consideration, and reliance on broad forward-looking risk disclaimers temper that view."
+}

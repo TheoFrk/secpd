@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "acceptable terms",
+    "subject to customary conditions",
+    "actual results may differ",
+    "significant assumptions and estimates"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on leverage, liquidity capacity, maturities, pricing, covenants, and portfolio metrics. The tone is generally confident and constructive, but it acknowledges refinancing, capital-market access, interest-rate, covenant, and accounting-estimate risks through standard qualifications."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "no obligation to update",
+    "no guarantee transaction will take place",
+    "other similar expressions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified operating metrics and performance trends, with generally positive results for IHOP and Applebee's. Risk disclosure is largely standard boilerplate, while forward-looking statements and the planned refranchising transaction are qualified by broad uncertainty language."
+}

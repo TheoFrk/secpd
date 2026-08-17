@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.45,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "estimates could differ from actual amounts",
+    "realization is probable",
+    "highly complex projects",
+    "may cause significant fluctuations",
+    "unapproved change orders and claims"
+  ],
+  "risk_summary": "The excerpt provides substantial detail and quantitative historical results, but profitability and revenue recognition depend heavily on estimates for contract costs, claims, change orders, delays, and project conditions. Reported results show deteriorating performance, including operating and net losses, adverse weather impacts, and potentially material volatility in margins and contract profitability."
+}

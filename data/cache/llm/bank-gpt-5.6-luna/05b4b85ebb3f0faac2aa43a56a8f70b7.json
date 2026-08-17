@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties and assumptions",
+    "actual results may differ significantly",
+    "non-GAAP financial measures",
+    "material impact reducing shareholders’ equity",
+    "allocated and unallocated segment costs"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but includes standard forward-looking caveats and extensive non-GAAP and segment-allocation explanations. Credit risks include sharply negative free cash flow, substantial capital spending, higher leverage, reduced residual value estimates, and an expected material reduction in equity from lease-accounting changes. The operating outlook is confident, producing an overall mixed risk tone."
+}

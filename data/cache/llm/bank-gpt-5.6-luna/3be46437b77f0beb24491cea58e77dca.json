@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may be negatively impacted",
+    "consider raising additional funds",
+    "not available on terms acceptable",
+    "proprietary blend of ingredients",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on product concentration, debt terms, maturity, interest rates, and financial covenants, but relies on forward-looking and conditional language regarding market support, product launches, liquidity, and financing. Risk is elevated by dependence on distributors and concentrated product lines, international operating exposure, and restrictive credit-facility covenants."
+}

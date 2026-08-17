@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "typically",
+    "may vary significantly",
+    "significant management judgments and estimates",
+    "more than offset",
+    "result […] is primarily"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, cash flows, acquisitions, capital expenditures, and borrowing, supporting relatively transparent disclosure. Risk factors include seasonality, weather-sensitive demand, warranty and overstock returns, customer allowances, inventory management, and reliance on revolving credit funding. The tone is generally confident and operationally descriptive, although some assumptions and the truncated passage limit completeness."
+}

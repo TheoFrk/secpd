@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may result in termination",
+    "if payments are not received timely",
+    "actual results may materially differ",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt is detailed about business structure and sales channels but includes substantial standard forward-looking and accounting-estimate boilerplate. A material supplier concentration and fiscal 2023 failure to meet minimum purchase volumes and payment terms create counterparty and continuity risk, although no termination notice had been received. Overall tone is operationally neutral with a modestly negative risk signal."
+}

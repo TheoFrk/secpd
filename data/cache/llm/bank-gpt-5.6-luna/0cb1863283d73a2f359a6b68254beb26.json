@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Certain Items exclusions",
+    "non-GAAP adjusted measures",
+    "constant currency basis",
+    "approximately $360 billion market",
+    "forward-looking expectations"
+  ],
+  "risk_summary": "The excerpt presents strong quantified operating and earnings growth, market-share gains, and positive operating leverage. Credit risks include higher debt from acquisitions and share repurchases, rising interest expense, and reliance on adjusted measures that exclude recurring or potentially material costs. Management expects $650 million of interest expense and net leverage of 2.5–2.75x in fiscal 2025, indicating moderate leverage sensitivity despite a generally confident tone."
+}

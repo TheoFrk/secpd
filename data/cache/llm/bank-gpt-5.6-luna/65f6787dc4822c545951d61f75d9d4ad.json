@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "as necessary",
+    "could materially differ",
+    "non-GAAP normalization",
+    "well-positioned to withstand"
+  ],
+  "risk_summary": "The disclosure is highly technical and largely quantified, with strong reported asset-quality, profitability, reserve, and capital metrics. Risk is acknowledged through rising rates, market volatility, valuation declines, and estimation uncertainty, but management presents these as controlled and primarily non-credit-related. Extensive non-GAAP measures and normalization adjustments may complicate comparisons with GAAP results and peers."
+}

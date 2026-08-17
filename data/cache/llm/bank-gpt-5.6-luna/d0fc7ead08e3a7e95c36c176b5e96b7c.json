@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "similar expressions and comparable terminology",
+    "subject to business and economic risks",
+    "no obligation to update",
+    "may need additional restructuring"
+  ],
+  "risk_summary": "The excerpt combines specific operating metrics and restructuring cost estimates with extensive forward-looking disclaimers and conditional language. The strategic transition to subscriptions and cloud offerings appears confident, but revenue recognition effects, channel concentration, execution risk, and potential additional restructuring create meaningful uncertainty."
+}

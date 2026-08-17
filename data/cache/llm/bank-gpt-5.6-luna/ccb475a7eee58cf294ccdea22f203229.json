@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "comprised as follows",
+    "bridge loan ... $2 […]",
+    "not significant enough to merit separate disclosure",
+    "may not be able to increase prices",
+    "actual results could differ from estimates"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides useful segment-level drivers, but it highlights substantial margin compression, commodity-cost inflation, inventory impairment, and reliance on expanded revolving credit. Liquidity is presented as adequate by management, although the excerpt is truncated around the bridge loan and includes meaningful uncertainty regarding pricing power and cost recovery."
+}

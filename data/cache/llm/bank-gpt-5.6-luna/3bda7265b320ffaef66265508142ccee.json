@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.91,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "no assurance / may not be able",
+    "intend to / will attempt to raise capital",
+    "subject to sufficient funding",
+    "some of which are duplicative",
+    "unable to accurately quantify the effect"
+  ],
+  "risk_summary": "The disclosure presents severe financial distress: zero revenue, substantial losses, inadequate cash, past-due obligations, reliance on related-party funding, and no adequate financing or assets. Management acknowledges that the company could default and that continued viability is in jeopardy, while proposed acquisitions and capital raising remain uncertain. Extensive cautionary and conditional language limits the specificity of the recovery plan."
+}

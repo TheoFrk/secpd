@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to various risks and assumptions",
+    "unable to estimate with certainty",
+    "limited number of Customers",
+    "current financial resources"
+  ],
+  "risk_summary": "The excerpt uses substantial standard MD&A and forward-looking disclaimer language, with limited operating detail in the provided portion. Quantified debt and $60.2 million of purchase obligations indicate meaningful liquidity and refinancing exposure, while the company states it will rely on current resources to fund commitments. Uncertainty around clinical, manufacturing, and termination-related costs remains material."
+}

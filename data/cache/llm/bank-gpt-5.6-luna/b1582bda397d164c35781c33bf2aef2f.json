@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "if successfully implemented",
+    "expected to",
+    "modeling assumptions",
+    "little historical experience",
+    "non-core assets with asymmetric risk characteristics"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but it includes aspirational restructuring targets and projections dependent on uncertain modeling assumptions. Risk is moderated by disclosed balance-sheet restructuring, CDO disposal, lower profitability, declining net interest margin, and strategic credit exposure reductions."
+}

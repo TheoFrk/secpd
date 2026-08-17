@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherently subject to significant uncertainties",
+    "could cause actual results to differ materially",
+    "does not undertake any obligation to update",
+    "risks beyond the Company’s control"
+  ],
+  "risk_summary": "The excerpt reports strong growth, acquisitions, record earnings, and improving asset quality with substantial quantitative detail. However, extensive standard forward-looking disclaimers and a broad list of contingencies limit the specificity of future outlook and highlight exposure to credit, regulatory, integration, cybersecurity, market, and reputational risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual sales may materially differ",
+    "we believe",
+    "expected to benefit",
+    "estimates and assumptions",
+    "qualitative evaluation"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with specific operating metrics, segment information, inventory balances, acquisitions, and earnings data. The tone is moderately confident and favorable, supported by improving industry sales and operating performance, but includes standard forward-looking caveats and material estimation uncertainty. The truncated goodwill discussion limits assessment of potentially significant impairment risk."
+}

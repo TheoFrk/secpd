@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "we expect ... to continue",
+    "material portion of revenue",
+    "limited protection from hedging"
+  ],
+  "risk_summary": "The excerpt presents strong growth, particularly in digital revenue, live services, and recurring offerings, with a generally confident tone. Key disclosed risks include foreign-exchange volatility, concentration in a small number of franchises and annualized titles, reliance on microtransactions, and uncertainty around future growth. Disclosure is reasonably quantified but includes standard boilerplate limitations and forward-looking language."
+}

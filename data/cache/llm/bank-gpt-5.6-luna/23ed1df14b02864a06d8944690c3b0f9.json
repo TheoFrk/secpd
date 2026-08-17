@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual outcomes may differ materially",
+    "difficult to predict",
+    "as we deem necessary",
+    "ultimate resolution may result in payments greater or less"
+  ],
+  "risk_summary": "The excerpt presents a confident, growth-oriented tone supported by substantial quantified sales, cash flow, capital returns, and tax-liability disclosures. It also relies heavily on standard forward-looking disclaimers and acknowledges material uncertainty around competition, product development, regulatory scrutiny, pricing pressure, and tax disputes. Overall disclosure quality is relatively strong, though the excerpt is dense and includes boilerplate risk language that limits predictive certainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "believes customers reduced purchases",
+    "foreseeable future",
+    "inherently uncertain",
+    "other information relevant to judgment",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, detailing revenue, margin, cash flow, debt, liquidity capacity, and segment impacts. Risk factors include declining demand, lower operating income, supplier termination, restructuring costs, and estimation uncertainty, although the company presents liquidity as sufficient for at least 24 months."
+}

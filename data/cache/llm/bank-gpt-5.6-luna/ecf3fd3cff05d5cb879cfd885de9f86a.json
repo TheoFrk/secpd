@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict when or if",
+    "due primarily to",
+    "including without limitation",
+    "significantly and negatively impacted",
+    "cross-referenced discussion"
+  ],
+  "risk_summary": "The disclosure is generally precise and heavily quantified, but reports a substantial decline in net income driven by catastrophe losses, higher underlying insurance losses, investment impairment losses, and a significant life-insurance charge. Catastrophe exposure and volatile investment results remain material uncertainties, while extensive cross-references and technical insurance terminology reduce accessibility."
+}

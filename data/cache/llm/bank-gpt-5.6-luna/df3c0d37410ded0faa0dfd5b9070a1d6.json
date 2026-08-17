@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance",
+    "we believe",
+    "well positioned",
+    "expected to",
+    "table omitted/truncated"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and identifies material exposures to feed costs, commodity derivatives, foreign exchange, trade duties, and acquisition-related liquidity needs. Its tone is generally confident and promotional, but it relies on forward-looking assurances and contains a truncated section that limits assessment of liquidity and transaction risks."
+}

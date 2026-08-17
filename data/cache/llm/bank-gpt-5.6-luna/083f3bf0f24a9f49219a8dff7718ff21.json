@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual amounts could differ from estimates",
+    "not reasonably available or meaningful",
+    "may adversely impact us in the future",
+    "we continue to believe",
+    "most significant of these include:"
+  ],
+  "risk_summary": "The disclosure presents a generally favorable outlook supported by public infrastructure funding, a $4.5 billion committed and awarded project portfolio, and stated mitigation actions. Key risks include dependence on public funding, inflation and supply-chain constraints, project cost and margin estimation uncertainty, and potentially material revisions to long-term contract estimates. The incomplete discussion following “most significant of these include” reduces transparency around the specific drivers of estimate changes."
+}

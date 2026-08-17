@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "expected to rapidly scale",
+    "believe the units ... will generate",
+    "around $12 million in production",
+    "may not create results",
+    "unanticipated events and circumstances"
+  ],
+  "risk_summary": "The excerpt presents an aggressive acquisition and expansion strategy with optimistic, largely forward-looking revenue and capacity projections that are not supported by detailed integration, funding, or execution analysis. It includes substantial accounting-policy boilerplate and emphasizes estimates, assumptions, and contingencies, while the truncated results section limits assessment of actual performance."
+}

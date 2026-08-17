@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP core earnings adjustments",
+    "cannot predict revenue requirement",
+    "subject to refund",
+    "regulatory and performance issues",
+    "if this project is undertaken"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with limited evasive language. Key risks include substantial capital requirements, regulatory approval uncertainty, potential rate refunds, nuclear oversight issues, merchant-generation volatility, and exposure to tax and environmental developments."
+}

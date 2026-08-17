@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "truncated tables and omitted detail",
+    "actual results may differ significantly",
+    "reasonably likely impairment",
+    "various other assumptions",
+    "not able to determine recoveries"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent but contains substantial accounting-estimate uncertainty, ongoing litigation exposure, Marine Components operating losses, and potential impairment risk. Earnings declined materially in 2012 and management expects further weakness in 2013, primarily from lower Kronos equity earnings. Disclosure quality is weakened by missing table content and truncated narrative."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "numerous assumptions, risks and uncertainties",
+    "significant management judgment",
+    "limited or no observable valuation inputs",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The excerpt reports strong 2010 revenue and earnings growth with extensive quantitative detail, supporting a moderately positive tone. However, material reliance on management assumptions for investment valuations, policy liabilities, DAC, and derivatives introduces significant estimation and downside risk, particularly where observable market inputs are limited."
+}

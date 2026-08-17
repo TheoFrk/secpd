@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "significant progress",
+    "relatively stable",
+    "primarily due",
+    "consistent with the Company’s risk appetite",
+    "intended to assist readers"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with detailed financial, credit-loss, liquidity, and securities information. Risk factors include elevated credit-loss provisions, higher net charge-offs, lower profitability ratios, merger-related costs, and pandemic-related uncertainty, although management presents integration and asset-quality developments positively."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor statement",
+    "similar expressions",
+    "including but not limited to",
+    "other operational, financial or legal risks",
+    "no obligation to publicly update"
+  ],
+  "risk_summary": "The excerpt is substantially boilerplate in its forward-looking statement disclaimer and presents a broad, non-exhaustive list of operational, regulatory, insurance, cybersecurity, and demand-related risks. The business description is relatively specific and quantified, including revenue and provider concentration data, but the excerpt provides limited current-period performance detail and is truncated."
+}

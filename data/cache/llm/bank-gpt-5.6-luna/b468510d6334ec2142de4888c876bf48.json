@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to achievement of certain milestones",
+    "primarily due to",
+    "we do not expect our estimates",
+    "may result in reporting amounts too high or too low",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but describes a cash-burning clinical-stage biotechnology company with rising R&D and G&A costs, substantial net losses, and a significant decline in cash and working capital. Liquidity is supported by equity financing capacity and grants, but the excerpt is truncated during a potentially important funding and cash-runway discussion. Accounting estimates and milestone-dependent revenue introduce additional uncertainty."
+}

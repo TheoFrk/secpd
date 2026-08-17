@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "not exhaustive",
+    "not possible for management to predict",
+    "reasonable estimates",
+    "future status ... uncertain",
+    "likelihood ... questionable"
+  ],
+  "risk_summary": "The excerpt reports strong revenue growth and provides some quantified segment data, but relies heavily on standard safe-h harbor disclaimers and management estimates. Key risks include contract-cost estimation, customer and government concentration, deferred tax asset uncertainty, supply-chain dependence, and sanctions-related exposure to Morion, whose future commercial and investment prospects are uncertain."
+}

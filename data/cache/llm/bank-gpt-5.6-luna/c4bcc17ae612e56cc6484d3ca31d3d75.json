@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "outside of our control",
+    "various other factors",
+    "could significantly harm",
+    "inherent uncertainties"
+  ],
+  "risk_summary": "The excerpt presents a materially adverse operating trend, including lower sales, a 310-basis-point gross-margin decline, a $28.4 million operating loss, inventory valuation adjustments, restructuring costs, and impairment charges. It quantifies several exposures but relies on broad assumptions and forward-looking caveats around demand, inventory obsolescence, trade-name valuations, supply continuity, and returns."
+}

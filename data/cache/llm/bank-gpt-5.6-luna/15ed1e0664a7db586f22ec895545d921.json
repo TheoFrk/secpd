@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "adjusted measures excluding significant items",
+    "cannot estimate on a forward-looking basis",
+    "highly variable and difficult to predict",
+    "little-to-no earnings or cash contributions",
+    "guidance not reconciled to U.S. GAAP"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail and identifies key risks, including acquisition-related leverage, litigation, impairment, tax variability, and uncertain contributions from Cronos and JUUL. However, extensive reliance on adjusted metrics and exclusion of potentially significant items limits comparability with reported U.S. GAAP results. The tone is cautiously confident regarding operating execution and cost savings, but forward guidance remains exposed to material uncertainty."
+}

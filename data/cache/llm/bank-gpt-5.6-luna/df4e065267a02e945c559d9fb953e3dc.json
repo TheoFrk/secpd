@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "first-in-class",
+    "it is hoped that an optimal dose",
+    "may be unable to raise capital",
+    "safe and effective"
+  ],
+  "risk_summary": "The excerpt combines quantified clinical and financing information with substantial promotional language and repeated forward-looking disclaimers. Key risks include early-stage clinical development, potential COVID-19-related enrollment delays, uncertain efficacy and toxicity, continuing cash burn, and the need for additional capital on potentially unfavorable terms."
+}

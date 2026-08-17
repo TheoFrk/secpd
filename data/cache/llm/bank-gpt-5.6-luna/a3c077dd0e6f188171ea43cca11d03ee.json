@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "general corporate purposes",
+    "expected to enable",
+    "we believe",
+    "continually discussing new licensing opportunities",
+    "financial difficulties of a retail customer"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but includes optimistic forward-looking statements and some broad strategic language. Key risks include customer concentration, fashion-demand volatility, retailer financial distress, licensing dependence, acquisitions, and expansion execution."
+}

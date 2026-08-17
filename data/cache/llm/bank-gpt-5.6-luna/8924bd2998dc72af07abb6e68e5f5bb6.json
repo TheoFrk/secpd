@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP ongoing earnings",
+    "primarily driven by",
+    "partially offset by",
+    "items not indicative of ongoing performance",
+    "strong actions and confident outlook"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with clear year-over-year operating, margin, cash flow, and segment data. Risk is moderate: earnings benefited materially from divestiture gains and non-recurring items, while volume declines, inflation, currency pressure, warranty costs, and negative EMEA margins remain concerns. The tone is generally confident and promotional, relying substantially on non-GAAP measures and adjusted performance framing."
+}

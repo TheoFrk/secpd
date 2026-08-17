@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "no assurance",
+    "not significant",
+    "nm = not meaningful"
+  ],
+  "risk_summary": "The excerpt is largely specific and well quantified, showing consolidated revenue and net income growth, though performance varies materially by segment and TRS-RenTelco declined. Boilerplate forward-looking disclaimers and limited discussion of adverse scenarios temper the otherwise moderately positive tone. Dependence on capital-intensive rental inventory, customer-base retention, and public school demand represent identifiable risks."
+}

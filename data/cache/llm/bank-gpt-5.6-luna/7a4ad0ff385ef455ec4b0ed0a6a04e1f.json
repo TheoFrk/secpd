@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "likely require additional funds",
+    "sufficient cash to sustain operations",
+    "cannot be assured",
+    "foreseeable future",
+    "forced to cease and dissolve"
+  ],
+  "risk_summary": "The Company reports recurring negative operating cash flow, expects approximately $5 million of spending over the next twelve months, and explicitly depends on additional fundraising to continue operations and development. Its ability to raise capital, obtain approvals, and use registered offerings is uncertain; failure to secure funding could require cessation of development activities and dissolution."
+}

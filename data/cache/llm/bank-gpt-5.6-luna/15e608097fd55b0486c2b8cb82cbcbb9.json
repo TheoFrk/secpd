@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "anticipated financing arrangements",
+    "amounts ... are not known at this time",
+    "no assurance ... acceptable terms or at all",
+    "long sales cycles",
+    "subject to variability from quarter to quarter"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, including segment sales and operating cash flow, but relies on forward-looking assumptions regarding cash sufficiency, investment needs, financing availability, and market expansion. Key risks include declining ZERUST sales, lengthy oil-and-gas adoption cycles, dependence on joint-venture distributions, earnings variability, and potential financing dilution."
+}

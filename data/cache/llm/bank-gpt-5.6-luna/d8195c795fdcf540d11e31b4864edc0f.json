@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot reliably estimate",
+    "many difficulties and uncertainties",
+    "not reproducible nor validated",
+    "most research programs will not generate financial returns",
+    "none is individually material"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on financial results, acquisition costs, pipeline status, and patent exposure, but uses broad disclaimers to limit project-level cost, timing, and revenue visibility. Risk is concentrated in drug-development failure, regulatory delays, patent expirations, integration costs, and generic competition; the overall tone is operationally neutral with modest confidence in portfolio diversification."
+}

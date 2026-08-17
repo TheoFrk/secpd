@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "underlying sales/business",
+    "material impacts expected",
+    "unless otherwise stated",
+    "projections and estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear year-over-year comparisons and segment-level results. Risk tone is cautiously positive, emphasizing recovery, growth, productivity, and improved earnings, while noting pension cost pressure, macroeconomic dependence, and significant uncertainty surrounding the proposed Airgas acquisition. Non-GAAP adjustments and forward-looking assumptions modestly reduce comparability and increase interpretive complexity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.54,
+  "risk_sentiment": -0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot determine with certainty",
+    "previously referenced",
+    "include but are not limited to",
+    "adverse factors",
+    "truncated causal explanations"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative operating and industry data, including shipment trends, pricing changes, and cost movements. Risk tone is moderately cautious because of historically weak housing markets, restrictive financing, uncertain sustainability of sales growth, and reliance on favorable forecasts, although fiscal 2012 results improved. Several sections are incomplete or boilerplate-like, limiting transparency regarding the specific drivers of results and forward-looking risks."
+}

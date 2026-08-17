@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "believed to be reasonable",
+    "may need to raise additional capital",
+    "additional financing may not be available",
+    "anticipated cash requirements"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including revenue declines, debt balances, share repurchases, and unsatisfied performance obligations. Management adopts a moderately optimistic tone but acknowledges semiconductor cyclicality, customer spending volatility, liquidity sensitivity, accounting-estimate uncertainty, and potential financing constraints. The extensive ASC 606/ASC 460 discussion is technically complex and includes standard qualifying language, but is not overtly evasive."
+}

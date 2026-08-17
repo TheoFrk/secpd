@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "organic growth definition",
+    "partially offset by",
+    "amounts may not add due to rounding",
+    "constant tax rate"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, detailing revenue, profit, currency, restructuring, pension, and Venezuela-related impacts. Risk tone is moderately negative because 2014 produced a continuing-operations loss and substantial declines, although management presents a constructive 2015 outlook. Repetition and extensive non-GAAP framing may complicate comparability with GAAP results."
+}

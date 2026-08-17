@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain assumptions",
+    "we believe there is little risk of impairment",
+    "more-likely-than-not",
+    "may materially impact",
+    "certain limitations"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified credit-facility and lease obligations, but relies heavily on management estimates for impairment, taxes, reserves, and fair values. Key downside risks include macroeconomic sensitivity, uncertain tax outcomes, and potential impairment charges, while management characterizes impairment risk as low and reports covenant compliance."
+}

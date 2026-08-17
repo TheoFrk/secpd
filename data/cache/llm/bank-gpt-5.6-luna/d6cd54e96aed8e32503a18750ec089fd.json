@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "due to a decrease in consumer demand",
+    "significant judgment",
+    "dependent on future taxable income",
+    "see Note ... for more information"
+  ],
+  "risk_summary": "The disclosure is highly quantified and explains major year-over-year changes, but sales declined sharply and profitability remains exposed to demand, pricing, supply-chain, and capacity-investment pressures. The tax benefit and recoverability of deferred tax assets depend materially on future taxable income, creating earnings volatility risk."
+}

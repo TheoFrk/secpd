@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to predict additional consequences",
+    "potentially volatile and severe",
+    "adequate to support operations",
+    "estimates may differ materially",
+    "truncated discussion"
+  ],
+  "risk_summary": "The disclosure identifies meaningful pandemic, reimbursement, collectability, tax-asset realization, goodwill impairment, and liquidity risks, but often relies on broad qualitative assurances and uncertain forward-looking statements. Quantification is provided for selected assets and planned capital expenditures, while key downside sensitivities and cash-flow details are limited. Overall tone is cautiously positive, supported by profitability, cash flows, and low debt, despite material estimation and operating uncertainties."
+}

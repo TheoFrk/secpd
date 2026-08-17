@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may differ materially",
+    "including, but not limited to",
+    "related-party transaction disclosures",
+    "subject to annual renewal"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on losses, debt, lease obligations, transaction terms, and casino closure, but relies on broad boilerplate risk language and contains highly complex transaction descriptions. Risk is elevated due to recurring losses, negative cash flows, closure of a casino, regulatory exposure, refinancing considerations, and related-party transactions. The planned divestiture and business transformation introduce material execution and counterparty risks."
+}

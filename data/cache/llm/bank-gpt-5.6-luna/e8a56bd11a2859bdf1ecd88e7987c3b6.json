@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "essentially flat",
+    "a number of factors",
+    "not a comprehensive representation",
+    "based on historical trends",
+    "subject to local market conditions and our discretion"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, margins, loan growth, provisioning, deposit costs, and portfolio developments. Risk is present in declining mortgage-backed securities yields, reliance on judgment in loan-loss provisioning, real-estate valuation assumptions, and interest-rate sensitivity, but the overall tone is operationally positive. The truncated ending limits assessment of the reverse-mortgage exposure and related risks."
+}

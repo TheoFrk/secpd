@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.43,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "among other things",
+    "could cause actual results to differ materially",
+    "under no obligation to update",
+    "anticipated regulatory change"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with clear historical performance metrics and explicit 2018 guidance. The tone is generally confident and growth-oriented, but key exposures include China and construction-market growth, steel-cost volatility, pricing execution, acquisitions, currency, regulation, and floating-rate debt. The forward-looking disclaimer is conventional boilerplate rather than evidence of acute distress."
+}

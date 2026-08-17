@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "cannot provide assurance",
+    "difficult to predict",
+    "numerous factors",
+    "subject to material adverse differences"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and repeated uncertainty language, limiting precision around future revenue, profitability, funding, and clinical or regulatory outcomes. It provides some quantified liquidity and funding information, but emphasizes substantial biotechnology execution, approval, commercialization, partner, and capital risks."
+}

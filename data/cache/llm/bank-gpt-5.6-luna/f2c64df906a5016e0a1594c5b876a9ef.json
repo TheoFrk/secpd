@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could cause actual results to differ materially",
+    "adequate liquidity",
+    "pricing grid and borrowing base covenants",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt provides meaningful operating, reserve, production, expense, and borrowing-base metrics, but relies heavily on standard forward-looking disclaimers and management estimates. Key risks include commodity-price volatility, liquidity and borrowing-base dependence, acquisition execution, covenant compliance, and reserve or asset-retirement estimation uncertainty. Overall tone is cautiously positive, supported by reported growth and expanded credit capacity, but the disclosure is technically dense and partially boilerplate."
+}

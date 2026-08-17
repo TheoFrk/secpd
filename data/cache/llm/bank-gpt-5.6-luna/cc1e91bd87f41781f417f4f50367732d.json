@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "boilerplate cross-reference",
+    "no substantive discussion",
+    "exhibit citation"
+  ],
+  "risk_summary": "The excerpt is purely procedural and incorporates the substantive MD&A by reference rather than presenting financial condition or risk information directly. It provides no basis to assess operating or credit risk from this passage alone."
+}

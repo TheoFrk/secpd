@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "many factors outside of our control",
+    "expect continued volatility",
+    "may adjust our capital program",
+    "if our borrowing base become limited"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative liquidity and debt information, including facility size, borrowing base, availability, cash flow, and interest expense. Risk tone is moderately cautious due to commodity-price volatility, reserve-estimation uncertainty, collateralized borrowing, and potential borrowing-base reductions, although management expresses confidence in liquidity and financing access. Boilerplate outlook language and numerous conditional statements somewhat reduce precision regarding downside scenarios."
+}

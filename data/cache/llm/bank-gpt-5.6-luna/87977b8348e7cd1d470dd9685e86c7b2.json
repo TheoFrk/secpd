@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.43,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "numerous unknown factors",
+    "beyond the Company’s control",
+    "no obligation to update",
+    "duplicated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively supported, showing materially improved revenue, profitability, cash flow, and working capital. Risk remains in the reliance on uncertain demand, competition, expansion initiatives, concentrated large orders, contingent consideration payments, and increased investment in Bioprocessing Systems. The repeated liquidity paragraph and extensive forward-looking disclaimer modestly reduce disclosure clarity."
+}

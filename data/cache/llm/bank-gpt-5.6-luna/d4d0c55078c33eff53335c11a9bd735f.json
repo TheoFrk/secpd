@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance that future savings will be fully achieved",
+    "could be material",
+    "expected to be realized over time",
+    "adjusted non-US GAAP measures",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified disclosure, but relies on forward-looking assumptions and repeated no-assurance language regarding cost savings, restructuring, product development, and distributor inventory. Risk tone is materially negative due to a $1.55 billion net loss, $346.7 million of impairment charges, increased debt levels, and significant execution and integration uncertainty."
+}

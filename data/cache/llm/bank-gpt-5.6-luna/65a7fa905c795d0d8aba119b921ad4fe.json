@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "substantial tax benefits",
+    "estimates or judgments",
+    "estimated probable incurred losses",
+    "provided by other third-party sources"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, highlighting substantial improvement in asset quality, capital, earnings, and operating efficiency. However, reported earnings were materially boosted by the deferred tax valuation allowance reversal, while credit risk remained evident through elevated net charge-offs, classified-asset sales, loan-yield pressure, and reliance on subjective valuation and loss-estimation assumptions."
+}

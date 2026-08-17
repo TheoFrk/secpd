@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "subject to significant risks",
+    "could result in lower margins",
+    "additional completion costs may become necessary"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year operating, revenue, tax, pension, and backlog information, supporting relatively strong disclosure quality. However, extensive program-accounting judgments, technical complexity, supplier and certification dependencies, and potential schedule extensions or reach-forward losses create material execution and margin risk. Overall tone is cautiously positive, with risks acknowledged but framed within historical growth and strategic strengths."
+}

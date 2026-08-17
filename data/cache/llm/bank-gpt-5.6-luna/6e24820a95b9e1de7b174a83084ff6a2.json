@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "may not be indicative",
+    "non-U.S. GAAP measures",
+    "excluding foreign currency effects",
+    "items not representative of ongoing operations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear segment, currency, sales, earnings, and capital-spending data. Risk tone is moderately positive, emphasizing growth and financial strength, but relies on standard forward-looking disclaimers and adjusted measures that may complicate comparability. Key exposures include foreign exchange volatility, execution of capacity expansion, restructuring and impairment charges, and affiliate-related risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "including but not limited to",
+    "other operational, financial or legal risks",
+    "from time to time",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue mix, liquidity, cash flow, and capital allocation, supporting generally transparent disclosure. However, the extensive safe-h harbor language and broad, non-exhaustive risk references are boilerplate and limit specificity regarding potential impacts. The announced suspension of expected dividends for fiscal 2013 and part of fiscal 2014 is a notable negative capital-allocation signal despite solid reported liquidity and operating cash flow."
+}

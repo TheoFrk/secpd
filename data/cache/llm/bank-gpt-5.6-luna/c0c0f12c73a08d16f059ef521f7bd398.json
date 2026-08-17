@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "outside of our control",
+    "unless commodity prices decline significantly",
+    "we believe we have adequate liquidity",
+    "not fully covered by insurance"
+  ],
+  "risk_summary": "The disclosure is relatively specific and includes material liquidity, borrowing-base, covenant, cash-flow, and commodity-price figures. Risk tone is balanced but highlights substantial exposure to volatile commodity prices, potential impairment, borrowing-base reductions, covenant violations, and uninsured operating losses, while relying on standard forward-looking qualifications."
+}

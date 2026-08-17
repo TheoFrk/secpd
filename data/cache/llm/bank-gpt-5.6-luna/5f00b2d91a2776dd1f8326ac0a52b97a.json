@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "duration of the current downturn is uncertain",
+    "primarily due to",
+    "management believes",
+    "currently evaluating the impact",
+    "anticipated and actual outcomes may differ"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure of declining sales, margins, operating income, and elevated inventory levels amid an industry downturn. Risk is partly mitigated by detailed year-over-year metrics and cost-reduction targets, but uncertainty around downturn duration, tax matters, and future accounting impacts remains."
+}

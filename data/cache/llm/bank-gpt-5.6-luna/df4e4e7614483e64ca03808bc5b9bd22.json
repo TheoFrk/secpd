@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP components",
+    "what we believe to be appropriate",
+    "certain other amounts not allocated",
+    "subject to certain restrictions",
+    "continued pressure on charter rates"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with detailed fleet, utilization, lease-rate, investment, and segment-profit metrics. Risk is mixed: operating conditions improved and the outlook is stable, but lease-rate declines, lower revenue, market oversupply, impairment exposure, and substantial future railcar purchase commitments remain material concerns."
+}

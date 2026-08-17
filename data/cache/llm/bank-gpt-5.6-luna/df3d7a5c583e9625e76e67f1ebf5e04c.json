@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "substantial amount",
+    "primarily due to",
+    "other relevant factors",
+    "duplicated tax disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed year-over-year operating metrics and explanations for major changes. Risks include declining gross margins, reliance on sustained profitability to realize deferred tax assets, acquisition integration, historical losses, and an environmental remediation obligation. The overall tone is moderately positive due to sales growth, improved operating results, and released tax valuation allowances."
+}

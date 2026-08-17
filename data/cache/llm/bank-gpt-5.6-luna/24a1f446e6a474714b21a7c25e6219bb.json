@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "approximately 2,000 properties",
+    "we anticipate",
+    "patent-pending",
+    "could have an adverse effect",
+    "technologically developed roadmap"
+  ],
+  "risk_summary": "The excerpt provides some useful quantitative operating and expense data, but relies heavily on projections, approximate figures, promotional descriptions, and broad statements about future demand and technology growth. Key risks include hotel competition, occupancy and pricing sensitivity, operating-cost inflation, transaction fraud, merchant-of-record liability, and execution risk in shifting toward hospitality technology services."
+}

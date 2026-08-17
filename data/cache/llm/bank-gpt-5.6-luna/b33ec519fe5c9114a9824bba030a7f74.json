@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not possible to predict amount or timing",
+    "subject to uncertainties",
+    "significant judgments",
+    "interrelated assumptions",
+    "no sensitivity analysis"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified reserves, goodwill balances, impairment conclusions, and contractual obligations, but relies heavily on standard accounting-policy boilerplate and management projections. Environmental remediation, inventory recoverability, goodwill valuation, and impairment exposure remain sensitive to uncertain assumptions, with limited sensitivity disclosure."
+}

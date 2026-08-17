@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "unless successful in obtaining additional liquidity",
+    "no assurance of pension payments",
+    "forward-looking statement safe harbor",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and solvency risk, including insufficient cash for 12 months, defaults on notes and debentures, unfunded pension obligations, and a substantial doubt going-concern opinion. Although the text provides meaningful quantitative detail, extensive accounting-estimate and safe-harbor language introduces uncertainty around future outcomes."
+}

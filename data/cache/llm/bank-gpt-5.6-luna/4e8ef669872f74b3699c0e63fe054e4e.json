@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "without limitation",
+    "outside of our control",
+    "no assurance",
+    "does not undertake to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, including declining net income and net interest margin compression, while attributing changes largely to acquisitions and higher funding costs. Extensive forward-looking disclaimers and broad risk-factor lists are boilerplate and limit predictive clarity, but the disclosure does not indicate an immediate crisis."
+}

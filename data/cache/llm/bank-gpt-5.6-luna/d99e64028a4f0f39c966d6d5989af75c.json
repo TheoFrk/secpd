@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective estimates and approximations",
+    "when the opportunity arises",
+    "substantial marketable securities holdings",
+    "unrealized gain recorded",
+    "related-party banking relationship"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with strong operating performance, liquidity, and cash generation. However, earnings are materially influenced by marketable-securities income and unrealized gains, while receivables aging deteriorated and several accounting estimates involve management judgment. The related-party banking relationship and delegated investment management warrant monitoring."
+}

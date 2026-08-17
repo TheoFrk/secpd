@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "non-GAAP exclusions",
+    "management believes",
+    "reasonable assurance"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standardized safe-harbor, non-GAAP, and internal-control language, limiting direct insight into underlying risks. Debt, maturities, issuance activity, and leverage trends are quantified, with management presenting improving liquidity and coverage metrics in 2021. Non-GAAP adjustments and broad cautionary language may reduce comparability and obscure recurring operating performance."
+}

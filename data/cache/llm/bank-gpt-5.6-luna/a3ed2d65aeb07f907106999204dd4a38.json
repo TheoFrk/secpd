@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "non-GAAP measures",
+    "we believe",
+    "expect to continue to expand",
+    "certain reclassifications"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative, supported by quantified acquisition, geographic mix, market-rate, and revenue information. Disclosure complexity is high due to extensive segment terminology, non-GAAP measures, acquisition details, and forward-looking statements, while key risks include soft insurance markets, integration and financing exposure, and reliance on continued international growth."
+}

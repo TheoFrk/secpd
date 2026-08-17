@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "acceptable terms",
+    "variety of approaches",
+    "among other things",
+    "as we deem appropriate",
+    "we estimate"
+  ],
+  "risk_summary": "The disclosure is comparatively specific and quantitative, detailing portfolio concentration, lease expirations, counterparties, lenders, debt terms, acquisitions, dispositions, and operating drivers. It acknowledges tenant, leasing, retail e-commerce, refinancing, interest-rate, and covenant risks, but presents diversification and hedging as mitigating factors. Overall tone is cautiously confident rather than distressed, although some risk-management descriptions remain general."
+}

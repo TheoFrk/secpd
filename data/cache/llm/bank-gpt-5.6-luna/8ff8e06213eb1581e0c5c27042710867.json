@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "significant investment required",
+    "operational issues relating to ERP implementation",
+    "anticipated operating cash",
+    "sufficient to cover liquidity needs"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing sales, tax, capital expenditure, and geographic figures, but uses standard forward-looking caveats and qualitative expectations. Key risks include trade-policy uncertainty, Brexit-related weakness, competitive pricing pressure, ERP-related disruption, substantial investment needs, and potential lender remedies upon default. Management presents a mildly confident outlook and states that expected liquidity is sufficient for the next 12 months."
+}

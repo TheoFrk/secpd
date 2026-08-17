@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "estimated contractual adjustments",
+    "estimated net realizable amounts",
+    "probable that a significant reversal will not occur",
+    "typically",
+    "not measures of financial performance under GAAP"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, describing clinic scale, acquisitions, revenue categories, and operating costs. Risk disclosure is embedded in complex accounting terminology and relies on management estimates for reimbursement, collectibility, and variable consideration. The tone is moderately confident, although acquisition integration, reimbursement uncertainty, and a prior clinic closure following loss of a significant management contract are relevant risks."
+}

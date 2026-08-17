@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad range of financial services",
+    "depending on market conditions",
+    "modest decline in provision",
+    "nonoperating in nature",
+    "stable customer deposit base"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with clear disclosure of assets, earnings drivers, credit-loss provisions, funding, acquisitions, and capital actions. Risk is moderate and mixed: net interest income and margin declined due to funding-cost pressure, while commercial real estate credit performance improved and deposits remained broadly stable. Some boilerplate descriptions and conditional language modestly limit specificity, but there is little evidence of deliberate obfuscation."
+}

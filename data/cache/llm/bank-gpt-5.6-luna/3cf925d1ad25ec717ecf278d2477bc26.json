@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "we believe",
+    "we expect",
+    "until oil prices increase and remain higher",
+    "continue to evaluate cost structure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on tax charges, refinancing, storm impacts, segment results, and the prolonged effects of low oil prices. Risk tone is moderately negative because demand, margins, customer order predictability, and operating efficiency remain pressured, although management emphasizes cost reductions, refinancing benefits, and stabilization. Forward-looking statements rely on uncertain oil-price recovery and customer activity levels."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "primarily due to",
+    "significant judgment and estimates",
+    "good faith by management",
+    "acquired loans with no allowance"
+  ],
+  "risk_summary": "The excerpt presents quantified, generally favorable operating performance, capital levels, loan growth, and asset quality, but emphasizes non-GAAP measures and acquisition-driven results. Key credit and valuation risks depend on management estimates, fair-value models, acquired-loan credit assumptions, and future events; the critical accounting discussion is also truncated."
+}

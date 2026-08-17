@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "not limited to these factors",
+    "material loss neither probable nor estimable",
+    "future market factors beyond control",
+    "all factors susceptible to significant change"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance and balance-sheet data, but credit-loss estimation relies heavily on subjective assumptions, broad economic factors, and management judgment. Litigation exposure and potential COVID-19-related cost and credit deterioration are disclosed, though the loss estimate is characterized as neither probable nor estimable."
+}

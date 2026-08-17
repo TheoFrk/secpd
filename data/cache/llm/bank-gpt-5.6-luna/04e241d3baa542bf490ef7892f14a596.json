@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "adjusted diluted EPS excludes special items",
+    "highly variable and difficult to predict",
+    "expects continued variability in gains",
+    "factors described in Item 1A",
+    "supplemental in nature, not a substitute"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively grounded, including EPS guidance and identified drivers, but it emphasizes adjusted non-GAAP results that exclude potentially material recurring or volatile items. Key uncertainties include tobacco volume pressure, litigation and settlement effects, tax matters, and variability in PMCC asset-sale gains."
+}

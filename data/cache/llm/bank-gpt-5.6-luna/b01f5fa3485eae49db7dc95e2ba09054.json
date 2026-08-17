@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may adversely affect",
+    "could have a negative impact",
+    "subject to economic and market uncertainties",
+    "values estimated by management may not be realized",
+    "judgments and methodologies materially impact valuation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on the portfolio, geographic exposure, development pipeline, and operating structure. Its risk discussion is largely standard conditional language, emphasizing refinancing, valuation, leasing, impairment, and development risks without quantifying potential impact or probability. Overall tone is cautious and mildly negative, but not indicative of an immediate crisis."
+}

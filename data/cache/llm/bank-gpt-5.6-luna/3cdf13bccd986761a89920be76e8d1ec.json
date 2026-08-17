@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "foreseeable future",
+    "primarily due to",
+    "almost entirely",
+    "expected business requirements",
+    "contractual obligations table omitted"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with segment-level sales, margin, debt, and cash flow information. Risk factors include weaker volumes in Lawn and Garden and Distribution, higher debt from acquisitions, elevated tax expense, and reliance on available borrowing, although covenant compliance and liquidity are presented positively. The excerpt is truncated and omits the referenced covenant ratios and contractual obligations details."
+}

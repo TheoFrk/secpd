@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significantly in excess",
+    "typically",
+    "primarily due to",
+    "historical and forecasted trends",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but relies on management judgments, historical loss assumptions, and broad assertions regarding collateral values and inventory recoverability. Rising lease-loss allowances and provisioning rates indicate emerging credit-performance pressure, although the tone attributes increases mainly to portfolio growth and remains controlled rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "unable to reasonably estimate",
+    "foreseeable future",
+    "other sources of long-term financing",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including claims accruals, prepaid insurance, revenue, operating ratios, capital commitments, and debt obligations. Key risks include actuarial uncertainty in self-insured claims, supplier performance, tax contingencies, driver and carrier market constraints, and the need to refinance or repay 2014 maturities. Liquidity and covenant compliance are presented confidently, but reliance on future financing sources remains a credit consideration."
+}

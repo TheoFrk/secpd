@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance of continued operations",
+    "dependent on additional capital",
+    "non-operating income",
+    "reduction or forgiveness of debt",
+    "forward-looking statements and uncertainties"
+  ],
+  "risk_summary": "The company has no operating revenue, remains in the product development stage, and depends on interim financing, asset sales, equity issuance, and related-party borrowings to fund operations. Reported net income is largely driven by nonrecurring asset sales, debt forgiveness, and other adjustments, while unpaid officer compensation and missed creditor payments indicate severe liquidity and going-concern risk. The disclosure is relatively well quantified but includes substantial reliance on caveats and forward-looking uncertainty."
+}

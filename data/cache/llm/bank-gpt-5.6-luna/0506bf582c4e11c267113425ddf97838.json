@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP measures and limitations",
+    "Managed Accessibility",
+    "financial covenant compliance",
+    "transformation plan expectations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but uses substantial technical terminology and promotional language around the transformation strategy and capital investment plans. Liquidity appears constrained relative to reported cash, with very limited managed ABL availability, substantial letters of credit, leverage-related covenant focus, and exposure to operating pressures such as COVID-19, labor shortages, and higher interest expense."
+}

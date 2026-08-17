@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.03,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "including but not limited to",
+    "may persist longer than expected",
+    "unprecedented scalability and cost savings",
+    "management assumptions and analysis"
+  ],
+  "risk_summary": "The disclosure provides useful quantified information on cash, inventory reserves, debt repayment, borrowings, and cash-flow changes, but relies heavily on broad risk lists, forward-looking qualifiers, and management assertions. Risk tone is mixed: strategic growth expectations are offset by customer spending slowdowns, financing and supply-chain uncertainty, foreign-currency exposure, inventory obsolescence, and potential tax or liquidity impacts."
+}

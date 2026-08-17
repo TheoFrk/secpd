@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and unknown risks",
+    "qualified in their entirety by cautionary statements",
+    "significant judgment and estimates",
+    "susceptible to significant change",
+    "substantial pool of nonperforming loans"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, balance-sheet growth, capital, and credit metrics, but includes extensive standard forward-looking disclaimers and judgment-based accounting language. Credit risk remains material, reflected in elevated nonperforming assets, lost interest income, charge-offs, and reliance on estimates for loan-loss allowances and investment impairments. Overall performance and regulatory capital are presented positively, though improvement is partly offset by persistent troubled-loan exposure and increased long-term debt."
+}

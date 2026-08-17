@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "uncertain and difficult to predict",
+    "not currently possible to ascertain or predict",
+    "may in the future be impacted",
+    "many factors can affect",
+    "difficult to predict timing and costs"
+  ],
+  "risk_summary": "The disclosure is substantially quantified regarding milestones, approvals, and certain expenses, but relies on extensive conditional language for COVID-19 effects, clinical-trial execution, regulatory outcomes, and development costs. The overall tone is cautiously positive, supported by multiple product approvals and commercial milestones, while acknowledging material operational and development uncertainties."
+}

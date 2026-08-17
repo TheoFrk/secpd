@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "substantial risks and uncertainties",
+    "assuming sufficient financing",
+    "long-term capital solutions evaluated",
+    "not yet finalized"
+  ],
+  "risk_summary": "The excerpt discloses severe liquidity, going-concern, operational, governance, and financing risks, including minimal cash, no significant revenue, negative equity, a $9.46 million impairment, and reliance on external funding. Quantitative disclosures are substantial, but extensive boilerplate disclaimers and optimistic conditional language partially dilute the severity of the risks. The overall tone is strongly distressed despite management’s claims regarding technology potential and market opportunities."
+}

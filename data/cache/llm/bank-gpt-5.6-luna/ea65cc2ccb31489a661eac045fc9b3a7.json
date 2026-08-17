@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot estimate potential impact",
+    "strategic alternatives",
+    "unapproved investment programs",
+    "we cannot predict the outcome",
+    "materially adversely impacted"
+  ],
+  "risk_summary": "The disclosure is generally specific and heavily quantified, particularly regarding planned investments, rate recovery, and asset programs. However, it relies on forward-looking qualifiers and unresolved regulatory, commodity-price, pandemic, and plant-eligibility contingencies that could materially affect results."
+}

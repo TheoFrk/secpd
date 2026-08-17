@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "best estimate of selling price",
+    "unable to reliably determine",
+    "continued weakness and softness",
+    "marketing-heavy growth claims"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative, but includes material caution around market weakness, foreign exchange effects, acquisitions, deferred revenue impacts, and accounting estimates. Revenue recognition disclosures are technically detailed yet highly complex and rely on judgment-based measures such as BESP where objective pricing evidence is unavailable."
+}

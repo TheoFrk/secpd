@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "uncertain severity and duration",
+    "cannot accurately predict",
+    "without unreasonable efforts",
+    "non-GAAP measures exclude charges"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and extensive non-GAAP explanations that may reduce comparability and clarity. COVID-19 created material operational and demand uncertainty, but the company reports resumed operations, strong retail demand, improved dealer activity, and quantified tax deferrals and credits. Risk tone is mixed, with cautiously positive operating commentary offset by uncertainty regarding the pandemic’s continuing effects."
+}

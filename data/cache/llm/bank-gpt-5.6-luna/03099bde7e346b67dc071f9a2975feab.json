@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.24,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "disclosure deferred to separate report",
+    "boilerplate cross-reference",
+    "duplicated \"this\""
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A analysis, instead directing readers to another filing exhibit. This limits transparency within the current filing and prevents assessment of liquidity, operating results, and material risks from the excerpt alone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "estimates, judgments, and assumptions",
+    "not expected to incur in future periods",
+    "significant estimation of future revenue streams",
+    "related-party disposal and debt settlement"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified but includes substantial boilerplate and relies on management estimates, particularly for impairment and lease valuation. Underlying operating performance deteriorated to a loss, operating cash flow turned negative, and the reported net income was materially supported by a property-disposal gain and tax reversals. Debt defaults, penalties, related-party transactions, and significant long-term lease obligations indicate elevated credit risk."
+}

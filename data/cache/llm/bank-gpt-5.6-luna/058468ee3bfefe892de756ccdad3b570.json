@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally in line",
+    "expected to",
+    "difficult to gauge",
+    "selective approach",
+    "best estimate of probable losses"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively detailed, reporting extensive earnings, credit-quality, loan-growth, capital, and acquisition metrics. Tone is broadly confident and favorable, with strong credit-quality indicators, although reliance on expectations and management judgments—particularly for loan-loss estimates and the FCB integration—introduces moderate uncertainty."
+}

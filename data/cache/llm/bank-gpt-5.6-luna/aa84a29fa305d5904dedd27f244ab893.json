@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted diluted earnings per share",
+    "meaningful long-term shareholder value",
+    "we believe we are well-positioned",
+    "assumptions regarding future cash flows",
+    "not contemplated in the Company’s business outlook"
+  ],
+  "risk_summary": "The disclosure is largely quantified and transparent, including sales, earnings, cash flow, buybacks, dividends, and the $2.5 billion Canadian business disposal costs. Risk is elevated by declining comparable sales and net earnings and by substantial impairment and disposal charges, although management presents a confident strategic outlook. Non-GAAP adjustments and extensive valuation assumptions could soften the apparent deterioration in underlying performance."
+}

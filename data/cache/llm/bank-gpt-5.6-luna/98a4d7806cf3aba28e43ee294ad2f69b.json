@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "may adversely impact",
+    "including but not limited to",
+    "subject to risks",
+    "different than anticipated"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking risk disclosures covering macroeconomic, credit, liquidity, regulatory, operational, cybersecurity, and acquisition risks, with limited company-specific quantification of potential impacts. The MD&A portion provides useful historical expense and income figures, but the overall presentation is highly dense and risk-heavy rather than clearly directional."
+}

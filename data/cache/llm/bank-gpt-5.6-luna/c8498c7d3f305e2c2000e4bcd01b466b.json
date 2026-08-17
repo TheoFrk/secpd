@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "underlying trends",
+    "foreign currency translation",
+    "political and economic turmoil",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear year-over-year sales, margin, and earnings metrics. The tone is predominantly positive, although foreign-exchange effects, oil-and-gas weakness, regional political and economic turmoil, and manufacturing restructuring indicate moderate operating risk. Extensive non-GAAP presentation and repetitive reconciliation language may somewhat obscure GAAP performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.11,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "among other things",
+    "materially impact earnings",
+    "qualitative assessment",
+    "carrying amount exceeds its fair value"
+  ],
+  "risk_summary": "The disclosure is highly quantified but indicates substantial deterioration, including a 97% decline in pretax income, rising technology-related expenses, and expected significant declines in print-based earnings. Revenue concentration in legally mandated public notices creates material exposure to foreclosure trends, regulatory changes, and newspaper adjudication challenges. Acquisition financing is secured by marketable securities, while goodwill, tax outcomes, and deferred project revenue introduce additional judgment and execution risks."
+}

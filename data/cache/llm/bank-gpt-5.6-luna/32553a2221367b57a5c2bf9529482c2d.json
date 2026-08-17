@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "reasonable expectation of adequate working capital",
+    "no assurance of refinancing",
+    "debt in default or under forbearance",
+    "uncertainty remains related to future operating margins",
+    "may have to consider filing bankruptcy"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but presents material liquidity and credit risks, including current debt of $39.4 million, defaults or expired forbearance arrangements, working-capital deficits, and reliance on an affiliate. Management cites ongoing profitability and operating cash flow, but refinancing and continued operations remain uncertain, with potential bankruptcy or cessation of operations identified as contingencies."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future adverse effects",
+    "impact to be ascertained",
+    "significant business change disclaimer",
+    "relative fair value allocation",
+    "continuation of broad economic trends"
+  ],
+  "risk_summary": "The disclosure is detailed and frequently quantified, but its dense accounting explanations and reliance on forward-looking qualifiers complicate assessment of underlying risk. Material risks include goodwill impairment, restructuring costs, healthcare pricing and excise-tax exposure, weak macroeconomic conditions, constrained credit, and reduced hospital demand."
+}

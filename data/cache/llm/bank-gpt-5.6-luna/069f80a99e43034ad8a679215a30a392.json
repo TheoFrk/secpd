@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "primarily due to",
+    "essentially flat",
+    "may differ materially",
+    "dynamic state and shifting resources"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, but includes substantial standard cautionary language and several qualitative explanations for revenue and expense changes. Key risks include declining total revenue, dependence on milestone and partner payments, clinical-development cost estimation uncertainty, and shifting pipeline resource allocation. Overall tone is cautiously constructive, emphasizing launches and pipeline progress despite operational and forecasting uncertainty."
+}

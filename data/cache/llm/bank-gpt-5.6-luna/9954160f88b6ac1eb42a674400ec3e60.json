@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance expectations will prove correct",
+    "risk factors may not be exhaustive",
+    "cannot predict new risk factors",
+    "no precise method for evaluating reserve adequacy",
+    "significantly different results from small assumption changes"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, including $3.1 billion of gross loss reserves and $214.1 million of deferred acquisition costs, and describes the reserving process in detail. However, extensive forward-looking safe-harbor language and repeated uncertainty disclaimers limit predictive clarity. Reserve adequacy is exposed to material actuarial, environmental, litigation, reinsurance, and macroeconomic uncertainties, with no meaningful environmental loss range provided."
+}

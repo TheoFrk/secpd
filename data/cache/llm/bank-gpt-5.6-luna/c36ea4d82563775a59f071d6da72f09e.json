@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "approximately",
+    "projects still under final evaluation",
+    "broad-based capital spending declines"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, including revenue drivers, earnings declines, workforce reductions, restructuring investment, and expected savings. Risk tone is moderately negative due to oil and gas weakness, pricing pressure, currency effects, geopolitical conditions, deferred customer spending, and a stated expectation that the adverse environment will persist. Some forward-looking claims rely on estimates and assumptions, particularly regarding restructuring costs, workforce reductions, and run-rate savings."
+}

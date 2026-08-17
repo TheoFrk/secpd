@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "Adjusted EBITDA non-GAAP measure",
+    "subject to certain adjustments",
+    "discontinued operations"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, particularly regarding acquisitions, operating assets, tax benefits, and discontinued operations. Boilerplate forward-looking language and prominent reliance on Adjusted EBITDA introduce moderate disclosure and comparability risks, while discontinued operations and acquisition-related adjustments warrant attention."
+}

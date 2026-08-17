@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot assure adequate production levels",
+    "variability cannot be fully anticipated",
+    "limited number of sources",
+    "may be negatively impacted",
+    "subject to weather and environmental events"
+  ],
+  "risk_summary": "The disclosure is generally quantified and candid about operational dependencies, including weather, water availability, production volumes, supply-chain constraints, customer concentration, and COVID-19 effects. Results show modest sales growth but weaker packaged sales and gross margins, while several forward-looking risks are described using broad conditional language."
+}

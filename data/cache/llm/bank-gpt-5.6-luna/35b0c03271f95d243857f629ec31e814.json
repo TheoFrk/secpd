@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances can be given",
+    "cannot predict the outcome",
+    "if and when implemented",
+    "partially offset by",
+    "subject to pending recovery"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but presents material regulatory, insurance-recovery, storm-damage, environmental, and market risks with several unresolved outcomes. Tone is balanced and moderately confident, emphasizing investment benefits while using conditional language around cost recovery, regulatory actions, and insurance claims. The extracted passage contains apparent omissions and truncated financial explanations that reduce interpretive clarity."
+}

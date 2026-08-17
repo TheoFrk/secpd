@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.03,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to uncertainty",
+    "cannot provide assurance",
+    "may be revised",
+    "anticipated further guidance",
+    "management’s informed estimates"
+  ],
+  "risk_summary": "The excerpt clearly identifies material insurance, catastrophe, investment, tax, and reserve-estimation risks, with some quantified amounts but limited scenario analysis or sensitivity ranges. Reserve adequacy and investment valuations rely heavily on subjective actuarial judgments, external developments, and assumptions that may change materially."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "may be required",
+    "did not know how facilities would fare",
+    "waiting for governmental approval",
+    "plans to proceed after planning finalized"
+  ],
+  "risk_summary": "The disclosure identifies substantial regulatory, environmental, operational, and permitting risks, including repeated facility closures, relocation requirements, suspended trial production, and unresolved approvals. Although it provides numerous dates and operational details, outcomes remain dependent on government decisions and management expectations, with limited quantified financial impact. The overall tone is materially risk-negative and reflects ongoing execution and compliance uncertainty."
+}

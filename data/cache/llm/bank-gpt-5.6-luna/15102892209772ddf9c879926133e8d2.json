@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "circumstances continue to change at a rapid pace",
+    "attempts to maintain its net interest margin",
+    "may experience some decline",
+    "inherent risk of lending",
+    "other conditions that affect ability to repay debt"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantifies assets, deposits, loan balances, PPP activity, deferrals, lending authorities, and net interest margin trends. Key risks include COVID-19-related borrower stress, credit deterioration, interest-rate repricing, funding dependence on deposits and Federal Home Loan Bank borrowings, and declining margins. The tone is operationally confident but acknowledges meaningful downside sensitivity and uses some broad, non-quantified risk language."
+}

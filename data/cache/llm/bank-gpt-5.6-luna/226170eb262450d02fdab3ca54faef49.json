@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "we believe to be reasonable",
+    "no significant changes",
+    "returns ... are rare",
+    "primarily the discounted cash flow method"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes quantified receivables, allowances, commitments, lease obligations, credit concentration, and debt covenants. Risk is moderated by management’s compliance and lack of revolver borrowings, but reliance on estimates, customer concentration, impairment assumptions, and potentially material collection failures remain relevant credit risks."
+}

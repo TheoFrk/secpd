@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe to be reasonable",
+    "from time to time",
+    "inherently uncertain",
+    "may change our original assessment",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and includes substantial quantitative detail on portfolio composition, tenants, leverage characteristics, and accounting policies. Risk disclosure is embedded in standard MD&A and technical GAAP language, with notable uncertainty around capital-market access, estimates, VIE consolidation, tax positions, and future outcomes. Overall tone is confident and strategically positive, but not free of financial and operational risk signals."
+}

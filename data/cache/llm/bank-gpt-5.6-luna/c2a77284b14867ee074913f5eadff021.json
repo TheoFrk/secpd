@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance of sufficient sales",
+    "additional funding ... if at all",
+    "reasonable but subjective assumptions",
+    "future events ... may lead to cost increases",
+    "revenue fluctuations and customer dependence"
+  ],
+  "risk_summary": "The company is development-stage, has minimal commercial revenue relative to expenses, significant cash use, and relies on equity financing and related-party advances to fund operations. Management explicitly identifies substantial uncertainty around funding, sales growth, operating costs, revenue consistency, and subjective valuation estimates, while a $3.555 million goodwill impairment signals prior asset-value deterioration."
+}

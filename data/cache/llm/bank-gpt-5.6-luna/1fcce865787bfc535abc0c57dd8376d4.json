@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expects 2014",
+    "outside the control of management",
+    "future conditions"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed operational, financial, reserve, pricing, and derivative information, limiting overall vagueness. Risk tone is moderately positive due to production, reserve, and earnings growth, but commodity-price volatility, impairment sensitivity, development execution, and reliance on forward pricing remain material risks."
+}

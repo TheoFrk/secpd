@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "full impact remains unknown",
+    "could lead to",
+    "expected to continue",
+    "various factors",
+    "foreseeable future"
+  ],
+  "risk_summary": "The disclosure identifies substantial exposure to volatile commodity prices, offshore energy spending, contract renewals, inflation, supply-chain disruption, workforce constraints, and COVID-19 effects. It provides some useful operational and cash-flow quantification, but relies heavily on forward-looking and conditional language regarding recovery, contract demand, margin protection, and long-term fundamentals. Debt repayments and approximately $31 million of undiscounted decommissioning obligations create additional liquidity considerations."
+}

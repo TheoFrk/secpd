@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily as a result of",
+    "to a lesser extent",
+    "typically do not materially change",
+    "subject to judgment",
+    "forecasted sales demand versus actual demand"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with clear discussion of acquisition costs, margin pressure, working-capital changes, and inventory assumptions. Risk tone is mildly positive due to improving demand and expected growth, but reliance on forecasts, product reclassifications, distributor credits, and acquisition-related effects introduces moderate uncertainty."
+}

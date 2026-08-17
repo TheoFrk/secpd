@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "anticipated slowdown",
+    "not ramping up as rapidly as anticipated",
+    "potential impact of macroeconomic uncertainty",
+    "we believe we are well positioned",
+    "sufficient liquidity for expected future operations"
+  ],
+  "risk_summary": "The disclosure is relatively precise and transparent, with extensive revenue, margin, liquidity, customer concentration, and operational metrics. Key risks include declining orders from large customers, delayed program ramp-ups, customer concentration, and sensitivity to product mix, utilization, pricing, and material costs. Management maintains a generally confident tone, supported by positive cash flow and debt repayment, but relies on forward-looking assumptions regarding growth and liquidity."
+}

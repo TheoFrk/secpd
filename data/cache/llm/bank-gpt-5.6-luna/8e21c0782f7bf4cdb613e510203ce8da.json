@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance of financing availability",
+    "subjective estimates and judgments",
+    "based on various assumptions",
+    "customary conditions",
+    "actual results could differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, covering portfolio metrics, transactions, debt maturities, pricing, and liquidity availability. Key risks include tenant payment dependence, refinancing and financing availability, leverage-sensitive borrowing costs, and management estimates affecting earnings. The tone is broadly constructive but appropriately acknowledges funding and estimation uncertainties."
+}

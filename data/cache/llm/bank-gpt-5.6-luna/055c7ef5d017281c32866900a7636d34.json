@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking information and risks",
+    "additional risks not presently aware",
+    "could suffer if concerns realized",
+    "expected to begin operations",
+    "could lead to construction"
+  ],
+  "risk_summary": "The excerpt is generally quantitatively detailed, reporting revenue, earnings, expenses, customer counts, sales volumes, and project metrics. Risk disclosure relies partly on standard forward-looking disclaimers and conditional language around regulatory matters, industrial customer projects, commodity exposure, and construction outcomes. Overall tone is moderately positive, supported by improved earnings and operating performance, but includes meaningful execution and demand uncertainties."
+}

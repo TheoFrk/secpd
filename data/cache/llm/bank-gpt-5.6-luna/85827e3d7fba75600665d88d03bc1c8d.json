@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "unobservable inputs (Level 3)",
+    "future earnings estimates",
+    "we believe",
+    "contingent commissions"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively detailed, with strong historical growth and positive 2016 operating trends. Key risks include reliance on acquisitions, exposure to premium rates and customer exposure units, uncertain contingent commissions, and Level 3 earn-out valuations based on future performance. The overall tone is confident but includes standard forward-looking and market-dependent caveats."
+}

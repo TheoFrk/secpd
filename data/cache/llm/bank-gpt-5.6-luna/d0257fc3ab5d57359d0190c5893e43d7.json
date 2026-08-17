@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "largely attributable to",
+    "primarily due to",
+    "may not be comparable",
+    "uncertain if or when",
+    "out of period adjustment"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, but reports declining same-store sales, lower credit revenue, margin compression, and higher SG&A as a percentage of sales. Risk explanations rely occasionally on broad attribution language and include an out-of-period tax adjustment and uncertain tax-benefit settlement timing."
+}

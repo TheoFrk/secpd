@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "plans to build",
+    "if any borrowing availability",
+    "future plans"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantitative capacity, project, debt, and liquidity information, but relies on standard forward-looking disclaimers and aspirational project language. The very low current ratio of 0.08, increased interest expense, reliance on additional borrowing, and ongoing construction delays indicate significant liquidity and execution risk despite an optimistic growth-oriented presentation."
+}

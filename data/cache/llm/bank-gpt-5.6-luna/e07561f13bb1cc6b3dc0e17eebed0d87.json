@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP supplemental measure",
+    "could be materially affected",
+    "subject to change in subsequent periods",
+    "extensive cross-references",
+    "fair-value derivative volatility"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides detailed causal explanations, but its complexity and reliance on non-GAAP measures and extensive cross-references may hinder accessibility. Risk tone is moderately negative due to substantial net losses, a $3.775 billion derivative loss, and sensitivity of reserves, depletion, and results to commodity prices and assumptions."
+}

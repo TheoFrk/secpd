@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not able to provide any assurances",
+    "future outlook remains uncertain",
+    "expected to provide a satisfactory financial return",
+    "seeking to avoid undue credit risk",
+    "reasonable time frame"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including acquisition effects, deposit growth, credit provisions, liquidity, and capital metrics, but contains standard forward-looking caveats around COVID-19, macroeconomic conditions, and loan repayment. Risk tone is cautiously constructive, supported by stated asset-quality improvements and deposit growth, while elevated liquidity, lower net interest margin, acquired non-core funding, and uncertainty around credit performance remain relevant concerns."
+}

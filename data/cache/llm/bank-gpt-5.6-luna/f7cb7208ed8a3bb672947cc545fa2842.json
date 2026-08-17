@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "cannot guarantee future results",
+    "no duty to update",
+    "some, but not all, factors",
+    "long-term prospects should remain good"
+  ],
+  "risk_summary": "The disclosure uses extensive forward-looking safe-harbor language and broad, largely unquantified claims about macroeconomic, supply-chain, geopolitical, and market conditions. The operating discussion is cautiously positive, citing profitability, liquidity, and improving conditions, while acknowledging material external risks. Accounting-policy sections are technically detailed but highly complex and include standard boilerplate limitations."
+}

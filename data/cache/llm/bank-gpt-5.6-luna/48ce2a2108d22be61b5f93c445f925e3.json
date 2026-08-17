@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.65,
+  "complexity_score": 0.35,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to external pages",
+    "no substantive discussion",
+    "boilerplate disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and defers entirely to another document. This limits transparency and prevents assessment of liquidity, operating results, or emerging risks from the excerpt alone."
+}

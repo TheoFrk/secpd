@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurances can be given",
+    "many factors beyond our control",
+    "non-GAAP measures with inherent limitations",
+    "may have an impact on sales"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and legal disclaimer language, with limited quantified discussion of operating risks in the provided section. Liquidity appears favorable, including zero bank debt and reported cash covenant compliance, but future cash flow, dividend obligations, customer demand, inflation effects, and execution remain uncertain."
+}

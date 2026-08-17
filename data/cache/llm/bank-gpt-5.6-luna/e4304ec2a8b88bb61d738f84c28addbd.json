@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.38,
+  "risk_sentiment": -0.05,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "boilerplate MD&A heading"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial analysis and redirects readers to another document. This limits transparency within the filing and prevents assessment of liquidity, operating performance, or emerging risks from the excerpt alone."
+}

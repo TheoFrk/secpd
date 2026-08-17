@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "generally cancelable on short or no notice",
+    "management judgments and estimates",
+    "not expected to differ significantly",
+    "qualitative assessment",
+    "truncated impairment disclosure"
+  ],
+  "risk_summary": "The excerpt presents a generally confident business narrative and provides useful detail on acquisitions, debt terms, covenants, and revenue recognition. Key risks include cancellable subscription contracts, judgment-heavy revenue allocation and impairment testing, variable-rate borrowing, and reliance on cash from operations for capital expenditures. The excerpt is incomplete and contains substantial boilerplate and technical accounting language, limiting assessment of full operating and liquidity risks."
+}

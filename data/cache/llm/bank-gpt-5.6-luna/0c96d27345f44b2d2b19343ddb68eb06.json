@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "generally non-recurring in nature",
+    "management believes",
+    "estimates or judgments",
+    "internal cash flow modeling techniques"
+  ],
+  "risk_summary": "The disclosure is highly quantified and presents an overall improving credit and capital profile, including lower nonperforming assets and loan-loss provisions. However, repeated emphasis on non-GAAP measures and management estimates introduces comparability and valuation uncertainty, while declining loan yields and fee revenue indicate some earnings pressure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.71,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "assumptions, risks, and uncertainties",
+    "no undertaking to update",
+    "actively monitoring",
+    "future disruption remains uncertain"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on PPP lending, revenue, expenses, capital, and pandemic-related costs, but is interspersed with extensive boilerplate forward-looking disclaimers and broad monitoring language. Risk tone is cautiously confident, emphasizing capital adequacy and operational continuity while acknowledging COVID-19, credit-loss, market, liquidity, and service-disruption risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Non-GAAP adjusted earnings exclusions",
+    "Management-defined segment operating profit",
+    "Broad claims of achievable growth",
+    "Boilerplate strategic positioning",
+    "Incomplete excerpt and truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes quantified charges, debt costs, capacity expansion, and segment-specific operating commentary. Risk tone is cautiously positive, but challenging agricultural markets, Omega-3 overcapacity, acquisition integration costs, environmental charges, currency effects, and substantial use of adjusted measures indicate meaningful operating and reporting risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "differ materially",
+    "does not undertake to update",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is largely transparent and quantitatively detailed, with strong earnings, profitability, and capital-ratio improvements disclosed. Risk language is primarily standardized forward-looking disclaimer text, while identified exposures include economic conditions, interest rates, liquidity, regulation, credit losses, and competition."
+}

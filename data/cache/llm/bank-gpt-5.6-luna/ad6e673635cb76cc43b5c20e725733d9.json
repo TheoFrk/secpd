@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "may materially differ",
+    "assumes no obligation to update",
+    "among other things"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative data on sales, margins, cash flow, inventory sensitivity, credit capacity, and covenant compliance, but relies heavily on broad forward-looking disclaimers and generalized risk language. Operating risk is elevated by declining industry demand, customer over-inventory, price competition, supplier dependence, inventory obsolescence, and reliance on financing availability. Liquidity appears favorable at the reporting date, with no credit-line borrowings and positive cash generation."
+}

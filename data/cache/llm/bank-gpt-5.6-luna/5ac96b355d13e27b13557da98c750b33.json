@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subject to BPU approval",
+    "estimates and assumptions",
+    "probable recovery",
+    "significant change in pricing assumptions"
+  ],
+  "risk_summary": "The excerpt is largely technical and boilerplate, with substantial reliance on regulatory approvals, management estimates, and fair-value assumptions. Key exposures include potential disallowance of regulatory assets, commodity-price volatility, derivative valuation changes, and tax or acquisition-related judgment. Quantified amounts and accounting treatment provide meaningful specificity, but the excerpt is truncated and does not fully quantify downside scenarios."
+}

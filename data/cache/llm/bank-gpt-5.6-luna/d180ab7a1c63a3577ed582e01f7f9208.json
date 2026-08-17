@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "difficult to predict",
+    "not a reasonable likelihood",
+    "tables and disclosures truncated"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on revenue declines, salon closures, cost reductions, impairment charges, and tax valuation allowances. Risk is elevated by shrinking franchise and company-owned salon counts, potential future impairment losses, and reliance on estimates, although the asset-light transition and expense reductions are presented as mitigating factors."
+}

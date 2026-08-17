@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no intent or obligation to update",
+    "most significant factors influencing operations",
+    "future benefit to us",
+    "not going to affect our liquidity"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on capital spending, financing, cash flows, debt, and preferred-stock liquidation preferences, but relies on broad projections regarding commodity prices, production, and future financing. Risk is moderate because operations depend on antimony prices, Mexico facility execution, operating cash flow, and external capital, while management presents liquidity and preferred-stock obligations confidently without extensive sensitivity analysis."
+}

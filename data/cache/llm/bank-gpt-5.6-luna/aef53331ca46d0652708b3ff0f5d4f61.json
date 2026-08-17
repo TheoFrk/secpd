@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subjective estimates and judgments",
+    "believes ... relatively stable revenue flows",
+    "actual results could differ",
+    "various other assumptions",
+    "but not limited to covenants"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on properties, leverage, interest rates, maturities, and covenant compliance, but relies on standard estimates and assumptions that could materially affect reported results. Key risks include tenant payment capacity, real estate valuation and impairment judgments, leverage, refinancing, interest-rate exposure, and covenant default or acceleration. Overall tone is cautiously positive, supported by portfolio stability claims and stated covenant compliance."
+}

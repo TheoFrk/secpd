@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-haven boilerplate",
+    "numerous assumptions, risks and uncertainties",
+    "unable to fully assess or predict",
+    "currently unknown and/or beyond our control",
+    "significant volatility could continue"
+  ],
+  "risk_summary": "The disclosure presents substantial pandemic-related uncertainty, including potential effects on customers, credit losses, fee income, operations, and economic recovery, while relying heavily on standard forward-looking-statement disclaimers. Quantified credit-loss and fair-value data provide useful specificity, and management reports no material resource constraints, but the outlook remains cautious and materially dependent on external factors."
+}

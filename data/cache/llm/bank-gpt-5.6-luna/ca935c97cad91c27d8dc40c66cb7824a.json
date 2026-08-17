@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "strong platform",
+    "well positioned",
+    "no assurances",
+    "future results could be negatively affected"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, reporting strong growth in orders, revenue, margins, cash flow, and return on inventory. Its tone is optimistic but includes meaningful exposure to affordability pressures, rising mortgage rates, economic weakening, cancellations, and market-specific variability. Some strategic claims rely on forward-looking, non-assured language and generalized competitive-position assertions."
+}

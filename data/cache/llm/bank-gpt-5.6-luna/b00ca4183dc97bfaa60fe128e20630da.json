@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "beyond our control",
+    "no obligation to update",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt uses substantial standard safe-harbor and accounting-policy language, with repeated disclaimers and limited discussion of forward-looking outcomes. It identifies meaningful estimation, collectability, market concentration, and technology-adoption risks, while providing some useful quantitative lease, liquidity, and equity data. The tone is cautious rather than crisis-like, but the disclosure does not establish a strongly confident outlook."
+}

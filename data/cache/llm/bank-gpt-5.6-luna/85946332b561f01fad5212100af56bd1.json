@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to quantify possible effects",
+    "cannot be certain",
+    "may materially impact",
+    "highly uncertain environment",
+    "if no mitigation steps are taken"
+  ],
+  "risk_summary": "The disclosure provides useful quantified sales and customer-concentration data, but relies heavily on broad forward-looking caveats and conditional language regarding tariffs, COVID-19, supply-chain disruption, and demand. Risk exposure is meaningful due to 90.5% sales concentration in three customers, sole manufacturing reliance on China, rising freight and component costs, and limited ability to quantify potential tariff impacts."
+}

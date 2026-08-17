@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "inherent uncertainty",
+    "many other factors",
+    "qualitative information",
+    "actual results could differ significantly"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating profile supported by 28 consecutive years of underwriting profitability and an 88.2 combined ratio. However, reserve adequacy remains materially uncertain because estimates depend on judgment, claims development, legal trends, inflation, and potentially under-quantified liabilities. The disclosure is technically detailed but relies heavily on qualitative caveats and provides limited quantified sensitivity to adverse reserve development."
+}

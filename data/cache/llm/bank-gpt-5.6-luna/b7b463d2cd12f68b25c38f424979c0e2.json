@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "not exhaustive",
+    "no firm assurances",
+    "constant-currency non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure combines quantified operating results and liquidity metrics with extensive standard forward-looking disclaimers and broad, largely unquantified risk factors. Operating performance and liquidity are presented positively, but COVID-19 exposure, customer concentration, automotive weakness, supply-chain dependence, restructuring, tax payments, and acquisition-related obligations indicate meaningful underlying risks."
+}

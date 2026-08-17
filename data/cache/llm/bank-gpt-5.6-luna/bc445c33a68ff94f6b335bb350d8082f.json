@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "largely due to",
+    "partially offset by",
+    "do not expect these costs to be material",
+    "impact from acquisitions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed revenue, cost, acquisition, tax, and segment-profit drivers. Risk tone is moderately positive because growth, cash flow, and profitability improved, although Bell and other segments experienced declines, integration costs remain, and acquisition-related financing increased interest expense. Some causal explanations rely on recurring qualifiers such as “primarily” and “largely,” and the passage is truncated near liquidity disclosures."
+}

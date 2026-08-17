@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "leading system provider",
+    "exceptional reliability, security, efficiency and affordability",
+    "highly uncertain and cannot be predicted with confidence",
+    "significant judgment is required",
+    "future revenue objectives"
+  ],
+  "risk_summary": "The excerpt combines promotional, largely unquantified claims with several quantified transaction, revenue, collateral, and segment disclosures. It identifies meaningful operating risks from inflation, supply-chain disruption, labor absenteeism, COVID-19, and geopolitical conditions, while impairment assessments depend on subjective forecasts and assumptions."
+}

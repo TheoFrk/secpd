@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no assurance",
+    "other risks and uncertainties",
+    "customer-specific inventory exposure",
+    "material adverse impact"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative detail on customer concentration, credit availability, leases, and inventory practices, but relies heavily on standard forward-looking disclaimers and broad, non-quantified risk factors. Key risks include dependence on major customers, limited alternative uses for custom inventory, fixed-cost operating leverage, and potential receivables and inflation impacts."
+}

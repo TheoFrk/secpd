@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "not representative of ongoing operations",
+    "non-U.S. GAAP measures",
+    "among other things",
+    "cannot reasonably estimate settlement periods"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with year-over-year sales changes, segment drivers, pension contributions, tax reserves, and letters of credit disclosed. Risk is partly softened through extensive non-U.S. GAAP adjustments and forward-looking disclaimers, while some liabilities and settlement timing remain uncertain. Overall tone is operationally confident and growth-oriented rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "estimated selling price",
+    "judgment is required",
+    "forecasted demand and technological obsolescence",
+    "customer revenue deferrals"
+  ],
+  "risk_summary": "The excerpt is technically detailed but relies substantially on management estimates and judgments, particularly for revenue allocation, inventory valuation, customer credits, and obsolescence. Revenue recognition timing and inventory assumptions could materially affect reported results, while customer concentration and geographic exposure add risk. The tone is cautiously positive, supported by improved gross margin, but includes standard forward-looking disclaimers."
+}

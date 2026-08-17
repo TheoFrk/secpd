@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "primarily due to",
+    "partially offset",
+    "modest global growth",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but emphasizes adjusted non-GAAP performance and contains standard qualification language. Risk factors include a substantial $310.1 million impairment, restructuring activity, weaker regional and segment volumes, higher maintenance costs, and expectations of only modest economic growth. Overall tone is cautiously positive, supported by reported growth and cost-control initiatives."
+}

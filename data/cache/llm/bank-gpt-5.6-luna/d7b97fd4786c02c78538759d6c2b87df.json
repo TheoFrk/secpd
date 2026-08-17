@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "favorable markets",
+    "unfavorable balance sheet mix",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides clear year-over-year drivers, but relies on recurring MD&A boilerplate and causal qualifiers. Performance weakened, with lower net income, returns, servicing fees, and higher credit-loss provisions and expenses, although capital ratios remained above well-capitalized requirements."
+}

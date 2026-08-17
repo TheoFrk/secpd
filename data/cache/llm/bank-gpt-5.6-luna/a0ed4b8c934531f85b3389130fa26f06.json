@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective judgments",
+    "may differ materially",
+    "if any",
+    "not likely to meet criteria",
+    "expected future undiscounted cash flows"
+  ],
+  "risk_summary": "The excerpt is relatively detailed and quantitatively specific, but relies materially on management estimates for depreciation, fair values, impairment testing, lease valuations, and held-for-sale classification. It identifies meaningful exposure to market conditions, tenant credit quality, refinancing, and potential impairment, while maintaining a generally neutral-to-mildly confident tone."
+}

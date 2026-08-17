@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.28,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "expected impact ... to be limited",
+    "we will continue to monitor",
+    "unable to accurately predict the full impact",
+    "not had a material impact",
+    "foreseeable future"
+  ],
+  "risk_summary": "The disclosure acknowledges trade restrictions, geopolitical conflict, COVID-19, inflation, currency volatility, interest rates, tax disputes, and acquisition-related costs, but generally characterizes their effects as limited or immaterial. Liquidity is presented as sufficient for at least 12 months and the foreseeable future, although several forward-looking statements rely on monitoring, expectations, and materiality assessments rather than detailed sensitivity analysis."
+}

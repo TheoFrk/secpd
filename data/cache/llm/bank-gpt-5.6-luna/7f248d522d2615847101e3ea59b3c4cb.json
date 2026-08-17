@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "various external factors",
+    "may be required",
+    "materially different results",
+    "sufficient to meet anticipated cash needs"
+  ],
+  "risk_summary": "The excerpt reports strong earnings, improving profitability metrics, and low net charge-offs, supporting a moderately positive risk tone. However, extensive reliance on management estimates, economic assumptions, fair-value judgments, and contingent liquidity language leaves material exposure to loan losses, impairments, funding constraints, and adverse economic conditions. The excerpt is truncated and provides limited sensitivity analysis or quantified downside scenarios."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous assumptions",
+    "could prove to be inaccurate",
+    "variety of risks and uncertainties",
+    "no obligation to update",
+    "significant management judgment"
+  ],
+  "risk_summary": "The excerpt is largely standard forward-looking-statement and critical-accounting boilerplate, with extensive lists of potential risks but limited entity-specific scenario quantification. Credit-loss reserves and fair-value measurements depend materially on judgments, ratings, economic assumptions, and unobservable inputs. Net interest income and margin declined year over year, although management notes recent potential improvement as rates increased."
+}

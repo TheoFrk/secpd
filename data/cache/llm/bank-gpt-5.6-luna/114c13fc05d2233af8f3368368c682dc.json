@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "material effect on earnings",
+    "primarily due to",
+    "offset by decreased sales",
+    "discontinued operations gains",
+    "inconsistent dates and footnote references"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, highlighting improved liquidity, elimination of debt, and a higher current ratio. However, operating cash use increased, equity remains low, and reported net income depends substantially on discontinued-operation gains and debt-settlement effects. Several apparent date, terminology, and percentage inconsistencies reduce disclosure reliability."
+}

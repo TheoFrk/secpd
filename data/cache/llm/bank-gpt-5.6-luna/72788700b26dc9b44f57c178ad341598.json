@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may be significantly affected",
+    "variety of factors",
+    "difficult to predict",
+    "could materially impact",
+    "if ... remains strong"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting and contract detail, including quantified customer awards and explicit government-contract termination and funding risks. However, results remain highly sensitive to estimates, order timing, contract performance, customer acceptance, and unpredictable government decisions, with extensive conditional language limiting forecast reliability."
+}

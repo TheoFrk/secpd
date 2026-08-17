@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks beyond the Company’s control",
+    "could cause actual results to differ materially",
+    "does not undertake any obligation to update",
+    "other unexpected events"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and balance-sheet data, but is preceded and followed by extensive standard forward-looking disclaimers and broad, largely non-quantified risk categories. Results weakened in 2024, with net income down 15% and funding, acquisition, credit-loss, and macroeconomic pressures remaining notable, although management characterizes acquisitions and margin improvement as a foundation for recovery."
+}

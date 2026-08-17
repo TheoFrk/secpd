@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.81,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted earnings exclude certain items",
+    "other adjustments may be made from time to time",
+    "economic offset not marked to market",
+    "expected to provide",
+    "if consummated"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent about segment performance, investment plans, derivative accounting, and non-GAAP adjustments. Risk is moderated by reliance on adjusted earnings, potential future mark-to-market volatility, substantial capital projects, and forward-looking assumptions, while the overall tone remains strongly growth-oriented and confident."
+}

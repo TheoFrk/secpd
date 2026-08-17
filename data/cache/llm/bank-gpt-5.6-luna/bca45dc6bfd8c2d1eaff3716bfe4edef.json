@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to project materiality",
+    "could continue to impact operations",
+    "if economic conditions worsen",
+    "potentially material items",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, capital, liquidity, and loan-loss information, but COVID-19 impacts are repeatedly framed through conditional scenarios and explicitly unquantified estimates. Risk tone is moderately negative because of pandemic-related credit, fee-income, funding, and capital uncertainties, partially offset by well-capitalized status and continued liquidity access."
+}

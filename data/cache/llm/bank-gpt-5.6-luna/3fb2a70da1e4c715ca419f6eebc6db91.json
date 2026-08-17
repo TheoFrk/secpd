@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.2,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "unpredictable funding, deployment and technology decisions",
+    "may be significantly affected",
+    "estimates reviewed and revised periodically",
+    "could materially impact",
+    "historically, we have been able to perform"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on segment mix, sales geography, gross profit, goodwill, and contract accounting, but emphasizes substantial estimation uncertainty and government-contract dependence. Key risks include contract termination rights, unpredictable funding, percentage-of-completion estimates, and potential material margin or impairment effects. The tone is balanced but moderately risk-conscious, with historical performance assertions partially offsetting forward-looking uncertainty."
+}

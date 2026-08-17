@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "comparable earnings measure",
+    "not indicative of ongoing operations",
+    "forecast and anticipated growth",
+    "off-balance sheet debt",
+    "uncertain economic conditions"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent on revenue, earnings, capital spending, cash flow, and leverage, but presents an optimistic outlook despite negative free cash flow and rising debt. Reliance on non-GAAP comparable earnings and extensive forward-looking assumptions may soften the presentation of underlying risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to provide a reasonably reliable estimate",
+    "actual results may differ",
+    "subject to cyclical trends",
+    "based on assumptions about future demand",
+    "not able to determine aggregate amount"
+  ],
+  "risk_summary": "The disclosure is generally detailed and identifies meaningful cyclical semiconductor demand, customer concentration-related exposure, accounting estimate sensitivity, and contingent obligations. Risk tone is balanced but mildly cautious, with optimism about long-term markets offset by near-term uncertainty and limited quantification of certain commitments and tax liabilities."
+}

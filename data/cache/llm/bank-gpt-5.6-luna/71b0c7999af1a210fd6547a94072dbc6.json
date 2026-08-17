@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "best estimate of selling price",
+    "unique ability",
+    "not able to establish VSOE or TPE"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking disclaimers and optimistic strategic language, but provides limited quantified risk discussion in the supplied section. Revenue recognition involves substantial judgment, including estimates of standalone selling prices and allocation across multiple deliverables, creating potential earnings timing and measurement risk."
+}

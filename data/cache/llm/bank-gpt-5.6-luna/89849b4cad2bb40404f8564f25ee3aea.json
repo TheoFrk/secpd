@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subjective judgments and estimates",
+    "could require additional provisions",
+    "no assurance",
+    "actual results may differ materially",
+    "outcomes cannot be predicted with confidence"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful balance-sheet, earnings, expense, and allowance information, but relies heavily on standard forward-looking disclaimers and management estimates. Key risks include declining real estate values, potential OREO impairments, loan-loss allowance adequacy, deferred-tax-asset realization, and uncertainty in fair-value estimates. The tone is cautiously negative despite a return to profitability, reflecting material ongoing credit and valuation risks."
+}

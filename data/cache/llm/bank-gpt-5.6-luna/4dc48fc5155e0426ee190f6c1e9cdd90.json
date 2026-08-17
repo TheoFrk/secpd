@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "actual results could differ",
+    "highly competitive",
+    "expect",
+    "solid homebuilding cycle"
+  ],
+  "risk_summary": "The excerpt presents strong, well-quantified 2020 operating and financial performance, including higher revenue, margins, orders, backlog, and improved leverage. Risk disclosure is primarily forward-looking and generic, focusing on market variability, COVID-19 uncertainty, estimates, and competitive conditions without detailed downside scenarios or sensitivity analysis. Overall tone is strongly confident, though housing-cycle, impairment, cost, and accounting-estimate risks remain material."
+}

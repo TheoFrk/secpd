@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.03,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "significant estimates and assumptions",
+    "among other things",
+    "less likely to have a material impact"
+  ],
+  "risk_summary": "The excerpt is largely factual and well quantified, covering acquisition consideration, goodwill, repurchases, CECL adoption, and changes in noninterest income. Risk tone is neutral, with some revenue declines and exposure to credit-loss estimates, interest rates, regulatory changes, and valuation judgments, but no crisis indicators are evident."
+}

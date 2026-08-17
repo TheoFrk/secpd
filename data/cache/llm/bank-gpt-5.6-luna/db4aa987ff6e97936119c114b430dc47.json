@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous events",
+    "among others",
+    "subject to revision",
+    "may differ from these estimates",
+    "see Note C"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative information but relies heavily on technical accounting boilerplate and broad qualification language around reserves, impairments, receivables, and deferred tax assets. Key risks include commodity-price exposure, a $1.4 million full-cost ceiling charge, non-accrual of interest, and a $10 million note receivable bad-debt issue. Liquidity appears positive on the stated current-asset/current-liability figures, but the overall tone is moderately adverse due to earnings volatility and asset recoverability concerns."
+}

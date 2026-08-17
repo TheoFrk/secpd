@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results may differ materially",
+    "higher growth markets",
+    "clients expressing more optimism",
+    "accretion income expected to decline"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed year-over-year drivers, acquisition effects, and indemnification-asset impacts. Risk is moderate: earnings benefited materially from acquisition-related accretion income and remain exposed to interest-rate conditions, integration costs, and the expected decline in accretion income."
+}

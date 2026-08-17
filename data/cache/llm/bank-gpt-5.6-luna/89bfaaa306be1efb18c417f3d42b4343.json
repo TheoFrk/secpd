@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"potential applications\"",
+    "\"we believe\"",
+    "\"planned clinical trials\"",
+    "\"remains open\"",
+    "\"subject to FDA approval\""
+  ],
+  "risk_summary": "The disclosure is highly technical and promotional, relying heavily on preclinical findings, limited human studies, and conditional language rather than established efficacy or commercial results. Key risks include trial termination due to insufficient COVID-19 patients, manufacturing and supplier-approval delays, regulatory dependence, and continued early-stage clinical uncertainty. Financing proceeds and warrant exercises provide liquidity, but the excerpt does not establish the adequacy of funding for ongoing development."
+}

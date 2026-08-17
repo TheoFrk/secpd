@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "may or may not be representative",
+    "demand softness",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with clear year-over-year operating metrics and explanations for major changes. Risk is moderate: industrial demand softness, lower volumes, foreign-exchange pressure, restructuring activity, and substantial acquisition-related adjustments are disclosed, while reported net income declined despite higher Adjusted EBITDA. Reliance on non-GAAP measures and recurring offsetting language somewhat tempers the otherwise favorable disclosure quality."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "continue to evaluate cost reduction initiatives",
+    "believe we are well positioned",
+    "changing technologies and industry standards"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitative, detailing backlog duration, capital expenditures, debt terms, collateral, and operating expense drivers. Risk tone is balanced but highlights substantial cyclicality, technology-displacement risk, fixed-cost exposure, underutilized capacity, and reliance on continued capital investment."
+}

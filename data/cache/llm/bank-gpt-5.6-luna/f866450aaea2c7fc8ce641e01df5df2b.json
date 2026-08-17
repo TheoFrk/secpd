@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict with certainty",
+    "could have a negative impact",
+    "we believe",
+    "Adjusted EBITDA exclusions",
+    "continual operation improvement"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains year-over-year revenue, expense, cash-flow, debt, and regulatory developments. Key risks include dependence on fluctuating power-plant operations, ongoing uncertainty surrounding the MATS rule, operating cash outflows, limited cash relative to liabilities, and a history of net losses. The optimistic growth language is tempered by regulatory and liquidity vulnerabilities."
+}

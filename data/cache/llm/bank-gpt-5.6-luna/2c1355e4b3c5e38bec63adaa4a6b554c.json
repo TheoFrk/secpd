@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "significant degree of uncertainty",
+    "partially offset",
+    "primarily due to",
+    "wide range of economic developments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear GAAP-to-non-GAAP reconciliations and segment performance metrics. It acknowledges slowing growth, supply and cost issues, pension and tax uncertainties, and weaker expected Equipment and Energy results, but maintains a moderately confident outlook. Non-GAAP adjustments and broad economic forecasts introduce some interpretive risk."
+}

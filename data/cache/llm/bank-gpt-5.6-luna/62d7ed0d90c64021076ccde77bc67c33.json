@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "subjective judgments by management",
+    "cannot be reasonably predicted",
+    "other factors not limited to"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on earnings, margins, capital, asset growth, and borrowing prepayment, but relies on standard forward-looking disclaimers and subjective assumptions for loan-loss estimates. Key risks include margin compression, a material debt-prepayment charge, recession sensitivity, and potentially higher-than-estimated credit losses, although strong capitalization and positive asset growth moderate the tone."
+}

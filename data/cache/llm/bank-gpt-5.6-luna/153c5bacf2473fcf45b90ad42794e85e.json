@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to significant judgment",
+    "reasonable and supportable forecasts",
+    "no obligation to update",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and emphasizes the subjectivity and sensitivity of credit-loss and fair-value estimates. It provides useful quantitative disclosure on ACL levels and commercial real estate exposure, while presenting concentration risk as controlled and below regulatory guidelines."
+}

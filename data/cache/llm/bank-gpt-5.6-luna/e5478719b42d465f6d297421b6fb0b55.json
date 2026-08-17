@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "could cause actual results to differ materially",
+    "not be exhaustive",
+    "beyond the Company's ability to control or predict",
+    "undertakes no duty to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, non-exhaustive list of macroeconomic, customer, operational, regulatory, and financing risks. Reported results and liquidity are quantified, but substantial restructuring and deferred-tax charges, weaker U.K. performance, and dependence on improving markets create meaningful downside risk. Management maintains a cautiously optimistic outlook for several segments while relying on expected cost savings, asset sales, and future demand growth."
+}

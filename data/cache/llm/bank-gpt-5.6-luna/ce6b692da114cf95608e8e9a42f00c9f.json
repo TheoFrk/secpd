@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "reasonable and supportable forecasts",
+    "subject to varying interpretations",
+    "if deemed necessary",
+    "extreme scenarios and very unlikely"
+  ],
+  "risk_summary": "The disclosure is detailed and quantitatively supported, particularly regarding credit-loss modeling, sensitivity impacts, funding, liquidity, and capital resources. Risk is primarily concentrated in judgment-dependent estimates, economic assumptions, loan portfolio conditions, and regulatory or tax interpretations, but the overall tone is stable to moderately confident."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "highly dependent on external environment",
+    "key assumptions",
+    "historical patterns may extend",
+    "immature data"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including performance targets, realized results, and investment impacts. Risk is acknowledged through the significantly negative 2022 value creation ratio and reliance on external conditions, actuarial assumptions, inflation, exposure levels, and claims emergence patterns. The overall tone remains cautiously confident, emphasizing long-term performance, capital strength, and strategic initiatives."
+}

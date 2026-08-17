@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "rapidly changing environment",
+    "other factors",
+    "additional information",
+    "inherent uncertainties",
+    "may cause a material adverse impact"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, but highlights substantial deterioration in operating income, operating cash flow, ROIC, and profitability amid inventory, freight, inflation, and demand-mix pressures. Management provides mitigations and sensitivity analyses, while relying on standard forward-looking and contingency disclaimers that leave uncertainty around litigation and future operating conditions."
+}

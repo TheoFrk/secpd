@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking risk-factor boilerplate",
+    "including but not limited to",
+    "contingent consideration",
+    "substantial indebtedness",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year operating and segment results, with improved sales, margins, and operating income. Credit risks include higher borrowing costs and indebtedness, restructuring activity, contingent sale proceeds, supply-chain exposure, and extensive macroeconomic and covenant risks. The overall tone is modestly positive on current performance but tempered by broad, largely non-quantified forward-looking risk disclosures."
+}

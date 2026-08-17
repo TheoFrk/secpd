@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to continuing review and adjustment",
+    "we do not expect ... material impact",
+    "customary closing adjustments",
+    "expected to",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, with clear disclosure of earnings drivers, capital spending, outage costs, recovery mechanisms, and transaction terms. Risk tone is moderately confident, although forward-looking estimates, regulatory approvals, insurance recovery assumptions, and prudence-review expectations introduce uncertainty."
+}

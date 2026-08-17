@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurances",
+    "number of conditions",
+    "continue to make progress",
+    "certain lending activities",
+    "various subsidiaries"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively specific regarding assets, loans, deposits, transaction terms, and regulatory requirements. However, the Federal Reserve compliance agreement and delayed Hudson City merger introduce meaningful execution and regulatory risks, with timing and outcome remaining uncertain."
+}

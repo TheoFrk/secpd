@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "reasonable and supportable forecasts",
+    "if deemed necessary",
+    "no current intention to do so",
+    "subject to varying interpretations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on loan deferrals, PPP exposure, liquidity, funding, and credit-loss methodology, supporting generally transparent disclosure. Risk remains elevated from pandemic-related deferrals, particularly hotel and lodging loans, and from subjective allowance and tax estimates, while management presents liquidity and capitalization as strong."
+}

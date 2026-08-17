@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could cause actual results to differ materially",
+    "not intend to publish revised statements",
+    "normal fluctuations in market demand",
+    "based on several factors"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, with revenue, shipment, margin, expense, tax, acquisition, and restructuring figures disclosed. Risk is moderate due to declining HDD shipments and revenue, significant termination and impairment charges, reliance on estimates for customer incentives, and material unrecognized tax benefits. The opening disclaimer language is largely standard boilerplate and modestly increases perceived evasiveness."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimers",
+    "risks and uncertainties beyond our control",
+    "cannot be reasonably estimated",
+    "additional financing may be unavailable",
+    "estimated PPP loan forgiveness"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and uncertainty language, including broad disclaimers and limited commitments to update projections. Operating results and royalty collections were adversely affected by COVID-19, while licensee insolvency, revenue concentration, unproven commercialization, and potential future financing needs present material risks. Some exposures are quantified, including the PPP loan and receivable allowances, but the excerpt is truncated and provides limited current liquidity detail."
+}

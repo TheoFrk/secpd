@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "there can be no assurance",
+    "not currently possible to estimate",
+    "subject to change from year to year",
+    "possibility remains that programs could be cut back or terminated"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative and operational detail, but relies substantially on standard forward-looking disclaimers and optimistic strategic assertions. Key risks include heavy customer concentration, constrained federal discretionary spending, sequestration, potential contract reductions, and unresolved payroll-tax liabilities with uncertain additional penalties and cash-flow effects."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "based on expectations",
+    "scaled disclosures"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding revenue declines, segment performance, margins, and COVID-19 impacts, but relies repeatedly on broad explanations such as economic weakness and market recovery. Operating risk remains elevated due to lower demand, unfavorable product mix, customer collectability exposure, and inventory reserve uncertainty, despite improving fourth-quarter trends."
+}

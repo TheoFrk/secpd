@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "various positive factors",
+    "significant management judgment",
+    "estimated contract revenues and costs",
+    "text truncated at tax discussion"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, reporting revenue, earnings, backlog, debt, margins, impairments, and segment trends. Risk is moderated by softness in the nuclear market, variable-rate debt exposure, cost pressures, impairment charges, bankruptcy-related receivable uncertainty, and substantial judgment in contract accounting. Overall tone is cautiously positive, with improved operating performance but meaningful estimation and execution risks."
+}

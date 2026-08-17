@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect to continue",
+    "hidden needs",
+    "ownable or winnable categories",
+    "customer-first mentality"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating, debt, tax, and one-time-item information, but substantial portions rely on aspirational marketing language and management beliefs rather than measurable targets. Risk tone is mildly positive, although limited detail on execution risks, competitive pressures, and the sustainability of comparable-store sales growth reduces transparency."
+}

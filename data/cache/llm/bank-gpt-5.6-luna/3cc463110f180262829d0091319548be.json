@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact remains unknown",
+    "cannot reasonably estimate",
+    "factors beyond our knowledge or control",
+    "could adversely affect",
+    "non-recurring items"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, including sales declines, a pretax loss, impairment charges, and slower collections, but repeats COVID-19 and discontinued-operation explanations. Forward-looking disclosure is materially uncertain, particularly regarding pandemic duration, demand recovery, hospitality exposure, and liquidity effects."
+}

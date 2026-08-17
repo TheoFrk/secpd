@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"primarily due to\"",
+    "Adjusted EPS non-GAAP measure",
+    "\"partially offset by\"",
+    "strategic performance framing",
+    "derivative and FX exclusions"
+  ],
+  "risk_summary": "The disclosure is highly quantified and attributes declines to identifiable foreign-exchange, commodity-price, demand, hydrology, and impairment pressures. Management uses confident strategic framing and non-GAAP metrics to emphasize performance despite a 60% decline in diluted EPS and significant operating headwinds. Complexity is elevated by extensive accounting definitions, adjustments, and multi-jurisdiction operating detail."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expect to continue",
+    "unmatched in recent years",
+    "ever-changing consumer tastes",
+    "underlying economic factors"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, growth-oriented tone supported by store counts, capital expenditures, sales metrics, and startup cost ranges. However, it relies heavily on promotional claims and forward-looking expectations, while emphasizing expansion and new product initiatives that create execution, demand, and near-term profitability risks. New-store losses, delayed revenue recognition until delivery, foreign sourcing, and planned development costs are disclosed but framed primarily as manageable or temporary."
+}

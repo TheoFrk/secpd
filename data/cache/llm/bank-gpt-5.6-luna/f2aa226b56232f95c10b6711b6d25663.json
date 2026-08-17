@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements that involve risks and uncertainties",
+    "could cause actual results to differ materially",
+    "primarily due to",
+    "Adjusted gross profit",
+    "proposed 2025 MPFS"
+  ],
+  "risk_summary": "The excerpt is generally data-rich, providing revenue, cost, reimbursement, clinic-count, acquisition, and impairment information. Key risks include declining Medicare reimbursement, elevated operating costs, clinic closures, and reliance on acquisitions, although management presents growth and strategy in a generally constructive tone."
+}

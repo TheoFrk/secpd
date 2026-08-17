@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "without limitation",
+    "outside of our control",
+    "do not place undue reliance",
+    "other factors not currently anticipated"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, net interest income, margins, funding costs, and loan yields, but is surrounded by extensive boilerplate forward-looking disclaimers and broad, non-quantified risk factors. Results show moderate pressure, including declining net income and net interest margin, higher deposit and borrowing costs, and reliance on acquisitions and changing market conditions."
+}

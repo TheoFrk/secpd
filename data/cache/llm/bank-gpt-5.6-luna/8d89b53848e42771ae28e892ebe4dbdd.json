@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "malformed HTML markup",
+    "incorporated by reference",
+    "future-dated proxy statement",
+    "cross-referenced sections"
+  ],
+  "risk_summary": "The excerpt is primarily a procedural cross-reference regarding Section 16(a) reporting compliance and contains little substantive risk information. Reliance on an external proxy statement and malformed text modestly reduce disclosure clarity, but no adverse risk signal is evident."
+}

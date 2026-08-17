@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective judgments and inherently uncertain",
+    "could adversely affect earnings",
+    "future changes in management’s assessment",
+    "possible significant earnings volatility",
+    "anticipated economic conditions"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes useful quantified balances and descriptions of allowance, goodwill, mortgage servicing rights, and repurchase risks. However, outcomes depend heavily on subjective estimates, assumptions, models, and changing market conditions, with the excerpt ending before the loan-loss discussion is complete. Overall tone is mildly positive due to record earnings but tempered by material credit, valuation, interest-rate, and counterparty risks."
+}

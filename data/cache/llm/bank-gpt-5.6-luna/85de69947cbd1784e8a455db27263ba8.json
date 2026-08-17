@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management judgments and estimates",
+    "actual results could differ",
+    "probable and reliably estimated",
+    "lower headroom",
+    "could result in a material effect"
+  ],
+  "risk_summary": "The disclosure is technically detailed but relies heavily on standard accounting-policy language and management estimates, particularly for contract profitability, claims, insurance reserves, and goodwill impairment. Unapproved change orders and claims totaled $11.0 million, while lower goodwill headroom and prolonged commodity-price weakness indicate meaningful earnings and valuation sensitivity. The tone is cautiously improving but remains exposed to delayed project awards, customer spending reductions, litigation, and estimation risk."
+}

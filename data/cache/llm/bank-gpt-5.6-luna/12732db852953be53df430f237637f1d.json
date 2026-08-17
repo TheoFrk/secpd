@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "subject to certain adjustments",
+    "significant estimates which could change materially",
+    "contingent consideration",
+    "various factors, including, but not limited to"
+  ],
+  "risk_summary": "The excerpt is financially detailed and quantifies major transaction terms, royalties, cash flows, and receivables, limiting overall vagueness. Risk arises from the company’s transition to a one-employee royalty model, reliance on Mayne Pharma, contingent adjustments, discontinued operations, and potential liabilities, although the tone is not crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "could differ materially",
+    "non-GAAP measures not comparable",
+    "aggregated due to immateriality",
+    "borrowing capacity and liquidity qualifiers"
+  ],
+  "risk_summary": "The excerpt describes substantial pandemic-related operating disruption, store closures, reduced demand, workforce cuts, borrowing, and intensive liquidity management. Management presents these actions as decisive and successful, but extensive forward-looking disclaimers, non-GAAP caveats, and qualitative recovery assumptions limit certainty. Debt costs, borrowing-base mechanics, and dependence on continued liquidity availability remain material credit risks."
+}

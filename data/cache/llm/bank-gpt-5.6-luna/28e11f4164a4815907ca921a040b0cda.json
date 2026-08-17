@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance",
+    "new risk factors",
+    "considerable judgment",
+    "not possible to reliably determine"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and emphasizes uncertainty around future results, actuarial assumptions, reserves, reinsurance, and investment impairments. It provides useful quantitative reserve and pension data, but relies heavily on judgment-based estimates and acknowledges that actual liabilities and outcomes may differ materially."
+}

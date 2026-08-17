@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant assumptions, judgments and estimates",
+    "actual results could differ materially",
+    "more likely than not",
+    "inherently difficult and subjective",
+    "various other factors deemed reasonable"
+  ],
+  "risk_summary": "The excerpt provides substantive discussion of tax, revenue-recognition, impairment, and contract risks, but relies heavily on standard conditional language and management judgments without quantifying likely impacts. Business performance is exposed to customer design activity, product mix, hardware margins, tax audits, and recoverability of deferred tax assets."
+}

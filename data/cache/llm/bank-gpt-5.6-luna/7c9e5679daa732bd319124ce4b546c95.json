@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "risks and uncertainties beyond our control",
+    "cannot predict at this time",
+    "disclaim any obligation to update",
+    "ongoing review of our business portfolio"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking disclaimer and risk-factor boilerplate, with several broad qualifications that limit predictive clarity. It also discloses significant operating losses, impairment and restructuring charges, business exits, facility closures, job eliminations, customer and government-contract exposure, and uncertainty surrounding a planned divestiture. Quantified charges and losses improve transparency, but the overall risk tone is materially negative."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "considerable amount of judgment and estimate",
+    "actual results may differ",
+    "believed to be reasonable",
+    "increased sales volumes of certain products",
+    "environmental liability related to PCBs"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear segment-level sales, margin, acquisition, and capital expenditure data. Key risks include declining Industrial and Health & Nutrition sales, customer destocking, dependence on raw-material cost movements and LIFO accounting, acquisition valuation assumptions, and a $7.7 million PCB-related environmental liability. Overall tone is moderately positive due to improved gross profit and EPS, although results benefited from favorable cost changes and acquisitions."
+}

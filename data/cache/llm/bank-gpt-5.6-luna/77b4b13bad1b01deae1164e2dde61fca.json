@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "strongly believe",
+    "should be substantially complete",
+    "significantly",
+    "weak performance in a few businesses",
+    "table formatting gaps"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on sales growth, acquisition funding, debt capacity, restructuring charges, cash flow, and TSR performance. Risk is elevated by post-acquisition leverage, operating weakness in select businesses, margin pressure from raw-material inflation, and below-target shareholder returns, although management presents a credible deleveraging plan. Some forward-looking claims rely on optimistic or imprecise language, and the malformed/truncated tables reduce transparency."
+}

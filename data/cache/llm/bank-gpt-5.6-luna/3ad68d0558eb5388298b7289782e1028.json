@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of sufficient capital",
+    "may result in further dilution",
+    "actual results may differ materially",
+    "incomplete disclosure after truncation"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and relies on broad, largely unquantified assumptions regarding demand, competition, funding, and future operations. It explicitly indicates negative operating cash flow, ongoing potential losses, dependence on future capital raises, and possible equity dilution, although receivables and accounting policies are quantified in places."
+}

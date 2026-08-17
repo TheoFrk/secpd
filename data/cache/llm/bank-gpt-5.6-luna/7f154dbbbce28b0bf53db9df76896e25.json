@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "attractive financial or strategic characteristics",
+    "may consider raising additional capital",
+    "customary closing adjustments",
+    "many factors, including"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on ownership, acquisitions, financing, and segment activities, but relies on broad strategic language and extensive forward-looking qualifiers. Risk exposure is diversified across insurance, energy, consumer products, and financial services, with notable sensitivity to interest rates, credit defaults, commodity prices, and execution of acquisitions. The tone is cautiously confident rather than crisis-like, although the truncated passage limits assessment of adverse developments and liquidity risks."
+}

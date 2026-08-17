@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.7,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt regarding ability to continue as a going concern",
+    "may need to raise additional capital",
+    "if possible and available",
+    "no assurances financing will be available",
+    "remaining offsetting items are less significant"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, highlighting recurring losses, a $68.5 million accumulated deficit, $603,000 of operating cash usage, limited cash, and substantial doubt about going-concern viability. It is generally well quantified, but repeated language, incomplete text, and some contradictory or imprecise explanations reduce clarity."
+}

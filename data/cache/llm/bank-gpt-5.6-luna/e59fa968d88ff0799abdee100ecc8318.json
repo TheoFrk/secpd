@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ from our estimates",
+    "primarily due to",
+    "typically in excess of",
+    "partially offset",
+    "not probable ... completed"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, with clear segment and revenue disclosures. Risk signals include a $55.8 million CRM project impairment, rising claims and energy costs, customer credit exposure, and reliance on management estimates. The tone is predominantly factual but modestly negative due to cost pressures and the impairment charge."
+}

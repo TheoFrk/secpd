@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "many or all beyond Company's control",
+    "cannot be predicted",
+    "based on certain assumptions and judgments",
+    "disclaims any obligation to update"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking-statement and accounting-estimate boilerplate, with material uncertainty around customer demand, technology obsolescence, contract costs, and COVID-19 effects. Quantified receivables and inventory disclosures improve transparency, but management relies on assumptions and provides limited sensitivity analysis. The overall tone is cautiously positive regarding liquidity and operational capacity while acknowledging pandemic and supply-chain risks."
+}

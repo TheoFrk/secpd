@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "continued gradual and modest recovery",
+    "should improve as the economy recovers",
+    "expected to be completed",
+    "diligent on discretionary spending",
+    "cannot be directly associated"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, clearly disclosing substantial declines in sales and operating income, workforce reductions, restructuring charges, and weaker demand during the global recession. Forward-looking language is moderately hedged, but the company provides specific economic assumptions, cost savings, backlog data, and expected timing. Overall risk tone is negative due to recession exposure and operating deterioration, tempered by management’s mitigation actions and recovery expectations."
+}

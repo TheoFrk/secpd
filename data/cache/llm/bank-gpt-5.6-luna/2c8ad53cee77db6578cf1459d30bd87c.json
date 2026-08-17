@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to benefit",
+    "we believe",
+    "remain diligent",
+    "active looker",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear year-over-year operating metrics and discussion of tax effects, margin pressure, and declining loan-accretion income. The outlook is cautiously optimistic but relies on forward-looking assumptions regarding interest rates, loan growth, regulatory changes, acquisitions, and tax reform. Risks are acknowledged, though some language is promotional and non-GAAP measures may complicate comparability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best-in-class claims",
+    "highly uncertain",
+    "material impact without quantification",
+    "forward-looking statement disclaimers",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt relies heavily on promotional, largely unquantified claims about competitive position and growth while providing extensive standard disclaimers. COVID-19 supply-chain disruption, fixed-price contract margin risk, estimation uncertainty, and possible going-concern limitations are identified, but their financial magnitude is not quantified here."
+}

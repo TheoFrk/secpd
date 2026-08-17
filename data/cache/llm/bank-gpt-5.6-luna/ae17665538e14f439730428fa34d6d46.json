@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we feel",
+    "no assurances",
+    "future events cannot be determined with precision",
+    "truncated or garbled text"
+  ],
+  "risk_summary": "The excerpt presents a broadly optimistic growth narrative centered on acquisitions, regulatory demand, and international expansion, but relies materially on forward-looking assertions and estimates. Earn-out obligations, acquisition integration, regulatory exposure, and uncertainty around backlog conversion are notable risks. The text is dense and contains apparent transcription or drafting inconsistencies, including a stated operating-income increase paired with a decrease percentage."
+}

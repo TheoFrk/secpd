@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor protections",
+    "potential anti-cancer activity",
+    "within 18 to 24 months",
+    "raise sufficient funding",
+    "no obligation to update"
+  ],
+  "risk_summary": "The company is an early-stage biotechnology issuer with a preclinical lead candidate, no demonstrated commercial revenues in the excerpt, and a stated dependence on raising sufficient funding to advance clinical development. Although historical transactions, cash flows, and financing amounts are quantified, forward-looking claims rely heavily on preclinical potential and extensive legal safe-harbor language. Financing through convertible notes and accrued obligations indicates meaningful liquidity and dilution risk."
+}

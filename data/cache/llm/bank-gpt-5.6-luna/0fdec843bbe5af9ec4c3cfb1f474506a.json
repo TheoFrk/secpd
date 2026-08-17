@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subjective reserve estimates",
+    "actual results may differ",
+    "numerous events",
+    "significant impact of assumptions",
+    "note receivable bad debt disclosure cross-reference"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but highlights material financial stress, including current liabilities nearly three times current assets, limited cash, a $1.4 million full-cost ceiling impairment, and a bad-debt expense tied to a $10 million note receivable. Earnings and cash flow are exposed to declining spot gas prices, reserve and impairment assumptions, and the absence of long-term production contracts. The 100% valuation allowance on deferred tax assets further indicates uncertainty regarding future taxable income."
+}

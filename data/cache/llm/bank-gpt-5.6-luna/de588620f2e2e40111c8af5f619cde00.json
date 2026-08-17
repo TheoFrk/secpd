@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "for the foreseeable future",
+    "we believe",
+    "significant opportunities",
+    "as expected"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively supported, with clear discussion of client growth, retention, interest-rate pressure, acquisitions, and liquidity. Risk tone is moderately positive, but reliance on non-GAAP measures and forward-looking assurances introduces some comparability and execution uncertainty."
+}

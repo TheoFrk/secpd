@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "significant management estimates",
+    "potential for growth is significant",
+    "certain inherent, but undetected, losses",
+    "imprecise risk associated"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting strong asset quality, loan growth, and strategic expansion. However, it relies on subjective estimates for credit-loss allowances and goodwill impairment and acknowledges undetected losses, economic sensitivity, and geographic and commercial real estate concentrations. Overall tone is cautiously positive rather than crisis-like."
+}

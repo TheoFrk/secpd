@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "management's subjective judgments",
+    "future loan losses in excess of current estimates",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt presents quantified earnings growth, strong capital ratios, and improving profitability, supporting a generally stable and moderately positive risk tone. Credit risk disclosure is technically detailed but relies on management estimates, subjective assumptions, collateral values, and historical loss rates for the allowance. Extensive forward-looking disclaimers and the truncated text limit assessment of specific downside exposures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "offset partially by",
+    "significant portion recognized on a net basis",
+    "does not provide visibility beyond a few months",
+    "non-GAAP adjusted results"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed segment, margin, cash-flow, and debt information. Risk is evident in the 5.2% decline in ECS sales, competitive pricing pressure, limited forward visibility, and reliance on acquisitions and non-GAAP adjustments, but the overall tone remains controlled and moderately confident."
+}

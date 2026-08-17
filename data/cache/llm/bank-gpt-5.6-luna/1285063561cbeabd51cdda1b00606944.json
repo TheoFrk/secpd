@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily",
+    "generally",
+    "can fluctuate significantly",
+    "estimated amounts",
+    "net of fuel surcharges"
+  ],
+  "risk_summary": "The disclosure is detailed and heavily quantified, explaining revenue drivers, cost movements, fleet composition, fuel surcharges, and accounting classifications. It identifies meaningful operational risks, including fuel volatility, driver shortages, rising training costs, insurance claims, and reliance on independent contractors, but describes improved operating metrics and cost ratios. The excerpt is complex and includes a truncated passage, limiting assessment of the omitted litigation-related discussion."
+}

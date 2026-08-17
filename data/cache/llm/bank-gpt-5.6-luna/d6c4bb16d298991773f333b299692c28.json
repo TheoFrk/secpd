@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future results may differ",
+    "uncertain future demand",
+    "best estimate of future cash flows",
+    "inherent uncertainty",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights substantial operating deterioration, including a 33% sales decline, an 84% net income decline, and a 66% Adjusted EBITDA decline driven largely by OSB pricing and volume pressure. Cyclical housing demand, inflation, supply disruptions, labor challenges, commodity-price volatility, and impairment-estimation uncertainty create meaningful forward credit risks. Boilerplate forward-looking disclaimers and reliance on management estimates temper the precision of the outlook."
+}

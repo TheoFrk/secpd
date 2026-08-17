@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management estimates and judgments",
+    "actual results could differ",
+    "should cash flow assumptions change",
+    "other-than-temporary impairment",
+    "covered loan indemnification"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on earnings, loan losses, nonaccruals, and nonperforming loans, but relies substantially on standard accounting-estimate language and management assumptions. Credit risk remains material, with $56.4 million of nonperforming loans, $9.0 million of net charge-offs, and allowance coverage of only 34% of nonperforming loans, despite improving reported profitability."
+}

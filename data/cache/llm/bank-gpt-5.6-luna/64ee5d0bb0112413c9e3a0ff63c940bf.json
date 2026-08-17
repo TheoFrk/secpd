@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks, uncertainties, and other factors",
+    "no obligation to update",
+    "adequate allowance based on assumptions",
+    "could require additional allowance"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides clear year-over-year explanations for declining net interest income and margins, but includes extensive boilerplate cautionary language. Credit risk is moderate, with explicit sensitivity to economic downturns, borrower information delays, nonperforming assets, charge-offs, and potential regulatory allowance adjustments."
+}

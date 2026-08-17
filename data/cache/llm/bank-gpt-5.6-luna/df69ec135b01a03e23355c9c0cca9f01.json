@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "uncertainties inherent in estimates",
+    "more likely than not",
+    "temporary in nature",
+    "qualitative assessment of fair value"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on investment securities, loan-loss reserves, valuation processes, and interest-rate exposure, but relies on standard disclaimers and management judgments regarding impairment and recoverability. Credit risk is presented as controlled, although reserves remain sensitive to economic downturns, collateral values, market liquidity, and issuer conditions."
+}

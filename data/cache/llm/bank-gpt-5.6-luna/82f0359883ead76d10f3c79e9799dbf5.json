@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "inherently subjective estimates",
+    "certain inherent but undetected losses",
+    "fair value could differ"
+  ],
+  "risk_summary": "The excerpt combines quantified earnings improvement with extensive boilerplate forward-looking disclaimers and subjective loan-loss and OREO valuation assumptions. Credit risk remains meaningful due to potentially undetected losses, collateral volatility, economic sensitivity, and foreclosure-related exposures, despite a generally modestly positive operating tone."
+}

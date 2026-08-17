@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.23,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "may not be able to reliably predict",
+    "significantly affected",
+    "cannot guarantee",
+    "under different assumptions or conditions"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified acquisitions, international sales exposure, tax rates, and income results. Risk arises from complex revenue-recognition judgments, customer-dependent installation and performance guarantees, foreign-exchange exposure, collectibility assumptions, and potentially changing tax benefits. The overall tone is moderately confident but includes standard forward-looking and uncertainty-related caveats."
+}

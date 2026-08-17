@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may materially impact",
+    "potential differences in accounting treatment",
+    "vary from time to time",
+    "significant amount of judgment",
+    "methodology may not be comparable"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but contains substantial standard MD&A boilerplate and technical accounting language. Key risks include declining legacy revenues, competitive and substitution pressures, affiliate cash-management dependence, uncertainty around CAF support revenues, and judgment-sensitive depreciation estimates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "reasonable and supportable assumptions",
+    "may not be available on terms favorable",
+    "anticipates raising additional capital",
+    "truncated fair value disclosure"
+  ],
+  "risk_summary": "The disclosure identifies meaningful liquidity and going-concern risks, including approximately $300,000 in monthly negative operating cash flow, no unused liquidity sources, and dependence on additional financing or future revenue. Although it quantifies an estimated 18-month cash runway, capital availability is uncertain and financing could materially dilute shareholders or increase costs. Extensive boilerplate and accounting-estimate language partially obscures the company’s underlying financing dependence."
+}

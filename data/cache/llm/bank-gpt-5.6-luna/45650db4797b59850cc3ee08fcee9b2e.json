@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "meaningful growth prospects",
+    "considerable financial flexibility",
+    "primarily due",
+    "does not believe",
+    "actual results could differ"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, detailing segment sales, orders, backlog, expenses, restructuring, acquisitions, and foreign-currency exposure. Risk tone is mildly confident, though optimistic boilerplate and standard accounting-estimate caveats temper the assessment. Test segment softness, restructuring activity, bad-debt allowances, and reliance on acquisitions represent identifiable but not acute risks."
+}

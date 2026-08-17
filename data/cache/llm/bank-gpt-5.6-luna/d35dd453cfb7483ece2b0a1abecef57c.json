@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "anticipated continued trend",
+    "may be adjusted",
+    "actual results could differ",
+    "economic environment sensitivity"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, margins, cash flow, segment performance, and operating results. The tone is cautiously positive, but it acknowledges service productivity issues, margin compression, working-capital variability, and distribution exposure to discretionary spending. Standard accounting-estimate disclaimers and forward-looking assertions introduce some uncertainty."
+}

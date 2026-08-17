@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may be negatively impacted",
+    "we expect",
+    "over time",
+    "uncertainty about availability",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is generally detailed and provides useful operating metrics, customer counts, revenue composition, and margin data. Risk tone is moderately negative due to customer concentration in printers, declining NRE fees, obsolete inventory reserves, negative NRE margins, and potential COVID-19 supply and demand impacts. Forward-looking statements rely on expectations and uncertain development or commercialization timelines, including an apparent 2090 date error."
+}

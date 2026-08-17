@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict the ultimate effect",
+    "to the extent possible",
+    "primarily due to",
+    "unless otherwise specified",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, identifying specific cost pressures, margin deterioration, currency effects, supply-chain disruptions, and geopolitical exposure. Risk disclosure is relatively transparent, though some forward-looking mitigation language remains non-specific and the excerpt contains substantial boilerplate and technical detail."
+}

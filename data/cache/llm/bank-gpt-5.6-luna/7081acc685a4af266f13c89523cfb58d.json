@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believed adequate by management",
+    "could cause actual loan losses to differ materially",
+    "a number of factors",
+    "please refer to the discussion",
+    "expected losses inherent"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, reporting strong growth in net income and assets, but includes substantial accounting-policy jargon and cross-references. Credit-loss estimates remain sensitive to historical loss ratios, risk ratings, and economic conditions, while declining net interest income and margin indicate some pressure."
+}

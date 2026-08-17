@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "believed to be reasonable",
+    "could differ from",
+    "whenever events or changes in circumstances indicate",
+    "significant management judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on asset growth, loan performance, and non-performing assets, with an overall mildly positive tone. Key risks are concentrated in management estimates for loan-loss allowances, securities impairments, taxes, goodwill, and intangible assets, where outcomes could vary materially under different assumptions."
+}

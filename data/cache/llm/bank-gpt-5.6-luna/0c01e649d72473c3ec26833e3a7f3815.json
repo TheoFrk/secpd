@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.66,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-binding letter of intent",
+    "potentially finalized",
+    "believes it will need",
+    "no assurance of financing",
+    "substantial doubt about going concern"
+  ],
+  "risk_summary": "The company reports recurring losses, high liquidity risk, a working-capital deficit, and substantial doubt about its ability to continue as a going concern. Its stabilization plan depends heavily on non-binding merger and property transactions and uncertain future financing. Operational growth and cost-reduction expectations are presented optimistically but are not fully supported by firm commitments or quantified execution milestones."
+}

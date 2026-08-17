@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unpredictable delays",
+    "may delay or derail",
+    "number of factors",
+    "reasonably possible",
+    "could have a material effect"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including customer concentration, shipment trends, revenue, profitability, cash flow, and tax rates. Key risks include dependence on a small number of public-sector customers, tender and geopolitical delays, significant sales volatility, foreign operations, and estimates surrounding deferred tax assets. Overall tone is cautiously positive because the company remains profitable, debt-free, and cash-generative, but future performance is materially dependent on order timing and global demand."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impact is uncertain",
+    "numerous factors and future developments",
+    "risks and uncertainties",
+    "non-GAAP measures",
+    "no such estimate is made"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and subscriber metrics, but presents mixed performance: revenue and subscriptions grew while operating profit and margins declined. Risk disclosure relies on broad macroeconomic and competitive uncertainties, and some cost impacts are explicitly not estimated, limiting forward-looking precision."
+}

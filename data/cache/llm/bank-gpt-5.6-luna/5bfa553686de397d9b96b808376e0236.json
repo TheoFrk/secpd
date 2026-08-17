@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "do not anticipate a significant decline",
+    "sufficient to meet foreseeable needs",
+    "generally tied to the overall health of the economy",
+    "many other factors"
+  ],
+  "risk_summary": "The disclosure is generally precise and strongly quantified, highlighting substantial revenue, profitability, operating-ratio, volume, pricing, and cost trends. Risk tone is confident and favorable, but the business remains exposed to economic demand, fuel-price volatility, labor productivity, capacity conditions, and debt-covenant performance. Management relies on moderately hedged forward-looking language when discussing future costs, demand, liquidity, and covenant compliance."
+}

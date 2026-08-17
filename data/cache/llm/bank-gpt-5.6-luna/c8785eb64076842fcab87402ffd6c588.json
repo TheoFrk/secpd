@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could adversely affect",
+    "among other things",
+    "cautiously optimistic",
+    "excerpt appears truncated"
+  ],
+  "risk_summary": "The disclosure identifies substantial exposure to demand weakness, supply-chain disruption, inflation, tariffs, China-related geopolitical risk, customer excess inventory, and cash-flow pressure, while providing limited quantified estimates of potential impact. It includes useful cash-flow and commission figures, but relies heavily on broad conditional language and a truncated passage, reducing clarity on forward outlook and downside magnitude."
+}

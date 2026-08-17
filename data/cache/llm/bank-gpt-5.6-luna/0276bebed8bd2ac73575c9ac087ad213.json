@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to timing",
+    "partially offset",
+    "significant judgment and expertise",
+    "material adverse effect",
+    "changes in leasing assumptions"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, with year-over-year explanations for revenue, expenses, debt costs, contingent liabilities, and tax effects. Reported profitability is heavily influenced by a $219.6 million tax benefit and a $28.2 million deconsolidation gain, while rising interest expense and contingent liabilities represent ongoing risk factors. Some explanations rely on broad attribution to timing, assumptions, and valuation judgments."
+}

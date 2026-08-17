@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "among other things",
+    "results of future periods may be impacted",
+    "we believe ... is adequate",
+    "sufficient to meet our cash requirements",
+    "subject to annual impairment tests"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified regarding sales, income, cash, debt repayment, inventory, and capital expenditures, with a moderately positive operating tone. Risk disclosure relies on recurring estimate-based boilerplate around reserves, credit losses, impairment, taxes, and revenue recognition, without quantifying sensitivity to adverse outcomes. Liquidity appears adequate based on disclosed cash and expected operating cash flow, but working-capital growth and acquisition-related financing remain relevant risks."
+}

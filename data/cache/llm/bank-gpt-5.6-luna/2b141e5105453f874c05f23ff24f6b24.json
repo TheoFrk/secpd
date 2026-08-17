@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we expect",
+    "may translate to sales opportunities",
+    "there can be no assurance",
+    "currently assessing the potential impact",
+    "threaten patient access"
+  ],
+  "risk_summary": "The excerpt provides several quantified operating metrics and identifies specific reimbursement, regulatory, market, litigation, and product risks. However, forward-looking growth claims rely heavily on expectations and conditional language, while the lengthy regulatory discussion and boilerplate disclaimers reduce clarity. Overall tone is cautiously neutral, balancing market opportunities against reimbursement disruption and execution risks."
+}

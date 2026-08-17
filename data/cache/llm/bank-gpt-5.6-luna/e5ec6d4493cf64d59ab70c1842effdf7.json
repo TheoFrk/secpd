@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expectations based on reasonable assumptions",
+    "risks and uncertainties",
+    "should improve",
+    "if we can adequately control",
+    "as deemed necessary"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding sales, profitability, customer concentrations, guarantees, and financing constraints. Tone is cautiously optimistic, but profitability declined materially due to the prior-year one-time gain and the business remains exposed to credit availability, cost inflation, concentration, weather, labor, and market risks."
+}

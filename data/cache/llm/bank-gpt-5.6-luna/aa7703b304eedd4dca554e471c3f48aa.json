@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "further analysis ... infeasible",
+    "unfavorable rulings could occur",
+    "may cause a material adverse impact",
+    "currently identified claims",
+    "non-GAAP metric exclusions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear explanations of sales, margins, ROIC, comparable sales, and accounting changes. Performance was broadly stable but showed modest pressure in net sales, operating income, ROIC, and card penetration. Legal contingencies and forward-looking statements introduce standard uncertainty, including the possibility of material adverse impacts from unfavorable rulings."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "when and if offered",
+    "certain assumptions made",
+    "primarily through",
+    "may choose to mitigate"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on portfolio scale, leverage, liquidity sources, maturities, and equity financing. Risk tone is generally confident, supported by strong occupancy and diversified assets, but reliance on capital-market access and multiple prospective funding sources introduces refinancing and execution risk."
+}

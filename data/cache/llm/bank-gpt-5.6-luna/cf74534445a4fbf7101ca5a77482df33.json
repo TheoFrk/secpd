@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "estimates of future claim payments",
+    "catastrophe losses",
+    "unfavorable prior year loss development",
+    "93.7% New York premium concentration",
+    "accounting standard change"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively informative, but contains substantial insurance-accounting definitions and boilerplate explanation. Risk is elevated by catastrophe-driven deterioration in the loss ratio, unfavorable prior-year development, investment losses, and strong geographic concentration in New York."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.53,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "numerous assumptions, risks and uncertainties",
+    "full impact ... not yet known",
+    "unclear whether",
+    "could have a material adverse effect",
+    "reasonable and supportable forecasts"
+  ],
+  "risk_summary": "The disclosure identifies meaningful acquisition, credit-loss-model, LIBOR-transition, market, operational, legal, and regulatory risks, with some quantitative detail including a projected 20%–30% increase in credit-loss allowances. Risk language is partly boilerplate and relies on unresolved uncertainties, particularly regarding LIBOR effects and the final CECL impact on financial condition, liquidity, and capital ratios."
+}

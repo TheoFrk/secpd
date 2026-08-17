@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "no obligation to update",
+    "subject to certain adjustments",
+    "ability to obtain financing on favorable terms"
+  ],
+  "risk_summary": "The excerpt combines substantial transaction and portfolio quantification with extensive standard forward-looking disclaimers. Key risks include leverage and refinancing, capital-market access, operator and tenant financial weakness, regulatory and reimbursement changes, litigation, acquisition execution, and lease renewal exposure. Overall tone is cautiously constructive but materially qualified by broad, largely non-quantified contingencies."
+}

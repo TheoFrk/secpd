@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "alternative assumptions could produce materially different results",
+    "requires extensive accounting judgment",
+    "if underlying facts and circumstances change",
+    "expected to be realized",
+    "material effect on results of operations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, with clear year-over-year explanations and reconciliation of non-GAAP measures. Key risks relate to customer mix and margin pressure, restructuring charges, self-insurance estimates, impairment judgments, and supplier incentive assumptions. Overall tone is modestly positive, though several standard accounting-estimate caveats limit certainty."
+}

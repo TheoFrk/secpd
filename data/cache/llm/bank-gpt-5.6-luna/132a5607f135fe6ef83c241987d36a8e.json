@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "risks and uncertainties cannot be predicted or quantified",
+    "expressly disclaims obligation to update",
+    "continues to explore new ideas",
+    "unsuccessful auctions and liquidity issues"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and liquidity information, but is heavily padded with standard forward-looking disclaimers and repeated management framing. Key risks include driver retention, fuel-cost pressure, incomplete fuel surcharge recovery, weaker freight demand, and impaired liquidity in auction-rate securities, although the company reports no debt and positive earnings and cash flows."
+}

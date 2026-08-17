@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "significant operational benefits",
+    "do not anticipate additional costs",
+    "non-GAAP supplemental measure",
+    "ability to compare periods significantly affected",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but relies on standard MD&A boilerplate and non-GAAP measures. Risk factors include a real estate impairment, higher interest expense, transformation costs, and upcoming term-loan maturity exposure, partially offset by strong occupancy and higher NOI."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to predict future effects",
+    "numerous evolving factors we cannot reliably predict",
+    "may materially and adversely affect",
+    "inherently imprecise estimates",
+    "subject to significant management judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on financing, cash flows, hedging, and accounting assumptions, but highlights material exposure to volatile oil and gas prices, COVID-19 effects, liquidity, and reserve-estimation uncertainty. Risk language is partly standard forward-looking disclosure, though the operational and financial impacts described are credibly adverse."
+}

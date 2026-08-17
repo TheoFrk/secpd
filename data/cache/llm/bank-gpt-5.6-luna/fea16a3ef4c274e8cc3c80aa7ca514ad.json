@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "other factors",
+    "losses are anticipated",
+    "subjective assumptions",
+    "sufficiently probable"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and clearly reports rapidly increasing operating losses, minimal revenue, substantial R&D spending, and continued funding needs. Risk tone is materially negative, although management frames losses as planned investments ahead of commercialization. Some boilerplate forward-looking language and reliance on subjective accounting assumptions reduce transparency regarding future performance and liquidity risk."
+}

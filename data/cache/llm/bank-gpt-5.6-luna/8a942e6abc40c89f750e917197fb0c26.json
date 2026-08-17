@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not obligated to update",
+    "many possible events or factors",
+    "as demand dictates",
+    "adequate yield spread"
+  ],
+  "risk_summary": "The excerpt is strongly quantified regarding acquisitions, occupancy, leverage, liquidity, cash flows, and investment exposures, but contains extensive repeated forward-looking disclaimer language. The risk tone is moderately positive, while notable risks include lower overall occupancy, constrained homebuyer financing, reliance on acquisitions and refinancing, margin debt, and substantial investing cash outflows."
+}

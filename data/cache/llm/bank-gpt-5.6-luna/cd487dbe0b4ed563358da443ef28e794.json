@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "currently expect",
+    "ultimate impact difficult to predict",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative liquidity, margin, working-capital, and earnings data, but contains substantial standard forward-looking disclaimers and pandemic-related uncertainty. Risk tone is moderately negative due to COVID-19 impacts, structural product obsolescence, supply-chain exposure, and declining earnings, although strong liquidity and improved margins provide mitigating support."
+}

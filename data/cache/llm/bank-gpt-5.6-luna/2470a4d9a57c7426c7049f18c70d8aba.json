@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "low single-digit range of 0 to 5 percent",
+    "expected to",
+    "excluding impairment charge",
+    "non-GAAP measures",
+    "may not be comparable"
+  ],
+  "risk_summary": "The outlook acknowledges deteriorating visibility, cautious investment, sluggish demand, and a challenging planning environment across several markets. It provides quantified growth and margin targets, but these rely on broad forward-looking assumptions and exclusions such as the goodwill impairment charge. The extensive non-GAAP discussion may complicate comparability with GAAP results and other companies."
+}

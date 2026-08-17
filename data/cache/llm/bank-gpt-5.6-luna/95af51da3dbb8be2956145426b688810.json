@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to uncertainties",
+    "not possible to predict",
+    "significant judgments",
+    "may require additional reserves",
+    "qualitative or quantitative approach"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantification of receivable, inventory, environmental, and goodwill adjustments, but relies on estimates and acknowledges material uncertainty around remediation costs and impairment assumptions. The tone is primarily technical and neutral, with negative risk signals from goodwill impairment, nickel-price sensitivity, and potential additional environmental reserves."
+}

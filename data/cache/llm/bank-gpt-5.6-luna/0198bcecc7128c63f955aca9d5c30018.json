@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgments and estimates",
+    "actual results may differ",
+    "more likely than not",
+    "alternative assumptions",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified operating trends, but relies heavily on valuation assumptions, projections, discount rates, and impairment triggers that could materially change reported results. Prior goodwill, intangible-asset, property-and-equipment, and affiliate impairment charges, along with revenue deterioration and a weak economic environment, indicate elevated credit and operating risk. The tone is predominantly cautionary but not crisis-like."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.2,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to separate section",
+    "no substantive discussion",
+    "boilerplate caption",
+    "page-reference deflection"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and defers the required discussion to another section. This limits standalone assessability and may obscure material operating or liquidity developments without the referenced content."
+}

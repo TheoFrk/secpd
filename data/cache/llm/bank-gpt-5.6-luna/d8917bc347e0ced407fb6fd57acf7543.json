@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "sustainable growth and shareholder value",
+    "a number of factors",
+    "could adversely impact",
+    "currently view the environment as stable",
+    "not comparable to similarly titled measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on revenue, cash flows, financing, acquisition consideration, and currency effects, supporting relatively good transparency. Risk discussion is generally balanced but includes broad, non-quantified dependencies on healthcare utilization, government funding, pricing, macroeconomic conditions, and execution of the Bard acquisition. The overall tone is cautiously positive, with meaningful transaction, leverage, foreign exchange, and market-exposure risks."
+}

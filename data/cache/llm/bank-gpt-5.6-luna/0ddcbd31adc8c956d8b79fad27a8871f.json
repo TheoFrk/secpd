@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "approximately 500 positions",
+    "anticipates cumulative pretax charges",
+    "key factors influencing our business",
+    "tables set forth",
+    "incomplete financial tables"
+  ],
+  "risk_summary": "The excerpt provides useful quantified restructuring charges and acquisition-related impacts, but contains substantial boilerplate and an incomplete or poorly extracted presentation of results. Restructuring, commodity costs, acquisition integration, and legal expenses indicate moderate operational and execution risk, while the overall tone remains cautiously positive."
+}

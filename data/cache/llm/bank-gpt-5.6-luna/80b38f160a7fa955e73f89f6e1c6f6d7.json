@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "materially different financial condition",
+    "reasonable likelihood",
+    "no guarantee",
+    "various factors",
+    "could differ significantly"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative disclosure on securities, loan-loss allowances, impairment, and deferred taxes, but relies on management judgments, estimates, and qualitative assumptions in several material areas. Risk tone is cautiously constructive, emphasizing growth, margin improvement, and diversification while acknowledging valuation uncertainty, credit-loss variability, tax-asset recoverability, and interest-rate risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "no guarantee financing could be obtained",
+    "there can be no assurance",
+    "acceptable terms, if at all",
+    "forced to delay, reduce or eliminate"
+  ],
+  "risk_summary": "The excerpt explicitly identifies substantial doubt about the company’s ability to continue as a going concern, with continuing losses, negative operating cash flow, and a need for substantial additional capital. Although it provides useful quantified liquidity and financing information, repeated conditional language and reliance on future financing underscore significant funding and dilution risk."
+}

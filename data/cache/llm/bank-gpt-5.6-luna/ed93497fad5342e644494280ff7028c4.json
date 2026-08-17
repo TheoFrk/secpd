@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "subject to management’s judgment",
+    "various other assumptions",
+    "substantial future taxable income",
+    "valuation allowance"
+  ],
+  "risk_summary": "The excerpt presents a materially improved operating and earnings profile in 2017, supported by quantified revenue, income, cash, and debt figures and extensive product disclosures. Key risks remain concentrated in semiconductor demand, inventory obsolescence, revenue allowances, goodwill impairment, tax-credit realization, and reliance on subjective accounting estimates. The tone is cautiously optimistic, but the near break-even net income and substantial deferred-tax valuation allowance indicate ongoing financial vulnerability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.55,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "safe-harbor disclaimer",
+    "unable to estimate future revenues",
+    "no obligation to update",
+    "additional financing unavailable",
+    "substantial doubt going concern"
+  ],
+  "risk_summary": "The company reports severe financial distress, including a $13.5 million net loss, a $172,660 working-capital deficit, negative operating cash flow, and insufficient cash to operate for the next twelve months. Revenue remains limited and future revenue is highly uncertain, while substantial impairments and dependence on new debt or equity financing elevate liquidity and execution risk. Management explicitly states that substantial doubt exists regarding the company’s ability to continue as a going concern."
+}

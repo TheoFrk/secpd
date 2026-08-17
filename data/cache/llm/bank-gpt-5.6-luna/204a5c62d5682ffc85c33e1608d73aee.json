@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict extent",
+    "expected to continue",
+    "currently evaluating impact",
+    "fair value adjustment",
+    "stranded costs"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with clear attribution of revenue and operating-income changes to acquisitions, currency effects, cost savings, and customer attrition. Risk is mixed: acquisitions and cost initiatives support performance, but declining Norton revenue, LifeLock operating losses, stock-based compensation, integration costs, foreign-exchange exposure, and anticipated material accounting impacts remain concerns."
+}

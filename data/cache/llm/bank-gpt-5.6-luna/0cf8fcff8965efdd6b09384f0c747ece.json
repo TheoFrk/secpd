@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "possible adverse result of the litigation",
+    "if favorable market conditions develop",
+    "may be required to raise capital",
+    "subject to many variables"
+  ],
+  "risk_summary": "The excerpt discloses substantial doubt about the company’s ability to continue as a going concern, driven by net losses, negative operating cash flows, and unresolved litigation. Liquidity is projected only through the second quarter of 2026 excluding a potential adverse litigation outcome, with dependence on uncertain capital raising, cost reductions, or a strategic transaction. Extensive accounting-estimate language and forward-looking caveats increase uncertainty around revenue, contract profitability, and reported results."
+}

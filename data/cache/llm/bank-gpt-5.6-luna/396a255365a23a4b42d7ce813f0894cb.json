@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor disclaimer",
+    "risks and uncertainties",
+    "cannot be predicted or quantified",
+    "could not be determined with precision",
+    "management's internal considerations"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and reports strong operating performance, cash generation, and a debt-free balance sheet, producing a mildly positive overall risk tone. However, extensive forward-looking safe-harbor language is boilerplate, and auction-rate securities remain exposed to failed auctions, limited observable market data, and potentially significant valuation changes."
+}

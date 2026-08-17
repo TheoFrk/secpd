@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "may be significant",
+    "not limited to these factors",
+    "future market factors beyond the Company’s control",
+    "other relevant factors"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified earnings and asset-quality results, with low charge-offs and stable allowance coverage supporting a generally positive risk tone. However, allowance adequacy relies heavily on subjective management estimates, broad economic assumptions, unallocated reserves, and extensive non-exhaustive factor lists, creating meaningful estimation uncertainty. The long, repetitive critical-accounting discussion is technically detailed but somewhat difficult to assess efficiently."
+}

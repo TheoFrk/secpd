@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects period end growth",
+    "other qualitative and quantitative factors",
+    "no material updates made",
+    "one-time items",
+    "appropriate collateral and guarantee positions"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, but includes boilerplate risk-management language and forward-looking expectations without detailed sensitivity ranges. Risk tone is moderately cautious, reflecting a 52% decline in diluted EPS, sharply lower noninterest income, higher credit-loss provision, funding-cost pressure, and rising nonperforming assets, despite loan and deposit growth."
+}

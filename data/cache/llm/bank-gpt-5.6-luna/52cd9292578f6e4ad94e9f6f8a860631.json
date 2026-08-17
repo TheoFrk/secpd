@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "no assurances",
+    "not reasonably likely to materially change",
+    "various other assumptions",
+    "if future trends were to change significantly"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, including sensitivity analyses for revenue reserves and pension assumptions. Key risks include estimation uncertainty, pension asset returns and discount rates, potential impairment, and weaker operating cash flow, but the overall tone is neutral to mildly constructive."
+}

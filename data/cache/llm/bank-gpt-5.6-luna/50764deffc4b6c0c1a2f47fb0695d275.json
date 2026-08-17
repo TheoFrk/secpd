@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management’s assessment",
+    "other factors and trends",
+    "expected cash flows",
+    "if circumstances warrant",
+    "reasonably could have used"
+  ],
+  "risk_summary": "The excerpt provides substantial technical detail on loan-loss allowances, acquired-loan valuations, FDIC indemnification assets, and impairment testing, but relies heavily on management estimates and forward-looking cash-flow assumptions. Credit risk is present in references to agricultural, credit-card, and commercial-real-estate concentrations, while reported margin expansion and quantified adjustments create a mildly positive overall tone."
+}

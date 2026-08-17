@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "various assumptions and analyses",
+    "many factors",
+    "significant additional financing",
+    "standard adjustment features"
+  ],
+  "risk_summary": "The company has no product revenue, minimal cash, a substantial working-capital deficit, increasing losses, and explicitly states that significant additional financing is required to continue as a going concern. Although operating expense changes and financing terms are quantified, the forward-looking discussion relies heavily on broad contingencies and boilerplate assumptions."
+}

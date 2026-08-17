@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "other words of similar meaning",
+    "non-GAAP adjustments",
+    "continued success and growth"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and safe-harbor language, with broad unquantified risk categories and a disclaimer of any obligation to update statements. Management presents a confident growth and transformation narrative supported by selected metrics, but substantial non-GAAP adjustments and ongoing restructuring charges introduce interpretive risk."
+}

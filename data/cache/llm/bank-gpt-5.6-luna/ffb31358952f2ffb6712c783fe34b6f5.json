@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "decreased primarily as a result of the aforementioned events",
+    "generally",
+    "may not be comparable",
+    "limitations, which include, but are not limited to",
+    "pro-rata information should not be considered independently"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily reliant on non-GAAP measures, extensive definitions, and recurring limitations, which reduces direct comparability and clarity. Reported net income, FFO, and FAD declined, with additional pressure from leasing costs, tenant capital improvements, and reduced installment payments, although debt repayments reduced interest expense. The overall tone is neutral to mildly negative rather than crisis-like."
+}

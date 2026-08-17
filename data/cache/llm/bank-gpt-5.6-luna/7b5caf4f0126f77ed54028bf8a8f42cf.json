@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results could differ significantly",
+    "reasonable and supportable forecasts",
+    "may not be comparable",
+    "more frequently if events or circumstances indicate"
+  ],
+  "risk_summary": "The excerpt is generally factual and quantitatively supported, including ACL sensitivity, unemployment assumptions, acquisition timing, and goodwill testing results. Credit risk is elevated by increased provisioning and weaker macroeconomic forecasts, while management presents the outlook as controlled and supported by strong credit metrics. Significant estimation subjectivity and forward-looking assumptions remain key uncertainties."
+}

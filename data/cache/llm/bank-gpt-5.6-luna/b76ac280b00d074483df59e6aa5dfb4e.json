@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "assumes no obligation to update",
+    "adverse economic conditions",
+    "other competitive factors"
+  ],
+  "risk_summary": "The disclosure is relatively specific and highly quantified, but includes standard forward-looking-statement disclaimers and a broad, non-ranked list of potential adverse factors. Operating performance weakened materially, with declines in revenue, earnings, margins, pricing, and fleet utilization, while increased spot-market exposure and idle time add risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.25,
+  "complexity_score": 0.65,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "optimism is guarded",
+    "cannot be reasonably estimated",
+    "as they arise",
+    "could have an adverse effect"
+  ],
+  "risk_summary": "The excerpt is largely precise and well quantified, showing improved sales, margins, operating income, and net income, but with reduced cash and substantial capital expenditures. Liquidity appears adequate and debt-free, although inventory growth, commercial sales declines, import dependencies, cost inflation, uncertain tax positions, and deferred compensation create risks. The outlook is moderately positive but includes guarded language regarding elections, consumer confidence, and economic conditions."
+}

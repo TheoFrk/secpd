@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "elevated uncertainty and change",
+    "may negatively impact",
+    "primarily include",
+    "underlying performance of our core operations",
+    "non-GAAP operating measures"
+  ],
+  "risk_summary": "The disclosure is detailed and includes material quantified impacts, but relies on technical accounting terminology and broad qualifying language. Key risks include prolonged low interest rates, spread compression, adverse insurance assumption changes, higher morbidity, market volatility, and significant valuation-related losses. Management presents these risks in a generally controlled and explanatory tone rather than a crisis-like manner."
+}

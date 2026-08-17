@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could materially differ",
+    "believe sources will be sufficient",
+    "subject to factors beyond our control",
+    "refinance or restructure indebtedness"
+  ],
+  "risk_summary": "The excerpt contains substantial standard legal and accounting boilerplate, with moderate hedging around forecasts, liquidity, and future performance. Liquidity risk is explicitly identified: the company anticipates more than $5 million in near-term requirements and may need refinancing or new capital if operating cash flow is insufficient."
+}

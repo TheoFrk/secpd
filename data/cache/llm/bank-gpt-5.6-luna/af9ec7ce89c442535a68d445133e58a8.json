@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "timing cannot be predicted",
+    "subject to change at any time",
+    "generally available to meet liquidity needs",
+    "qualifications, limitations and uncertainties",
+    "expects ratings will be increased"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, identifying $3.005 billion of available liquidity against $958.1 million of long-term debt principal, but liquidity is exposed to investment-market volatility and restrictions on pledged or subsidiary-held assets. Credit risk is elevated because senior debt ratings are below investment grade, while the expectation of rating improvement after the Jefferies transaction is forward-looking and uncertain."
+}

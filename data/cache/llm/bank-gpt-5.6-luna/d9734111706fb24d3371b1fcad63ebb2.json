@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective assessments and significant judgment",
+    "various factors and scenarios",
+    "inherently uncertain estimates",
+    "to the extent it is reasonable to do so",
+    "Index to Financial Statements repetition"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including portfolio composition, debt-rate exposure, credit ratings, and debt repurchases. Risk is framed constructively, but substantial reliance on estimates, fair-value judgments, VIE consolidation assessments, capital-market access, and tenant or property performance creates meaningful uncertainty."
+}

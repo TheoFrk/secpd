@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to assess potential impact",
+    "cannot reasonably estimate",
+    "we believe",
+    "if any",
+    "designed to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on trial sizes, contract revenue, timelines, and regulatory status, but relies heavily on forward-looking and aspirational claims regarding clinical efficacy, regulatory approval, commercialization, and patent protection. COVID-19 effects, access to capital, operational disruptions, and trial delays are expressly described as uncertain and not reasonably estimable. Overall tone is cautiously promotional but reflects material development-stage and financing risks."
+}

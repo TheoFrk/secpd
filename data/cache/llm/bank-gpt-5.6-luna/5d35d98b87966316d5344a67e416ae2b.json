@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "assuming difficulties were weather driven",
+    "could well reach",
+    "subject to temporary increase",
+    "without charge or expense",
+    "non-voting profits interests"
+  ],
+  "risk_summary": "The excerpt is relatively quantitative, but its dense structure and extensive descriptions of the EAM restructuring and ownership rights make economic dependencies and governance limitations harder to assess. Operating income declined materially despite stable net income, while the outlook relies on favorable economic, monetary, and market assumptions. Overall tone is mildly positive but includes exposure to fund fee waivers, asset flows, and EAM-related distributions."
+}

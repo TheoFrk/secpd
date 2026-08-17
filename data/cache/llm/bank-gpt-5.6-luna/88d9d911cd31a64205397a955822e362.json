@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "without limitation",
+    "various assumptions",
+    "believe assumptions are appropriate"
+  ],
+  "risk_summary": "The excerpt contains meaningful quantified deterioration, including revenue down 14.2%, subscription revenue down 13.5%, and subscribers down 14.9%, alongside weaker consumer sentiment and product-market resonance. Risk disclosures rely substantially on standard forward-looking, impairment, and cross-reference language, while business and segment descriptions are lengthy and complex. Overall tone is materially cautious and negative, though not crisis-like."
+}

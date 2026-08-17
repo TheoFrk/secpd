@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "historically significant volatility",
+    "management discretion on bitcoin sales",
+    "material impact on earnings",
+    "strategic acquisition targets"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified regarding capacity, miners, bitcoin holdings, collateral, valuation, and operating results, but includes standard forward-looking disclaimers and discretionary language around bitcoin sales and expansion. Risk is elevated due to bitcoin price volatility, energy and mining economics, impairment and accelerated depreciation, substantial net losses, and reliance on continued infrastructure expansion."
+}

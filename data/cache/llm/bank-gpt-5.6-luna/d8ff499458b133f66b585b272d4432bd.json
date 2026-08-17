@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "management estimates and judgments",
+    "best estimate of selling price",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and includes meaningful revenue-recognition criteria and selected quantitative disclosures, but relies on standard forward-looking disclaimers and management estimates. Semiconductor industry cyclicality, customer acceptance conditions, warranty obligations, and revenue allocation judgments create execution and accounting risks. The overall tone is mildly confident but tempered by conventional risk language and an incomplete/truncated passage."
+}

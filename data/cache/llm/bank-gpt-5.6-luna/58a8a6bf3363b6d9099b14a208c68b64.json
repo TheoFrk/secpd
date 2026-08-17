@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "little or no control",
+    "other risks and factors",
+    "qualitative impairment assessment"
+  ],
+  "risk_summary": "The excerpt presents strong 2016 operating performance with quantified sales and income growth, supporting a generally confident tone. However, it contains extensive boilerplate forward-looking disclaimers and identifies material risks from customer consolidation, pricing pressure, payment terms, returns, supply-chain disruption, litigation, cybersecurity, and macroeconomic conditions. Several judgments, including impairment and tax recoverability assessments, rely on management assumptions that could differ materially from actual outcomes."
+}

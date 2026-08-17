@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe-h harbor disclaimer",
+    "numerous assumptions, risks and uncertainties",
+    "actual results may differ materially",
+    "subjective or complex judgments",
+    "unfavorable information about a borrower"
+  ],
+  "risk_summary": "The excerpt is heavily legalistic and boilerplate, emphasizing broad contingencies and limiting reliance on forward-looking statements. Credit-loss estimation depends substantially on management judgment, economic assumptions, borrower information, collateral values, and qualitative adjustments, creating material estimation risk. Quantitative tables provide useful detail, but the excerpt does not clearly quantify sensitivity to adverse scenarios or potential allowance shortfalls."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future results uncertain",
+    "best estimate of future cash flows",
+    "could exceed current reserves",
+    "if actual results are not consistent",
+    "potential impairment charges"
+  ],
+  "risk_summary": "The excerpt reports exceptionally strong 2021 growth and profitability, supported substantially by elevated OSB prices, but acknowledges cyclicality and uncertainty around future pricing and demand. Key risks include supply disruptions, labor shortages, input-cost inflation, contingency reserve estimation, and potential impairments if market conditions deteriorate."
+}

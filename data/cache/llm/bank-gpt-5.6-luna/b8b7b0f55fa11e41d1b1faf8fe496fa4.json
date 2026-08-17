@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based primarily upon historical credit loss experience",
+    "management’s expectations of future credit losses",
+    "deems collection to be probable",
+    "actual results may differ materially",
+    "indefinitely reinvest the earnings"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but relies on management estimates for collectibility, credit-loss provisions, valuation reserves, and tax outcomes. Elevated interest expense, declining store-level margins, Mexican peso weakness, and regulatory restrictions on consumer lending indicate moderate financial and operating risk, although the overall tone remains factual rather than crisis-like."
+}

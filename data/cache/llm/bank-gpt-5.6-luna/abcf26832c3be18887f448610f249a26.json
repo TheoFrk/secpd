@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no obligation to update",
+    "non-GAAP exclusions",
+    "reasonable assurance",
+    "sufficient funds for the foreseeable future"
+  ],
+  "risk_summary": "The excerpt uses extensive standard safe-h harbor, internal-control, and non-GAAP language that is repetitive and limits comparability, while relying on broad assumptions and management judgments. Liquidity disclosure is supported by quantified cash flow, debt capacity, ratings, and a $3.5 billion undrawn revolver, producing a generally confident but qualified risk tone."
+}

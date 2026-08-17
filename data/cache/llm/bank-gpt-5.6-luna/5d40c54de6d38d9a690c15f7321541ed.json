@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could differ materially",
+    "unable to estimate total damages",
+    "inherently unpredictable",
+    "cannot reliably determine potential liability"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and segment detail, but relies on standard forward-looking disclaimers and presents significant uncertainty around approximately 1,900 cumulative-trauma product-liability lawsuits. Potential damages and loss ranges are not estimable, and liabilities may not be recognized until late in litigation, creating material tail-risk exposure."
+}

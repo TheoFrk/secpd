@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.81,
+  "risk_sentiment": -0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "significant judgment",
+    "could materially adversely affect",
+    "unobservable inputs",
+    "hypothetical revisions"
+  ],
+  "risk_summary": "The excerpt is highly technical and largely boilerplate, emphasizing material sensitivity to actuarial, valuation, interest-rate, tax, and collectibility assumptions. It identifies potentially significant downside exposure, including an estimated $700 million pretax impact from a specified tax-rate scenario, but provides limited quantified sensitivity beyond that example."
+}

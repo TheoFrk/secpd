@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "actual results may differ materially",
+    "significant risks and uncertainties",
+    "do not undertake any obligation to update",
+    "quarterly fluctuations may not be predictive"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer language and repeated caveats that limit reliance on management projections. It also provides meaningful quantified acquisition and revenue information, including strong growth, but highlights customer concentration, order timing, regulatory approvals, cost volatility, and uncertain quarterly performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future trend",
+    "not subject to accurate forecasting",
+    "partially offset by",
+    "primarily due to",
+    "two-month delayed basis"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but presents mixed operating performance: modest revenue growth and pricing gains were offset by lower case volumes, customer loss, utilization declines, and reduced net income. Long, technical passages and standard MD&A framing increase readability burden, while the excerpt is truncated and includes some broad forecasting limitations."
+}

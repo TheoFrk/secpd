@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "approximations to the nearest $1,000,000",
+    "primarily due to",
+    "up to $3.0 million",
+    "may be no earlier than",
+    "written demand by MINOSA"
+  ],
+  "risk_summary": "The disclosure is numerically detailed but highly complex and includes material debt dependence, recurring operating losses, negative operating cash flow, accrued interest growth, and only $1.1 million of cash. Liquidity appears reliant on additional borrowings, while creditor conversion, collateral, and demand-repayment provisions create significant refinancing and control risk."
+}

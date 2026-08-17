@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "numerous assumptions and risks",
+    "actual results may differ materially",
+    "no obligation to update",
+    "significant management judgment",
+    "inherent risks not reflected"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and broad, largely unquantified risk categories, limiting visibility into the magnitude and likelihood of adverse outcomes. Credit-loss reserves and fair-value measurements depend materially on subjective estimates, ratings, economic assumptions, and unobservable inputs. The operating tone is modestly positive based on reported earnings and balance-sheet strength, but management remains cautious regarding recovery, rates, regulation, and fiscal conditions."
+}

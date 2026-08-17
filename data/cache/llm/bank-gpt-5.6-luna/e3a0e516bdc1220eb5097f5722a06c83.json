@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "cannot predict the outcome",
+    "no assurance",
+    "material impact"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but relies on standard forward-looking disclaimers and provides no estimated loss range for the material Rambus litigation. Operating risk is elevated, reflected in sharply lower gross margins, declining DRAM pricing, debt restructuring losses, and potential liquidity impact from an adverse judgment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "full extent and impact cannot be reasonably estimated",
+    "may have a material adverse impact",
+    "Adjusted EBITDA exclusions",
+    "subject to limitations",
+    "ramp up is slower than expected"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and detailed disclosures, but contains lengthy boilerplate discussion of COVID-19 and extensive non-GAAP caveats. Risk tone is mildly negative due to ongoing commercial aerospace weakness, inflation, higher interest rates, supply-chain disruption, geopolitical events, and uncertainty regarding future impacts."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted results exclude discrete items",
+    "expected to be tax-free",
+    "customary approvals and closing conditions",
+    "underlying performance",
+    "not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, highlighting revenue, cash flow, EPS, share repurchases, pension charges, tax items, and discontinued operations. Risk tone is moderately positive because operating cash flow, free cash flow, adjusted operating income, and adjusted EPS improved, although reported operating income and GAAP EPS declined and results rely materially on adjustments and one-time items."
+}

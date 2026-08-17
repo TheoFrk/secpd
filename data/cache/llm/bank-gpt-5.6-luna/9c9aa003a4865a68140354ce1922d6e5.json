@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.46,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cautionary statements",
+    "significant risks",
+    "read in conjunction with",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or operational information and defers the required discussion to another exhibit. Its boilerplate cross-reference limits transparency and prevents meaningful assessment of liquidity, performance, or risk exposure."
+}

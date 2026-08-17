@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "subjective analysis methodology",
+    "could materially differ",
+    "potential adverse effects"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and reliance on subjective estimates, models, collateral valuations, and changing regulations. It provides some concrete information, including a $13.3 million loan-loss allowance and wholesale-funding ratios, while identifying interest-rate, credit, funding, regulatory, and valuation risks. Overall tone is cautiously neutral with modestly positive operating results but meaningful uncertainty around future outcomes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective judgments and estimates",
+    "under certain circumstances",
+    "anticipated economic conditions",
+    "could adversely affect earnings",
+    "market-based assumptions"
+  ],
+  "risk_summary": "The excerpt is generally factual and includes specific transaction values, asset balances, and accounting frameworks, but relies on management estimates for loan losses, goodwill, servicing rights, and fair values. Risk is presented in a balanced, largely standard MD&A tone, with potential adverse effects acknowledged but not quantified in several areas."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potential future effects uncertain",
+    "may be delayed",
+    "cannot assure",
+    "believe ... should",
+    "subject to budgets and priorities"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but reports significant deterioration, including an 18.8% sales decline, operating and net losses, reduced liquidity, and higher inventory. Forward performance depends on uncertain product launches, customer spending patterns, government budgets, and coronavirus-related supply-chain impacts, with substantial reliance on conditional expectations."
+}

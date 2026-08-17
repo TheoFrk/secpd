@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may vary materially",
+    "does not undertake obligation to update",
+    "scope and cost under review",
+    "potential site / future expansion"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with detailed revenue, margin, expense, acquisition, debt, and restructuring disclosures. Risk is moderately negative because net income and operating income declined, margins faced pressure, and the Nanjing relocation and higher leverage introduce uncertainty, although volume growth and acquisition-related expansion provide offsets."
+}

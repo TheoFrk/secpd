@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.43,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "management believes",
+    "expected results",
+    "well contained",
+    "non-GAAP operating earnings",
+    "losses not probable"
+  ],
+  "risk_summary": "The excerpt presents a predominantly positive performance narrative with substantial quantitative disclosure on growth, asset quality, deposits, provisions, and charge-offs. Risk discussion is present but often framed through management assurances and forward-looking expectations, while non-GAAP measures and omitted tables may complicate comparability. Mortgage repurchase exposure, interest-rate pressure, portfolio concentration changes, and regulatory challenges remain notable risks."
+}

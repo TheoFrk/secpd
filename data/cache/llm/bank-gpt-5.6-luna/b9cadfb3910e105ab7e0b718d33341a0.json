@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-h harbor disclaimers",
+    "actual results may differ materially",
+    "additional contingent consideration",
+    "reliance on orders received and shipped within the same quarter",
+    "Leverage Ratio exceeded 2.50"
+  ],
+  "risk_summary": "The excerpt is relatively detailed and includes quantified acquisition, geographic, margin, tax, and leverage information, but contains substantial standard forward-looking and cautionary language. Risk tone is mildly negative due to declining revenue, leverage covenant pressure, underperforming product groups, customer cancellation provisions, and significant foreign supply and sales concentration."
+}

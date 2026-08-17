@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.35,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "expected to",
+    "cautiously optimistic",
+    "cannot predict the ultimate impact",
+    "broad-based improvement",
+    "less vulnerable to cycles"
+  ],
+  "risk_summary": "The excerpt is generally constructive and supported by substantial quantitative detail on GDP, defense budgets, revenue exposure, sales, margins, and orders. However, forward-looking statements rely on optimistic assumptions about economic growth, government funding, production cycles, and cost offsets, while acknowledging budget reductions and program cancellations as material risks."
+}

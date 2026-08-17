@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "various factors including, but not limited to",
+    "inherently uncertain estimates",
+    "did not have a material impact",
+    "mainly attributable to currency fluctuations",
+    "not exposed to significant credit risk"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate accounting-policy language and limited discussion of underlying drivers, reducing transparency despite some quantified results. Risk indicators include a net loss, negative cash balance, declining working capital, increased operating cash usage, reliance on officer/director borrowings, and doubtful utilization of net operating losses. The tone is generally neutral and procedural, with reassuring assertions that may understate financial stress."
+}

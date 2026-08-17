@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "items affecting comparability",
+    "expect to deliver",
+    "pending acquisition",
+    "quality growth"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed attribution of sales, earnings, costs, restructuring charges, and acquisition effects. Risk tone is mildly cautious due to input-cost inflation, declining GAAP EPS and returns, restructuring, and challenging consumer conditions, although management remains confident in cash generation and future growth. Non-GAAP adjustments and forward-looking growth language warrant attention when assessing underlying performance."
+}

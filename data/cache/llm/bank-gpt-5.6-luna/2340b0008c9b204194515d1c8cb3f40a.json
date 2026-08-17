@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP operating measures",
+    "not necessarily predictive of future results",
+    "strategic rationale",
+    "based on market conditions",
+    "estimates, assumptions or judgments"
+  ],
+  "risk_summary": "The disclosure is comparatively specific and well-quantified, but uses standard non-GAAP framing and extensive accounting caveats. Credit risk and earnings pressure increased, reflected in higher provision expense, charge-offs, margin compression, securities-sale losses, and declining net income, although management presents these developments as actively managed."
+}

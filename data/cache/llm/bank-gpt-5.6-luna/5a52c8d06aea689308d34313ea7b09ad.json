@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and related matters",
+    "significant estimates and judgments",
+    "no assurance that actual results will not differ",
+    "not comparable to previously reported financial statements",
+    "tables and analysis omitted"
+  ],
+  "risk_summary": "The excerpt is generally specific, with quantified subscriber, access-line, revenue, and goodwill figures, but includes substantial boilerplate and accounting-estimate caveats. Risk is elevated by declining legacy revenues, competitive pressures, acquisition-related accounting complexity, large goodwill, affiliate cash-management dependence, and non-comparable successor/predecessor periods."
+}

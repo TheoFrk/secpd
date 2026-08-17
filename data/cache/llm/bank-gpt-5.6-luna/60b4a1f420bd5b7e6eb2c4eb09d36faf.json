@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.0,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Refer to",
+    "cross-reference",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, operational, or risk information and instead directs readers to a separate management discussion. This limits standalone transparency and prevents meaningful assessment of the issuer’s risk profile from the excerpt alone."
+}

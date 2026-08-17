@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties include, but are not limited to",
+    "no assurance",
+    "subjective decisions or assessments",
+    "future results cannot be reliably predicted"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and a broad, largely non-quantified risk inventory covering demand, competition, litigation, regulation, controls, and international operations. Critical accounting disclosures provide useful quantitative detail, including allowance percentages and valuation allowances, but rely materially on management judgment and uncertain future conditions. Operating results shown in the excerpt indicate significant year-over-year declines in gross margin dollars, although the overall tone is primarily cautionary and compliance-oriented r…"
+}

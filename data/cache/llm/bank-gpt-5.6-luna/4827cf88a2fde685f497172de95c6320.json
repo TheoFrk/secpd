@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures are not a substitute",
+    "susceptible to varying calculations",
+    "may differ from other companies",
+    "unusual items that may obscure trends",
+    "tables and detailed discussion omitted"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, with limited direct discussion of adverse trends, exposures, or forward-looking risks. Extensive non-GAAP qualifications and omitted table content reduce transparency, although reported profitability and capital-related metrics convey a mildly positive tone."
+}

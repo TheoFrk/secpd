@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may differ significantly",
+    "except as required by law",
+    "strong presence and successful launch",
+    "declining revenues from matured product line"
+  ],
+  "risk_summary": "The disclosure relies heavily on standard forward-looking disclaimers and broad, largely unquantified claims regarding strategy, competitive positioning, and future growth. It acknowledges meaningful risks from declining mature-product revenues, competition, changing consumer demand, technology shifts, and funding needs, but offsets these with confident management assertions and limited numerical detail in the excerpt."
+}

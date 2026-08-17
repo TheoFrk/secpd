@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.35,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "effective inventory management",
+    "non-GAAP financial measures",
+    "omitted financial tables and guidance"
+  ],
+  "risk_summary": "The excerpt presents generally stable operating performance, positive comparable sales, improved gross margin, and reported covenant compliance, creating a moderately confident tone. However, numerous causal explanations are qualitative, key outlook and financial-ratio tables are omitted, and the excerpt is truncated, limiting assessment of leverage, liquidity, and forward-looking risk."
+}

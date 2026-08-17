@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "actual results could differ",
+    "subjective critical estimates",
+    "material adverse effects",
+    "unforeseen environmental liabilities"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including customer concentration, reserves, sales seasonality, and key accounting estimates. Risk tone is balanced but identifies meaningful exposure to economic deterioration, fixed-cost operating leverage, customer credit risk, inventory obsolescence, tax uncertainty, offshore operations, and CEO dependence. Boilerplate forward-looking language and reliance on subjective estimates modestly reduce transparency."
+}

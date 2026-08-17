@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "could have a material adverse effect",
+    "not material to results",
+    "partially offset by",
+    "anticipated benefits"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, identifying sales seasonality, foreign-exchange exposure, inflation risk, restructuring charges, inventory issues, and customer bad-debt expenses. Repetition regarding the ESQ Movado strategy adds boilerplate, while long, technical sentences reduce readability. The overall tone is cautiously neutral, with identifiable but not crisis-level operating pressures."
+}

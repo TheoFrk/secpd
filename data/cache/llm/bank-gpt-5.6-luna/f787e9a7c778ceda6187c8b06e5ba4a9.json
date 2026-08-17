@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.52,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "stable loan metrics",
+    "potential problem loans",
+    "assesses adequacy",
+    "subjective or complex judgment"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting record earnings, stronger net interest income, and low credit-loss provisions. Key risks include dependence on interest rates, lower mortgage-related income, fair-value losses, and the subjectivity of allowance-for-loan-loss estimates. Credit quality appears favorable but includes impaired loans, troubled debt restructurings, and potential problem loans."
+}

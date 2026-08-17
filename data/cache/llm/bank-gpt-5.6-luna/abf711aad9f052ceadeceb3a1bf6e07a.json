@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "various other operating income categories",
+    "favorable markets",
+    "partially offset by",
+    "change in presentation"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with favorable earnings, capital, credit-loss, and nonperforming-asset trends. However, declining client assets under custody and management, acquisition-related costs, market sensitivity, and some broad causal descriptions represent ongoing risk factors. The text is moderately complex and includes repeated revenue commentary and boilerplate management language."
+}

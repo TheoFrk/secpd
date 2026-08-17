@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.06,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks and uncertainties",
+    "we expect",
+    "cannot be certain",
+    "likely to be in default",
+    "unless we obtain a waiver"
+  ],
+  "risk_summary": "The excerpt combines extensive promotional and boilerplate business descriptions with standard forward-looking-statement disclaimers, limiting transparency about forecast reliability. The PPP loan forgiveness outcome is uncertain, and any unforgiven balance above specified thresholds could trigger a credit agreement default absent lender waivers or renegotiation. Although the potential exposure is quantified, the excerpt does not provide a clear probability assessment or resolution status."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "not able to predict market interest rate fluctuations",
+    "may not prevent material adverse effect",
+    "primarily attributed to",
+    "positive trends in qualitative factors",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, highlighting strong earnings, capital, deposits, and loan growth. Risk tone is cautiously positive, but interest-rate sensitivity, rising non-performing loans, reliance on reserve releases, and qualitative credit assumptions present material risk considerations."
+}

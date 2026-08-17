@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "low-single-digit growth",
+    "mid-single-digit growth",
+    "expected to be completed",
+    "relatively stable",
+    "disciplined risk management"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with historical performance metrics and defined forward guidance ranges. Risk tone is cautiously positive, though expectations depend on interest rates, macroeconomic conditions, and the pending First Niagara merger. Some strategic language is broad and promotional, but there is limited evidence of material evasion or crisis-level risk."
+}

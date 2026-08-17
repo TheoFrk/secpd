@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "cannot predict the outcome",
+    "could have a material financial impact",
+    "continuing economic uncertainty",
+    "significant incremental value"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, especially regarding revenue declines, cost increases, fuel sensitivity, labor costs, cash flow, and capital expenditures. Risk tone is balanced but mildly cautious, with material exposure to demand uncertainty, fuel volatility, labor negotiations, and competitive pricing. Forward-looking value and efficiency claims are less specific than the historical performance discussion."
+}

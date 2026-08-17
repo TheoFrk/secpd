@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we anticipate",
+    "estimates are inherently uncertain",
+    "subject to key judgments and assumptions",
+    "estimated remaining costs"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, but highlights material execution risks from restructuring, labor turnover, quality and waste costs, as well as a pretax loss and increased tax valuation allowances. Management presents operational improvement and growth prospects, though forward-looking market expectations remain qualified and dependent on subjective estimates."
+}

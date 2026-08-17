@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "adjusted results exclude",
+    "non-recurring adjustments",
+    "contingent earn-out liabilities",
+    "goodwill impairment charge"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides segment-level growth, declines, adjustments, and impairment details. Risk is mixed: revenue growth and reduced borrowings are offset by commercial declines, government-shutdown exposure, remediation claims, exited construction losses, disposal charges, and reliance on non-GAAP adjusted results. The extensive exclusions and dense reconciliation structure may obscure underlying operating performance."
+}

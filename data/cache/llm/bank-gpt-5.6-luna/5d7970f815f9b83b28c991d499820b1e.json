@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "low single digits",
+    "primarily due to",
+    "offset in part by",
+    "various factors",
+    "organic non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and strongly quantified, with detailed segment, revenue, margin, foreign-exchange, and outlook disclosures. Risk is moderate, reflected in declining GES profitability, adverse show rotation, retail and auto-show weakness, foreign-exchange exposure, and an expected $14 million pension-related charge. Management remains constructive but relies on forward-looking assumptions and broad operational initiatives."
+}

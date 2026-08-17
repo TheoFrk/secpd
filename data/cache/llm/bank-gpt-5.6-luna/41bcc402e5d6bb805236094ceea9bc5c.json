@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "not possible to predict all risks",
+    "including but not limited to",
+    "no obligation to update",
+    "adequate to finance requirements"
+  ],
+  "risk_summary": "The disclosure is substantially quantified regarding liquidity, debt maturities, cash flows, capital expenditures, and regulatory commitments, but is preceded and supplemented by extensive standard forward-looking-statement disclaimers. Management expresses near-term liquidity confidence while acknowledging pressure from customer losses, competition, declining access revenues, economic conditions, financing-counterparty risk, and sizable debt maturities."
+}

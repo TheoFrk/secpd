@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "unusual, infrequent or non-cash",
+    "future operating results",
+    "subjective and complex judgments",
+    "could result in additional impairment charges"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily weighted toward repetitive non-GAAP definitions and reconciliation caveats, which may complicate assessment of underlying performance. It provides useful quantitative disclosures but highlights material judgment, debt-related costs, warrant valuation volatility, tax-rate variability, and potential future impairment charges. Overall tone is cautious and neutral-to-slightly negative rather than crisis-like."
+}

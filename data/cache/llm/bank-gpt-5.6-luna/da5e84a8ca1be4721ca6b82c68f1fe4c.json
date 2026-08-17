@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "ultimate implementation",
+    "highest and best use",
+    "expected to cost approximately",
+    "additional facilities would be required"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on acreage, permitted water volumes, project duration, costs, debt, and interest expense. However, it relies heavily on optimistic projections and conditional language regarding project implementation, financing, future cash flow, and Phase II, while some facility details appear omitted. Financing dependence, compounded debt, regulatory uncertainty, and execution risk remain material despite the generally constructive tone."
+}

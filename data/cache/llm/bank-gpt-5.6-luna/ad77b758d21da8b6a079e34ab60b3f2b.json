@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.44,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "not obligated to publicly update",
+    "not expected to be materially different",
+    "subject to uncertainties"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed revenue, margin, segment, and expense comparisons. The tone is positive and growth-oriented, but standard forward-looking disclaimers and uncertainty language limit accountability for projections. Contingencies, tax examinations, litigation, foreign exchange exposure, and acquisition-related accounting remain identifiable risks, although management characterizes them as unlikely to be materially adverse."
+}

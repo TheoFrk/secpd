@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "without limitation",
+    "no assurance",
+    "outside of our control",
+    "does not undertake obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, acquisition, margin, loan growth, and credit-loss information, supporting relatively strong disclosure precision. Risk tone is generally positive, but extensive boilerplate forward-looking disclaimers and discussion of margin pressure, rising funding costs, and uncertainty temper confidence. The excerpt is truncated, limiting assessment of the complete allowance and risk discussion."
+}

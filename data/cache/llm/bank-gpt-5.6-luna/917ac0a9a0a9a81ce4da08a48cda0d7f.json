@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "may constitute the majority of our revenue",
+    "we anticipate future revenue",
+    "estimates and judgments",
+    "actual results may differ",
+    "limited rights of return"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes customer, agreement, staffing, expense, and revenue metrics, but relies on forward-looking expectations and standard accounting caveats. Risk is elevated by declining valid license agreements, customer concentration in printer shipments, significant sales and administrative expenses relative to revenue, and uncertainty around estimates and product returns."
+}

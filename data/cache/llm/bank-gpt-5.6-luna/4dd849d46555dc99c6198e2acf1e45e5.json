@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "not indicative of ongoing operations",
+    "expected to yield net annual synergies",
+    "cannot predict exact timing or amounts",
+    "excluding acquisition and integration costs"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent about GAAP/non-GAAP reconciliation, fuel costs, hedging exposure, and AirTran integration charges. Risk is elevated by declining profitability, materially higher fuel expenses, uncertain integration costs and timing, and reliance on projected synergies, although continued profitability and revenue growth support a moderately positive tone."
+}

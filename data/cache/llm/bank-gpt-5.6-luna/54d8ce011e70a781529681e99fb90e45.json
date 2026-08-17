@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot predict all risks",
+    "no obligation to update",
+    "management believes",
+    "extended terms or refinance debt"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and relies on management expectations regarding financing, vendor terms, and future performance. Material risk signals include a major restatement, SEC investigation, litigation, internal-control changes, weak precious-metals market conditions, and dependence on refinancing or additional borrowing. Quantified disclosures improve transparency, but the excerpt is partially truncated and includes limited detail on the potential financial impact of the investigation and litigation."
+}

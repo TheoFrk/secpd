@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "certain other items",
+    "largely attributable",
+    "likely limit substantially",
+    "non-GAAP adjustments",
+    "full valuation allowance"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year operating data and reconciliations, but relies on customary attribution language and extensive non-GAAP adjustments. Credit risk indicators include full valuation allowances on deferred tax assets, substantial NOL limitations, impairment charges, debt-related interest expense, and references to liquidity and covenant compliance."
+}

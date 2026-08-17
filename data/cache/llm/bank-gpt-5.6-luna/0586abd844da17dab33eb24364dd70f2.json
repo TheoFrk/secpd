@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking statements",
+    "difficult to predict economic impact",
+    "factors outside of our control",
+    "precludes detailed price and volume information",
+    "subject to audit by various taxing authorities"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative regarding revenue, gross profit, market exposure, and COVID-19 impacts, but includes substantial forward-looking caveats and generalized uncertainty language. Key risks include cyclical industrial demand, project delays or cancellations, commodity-price volatility, customer capital-spending deferrals, margin pressure, and potential tax-asset realization uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we expect to grow",
+    "may materially affect future results",
+    "results may not be indicative"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with segment revenue, margins, contract mix, and year-over-year changes disclosed. Risk factors include cyclical demand, customer capital constraints, weather and seasonality, increased competition, and reliance on large projects, although management presents a generally constructive outlook."
+}

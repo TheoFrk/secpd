@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "best estimate of realizability",
+    "inherently uncertain",
+    "generally not within our control",
+    "could have a material adverse impact",
+    "unspecified amount in excess of $1 million"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes specific accounting policies and warranty amounts, but relies substantially on management estimates and uncertainty language. Key risks include potentially impaired private-company investments, uncertain software contract estimates, and an arbitration claim exceeding $1 million with an unspecified amount and uncertain outcome. Overall tone is balanced but modestly negative due to liquidity, legal, operational, and valuation contingencies."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurances can be given",
+    "expect significant increases",
+    "cannot predict when operating cash flow will be sufficient",
+    "additional funds unavailable or uncertain",
+    "material impact if sales do not materialize"
+  ],
+  "risk_summary": "The excerpt provides useful operational and financing details but relies heavily on forecasts, expectations, and conditional language regarding sales growth, inventory realization, product development, and funding. Liquidity risk is significant, including insufficient operating cash flow, no credit facility or committed financing, substantial potential dilution, prior Chapter 11 bankruptcy, and a stated threat to viability if capital cannot be raised."
+}

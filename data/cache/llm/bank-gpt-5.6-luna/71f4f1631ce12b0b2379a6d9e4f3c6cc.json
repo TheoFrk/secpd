@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "could change timing",
+    "probable that a significant reversal will not occur",
+    "subject to many variables",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed but heavily reliant on standard accounting-policy boilerplate and management estimates, particularly for long-term fixed-price contracts, variable consideration, and costs to complete. Reported risks include project-loss exposure, impairments, declining segment revenue, sluggish client spending, and a fiscal-year net loss, although repayment of revolving debt is a mitigating factor."
+}

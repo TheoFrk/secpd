@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "estimates and assumptions",
+    "may differ materially",
+    "additional funding may not be available",
+    "further diluting shareholders"
+  ],
+  "risk_summary": "The disclosure is detailed on corporate structure, acquisitions, accounting judgments, CVR liabilities, and financing risks, but relies substantially on standard forward-looking and estimation disclaimers. Liquidity and dilution risk are material, as additional funding may be unavailable or obtained only on unfavorable terms, while CVR-related assets are unavailable for post-merger working capital."
+}

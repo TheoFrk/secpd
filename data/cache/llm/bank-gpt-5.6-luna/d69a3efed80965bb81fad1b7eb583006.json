@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.66,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "disciplined approach",
+    "satisfactory financial return",
+    "strong overall asset quality metrics",
+    "certain noncore items",
+    "not necessarily comparable"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive performance narrative, supported by quantified earnings, deposit growth, capital, and asset-quality claims. Risk discussion is largely process-oriented and relies on favorable management characterizations, with limited quantified downside analysis and incomplete references to tables and outlook assumptions. Extensive non-GAAP framing and exclusion of noncore items may make underlying performance less comparable."
+}

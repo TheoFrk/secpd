@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "premature to reasonably predict",
+    "expected to be impacted favorably",
+    "future improvements may be gradual",
+    "largely the result of",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but presents meaningful COVID-19, interest-rate, credit-loss, and earnings risks. Management maintains a measured and moderately confident tone, while acknowledging that the pandemic’s magnitude and future performance effects remain uncertain."
+}

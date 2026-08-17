@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally correlated",
+    "could have a material impact",
+    "subjective and/or complex judgments",
+    "estimated future cash flows",
+    "omitted under this item"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear market, revenue, margin, and acquisition impacts. Risk is moderate: marine demand declined materially, margins softened slightly, and results rely partly on acquisitions and subjective fair-value assumptions, with potential future impairment charges."
+}

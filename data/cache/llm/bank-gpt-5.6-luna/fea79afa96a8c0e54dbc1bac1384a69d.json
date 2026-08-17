@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.5,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe significant growth potential",
+    "we anticipate",
+    "may differ from these estimates",
+    "no material effect",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and promotional, with limited quantitative detail on operating performance, liquidity, or transaction impacts. Repeated business descriptions and broad forward-looking assertions reduce precision, while accounting and legal boilerplate add complexity. The tone is cautiously optimistic but provides limited visibility into execution, funding, and downside risks."
+}

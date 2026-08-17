@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could cause actual results to differ materially",
+    "adequate liquidity",
+    "based on current expectations and assumptions",
+    "limited waiver of compliance with one covenant"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and reserve information, but relies on standard forward-looking disclaimers and broad statements regarding liquidity and future costs. Key risks include commodity-price volatility, reserve and borrowing-base sensitivity, acquisition execution, covenant compliance, and potentially understated asset-retirement or share-based payment estimates."
+}

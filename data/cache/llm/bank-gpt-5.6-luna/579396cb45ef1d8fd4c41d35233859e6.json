@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no duty to update",
+    "expect trend to continue",
+    "would be eliminated if outside company",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative but highlights significant financial risk: operating segments generate insufficient revenue to fund themselves, require parent or third-party capital, and continue to incur substantial losses. Pandemic-related uncertainty, reliance on growth expectations, and the incomplete/truncated excerpt reduce transparency and increase execution and liquidity concerns."
+}

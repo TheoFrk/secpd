@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributed to",
+    "partially offset by",
+    "likely to continue for some time",
+    "significant level of estimation uncertainty",
+    "could have a material impact"
+  ],
+  "risk_summary": "The disclosure is reasonably quantified regarding segment sales, pricing, volumes, costs, acquisitions, and liquidity, but relies on recurring attribution language and broad forward-looking qualifiers. Risk exposure is elevated from input-cost inflation, supply and labor disruptions, higher borrowing costs, acquisition-related obligations, and estimation-sensitive impairment, tax, and contingent consideration balances. Overall tone is balanced to mildly positive because sales and operating earnings increased, despite margin pressure and ongoing uncertainty."
+}

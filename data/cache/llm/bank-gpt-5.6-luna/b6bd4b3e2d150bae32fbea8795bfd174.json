@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.88,
+  "complexity_score": 0.46,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cautionary statements",
+    "significant risks",
+    "read in conjunction with",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or operating analysis and instead redirects readers to another exhibit and the risk factors section. This limits standalone transparency and requires review of referenced materials to assess the company’s condition and risks."
+}

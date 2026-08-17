@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "dependent on general economic conditions",
+    "we expect",
+    "could result in lower profits",
+    "opportunities currently in front of us",
+    "new and unproven technology"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with extensive revenue percentages, market exposure data, acquisition consideration, and cash-flow figures. It identifies meaningful cyclicality and concentration in commercial transport, dependence on aircraft build rates and government funding, development-program risk, and potential defense-spending reductions, but uses optimistic forward-looking language and does not quantify downside scenarios."
+}

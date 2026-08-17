@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to customary closing conditions",
+    "we expect to receive approximately",
+    "primarily due to",
+    "non-GAAP measures",
+    "for additional information, please refer to"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear drivers for AUM, revenue, expenses, cash flow, and the anticipated Jasper transaction. Risk tone is mixed: operating results and liquidity appear stable, but AUM declines, elevated redemptions, market volatility, passive-investment migration, and reliance on adjusted non-GAAP metrics present meaningful risks."
+}

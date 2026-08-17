@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "management estimates and judgments",
+    "more likely than not",
+    "could have a material effect",
+    "unable to make a reasonably reliable estimate"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes specific accounting standards, covenant thresholds, debt status, and quantified tax liabilities. Risk is concentrated in estimation uncertainty involving inventory, impairments, legal matters, taxes, and future cash flows, with substantial standard forward-looking disclaimers. The excerpt is generally stable in tone, supported by no goodwill impairments, no material intangible impairments, no outstanding credit facility borrowings, and covenant compliance."
+}

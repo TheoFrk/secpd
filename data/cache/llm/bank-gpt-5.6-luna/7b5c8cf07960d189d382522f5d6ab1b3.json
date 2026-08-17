@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "higher than expected",
+    "other non-recurring items",
+    "subject to board approval",
+    "difficult to project",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with strong liquidity and low debt, but reports declining profitability and operational challenges including transition costs, production inefficiencies, weather impacts, litigation expense, and foreign-exchange losses. Tax disclosures and the truncated, apparently mixed-period discussion introduce some interpretive complexity and uncertainty."
+}

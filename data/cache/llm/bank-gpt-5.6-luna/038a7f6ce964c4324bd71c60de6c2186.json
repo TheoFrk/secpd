@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may have an adverse effect",
+    "still evaluating potential effects",
+    "non-GAAP financial measures",
+    "deconsolidation of subsidiary"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data but highlights material stress, including SPG insolvency, a $79.6 million deconsolidation charge, declining vehicle production, elevated costs, tariff uncertainty, and ongoing cash-flow pressure. Risk disclosures are generally specific, although extensive cross-references, forward-looking disclaimers, and non-GAAP measures complicate assessment of underlying performance."
+}

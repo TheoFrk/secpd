@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no breakdown of operating expenses",
+    "future financing uncertainty",
+    "convertible note and derivative complexity",
+    "non-recurring gains and reversals",
+    "management assesses liquidity risk as high"
+  ],
+  "risk_summary": "The company reports a substantial swing from prior-year net income to a $1.6 million net loss, with results materially affected by debt extinguishment gains, warrant valuation, debt discount amortization, and other non-recurring items. It expects approximately $6.5 million of funding over the next twelve months and acknowledges no assurance of successful financing, indicating high liquidity and refinancing risk."
+}

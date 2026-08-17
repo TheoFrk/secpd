@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "degree of uncertainty",
+    "potential for further mortgage rate increases",
+    "aggressive pricing, incentives and concessions",
+    "affordability generally remains challenging",
+    "backlog value appears misstated"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, reporting improved revenue, contracts, liquidity, and earnings while clearly identifying housing-market, affordability, interest-rate, inflation, recession, and supply-chain risks. Risk tone is cautiously positive, but reliance on incentives and concessions, declining margins, lower backlog, and substantial external sensitivity indicate meaningful credit risk. The excerpt also contains apparent drafting or extraction issues, including an implausible $936.8 billion backlog figure and truncated text."
+}

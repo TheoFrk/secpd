@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly correlated to AUM",
+    "may impact revenues",
+    "mixed conditions",
+    "somewhat offset",
+    "potential for significant volatility"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, but highlights material exposure to declining AUM, shareholder redemptions, volatile niche markets, and cryptocurrency investments. Revenue and earnings remain sensitive to market performance, product mix, and investor flows, although expense flexibility and ETF growth provide partial mitigation."
+}

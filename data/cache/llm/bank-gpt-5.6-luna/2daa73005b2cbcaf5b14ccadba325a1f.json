@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not known with certainty",
+    "subjective judgments and estimates",
+    "inherently uncertain",
+    "cannot provide assurance",
+    "various economic and default scenarios"
+  ],
+  "risk_summary": "The excerpt is technically detailed but emphasizes substantial uncertainty in loss reserves, pricing adequacy, claims emergence, investment credit losses, and external legal and economic factors. Quantitative methodology is described, yet the absence of reserve sensitivity or quantified adverse scenarios limits assessment of downside exposure. Overall tone is neutral to cautiously risk-aware rather than crisis-like."
+}

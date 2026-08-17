@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could be materially different",
+    "currently uncertain",
+    "cannot predict the ultimate effect",
+    "may result in increased costs",
+    "expected to remain volatile"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific regarding production, reserves, revenues, investments, debt capacity, and commodity prices. Risk is elevated by oil-price volatility, potential ceiling-test impairment, regulatory uncertainty, reliance on non-operator partners, and possible margin or collateral requirements for derivatives, although the overall tone is operationally measured rather than crisis-like."
+}

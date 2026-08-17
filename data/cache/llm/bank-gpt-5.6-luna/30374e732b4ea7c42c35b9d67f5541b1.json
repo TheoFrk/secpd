@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to revise or update",
+    "plans to continue to seek",
+    "significantly lower than expected",
+    "subject to a three-month extension"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but includes substantial standard forward-looking disclaimer language and some future-oriented plans without measurable targets. Risk tone is mildly negative due to the XcelaSAN impairment, weak product revenue, dependence on volatile DRAM pricing, and short-term secured convertible bridge financing."
+}

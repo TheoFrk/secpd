@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.44,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "actual results could differ materially",
+    "factors discussed in Risk Factors",
+    "depending largely on future commodity prices",
+    "previously discussed"
+  ],
+  "risk_summary": "The excerpt is generally constructive, supported by detailed revenue, cost, margin, crew-count, and EBITDA disclosures showing substantial operating improvement. Risk discussion is largely standardized and references external risk factors without quantifying the potential impact of commodity-price sensitivity, competition, or operational disruption."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "could adversely affect",
+    "numerous factors",
+    "if necessary additional notes payable",
+    "strong financial condition"
+  ],
+  "risk_summary": "The excerpt reports strong revenue growth and covenant compliance but relies heavily on qualitative strategy language and standard forward-looking disclaimers. Key risks include heightened competition, limited margins, uncertain funding capacity, dependence on achieving expected operating results, and potential reliance on additional borrowing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP organic sales adjustments",
+    "subject to certain conditions",
+    "sufficient to manage continuing impact",
+    "multiple internal and external factors",
+    "valuation assumptions may be adversely impacted"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and quantitative, reporting sales, margins, expenses, liquidity, segment growth, and impairment-testing outcomes. Risk tone is moderately confident, although inflation, supply-chain disruption, foreign-exchange exposure, geopolitical uncertainty, and reliance on assumptions in valuation tests are acknowledged. Some standard boilerplate and non-GAAP presentation could make underlying trends less directly comparable."
+}

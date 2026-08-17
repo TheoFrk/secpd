@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "estimates and judgments",
+    "based on all relevant facts and circumstances",
+    "could exceed revenues recognized",
+    "qualitative analysis",
+    "typically performed"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative performance data, but relies heavily on management estimates for contract costs, claims, change orders, VIE consolidation, and equity compensation. Operating profit and business volume declined materially, while contract-cost and execution risks could adversely affect recognized margins and future results."
+}

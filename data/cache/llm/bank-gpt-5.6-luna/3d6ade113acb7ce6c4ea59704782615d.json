@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "more-likely-than-not",
+    "factors may arise",
+    "not adequately presented in historical loss experience",
+    "susceptible to change"
+  ],
+  "risk_summary": "The disclosure provides substantial methodological detail and several quantified portfolio and funding metrics, but relies heavily on management judgment, historical assumptions, and broad conditional caveats. It states that the loan-loss allowance was adequate and that goodwill fair value significantly exceeded carrying value, while acknowledging sensitivity to adverse economic, credit, property-value, and valuation changes."
+}

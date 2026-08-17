@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "actual results may differ materially",
+    "assumptions believed reasonable",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and asset-quality data, but includes extensive standard forward-looking disclaimers and reliance on management assumptions for loan-loss, goodwill, servicing-rights, and securities valuations. Risk tone is cautiously positive, with modest nonperforming assets and charge-offs offset by exposure to interest rates, credit performance, market values, and economic conditions."
+}

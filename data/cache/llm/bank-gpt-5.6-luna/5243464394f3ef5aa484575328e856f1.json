@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "expects to",
+    "over time",
+    "could acquire",
+    "no guarantee"
+  ],
+  "risk_summary": "The disclosure is moderately forward-looking and relies on management expectations regarding leasing, asset sales, and value creation, although it includes substantial operating metrics and transaction amounts. Risk tone is cautiously positive but tempered by weak economic conditions, rental-rate erosion, significant impairment losses, distressed assets, and execution uncertainty."
+}

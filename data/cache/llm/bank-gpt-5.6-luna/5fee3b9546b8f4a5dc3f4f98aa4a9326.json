@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "significant management estimates",
+    "imprecise risk",
+    "may significantly affect estimates",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting strong asset quality, deposit growth, and fee-income diversification. Key risk areas include subjective allowance estimates, potential undetected loan losses, goodwill impairment assumptions, and sensitivity to economic and customer-specific conditions. Overall tone is cautiously positive, though portions rely on standard boilerplate and management judgment."
+}

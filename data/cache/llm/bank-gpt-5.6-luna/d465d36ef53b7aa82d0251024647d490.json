@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "do not assume obligation to update",
+    "among other things",
+    "no significant liquidity constraints",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is generally specific and data-rich, with quantified revenue, profitability, liquidity, capital expenditure, debt, and operating metrics. Risk tone is moderately confident, emphasizing growth, diversification, cost controls, and adequate liquidity, while standard forward-looking disclaimers and reliance on anticipated cash flows limit certainty. Key risks include fuel-price volatility, substantial capital requirements, operating-cost pressures, and transportation-market demand and capacity changes."
+}

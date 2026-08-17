@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and actual results could differ materially",
+    "cannot predict all of the risks and uncertainties",
+    "do not place undue reliance",
+    "non-GAAP measures may be determined differently",
+    "risks and uncertainties beyond our control"
+  ],
+  "risk_summary": "The excerpt reports strong, quantified operating growth, including higher loan demand, revenue, profitability, and pawn loan balances, producing a generally positive but qualified tone. Disclosure is technically detailed but includes substantial boilerplate disclaimers, non-GAAP caveats, and a broad unquantified list of potential risks, limiting forward-looking risk specificity."
+}

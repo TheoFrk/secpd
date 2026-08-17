@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future events rarely develop exactly as forecast",
+    "may not have sufficient working capital",
+    "currently evaluating the impact",
+    "no assurance",
+    "text truncation around cash flows"
+  ],
+  "risk_summary": "The disclosure identifies meaningful liquidity and operating risks, including a $860,000 net loss, declining cash and working capital, negative operating cash flow, distributor and supplier concentration, and dependence on key executives. Management states that cash and expected operating flows should support requirements for at least twelve months, but this conclusion is exposed to continued losses and uncertain cash generation. The excerpt is generally quantified and transparent, although portions rely on standard caveats and the text appears truncated."
+}

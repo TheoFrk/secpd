@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "could have an adverse effect",
+    "estimates and assumptions",
+    "not known with certainty",
+    "actual spending may substantially differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, particularly regarding revenue mix, capital expenditures, investments, and share repurchases. It identifies material sensitivities involving distributor collections, inventory obsolescence, asset impairments, patent enforcement, competition, and demand estimates, although many impacts are described conditionally rather than quantified. Overall tone is cautiously positive, supported by profitable operations and substantial liquidity, but tempered by recurring standard risk language."
+}

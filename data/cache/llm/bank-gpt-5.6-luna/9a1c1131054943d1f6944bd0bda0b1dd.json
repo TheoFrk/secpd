@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may have a material adverse impact",
+    "continuing or worsening",
+    "based upon management’s current plans and outlook",
+    "actively monitor",
+    "subject to certain exceptions and permitted liens"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on sales, operating losses, impairment charges, debt capacity, covenants, and Russia-related costs. Risk tone is moderately negative due to persistent inflation, supply-chain constraints, geopolitical disruption, demand pressure, and significant impairment charges, although covenant compliance and liquidity are presented as currently manageable. Forward-looking adverse-impact disclaimers and management-outlook language introduce some uncertainty but are largely standard filing language."
+}

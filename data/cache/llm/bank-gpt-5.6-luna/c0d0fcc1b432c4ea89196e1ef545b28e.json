@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "plans and intentions without timelines or funding",
+    "believe and may acquisition language",
+    "zero revenue versus substantial operating expenses",
+    "complex variable-rate conversion and redemption terms",
+    "truncated liquidity and capital section"
+  ],
+  "risk_summary": "The filing provides detailed expense, loss, interest, and debt-conversion figures, but pairs them with largely unquantified expansion and acquisition plans. Zero revenue, recurring multimillion-dollar losses, significant interest expense, derivative liabilities, and highly dilutive convertible-note terms indicate substantial liquidity and financing risk."
+}

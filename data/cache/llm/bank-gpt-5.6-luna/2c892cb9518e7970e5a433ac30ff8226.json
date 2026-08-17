@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.12,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily attributable",
+    "partially offset",
+    "subject to certain post-closing adjustments",
+    "preliminary estimated fair value",
+    "normal production decline"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear year-over-year explanations for production, pricing, operating income, expenses, hedging, and transactions. Risk tone is mildly positive due to strong volume and earnings growth, though lower gathering rates, production declines, higher costs, hedging ineffectiveness, and transaction valuation uncertainty are noted."
+}

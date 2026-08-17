@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "subject to important factors",
+    "without limitation",
+    "inherently subjective estimates",
+    "may have a material impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail and describes allowance methodology, impairment judgments, liquidity, and interest-rate sensitivities. Risk disclosures rely heavily on broad standard disclaimers and acknowledge material uncertainty around credit losses, merger integration, economic conditions, regulatory actions, and valuation assumptions. Overall tone is neutral to mildly confident rather than crisis-like."
+}

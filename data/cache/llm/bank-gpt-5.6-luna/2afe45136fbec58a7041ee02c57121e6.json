@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties, and other factors",
+    "ultimate recovery ... beyond the Company’s control",
+    "inherently subjective",
+    "if deemed necessary",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The excerpt presents strong, well-quantified 2011 earnings and deposit growth, producing a generally confident tone. Credit risk disclosure acknowledges material estimation uncertainty around loan-loss reserves, impaired loans, collateral values, and economic conditions, but relies substantially on management judgment and cross-references. The excerpt is lengthy and technically dense, with some boilerplate forward-looking language and truncation that limits full assessment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "considerable judgment",
+    "other external factors",
+    "more likely than not",
+    "under different assumptions or conditions",
+    "additional analysis of relevant factors"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantified balance-sheet and interest-rate data, but its critical-accounting discussion relies heavily on management judgment, estimates, and broad qualitative factors. Credit risk is framed cautiously through potential deterioration in delinquencies, defaults, non-performing assets, and provisioning, without presenting related stress-case quantification in this excerpt."
+}

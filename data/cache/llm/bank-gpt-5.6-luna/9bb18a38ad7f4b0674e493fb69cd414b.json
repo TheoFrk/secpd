@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "numerous assumptions, risks and uncertainties",
+    "undertakes no obligation to update",
+    "subject to regulatory approvals",
+    "illustrative purposes only"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenues, earnings, investment losses, debt issuance, repurchases, and potential accounting impacts. However, extensive forward-looking disclaimers, repeated section headers, conditional language, and reliance on illustrative rather than definitive outcomes reduce disclosure clarity; key risks include earnings volatility, investment losses, low interest rates, long-duration liabilities, and regulatory approval uncertainty."
+}

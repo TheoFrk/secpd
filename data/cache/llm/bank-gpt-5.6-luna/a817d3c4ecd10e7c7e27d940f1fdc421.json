@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to uncertainties",
+    "not possible to predict",
+    "significant judgments",
+    "interrelated assumptions",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides useful quantified reserves and receivables information, but relies heavily on standard accounting-policy boilerplate and unquantified assumptions for environmental, impairment, and goodwill risks. The outlook is cautiously optimistic, although excess industry capacity, customer capital-spending dependence, backlog decline, and sensitivity to valuation assumptions indicate meaningful operating and credit risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management judgment",
+    "qualitative adjustments",
+    "reasonable and supportable forecasts",
+    "inherently subjective",
+    "additional provision may be required"
+  ],
+  "risk_summary": "The disclosure provides a detailed description of the credit-loss methodology, including the forecast horizon and reversion approach, but does not quantify allowance sensitivity or the potential earnings impact of adverse outcomes. It highlights substantial estimation judgment and acknowledges that additional provisions could reduce future earnings, indicating moderate credit-risk caution."
+}

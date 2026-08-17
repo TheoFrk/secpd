@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect significant growth",
+    "we believe we can",
+    "pending discussions with regulators",
+    "statistically significant and clinically meaningful",
+    "similar within-group reduction"
+  ],
+  "risk_summary": "The disclosure is generally detailed and data-supported, with quantified patient populations, approvals, reimbursement coverage, royalties, and revenue drivers. Risk is moderated by reliance on expectations, regulatory discussions, future launches, reimbursement execution, and a failed-to-separate Phase 2 pain trial whose outcome is attributed to a high placebo response. Overall tone is commercially confident but acknowledges meaningful clinical and execution uncertainty."
+}

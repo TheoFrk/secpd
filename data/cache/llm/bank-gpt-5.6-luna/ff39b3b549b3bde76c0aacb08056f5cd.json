@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "undertake no duty to update",
+    "cannot predict sales volumes",
+    "out of our control",
+    "predicting when that will happen is difficult"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenue, margins, expenses, losses, and cash support, but highlights material dependence on Pooph and private-label sales that management cannot control or reliably forecast. BLEST remains loss-making and requires cash subsidies, while research and development was constrained by limited liquidity. The overall tone is cautiously optimistic based on reported growth, but execution, customer concentration, and liquidity risks remain significant."
+}

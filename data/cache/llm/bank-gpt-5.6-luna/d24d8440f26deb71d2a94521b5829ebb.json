@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "going-concern dependency",
+    "no guarantee of acquisition",
+    "other factors beyond our control",
+    "related-party demand financing",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The company is a shell with no significant operations, severe historical losses, recurring cash-flow deficits, and an explicit dependence on related-party financing and a future acquisition to continue as a going concern. Significant related-party transactions, callable debt, unpaid preferred dividends, and reliance on uncertain future capital raise substantial liquidity and governance risks. The disclosure is comparatively quantified but repeats related-party information and includes a truncated section that limits completeness."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "may differ materially",
+    "future adjustments may be necessary",
+    "reasonable and supportable economic forecasts",
+    "regulators may request us to increase ACL"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed discussion of CECL assumptions, valuation methods, earnings, liquidity movements, and investment securities. Key risks include a sharp decline in cash and Federal Reserve deposits, deposit outflows, sensitivity of credit-loss reserves to economic assumptions, and potential regulator-driven ACL increases. The tone is generally factual and measured, but extensive standard forward-looking disclaimers and model uncertainty limit transparency regarding downside outcomes."
+}

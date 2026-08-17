@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Non-GAAP performance measures",
+    "Adjusted net loss exclusions",
+    "Reliance on joint-venture data",
+    "Changing silver-to-gold ratios",
+    "Impairment and fair-value assumptions"
+  ],
+  "risk_summary": "The excerpt is highly quantified and operationally specific, but presents a mixed risk profile: production met guidance while substantial impairments, a $311.9 million net loss, lower metal prices, and investment valuation risk weigh materially on credit quality. Reliance on MSC-provided information and extensive non-GAAP adjustments reduce comparability and require careful interpretation."
+}

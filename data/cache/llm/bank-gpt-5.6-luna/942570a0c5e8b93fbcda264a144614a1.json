@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "non-GAAP measures",
+    "special mileage plan revenue",
+    "we expect",
+    "NM - Not meaningful"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed explanations of revenue, expense, capacity, and shareholder-return trends. The tone is confident and growth-oriented, supported by strong earnings and balance-sheet references, but acknowledges competitive capacity, unit-revenue pressure, rising operating costs, and reliance on favorable fuel prices. Non-GAAP adjustments, forward-looking expectations, and “not meaningful” labels warrant reconciliation and sensitivity review."
+}

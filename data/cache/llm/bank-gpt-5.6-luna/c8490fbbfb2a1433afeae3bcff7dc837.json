@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "boilerplate section heading",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt is solely a cross-reference to the MD&A section and provides no financial, operational, or risk information. Its limited content prevents assessment of underlying issuer risk or management’s outlook."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.63,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "beyond the Company’s control",
+    "going concern dependence",
+    "missing customer revenue tables",
+    "truncated related-party disclosure"
+  ],
+  "risk_summary": "The excerpt presents substantial liquidity and viability risk, with current liabilities of $1.89 million versus current assets of only $91,269 and an explicit dependence on improved profitability and shareholder support to continue as a going concern. Although operating cash flow improved, the business remains loss-making, early-stage, and reliant on external financing. Extensive boilerplate disclaimers, incomplete tables, and apparent text truncation reduce disclosure clarity."
+}

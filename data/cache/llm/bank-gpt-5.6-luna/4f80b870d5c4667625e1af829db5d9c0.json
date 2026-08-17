@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "not necessarily indicative of future results",
+    "customary purchase price adjustments",
+    "not measurable or not meaningful",
+    "contingent obligations"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, particularly regarding the Arby’s sale, revenues, restaurant counts, debt facilities, and guarantees. Risk tone is mildly negative due to economic pressures, commodity inflation, price competition, and contingent obligations, but the disclosure is not crisis-like. Dense legal, accounting, and transaction terminology materially increases complexity."
+}

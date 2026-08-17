@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results could differ materially",
+    "no obligation to update",
+    "subjective assumptions and judgments",
+    "adequate sources of raw materials"
+  ],
+  "risk_summary": "The excerpt identifies meaningful structural and operational risks, including declining demand from digital substitution, supplier consolidation, carbonless-paper availability, margin pressure, and customer consolidation. Management provides some quantified estimates for pension funding and capital expenditures, but relies heavily on boilerplate forward-looking disclaimers and broad assurances regarding liquidity, inventory, and future cash flows."
+}

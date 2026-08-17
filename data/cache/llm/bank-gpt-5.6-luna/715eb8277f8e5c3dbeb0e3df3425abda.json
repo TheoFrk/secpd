@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.64,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "investigation ongoing",
+    "cannot reasonably estimate",
+    "significant factual and legal issues",
+    "expected claims",
+    "may have an adverse effect"
+  ],
+  "risk_summary": "The disclosure is highly quantified regarding the breach, incurred expenses, insurance coverage, affected accounts, and liquidity, but substantial litigation, fraud-loss, regulatory, and remediation exposures remain uncertain and potentially material. Negative risk tone is reinforced by declining earnings, a negative credit-rating outlook, and possible future rating downgrade, despite available liquidity and covenant compliance."
+}

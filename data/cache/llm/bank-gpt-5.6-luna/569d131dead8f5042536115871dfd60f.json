@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.63,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "expected to offset inflationary pressures",
+    "management assumptions",
+    "future dividends at discretion",
+    "could be reduced by a material amount"
+  ],
+  "risk_summary": "The disclosure is generally transparent and strongly quantified, showing improved sales, earnings, cash generation, liquidity, and no bank debt. Risk is moderated by reliance on adjusted metrics, pension and impairment charges, inflation and tariff exposure, and estimates concerning receivables, inventories, warranties, and benefit obligations. The overall tone is confident and growth-oriented, though some outlook statements are conditional and forward-looking."
+}

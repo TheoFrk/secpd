@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.45,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information set forth on pages 75 through 93",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A information and directs readers to another document, limiting direct assessment of financial performance and risks. This appears procedural rather than explicitly adverse, but it reduces transparency within the filing section."
+}

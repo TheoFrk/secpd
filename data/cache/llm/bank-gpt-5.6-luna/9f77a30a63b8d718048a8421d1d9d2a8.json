@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future impacts ... will be determined",
+    "adequate current assets",
+    "sufficient financial capacity",
+    "not unusual for the industry",
+    "further details refer to Note 17"
+  ],
+  "risk_summary": "The excerpt presents strong 2021 operating and earnings performance, improved operating efficiency, positive liquidity, and quantified acquisition and capital allocation data. Risk disclosure is generally measured but includes broad, non-quantified uncertainty around COVID-19 duration, supply-chain disruption, demand, and regulatory impacts. Repeated definitions and references to other sections add boilerplate and reduce information density."
+}

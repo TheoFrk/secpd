@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "leading manufacturer claims",
+    "expected demand levels",
+    "primarily attributable to",
+    "mathematical consequence of inflation",
+    "supply chain challenges"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including segment volumes, sales, margins, acquisitions, and cost impacts. Its tone is broadly confident and growth-oriented, but it acknowledges material risks from inflation, customer pre-buy behavior, labor and supply-chain constraints, foreign currency losses, volume declines, and execution of acquisitions and new business."
+}

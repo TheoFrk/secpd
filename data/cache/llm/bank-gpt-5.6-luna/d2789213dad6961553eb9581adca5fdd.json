@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "anticipate further integration costs",
+    "nonrecurring costs",
+    "adjusted EBITDA emphasis"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, acquisition, cash-flow, and customer-concentration information, but uses standard forward-looking disclaimers and emphasizes adjusted performance measures. The Uniwheels acquisition materially increased debt, integration costs, investing outflows, and interest expense, while North American volumes and comparable EBITDA declined. Liquidity is described positively, although the excerpt is truncated before the full liquidity and leverage discussion."
+}

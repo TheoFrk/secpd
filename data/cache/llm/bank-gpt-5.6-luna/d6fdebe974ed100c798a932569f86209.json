@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "selectively continuing ongoing and planning to initiate",
+    "appropriately utilizing clinical data",
+    "we believe",
+    "may contain substantial amounts",
+    "not necessarily indicative of future operations"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains extensive forward-looking development goals, but provides limited quantified evidence on funding, timelines, clinical outcomes, or commercialization prospects. Repeated references to potential IND filings, collaborations, and perceived product advantages create an optimistic promotional tone, while hedging and truncated text reduce disclosure clarity."
+}

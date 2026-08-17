@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "impossible to predict",
+    "significant uncertainty",
+    "highly uncertain",
+    "continues to assess",
+    "may not be comparable"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on historical operating results, store counts, liquidity, credit performance, and margins, but the COVID-19 outlook is highly uncertain and relies extensively on forward-looking caveats. The $30 million credit draw and store closures indicate heightened liquidity and operational risk, although cash and short-term investments exceeding $200 million provide a meaningful buffer."
+}

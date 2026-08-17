@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expect volatility to remain",
+    "may not be able to recoup",
+    "significantly less than",
+    "primarily due to",
+    "strategic alternatives"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, but highlights material earnings pressure from commodity inflation, pricing lags, derivative losses, production shutdowns, and joint-venture exposure. Management describes mitigation efforts including repricing, hedging, restructuring, and capacity restoration, although future benefits remain uncertain."
+}

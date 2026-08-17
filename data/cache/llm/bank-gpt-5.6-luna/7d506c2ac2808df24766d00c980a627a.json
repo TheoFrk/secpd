@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks include but are not limited to",
+    "no obligation to update",
+    "adjusted EBITDA exclusions",
+    "key assumptions and estimated fair value"
+  ],
+  "risk_summary": "The excerpt combines meaningful quantitative disclosure on revenue, restructuring costs, projected savings, and segment performance with extensive boilerplate risk disclaimers. Risk exposure is broad, including integration, impairment, cyber, regulatory, currency, utilization, and competition risks, while the overall operating tone remains moderately confident due to reported growth and stated cost synergies."
+}

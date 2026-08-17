@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "potential future payments",
+    "more likely than not",
+    "could have a material impact",
+    "significant management judgment",
+    "if management does not receive complete and accurate information"
+  ],
+  "risk_summary": "The excerpt is generally constructive, emphasizing pipeline progress, approvals, acquisitions, and collaborations, while providing several concrete transaction values and clinical results. Risk disclosure is primarily qualification-based, highlighting estimation uncertainty in R&D expenses, deferred tax assets, and uncertain tax positions, including substantial unrecognized tax benefits. The Pharmasset acquisition introduces significant financing and execution exposure, but the excerpt does not present an acute liquidity or operating crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot be accurately predicted",
+    "may not be available on commercially reasonable terms, or at all",
+    "expect such losses to continue",
+    "renewal or alternative lender required",
+    "subjective judgments and inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt discloses severe financial and liquidity risk, including a 40% revenue decline, continuing net losses, a substantial accumulated deficit, dependence on additional financing, and an expiring revolving credit facility. Although many risks are quantified, repeated forward-looking qualifications and extensive technical and accounting detail make the disclosure dense and partially difficult to evaluate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance future growth",
+    "subject to risks and uncertainties",
+    "ability to raise additional funds",
+    "could offset impacts",
+    "recognized leader/promotional claims"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue declines, reimbursement pressure, cost changes, borrowing capacity, and limited remaining availability. However, it relies on conditional language regarding future growth, profitability, liquidity, and access to additional capital, while also including extensive promotional business descriptions. Overall, the tone is mildly negative from a credit-risk perspective, with notable execution, reimbursement, liquidity, and funding risks."
+}

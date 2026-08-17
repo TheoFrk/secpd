@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "no obligation to update",
+    "non-GAAP outlook",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed operating, tax, restructuring, and outlook information, limiting overall vagueness. Risk tone is moderately negative due to market downturn, revenue and margin declines, significant earnings deterioration, valuation allowances, pricing pressure, and foreign-currency headwinds, although management presents a stabilization and cost-improvement outlook."
+}

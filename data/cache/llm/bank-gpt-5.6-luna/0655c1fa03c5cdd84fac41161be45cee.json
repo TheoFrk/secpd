@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other factors beyond control",
+    "assumptions believed reasonable",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified credit and earnings metrics, including ACL, charge-offs, nonperforming assets, and profitability changes. Risk disclosure is extensive but includes standard broad contingencies and estimation caveats, while the 24% decline in net income and higher ACL ratio indicate moderate earnings and credit-cost pressure."
+}

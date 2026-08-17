@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "may differ materially",
+    "no obligation to update",
+    "exploring new product lines",
+    "estimates believed reasonable"
+  ],
+  "risk_summary": "The excerpt relies heavily on standardized forward-looking statement disclaimers and broadly worded assumptions, limiting specificity about future performance. Material risks include a history of losses, substantial customer concentration with US Foods, equity-linked obligations, earn-out liabilities, and dependence on estimates. The tone is formally neutral but modestly negative due to these exposures."
+}

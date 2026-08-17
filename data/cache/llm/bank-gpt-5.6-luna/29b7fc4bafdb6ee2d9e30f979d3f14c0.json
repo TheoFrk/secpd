@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "forward-looking statements and uncertainties",
+    "material adverse effect",
+    "constant currency presentation",
+    "impairment assumptions"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate, extensive non-GAAP adjustments, and complex disclosures that can make underlying performance harder to assess. Reported results indicate meaningful deterioration, including an 11.6% revenue decline, a $315.0 million impairment charge, and a shift to a $236.2 million operating loss, compounded by higher interest expense. Promotional positioning and adjusted metrics partially offset but do not eliminate the adverse risk tone."
+}

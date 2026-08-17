@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "many factors which have impacted and continue to impact",
+    "including but not limited to",
+    "primarily attributable to",
+    "partially offset by",
+    "higher margin projects"
+  ],
+  "risk_summary": "The disclosure is predominantly positive and well quantified, reporting revenue, EBITDA, net income, operating cash flow, utilization, pricing, and segment drivers. Key risks include facility downtime from fire-related events, foreign exchange exposure, commodity pricing and demand weakness, regulatory changes, environmental spending, and reliance on adjusted non-GAAP metrics. Some causal explanations remain broad and use recurring management qualifiers such as “primarily” and “partially offset by.”"
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "cannot reasonably estimate total impact",
+    "risks and uncertainties",
+    "factors that could cause actual results to differ materially",
+    "strategic plans and objectives without detail"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue, profit, segment, and deferred-revenue data, but relies heavily on standard forward-looking-statement disclaimers and broad, unquantified risk factors. COVID-19 disruption, customer payment delays, supply-chain exposure, regulatory risks, and dependence on the GEHC agreement remain material uncertainties, although reported 2021 results and PPP forgiveness support a mildly positive tone."
+}

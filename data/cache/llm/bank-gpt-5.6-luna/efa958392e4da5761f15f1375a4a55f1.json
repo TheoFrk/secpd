@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonably likely scenario",
+    "significant number of large claims",
+    "may have a material impact",
+    "overall reasonableness",
+    "estimated future loss"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides meaningful sensitivity analysis around title-loss reserves, including known and incurred-but-not-reported claims. Risk remains material because reserves depend on actuarial assumptions, large prior-period claims, agency defalcations, and changing real-estate conditions, although management presents improving earnings and claims resolution in a generally constructive tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may significantly affect",
+    "future events differ from forecasts",
+    "management believes sufficient",
+    "prudent and feasible potential tax strategies"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, reporting loan-loss reserves, nonperforming loans, charge-offs, earnings, and tax impacts. Key risks arise from management estimates for credit losses, collateral values, economic conditions, deferred tax asset realizability, and accrued taxes, with potential future earnings or capital impacts. Overall tone is moderately confident, supported by improved profitability and credit metrics, but tempered by material estimation uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.14,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "\"believe\" and \"anticipate\" outlook language",
+    "\"challenging backdrop of economic uncertainty\"",
+    "Non-GAAP adjusted measures",
+    "Broad strategic-growth claims",
+    "Contingent lease obligations"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides clear year-over-year results, cost savings, tax items, and contingent obligations, limiting overall evasiveness. Risk tone is cautiously constructive but acknowledges declining sales, wage inflation, macroeconomic pressure, weak consumer sentiment, and Middle East-related wholesale disruption. Reliance on non-GAAP adjustments and broad forward-looking claims introduces moderate interpretive risk."
+}

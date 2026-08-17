@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.27,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "potential revenues depending on options",
+    "unforeseen circumstances",
+    "exploring alternatives to secure financing",
+    "confident adequate liquidity"
+  ],
+  "risk_summary": "The disclosure is relatively specific on historical sales, margins, backlog, delays, and liquidity pressure, but relies on contingent military production releases and uncommitted financing to support its outlook. Operational delays, warranty issues, reduced near-term revenue, and a forecast loss create meaningful execution and liquidity risks despite management’s confidence in future growth."
+}

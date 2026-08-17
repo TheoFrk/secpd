@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial judgment and considerable judgment",
+    "no assurance significant revisions",
+    "may materially impact",
+    "unable to predict",
+    "estimated future cash flows"
+  ],
+  "risk_summary": "The disclosure is relatively specific and includes sensitivity figures, quantified reserve revisions, and recognized gains, but relies heavily on estimates, assumptions, and judgment for reserves, impairments, real estate valuations, and taxes. Volatility in drilling demand and the potential for reserve revisions or valuation adjustments represent meaningful downside risks, although the tone is primarily technical rather than crisis-like."
+}

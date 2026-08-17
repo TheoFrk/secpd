@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance",
+    "beyond our control",
+    "no intention or obligation to update",
+    "based on management estimates"
+  ],
+  "risk_summary": "The excerpt combines quantified historical growth and geographic sales detail with extensive forward-looking disclaimers and management projections. Risk disclosure is largely boilerplate, emphasizing uncertainty around regulatory approval, market demand, foreign exchange, inventory realizability, and execution without quantifying potential downside."
+}

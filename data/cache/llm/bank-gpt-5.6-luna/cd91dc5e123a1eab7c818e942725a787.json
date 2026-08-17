@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significant risks and uncertainties",
+    "no obligation to update",
+    "if and when achieved",
+    "alternative future use"
+  ],
+  "risk_summary": "The excerpt is heavily technical and includes substantial boilerplate limiting reliance on forward-looking statements, while providing some quantified contractual, lease, and milestone obligations. The company remains dependent on successful clinical or commercialization outcomes and government funding, with contingent payments and royalty exposure; the tone is neutral to mildly cautious rather than crisis-like."
+}

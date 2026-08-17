@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.65,
+  "complexity_score": 0.38,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cross-reference to annual report",
+    "no substantive disclosure",
+    "information set forth elsewhere"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion and defers the required analysis to another document. This limits transparency within the filing section and requires review of the referenced annual report pages."
+}

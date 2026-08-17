@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "among others",
+    "beyond our ability to predict or control",
+    "undertake no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and broad, non-quantified risk factors, including capital access, partner performance, technology commercialization, financing needs, and regulatory exposure. Accounting policies and selected historical results are comparatively specific, but the excerpt provides limited direct quantification of current liquidity, impairment exposure, or downside scenarios."
+}

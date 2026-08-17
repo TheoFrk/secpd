@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could be materially different",
+    "ultimate effect currently uncertain",
+    "may result in increased costs",
+    "expected to remain volatile",
+    "actual results to differ materially"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, covering production, reserves, pricing, debt, investments, and impairment. Risk tone is mildly negative because of commodity-price volatility, a $5.2 million impairment, rising DD&A, regulatory uncertainty, and dependence on operating partners, although management presents continued drilling and stable-to-growing production expectations."
+}

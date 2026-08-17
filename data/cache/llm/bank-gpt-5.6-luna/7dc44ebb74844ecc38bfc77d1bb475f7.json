@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we expect to invest",
+    "primarily caused by",
+    "for additional information",
+    "if required",
+    "current liabilities exceeded current assets"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with detailed operating, investment, weather, and financing disclosures. The tone is moderately positive due to improved utility operating income and planned investments, but liquidity pressure is evident from current liabilities exceeding current assets and substantial current debt maturities."
+}

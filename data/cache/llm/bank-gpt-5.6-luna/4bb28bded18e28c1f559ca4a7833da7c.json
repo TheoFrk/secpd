@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "economic uncertainties",
+    "absent economic disruption",
+    "assumptions are inaccurate"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified segment margins and profit data but relies heavily on standard forward-looking disclaimers and broad macroeconomic uncertainty. Key risks include structural decline in print demand, intense price competition, volatile paper and cotton costs, and materially reduced apparel profitability. Management expresses cautious optimism about margin improvement, but projections remain dependent on economic recovery and commodity conditions."
+}

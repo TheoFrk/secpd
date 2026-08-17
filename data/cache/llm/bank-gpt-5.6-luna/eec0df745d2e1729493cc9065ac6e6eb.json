@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unless the Company invests",
+    "likely to experience negative cash flow",
+    "no trends or uncertainties",
+    "reasonably likely to result",
+    "unanticipated ARO and environmental expense"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but indicates persistent operating cash burn, expected net losses, limited liquidity sources, and substantial deferred related-party compensation payable on demand. Future viability depends on investments in producing oil and gas assets or other ventures that are not currently planned, while results remain exposed to commodity prices, interest rates, environmental costs, and asset retirement obligations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "may differ materially",
+    "many factors not anticipated",
+    "non-GAAP adjusted measures",
+    "primarily driven by"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and financial narrative supported by extensive quantified results, margin data, and segment drivers. Risk disclosure is largely standardized, while reliance on forward-looking statements and non-GAAP measures introduces some uncertainty and potential presentation bias. Elevated costs, project-completion effects, impairments, currency exposure, and execution dependence are acknowledged but framed as manageable."
+}

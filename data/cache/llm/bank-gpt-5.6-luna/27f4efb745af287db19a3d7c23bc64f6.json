@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.55,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "disclosure deferred to annual report",
+    "cross-reference to Exhibit 13",
+    "no substantive MD&A content"
+  ],
+  "risk_summary": "The excerpt provides no substantive discussion of financial condition, results, liquidity, or risks, instead deferring the analysis to another filing exhibit. This limits transparency and prevents meaningful assessment of operating and credit risks from the excerpt alone."
+}

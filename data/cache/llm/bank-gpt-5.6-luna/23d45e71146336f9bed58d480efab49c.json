@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "primarily due to",
+    "subject to change",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed revenue, margin, customer concentration, geographic exposure, currency sensitivity, and cash-flow data. Risk is elevated by declining 2015 revenue and gross margin, customer concentration, international exposure, price sensitivity, inventory buildup, and acquisition-related costs, but the tone is not crisis-like. Standard forward-looking and accounting-estimate disclaimers introduce moderate boilerplate and uncertainty."
+}

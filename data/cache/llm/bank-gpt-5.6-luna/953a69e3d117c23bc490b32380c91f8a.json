@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "including but not limited to",
+    "no obligation to update",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt presents improving revenue, liquidity, working capital, and no outstanding debt, supporting a moderately positive risk tone. However, it relies on extensive boilerplate disclaimers and broad, largely unquantified risk categories, while noting weaker operating income, rising corporate expenses, legal fees, and dependence on management estimates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "boilerplate forward-looking disclaimer",
+    "inherently uncertain estimates",
+    "currency fluctuations",
+    "doubtful net operating loss utilization",
+    "single-subsidiary credit concentration"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and technically dense, with limited discussion of underlying business risks beyond standard accounting disclosures. Reported results are materially affected by currency movements and real-estate valuation, while recent net operating losses, low cash balances, and concentration in a single subsidiary indicate moderate financial and credit risk."
+}

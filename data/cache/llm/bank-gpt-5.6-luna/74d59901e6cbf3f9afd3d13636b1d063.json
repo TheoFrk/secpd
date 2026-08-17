@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Non-GAAP financial measures",
+    "Fixed currency exchange rates",
+    "Special (gains) and charges",
+    "Qualitative factors",
+    "Significant margin"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and credit profile, supported by quantified sales, margin, earnings, cash flow, ratings, and dividend metrics. However, extensive use of adjusted measures, fixed-currency presentations, acquisition exclusions, and qualitative descriptions may reduce comparability with reported results. The truncated critical-accounting-estimates section also leaves some impairment and estimation risk details unresolved."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP constant currency measures",
+    "organic constant currency adjustments",
+    "partially offset by",
+    "economic uncertainty",
+    "challenging business environment"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed, but emphasizes repeated revenue declines, weaker staffing and recruitment demand, currency headwinds, and continued macroeconomic uncertainty. Non-GAAP constant-currency and organic measures may complicate comparability, although reconciliations are provided and operating profit improved through cost reductions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "cannot assure",
+    "may be affected",
+    "unless otherwise required",
+    "currently available information"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking-statement disclaimers and broad conditional language, particularly around fuel recovery, capacity availability, labor, insurance, regulation, and customer failures. It provides meaningful historical metrics and segment detail, but the discussion is lengthy, boilerplate-heavy, and the excerpt is truncated before complete operating results are presented."
+}

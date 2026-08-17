@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.02,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cross-reference to annual report",
+    "no substantive discussion"
+  ],
+  "risk_summary": "This excerpt provides no substantive financial or risk information and directs readers to another section of the annual report. The language is standard legal cross-reference boilerplate rather than evasive risk disclosure."
+}

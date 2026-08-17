@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily resulting from",
+    "from time to time",
+    "expected to open",
+    "we believe",
+    "subject to certain limitations"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, including debt reductions, restaurant dispositions, margins, unit counts, and liquidity sources. It presents a moderately positive outlook based on lower debt and interest costs, while acknowledging commodity, labor, economic, franchisee execution, and lending-environment risks. The liquidity assessment relies partly on anticipated operating cash flow, borrowing capacity, and continued asset monetization."
+}

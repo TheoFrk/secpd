@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cautiously optimistic",
+    "generally have been able",
+    "no assurances",
+    "most recent estimates",
+    "expected to"
+  ],
+  "risk_summary": "The disclosure presents a generally positive outlook supported by quantified sales, GDP, defense-budget, and cash-flow information. However, reliance on forecasts and hedged language obscures the magnitude and timing of inflation, supply-chain, interest-rate, funding, and contract pass-through risks. The excerpt is lengthy and technically dense, and its apparent truncation limits assessment of the full risk discussion."
+}

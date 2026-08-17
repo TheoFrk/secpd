@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "may adversely impact",
+    "including, but not limited to",
+    "different than anticipated",
+    "other risk factors"
+  ],
+  "risk_summary": "The excerpt contains an extensive, largely boilerplate forward-looking risk inventory covering credit, liquidity, interest-rate, regulatory, cybersecurity, integration, and macroeconomic risks. Although the subsequent MD&A provides useful quantified revenue and expense changes, the risk discussion relies heavily on broad contingencies and limited company-specific probability or impact estimates."
+}

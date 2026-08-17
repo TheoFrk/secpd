@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may have a material adverse effect",
+    "management believes",
+    "estimated future cash flows",
+    "truncated impairment discussion"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding portfolio size, occupancy, lease duration, vacancies, tenant bankruptcy exposure, and accounting-policy impacts. Risk tone is cautiously positive, emphasizing diversification and stable occupancy while acknowledging concentration, tenant-credit, impairment, REIT-qualification, and lease-collection risks. The extensive accounting and regulatory terminology increases complexity, and the truncated impairment discussion limits complete assessment."
+}

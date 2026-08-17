@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "although there can be no assurances",
+    "reasonably likely to materially change",
+    "planned and unplanned outage days",
+    "valuation allowances against deferred tax assets"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively specific, including sensitivity analyses for pension assumptions, discounts, and product returns. Risk is moderate rather than crisis-like, reflecting operational volatility, coal-market pressures, outages, pension exposure, and deferred-tax valuation allowances. The disclosure is technically dense and includes standard accounting-policy boilerplate, but it does not appear materially evasive."
+}

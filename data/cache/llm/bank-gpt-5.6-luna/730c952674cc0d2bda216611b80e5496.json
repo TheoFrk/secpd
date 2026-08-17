@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Cortex Adverse Effect",
+    "forward-looking statements and risks",
+    "significant estimates and assumptions",
+    "changes and updates in technology",
+    "planned renewal of third-party credit"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but presents significant deterioration, including a 66% revenue decline, sharply lower search referrals, failure to meet Cortex KPIs, and a $7.675 million goodwill impairment. Several explanations rely on broad labels or management expectations, including the undefined “Cortex Adverse Effect,” anticipated model shifts, and uncertain renewal of partner credit. Valuation sensitivity to future cash flows and discount rates creates additional impairment and execution risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures and adjustments",
+    "constant currency presentation",
+    "do not currently expect significant effect",
+    "strategic repositioning",
+    "macroeconomic headwinds"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, but extensive non-GAAP and constant-currency presentations may soften the visibility of GAAP performance. Operating risk is elevated, evidenced by declining sales, lower comparable sales and ROIC, a net loss, store closures, and restructuring of banners, although management frames several impacts as strategic or temporary."
+}

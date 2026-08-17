@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding litigation settlement expense",
+    "principally due to",
+    "non-GAAP financial measures",
+    "no standardized definitions",
+    "pending court approval"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear explanations for major year-over-year changes, but it contains considerable boilerplate and relies on non-GAAP adjusted measures. Risk tone is mixed: strong loan and revenue growth contrast with a quarterly loss, materially higher expenses, increased credit-loss provisions, and a $100 million litigation settlement tied to ongoing Stanford-related claims."
+}

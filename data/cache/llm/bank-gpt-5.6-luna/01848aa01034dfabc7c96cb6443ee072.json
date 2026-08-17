@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "may differ materially",
+    "reasonable possibility estimates will change",
+    "no assurance of future legislation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, payer-mix, and sensitivity information, but extensive boilerplate disclaimers and broad references to unspecified risks reduce transparency. Key exposures include Medicare and Medicaid reimbursement changes, retrospective audits, collection risk, and estimation uncertainty, although reported results and operating margins improved year over year."
+}

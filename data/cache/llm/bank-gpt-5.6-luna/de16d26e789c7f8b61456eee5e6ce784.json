@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "positive promotional framing",
+    "COVID-19 utilization uncertainty",
+    "anticipated membership decline",
+    "interdependent segment profitability",
+    "truncated disclosure context"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but uses promotional language and contains substantial technical and lengthy explanations. Key risks include COVID-19-driven utilization volatility, revenue and cash-flow uncertainty, competitive membership pressure, and leverage associated with the Kindred at Home acquisition."
+}

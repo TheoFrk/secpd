@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "management believes",
+    "additional financing is necessary",
+    "continued operations as a going concern",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The company reports severe liquidity stress, including $2.28 million of negative working capital, only $74 thousand in cash, minimal revenue, and $2.44 million in current liabilities. Management explicitly states that additional financing is necessary to continue as a going concern, while reliance on equity or debt financing creates dilution and priority risks. The disclosure is substantially quantified but includes boilerplate forward-looking language and an incomplete liquidity section."
+}

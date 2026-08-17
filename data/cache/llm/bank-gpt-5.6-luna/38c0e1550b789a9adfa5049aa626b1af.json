@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe there are growth opportunities",
+    "we anticipate",
+    "once customer visitations normalize",
+    "expected to be approximately",
+    "estimates based on assumptions believed reasonable"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including debt reduction, capital spending, same-store sales guidance, impairments, and tax-credit impacts. Risk is moderate: projected same-store sales range from negative 1% to positive 1%, and the company reports material goodwill and affiliate investment impairments. Forward-looking growth statements rely on normalization, acquisition opportunities, and assumptions that introduce execution and forecasting uncertainty."
+}

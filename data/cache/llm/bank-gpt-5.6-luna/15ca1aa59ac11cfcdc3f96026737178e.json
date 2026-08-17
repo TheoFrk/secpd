@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.34,
+  "risk_sentiment": -0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A",
+    "cross-reference disclosure",
+    "duplicated wording"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial-condition or operating-results discussion, instead directing readers to another filing exhibit. This limits transparency within the filing and requires reliance on an external incorporated document for risk assessment."
+}

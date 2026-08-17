@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "typically expressed",
+    "largely resulting from",
+    "changes in assumptions"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear explanations of revenue, expense, tax, debt, and cash-flow movements. Risk tone is neutral to mildly confident, although declining revenues and operating cash flow, contract-estimation changes, inflation, and reliance on favorable tax items present notable risks."
+}

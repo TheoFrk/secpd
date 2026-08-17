@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements inherently uncertain",
+    "management believes",
+    "highly dependent on",
+    "expected future cash flows",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, particularly regarding the acquisition, debt financing, and segment sales. Risk is framed through standard contingencies involving market conditions, regulatory registrations, product demand, impairment, and tax recoverability, but there is no clear crisis signal. The incomplete, concatenated text and substantial technical/boilerplate material reduce transparency somewhat."
+}

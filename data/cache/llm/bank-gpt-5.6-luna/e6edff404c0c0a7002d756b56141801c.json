@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expect/anticipate future benefits",
+    "do not currently expect tariffs material",
+    "preliminary tax charge subject to finalization",
+    "non-GAAP measures",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with strong operating performance, improved margins, substantial liquidity, and investment-grade credit ratings. Forward-looking statements rely on expected restructuring, modernization, tax, and tariff outcomes, while total debt and contractual obligations remain material. Overall tone is confident, but tax estimates and future program benefits retain execution and uncertainty risk."
+}

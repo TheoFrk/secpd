@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "factors may not be exhaustive",
+    "beyond the Company's ability to control or predict",
+    "other risk factors listed from time to time",
+    "subject to certain exceptions"
+  ],
+  "risk_summary": "The excerpt combines quantified operating improvements with extensive boilerplate forward-looking disclaimers and a broad, non-exhaustive risk list. Credit risk is elevated by leverage covenant resets, secured debt, mandatory prepayments, refinancing/maturity constraints, and the pending Rail divestiture, although reported 2021 performance and liquidity metrics improved."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to accurately predict",
+    "actual results may differ",
+    "unable to provide a reasonably reliable estimate",
+    "based on assumptions about future demand",
+    "not probable that any amounts will be required"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, including quantified deferred tax assets, valuation allowances, and standby letters of credit. Key risks include semiconductor cyclicality, uncertain customer demand, inventory valuation, receivables, warranty estimates, and an unquantified timing of tax-benefit settlement. The tone is balanced but mildly cautious, with optimism about long-term markets offset by near-term uncertainty."
+}

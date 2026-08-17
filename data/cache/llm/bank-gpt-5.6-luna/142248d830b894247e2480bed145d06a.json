@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.45,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily the result of",
+    "we believe",
+    "may have a material effect",
+    "not indicative of future performance",
+    "require judgments and estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear regional, product, currency, order, backlog, and profitability data. Risk tone is moderately positive due to strong sales and operating-income growth, but declining orders and backlog, foreign-exchange exposure, international concentration, and estimation risks are material concerns. Some standard boilerplate and qualified causal explanations modestly reduce transparency."
+}

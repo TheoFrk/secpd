@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "assume no obligation to update",
+    "reported revenue is less relevant",
+    "believe business is not substantially dependent"
+  ],
+  "risk_summary": "The excerpt combines specific disclosure of a major subscription transition, revenue decline, negative operating margin, and distributor concentration with extensive forward-looking disclaimers and promotional strategy language. Near-term risks include transition-related revenue and cash-flow effects, restructuring costs, execution risk, and dependence on a distributor representing 30% of revenue, although management expresses confidence in customer adoption and channel substitution."
+}

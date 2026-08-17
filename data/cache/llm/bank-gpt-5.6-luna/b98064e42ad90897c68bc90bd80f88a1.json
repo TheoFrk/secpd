@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.16,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to volatility and downward pressure",
+    "no assurance can be given",
+    "inherently uncertain",
+    "could have a material impact",
+    "discussion not included and can be found elsewhere"
+  ],
+  "risk_summary": "The disclosure is largely quantified and specific, including liquidity, debt, purchase obligations, tax liabilities, and segment trends. Risk tone is balanced but mildly cautious, highlighting China weakness, currency effects, margin pressure, significant tax obligations, and uncertain legal and tax outcomes. Some standard contingency language and cross-referencing reduce specificity regarding potential downside magnitude and timing."
+}

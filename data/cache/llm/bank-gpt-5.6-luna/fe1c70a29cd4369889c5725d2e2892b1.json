@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "there can be no assurance",
+    "significant uncertainty",
+    "may materially and adversely affect",
+    "factors could impact",
+    "believe we will be able"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes material quantitative information on liquidity, debt, COVID-19 costs, and operating performance. Risk tone is balanced but highlights substantial exposure to commodity-price volatility, permitting and environmental litigation, operational disruptions, regulatory costs, and debt obligations. Some forward-looking and risk language is standardized and qualified by repeated uncertainty statements."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "could have a material adverse effect",
+    "difficult to predict with certainty",
+    "various other factors",
+    "anticipated benefits and timetable"
+  ],
+  "risk_summary": "The excerpt contains extensive accounting-policy and forward-looking disclosures emphasizing subjective judgments, uncertain tax and revenue outcomes, customer collectibility, and potential restructuring needs. Risk is moderated by descriptions of established processes and historical experience, but the discussion is highly technical, boilerplate-heavy, and provides limited quantified sensitivity or exposure detail."
+}

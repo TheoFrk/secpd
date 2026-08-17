@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may vary significantly",
+    "no assurance",
+    "highly uncertain estimates",
+    "risks including but not limited to"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate disclaimers and broad, non-quantified risk lists, limiting transparency on the magnitude and likelihood of adverse outcomes. It highlights elevated economic, credit, market, liquidity, regulatory, and litigation uncertainty, although management presents funding capacity, deposit strength, and prudent underwriting as mitigants."
+}

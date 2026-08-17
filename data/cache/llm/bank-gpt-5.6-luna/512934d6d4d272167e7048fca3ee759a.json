@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "significant risks and uncertainties",
+    "actual results may differ materially",
+    "various factors",
+    "undertakes no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year operating detail, including income, margins, expenses, provisions, and charge-offs. Risk disclosure is largely standardized and broad, with limited quantification of forward-looking risks; declining net interest margin and prior-year increases in credit losses remain notable concerns, although 2015 results improved."
+}

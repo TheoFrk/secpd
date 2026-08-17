@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "historical financial information not directly comparable",
+    "primarily due to",
+    "requires the use of judgment and assumptions",
+    "could have a material effect",
+    "whenever an event occurs or circumstances change"
+  ],
+  "risk_summary": "The excerpt presents strong 2012 growth and substantial quantitative detail, but comparability is impaired by acquisitions, restructuring, impairments, tax adjustments and refinancing. Key credit risks include meaningful leverage and financing activity, customer and industry concentration, litigation costs, and management judgment in receivable, inventory and asset-impairment reserves."
+}

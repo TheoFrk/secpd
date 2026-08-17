@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "beliefs, estimates, assumptions",
+    "very difficult to detail",
+    "performed well",
+    "historical basis/deconsolidation"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative, citing improving automotive production, acquisitions, and joint-venture performance. Risk disclosure is largely boilerplate and qualitative, with limited quantified discussion in the provided portion and notable exposure to cyclical automotive, construction, steel-price, and commodity-cost volatility."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to external pages",
+    "no substantive disclosure",
+    "forward-looking statements disclaimer"
+  ],
+  "risk_summary": "The excerpt provides no financial, operational, or risk detail and merely directs readers to other sections of the annual report. Its tone is neutral, but the lack of standalone information limits transparency in this passage."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "continue to implement and refine",
+    "key drivers of our net sales",
+    "customer-first mentality"
+  ],
+  "risk_summary": "The excerpt is generally detailed and includes meaningful operational and financial quantification, but relies frequently on management beliefs, expectations, and strategy-oriented language. Identified risks include pronounced holiday seasonality, legal and pension-related charges, store contraction, and negative performance in selected merchandise categories."
+}

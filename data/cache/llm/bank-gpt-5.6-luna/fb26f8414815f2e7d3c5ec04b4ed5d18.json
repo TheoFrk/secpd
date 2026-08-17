@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "reasonably possible",
+    "judgment is required",
+    "could result in a material impact",
+    "changes in estimates"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial year-over-year detail, but includes significant pension settlement losses, goodwill impairment, tax valuation uncertainty, and continued net losses. Results improved materially from 2023, although recurring profitability remains pressured and pension and tax assumptions create meaningful volatility."
+}

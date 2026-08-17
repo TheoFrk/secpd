@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "many of which are beyond our control",
+    "expressly disclaims any obligation to update",
+    "no significant adverse financial effect expected"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate legal disclaimers and broad, non-quantified risk language, limiting the precision of forward-looking disclosures. It reports a COVID-19-related plant closure and operational uncertainty but maintains a generally confident tone regarding liquidity, financial position, and growth prospects. The excerpt is highly complex and includes several management assertions without supporting metrics."
+}

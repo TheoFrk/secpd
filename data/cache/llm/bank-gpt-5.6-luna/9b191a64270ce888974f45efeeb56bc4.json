@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "continuing decline in check usage",
+    "expect the economic environment will continue to be challenging",
+    "higher growth products and services",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally specific and data-rich, with customer counts, revenue mix, acquisition spending, and margin metrics. It presents a cautiously constructive strategy focused on diversification and cost control, but highlights structural declines in check usage, pricing pressure, economic challenges, and reliance on acquisitions and price increases."
+}

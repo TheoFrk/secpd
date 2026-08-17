@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "material adverse effect",
+    "unable to predict net impact",
+    "subject to risks and uncertainties",
+    "substantial compliance condition"
+  ],
+  "risk_summary": "The excerpt is relatively precise and highly quantified regarding operations, revenue mix, regulatory actions, and reserve adjustments. It highlights significant compliance and licensing risk at two hospitals, with potential material adverse consequences if substantial compliance is not achieved, while relying extensively on standard forward-looking disclaimers and uncertainty language."
+}

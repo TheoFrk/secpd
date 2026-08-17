@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "material adverse impact may occur",
+    "cannot be reasonably estimated with certainty",
+    "Adjusted EBITDA exclusions",
+    "supplemental non-GAAP measures",
+    "sufficient liquidity expected"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, cash flow, debt, and deferred-tax information, but emphasizes significant pandemic and commercial-aerospace uncertainty. Extensive non-GAAP discussion and repeated limitations may distract from weak operating cash flow, reliance on credit facilities, and potential adverse effects beyond 2022."
+}

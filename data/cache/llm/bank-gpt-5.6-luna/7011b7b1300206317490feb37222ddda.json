@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict future operating results",
+    "inherent volatility of the crush spread",
+    "may operate at negative or marginally positive margins",
+    "attempt to manage risk",
+    "subject to significant fluctuations"
+  ],
+  "risk_summary": "The disclosure is detailed and substantially quantified, but highlights material exposure to volatile corn, ethanol, distillers grains, and natural gas prices. Negative or marginal plant margins, production shutdown risk, short contract coverage, and a prior bankruptcy and investment write-off indicate meaningful earnings and cash-flow risk."
+}

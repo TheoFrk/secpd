@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "Actual results may differ significantly",
+    "foreseeable future",
+    "primarily related to",
+    "for further details"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified cash-flow and divestiture information, but relies on standard estimates, assumptions, and broad liquidity assurances. Multiple divestitures and dependence on operating cash flow, receivables, inventory management, and payment timing present moderate financial and execution risks."
+}

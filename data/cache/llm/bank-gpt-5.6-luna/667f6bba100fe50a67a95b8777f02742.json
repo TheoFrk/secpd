@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "known or unknown risks and uncertainties",
+    "subject to uncertainty and changes in circumstances",
+    "estimated fair value",
+    "expected to be completed",
+    "including but not limited to"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively detailed, reporting revenue, margins, acquisitions, impairments, and legal charges. Risk exposure exists through customer concentration, project replacement dependence, discontinued operations, disposal losses, and estimation uncertainty, but the overall tone remains moderately confident and growth-oriented."
+}

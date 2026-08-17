@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective and involve significant management judgment",
+    "expected to be finalized",
+    "substantial operational synergies",
+    "non-core items",
+    "various global regulatory approvals"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative disclosure, but relies on non-GAAP measures and management-defined adjustments that introduce judgment and comparability risk. Operating performance is described with a mildly negative tone, including declines, weak demand, and competitive pressure, while the pending acquisition is presented optimistically despite financing, regulatory, and execution contingencies."
+}

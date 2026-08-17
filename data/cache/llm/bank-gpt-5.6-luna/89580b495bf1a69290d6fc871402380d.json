@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "excluding noncontrolling interest",
+    "adjusted EBITDA",
+    "expected to be refunded",
+    "closely monitoring",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides substantial detail on commodity prices, liquidity, cash flow, capital expenditures, and impairment-driven losses. Risk is elevated due to severe earnings deterioration, lower operating cash flow, commodity-price exposure, and pandemic-related demand weakness, although liquidity preservation, hedging gains, and covenant compliance provide mitigating support."
+}

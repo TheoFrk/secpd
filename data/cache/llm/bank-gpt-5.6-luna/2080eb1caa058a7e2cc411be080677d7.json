@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "related-party franchise ownership",
+    "consolidation despite less than 50% ownership",
+    "may change in the future"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively transparent, reporting detailed revenue, margin, cost, and comparable-sales metrics. Risk tone is mildly positive, although management flags expected food-cost pressure, minimum-wage sensitivity, and potential future inflation impacts. Related-party franchise arrangements and consolidation of controlled partnerships despite minority ownership warrant additional scrutiny."
+}

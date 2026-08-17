@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to determine range",
+    "cannot predict what impact",
+    "no assurances can be given",
+    "currently intend to remove",
+    "testing is not complete"
+  ],
+  "risk_summary": "The disclosure quantifies the UPRR warranty exposure and related operational impacts, but the claim scope, defects, and ultimate financial consequences remain unresolved. The absence of an accrual is explicitly justified by uncertainty, while the company acknowledges a potentially material adverse effect on financial statements, liquidity, and capital resources."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot predict",
+    "risks and uncertainties",
+    "not material sources of revenue",
+    "expressly disclaim any obligation"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad, largely unquantified uncertainty language. Operating risks include driver shortages, regulatory constraints, fuel-price volatility, compensation pressure, and slowing freight demand, although quantified liquidity, covenant compliance, operating cash flow, and fleet metrics provide mitigating detail."
+}

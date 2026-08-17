@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may be material",
+    "could continue to result in",
+    "cannot be predicted at this time",
+    "continually considering various initiatives",
+    "partially mitigate and offset"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, segment results, product-level trends, and explicit exposure to foreign exchange, inflation, supply-chain, geopolitical, and competition risks. Risk language is appropriately disclosed but relies on broad contingencies and mitigation claims without fully quantifying potential downside, particularly regarding Israel, Russia, Ukraine, and future macroeconomic effects."
+}

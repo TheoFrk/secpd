@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "inherent uncertainties and risks",
+    "including, but not limited to",
+    "undertake no obligation to update",
+    "current outlook"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and segment information, reducing overall vagueness, but includes extensive standard forward-looking disclaimers and broad, non-quantified risk categories. The tone is moderately positive due to sales growth, margin expansion, and projected EPS growth, while exposure to economic conditions, competition, acquisitions, currency, and low order backlogs remains evident."
+}

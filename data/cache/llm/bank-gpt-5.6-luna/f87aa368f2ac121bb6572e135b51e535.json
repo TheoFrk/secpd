@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking risk disclaimer",
+    "management estimates",
+    "excellent opportunities for continued growth",
+    "minimal additional capital requirements",
+    "excerpted liquidity discussion"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, with detailed divisional revenue trends, order volumes, inventory balances, and supplier constraints. Risk is moderate: several UBAM channels declined materially, inventory valuation depends on management estimates, and the business relies on consultant retention and a primary supplier. Management maintains a generally positive outlook and expects sufficient liquidity, although the excerpted liquidity discussion is incomplete."
+}

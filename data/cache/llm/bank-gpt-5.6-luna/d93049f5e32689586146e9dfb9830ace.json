@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and inherent risks",
+    "actual results may differ materially",
+    "continued difficult market conditions",
+    "ability of borrowers to pay",
+    "subject to regulatory environment"
+  ],
+  "risk_summary": "The disclosure is largely precise and well quantified, with detailed operating, funding, earnings, loan growth, and asset-quality metrics. Risk tone is cautiously positive because nonperforming assets and charge-offs declined, although borrower repayment capacity, real-estate market limitations, increased loan-loss provisioning, funding needs, and acquisition-related risks remain relevant."
+}

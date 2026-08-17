@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.86,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance",
+    "seeking debt or equity financing",
+    "if unable to refinance",
+    "estimates and assumptions",
+    "certain other alleged defaults"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk, including negative working capital, operating losses, lender default, vendor prepayment requirements, and a near-term refinancing deadline. Although the company provides substantial quantitative detail and describes mitigation actions, its ability to continue operations depends on uncertain refinancing and creditor forbearance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "upside potential",
+    "subject to",
+    "overall uncertainty",
+    "expected to continue"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth outlook supported by quantified market and sales data, but relies frequently on management expectations and broad macroeconomic assumptions. Key risks include RV product-mix volatility, MH financing and credit constraints, regulatory conditions, consumer confidence, and economic or political uncertainty."
+}

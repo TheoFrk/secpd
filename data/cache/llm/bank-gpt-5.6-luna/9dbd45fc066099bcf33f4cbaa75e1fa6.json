@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "extent of impact ... uncertain",
+    "magnitude of the impact and duration",
+    "confidential joint development project",
+    "requirements based and do not guarantee quantities",
+    "reasonable estimate ... not possible"
+  ],
+  "risk_summary": "The excerpt reports strong historical growth, liquidity, and no significant pandemic impact through fiscal year-end, but highlights substantial uncertainty regarding COVID-19 effects on commercial aerospace demand and operations. Customer concentration, non-guaranteed long-term contract volumes, and uncertain timing of tax liabilities are material risk factors, partially offset by stated cash resources and a strong balance sheet."
+}

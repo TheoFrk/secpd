@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "expected to remain relatively stable",
+    "actual results may differ significantly",
+    "various other assumptions",
+    "as more fully described below"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and earnings information, but relies on broad causal language and forward-looking expectations, with several key tables and explanatory bullets omitted or truncated. Risk exposure includes earnings volatility from Kronos, commodity costs, project concentration, environmental and contingent liabilities, and significant accounting estimates."
+}

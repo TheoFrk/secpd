@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.47,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "missing quantitative detail"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead incorporates the MD&A from another filing by reference. This limits transparency and prevents assessment of current operating trends, liquidity, and risk exposures from the excerpt alone."
+}

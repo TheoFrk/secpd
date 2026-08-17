@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "financial impact cannot be reasonably estimated",
+    "depends on customers’ willingness",
+    "affected by inflation",
+    "continues to monitor closely",
+    "boilerplate metric definitions"
+  ],
+  "risk_summary": "The excerpt presents strong, record fiscal 2022 performance with substantial cash generation, liquidity, and quantified operating results. Key risks include inflation, wage and interest-cost pressure, supply-chain disruption, seasonality, and customer resistance to price increases, with some forward-looking impacts explicitly left unquantified."
+}

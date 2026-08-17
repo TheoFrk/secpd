@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.38,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "see information contained",
+    "heading reference",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and merely redirects readers to another section of the filing. Its boilerplate cross-reference limits standalone transparency and prevents assessment of operating or liquidity risks from this text alone."
+}

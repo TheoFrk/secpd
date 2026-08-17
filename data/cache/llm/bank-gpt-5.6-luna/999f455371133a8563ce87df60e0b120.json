@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "probable recovery",
+    "may result in material changes",
+    "various assumptions and methodologies",
+    "actual costs may differ"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative disclosures, but relies heavily on estimates, actuarial assumptions, regulatory recovery judgments, and uncertain environmental outcomes. Key downside risks include disallowance of regulatory assets, remediation cost overruns, adverse litigation or insurance recoveries, and changes in benefit assumptions or acquisition valuations. Overall tone is neutral and compliance-oriented rather than crisis-like."
+}

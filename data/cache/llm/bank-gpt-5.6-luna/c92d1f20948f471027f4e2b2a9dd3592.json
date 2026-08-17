@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted diluted EPS exclusions",
+    "forecast caveats and disclaimers",
+    "reclassification of prior-year amounts",
+    "special items excluded from underlying results",
+    "extensive cross-references to notes and risk factors"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, including segment changes, EPS guidance, tax matters, and specific one-time charges. Risk tone is cautiously constructive, but reliance on adjusted non-GAAP measures and exclusion of potentially material items may make underlying performance and forecast risk less transparent."
+}

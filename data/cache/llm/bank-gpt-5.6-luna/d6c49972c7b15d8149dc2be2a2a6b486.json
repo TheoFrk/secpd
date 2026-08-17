@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of future liquidity",
+    "outcome cannot be predicted",
+    "current expectations and uncertainties",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt is generally structured and includes meaningful quantitative disclosures on liquidity, debt payments, borrowing capacity, and operating results. Risk tone is cautiously positive but tempered by liquidity uncertainty, restricted insurance-sub­sidiary assets, cybersecurity litigation, and extensive forward-looking disclaimers. The text contains substantial procedural and strategy boilerplate, while the excerpt truncation limits assessment of the full financial discussion."
+}

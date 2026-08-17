@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "significant estimates and assumptions",
+    "may differ materially",
+    "no obligation to update",
+    "expected to offset"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosure on revenue declines, segment performance, currency effects, and goodwill valuation assumptions, but includes extensive standard safe-h harbor language and reliance on management estimates. Key risks include digital substitution, pricing pressure, uncertain forecasts, high discount-rate sensitivity, and potential future impairment."
+}

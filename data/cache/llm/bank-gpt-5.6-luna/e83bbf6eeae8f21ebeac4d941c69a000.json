@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.52,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "Certain Items",
+    "estimated market share",
+    "53-week adjustment",
+    "acquisition-related adjustments"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with a positive operating-performance tone and reported plan targets exceeded. Comparability and earnings quality are complicated by extensive non-GAAP exclusions, acquisition-related adjustments, tax items, restructuring costs, and fiscal-week normalization. Competitive pricing pressure, international inflation, and lower-margin national-customer sales represent continuing risks."
+}

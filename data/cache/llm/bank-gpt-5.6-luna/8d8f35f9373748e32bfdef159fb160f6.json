@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance financing will be available",
+    "may have funds for less than 24 months",
+    "expected to",
+    "could materially harm"
+  ],
+  "risk_summary": "The excerpt contains extensive forward-looking and safe-harbor language, with substantial reliance on unproven product development claims and expected outcomes. Microbot is pre-revenue, loss-making, dependent on additional financing, and explicitly warns that funding may be unavailable, potentially requiring spending reductions or suspension of research programs. Liquidity, dilution, debt covenant, litigation repayment, and execution risks are significant despite promotional descriptions of its technologies."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "could differ materially",
+    "no obligation to update",
+    "various factors"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking-statement disclaimers and broadly framed risk factors, limiting specificity about the magnitude and probability of adverse outcomes. The overall tone is confident and growth-oriented, supported by quantified revenue growth, backlog, acquisitions, and planned R&D investment, although integration, cybersecurity, regulatory, execution, and market risks remain material."
+}

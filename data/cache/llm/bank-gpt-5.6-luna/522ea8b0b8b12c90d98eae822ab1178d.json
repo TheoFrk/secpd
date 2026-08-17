@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor boilerplate",
+    "cannot guarantee future results",
+    "no duty to update",
+    "impact is unknown",
+    "reasonable under the circumstances"
+  ],
+  "risk_summary": "The excerpt is heavily technical and includes substantial forward-looking and cautionary boilerplate, with limited quantified discussion of key uncertainties. It identifies cyclical demand, exchange-rate volatility, customer credit risk, inventory obsolescence, and potential accounting-standard impacts, but generally describes these risks qualitatively."
+}

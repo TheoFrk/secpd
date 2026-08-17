@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may be required to issue restricted shares",
+    "cannot predict whether financing will become available",
+    "material adverse effect",
+    "dependent upon continued operations",
+    "going concern qualification"
+  ],
+  "risk_summary": "The company has no operations or material cash resources, relies on management and affiliates for interim funding, and reports $176,679 of liabilities with no current assets. Its auditors issued a going-concern qualification, and continued operations depend on obtaining additional financing. The disclosure is relatively explicit about these risks, although parts of the financing and business-combination discussion are repetitive and highly contingent."
+}

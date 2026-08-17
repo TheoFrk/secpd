@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "highly subjective assumptions",
+    "negative working capital",
+    "expected EBITDA",
+    "m) truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but presents meaningful liquidity and execution risks, including negative working capital, declining cash, higher borrowings and interest expense, and reliance on acquisitions for growth. Management maintains a growth-oriented tone, while some forward-looking and valuation-related language remains inherently uncertain. The excerpt is truncated, which limits assessment of the complete liquidity and debt discussion."
+}

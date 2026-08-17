@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "broad based headwinds",
+    "non-recurring gains",
+    "probability weighted contingent payments",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but extensive non-GAAP adjustments and acquisition-related exclusions complicate assessment of underlying performance. Key negative signals include a 41% decline in consolidated net earnings, an 11% decline in adjusted earnings, weaker Protein Sciences results, margin compression, restructuring charges, impairments, and contingent acquisition obligations."
+}

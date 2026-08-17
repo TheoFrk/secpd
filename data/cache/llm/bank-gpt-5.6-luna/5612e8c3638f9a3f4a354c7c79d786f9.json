@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-recurring adjustments",
+    "as adjusted",
+    "primarily due to",
+    "actual results inevitably will differ",
+    "cannot be determined with absolute certainty"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed segment, earnings, cash flow, and adjustment information. Operating performance shows sales declines across major areas and reliance on favorable pension-cost changes and non-GAAP adjustments, but strong cash generation and no debt mitigate near-term credit risk. Critical-accounting language is standard but highlights estimation uncertainty and potentially material variance from reported assumptions."
+}

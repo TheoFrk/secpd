@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could result in significant changes",
+    "subject to change",
+    "may not be adequate over time",
+    "significant assumptions and judgment"
+  ],
+  "risk_summary": "The excerpt provides several quantified metrics and identifies key credit and fair-value sensitivities, including unemployment forecasts and loan-loss estimation methods. However, extensive caveats about uncertainty, assumptions, offsets, and potential future adjustments limit precision regarding the magnitude of adverse outcomes. The tone is cautious and moderately risk-focused rather than crisis-like."
+}

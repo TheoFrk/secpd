@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance of capital raising",
+    "continue operations beyond November 2015",
+    "inherently subject to risks and uncertainties",
+    "anticipated expenses and associated losses"
+  ],
+  "risk_summary": "The disclosure is highly negative on liquidity and operating viability: revenue fell to zero, cash was approximately $5,400 by October 20, 2015, borrowing capacity was exhausted, and operations were projected to continue only beyond November 2015 if additional capital was raised. Although the filing provides substantial quantitative detail, extensive boilerplate disclaimers and conditional language somewhat dilute the presentation of the severe financing and going-concern risk."
+}

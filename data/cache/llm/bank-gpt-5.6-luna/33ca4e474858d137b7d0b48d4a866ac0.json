@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements may differ materially",
+    "subject to inherent uncertainty",
+    "cannot assure you",
+    "various assumptions",
+    "regulatory waivers and remediation plans"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights severe capital adequacy and regulatory eligibility risks, including risk-to-capital ratios materially above stated limits and reliance on waivers. Continued business writing depends on MIC capacity, GSE approvals, uncertain claims estimates, and future operating assumptions."
+}

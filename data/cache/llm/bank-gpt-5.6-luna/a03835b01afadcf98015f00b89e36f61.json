@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "significant macro-economic uncertainty",
+    "contingent consideration",
+    "valuation allowances",
+    "third-party indemnity agreements and guarantees"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue declines, impairments, cost reductions, debt repayment, tax assets, and contingent obligations, but relies on broad causal language and forward-looking qualifiers in several areas. Risk tone is moderately negative due to pandemic-related demand deterioration, losses, impairments, liquidity actions, uncertain tax benefits, and potential decommissioning liabilities, although management emphasizes resilience and recovery."
+}

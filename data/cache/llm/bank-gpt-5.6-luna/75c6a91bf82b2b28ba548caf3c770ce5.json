@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated with certainty",
+    "may have a material adverse impact",
+    "non-GAAP limitations",
+    "practical expedients utilized",
+    "subjective estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt clearly identifies material COVID-19, commercial aerospace, customer, supplier, and liquidity risks, with several quantified operating and tax-deferral figures. Risk disclosure is partly balanced by extensive boilerplate regarding Adjusted EBITDA and accounting policies, while future impacts remain uncertain and potentially adverse."
+}

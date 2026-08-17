@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "factors that could cause actual results",
+    "market forces beyond control",
+    "higher level of low-yielding assets"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and balance-sheet information, including loan growth, margin compression, funding mix, and earnings trends. However, extensive boilerplate disclaimers and broad references to uncontrollable market conditions dilute the discussion of specific forward-looking risks. Overall tone is cautiously positive, supported by earnings growth but tempered by declining net interest margin and asset-yield pressure."
+}

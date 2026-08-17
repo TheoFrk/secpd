@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.44,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cross-reference to external exhibit",
+    "no substantive discussion",
+    "legalistic boilerplate"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead incorporates the MD&A from another filing by reference. This limits standalone transparency and requires review of Exhibit 13.1 to assess liquidity, performance, and material risks."
+}

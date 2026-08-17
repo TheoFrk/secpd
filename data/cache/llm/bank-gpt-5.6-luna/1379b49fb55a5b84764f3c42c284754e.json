@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to certain conditions",
+    "we anticipate paying",
+    "up to $14.0 million",
+    "growth dependent on adoption",
+    "relatively high cost"
+  ],
+  "risk_summary": "The excerpt is generally factual and includes substantial acquisition, financing, and market metrics, but contains lengthy product descriptions and some conditional or forward-looking statements. Key risks include acquisition-related leverage, contingent payments, market softness in mature regions, software migration constraints, and dependence on customer adoption."
+}

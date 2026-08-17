@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "discontinued operations classification",
+    "non-operating items excluded",
+    "higher than expected claims",
+    "delayed Medicare reimbursements",
+    "low interest rate pressure"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with detailed segment metrics and year-over-year explanations. Risk tone is cautiously positive, but declining margins, higher-than-expected claims, low investment yields, delayed reimbursements, and the planned Medicare Part D sale indicate meaningful operating and execution risks."
+}

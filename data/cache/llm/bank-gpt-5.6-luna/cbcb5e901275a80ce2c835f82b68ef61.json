@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "largely due to",
+    "primarily due to",
+    "adequate amount",
+    "best estimates",
+    "no reasonable possibility"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, identifying the strike, demand weakness, cost inflation, inventory charges, and program-related drivers. Risk tone is cautiously positive due to backlog growth and FLRAA awards, but impairment conclusions rely on management forecasts and provide limited sensitivity analysis."
+}

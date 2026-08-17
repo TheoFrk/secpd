@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict approval",
+    "subject to regulatory approval",
+    "expected closing date",
+    "intends to provide",
+    "to the extent possible"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, with customer counts, rate requests, debt amounts, maturities, and financing terms. Key uncertainties relate to regulatory approval, recovery of storm costs, execution of new projects, and exposure to lost industrial and wholesale demand. Overall tone is operationally confident but cautiously qualified around approvals and future outcomes."
+}

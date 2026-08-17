@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor language",
+    "other operational, financial or legal risks",
+    "could cause actual results to differ materially",
+    "no obligation to update",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt combines extensive boilerplate forward-looking disclaimer language with detailed operational descriptions and quantified revenue and cost data. It identifies broad exposure to accidents, insurance, contractors, capacity providers, demand, regulation, cybersecurity, and competition, but does not quantify the potential magnitude of these risks in this section. Overall tone is neutral to mildly confident, supported by scale and operating detail rather than explicit risk mitigation analysis."
+}

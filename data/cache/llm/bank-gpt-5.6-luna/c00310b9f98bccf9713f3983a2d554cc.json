@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "variety of factors",
+    "evolving and uncertain factors",
+    "may take additional restructuring actions",
+    "long-range forecasts and assumptions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on sales, costs, margins, restructuring charges, and supply-chain impacts, but relies substantially on standard forward-looking disclaimers and broad uncertainty language. Risk tone is moderately negative, driven by pandemic effects, semiconductor shortages, inflation, geopolitical events, cost inflation, and potential restructuring, although operating results are presented with specific metrics."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "if opportunities arise",
+    "non-GAAP components",
+    "certain other amounts",
+    "internally-generated business indicator"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantitatively detailed, including fleet utilization, lease expirations, segment profit, investment volumes, and market exposures. It acknowledges weakening rail, energy, coal, frac sand, and flammable-liquids markets, along with expected lower segment profit and lease pricing, but presents the company as positioned to manage these conditions. Leverage allocation, non-GAAP measures, and management-defined performance indicators require careful interpretation."
+}

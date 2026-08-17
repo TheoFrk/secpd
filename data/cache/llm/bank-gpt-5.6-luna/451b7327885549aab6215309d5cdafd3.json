@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict future commodity prices",
+    "cannot determine with any degree of certainty",
+    "unless commodity prices decline significantly",
+    "we believe we have adequate liquidity",
+    "volatile commodity pricing environment"
+  ],
+  "risk_summary": "The company reports strong profitability, positive working capital, no revolver borrowings, covenant compliance, and substantial unused capacity. However, cash flow, borrowing capacity, asset recoverability, and revenue remain materially exposed to volatile commodity prices, hedging outcomes, and production economics. Disclosure is generally quantified but relies on repeated uncertainty language and includes apparent formatting or extraction defects."
+}

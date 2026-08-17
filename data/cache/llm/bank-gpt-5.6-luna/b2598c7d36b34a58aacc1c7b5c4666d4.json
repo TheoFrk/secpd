@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.9,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to regulation",
+    "may negotiate rates",
+    "based on market conditions and other factors",
+    "generally offset",
+    "not recognized until the underlying transaction occurs"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating and earnings narrative supported by substantial quantitative detail, including higher net income and segment drivers. Risk transparency is reduced by dense segment descriptions, extensive legal and accounting terminology, and reliance on offsetting economic-value assertions for Sequent derivatives. Key exposures include commodity-price volatility, regulatory oversight, impairment history, joint ventures, and discretionary share repurchases."
+}

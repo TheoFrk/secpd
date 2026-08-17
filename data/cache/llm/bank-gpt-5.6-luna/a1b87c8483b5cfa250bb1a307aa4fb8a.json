@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "may be necessary",
+    "intended to assist the reader",
+    "based on assumptions about future demand",
+    "excerpt truncated"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified segment sales, margins, inventory balances, and reserve amounts, limiting overall vagueness. Risk signals include declining consolidated and segment sales, customer delays, inventory obsolescence exposure, and reliance on assumptions regarding future demand and market conditions, although the tone remains largely factual and measured."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "known or unknown risks and uncertainties",
+    "cannot provide any assurance",
+    "significant opportunities anticipated",
+    "more likely than not to be impaired",
+    "planned business and operational strategies"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, reporting revenue, earnings, customer concentration, cost pressures, weather impacts, and goodwill-testing assumptions. Risk tone is cautiously positive, but forward-looking disclaimers, customer concentration, project-margin deterioration, acquisition integration exposure, and reliance on management projections remain material concerns."
+}

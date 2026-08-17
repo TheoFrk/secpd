@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "pro forma (organic) sales",
+    "management estimates",
+    "excluding impairment and restructuring charges",
+    "expected to be immediately accretive"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong revenue and operating-income recovery. Risk factors include margin compression, limited operating cash generation despite growth, prior-year goodwill and intangible impairments, restructuring costs, foreign-exchange volatility, and execution risk from acquisitions. Repeated emphasis on non-GAAP, organic, and adjusted measures may make underlying GAAP comparability less transparent."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.49,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "include, but are not limited to",
+    "cannot always predict",
+    "actual results could differ significantly",
+    "unable to predict timing and strength"
+  ],
+  "risk_summary": "The excerpt contains useful quantitative operating information and detailed accounting-policy disclosures, but is heavily supplemented by standard forward-looking disclaimers and broad, non-quantified risk language. Key exposures include construction delays, fixed-price contract margin pressure, raw-material inflation, receivables collectability, pension assumptions, and uncertain global demand recovery."
+}

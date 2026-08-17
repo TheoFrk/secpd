@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "negative macro-economic environment",
+    "management believes",
+    "can have a negative effect",
+    "in an effort to offset",
+    "proprietary credit scoring system"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, but highlights materially worsening credit losses, lower collections, elevated charge-offs, competitive pressure, and macroeconomic sensitivity. Risk is partly softened through management expectations, generalizations, and descriptions of mitigation efforts, while the business remains highly exposed to subprime credit performance and funding conditions."
+}

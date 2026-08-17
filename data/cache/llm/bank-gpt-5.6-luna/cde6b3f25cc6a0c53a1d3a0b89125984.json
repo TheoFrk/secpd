@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "reasonable under the circumstances",
+    "actual results could differ materially",
+    "inherently uncertain",
+    "cannot provide assurance",
+    "immaterial business acquisitions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative acquisition and tax information, but relies on standard qualifications around estimates, fair values, tax examinations, and future outcomes. Key risks include judgment-heavy revenue recognition, acquisition valuation assumptions, tax exposures, pandemic-related customer credit deterioration, and the truncated/discontinuous presentation."
+}

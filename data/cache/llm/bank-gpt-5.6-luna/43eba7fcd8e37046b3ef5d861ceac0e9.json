@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "strive to",
+    "seek to enhance",
+    "operational excellence initiatives",
+    "changing needs of our customers"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified year-over-year growth in sales, margins, and operating income, producing a generally confident tone. Some strategic and performance language is promotional and boilerplate, while reliance on acquisitions, end-market demand, currency movements, asbestos accruals, and impairment charges represents underlying risk exposure."
+}

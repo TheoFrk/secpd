@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor disclaimer",
+    "uncertainties involved with significant estimates",
+    "management does not assume responsibility",
+    "primarily attributable to acquisitions",
+    "truncated product development discussion"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating trend, with sharply higher sales and a return to profitability largely driven by acquisitions. Credit risks include acquisition-related leverage, a $1.6 million performance and payment bond, tax-asset uncertainty, and limited discussion of liquidity and debt capacity. Disclosure is substantially quantified but contains boilerplate forward-looking language, drafting errors, and an incomplete section that limits assessment of underlying organic performance."
+}

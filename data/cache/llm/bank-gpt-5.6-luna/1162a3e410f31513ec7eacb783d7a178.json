@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may differ from actual results",
+    "cannot be certain",
+    "if needed, on favorable terms or at all",
+    "estimated future cash flows",
+    "material adverse impact"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including year-over-year expense changes, impairment amounts, and equity financing activity. Liquidity remains dependent on available cash, uncertain future operating cash flows, and potentially dilutive or unavailable external financing, while the company continues to incur substantial research and development and administrative expenses. Patent licensing revenue is explicitly characterized as non-recurring and not expected to be significant to ongoing operations."
+}

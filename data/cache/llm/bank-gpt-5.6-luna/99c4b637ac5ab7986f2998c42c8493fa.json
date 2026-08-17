@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and actual results may differ materially",
+    "significant judgment and estimates",
+    "more likely than not",
+    "subject to commodity price declines",
+    "repeated ceiling test methodology"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes substantial quantification, but relies heavily on management estimates, reserve and commodity-price assumptions, and standard forward-looking disclaimers. Key risks include potential ceiling-test impairments, asset-retirement obligation changes, dependence on commodity prices and production, and reliance on external financing."
+}

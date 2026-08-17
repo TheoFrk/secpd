@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "timing cannot be predicted",
+    "expected to continue to grow",
+    "believed to be reasonable",
+    "actual results may differ",
+    "long, arduous process"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes substantial operational and financial quantification, but relies on forward-looking assumptions regarding entitlements, development timing, commodity prices, and production. Key risks include litigation and permitting delays, commodity and agricultural volatility, declining resource production, and material accounting-estimate sensitivity."
+}

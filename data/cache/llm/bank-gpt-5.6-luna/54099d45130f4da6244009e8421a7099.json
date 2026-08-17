@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements may differ materially",
+    "not undertaking any obligation to update",
+    "may not contain all of the information",
+    "favorable risk characteristics",
+    "qualified by information elsewhere"
+  ],
+  "risk_summary": "The excerpt presents a generally favorable operating and credit environment, supported by quantified earnings growth, declining delinquencies, and lower losses. It acknowledges emerging risk from eased lending standards, higher DTI and LTV concentrations, competitive pricing, and sensitivity to economic, interest-rate, and housing-market changes. Extensive forward-looking disclaimers and cross-references modestly reduce transparency but do not appear unusually evasive given standard 10-K conventions."
+}

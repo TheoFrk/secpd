@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "no assurance",
+    "reasonably possible",
+    "current best estimates",
+    "excluding the loss associated"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and identifies meaningful deterioration in operating income, catastrophe losses, adverse reserve assumption changes, and non-core weakness. Risk disclosure is partly mitigated by quantified reserve sensitivities, but extensive actuarial uncertainty and standard disclaimers limit predictability."
+}

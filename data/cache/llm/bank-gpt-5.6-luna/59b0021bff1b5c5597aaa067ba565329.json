@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance of financing availability",
+    "subject to customary conditions",
+    "subject to market conditions",
+    "future fair-value adjustments",
+    "financial covenant limitations"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively detailed, but includes meaningful financing and refinancing uncertainty, property impairments, lease-term exposure, and tenant payment dependence. The tone is generally factual and operationally confident, tempered by standard liquidity caveats and leverage-related risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to uncertainties and factors",
+    "difficult to predict",
+    "beyond the control of the Company",
+    "ability to satisfy financing obligations"
+  ],
+  "risk_summary": "The excerpt provides relatively specific historical operating and acquisition information, including sales, costs, margins, debt, and interest rates. Risk exposure includes pandemic-related demand and supply disruptions, acquisition integration, customer and aerospace concentration, competition, financing availability, and compliance with financing obligations. The tone is moderately positive regarding recovery and growth but tempered by extensive standard forward-looking risk disclaimers."
+}

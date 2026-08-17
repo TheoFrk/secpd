@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "dynamic and uncertain",
+    "for the foreseeable future",
+    "may adversely impact",
+    "subject to change",
+    "significantly higher/lower"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with extensive operational and financial figures, but repeats COVID-19 impacts and relies on forward-looking qualifiers regarding recovery and consumer behavior. Risk tone is moderately negative due to substantial declines in franchise sales, royalties, closures, and dependence on a principal supplier, partially offset by reopening trends and strategic growth initiatives."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "various assumptions about future conditions",
+    "numerous unknown factors",
+    "beyond the Company's control",
+    "no assurance can be given",
+    "absent a material capital expenditure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and reports strong improvements in sales, profitability, cash flow, and working capital. Risk is moderated by customer concentration in large catalyst orders, dependence on overseas markets and products under development, debt repayment requirements, and broad forward-looking statement disclaimers. Management expresses confidence in meeting near-term cash needs, subject to no unanticipated material capital expenditure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "excluding impact of changes in exchange rates",
+    "non-GAAP presentation disclaimer",
+    "brand-centric promotional language",
+    "partially offset by higher revenues"
+  ],
+  "risk_summary": "The excerpt presents a generally positive performance narrative supported by substantial revenue, earnings, dividend, and repurchase quantification. Risk disclosure is partly boilerplate and emphasizes adjusted currency measures and strategic branding, while noting foreign-exchange headwinds, goodwill impairment, higher investment costs, and declining performance in several brands."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "primarily attributable to",
+    "certain other items",
+    "not a substitute for GAAP",
+    "valuation allowance against deferred tax assets"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but includes substantial technical jargon, non-GAAP adjustments, and standard forward-looking disclaimers. Credit risk indicators include restructuring activity, debt-related fair value adjustments, an equity investment impairment, and a full valuation allowance on deferred tax assets, despite improving operating results in certain segments."
+}

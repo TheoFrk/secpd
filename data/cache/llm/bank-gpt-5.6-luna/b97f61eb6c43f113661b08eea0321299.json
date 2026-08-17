@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "other factors described elsewhere",
+    "beyond our ability to predict or control",
+    "other unpredictable or unknown factors",
+    "disclaim any obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, reporting revenue, earnings, metal prices, acquisitions, and portfolio composition. Risk tone is moderately positive because results improved materially, but the business remains exposed to metal-price volatility, operator performance, project execution, permitting, environmental, geopolitical, and contractual risks. The forward-looking disclaimer section is broad and substantially boilerplate, limiting visibility into the likelihood or magnitude of individual risks."
+}

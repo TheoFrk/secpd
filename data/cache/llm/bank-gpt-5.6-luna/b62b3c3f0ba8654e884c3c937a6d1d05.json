@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "assumptions and methodologies ... reasonable",
+    "not materially different",
+    "historical Combined Financial Statements"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate and complex separation-related disclosures, with some qualitative assertions that limit comparability between historical and standalone expenses. Quantified results indicate materially weaker performance, including a $98.3 million intangible asset impairment and a shift to a $5.1 million operating loss from $139.6 million of operating income."
+}

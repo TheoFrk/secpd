@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "mainly driven by the following factors",
+    "to a lesser extent",
+    "anticipated future periods",
+    "constant currency basis",
+    "Non-GAAP Adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, restructuring charges, impairment amounts, cost savings, and revenue drivers, supporting relatively transparent disclosure. However, it relies on recurring MD&A boilerplate, frequent qualifiers, non-GAAP measures, and some incomplete or unspecified explanations; COVID-19 exposure, acquisition integration, impairments, and future restructuring costs remain material risks."
+}

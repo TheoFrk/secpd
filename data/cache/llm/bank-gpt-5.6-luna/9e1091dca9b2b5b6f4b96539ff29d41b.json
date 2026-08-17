@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "non-GAAP financial measures",
+    "discussion not intended to fully reconcile",
+    "omits discussion of 2021 compared to 2020"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent about operating scale, cash flows, financing, spectrum spending, and customer losses, but contains substantial standard legal and definitional boilerplate. Risk is evident from increased postpaid handset losses, aggressive competition, non-pay customers, and significant capital and financing activity, though the tone remains operationally confident."
+}

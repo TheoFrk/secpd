@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "future impacts remain uncertain",
+    "impairment trigger not identified"
+  ],
+  "risk_summary": "The excerpt describes material COVID-19, commodity-price, demand, margin, storage-income, and impairment risks, with several outcomes explicitly characterized as uncertain. Quantified operating data and segment-specific explanations provide useful detail, but extensive boilerplate disclaimers and reliance on management judgments limit transparency regarding downside scenarios."
+}

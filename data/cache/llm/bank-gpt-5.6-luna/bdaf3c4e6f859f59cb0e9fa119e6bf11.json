@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "cannot predict all risk factors",
+    "no obligation to update",
+    "subject to assumptions"
+  ],
+  "risk_summary": "The excerpt combines detailed, quantified operating results with extensive standard safe-h harbor and forward-looking statement disclaimers. Operating performance and market conditions are presented positively, but exposure to currency fluctuations, crude oil prices, project deferrals, legal costs, and valuation uncertainty remains evident."
+}

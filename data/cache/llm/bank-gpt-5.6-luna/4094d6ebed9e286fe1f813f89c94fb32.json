@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "subject to BPU approval",
+    "may experience a significant impact",
+    "probable future obligations",
+    "under appeal"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and some quantitative disclosures, but relies on standard conditional language around recoverability, tax judgments, derivative valuation, and regulatory approvals. Key risks include potential impairment or earnings impacts from changed assumptions, regulatory disallowance, tax assessments, and appeals affecting the Southern Reliability Link."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe",
+    "hypothetical and should be viewed with caution",
+    "high degree of uncertainty",
+    "many other factors",
+    "truncated performance tables"
+  ],
+  "risk_summary": "The excerpt reports substantial net losses and ongoing exposure to credit, valuation, tax, and impairment-estimation risk, although losses and risk metrics reportedly improved year over year. The strategic discussion is optimistic and relies heavily on management beliefs, projections, and subjective model assumptions, while key supporting schedules appear omitted or truncated."
+}

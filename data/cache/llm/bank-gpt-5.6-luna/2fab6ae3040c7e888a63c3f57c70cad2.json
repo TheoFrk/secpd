@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "management believes",
+    "can have a negative effect",
+    "negative macro-economic factors",
+    "expectation that activity would continue",
+    "some relief is expected"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, including credit-loss trends, allowance percentages, competitive pressures, and used-vehicle cost dynamics. Risk tone is moderately negative because credit losses have risen materially, collections are under pressure, competition is increasing, and vehicle supply costs remain elevated. Repeated discussion of similar factors and reliance on management expectations introduce some boilerplate and uncertainty."
+}

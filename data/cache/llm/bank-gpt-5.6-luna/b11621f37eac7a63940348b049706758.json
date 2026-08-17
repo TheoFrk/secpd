@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could have a material adverse impact",
+    "significant costs",
+    "substantial security measures",
+    "other uncertainties and factors"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, with clear explanations of sales, margins, expenses, taxes, and store expansion. Risk disclosures use largely standard conditional language, particularly around cybersecurity and forward-looking statements, but do identify potentially material operational, litigation, liquidity, and reputational impacts."
+}

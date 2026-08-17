@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "items not representative of ongoing operations",
+    "certain retained corporate costs",
+    "expected to be filed during the several years",
+    "macroeconomic issues",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, with clear regional revenue and operating-profit drivers. Risk factors include persistent foreign-exchange and volume pressure, restructuring and impairment charges, substantial asbestos liabilities, and significant adjustments deemed nonrecurring. Overall tone is cautiously positive due to improved operating profit, cash generation, and debt reduction, but underlying earnings quality and litigation exposure warrant attention."
+}

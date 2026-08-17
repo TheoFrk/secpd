@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe-harbor risk-factor boilerplate",
+    "may not be exhaustive",
+    "beyond the Company's ability to control or predict",
+    "expected benefits and synergies",
+    "further adjustment may be necessary"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operational information, including revenue declines, restructuring charges, impairments, and expected savings, but is heavily dominated by generic forward-looking disclaimers and an extensive risk-factor list. Risk tone is moderately negative due to lost contracts, underperforming operations, customer receiverships, impairments, and transaction uncertainty, partially offset by management's stated cost-reduction and portfolio-optimization initiatives. The truncated and structurally incomplete passage limits assessment of the full MD&A narrative."
+}

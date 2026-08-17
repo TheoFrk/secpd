@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "ultimate liability may differ",
+    "cannot predict timing, frequency and extent",
+    "highly cyclical and difficult to predict",
+    "assumptions as to future loss trends",
+    "subject to competitive pressures"
+  ],
+  "risk_summary": "The disclosure is detailed and includes a quantified sensitivity showing that a 1% reserve change would affect pretax results by approximately $2.5 million. However, extensive repetition, technical insurance terminology, and reliance on uncertain assumptions obscure the potential magnitude and timing of adverse reserve development. Management expresses measured confidence in its strategy while acknowledging economic, market, weather, pricing, and claims-reserve risks."
+}

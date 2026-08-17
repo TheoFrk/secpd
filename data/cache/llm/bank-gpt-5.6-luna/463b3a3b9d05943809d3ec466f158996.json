@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "actively seeking higher value markets",
+    "we believe these strategies will allow growth",
+    "inherently uncertain estimates",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial quantification, including production volumes, costs, cash flows, and financing sources. Risk tone is generally neutral to mildly negative because performance depends on volatile commodity prices, market demand, regulatory changes, biological processes, and uncertain technology deployment. Forward-looking claims and reliance on management estimates introduce moderate uncertainty, while the excerpt’s truncation limits assessment of the complete disclosure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and associated risks",
+    "risks, uncertainties, and other factors",
+    "actual results may differ materially",
+    "subject to adjustment",
+    "qualitative factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding earnings, acquisitions, deposits, loans, and transaction consideration. Risk disclosure is partly boilerplate and duplicated, while critical accounting estimates rely on management judgment and qualitative factors. Overall tone is positive, supported by earnings growth and expansion, but includes standard uncertainty and execution risks related to acquisitions and loan-loss provisioning."
+}

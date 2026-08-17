@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "considerable amount of subjective judgments",
+    "number of factors including",
+    "may not close at all",
+    "not likely that the Company can meet",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but relies substantially on management estimates for fair values, useful lives, impairment, lease assumptions, and held-for-sale classifications. It identifies meaningful uncertainty around property sales, tenant financial strength, market conditions, and operating costs, while maintaining a mildly confident operational tone. The excerpt is highly technical and appears truncated, limiting assessment of the full risk discussion."
+}

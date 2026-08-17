@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP ongoing results",
+    "excluding these contributions",
+    "forward-looking statements",
+    "partially offset by",
+    "if commodity prices remain low"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides useful segment, acquisition, operating, tax, and borrowing details, but it relies substantially on adjusted ongoing results that exclude recurring or material items. The tone is cautiously positive, supported by growth in government businesses, while acknowledging construction losses, commodity exposure, higher borrowings, and downside sensitivity to low prices."
+}

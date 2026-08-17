@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may operate at negative or minimally positive operating margins",
+    "unable to predict future income or loss",
+    "at this time we do not know total cost or feasibility",
+    "no assurances of successful investment opportunities",
+    "assumptions, judgments and estimates could be materially different"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, but highlights substantial exposure to volatile commodity prices, policy uncertainty, derivative and margin risk, and potential production shutdowns. Several strategic projects remain exploratory with unknown costs or feasibility, while forward contracts provide only limited visibility into future profitability."
+}

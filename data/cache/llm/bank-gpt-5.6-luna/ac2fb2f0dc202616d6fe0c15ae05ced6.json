@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "customary closing conditions",
+    "anticipate approximately",
+    "assumes interest rate",
+    "unconsolidated joint ventures"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial detail on property operations, transactions, debt, liquidity, and anticipated cash flows. Risks include pandemic uncertainty, floating-rate and assumed mortgage debt, joint-venture exposure, transaction closing conditions, and reliance on estimates for future gains and property performance."
+}

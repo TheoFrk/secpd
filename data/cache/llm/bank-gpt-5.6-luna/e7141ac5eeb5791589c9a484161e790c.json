@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "does not currently believe",
+    "uncertainty remains",
+    "unless conditions worsen",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The excerpt presents strong operating growth and a confident strategic narrative, supported by some quantified sales data. Risk disclosure relies substantially on standard forward-looking disclaimers, broad contingencies, and references to incorporated risk factors, while supply-chain exposure to Japan and Thailand introduces potentially material uncertainty."
+}

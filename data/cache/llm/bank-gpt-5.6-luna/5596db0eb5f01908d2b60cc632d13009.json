@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance of anticipated orders",
+    "expects delays to be resolved",
+    "subject to customer allocations",
+    "significant customer concentration",
+    "foreseeable future funding assertion"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but relies on optimistic expectations regarding backlog conversion, delivery recovery, and future funding. Key risks include COVID-related workforce and supply disruptions, customer concentration, declining sales and margins, engineering delays, and dependence on defense spending and customer approvals."
+}

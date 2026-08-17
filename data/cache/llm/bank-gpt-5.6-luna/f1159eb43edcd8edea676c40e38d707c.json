@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgments, estimates and assumptions",
+    "inherently subjective",
+    "susceptible to significant change",
+    "commonly used industry assumptions",
+    "not all companies use the same calculation methods"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes quantified balances, methodologies, and sensitivity drivers, but relies substantially on subjective assumptions for loan losses, servicing rights, impairment, derivatives, and stock compensation. Risk tone is mildly negative due to economic and real-estate pressures and the potential for material changes in estimates, although management presents controls and monitoring as established."
+}

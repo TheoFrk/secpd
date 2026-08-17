@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management estimates and judgments",
+    "probable that a significant reversal will not occur",
+    "qualitative approach",
+    "other-than-temporary impairment",
+    "depending on the contract"
+  ],
+  "risk_summary": "The disclosure is detailed and substantially quantified, but relies on management judgment for contract estimates, variable consideration, principal-versus-agent determinations, VIE consolidation, and impairment assessments. The tone is largely neutral and technical, with identifiable exposure to project cost overruns, revenue reversals, joint-venture valuation risk, and significant tax-related charges."
+}

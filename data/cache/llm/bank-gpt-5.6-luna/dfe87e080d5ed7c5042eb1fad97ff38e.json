@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "material effect",
+    "alternative assumptions",
+    "estimated amounts",
+    "targets become probable",
+    "historical trends are not indicative"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides clear year-over-year explanations for revenue, margin, expenses, pension costs, and operating earnings. Risk is moderate but controlled, with key uncertainties concentrated in impairment judgments, self-insurance estimates, and supplier incentive realization. Overall performance was stable, although 2010 operating earnings and income declined modestly."
+}

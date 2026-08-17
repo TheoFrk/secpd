@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "significant judgment and estimates",
+    "unobservable Level 3 inputs",
+    "many factors outside our control",
+    "work before formal contract documents"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantitatively specific, but relies substantially on management estimates, Level 3 valuation inputs, and variable consideration judgments. Revenue concentration in U.S. government and DoD contracts, customer termination rights, contract funding uncertainty, and future debt capacity create meaningful risk exposures. Liquidity is presented confidently for the next twelve months, while longer-term cash generation is expressly dependent on external economic and market conditions."
+}

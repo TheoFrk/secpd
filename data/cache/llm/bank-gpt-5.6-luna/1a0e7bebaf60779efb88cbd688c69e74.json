@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "assuming trend yields",
+    "potentially improve margins",
+    "unconsolidated LLC volumes excluded"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but includes standard forward-looking disclaimers and some conditional projections. Key risks include commodity-price volatility, weather-related volume declines, seasonal borrowing needs, variable interest rates, margin-call exposure, and reliance on unconsolidated entities. Management maintains a cautiously positive tone, citing adequate liquidity and covenant compliance despite weaker results in several segments."
+}

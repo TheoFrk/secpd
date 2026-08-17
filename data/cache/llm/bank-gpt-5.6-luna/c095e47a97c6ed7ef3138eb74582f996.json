@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking information that involves risks and uncertainties",
+    "not presently aware of, or currently consider immaterial",
+    "primarily due to",
+    "subject to refund",
+    "various durations"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but includes standard forward-looking disclaimers and some causal language that limits precision. Risk tone is mildly negative due to declining consolidated and clean-energy earnings, forced outages, customer exposure, regulatory uncertainty, and merger-related expenses, though regulated operations improved."
+}

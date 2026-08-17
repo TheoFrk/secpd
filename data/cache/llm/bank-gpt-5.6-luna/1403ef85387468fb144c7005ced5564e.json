@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we expect will continue",
+    "adversely impacted",
+    "potential recoveries",
+    "certain ancillary systems",
+    "over time"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, including revenue and gross-profit mix, earnings declines, inventory levels, and an estimated $1.75 per-share impact from the CDK cyber incident. Risk tone is mildly negative due to falling profitability, margin pressure from rising vehicle supply, higher floorplan interest, and operational disruption, although the company presents detailed mitigation and recovery information."
+}

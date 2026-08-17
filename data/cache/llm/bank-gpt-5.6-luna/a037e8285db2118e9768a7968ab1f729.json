@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "actual results may differ materially",
+    "primarily related to",
+    "best estimate of selling price",
+    "various other factors believed reasonable"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful revenue mix, tax, and accounting-policy quantification, but contains standard forward-looking disclaimers and substantial management-estimate discretion. Key risks include semiconductor industry cyclicality, customer acceptance criteria, warranty obligations, deferred tax asset valuation, and proprietary pricing estimates."
+}

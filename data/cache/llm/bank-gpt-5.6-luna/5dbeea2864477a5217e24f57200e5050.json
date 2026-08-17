@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "potential equity and debt offerings",
+    "expected to generate positive cash flows",
+    "cannot predict, with certainty",
+    "could negatively impact future operations",
+    "repeated CARES Employee Retention Credit disclosure"
+  ],
+  "risk_summary": "The disclosure is numerically detailed but indicates tight liquidity, reliance on future financing and operating cash flows, declining healthcare revenue, and increased bad-debt provisions. Management expresses confidence in continued operations while acknowledging that failure to generate liquidity could negatively affect operations and that a substantial portion of CARES credit receivables required reservation."
+}

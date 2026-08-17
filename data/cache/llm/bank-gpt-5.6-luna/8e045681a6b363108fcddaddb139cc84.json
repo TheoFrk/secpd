@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "attributable to:",
+    "de minimis",
+    "expected total cost",
+    "approximate a reasonable level",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, but it documents substantial deterioration in demand, orders, backlog, sales, margins, and net income. A product recall and unfavorable fixed-cost deleveraging add operational and liability risks. The disclosure is relatively transparent, although some referenced tables and causal explanations are incomplete in the excerpt."
+}

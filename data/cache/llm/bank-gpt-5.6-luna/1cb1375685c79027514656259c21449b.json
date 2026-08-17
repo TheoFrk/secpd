@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "repeated section title",
+    "no substantive discussion",
+    "external exhibit reliance"
+  ],
+  "risk_summary": "This excerpt provides no substantive financial or risk analysis and directs the reader to another document. Reliance on incorporation by reference limits transparency within the presented text, while the repeated heading is largely boilerplate."
+}

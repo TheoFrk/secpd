@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "various factors",
+    "management estimates and judgments",
+    "no assurance of comparability",
+    "material adverse impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on properties, leasing, financing, transactions, and related-party balances, but also relies on standard forward-looking disclaimers and broad assumptions. Key risks include tenant payment capacity, interest-rate and inflation exposure, valuation and impairment estimates, and significant related-party amounts due to WHLR. Overall tone is balanced and moderately cautious rather than crisis-like."
+}

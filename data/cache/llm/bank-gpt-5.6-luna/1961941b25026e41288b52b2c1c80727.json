@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.52,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "could differ significantly",
+    "beyond the Company’s control",
+    "management believes",
+    "well-positioned in attractive markets",
+    "non-GAAP cautionary framing"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and transparent, reporting earnings, margins, asset balances, expense changes, and loan-loss provisions with year-over-year comparisons. The tone is generally positive, though it acknowledges sensitivity to economic conditions, potential divergence of actual losses from historical assumptions, and reliance on non-GAAP measures. Dense presentation, boilerplate language, and malformed table text modestly reduce clarity."
+}

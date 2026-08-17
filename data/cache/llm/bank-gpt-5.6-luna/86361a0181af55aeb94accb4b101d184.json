@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.63,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "omitted earnings drivers",
+    "generic growth strategies",
+    "broad challenge lists",
+    "forward-looking disclaimer",
+    "cross-referenced risk factors"
+  ],
+  "risk_summary": "The excerpt provides some quantified earnings changes but omits substantial explanatory detail following repeated “due to” and offsetting headings, limiting assessment of underlying performance drivers. It relies heavily on broad strategic language, extensive risk lists, and cross-references, while highlighting material exposure to regulation, commodity volatility, permitting, competition, costs, and execution risk."
+}

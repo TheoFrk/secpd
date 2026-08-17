@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "subject to change",
+    "beyond the Company’s control",
+    "no obligation to update",
+    "significant judgment and assumptions"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking and accounting-estimate disclaimers, with limited sensitivity quantification despite identifying several material judgment areas. Liquidity and covenant commentary is cautiously positive, citing compliance and expected funding sufficiency, but risks remain around rebates, inventory valuation, receivables, pensions, acquisitions, and economic conditions."
+}

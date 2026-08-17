@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "value-creating projects",
+    "likely require three or more years",
+    "sufficient liquidity for the next 12 months",
+    "table and disclosure truncation"
+  ],
+  "risk_summary": "The disclosure is generally informative and includes meaningful quantitative details on acreage, occupancy, revenue, project funding, and liquidity. However, it relies heavily on optimistic strategic language and forward-looking assumptions, while key timing, profitability, financing dependence, and project-cost details remain uncertain or incomplete. Liquidity and execution risks are material because debt service and development spending may depend on asset sales, credit availability, presale deposits, and construction financing."
+}

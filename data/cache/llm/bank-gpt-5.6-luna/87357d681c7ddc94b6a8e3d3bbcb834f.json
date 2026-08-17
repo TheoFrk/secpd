@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurances can be given",
+    "may differ materially",
+    "believed to be reasonable",
+    "projected cash flow from operations"
+  ],
+  "risk_summary": "The disclosure uses extensive standard forward-looking and accounting-policy boilerplate, with meaningful hedging around future cash flow, debt repayment, impairment, and tax realizability. It provides some concrete liquidity and liability figures and expresses confidence in funding operations for the next 12 months, but the excerpt does not quantify projected cash flows or debt-service capacity in detail."
+}

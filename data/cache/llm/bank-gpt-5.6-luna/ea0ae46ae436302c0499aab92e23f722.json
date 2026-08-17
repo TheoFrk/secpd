@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "\"unused line\" repeated twice",
+    "\"we believe\" banks will provide capital",
+    "\"actual results could differ\" materially",
+    "anticipates higher labor, fuel, and interest costs",
+    "truncated cash-flow disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent on operating results, debt balances, collateral, maturities, and cash flows. Key risks include demand-on-demand secured credit, upcoming debt maturities, inflationary cost pressure, potentially non-transferable costs, and reliance on estimates. Disclosure quality is weakened by duplicated language, an apparent truncation, and some internal inconsistencies in reported net income and cash-flow figures."
+}

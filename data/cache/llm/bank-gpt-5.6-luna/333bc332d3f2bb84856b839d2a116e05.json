@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "no obligation to update",
+    "relatively flat to slightly positive",
+    "adverse economic conditions"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively grounded, but includes extensive boilerplate forward-looking disclaimers and repeated contract-rate discussion. Risk is mixed: revenue and utilization improved, while operating margin, contract pricing, demand conditions, and costs deteriorated."
+}

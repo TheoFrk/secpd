@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance of FDA approval",
+    "positive topline results",
+    "prioritized leading drug candidates",
+    "continued operating losses"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative clinical and financial detail, but relies on forward-looking plans and standard disclaimers regarding regulatory approval and commercialization. Risk is elevated due to continued large operating losses, suspended or inactive programs, incomplete efficacy across some doses, and dependence on FDA approval and successful market launch."
+}

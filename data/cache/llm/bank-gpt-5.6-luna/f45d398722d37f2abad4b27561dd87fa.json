@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"discussed below\" repeated cross-references",
+    "\"not meaningfully impacted\"",
+    "\"slight\" price changes",
+    "forward-looking \"potential to be transformative\"",
+    "omitted tables and metrics"
+  ],
+  "risk_summary": "The excerpt is generally transparent and operationally detailed, with quantified sales effects, store counts, currency impacts, and vending targets. Risk disclosure is moderated by references to cyclical industrial and construction markets, currency exposure, and execution dependence, while some claims rely on qualitative language and omitted tables. Overall tone is confident and growth-oriented rather than crisis-like."
+}

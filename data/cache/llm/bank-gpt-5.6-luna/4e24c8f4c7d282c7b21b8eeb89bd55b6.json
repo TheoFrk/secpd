@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "variety of factors",
+    "materially different",
+    "without limitation"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-statement disclaimers and a broad, largely non-quantified list of potential risks. Operating results are presented with substantial quantitative detail and a generally positive performance tone, though deposit contraction, acquisition integration, interest-rate sensitivity, and commercial real estate concentration warrant attention."
+}

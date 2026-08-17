@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-single-digit percentage range",
+    "expected to be modest",
+    "favorable outlook",
+    "maximize shareholder value",
+    "not core to our strategy"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear segment, sales, EBIT, liquidity, and acquisition information. Risk is concentrated in the 22% Brake & Friction sales decline, weaker organic sales, raw-material cost pressure, and reliance on expected market recovery and growth initiatives. The overall tone remains moderately confident, supported by liquidity and operating improvement plans, but includes forward-looking assumptions."
+}

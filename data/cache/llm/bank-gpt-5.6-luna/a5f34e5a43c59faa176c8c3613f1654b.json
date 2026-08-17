@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve significant risks and uncertainties",
+    "actual results may differ materially",
+    "various other assumptions believed to be accurate and reasonable",
+    "expect distribution costs to be back to more typical levels",
+    "estimates and judgments"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides useful operational detail, including a 37% decline in net income and $25.9 million of consolidation-related costs. Risk is elevated by facility-transition inefficiencies, earnings pressure, customer-order volatility, and reliance on estimates, although management presents a generally constructive outlook for vehicle parc trends and future growth."
+}

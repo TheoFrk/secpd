@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to result",
+    "expected to be resolved",
+    "held in abeyance",
+    "guidance uncertainty",
+    "intent of beginning"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, including capital plans, rate-base growth, hedging levels, program costs, and operating performance. Risk is moderated by substantial regulatory dependence, pending approvals, program deferrals, and uncertainty regarding final PTC guidance. Overall tone is confident and investment-oriented rather than crisis-like."
+}

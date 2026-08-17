@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to risks and uncertainties",
+    "cannot assure you",
+    "may not be sufficient",
+    "substantial doubt about going concern"
+  ],
+  "risk_summary": "The company has no operating revenues, minimal cash, a working capital deficiency, recurring losses, and substantial doubt about its ability to continue as a going concern. Although the disclosure quantifies key balances and expenses, it relies on uncertain plans to raise capital and complete a business combination without assurance of success."
+}

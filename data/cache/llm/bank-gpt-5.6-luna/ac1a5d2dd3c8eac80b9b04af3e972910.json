@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.46,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "suitable acquisition/merger candidate",
+    "no assurance",
+    "no revenues from operations",
+    "maintaining public status",
+    "COVID-19 pandemic explanation"
+  ],
+  "risk_summary": "The company has no operating revenue, limited cash, ongoing losses, and depends on completing an acquisition or merger to generate revenue. Quantitative liquidity and loss figures are clearly disclosed, but the acquisition strategy is uncertain and provides no assured path to operations or cash generation."
+}

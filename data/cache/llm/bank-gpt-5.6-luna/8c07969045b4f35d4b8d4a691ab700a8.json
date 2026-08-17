@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP performance measures",
+    "not comparable to other companies",
+    "items excluded from reported metrics",
+    "integrated and interdependent segments"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment definitions, revenue mix data, seasonality, and operating drivers. Risk disclosures are largely standardized, while extensive emphasis on non-GAAP metrics and reconciliation caveats may complicate comparability. Overall tone is moderately positive, though weather sensitivity, economic conditions, fixed costs, and seasonal volatility are acknowledged."
+}

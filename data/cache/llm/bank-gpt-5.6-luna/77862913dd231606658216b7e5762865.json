@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results could differ materially",
+    "highly uncertain and cannot be predicted",
+    "expects to continue incurring losses",
+    "may need to raise additional capital"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on historical results but contains substantial boilerplate forward-looking language and broad uncertainty disclaimers. Key risks include declining sales, regulatory and competitive pressures, recurring losses, negative operating cash flow, potential additional capital needs, and cash concentrations above FDIC insurance limits."
+}

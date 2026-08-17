@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "reasonable likelihood of materially different results",
+    "management deems adequate",
+    "other adjustments may be made",
+    "among other things",
+    "expected to provide attractive growth opportunities"
+  ],
+  "risk_summary": "The excerpt reports strong earnings growth and acquisition-driven expansion, creating a generally positive tone. However, extensive reliance on management estimates, fair-value assumptions, qualitative loan-loss adjustments, and collateral valuations indicates meaningful credit and valuation uncertainty. Disclosure is technically detailed but contains standard caveats and limited quantification of potential downside from adverse assumptions."
+}

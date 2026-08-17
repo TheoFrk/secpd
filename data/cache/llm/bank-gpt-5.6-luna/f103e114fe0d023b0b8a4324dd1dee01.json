@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.59,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "current plans and assumptions",
+    "subject to customary adjustments",
+    "believed to be reasonable",
+    "foreseeable cash requirements"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, particularly regarding the ShareFile acquisition, debt financing, acquisition-related expenses, and cybersecurity costs. Risk tone is cautiously positive, but reliance on acquisitions, additional debt capacity, foreign exchange, insurance recoveries, and management estimates creates meaningful execution and valuation risk."
+}

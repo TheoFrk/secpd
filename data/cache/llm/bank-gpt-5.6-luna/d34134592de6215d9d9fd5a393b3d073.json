@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "assumes no obligation to update",
+    "stable demand",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with fleet, utilization, revenue, margin, and contract data. It reflects moderate operating pressure from lower pricing, fuel-related pass-through effects, higher labor and maintenance costs, vessel downtime, and challenging weather and navigation conditions, although demand and contract coverage are characterized as relatively stable. The extensive forward-looking disclaimer is largely standard boilerplate rather than evidence of acute undisclosed distress."
+}

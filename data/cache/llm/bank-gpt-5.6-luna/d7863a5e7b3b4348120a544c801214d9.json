@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"leading company\" and \"first-in-class\" claims",
+    "\"significant commercial potential\"",
+    "\"substantial patent estate\"",
+    "\"potential to earn\" future milestones",
+    "\"optimal time to maximize\" value"
+  ],
+  "risk_summary": "The excerpt uses a strongly promotional tone and emphasizes platform breadth, partnerships, and large potential milestone payments, while providing limited probability-weighted or timing-adjusted analysis of those benefits. It acknowledges regulatory, clinical, investment-valuation, and accounting-estimation risks, but the discussion is partly offset by optimistic and non-quantified claims."
+}

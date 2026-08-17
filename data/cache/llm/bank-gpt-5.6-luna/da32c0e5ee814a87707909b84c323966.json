@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not representative of ongoing operations",
+    "without limitation",
+    "may likely continue to have",
+    "non-GAAP measures",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear reconciliations of sales, earnings, pricing, volume, foreign exchange, divestitures, restructuring, and litigation-related items. Risk factors include COVID-19 effects, supply-chain disruption, input-cost volatility, production downtime, elevated interest expense, and the $610 million Paddock Trust funding, but the overall operating performance narrative is moderately positive."
+}

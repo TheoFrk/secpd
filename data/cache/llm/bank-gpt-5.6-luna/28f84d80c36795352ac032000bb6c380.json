@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "plan to continue",
+    "subject to change",
+    "future growth opportunities",
+    "continued integration"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, including acquisition funding, debt payments, restructuring charges, and expected additional costs. The overall tone is confident and growth-oriented, but leverage, integration expenses, international execution, licensing reacquisitions, and ongoing business exits represent meaningful risks."
+}

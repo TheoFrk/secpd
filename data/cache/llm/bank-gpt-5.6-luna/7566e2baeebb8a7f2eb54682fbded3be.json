@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "among other things",
+    "reasonable and supportable forecasts",
+    "does not undertake any obligation"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking disclaimers and an extensive list of macroeconomic, credit, liquidity, regulatory, cyber, and operational risks. It provides useful quantitative economic data and some methodological detail on credit-loss estimation, but limited company-specific outcomes or quantified sensitivities are presented in the supplied section. Overall tone is cautious and risk-aware rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no obligation to update",
+    "risks and uncertainties",
+    "subject to change at any time",
+    "including without limitation",
+    "other risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, cash flow, capital spending, tax, and debt information, supporting relatively transparent performance disclosure. However, the extensive standardized forward-looking disclaimer and broad, non-quantified risk catalog materially increase boilerplate and hedging. The operating tone is generally positive, with revenue, net income, cash, and gross profit increases and no debt outstanding, but exposure remains to commodity costs, demand cyclicality, project overruns, liquidity needs, operational disruptions, and regulatory risks."
+}

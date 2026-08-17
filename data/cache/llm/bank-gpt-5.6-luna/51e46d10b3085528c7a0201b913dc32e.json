@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "including but not limited to",
+    "no obligation to update",
+    "non-GAAP measures and limitations"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking and liability-limiting boilerplate, with a broad, non-prioritized catalog of potential risks. Reported performance and acquisitions appear positive, but reliance on adjusted EBITDA, impairment assumptions, and uncertain future conditions create meaningful interpretive and credit-risk considerations."
+}

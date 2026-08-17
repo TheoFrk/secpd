@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimates of future claim payments",
+    "subject to change",
+    "primarily attributable",
+    "significant period of time",
+    "may also generate"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with clear descriptions of revenue, expenses, reinsurance, investments, and reserve estimation. Key risks include geographic concentration in New York, reliance on actuarial loss estimates, claims development uncertainty, and declining investment income and gains, although loss and LAE improved materially year over year."
+}

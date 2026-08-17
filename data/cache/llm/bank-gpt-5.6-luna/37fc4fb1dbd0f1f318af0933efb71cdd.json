@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "many factors beyond our control",
+    "sufficient to fund ... next twelve months",
+    "PIK dividends and preferred restructuring",
+    "truncated and malformed disclosure"
+  ],
+  "risk_summary": "The excerpt presents strong subscription-revenue growth and substantially improved cash balances, but liquidity improvement depends materially on equity financing and the company has used cash in operations. Preferred-stock restructurings, PIK dividends, impairment charges, and reliance on future revenue growth indicate meaningful funding and execution risks. Disclosure is highly detailed but includes standard forward-looking disclaimers and is incomplete in the supplied excerpt."
+}

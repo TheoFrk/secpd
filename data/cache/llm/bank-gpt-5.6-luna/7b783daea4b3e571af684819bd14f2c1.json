@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties beyond our control",
+    "no obligation to update or revise",
+    "expected to be sufficient",
+    "non-GAAP measures emphasized"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook supported by quantified earnings, liquidity facilities, capital plans, and regulatory cost-recovery mechanisms. However, extensive safe-harbor language, broad risk lists, and reliance on non-GAAP contribution margin and adjusted earnings reduce transparency regarding downside scenarios. Key exposures include regulation, capital-market access, commodity and interest-rate volatility, infrastructure costs, cyber risk, climate regulation, and adverse weather."
+}

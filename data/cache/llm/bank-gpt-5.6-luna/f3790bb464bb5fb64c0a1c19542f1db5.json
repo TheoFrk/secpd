@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP reconciliation unavailable",
+    "cannot be predicted",
+    "not necessarily indicative of future results",
+    "special items",
+    "not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, identifying acquisition effects, political advertising cyclicality, retransmission exposure, and cost changes. Risk tone is mildly confident but acknowledges substantial period-to-period volatility and reliance on non-GAAP measures. Boilerplate limitations around unavailable reconciliations and unpredictable items modestly reduce transparency."
+}

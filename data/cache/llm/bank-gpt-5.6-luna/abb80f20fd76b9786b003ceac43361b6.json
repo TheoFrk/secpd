@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "historical experience and reasonable assumptions",
+    "actual results may differ",
+    "outside our control",
+    "if events or conditions were to indicate",
+    "extensive and diversified portfolio"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and several quantified metrics, but relies on standard forward-looking qualifiers around returns, bad debt, inventory valuation, impairment, and supply disruption. Risk tone is broadly neutral with some confidence, tempered by acknowledged exposure to supplier concentration, customer bankruptcies, demand weakness, and estimation uncertainty."
+}

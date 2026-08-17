@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "could be affected in the future",
+    "believed to be reasonable",
+    "not necessarily indicative",
+    "estimated tax benefit"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, reporting sales, margin movements, debt, maturities, and one-time items. Risk is moderate: gross margins declined, markdown activity increased, the company carries substantial debt with significant near-term maturities, and performance is seasonally concentrated. The positive earnings trend is materially supported by a large estimated tax benefit and should be interpreted cautiously."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "subjective critical estimate",
+    "forward-looking statements",
+    "risks and uncertainties",
+    "including but not limited to"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including customer concentration, reserves, tax amounts, seasonality, and R&D spending. Key risks include fixed-cost operating leverage, economic sensitivity, customer credit exposure, inventory obsolescence, executive dependence, financing needs, and foreign-exchange volatility. The tone is balanced but moderately cautious, with substantial standard forward-looking and safe-harbor language."
+}

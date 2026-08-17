@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not expected to have a material impact",
+    "we believe",
+    "appropriate level",
+    "anticipated improvements",
+    "may be impacted by changes"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent on earnings, asset growth, loan growth, taxes, and nonperforming loans, but relies on forecasts and management judgments regarding interest-rate repricing, allowance adequacy, valuations, and regulatory effects. Credit risk appears contained but warrants monitoring because nonperforming loans have increased, loan growth is significant, net yields remain low, and the ALLL is highly sensitive to economic conditions."
+}

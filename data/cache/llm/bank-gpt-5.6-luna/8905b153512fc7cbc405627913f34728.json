@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "unobservable inputs (Level 3)",
+    "none of which we control",
+    "we believe we will continue",
+    "contingent commissions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, documenting strong long-term growth, revenue composition, segment performance, and earn-out liabilities. Key risks include dependence on premium rates, exposure units, economic conditions, insurer loss ratios, acquisitions, and uncertain contingent commissions, with some reliance on non-GAAP metrics and conditional outlook language."
+}

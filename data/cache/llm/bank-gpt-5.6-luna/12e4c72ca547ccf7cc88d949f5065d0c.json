@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "management estimates and assumptions",
+    "estimated useful life of assets",
+    "historical trends may not be indicative"
+  ],
+  "risk_summary": "The excerpt is detailed on business structure, customer concentration, operating metrics, and revenue recognition, but includes substantial standard safe-h harbor language and reliance on management estimates. Key risks include customer concentration, development-dependent growth assumptions, long-term revenue recognition estimates, asset impairment judgments, and volatility in oil-and-gas-related water demand."
+}

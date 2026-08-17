@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "strategic shift with major impact",
+    "preliminary pre-tax gain",
+    "not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear revenue, margin, booking, acquisition, disposition, and restructuring metrics. Risk is mixed: organic revenue was flat, several regions and one segment declined, and results benefited materially from acquisitions, pricing, restructuring, and large disposition gains. Boilerplate forward-looking and non-GAAP language introduces limited interpretive ambiguity but does not appear strongly evasive."
+}

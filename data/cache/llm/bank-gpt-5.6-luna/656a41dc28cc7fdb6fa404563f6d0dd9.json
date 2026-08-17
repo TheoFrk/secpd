@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "various factors including, but not limited to",
+    "in the process of evaluating the impact",
+    "actual results could differ from those estimates",
+    "normal operations",
+    "working capital deficit"
+  ],
+  "risk_summary": "The disclosure is highly boilerplate and contains technical accounting descriptions with limited company-specific analysis. Financial risk is indicated by a substantial working capital deficit, reliance on a concentrated revenue source, doubtful utilization of net operating losses, and debt-related financing activity. Reported liquidity is modest relative to the deficit, although operating cash flow was positive."
+}

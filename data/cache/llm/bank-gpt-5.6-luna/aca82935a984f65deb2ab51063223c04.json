@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "no obligation to update",
+    "outcomes are uncertain",
+    "may differ positively or negatively"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance with detailed quantified metrics, supporting a generally confident risk tone. However, extensive standard disclaimers and unresolved tax-contingency language introduce uncertainty, while the apparent fiscal-year dating inconsistency reduces disclosure clarity."
+}

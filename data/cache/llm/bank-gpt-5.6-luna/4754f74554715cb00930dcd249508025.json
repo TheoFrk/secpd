@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potentially mitigate unfavorable impacts",
+    "cannot predict the impact",
+    "continue to monitor",
+    "broad and complex",
+    "provisional net tax expense"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic narrative but identifies broad macroeconomic, regulatory, operational, market, and tax risks. Risk quantification is limited except for the disclosed $2.5 billion provisional TCJ Act tax expense, whose final amount may differ materially. Extensive cross-references, boilerplate risk framing, and repeated mitigation language reduce specificity."
+}

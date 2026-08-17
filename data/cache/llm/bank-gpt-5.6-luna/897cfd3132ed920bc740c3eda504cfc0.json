@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "without limitation",
+    "no assurance",
+    "not undertake obligation to update",
+    "expected to be accretive"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and credit metrics, including net income, margins, loan growth, allowance coverage, charge-offs, and nonaccrual interest. Risk disclosure is heavily standardized and repetitive, while acquisition benefits are presented optimistically and remain subject to approvals and execution. Credit risk is present through lower allowance coverage, increased charge-offs, impaired loans, and reliance on interim collateral valuations."
+}

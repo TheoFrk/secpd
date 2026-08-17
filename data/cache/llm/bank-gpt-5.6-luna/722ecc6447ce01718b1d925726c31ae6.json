@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "continuing risks and uncertainties",
+    "ultimate impact remains highly uncertain",
+    "outside of our control",
+    "subject to various risks and assumptions",
+    "unable to estimate with certainty"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate risk language and repeatedly defers to the Risk Factors section, limiting decision-useful detail on macroeconomic and operating exposures. It does provide quantified obligations, including $49.2 million in purchase commitments and $3.0 million in lease obligations, but acknowledges uncertainty around future contractual and clinical costs and reliance on current resources for funding."
+}

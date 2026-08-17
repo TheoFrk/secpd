@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.63,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "substantial doubt about going concern",
+    "we believe / we expect",
+    "numerous target markets without quantified outlook"
+  ],
+  "risk_summary": "The disclosure explicitly signals severe liquidity and going-concern risk, including auditors’ substantial doubt and dependence on uncertain debt or equity financing. It provides extensive product and market descriptions but limited quantified operating, revenue, cash-burn, or financing detail, reducing transparency around execution and funding needs."
+}

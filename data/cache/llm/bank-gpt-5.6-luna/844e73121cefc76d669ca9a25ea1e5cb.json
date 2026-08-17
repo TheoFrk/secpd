@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "largely unknown and cannot be reasonably estimated",
+    "high customer concentration and variable orders",
+    "estimates believed reasonable"
+  ],
+  "risk_summary": "The disclosure combines quantified cash-flow, contract, and accounting information with extensive boilerplate cautionary language and significant uncertainty regarding COVID-19 impacts. Key credit risks include customer concentration, volatile revenues, operating losses, reliance on borrowing and PPP proceeds, and potentially material estimation differences."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "subject to revision",
+    "significant assumptions and estimates",
+    "future impairment risk",
+    "judgment is sometimes required"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well-quantified, with clear operating, liquidity, debt, cash flow, and accounting estimate disclosures. Risk is primarily concentrated in estimation uncertainty, inventory demand, contract cost forecasting, acquisition valuation, impairment, and postretirement obligations. The overall tone is cautiously positive, supported by earnings growth and available liquidity, despite weaker operating cash flow and free cash flow."
+}

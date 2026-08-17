@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "sufficient liquidity for at least 12 months",
+    "expected selling expenditures",
+    "growing consensus among users",
+    "regulatory documentation placed in suspense"
+  ],
+  "risk_summary": "The company reports recurring operating losses and negative operating cash flows, with material reliance on recent equity offerings to fund operations and commercialization. Liquidity is presented as sufficient for at least 12 months, but this is contingent on expected cash needs, dental-business support, and execution of medical-device sales initiatives. COVID-19 disruption, delayed China regulatory filings, limited medical-device sales, and dependence on distributors remain notable risks."
+}

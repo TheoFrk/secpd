@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unapproved change orders and claims",
+    "realization is probable",
+    "highly detailed bottom-up approach",
+    "actual amounts could differ",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and accounting-policy detail, but revenue and profit recognition depend heavily on estimates for contract costs, claims, change orders, and project profitability. Ongoing negotiations and potential legal action over recoveries, combined with historical operating and net losses, indicate meaningful execution and credit risks. The truncated text limits assessment of the complete risk disclosure."
+}

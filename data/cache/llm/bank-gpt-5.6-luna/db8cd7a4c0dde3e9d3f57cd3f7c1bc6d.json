@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "materially differ",
+    "beyond our ability to control or predict",
+    "substantial customer concentration",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, including sales, restructuring charges, customer concentration, cash balances, and working-capital movements. Risk exposure is evident from dependence on major customers, demand volatility, inventory and component commitments, restructuring activity, and weak operating cash generation relative to reported income. The extensive forward-looking disclaimer language is largely standard boilerplate rather than evidence of acute distress."
+}

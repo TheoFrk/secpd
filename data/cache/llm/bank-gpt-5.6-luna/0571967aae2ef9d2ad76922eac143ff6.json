@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "constant currency non-GAAP disclosures",
+    "timing of customer orders",
+    "successful promotional programs",
+    "positive cash flows",
+    "strategic initiative boilerplate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified segment and product-line information, but emphasizes adjusted constant-currency measures and uses recurring explanations such as promotions, distribution, and order timing. Risk is moderate, with declining Americas and homecare sales offset by growth in selected products and regions; the tone remains generally controlled and confident."
+}

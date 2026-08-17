@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "actual results may differ materially",
+    "subject to sufficient financial resources",
+    "uncertain future benefits",
+    "revenue not yet generated"
+  ],
+  "risk_summary": "The company has no recurring revenue, significant accumulated losses, and expects substantially higher research and development spending while advancing a costly Phase 3 trial. Liquidity depends on external financing and CIRM support, with additional uncertainty from clinical development, partnering, accounting estimates, and potential repayment obligations."
+}

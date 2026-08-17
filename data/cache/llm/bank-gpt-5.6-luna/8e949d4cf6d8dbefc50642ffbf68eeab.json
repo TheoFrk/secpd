@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "subject to factors and uncertainties",
+    "expect sufficient cash",
+    "may need additional capital"
+  ],
+  "risk_summary": "The filing provides substantial quantified detail, but liquidity adequacy depends on projected profitable revenue growth and future operating cash generation. Persistent operating losses, reduced cash, substantial bad-debt expense, and potential additional capital needs indicate elevated financial risk despite management's 12-month liquidity assertion."
+}

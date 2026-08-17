@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "cannot be reliably estimated",
+    "uncertain and unpredictable developments",
+    "broad non-exhaustive risk list"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standardized forward-looking disclaimers and an extensive, non-quantified list of potential risks. COVID-19 is described as materially adverse, ongoing, and difficult to estimate, with significant uncertainty around duration, variants, economic recovery, operations, and regulatory responses. The later net interest income discussion becomes more precise, but the provided text is truncated before broader financial implications can be assessed."
+}

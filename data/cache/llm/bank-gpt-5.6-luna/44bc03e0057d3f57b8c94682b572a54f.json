@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "well positioned",
+    "as opportunities occur",
+    "expected to increase",
+    "there is some risk"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but it uses promotional language and forward-looking expectations that are not fully supported by quantified assumptions. Key risks include net losses, declining gross margin, restructuring costs, defense-market weakness, municipal budget pressure, and execution risk from facility and ERP-system transitions."
+}

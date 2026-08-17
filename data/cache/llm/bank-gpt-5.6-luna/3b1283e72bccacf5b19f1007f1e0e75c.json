@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "difficult to predict",
+    "do not undertake any obligation to update",
+    "not exclusive risk factors"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate limiting reliance on forward-looking statements and broadly defers material risks to other filings and risk-factor sections. It also provides meaningful quantitative operating and asset-quality data, including net income, assets, EPS, and net charge-offs, with an overall positive performance tone. The excerpt is truncated, limiting assessment of detailed credit, liquidity, merger, and balance-sheet risks."
+}

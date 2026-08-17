@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "fully exposed to fluctuations",
+    "higher debt level",
+    "fewer unencumbered assets",
+    "adverse economic shock",
+    "excluding special items"
+  ],
+  "risk_summary": "The excerpt is generally specific and highly quantified, with limited vagueness, though it repeatedly emphasizes non-GAAP measures and special-item adjustments. Key risks include declining revenues and yields, fuel-price exposure without hedging, elevated leverage, fewer unencumbered assets, and sensitivity to economic conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.23,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to significant changes in value",
+    "unable to predict",
+    "reasonably possible estimates may change",
+    "primarily due to increased sales"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and explains year-over-year changes clearly, with a modestly positive operating performance and sharply higher net income. Key risks include a substantial decline in cash, reliance on investment gains for earnings, market-value volatility, inventory demand uncertainty, and reliance on management estimates. The tone is cautiously positive but includes standard forward-looking and accounting-estimate disclaimers."
+}

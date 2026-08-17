@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "significant estimates and judgments",
+    "may materially change",
+    "no assurance financing available",
+    "undiscounted cash flow assumptions"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified liquidity, NOL, valuation allowance, and market-risk information, but relies heavily on standard forward-looking disclaimers and assumption-dependent accounting judgments. Liquidity appears adequate beyond 12 months, although future growth or acquisitions may require financing that is not assured, and impairment and tax outcomes remain sensitive to changing assumptions."
+}

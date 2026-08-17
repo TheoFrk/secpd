@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant amount of judgment",
+    "may be significantly different",
+    "less meaningful than usual",
+    "we believe",
+    "not likely to be able to utilize"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but highlights material uncertainty from the Level 3 acquisition's preliminary fair-value estimates and reduced comparability of post-acquisition results. The failed-sale-leaseback treatment, capital loss carryforward valuation allowance, and acquisition-related costs indicate accounting and integration risks, partially offset by disclosed transaction proceeds and tax benefits."
+}

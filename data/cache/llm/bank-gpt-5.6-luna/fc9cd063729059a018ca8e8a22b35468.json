@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results are likely to differ materially",
+    "subject to uncertainty due to market conditions",
+    "ultimate timing and substance ... are unknown",
+    "primarily due to",
+    "generally relies on"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on historical losses, impairments, tax benefits, and earnings changes, supporting relatively transparent disclosure. Forward-looking sections rely on estimates and broad uncertainty disclaimers, while insurance reserve methodologies and market-sensitive assumptions create material execution and volatility risks."
+}

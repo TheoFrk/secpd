@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "when we deem it necessary",
+    "not believed to have a material impact",
+    "working capital deficit",
+    "duplicated professional expenses disclosure"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and technically complex, with limited discussion of underlying business drivers beyond currency fluctuations and debt activity. Key credit concerns include a $251,829 working-capital deficit, only $43,098 of cash, doubtful utilization of net operating losses, and concentration involving a single subsidiary. Although the company reports positive net income and operating cash flow, disclosure contains inconsistencies and provides limited detail on liquidity adequacy and repayment capacity."
+}

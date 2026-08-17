@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.04,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "could materially differ",
+    "subjective analysis methodology",
+    "continuing to evaluate potential impact"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and qualitative uncertainty around regulatory changes, market conditions, loan-loss estimates, fair values, and future asset growth. It provides some useful quantitative detail, including an $18.5 million loan-loss allowance and an $11.8 million securities-sale gain, but relies heavily on assumptions, modeling, and conditional language."
+}

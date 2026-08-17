@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "subjective estimates and assumptions",
+    "if circumstances warrant",
+    "materially from those projected",
+    "strategic decision"
+  ],
+  "risk_summary": "The disclosure is relatively quantified and identifies key credit, valuation, tax, and interest-rate risks, but relies substantially on standard accounting caveats and subjective assumptions. Earnings declined materially, securities sales generated losses, mortgage demand weakened, and funding costs remained a concern, although management describes no goodwill impairment and expects stable to modest noninterest-income growth."
+}

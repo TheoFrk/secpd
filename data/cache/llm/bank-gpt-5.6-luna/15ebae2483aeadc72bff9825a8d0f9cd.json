@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.25,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "significant management estimates",
+    "among others",
+    "risk ... immaterial to earnings",
+    "current economic environment"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting earnings, asset quality, liquidity, borrowing capacity, and contractual obligations. Risk remains in the subjective estimation of loan-loss allowances and goodwill impairment, while RDSI losses and declining deposits are partially offset by improved profitability and asset quality."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.72,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "fixed currency measures",
+    "special gains and charges",
+    "segment reclassifications",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive performance narrative supported by extensive quantified growth, margin, cash flow, and credit-rating information. Comparability adjustments, non-GAAP measures, fixed-currency calculations, and special charges complicate interpretation of underlying performance, although the methodology is generally disclosed. The truncated critical-accounting-estimates discussion leaves some uncertainty regarding estimation sensitivity and impairment risk."
+}

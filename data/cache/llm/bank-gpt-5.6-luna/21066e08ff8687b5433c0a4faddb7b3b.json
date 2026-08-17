@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.24,
+  "risk_sentiment": 0.02,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "annual report cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and directs readers to another document. This limits transparency within the filing section but does not itself indicate a crisis-level risk tone."
+}

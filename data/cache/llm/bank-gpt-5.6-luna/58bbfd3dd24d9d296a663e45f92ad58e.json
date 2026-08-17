@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "estimates and assumptions",
+    "related-party payable",
+    "no assurance of financing"
+  ],
+  "risk_summary": "The disclosure quantifies substantial operating losses, escalating expenses, derivative liabilities, related-party obligations, tax filing delinquencies, and an anticipated $3.0 million working-capital need. Liquidity depends on potentially unsuccessful equity or debt financing, creating material adverse-effect risk. Repeated boilerplate disclaimers and technical transaction descriptions somewhat obscure the severity of the financial and governance risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance funds will continue to be available",
+    "substantial doubt about ability to continue as a going concern",
+    "expected to provide liquidity",
+    "various factors",
+    "forward-looking statements are not guarantees"
+  ],
+  "risk_summary": "The company reports substantial financial distress, including recurring net losses, sharply negative operating cash flow, a current ratio of 0.54, declining gross profit, and reliance on equity financing and shareholder advances. Management identifies substantial doubt about going-concern status, while its mitigation plans depend on future financing, profitable operations, and growth in new services. Disclosure is materially quantified but includes standard forward-looking disclaimers and optimistic, conditional assertions regarding liquidity improvement."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.16,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "no obligation to update",
+    "could cause actual results to differ materially",
+    "we believe",
+    "uncertain economic conditions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, with detailed operating, financing, acquisition, and liquidity data, but begins with extensive standardized forward-looking-statement disclaimers. Risk tone is cautiously positive due to reported liquidity and growth in online wagering, offset by declines in several racing operations and exposure to regulatory, tax, project execution, contingent consideration, and acquisition risks."
+}

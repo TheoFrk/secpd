@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to many uncertainties and challenges",
+    "management’s best estimate",
+    "expected cumulative net losses",
+    "does not expect cumulative net losses to exceed",
+    "non-GAAP adjusted results"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on earnings, credit quality, capital, deposits, and loss-sharing arrangements. Risk tone is cautiously positive due to improved credit metrics and strong capital, but declining net income, margin pressure, regulatory costs, tax litigation, and reliance on management estimates remain material concerns."
+}

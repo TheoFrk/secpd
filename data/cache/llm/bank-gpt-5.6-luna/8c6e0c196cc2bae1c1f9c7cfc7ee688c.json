@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP organic sales",
+    "preliminary purchase price",
+    "not practicable to disclose",
+    "coherent growth strategy",
+    "headwinds in certain end markets"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed sales, margin, acquisition, and foreign-currency impacts. Risk tone is predominantly confident and promotional, though it acknowledges industrial-market headwinds, currency volatility, and reliance on ongoing efficiency initiatives. Some strategic branding and limited disclosure of individual RCI savings reduce analytical clarity."
+}

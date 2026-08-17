@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "limited forward-looking visibility",
+    "adjusted for impact of changes",
+    "primarily driven by",
+    "offset in part",
+    "non-GAAP financial information"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding sales, margins, cash flows, acquisitions, and financing activities. Risk is moderated by limited customer and supplier visibility, foreign-exchange effects, competitive pricing pressure, and reliance on adjusted non-GAAP metrics, with some repetitive boilerplate and incomplete context from the truncated text."
+}

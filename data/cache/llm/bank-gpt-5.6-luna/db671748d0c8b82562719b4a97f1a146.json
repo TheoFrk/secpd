@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may cause actual results to differ materially",
+    "a variety of factors",
+    "continued pressure",
+    "large number of factors"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking-statement disclaimers and broad qualifying language, while also providing meaningful quantitative detail on enrollment, spending, rates, and taxes. Key risks include Medicare Advantage funding pressure, Medicaid margin pressure, regulatory changes, competition, and uncertainty in medical-cost and claims-reserve estimates. Overall tone is operationally confident but acknowledges persistent external and actuarial risks."
+}

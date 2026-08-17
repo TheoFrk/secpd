@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "cannot be predicted",
+    "may be required to record additional reserves",
+    "beyond the Company's control",
+    "disclaims any obligation to update"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking-risk and accounting-policy boilerplate, with complex terminology and reliance on management estimates. Credit-relevant risks include receivable collectability, inventory obsolescence, contract-cost estimates, and COVID-19 uncertainty, although quantified allowances, revenue mix, and liquidity sources provide meaningful specificity. Management expresses confidence in funding operations over the next twelve months, but the disclosure is partly incomplete due to truncation."
+}

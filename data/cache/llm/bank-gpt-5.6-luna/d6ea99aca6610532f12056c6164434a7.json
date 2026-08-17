@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "customary closing terms and conditions",
+    "currently expects to complete",
+    "other strategic transactions",
+    "subject to regulatory approvals",
+    "Hypothetical Liquidation Book Value method"
+  ],
+  "risk_summary": "The excerpt provides substantial transaction values, funding sources, approval requirements, segment impacts, and expense changes, indicating generally adequate specificity. Risk remains centered on acquisition execution, financing, regulatory approvals, integration, and complex tax-equity accounting, while forward-looking timing and conditions introduce uncertainty."
+}

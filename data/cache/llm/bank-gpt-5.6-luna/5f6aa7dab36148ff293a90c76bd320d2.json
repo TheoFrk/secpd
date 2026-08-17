@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "no assurance",
+    "among others",
+    "adjusted non-GAAP measures",
+    "management accounting assumptions and allocations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including revenue, earnings, cash flow, cost savings, and identified operating pressures. Risk tone is mixed: weaker sales, currency effects, demand and pricing pressure, environmental liabilities, and restructuring costs are offset by improved operating cash flow, cost savings, and growth in selected businesses. Repeated forward-looking disclaimers, extensive adjusted metrics, and allocation-based business-unit reporting may complicate comparability and risk assessment."
+}

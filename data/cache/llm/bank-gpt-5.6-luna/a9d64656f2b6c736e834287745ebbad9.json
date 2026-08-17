@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measure disclaimer",
+    "primarily due to",
+    "offset by",
+    "not entirely comparable",
+    "integrated nature of the rail network"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with revenue, volume, pricing, fuel, debt, and tax metrics disclosed across multiple years. Risk tone is moderately positive, highlighting pricing gains, diversified commodity exposure, and operational improvements, while acknowledging coal and agricultural declines, fuel inflation, environmental costs, and weather-related expenses. Some causal explanations rely on standard qualifiers and non-comparability caveats, and the excerpt is truncated before full tables and outlook detail."
+}

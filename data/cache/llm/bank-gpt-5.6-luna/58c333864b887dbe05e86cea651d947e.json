@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.45,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subject to risks and uncertainties",
+    "may not be available",
+    "significant subjectivity and judgment",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The excerpt is predominantly descriptive and accounting-focused, but contains meaningful liquidity and capital-raising risk, including possible inability to obtain funding and substantial shareholder dilution. Acquisition accounting, goodwill, contingent consideration, tax valuation allowances, and CVR obligations introduce significant estimation and cash-flow uncertainty."
+}

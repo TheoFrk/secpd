@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "not indicative of ongoing operations",
+    "cannot predict exact timing or amounts",
+    "expected to yield significant financial benefits",
+    "excluding unrealized non-cash adjustments"
+  ],
+  "risk_summary": "The excerpt presents strong profitability and strategic progress, but relies substantially on non-GAAP and “economic” measures that exclude significant accounting effects and may reduce comparability. Key uncertainties include AirTran integration costs and timing, fuel-hedging settlements, and potential periods when hedged fuel costs exceed market prices."
+}

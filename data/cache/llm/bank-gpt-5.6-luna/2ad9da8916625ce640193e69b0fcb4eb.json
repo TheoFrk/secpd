@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may not be able to reliably predict",
+    "under different assumptions or conditions",
+    "cannot guarantee",
+    "largely dependent on customers",
+    "significantly affected"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but relies on standard accounting-estimate caveats and emphasizes uncertainties around revenue timing, collectability, foreign exchange, and customer performance. The overall tone is mildly positive due to growth and diversification claims, although declining Wood Processing margins and exposure to customer liquidity and economic conditions temper that optimism."
+}

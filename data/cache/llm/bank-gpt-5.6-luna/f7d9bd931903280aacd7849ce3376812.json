@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect to continue to refine",
+    "ownable or winnable",
+    "key drivers",
+    "intended to drive"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, including sales, margins, store counts, and one-time costs, but the strategic discussion relies heavily on subjective customer concepts and forward-looking expectations. The tone is generally confident and growth-oriented, with limited explicit discussion of execution, competitive, or demand risks in the provided text."
+}

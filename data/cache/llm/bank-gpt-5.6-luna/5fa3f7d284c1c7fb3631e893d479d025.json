@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "cross-reference to annual report",
+    "no substantive discussion",
+    "generic section heading",
+    "pages 2 through 85"
+  ],
+  "risk_summary": "The excerpt provides no financial, operating, liquidity, or risk information and merely redirects the reader to another section. This limits assessment of the issuer's condition from the provided text."
+}

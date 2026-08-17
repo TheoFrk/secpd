@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "largely due",
+    "primarily due",
+    "change in management estimates",
+    "future net undiscounted cash flows",
+    "if any"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including cash flows, credit capacity, debt repayment, and covenant compliance. Key judgment areas include inventory-cost allocations, impairment testing, workers’ compensation liabilities, deferred tax asset realizability, and securities trading exposure. Overall tone is mildly positive, reflecting improved operating cash flow and no line-of-credit borrowings, but some drivers rely on management estimates and generalized explanations."
+}

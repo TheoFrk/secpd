@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "outside of our control",
+    "cannot be reasonably predicted",
+    "we believe",
+    "expected to improve",
+    "non-run-rate items"
+  ],
+  "risk_summary": "The disclosure presents a generally confident outlook, supported by quantified liquidity, earnings, capital spending, and operating targets. Key risks include demand destocking, supply-chain disruptions, commodity-cost volatility, execution of the roll coat project, and a substantial increase in its estimated cost from $150 million to approximately $250 million. Forward-looking expectations rely on management assumptions and include items that cannot be reconciled or predicted with certainty."
+}

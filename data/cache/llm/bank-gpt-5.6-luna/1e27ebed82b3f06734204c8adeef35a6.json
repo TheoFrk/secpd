@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.15,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily reflecting",
+    "not material",
+    "insignificant amounts",
+    "have been omitted",
+    "discussed in more detail"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with clear year-over-year metrics and explanations for major changes. Risk tone is mildly negative due to lower earnings, elevated claims and catastrophe losses, reduced investment income, and substantial unrealized investment losses, but the disclosure remains factual rather than crisis-like."
+}

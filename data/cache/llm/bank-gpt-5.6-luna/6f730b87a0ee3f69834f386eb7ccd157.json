@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "softer demand associated with the current economic environment",
+    "primarily due to",
+    "unable to estimate the years in which settlement will occur",
+    "contingent upon actual results"
+  ],
+  "risk_summary": "The disclosure is generally specific and provides quantified changes, charges, liabilities, and acquisition effects, but relies on standard forward-looking disclaimers and broad causal descriptions. Risk tone is mildly positive overall, tempered by lower organic sales, unfavorable foreign exchange, softer demand, integration activities, and uncertain timing of certain liabilities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "estimates and assumptions",
+    "subject to coverage-layer-specific limits",
+    "reasonable and supportable economic forecasts",
+    "other factors the Board may deem relevant"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including claims accruals, reimbursements, revenue growth, cash flows, and capital allocation. Key risks arise from actuarial estimates, self-insurance exposure, reimbursement limits, impairment judgments, tax contingencies, and uncertain future claim costs. The overall tone is moderately positive because of strong revenue and operating cash flow growth, while standard forward-looking and estimate-related caveats temper confidence."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "offset by",
+    "ultimately depend on several variables",
+    "potential resolution of outstanding tax contingencies",
+    "tables and financial highlights omitted"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on sales declines, segment performance, expenses, debt maturities, taxes, and share repurchases, but key tables and financial highlights are omitted or truncated. Risk tone is broadly neutral, balancing deterioration in store sales and tax uncertainty against cost improvements, liquidity activity, and international/direct-channel growth."
+}

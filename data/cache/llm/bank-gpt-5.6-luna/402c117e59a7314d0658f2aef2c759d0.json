@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "anticipated closing on funding",
+    "no guarantee",
+    "cash flow shortages",
+    "materially different results"
+  ],
+  "risk_summary": "The excerpt reports severe operating deterioration, including a 63% revenue decline, cash shortages, creditor arrears, outdated technology, customer attrition, management turnover, and a lapsed regulatory registration. Although several historical figures are quantified, future funding, growth, international expansion, and operational scalability rely on uncertain expectations and extensive boilerplate disclaimers."
+}

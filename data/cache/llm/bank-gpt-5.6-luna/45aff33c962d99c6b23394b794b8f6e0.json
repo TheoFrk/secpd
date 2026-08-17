@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future effects are uncertain",
+    "among others",
+    "various estimates and judgements",
+    "primarily due to",
+    "not presently known"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including earnings, margins, allowance coverage, loan-loss provision, and regulatory capital ratios. Risk is elevated by COVID-19-related economic uncertainty, potential borrower repayment stress, collateral valuation sensitivity, and reliance on estimates, although strong capitalization and detailed operational discussion moderate the tone."
+}

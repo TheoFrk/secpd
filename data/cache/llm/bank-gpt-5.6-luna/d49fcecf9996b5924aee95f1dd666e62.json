@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to publicly release revisions",
+    "materially different",
+    "lower-priced product shift",
+    "cash usage and liquidity risk"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures, including a 37% revenue decline, elevated interest expense, goodwill impairment, and approximately $98,900 in monthly operating cash usage. Risk tone is moderately negative because the business is undergoing a strategy transition, has experienced customer attrition, debt-related costs, impairment charges, and potential OTC market liquidity consequences. Extensive boilerplate disclaimers and reliance on broad explanations of product strategy somewhat limit transparency regarding forward outlook and liquidity sufficiency."
+}

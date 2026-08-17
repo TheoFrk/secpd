@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "may not be comparable",
+    "management’s judgment",
+    "sensitive to market conditions",
+    "uncertain if or when settled"
+  ],
+  "risk_summary": "The disclosure is generally precise and strongly quantified, with detailed explanations of revenue, margins, credit income, expenses, and store activity. Risk signals include declining credit revenue, reliance on management assumptions for Level 3 valuations, liquidity-related uncertainty, and $8.3 million of unrecognized tax benefits with uncertain settlement timing. Overall tone is operationally positive but tempered by market, valuation, and tax uncertainties."
+}

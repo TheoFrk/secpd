@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "\"we believe\" regulatory classification",
+    "estimated revenue by application",
+    "subject to limited data and assumptions",
+    "preliminary FDA feedback",
+    "will not pursue regulatory approval"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating metrics, account concentration data, revenue growth, and capacity information, supporting generally adequate disclosure. Risk is present in the discontinuation of Avive, dependence on FDA pathways for Avive+, concentration among top accounts, and reliance on estimates based on limited data. The overall tone remains commercially confident but is moderated by regulatory and execution uncertainties."
+}

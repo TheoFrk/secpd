@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgments, estimates and assumptions",
+    "inherently subjective",
+    "may be susceptible to significant change",
+    "commonly used industry assumptions",
+    "not all companies use the same calculation methods"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail, including the $9.7 million loan-loss allowance and multi-year interest-rate tables, but relies heavily on subjective assumptions for credit losses, servicing rights, impairment, and valuation. Risk tone is cautious and technically neutral rather than crisis-like, with material sensitivity to economic conditions, interest rates, collateral values, and model assumptions."
+}

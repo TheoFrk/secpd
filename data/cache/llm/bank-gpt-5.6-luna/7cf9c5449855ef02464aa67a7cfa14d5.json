@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "we expect",
+    "significant portion",
+    "may differ materially"
+  ],
+  "risk_summary": "The excerpt presents strong growth in digital revenue, live services, and net bookings, with substantial quantitative support and a generally confident outlook. Key risks include concentration in FIFA and other franchises, dependence on recurring live-service monetization, cybersecurity threats, and uncertainty in tax estimates. The discussion contains standard MD&A disclaimers and forward-looking language, but is not highly evasive."
+}

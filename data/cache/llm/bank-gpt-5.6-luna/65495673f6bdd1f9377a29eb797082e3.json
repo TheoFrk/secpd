@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "customary regulatory approval",
+    "expected to close",
+    "historically",
+    "various countervailing factors"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but relies substantially on standard industry-risk language and non-GAAP measures. Material risks include the highly leveraged $13.45 billion AssuredPartners acquisition, expected clean-energy losses, cyclical insurance pricing, catastrophe losses, and reserve volatility."
+}

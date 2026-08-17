@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "significant amount of judgment",
+    "estimates that future domestic cash generation will be sufficient",
+    "continue to review our tax exposure",
+    "not specifically identifiable to a segment"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, covering segment sales, margins, backlog, debt, and tax rates. Risk tone is mildly negative due to declining revenue, earnings, margins, market softness, project delays, and facility shutdown charges, although lower debt and detailed explanations provide balance. Some boilerplate forward-looking language and judgment-based tax and equity-valuation disclosures introduce limited ambiguity."
+}

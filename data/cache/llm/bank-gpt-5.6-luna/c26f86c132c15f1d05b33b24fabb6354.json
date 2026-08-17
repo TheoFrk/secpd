@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor language",
+    "actual results could differ materially",
+    "no obligation to update",
+    "believe/expect/may/could hedging",
+    "competitive-advantage promotional claims"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking-disclosure language and broad, largely unquantified claims about strategy, competitive advantages, and future growth. It identifies macroeconomic, credit, currency, geopolitical, execution, and restructuring risks, but the overall tone remains moderately confident and promotional, supported by selected revenue and buyback metrics."
+}

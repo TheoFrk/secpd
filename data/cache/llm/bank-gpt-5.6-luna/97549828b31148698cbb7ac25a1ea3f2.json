@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "based upon assumptions",
+    "unable to provide a reasonably reliable estimate",
+    "not certain when liabilities will be funded",
+    "purchase orders may represent authorizations rather than binding agreements"
+  ],
+  "risk_summary": "The disclosure presents a cautiously optimistic outlook tied to volatile semiconductor-equipment demand, while identifying substantial estimation uncertainty in revenue recognition, inventory reserves, taxes, warranties, and impairment assessments. Quantification is provided for deferred tax assets, valuation allowances, and certain facilities, but several obligations and contingent exposures cannot be reliably estimated. Overall risk tone is mildly positive but materially qualified by cyclicality and reliance on management assumptions."
+}

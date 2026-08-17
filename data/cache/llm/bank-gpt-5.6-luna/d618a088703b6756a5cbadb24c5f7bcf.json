@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.3,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "array of macroeconomic and geopolitical factors",
+    "actual results could differ materially",
+    "uncertain projected cash requirements",
+    "truncated revenue-recognition discussion"
+  ],
+  "risk_summary": "The excerpt is quantitatively informative, but describes a significant revenue decline, lower margins, customer concentration, international exposure, and substantial macroeconomic and geopolitical sensitivity. Liquidity is presented confidently for at least the next 12 months, although longer-term cash needs and operating cash flow remain uncertain. Dense technical and cautionary language, along with the truncated section, limits assessment of some underlying risks."
+}

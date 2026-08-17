@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "broad-based initiatives",
+    "strong demand",
+    "rightsizing charges"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with detailed segment revenue, margin, bookings, backlog, restructuring, acquisition, and geographic data. Risk tone is moderately positive but acknowledges segment declines, foreign-exchange headwinds, tariff exposure, softer end-market demand, and ongoing restructuring costs. The primary disclosure limitation is dense, technical presentation and standard boilerplate around forward-looking and non-GAAP measures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "subjective estimates and judgments",
+    "materially different",
+    "without limitation"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and emphasizes uncertainty in credit-loss and impairment estimates. It provides meaningful quantitative information on loan growth, funding, goodwill, and intangible assets, but the truncated text limits assessment of full risk exposure and outcomes. Overall tone is operationally constructive but appropriately cautious regarding credit, liquidity, regulatory, and valuation risks."
+}

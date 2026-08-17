@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to the net effects of",
+    "factors beyond our control",
+    "uncertain and cannot be predicted",
+    "we believe",
+    "results could be unfavorably affected"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, including sales, volumes, pricing, margins, and COVID-19 impacts, but several key reconciliation bullets and tables are omitted or incomplete. The tone is cautiously constructive regarding 2021 demand and pricing while emphasizing pandemic, supply-chain, market, and competitive uncertainties."
+}

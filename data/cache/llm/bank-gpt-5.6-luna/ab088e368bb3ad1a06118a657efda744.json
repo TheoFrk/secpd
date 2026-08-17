@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "significant impact on comparability",
+    "various initiatives",
+    "see Note ... for additional detail",
+    "other adjustments",
+    "excluding certain non-cash and/or non-recurring items"
+  ],
+  "risk_summary": "The excerpt is largely standardized MD&A disclosure with substantial cross-referencing and repeated comparability language, limiting standalone transparency. It quantifies notable tax, recall, restructuring, divestiture, and acquisition effects, but reliance on adjusted metrics and broad exclusions may obscure underlying performance. Overall tone is neutral to mildly negative, reflecting material operational and financial adjustments rather than an overt crisis."
+}

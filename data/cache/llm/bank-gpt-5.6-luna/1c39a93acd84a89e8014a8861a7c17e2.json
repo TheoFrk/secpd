@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "from time to time",
+    "known and unknown liabilities",
+    "potential for a negative impact",
+    "expected to dissolve"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantitative metrics, but contains lengthy boilerplate descriptions and broad, non-quantified acquisition and integration contingencies. Risk tone is generally stable and moderately confident, supported by regulated utility characteristics, while strategic expansion could create financing, regulatory, integration, and profitability risks."
+}

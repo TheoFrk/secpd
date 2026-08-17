@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing will be available",
+    "various risks, uncertainties and other factors",
+    "actual results may differ materially",
+    "need additional funds to continue commercialization"
+  ],
+  "risk_summary": "The company is a pre-revenue clinical-stage business with recurring losses and an ongoing need for additional capital, creating substantial liquidity, dilution, and execution risk. The disclosure includes quantified expense changes and funding statements, but extensive boilerplate disclaimers and broad uncertainty language reduce transparency regarding commercialization prospects and future financing."
+}

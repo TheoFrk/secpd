@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results could differ",
+    "future additions to the ACL may be necessary",
+    "reasonable and supportable forecasts",
+    "downside 96th percentile scenario"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides useful credit-loss sensitivity information, but relies substantially on standard accounting-policy language and management judgment. Earnings and returns declined year over year, while the disclosed downside Moody’s scenario would increase the quantitative ACL by approximately $120.1 million, indicating meaningful sensitivity to economic deterioration."
+}

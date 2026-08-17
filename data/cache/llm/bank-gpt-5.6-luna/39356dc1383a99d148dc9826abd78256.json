@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.31,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "difficult to examine any one geographic area",
+    "nearly impossible to predict events",
+    "subject to variation",
+    "further legislative action and guidance",
+    "complicated functions requiring technical knowledge"
+  ],
+  "risk_summary": "The excerpt is generally transparent and operationally detailed, with quantified geographic and tax information. Risk disclosures are partly softened by broad uncertainty language and extended culture-focused narrative, while key exposures include international concentration, inter-segment allocations, regulatory complexity, and tax-rate volatility."
+}

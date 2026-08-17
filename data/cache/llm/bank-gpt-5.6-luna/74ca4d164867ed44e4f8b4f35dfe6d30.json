@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.86,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "no assurance repeated",
+    "forward-looking statement disclaimer",
+    "viable operating entity undefined",
+    "additional funding uncertainty",
+    "potential shareholder dilution"
+  ],
+  "risk_summary": "The company has no operating revenue, minimal cash of $768, recurring losses, and relies on related-party loans for working capital. Its strategy depends on an unidentified acquisition target and additional financing, with repeated disclosures that neither a transaction nor favorable terms are assured. The extensive boilerplate and repetition emphasize material execution, liquidity, competition, and dilution risks."
+}

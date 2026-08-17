@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "cost improvement actions",
+    "continued weakness",
+    "forward-looking statements",
+    "currency headwinds"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed reconciliations of sales, operating income, margins, volumes, pricing, currency, and cost impacts. The tone is moderately confident, but risks include economic weakness, currency exposure, weak LNG orders, business separations, and earnings dilution from discontinued operations. Extensive management emphasis on adjusted metrics and cost actions introduces some potential for favorable framing."
+}

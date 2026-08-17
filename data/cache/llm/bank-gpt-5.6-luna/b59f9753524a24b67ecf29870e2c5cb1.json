@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "could change by a material amount",
+    "further discussion",
+    "permanent cost reductions",
+    "reclassified for all periods presented"
+  ],
+  "risk_summary": "The excerpt is generally constructive, highlighting higher sales, operating profit, productivity gains, acquisitions, and cost savings, with substantial quantitative detail. However, it contains significant boilerplate, lengthy segment descriptions, accounting-method changes, acquisition-related complexity, and standard uncertainty language around estimates and receivable recoverability. The excerpt is truncated, limiting assessment of liquidity, leverage, and downside risks."
+}

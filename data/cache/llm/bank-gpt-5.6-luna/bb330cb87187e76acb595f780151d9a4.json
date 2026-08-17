@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks, uncertainties, assumptions and other factors",
+    "beyond our control",
+    "primarily the result of",
+    "this increase was partially offset by"
+  ],
+  "risk_summary": "The excerpt presents quantified revenue, debt repayment, covenant compliance, and liquidity information, supporting a generally stable tone. However, extensive boilerplate forward-looking disclaimers, broad risk categories, and omitted detail after repeated result headings limit transparency into the specific drivers and adverse sensitivities."
+}

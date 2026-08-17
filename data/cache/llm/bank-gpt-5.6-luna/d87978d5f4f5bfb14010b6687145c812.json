@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may adversely affect",
+    "among other things",
+    "cautiously optimistic",
+    "unless economic conditions deteriorate"
+  ],
+  "risk_summary": "The disclosure provides useful quantified liquidity and cash-flow information, but relies heavily on broad forward-looking disclaimers and generalized dependencies. It identifies meaningful risks from supply shortages, inflation, logistics costs, customer cancellations, China-related exposure, demand weakness, and financing needs, while maintaining a cautiously optimistic tone."
+}

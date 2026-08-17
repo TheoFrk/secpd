@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "no assurance",
+    "difficult to predict",
+    "subject to further pricing actions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue declines, segment performance, liquidity, restructuring costs, and expected savings. However, extensive safe-h harbor language and repeated broad references to uncertain macroeconomic, geopolitical, supply-chain, and demand risks reduce specificity regarding downside scenarios. Kodak faces pressured print volumes, higher costs, constrained manufacturing capacity, and reliance on uncertain trade-relief outcomes, partially mitigated by pricing, cost reductions, and reported liquidity."
+}

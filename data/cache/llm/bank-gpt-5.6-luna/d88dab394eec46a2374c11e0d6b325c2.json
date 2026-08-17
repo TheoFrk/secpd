@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.53,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "various external factors",
+    "currently unforeseen",
+    "may be required",
+    "could be material"
+  ],
+  "risk_summary": "The excerpt presents strong reported growth and record earnings, but the positive results are substantially tied to the LSBG acquisition and adjusted non-GAAP measures. Disclosure of credit, valuation, tax, impairment, and fair-value risks is extensive but relies heavily on standard caveats and unquantified assumptions, limiting assessment of potential downside magnitude."
+}

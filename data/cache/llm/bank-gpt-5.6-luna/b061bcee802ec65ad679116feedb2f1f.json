@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "no assurances can be given",
+    "if necessary",
+    "may be required in the future",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenue, cash, operating expenses, option payments, and financing, but relies heavily on standard forward-looking and going-concern disclaimers. Liquidity depends materially on BeMetals payments, asset or equity sales, and future financing, with explicit uncertainty about availability and terms; reported income is also significantly influenced by unrealized investment gains and mineral-interest transactions."
+}

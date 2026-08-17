@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "incomplete causal explanations",
+    "estimated sell-through",
+    "little weight on backlog",
+    "table data omitted",
+    "mitigate inventory increases"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but reports significant deterioration in demand, orders, shipments, sales, gross margin, and casting revenue. Management describes operational responses to reduce production and labor costs, while incomplete sections and omitted tables limit assessment of the stated causes and full financial impact."
+}

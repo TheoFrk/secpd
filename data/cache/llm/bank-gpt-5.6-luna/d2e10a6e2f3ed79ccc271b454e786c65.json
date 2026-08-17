@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot guarantee future results",
+    "substantial doubt as to going concern",
+    "no assurances on additional funding",
+    "repeated transformation strategy"
+  ],
+  "risk_summary": "The excerpt contains substantial going-concern risk, accumulated losses, delayed operations, dependence on executing a new energy-storage strategy, and uncertain external financing. Although it cites significant cash and quantified historical results, the mitigation case relies heavily on management plans and assumptions that are expressly not guaranteed. Extensive boilerplate disclaimers and dense subsidiary/project descriptions reduce clarity."
+}

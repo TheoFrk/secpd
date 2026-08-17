@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking information",
+    "risks and uncertainties",
+    "include, but are not limited to",
+    "may require an extended period",
+    "not intended to be a comprehensive list"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified, with detailed year-over-year revenue, margin, cash flow, tax, and capital spending data. Risk tone is mildly negative because revenue and gross margins declined, while cash generation remained positive and management provides specific explanations. Boilerplate safe-harbor and accounting-policy language adds some ambiguity but does not materially obscure the financial trends."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to meet cash requirements",
+    "primarily due to",
+    "non-GAAP adjusted measures",
+    "criminal social engineering scheme",
+    "truncated environmental expense discussion"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with improved net income and operating income but declining sales and polymer performance. Liquidity appears adequate based on operating cash flow and available resources, although cash declined, financing was a use of cash, and the company incurred a $6.8 million loss from a criminal social engineering scheme. The excerpt contains substantial technical and boilerplate language, and one discussion is visibly truncated."
+}

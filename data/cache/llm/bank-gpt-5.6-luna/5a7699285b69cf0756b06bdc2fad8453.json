@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to a number of conditions",
+    "expected to be completed",
+    "estimated purchase price",
+    "non-GAAP results",
+    "loss-share arrangement"
+  ],
+  "risk_summary": "The excerpt is largely factual and well quantified, describing acquisitions, capital actions, loan exposures, and regulatory or shareholder approval requirements. Key risks include the sizable Hudson City acquisition, concentrated residential real estate exposure, merger execution, and reliance on acquisition-related adjustments and FDIC loss sharing. Overall tone is neutral to mildly confident rather than crisis-like."
+}

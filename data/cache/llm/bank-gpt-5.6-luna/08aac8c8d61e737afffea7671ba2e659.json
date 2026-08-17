@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be quantified or predicted with specificity",
+    "could potentially increase volatility and uncertainty",
+    "numerous evolving factors",
+    "may be unable to fully mitigate",
+    "appropriate actions in efforts to mitigate"
+  ],
+  "risk_summary": "The excerpt presents broad and material exposure to macroeconomic, regulatory, geopolitical, permitting, inflation, interest-rate, supply-chain, and project-demand risks. Risk disclosure is extensive but often non-quantified and heavily qualified, limiting assessment of potential financial impact. Management offers general liquidity and mitigation assurances without providing specific sensitivities or measurable thresholds."
+}

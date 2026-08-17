@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could cause actual results to differ materially",
+    "including, but not limited to",
+    "subject to risks and uncertainties",
+    "expected benefits and timing"
+  ],
+  "risk_summary": "The excerpt is largely standardized forward-looking-statement boilerplate and enumerates numerous operational, market, regulatory, integration, liquidity, and legal uncertainties without quantifying their potential impact. The tone is broadly neutral, but the extensive risk-factor language highlights meaningful execution and financial risks, particularly from the TD Ameritrade integration, interest-rate sensitivity, client behavior, and regulatory matters."
+}

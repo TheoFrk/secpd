@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "assumptions believed to be reasonable",
+    "not material",
+    "no indicators of impairment exist",
+    "reasonable expectations about those trends",
+    "could range from a further downturn"
+  ],
+  "risk_summary": "The disclosure is highly technical and generally well quantified, including impairment charges, valuation assumptions, discount-rate ranges, and segment margins. Risk is elevated by substantial prior-year goodwill and long-lived asset impairments and reliance on forecasts, terminal growth, and macroeconomic recovery assumptions, although management characterizes current impairment indicators as absent."
+}

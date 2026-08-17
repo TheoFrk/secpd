@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "aspirational five-year goals",
+    "unable to predict with reasonable certainty",
+    "full range of strategic alternatives",
+    "no certainty that the strategic review will result",
+    "does not intend to comment further"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including revenue growth, recurring revenue, acquisitions, and significant financing transactions. Risk tone is mixed: operating performance is presented positively, but substantial acquisition-related debt, cybersecurity exposure, and an uncertain strategic review introduce material uncertainty. Forward-looking goals rely on non-GAAP measures and omit reconciliations because management cannot predict reconciling items without unreasonable effort."
+}

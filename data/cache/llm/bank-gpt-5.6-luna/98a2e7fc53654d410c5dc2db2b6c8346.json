@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "cannot reasonably estimate total impact",
+    "risks and uncertainties",
+    "significant impact without quantified forecast",
+    "misappropriation of funds by mid-level employee"
+  ],
+  "risk_summary": "The disclosure presents material pandemic-related uncertainty affecting demand, supply chains, operations, collections, and financial condition, while providing limited quantified impact estimates. Repeated safe-harbor language and broad risk-factor references reduce specificity, although the $3.6 million PPP loan, $190 thousand correction, and operational details provide some concrete information. The tone is cautiously negative, with additional governance and reporting risk indicated by the misappropriation disclosure and correction of prior-year financial statements."
+}

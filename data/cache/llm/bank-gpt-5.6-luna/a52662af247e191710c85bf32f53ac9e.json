@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "somewhat offset by",
+    "may fluctuate significantly",
+    "factors out of the Company’s control",
+    "experimental monetary policies"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but highlights meaningful sensitivity to market conditions, investor redemptions, declining average AUM, and volatile investment income. Risk is partly moderated by higher period-end AUM and expense flexibility, although performance remains concentrated in market appreciation and fund flows."
+}

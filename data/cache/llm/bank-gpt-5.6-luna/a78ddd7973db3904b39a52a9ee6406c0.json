@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "numerous challenges",
+    "significant opportunity",
+    "expected continued pressure on operating margins"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative performance and asset-balance information, but includes standard forward-looking disclaimers and broad, non-quantified claims about platform benefits and execution challenges. Key risks include capital-market sensitivity, migration and deployment execution, potential software write-offs, and near-term margin pressure from investment spending."
+}

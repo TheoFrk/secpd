@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ",
+    "factors beyond our control",
+    "best estimate and subjective judgment",
+    "does not undertake any obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, but is heavily front-loaded with standard forward-looking disclaimers and broad qualifications around loan-loss estimates. Credit risk is present through higher provision expense and reliance on subjective allowance assumptions, while profitability remained strong despite lower net income and higher non-interest expense."
+}

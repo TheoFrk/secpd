@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "other factors beyond our control",
+    "generic regulatory and litigation risks",
+    "management forecasts and estimates"
+  ],
+  "risk_summary": "The excerpt provides useful quantified year-over-year operating and cash-flow data, including persistent losses, declining cash, and increased operating cash usage. Risk disclosure is extensive but largely generic and boilerplate, relying on broad contingencies and legal disclaimers rather than probability, sensitivity, or liquidity runway analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "normalized segment operating income",
+    "expected to drive organic growth",
+    "benefited from distributor shipments",
+    "unusual items affecting comparability",
+    "strategic focus on premiumizing"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, interest, tax, and segment information, but relies on management-defined normalized metrics and extensive strategic narrative. Risk is moderate: performance benefited from distributor inventory shipments and favorable tax items, while divestitures, market competition, foreign exchange volatility, surplus wine supply, arbitration costs, and high interest expense remain material concerns."
+}

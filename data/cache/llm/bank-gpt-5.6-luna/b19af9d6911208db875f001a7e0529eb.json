@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "partially offset by",
+    "significant level of estimation uncertainty",
+    "could result in a material impact",
+    "expect operations to continue generating sufficient cash flow"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and well quantified, with segment-level sales, margin, expense, cash, and debt-related figures. Risk is mixed: Animal Nutrition and Specialty Products sales declined, borrowing costs increased, and impairment and acquisition expenses were material, but liquidity and cash-flow expectations are presented as adequate. Forward-looking statements rely on broad macroeconomic, market, and estimation-based qualifiers."
+}

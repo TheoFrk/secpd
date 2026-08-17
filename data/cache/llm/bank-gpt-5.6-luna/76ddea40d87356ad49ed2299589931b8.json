@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance can be given",
+    "materially and adversely affected",
+    "concerns about ability to continue funding operations",
+    "[...]-truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail, but includes standard forward-looking disclaimers and some hedged statements. Risk tone is materially negative due to recurring losses, declining block hours and revenue, impairment charges, rising costs, aircraft transition pressures, and explicit concerns regarding liquidity, debt obligations, and going concern."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ",
+    "management’s best judgment",
+    "primarily due to the following",
+    "reasonably assured"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including occupancy, revenue, receivables, allowances, and sensitivity information. Risk is moderated by tenant credit, collectability, lease termination, redevelopment, and accounting-estimate uncertainties, while the operating tone remains broadly positive."
+}

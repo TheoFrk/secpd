@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks",
+    "actual results may differ materially",
+    "assumptions could produce different valuations",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt presents improving profitability, asset growth, and operating efficiency, with generally positive performance metrics. Risk disclosure is extensive but relies heavily on standard forward-looking disclaimers and qualitative caveats around economic conditions, interest rates, loan losses, asset valuations, and management assumptions. Critical accounting estimates introduce sensitivity to assumptions, while the excerpt is truncated and omits some potentially relevant detail."
+}

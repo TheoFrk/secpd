@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "materially different and worse",
+    "non-GAAP financial measures",
+    "adjusted performance metrics",
+    "offset somewhat by losses"
+  ],
+  "risk_summary": "The excerpt is generally quantitatively detailed and provides reconciliations and explanations for major changes, but relies on non-GAAP measures and extensive forward-looking-statement disclaimers. Risk factors include catastrophe losses, adverse reserve development, declining premiums and investment yields, exited businesses, and impairment charges, although management presents overall performance in a moderately positive tone."
+}

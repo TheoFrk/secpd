@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "assumptions, risks and uncertainties",
+    "many of which are beyond our control",
+    "evaluating the impact",
+    "other factors it believes are appropriate"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative, including substantial growth in subscription revenue and a strategic shift toward SaaS, but provides limited discussion of adverse scenarios or financial vulnerabilities. Risk disclosure relies heavily on standard forward-looking language and broad, non-quantified uncertainties. The duplicated corporate-description text and dense accounting-policy discussion reduce clarity."
+}

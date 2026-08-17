@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate long-term impact",
+    "may differ in material ways",
+    "known and unknown risks",
+    "no obligation to update",
+    "not an exhaustive list"
+  ],
+  "risk_summary": "The disclosure is materially quantified, including sales declines, regional performance, margin data, government benefits, and cost actions. Risk tone is moderately negative because COVID-19 caused significant demand deterioration, operational disruption, and uncertainty regarding the duration and financial impact of the downturn. Boilerplate forward-looking disclaimers and broad uncertainty language modestly limit transparency around future outcomes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "materially different and worse",
+    "adjusted non-GAAP measures",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but includes standard forward-looking-statement disclaimers and emphasizes non-GAAP measures. Operating performance was mixed: book value increased, while revenues, investment gains, premiums, and combined ratios deteriorated in 2010, with catastrophe and exited-business losses creating meaningful risk."
+}

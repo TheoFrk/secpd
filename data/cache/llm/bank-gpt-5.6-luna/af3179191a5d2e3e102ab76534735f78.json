@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may continue to be affected",
+    "possibility of suspensions, delays or cancellations",
+    "reasonably likely",
+    "not expected to have a material effect",
+    "in accordance with percentage-of-completion method"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating data and describes improved sales, gross margin, and cash-related metrics, supporting a generally stable to mildly positive tone. However, extensive generic macroeconomic and COVID-19 contingencies, materiality qualifiers, and a truncated tax discussion reduce clarity; an apparent gross-margin comparison error also raises reporting-quality concerns."
+}

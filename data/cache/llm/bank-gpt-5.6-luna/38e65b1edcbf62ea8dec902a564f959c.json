@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor language",
+    "subject to risks, uncertainties and other factors",
+    "management estimates may change materially",
+    "predominately two governmental customers",
+    "expected substantial growth over the next 30 years"
+  ],
+  "risk_summary": "The excerpt provides meaningful operating metrics and quantified growth, but includes substantial boilerplate cautionary language and relies on long-term development expectations and management estimates. Key risks include customer concentration, dependence on oil and gas water demand, exposure to estimated asset lives and revenue recognition, and uncertainty around future Front Range development."
+}

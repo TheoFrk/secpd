@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "not individually significant",
+    "expected to",
+    "excluding the impact of",
+    "limited forward visibility"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding sales growth, acquisitions, debt financing, and ERP cash costs. Key risks include acquisition dependence, higher debt and interest expense, weak Asia Pacific demand, limited customer visibility, and reliance on projected operating cash flows."
+}

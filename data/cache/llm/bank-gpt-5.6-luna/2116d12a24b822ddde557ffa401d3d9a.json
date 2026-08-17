@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.45,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "subject to approval",
+    "should reduce costs",
+    "significant factors were",
+    "planned retirement"
+  ],
+  "risk_summary": "The excerpt is generally specific, with substantial quantified information on generation capacity, emissions targets, capital expenditures, and earnings impacts. Its tone is broadly confident and strategic, though execution, regulatory approval, project timing, and retirement-related uncertainties are expressed through forward-looking language. Truncated tables and incomplete factor descriptions limit assessment of the full operating-risk disclosure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measure limitations",
+    "selective underwriting language",
+    "computer-assisted modeling estimates",
+    "significant changes could result",
+    "truncated disclosure text"
+  ],
+  "risk_summary": "The excerpt is generally detailed and identifies material insurance, catastrophe, reserve, investment, regulatory, and reinsurance-credit risks, with some quantitative support such as the historical combined ratio. Its tone is predominantly confident and favorable, though it relies on standard management assurances and qualitative controls for exposure management. The apparent truncation and dense technical presentation modestly reduce disclosure clarity."
+}

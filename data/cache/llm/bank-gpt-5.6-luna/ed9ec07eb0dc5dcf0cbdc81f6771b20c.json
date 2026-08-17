@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "anticipated increased credit facility usage",
+    "could result in accelerated repayment",
+    "expected elevated interest expense",
+    "truncated disclosure context"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, particularly regarding transformation costs, debt, liquidity, and covenant compliance. Risk tone is mildly negative because backlog declined materially, borrowings and interest costs are rising, and covenant breaches could accelerate repayment, although operating results improved substantially. The excerpt is highly technical and includes standard forward-looking and safe-h harbor language."
+}

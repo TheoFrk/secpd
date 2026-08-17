@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.05,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "intended to help the reader understand",
+    "attempt to ensure the success",
+    "will not necessarily be indicative",
+    "cannot accurately measure the full impact",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial quantification, including store counts, comparable-sales trends, margins, inflation effects, and insurance exposures. Disclosure is repetitive and includes standard cautionary language and management uncertainty around inflation, competitive pressure, and estimates. Risk tone is broadly neutral, with modestly negative indicators from declining government benefits, margin compression, and higher product and supply-chain costs."
+}

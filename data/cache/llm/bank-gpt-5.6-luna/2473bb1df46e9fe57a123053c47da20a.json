@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to an inherent degree of uncertainty",
+    "among others",
+    "numerous events",
+    "could have a significant impact",
+    "explanation of the transaction deferred to footnotes"
+  ],
+  "risk_summary": "The disclosure presents significant liquidity pressure, with current liabilities substantially exceeding current assets, sharply lower cash, and negative operating cash flow in 2014. Results are materially sensitive to commodity prices, reserve estimates, impairment testing, receivable recoverability, and deferred tax asset realization, while litigation and prior write-downs add risk. Although many balances are quantified, explanations of certain transactions and drivers are incomplete or deferred to other sections."
+}

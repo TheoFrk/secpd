@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot assure recovery levels",
+    "foreseeable future",
+    "unanticipated events",
+    "as management deems necessary"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified liquidity, debt, lease, and purchase-obligation information and characterizes the financial position as strong. However, it contains extensive standard forward-looking disclaimers and identifies meaningful exposure to freight demand, labor and capacity shortages, fuel costs, insurance claims, regulation, and debt obligations. The overall tone is cautiously confident rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future trends",
+    "various macroeconomic factors",
+    "outside of our control",
+    "adjust the level of share repurchases",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is predominantly confident and quantitative, highlighting strong sales, profitability, margins, and cash generation. Key risks include macroeconomic uncertainty, higher borrowing costs, substantial debt, supply-chain and labor pressures, and reliance on continued vehicle aging and miles-driven trends. Capital allocation and performance measures are detailed, though some outlook language remains broad and non-predictive."
+}

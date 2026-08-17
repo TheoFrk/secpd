@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "organic growth",
+    "partially offset",
+    "expected outlook ranges",
+    "incomplete disclosure clauses"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides reconciliations, segment detail, and explicit outlook ranges, supporting relatively good disclosure quality. Risk factors include declining operating profit, foreign-exchange exposure, retirement costs, weaker North America and Europe margins, and an assumed 40% Venezuelan devaluation. Repeated non-GAAP framing and several truncated or incomplete clauses reduce clarity and comparability."
+}

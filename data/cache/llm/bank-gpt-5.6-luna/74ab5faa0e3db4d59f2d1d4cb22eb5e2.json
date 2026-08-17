@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to predict probability and timing",
+    "inherently uncertain",
+    "future events rarely develop exactly as forecast",
+    "significant management judgment",
+    "could have a material effect"
+  ],
+  "risk_summary": "The disclosure is detailed and substantially quantified, but relies on significant estimates for fixed-price contracts, revenue recognition, and cost forecasts. Satellite services reported a materially increased operating loss, while growth depends on uncertain contract awards and subscriber expansion. Management uses generally confident language regarding controls and forecasting, but acknowledges potentially material estimate sensitivity."
+}

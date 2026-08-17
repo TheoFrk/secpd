@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "currently expected",
+    "subject to normal closing conditions",
+    "primarily attributable",
+    "mostly attributable",
+    "non-GAAP adjusted income"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, with clear year-over-year drivers for sales, margins, expenses, taxes, and segment performance. The tone is moderately positive due to higher revenue and operating income, but risks include declining volume, margin pressure in North America and Polymers, severe gross-profit deterioration in Asia and Other operations, and acquisition and tax-related uncertainty."
+}

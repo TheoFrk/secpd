@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "significant judgments and estimates",
+    "could result in additional impairment charges",
+    "believed to be reasonable",
+    "unusual and infrequent transactions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but relies heavily on boilerplate explanations of non-GAAP measures and broad management judgments. Continuing revenue declines, recurring impairment charges, and sensitivity to projections and discount rates indicate meaningful credit risk, despite a generally formal and non-alarmist tone."
+}

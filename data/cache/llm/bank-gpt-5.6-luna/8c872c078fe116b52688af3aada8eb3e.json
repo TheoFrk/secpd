@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally presented on a fully tax-equivalent basis",
+    "believed to be reasonable under the circumstances",
+    "actual results may differ",
+    "primarily due to",
+    "additional information can be found in Note"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed explanations of loan growth, funding costs, acquisition accounting, and net interest income trends. Risk is moderated by reliance on estimates, purchased-credit-impaired loan accounting, goodwill and intangible assets, and changing deposit and borrowing costs. Repeated methodology disclosures and cross-references add boilerplate but do not appear materially evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.27,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "not measures defined under GAAP",
+    "should not be considered in isolation",
+    "may not be comparable to other companies",
+    "integrated and interdependent segments"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed operating, revenue-mix, seasonality, and non-GAAP metric disclosures, indicating relatively strong transparency. Boilerplate risk disclaimers and repeated non-GAAP limitations modestly reduce clarity, while seasonality, weather sensitivity, economic conditions, travel disruption, foreign exchange, and leverage-related capital needs remain relevant risks. Overall tone is operationally confident rather than crisis-like."
+}

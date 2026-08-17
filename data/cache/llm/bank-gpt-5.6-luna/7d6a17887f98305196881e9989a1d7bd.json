@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "not representative of core performance",
+    "could be negatively impacted",
+    "primarily due to run-off",
+    "among other things"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with transparent comparisons for earnings, asset quality, loans, deposits, capital, and Hawaii economic exposure. Risk tone is cautiously positive, but the company highlights material concentration in Hawaii real estate and tourism, interest-rate sensitivity, declining loans and deposits, and higher nonperforming assets. Non-GAAP exclusions and repeated management characterizations somewhat soften the presentation of weaker reported results."
+}

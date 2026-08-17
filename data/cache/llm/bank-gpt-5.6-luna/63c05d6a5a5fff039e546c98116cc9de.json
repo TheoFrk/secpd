@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe-harbor boilerplate",
+    "non-exhaustive risk factors",
+    "beyond ability to control or predict",
+    "no duty to update",
+    "among others"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on acquisitions, divestitures, financing, cash flows, and debt covenant changes, but much of the risk discussion is broad, repetitive, and non-quantified. Risk tone is cautious and highlights leverage, liquidity, integration, operational, regulatory, and market uncertainties, without indicating an immediate crisis."
+}

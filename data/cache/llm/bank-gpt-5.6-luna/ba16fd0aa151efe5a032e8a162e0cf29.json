@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.05,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to annual report",
+    "no substantive discussion",
+    "multiple referenced sections"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead redirects the reader to specified sections and pages of the annual report. The page references improve traceability, but the excerpt itself is non-informative for assessing current credit risk."
+}

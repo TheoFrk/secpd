@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not necessarily indicative",
+    "currently anticipated needs",
+    "cannot be determined with precision"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified operating performance, liquidity, retention, and cash-flow metrics, supporting a generally positive risk tone. However, extensive forward-looking disclaimers, broad lists of uncontrollable factors, and reliance on subjective accounting estimates limit visibility into future outcomes. Liquidity appears adequate, though refinancing plans and potential estimate variability warrant monitoring."
+}

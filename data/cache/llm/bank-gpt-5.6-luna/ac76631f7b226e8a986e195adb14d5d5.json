@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "timing, duration, and extent ... uncertain",
+    "cannot predict the magnitude",
+    "expected to continue into at least",
+    "management judgment and assumptions",
+    "believes that liabilities are properly stated"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of segment performance, costs, and supply-chain impacts. Key uncertainties relate to the pandemic, inflation, logistics, labor shortages, and judgment-sensitive impairment and tax estimates. Overall tone is moderately confident because of strong sales and earnings trends, but acknowledges near-term profitability and fulfillment risks."
+}

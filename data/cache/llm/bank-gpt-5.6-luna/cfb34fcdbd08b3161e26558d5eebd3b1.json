@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "actual results may differ materially",
+    "difficult to predict and outside our control",
+    "unable to fully quantify the impact",
+    "subject to interpretation and retroactive adjustment"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating and revenue disclosures, but is heavily weighted toward standardized forward-looking disclaimers and broad uncertainty language. Material risks include COVID-19-related disruption, labor shortages, higher staffing costs, constrained patient volumes, and potentially significant changes in payer estimates due to complex regulations and audits."
+}

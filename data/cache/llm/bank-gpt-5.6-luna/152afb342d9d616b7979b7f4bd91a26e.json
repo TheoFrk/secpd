@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "materially different financial condition",
+    "could differ significantly",
+    "limited nature of the market",
+    "more likely than not",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is detailed and substantially quantified, but relies on standard accounting-policy boilerplate and management judgment regarding fair values, loan-loss reserves, impairment, and deferred tax recoverability. Key risks include potentially material valuation differences, credit-loss estimation uncertainty, unrealized securities losses, and declining mortgage-related and other income."
+}

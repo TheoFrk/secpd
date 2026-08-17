@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future results could be impacted",
+    "substantially dependent on",
+    "certain risks associated",
+    "subject to certain exceptions and qualifications",
+    "not expected to have a material impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on debt, interest obligations, covenant thresholds, franchise footprint, and expected lease-accounting impacts. Risk disclosure is generally specific but relies on broad conditional language regarding licensee dependence, supply constraints, commodity prices, and future operating results; the high debt burden and concentration in the exclusive licensee are notable credit risks."
+}

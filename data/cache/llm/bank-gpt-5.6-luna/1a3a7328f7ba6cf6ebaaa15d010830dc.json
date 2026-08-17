@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "designed to meet customers' demand",
+    "we believe that",
+    "expect that",
+    "drive growth",
+    "creating new opportunities"
+  ],
+  "risk_summary": "The excerpt presents a confident growth and investment narrative, supported by substantial quantified segment revenue and capital expenditure data. However, it relies on promotional strategic language and forward-looking expectations regarding network leadership, 5G monetization, and investment returns, while the excerpt is incomplete and does not fully discuss downside risks."
+}

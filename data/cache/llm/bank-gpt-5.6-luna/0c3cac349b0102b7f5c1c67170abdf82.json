@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "duplicated forward-looking disclaimer",
+    "risks and uncertainties",
+    "actively pursuing acquisition strategy",
+    "potentially expand into broader medical markets",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and explains year-over-year drivers, but it reports continuing net losses, rising SG&A, increased borrowing-related interest expense, and reliance on acquisitions and external financing. The duplicated disclaimer and incomplete liquidity section reduce disclosure clarity, while the strategic outlook remains cautiously optimistic."
+}

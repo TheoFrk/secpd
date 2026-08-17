@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "cannot guarantee forecasts",
+    "not exhaustive risk factors",
+    "may seek / may consider",
+    "omitted causal detail after headings"
+  ],
+  "risk_summary": "The excerpt presents quantified revenue, margin, cash flow, and capital expenditure data with a generally constructive operating tone. However, extensive boilerplate disclaimers, broad uncertainty language, and numerous incomplete result explanations limit transparency regarding the specific drivers and risks."
+}

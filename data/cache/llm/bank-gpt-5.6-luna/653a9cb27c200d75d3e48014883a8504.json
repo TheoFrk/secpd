@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks include but are not limited to",
+    "no obligation to publicly update",
+    "adjusted EBITDA exclusions",
+    "considerable judgment and assumptions"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance with extensive quantitative segment and profitability data, but its risk discussion is broad, highly boilerplate, and heavily reliant on forward-looking statement disclaimers. Non-GAAP adjustments, impairment assumptions, and a long unprioritized list of potential risks may reduce comparability and obscure the relative severity of individual exposures."
+}

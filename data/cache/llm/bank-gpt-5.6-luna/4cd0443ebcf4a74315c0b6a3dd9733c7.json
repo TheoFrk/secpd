@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "favorable impacts were partially offset",
+    "primarily due to",
+    "Adjusted PTC better reflects underlying business performance",
+    "excluding the impact of FX",
+    "strategic decisions to dispose of or acquire"
+  ],
+  "risk_summary": "The disclosure presents a generally positive performance narrative with substantial quantified changes in earnings, margins, debt, and interest expense. Risk visibility is reduced by extensive non-GAAP emphasis, numerous offsetting adjustments, foreign-exchange effects, impairments, and omitted detail following several “driven by” statements. The business remains exposed to leverage, currency volatility, asset sales, tax changes, and project-specific impairments."
+}

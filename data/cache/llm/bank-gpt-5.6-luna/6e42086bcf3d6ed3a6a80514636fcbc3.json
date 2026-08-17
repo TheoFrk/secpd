@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.23,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "subjective and/or complex judgments",
+    "further and prolonged downturn",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking disclaimers and emphasizes uncertainty in loan-loss allowances, securities valuations, economic conditions, and borrower performance. It provides some quantified information, but relies substantially on judgment-based estimates and includes duplicated language plus a truncated passage that limits completeness."
+}

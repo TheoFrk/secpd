@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may materially differ",
+    "could be adversely impacted",
+    "cannot predict",
+    "number of variables",
+    "partially offset"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well quantified, but includes meaningful exposure to manufacturer incentive programs, leasing trends, the Takata recall, and execution risk from investments exceeding $500 million. The tone is moderately cautious rather than crisis-like, with risks balanced against stable operating performance and diversified revenue sources."
+}

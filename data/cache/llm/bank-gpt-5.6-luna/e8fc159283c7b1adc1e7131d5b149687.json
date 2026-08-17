@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "factors beyond its control",
+    "could differ under different assumptions",
+    "there can be no assurance",
+    "number of uncertainties inherent",
+    "non-GAAP cash costs"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, including quantified provisionally priced sales and reserve data, but relies on standard uncertainty disclaimers and complex accounting terminology. Commodity-price volatility, reserve estimation, impairment risk, foreign-exchange exposure, and capital-raising challenges are material risks. An apparent sensitivity inconsistency—$4 versus approximately $2,000 for a one-cent silver-price change—warrants verification."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "including, but not limited to",
+    "factors beyond our control",
+    "may not update or revise",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified operating and liquidity data, including strong revenue and cash growth, but is dominated by boilerplate forward-looking disclaimers and an extensive generic risk list. The company remains exposed to regulatory approval, product demand, supply-chain, litigation, competition, and operating cash-burn risks, despite improved working capital."
+}

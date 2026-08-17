@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "inherently uncertain",
+    "may not be sufficient",
+    "material adverse effect",
+    "qualitative factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on assets, loans, deposits, income, and ACL sensitivity, supporting relatively strong disclosure quality. Credit risk is material because ACL estimates depend on subjective macroeconomic assumptions, borrower performance, collateral values, and regulatory review, with potential for materially higher provisions and lower earnings. The tone is cautious and risk-aware rather than crisis-like."
+}

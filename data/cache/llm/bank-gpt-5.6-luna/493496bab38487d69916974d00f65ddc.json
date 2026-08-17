@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management deems adequate",
+    "could cause actual loan losses to differ materially",
+    "highly sensitive to changes",
+    "more likely than not",
+    "estimated fair value"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial data and detailed accounting-policy descriptions, supporting relatively transparent disclosure. Credit and valuation risks remain dependent on management assumptions, economic conditions, projected cash flows, and acquisition-related loan estimates, with potential for materially different outcomes. Overall tone is modestly positive due to higher earnings and assets, but qualified by significant estimation uncertainty."
+}

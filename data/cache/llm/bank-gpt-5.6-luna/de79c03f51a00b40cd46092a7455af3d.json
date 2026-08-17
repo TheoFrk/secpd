@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "no obligation to update",
+    "inherently uncertain",
+    "see risk factors elsewhere"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparently reports material declines in revenue, earnings, underwriting activity, and operating margin in 2022, while identifying market, inflation, interest-rate, and inventory risks. The opening and cross-referenced forward-looking disclaimer is boilerplate and somewhat dilutes risk specificity, but the overall disclosure is reasonably concrete rather than evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be fully predicted",
+    "cannot as yet be quantified",
+    "no assurance",
+    "meaningful decline in demand",
+    "risks outside of our control"
+  ],
+  "risk_summary": "The disclosure is detailed and includes quantified liquidity actions, revenue figures, and specific COVID-19 operational risks. However, the forward-looking impact assessment remains materially uncertain, with repeated reliance on non-quantifiable outcomes and standard no-assurance language; overall tone is cautious but not crisis-like."
+}

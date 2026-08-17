@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily caused by",
+    "approximately",
+    "we expect",
+    "if required",
+    "other corporate purposes"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear segment, revenue, expense, investment, debt, and cash-flow information. Risks include weather sensitivity, cost pressures, plant closings, substantial planned capital expenditures, and reliance on debt and internally generated funds. The overall tone is moderately confident, though some forward-looking estimates and broad causal explanations remain qualified."
+}

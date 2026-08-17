@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not an exhaustive list",
+    "materially different",
+    "inherently uncertain",
+    "do not undertake any obligation to update"
+  ],
+  "risk_summary": "The excerpt combines quantified operating and balance-sheet data with an extensive, largely standardized forward-looking disclaimer. Risk exposure is broad—including credit, liquidity, interest-rate, operational, cybersecurity, regulatory, and separation risks—while the overall tone remains mildly confident rather than crisis-like."
+}

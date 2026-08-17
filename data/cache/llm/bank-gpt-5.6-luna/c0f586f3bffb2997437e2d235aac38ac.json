@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.17,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "based on estimates",
+    "could be impacted",
+    "certain percentages",
+    "actual trends differ"
+  ],
+  "risk_summary": "The excerpt is predominantly positive and quantitatively detailed, reporting strong sales, earnings, cash flow, margins, and capital returns. Key disclosed risks relate to self-insured claims, actuarial estimates, vendor allowances, impairment assessments, and reliance on favorable operating trends, but these are presented as manageable and without evidence of current material deterioration."
+}

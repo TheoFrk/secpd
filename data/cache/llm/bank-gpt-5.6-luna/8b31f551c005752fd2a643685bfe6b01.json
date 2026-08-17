@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "many factors, including but not limited to",
+    "do not anticipate significant liquidity constraints",
+    "non-GAAP financial measures",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, showing revenue and profitability growth, no long-term debt, and adequate stated liquidity. Key risks include fuel-price volatility, substantial capital expenditure needs, carrier constraints, customer and economic demand sensitivity, and reliance on forward-looking assumptions. The tone is cautiously optimistic, though the excerpt contains standard legal disclaimers, non-GAAP measures, and an apparent truncation that limits completeness."
+}

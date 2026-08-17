@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "other risks and uncertainties",
+    "disclaim any obligation to update",
+    "not necessarily indicative of future results"
+  ],
+  "risk_summary": "The excerpt presents strong liquidity and operating cash flow, supported by subscription-based advance payments and quantified cash generation. However, it contains extensive boilerplate forward-looking disclaimers and a broad, largely non-quantified catalog of macroeconomic, competitive, regulatory, cybersecurity, geopolitical, and execution risks. The $300 million event-insurance settlement and reliance on continued customer retention and cash-flow strength are notable credit considerations."
+}

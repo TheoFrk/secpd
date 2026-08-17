@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "incorporated by reference",
+    "may not foot or cross foot",
+    "favorable change"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but reports broad-based deterioration in sales, same-restaurant performance, effective restaurant counts, net income, and Fuzzy's goodwill. Explanations rely periodically on attribution phrases and offsetting factors, while the long, technical presentation reduces accessibility without appearing overtly evasive."
+}

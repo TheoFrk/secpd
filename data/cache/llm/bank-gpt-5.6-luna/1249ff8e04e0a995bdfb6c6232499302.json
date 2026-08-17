@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "The Company believes",
+    "As market conditions permit",
+    "May also access",
+    "Supplemental industry measure",
+    "Not comparable to other REITs"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides meaningful detail on leasing, development spending, debt, liquidity, and occupancy, supporting a generally confident risk tone. Key risks include lease expirations, development execution, reliance on financing and equity markets, tenant expense recoverability, and non-GAAP performance measures with limited comparability."
+}

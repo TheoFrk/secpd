@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "among other things",
+    "could introduce renewed volatility",
+    "more-likely-than-not",
+    "truncated and duplicated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and earnings information, but includes repeated, malformed, and truncated passages that reduce clarity. Key risks include COVID-19-related demand weakness, lower margins, commodity-cost volatility, litigation and environmental obligations, and reliance on Kronos equity earnings. Management maintains a cautiously positive 2021 outlook, expecting higher net income despite identified cost pressures."
+}

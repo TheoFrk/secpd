@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "future events rarely develop exactly as forecast",
+    "may require additional financing",
+    "not expected to impact",
+    "can be readily transferred",
+    "currently evaluating the requirements"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, but highlights sustained net losses, customer and supplier concentration, limited cash, and potential financing needs. Management expresses conditional confidence in near-term liquidity while acknowledging that profitability and positive cash flow may not be achieved."
+}

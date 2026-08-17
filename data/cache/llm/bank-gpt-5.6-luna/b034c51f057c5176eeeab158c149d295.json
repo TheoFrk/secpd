@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and adjusted EBITDA emphasis",
+    "management believes disclosures provide greater transparency",
+    "reasonably likely material impacts",
+    "internally established allocation methodologies",
+    "substantially complete with cash payments remaining"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly positive, with substantial quantitative reporting of revenue, profitability, backlog, and restructuring obligations. Risk is moderated by reliance on non-GAAP metrics, complex segment and allocation descriptions, convertible debt maturing in 2026, and remaining restructuring cash outflows through 2025. The passage is partly boilerplate and promotional but provides meaningful quantified information."
+}

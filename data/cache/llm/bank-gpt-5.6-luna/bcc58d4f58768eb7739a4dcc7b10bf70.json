@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "including but not limited to",
+    "unobservable inputs",
+    "expected to",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial transaction, valuation, debt repayment, and recurring-revenue metrics, but relies on forward-looking language and non-GAAP measures. Key risks include macroeconomic volatility, tariffs, inflation, interest rates, foreign exchange, execution of divestitures, and valuation based on unobservable inputs. Overall tone is strategically confident but acknowledges meaningful external uncertainty."
+}

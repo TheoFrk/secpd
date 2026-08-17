@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "could cause actual results to differ materially",
+    "do not expect a significant increase",
+    "typical seasonal buildup"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standardized legal disclaimers and glossary definitions, limiting direct risk transparency. It acknowledges interest-rate, duration, liquidity, and client-cash uncertainties, but presents management’s mitigation plans in a generally measured and mildly confident tone. Quantitative context is present, though the excerpt omits the detailed risk-factor list and portions of the surrounding analysis."
+}

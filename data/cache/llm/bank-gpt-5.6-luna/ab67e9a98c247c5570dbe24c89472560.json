@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "expected to remain consistent",
+    "primarily due to",
+    "non-GAAP financial measures",
+    "may differ materially"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with favorable revenue, operating income, cash generation, and lower interest expense. Key risks include reduced diluted EPS, ongoing litigation-related costs, corporate expense increases, debt service obligations, and reliance on forward-looking demand and pricing assumptions. Non-GAAP measures and incorporation by reference modestly limit transparency but are accompanied by standard cautionary language."
+}

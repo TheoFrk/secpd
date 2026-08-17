@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "future cash flow projections",
+    "reasonable expectations",
+    "could have a negative effect",
+    "risks and uncertainties",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative assumptions, discount rates, sensitivity analysis, and pension metrics. Risk tone is cautiously stable, emphasizing no goodwill impairment while acknowledging substantial estimation uncertainty and potential sensitivity to economic downturns, acquisitions, taxes, and geopolitical events. The forward-looking disclaimer is extensive and largely boilerplate, limiting reliance on projected outcomes."
+}

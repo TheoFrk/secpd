@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and numerous risks",
+    "may materially and adversely affect",
+    "management estimates and valuation allowance",
+    "believe this is a fertile market",
+    "anticipated customer preferences"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, reporting segment-level revenue declines, order trends, inventory balances, allowances, and borrowing activity. Risk tone is mildly constructive due to stated profitability, positive cash flow, and expected repayment of short-term borrowings, but operating pressure is evident in declining home-show, direct, Internet, and transportation revenues. Key judgment areas include inventory valuation, demand forecasting, supplier minimums, and reliance on recruiting and retaining consultants."
+}

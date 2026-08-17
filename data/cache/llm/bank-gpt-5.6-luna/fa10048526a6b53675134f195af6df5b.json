@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may continue to negatively impact",
+    "including, but not limited to",
+    "among other things",
+    "management believes may",
+    "estimates and assumptions may not prove correct"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative information on revenue growth, net income decline, acquisition contributions, and PPP loan forgiveness, but relies heavily on boilerplate risk-factor language and extensive business description. Key risks include pandemic-related supply chain and labor pressures, customer demand uncertainty, acquisition integration, and reliance on management estimates. Overall tone is operationally stable but mildly negative due to earnings deterioration and ongoing uncertainty."
+}

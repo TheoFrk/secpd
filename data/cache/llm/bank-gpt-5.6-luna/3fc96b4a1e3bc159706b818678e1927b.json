@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "significant amount of judgment",
+    "future performance not guaranteed",
+    "various factors",
+    "non-GAAP measures may differ"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, expense, earnings, margins, and acquisition-related developments. Risk exposure is primarily presented through accounting estimates, goodwill and securities impairment judgments, loan-loss provisioning, compliance costs, and pension assumptions. Overall tone is positive and confident, though substantial boilerplate and technical complexity qualify the outlook."
+}

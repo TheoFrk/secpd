@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "significant known and unknown risks",
+    "subject to various limitations",
+    "dependent on model assumptions",
+    "disclaim obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily legalistic and relies on broad forward-looking disclaimers, model assumptions, and estimation caveats that limit predictability. It does provide meaningful quantitative detail on loan-loss methodology, fair-value inputs, hedging, and brokered deposits, including identifiable funding and interest-rate risks. Overall tone is cautious and compliance-oriented rather than crisis-like."
+}

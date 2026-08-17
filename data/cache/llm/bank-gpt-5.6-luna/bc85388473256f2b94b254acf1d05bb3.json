@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant risks and uncertainties",
+    "could cause actual results to differ materially",
+    "but are not limited to",
+    "if the economic recovery wavers or reverses",
+    "certain estimates and assumptions must be made"
+  ],
+  "risk_summary": "The disclosure presents meaningful credit, economic, real estate, unemployment, and interest-rate risks, but also reports improving real estate values and lower nonperforming assets. Risk discussion is partly boilerplate and relies on scenario-based qualifiers, although the allowance methodology, valuation thresholds, and historical rate/volume impacts are described with useful specificity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot predict with accuracy",
+    "at least $400 million",
+    "may recognize additional impairment losses",
+    "large tenant concentration"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on tenant concentration, occupancy, debt maturity, fixed-rate debt, planned asset sales, and impairment losses. Risk is elevated by dependence on government and major tenants, increased debt, reliance on property dispositions, potential further impairments, and exposure to defense-budget uncertainty, although management describes improving leasing conditions and liquidity timing."
+}

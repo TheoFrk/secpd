@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous assumptions and uncertainties",
+    "for the foreseeable future",
+    "cannot assure additional funding",
+    "undisclosed solid tumor indication",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on cash, securities, historical spending, and projected 2012 expenditures, but relies heavily on standard uncertainty disclaimers and management assumptions. Liquidity risk is significant because projected expenditures exceed available cash and securities, additional funding is required for long-term plans, and no third-party financing commitments exist. Clinical development, regulatory, manufacturing, and product-commercialization risks further weaken the overall risk profile."
+}

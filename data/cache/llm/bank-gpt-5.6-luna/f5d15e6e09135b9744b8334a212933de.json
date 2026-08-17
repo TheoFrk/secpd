@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual amounts could differ from estimates",
+    "when realization ... is probable",
+    "unapproved change orders",
+    "claims recognized when agreement is reached",
+    "truncated disclosure text"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified receivables, retainage, tax allowances, and cash flows, but profitability remains sensitive to construction-cost estimates, change orders, claims, delays, and contract settlements. Negative operating cash flow in 2014 and 2013, adverse project-margin revisions, and a $28.2 million deferred-tax valuation allowance indicate elevated execution and earnings-quality risk."
+}

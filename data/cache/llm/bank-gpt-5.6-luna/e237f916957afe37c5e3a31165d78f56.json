@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "continued revenue decline",
+    "management expects",
+    "believes demand remains strong",
+    "partially offset",
+    "special items/non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, but recurring reliance on management expectations, broad strategic language, and non-GAAP exclusions reduces transparency around underlying performance. Key risks include declining DeVry University and Carrington enrollment, increased competition, restructuring and impairment charges, and likely further campus closures. Growth at Chamberlain and international operations partially offsets these pressures, producing a moderately negative but not crisis-like risk tone."
+}

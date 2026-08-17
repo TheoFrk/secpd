@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results may differ materially",
+    "varying degrees of certainty",
+    "initial booking estimates not updated",
+    "not practicable to reliably determine"
+  ],
+  "risk_summary": "The disclosure is broadly detailed and well quantified, with clear revenue, margin, cash-return, segment, and booking metrics. Risk is moderate: operating income and net income declined, margins compressed, the Tools segment reported an operating loss, and bookings depend on uncertain volume and utilization estimates. The tone remains generally constructive, emphasizing growth initiatives and strong cash generation while relying on standard forward-looking disclaimers."
+}

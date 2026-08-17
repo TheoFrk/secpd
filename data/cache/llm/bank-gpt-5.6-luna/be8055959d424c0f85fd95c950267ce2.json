@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "factors that may affect future financial performance",
+    "somewhat offset by",
+    "largely dependent on",
+    "out of the Company’s control",
+    "flexible structure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but highlights material sensitivity to market depreciation, redemptions, commodity prices, and investor sentiment. Assets under management fell 36% year over year, while investment income declined due to unrealized trading losses and recognized impairments. The tone is risk-aware and analytical rather than crisis-like, with limited but present reliance on general market-risk language."
+}

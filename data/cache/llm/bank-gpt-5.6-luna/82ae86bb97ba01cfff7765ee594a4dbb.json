@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.05,
+  "redundancy_score": 0.1,
+  "complexity_score": 0.25,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "section heading only",
+    "no quantitative disclosure"
+  ],
+  "risk_summary": "The excerpt consists solely of an MD&A heading and document-navigation text. It provides no information about financial condition, operating results, risks, or management’s outlook."
+}

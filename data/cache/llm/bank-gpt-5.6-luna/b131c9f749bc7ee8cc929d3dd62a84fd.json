@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP adjustments",
+    "potential additional consideration",
+    "if economic conditions continue to improve",
+    "truncated market discussion"
+  ],
+  "risk_summary": "The excerpt is generally constructive and quantitatively detailed, but relies on standard forward-looking caveats and extensive non-GAAP framing. Key risks include substantial acquisition financing, contingent consideration, dependence on insurance-market conditions, COVID-19 recovery assumptions, and the loss of clean-energy tax-credit earnings."
+}

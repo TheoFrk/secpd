@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to numerous risks and uncertainties",
+    "as needed",
+    "no assurance",
+    "substantial doubt regarding going concern",
+    "may be necessary to discontinue operations"
+  ],
+  "risk_summary": "The company has minimal revenue, substantial operating cash burn, and relies on additional equity, debt, grants, licensing, or other financing to continue operations. Management explicitly acknowledges substantial doubt about going-concern status and warns that insufficient financing could delay development or force cessation of operations. Quantitative liquidity and cash-flow disclosures improve transparency, but the funding outlook and timing remain uncertain."
+}

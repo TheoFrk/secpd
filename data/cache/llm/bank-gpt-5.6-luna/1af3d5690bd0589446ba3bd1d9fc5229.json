@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "we believe",
+    "we anticipate",
+    "forward-looking statements",
+    "leading-edge technology"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and liquidity profile, supported by quantified growth, profitability, cash, and zero debt. Risk disclosure is comparatively limited and relies on standard cautionary language, management beliefs, and non-GAAP performance framing, with interest-rate sensitivity identified as the principal explicit pressure."
+}

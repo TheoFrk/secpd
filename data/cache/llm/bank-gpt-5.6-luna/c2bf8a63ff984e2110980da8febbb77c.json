@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimer",
+    "may adversely affect future results",
+    "expects challenging macroeconomic conditions",
+    "believes sufficient financial resources",
+    "reliance on expected operating results"
+  ],
+  "risk_summary": "The disclosure combines quantified revenue and financing data with extensive strategic boilerplate and forward-looking caveats. Key risks include heightened competition, moderate margins, consumer and technology shifts, increased capital requirements, and liquidity dependence on expected operating results and lender support. Management expresses measured confidence, but the outlook is materially conditional."
+}

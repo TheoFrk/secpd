@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "excluding strategic gains and charges",
+    "constant currency basis",
+    "underlying business trends",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively transparent, with detailed reporting of COVID-19-driven declines, margin compression, and reduced free cash flow. However, extensive reliance on non-GAAP measures and exclusions may soften the presentation of underlying performance, while the strategic discussion uses forward-looking and promotional language."
+}

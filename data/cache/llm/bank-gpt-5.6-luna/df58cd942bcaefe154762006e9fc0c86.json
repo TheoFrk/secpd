@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties beyond our control",
+    "no obligation to update or revise",
+    "probable future recovery through rates",
+    "actual results may differ from estimates"
+  ],
+  "risk_summary": "The excerpt is heavily standardized and cautionary, relying on broad forward-looking-disclosure language and extensive lists of risks that are difficult to predict or control. It identifies material exposures including credit-market access, regulatory outcomes, commodity and interest-rate volatility, environmental obligations, climate risk, and accounting estimates, but provides limited quantification in this portion. The tone is cautious rather than crisis-like, with regulated cost recovery and pass-through mechanisms presented as mitigating factors."
+}

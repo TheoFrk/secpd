@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted earnings",
+    "non-qualifying hedge activity",
+    "deemed capital structure",
+    "not necessarily indicative of future performance",
+    "guarantee arrangements"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear discussion of segment performance, funding sources, debt facilities, and covenant compliance. Complexity is high due to extensive financial terminology and nested explanations, while adjusted earnings and hedge-related exclusions could complicate interpretation of underlying performance. The overall tone is moderately positive, though exposure to market volatility, leverage, guarantees, and financing requirements remains evident."
+}

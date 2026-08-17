@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-U.S. GAAP exclusions",
+    "current expectations",
+    "not indicative of future performance",
+    "not representative of ongoing operations",
+    "not expected to have a material impact"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating and liquidity profile, with quantified sales and earnings growth, substantial cash, available credit capacity, and covenant compliance. Disclosure is technically detailed but relies on adjusted measures, exclusions, and standard forward-looking caveats that may make underlying performance less transparent. Identified risks include restructuring charges, currency devaluation, tax benefits, acquisition contingencies, and uncertainty around pension and tax obligations."
+}

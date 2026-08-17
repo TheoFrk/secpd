@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.3,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "well positioned",
+    "outside of our control",
+    "appropriate contingency plans",
+    "inherent uncertainty"
+  ],
+  "risk_summary": "The disclosure presents a generally confident outlook supported by quantified defense spending, market size, revenue concentration, debt, and liquidity information. Key risks include continuing resolutions, procurement delays and protests, pricing pressure, security-clearance constraints, contract-estimation uncertainty, and reliance on future cash flows to service debt. The extensive accounting and contractual language is technically dense and partly boilerplate, with some forward-looking assertions that are not fully quantified."
+}

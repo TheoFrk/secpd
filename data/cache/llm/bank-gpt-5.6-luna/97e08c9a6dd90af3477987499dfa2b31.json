@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "as timing becomes certain",
+    "opportunity for additional margin",
+    "partially offset",
+    "where applicable"
+  ],
+  "risk_summary": "The excerpt is generally precise and strongly quantified, with project-specific margin forecasts and explanations of year-over-year changes. Risks include execution and timing uncertainty for projects, weather-sensitive demand, regulatory dependence, acquisition timing, and reliance on projected customer commitments."
+}

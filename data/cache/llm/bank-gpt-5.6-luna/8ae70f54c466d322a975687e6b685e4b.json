@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "due mainly to: partially offset by:",
+    "organic growth",
+    "highly inflationary accounting",
+    "unfavorable currency exchange rates",
+    "amounts may not add due to rounding"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year revenue and operating-profit detail, but key explanations are incomplete in places and the text appears duplicated or truncated. Results are materially exposed to currency devaluation, inflation, volume pressure, security and insurance costs, and operating declines in several markets, despite improved reported and non-GAAP earnings."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors that may affect results",
+    "variety of factors",
+    "elsewhere in this report",
+    "no long-term supply contracts",
+    "single source or limited number of suppliers"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and specific, but relies on standard forward-looking disclaimers and cross-references for certain risks. Key exposures include customer and market concentration in mobile applications, declining PC revenue, reliance on outsourced and potentially single-source suppliers, and acquisition and financing obligations."
+}

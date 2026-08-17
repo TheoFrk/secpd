@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various other assumptions",
+    "if economic conditions were to deteriorate significantly",
+    "reasonably certain",
+    "management believes adequate"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, growth-oriented outlook supported by substantial quantitative disclosures on sales, receivables, inventories, capital expenditures, and acquisitions. Key risks relate to management estimates, impairment testing, customer credit exposure, incentive accruals, and potentially understated bad-debt allowances, although these risks are described in standard qualified language rather than as immediate distress."
+}

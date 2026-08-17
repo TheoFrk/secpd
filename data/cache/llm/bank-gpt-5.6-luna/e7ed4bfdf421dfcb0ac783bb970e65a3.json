@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "emphasis on adjusted earnings",
+    "excluding one-time charges",
+    "favorable resolutions for tax issues",
+    "repeated identical-sales metrics",
+    "pension contribution uncertainty"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial operational and financial detail, supporting relatively low vagueness. Risk tone is moderately positive, but recurring emphasis on adjusted results excluding significant pension and impairment charges may present performance more favorably, while pension funding requirements remain uncertain."
+}

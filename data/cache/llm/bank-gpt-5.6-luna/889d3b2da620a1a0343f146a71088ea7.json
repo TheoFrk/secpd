@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to persist",
+    "we do not anticipate any liquidity issues",
+    "ultimate strategy ... unknown",
+    "pending an increase in nat-gas prices",
+    "could be adversely affected"
+  ],
+  "risk_summary": "The disclosure quantifies cash flow, debt reduction, capital expenditures, reserves, and reimbursement claims, but relies substantially on forecasts regarding coal demand, commodity prices, export opportunities, and liquidity. Key risks include weak energy markets, contract negotiations, reserve-estimation uncertainty, tax examinations, uninsured mining equipment, and dependence on successful project development."
+}

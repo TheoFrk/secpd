@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "exploratory discussions",
+    "remains uncertain",
+    "does not necessarily correspond",
+    "applicable authoritative accounting literature",
+    "principally includes"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, with extensive segment and product detail but limited direct discussion of financial risks or forward-looking exposures. The cocoa-sale review is explicitly uncertain, while commodity-price, foreign-exchange, impairment, and investment risks are referenced indirectly rather than analyzed in depth."
+}

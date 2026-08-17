@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "estimates and assumptions",
+    "other methods considered reasonable",
+    "no assurance can be given",
+    "future claims growth"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including insurance retentions, claims accruals, reimbursements, revenue growth, and cash flows. Key risks arise from actuarial claims estimates, tax contingencies, asset impairment judgments, and uncertainty over future dividends, but the overall operating and liquidity tone is moderately positive."
+}

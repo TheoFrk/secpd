@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "substantial marketable securities holdings",
+    "expect these to be sold soon",
+    "when the opportunity arises",
+    "subjective estimates and approximations",
+    "future known or anticipated events"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with strong operating and liquidity metrics. However, reported profitability is heavily influenced by volatile unrealized investment gains, while inventory reserves and other estimates involve management judgment. Related-party banking and property transactions are disclosed but represent governance and concentration considerations."
+}

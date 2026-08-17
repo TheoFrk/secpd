@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "no assurance",
+    "may have a material adverse effect",
+    "difficult to forecast",
+    "outside the Company’s control"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative information on cash, liabilities, revenue growth, expenses, and debt-free status, supporting a generally stable near-term liquidity profile. However, future performance depends on numerous difficult-to-forecast variables, discretionary spending plans, subscriber retention, competitive conditions, and execution of expansion initiatives. Extensive boilerplate risk factors and broad caveats dilute the specificity of the forward-looking assessment."
+}

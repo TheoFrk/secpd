@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management judgments and estimates",
+    "generally cancelable",
+    "not expected to materially impact",
+    "best estimate of selling price",
+    "primarily relates to intangible assets"
+  ],
+  "risk_summary": "The disclosure is technically detailed and identifies key estimation risks, particularly revenue recognition, bundled arrangements, goodwill valuation, and impairment testing. However, it relies on management judgments, qualitative assertions, and repeated immateriality expectations without quantified sensitivity analyses. The overall tone is mildly confident and promotional, with no indication of an immediate crisis."
+}

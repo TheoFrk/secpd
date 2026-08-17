@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not exhaustive",
+    "beyond our control",
+    "disclaim responsibility to update"
+  ],
+  "risk_summary": "The excerpt contains useful quantified portfolio, acquisition, revenue, occupancy, and expense information, but is dominated by repetitive forward-looking disclaimers and broad, non-quantified risk caveats. Related-party arrangements, external management dependence, variable-rate construction financing, and rapidly changing market conditions represent notable risk exposures."
+}

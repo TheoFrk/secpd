@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "clinical-stage therapeutic device",
+    "potential total payments",
+    "successful outcomes required",
+    "certain patent applications and/or other patents",
+    "substantially different"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified regarding contracts, expenses, debt modifications, and accounting treatment, with limited evasive language. Credit risk remains elevated because commercialization depends on successful clinical trials and regulatory approvals, while government contracts have concluded, operating expenses exceed revenue indications, and debt has been modified with recorded extinguishment losses."
+}

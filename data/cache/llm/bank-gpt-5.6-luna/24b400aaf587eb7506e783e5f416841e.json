@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot assure",
+    "actual results may differ materially",
+    "uncertainty in defense spending",
+    "estimates and judgments"
+  ],
+  "risk_summary": "The disclosure is reasonably quantitative regarding revenue, margins, losses, customer concentration, and segment performance, but includes substantial boilerplate forward-looking disclaimers and uncertainty language. Risk tone is moderately negative because revenue declined, the company reported significant losses, service margins deteriorated sharply, and customer and government-spending dependencies remain material. Accounting estimates for receivables, inventory, software costs, and goodwill introduce additional potential downside if conditions worsen."
+}

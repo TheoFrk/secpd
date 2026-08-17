@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "primarily due to",
+    "no assurance",
+    "not significant relative to"
+  ],
+  "risk_summary": "The disclosure is generally quantified and segment-specific, but includes standard forward-looking disclaimers and some causal explanations framed with hedging language. Revenue increased 6%, while net income declined 10% and Mobile Modular and Adler Tanks experienced pretax income declines, indicating mixed operating performance. Related-party purchases and services introduce governance and concentration considerations."
+}

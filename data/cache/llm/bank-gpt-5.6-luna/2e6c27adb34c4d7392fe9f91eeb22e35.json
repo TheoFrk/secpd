@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance private placement succeeds",
+    "fundamental decisions if merger fails",
+    "likely delisted from Nasdaq",
+    "work-out arrangements with creditors"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified but presents severe liquidity and execution risks, including limited cash, no borrowing availability, required additional capital, and dependence on the Firefly merger and private placement. Failure to close the merger could result in Nasdaq delisting, inability to satisfy liabilities, creditor workouts, or a sale of the operating subsidiary. The excerpt also contains substantial legal and accounting boilerplate, including impairment-testing language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial operating losses",
+    "cannot predict whether or when",
+    "potential commercialization",
+    "subject to regulatory approval",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, reporting a $1.0 billion cumulative loss, rising operating expenses, substantial expected future losses, and dependence on regulatory approvals and collaborators. Risk language is extensive but largely standard for a development-stage biopharmaceutical company, with uncertainty around clinical success, commercialization, reimbursement, and liquidity impacts."
+}

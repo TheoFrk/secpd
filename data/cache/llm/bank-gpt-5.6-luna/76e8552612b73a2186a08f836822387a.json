@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impact cannot be fully predicted",
+    "remains uncertain and cannot as yet be quantified",
+    "no assurance",
+    "may not yield desired results",
+    "outside of our control"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative information on revenue, acquisition financing, cash flows, and product-line performance, but uses recurring forward-looking caveats around COVID-19, growth execution, customer concentration, and product development. The overall tone is operationally steady but balanced by meaningful uncertainty related to pandemic effects, acquisition integration, demand volatility, and leverage."
+}

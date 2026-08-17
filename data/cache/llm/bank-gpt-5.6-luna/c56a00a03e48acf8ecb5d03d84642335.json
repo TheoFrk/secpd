@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "expected/projected outcomes",
+    "non-GAAP adjusted earnings",
+    "long-term growth assumptions",
+    "offsetting cost assumptions"
+  ],
+  "risk_summary": "The excerpt is relatively precise and heavily quantified, but relies on ambitious forward projections for store expansion, margin improvement, sales growth, and deleveraging. Near-term risk is elevated because fiscal 2013 is expected to be near breakeven with negative free cash flow and substantial capital expenditures, despite management's confident transformation narrative."
+}

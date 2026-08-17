@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance / no obligation to update",
+    "substantial amounts of capital",
+    "no guarantee of success",
+    "past-due notes payable",
+    "one-time charge"
+  ],
+  "risk_summary": "The company reports severe liquidity and solvency risk, including zero cash, negative operating cash flow, substantial net losses, high accrued interest, and past-due or demand debt. Its ability to continue operations and execute its acquisition strategy depends on raising additional capital and generating uncertain future revenue. The extensive forward-looking disclaimer language is highly boilerplate and limits accountability for projected outcomes."
+}

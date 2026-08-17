@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "based primarily upon historical experience",
+    "management’s expectations of future credit losses",
+    "not included on the Company’s balance sheet",
+    "estimated fair value of liability",
+    "subject to risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed accounting policies, operating metrics, loss provisions, margins, and discontinued-operations results. Key risks relate to credit-loss estimation, off-balance-sheet CSO exposures, reliance on historical performance, regulatory-driven closures, and currency and consumer-traffic pressures. The tone is largely factual and balanced, with modestly negative risk implications rather than crisis language."
+}

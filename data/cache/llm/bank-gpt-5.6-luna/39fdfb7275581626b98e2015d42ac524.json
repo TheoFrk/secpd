@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous uncertainties, risks, and changes",
+    "without limitation",
+    "other factors not currently anticipated",
+    "no assurance that future results will meet expectations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and credit metrics, including earnings, margins, interest expense, loan growth, allowances, and nonperforming-loan coverage. Risk tone is mixed: performance improved, but rising funding costs compressed margins and the extensive forward-looking disclaimer relies on broad, non-specific risk language. Credit-risk disclosure is moderately informative, though the excerpt is truncated and omits some referenced detail."
+}

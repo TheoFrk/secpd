@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "historical results may not indicate future trends",
+    "significant judgment and estimates",
+    "estimated in good faith",
+    "other pertinent factors",
+    "based on new or additional information"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, credit losses, capital, liquidity, and growth drivers. Risk is moderated by higher provisions and net charge-offs, acquisition-related growth, and reliance on subjective fair-value, credit-loss, and tax estimates. Overall tone is confident and performance-oriented, with standard forward-looking and accounting-estimation caveats."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.55,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects to continue to evaluate",
+    "partially offset",
+    "subject to impairment tests",
+    "significant estimates and judgments",
+    "planned based on the assumption"
+  ],
+  "risk_summary": "The disclosure is relatively precise and quantitatively detailed, but includes substantial risk factors: elevated inventory, promotional pressure, margin compression, operating cash outflow, impairment charges, foreign-exchange headwinds, and variable-rate debt costs. Management presents these issues in a generally balanced tone, though some forward-looking statements and estimate-dependent accounting areas introduce uncertainty."
+}

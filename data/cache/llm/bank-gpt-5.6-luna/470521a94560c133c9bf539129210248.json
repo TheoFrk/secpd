@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may differ materially",
+    "disclaim any obligation to update",
+    "more likely than not",
+    "other miscellaneous income"
+  ],
+  "risk_summary": "The excerpt is relatively quantitative and provides detailed year-over-year operating metrics, but includes extensive standard forward-looking disclaimers and tax-realization contingencies. Key risks include customer concentration, European product withdrawals related to regulatory requirements, inventory write-downs, reliance on successful J-Plasma commercialization, and uncertainty around deferred tax assets."
+}

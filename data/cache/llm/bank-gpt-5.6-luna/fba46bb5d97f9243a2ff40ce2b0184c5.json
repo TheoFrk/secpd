@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "including but not limited to",
+    "factors outside of our control",
+    "no assurance of financing",
+    "discretion and judgment on revenue timing"
+  ],
+  "risk_summary": "The excerpt presents quantified liquidity, cash flow, restructuring, and revenue information, but includes substantial standard forward-looking disclaimers and broad macroeconomic caveats. Risk tone is mixed: semiconductor demand weakness, China trade restrictions, inflation, and restructuring are acknowledged, while management expresses confidence in liquidity and long-term secular growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgments, estimates and assumptions",
+    "believes it will be able to fully recover",
+    "not all companies may use the same calculation method",
+    "could be significant",
+    "qualitative factors were reduced"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear year-over-year operating and balance-sheet metrics. Risk tone is mildly positive due to earnings growth, deposit growth, reduced loan-loss provisions, and resolution of COVID-modified loans, but margin compression, lower loan balances, and potential impairment exposure remain relevant risks. Some critical accounting judgments and non-GAAP comparability limitations are described in broad terms."
+}

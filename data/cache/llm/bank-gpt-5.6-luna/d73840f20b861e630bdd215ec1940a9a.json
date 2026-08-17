@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "cannot assure completion",
+    "approximately/expected ranges",
+    "allocation methodologies may not be indicative",
+    "subject to specified exceptions"
+  ],
+  "risk_summary": "The excerpt provides several quantified estimates for separation, standalone, related-party, and financing costs, but relies heavily on forward-looking assumptions and ranges. Key risks include uncertainty over completion and terms of the spin-off, potentially higher standalone expenses, dependence on Sears Holdings services, related-party arrangements, and restrictive secured-credit-facility covenants."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "increasing revenues and operating income in the future",
+    "higher growth products and services",
+    "continuing initiatives to reduce costs",
+    "partially offset by",
+    "transformational opportunities"
+  ],
+  "risk_summary": "The excerpt is broadly optimistic and provides meaningful operating detail, including customer counts, revenue mix, acquisitions, and quantified cost and contract impacts. However, it relies heavily on strategic boilerplate and forward-looking claims while acknowledging structural declines in personal check usage, pricing pressure, and execution dependence on new services and acquisitions."
+}

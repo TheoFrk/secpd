@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance",
+    "for the foreseeable future",
+    "non-GAAP adjusted EBITDA",
+    "critical accounting section truncated"
+  ],
+  "risk_summary": "The excerpt indicates severe operating weakness, including de minimis sales, recurring net losses, negative working capital, limited cash, and continued reliance on external financing. Liquidity depends on access to a $5 million revolving facility at 12% interest, while manufacturing, patent commercialization, supply-chain, and legal risks remain material. Extensive boilerplate disclaimers and emphasis on non-GAAP measures somewhat dilute the presentation of these risks."
+}

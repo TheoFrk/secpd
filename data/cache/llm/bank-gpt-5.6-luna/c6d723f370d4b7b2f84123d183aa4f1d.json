@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "comparisons omitted from this Form 10-K",
+    "primarily due to",
+    "may change in the future",
+    "risk-based pricing jargon"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, reporting revenue, earnings, investment income, loss development, and portfolio metrics with year-over-year comparisons. Risk is framed as manageable given favorable housing fundamentals and reserve development, but material sensitivities remain around interest rates, home prices, delinquencies, competition, pricing, and GSE activity. Boilerplate disclaimers and extensive technical terminology modestly reduce accessibility without indicating crisis-level stress."
+}

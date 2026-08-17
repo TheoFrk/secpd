@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "long-dated collectibility uncertainty",
+    "future amounts not presently known",
+    "does not anticipate collectibility",
+    "environmental remediation obligations",
+    "SEC staff did not object"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, but highlights substantial long-term collectibility uncertainty for straight-line lease receivables totaling approximately $81.2 million and environmental remediation obligations. Risk tone is mildly negative, although management presents the accounting treatment and liquidity position with confidence."
+}

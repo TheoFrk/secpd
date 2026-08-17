@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual sales may materially differ",
+    "could materially adversely impact",
+    "impacted by a number of variables",
+    "we believe",
+    "other associated closing costs"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but includes material uncertainty around COVID-19 effects, inventory shortages, economic conditions, and execution of the planned store expansion. Results benefited from favorable used-vehicle pricing and supply dynamics, while goodwill impairments, business closure costs, and lower parts and service performance indicate meaningful operating risks."
+}

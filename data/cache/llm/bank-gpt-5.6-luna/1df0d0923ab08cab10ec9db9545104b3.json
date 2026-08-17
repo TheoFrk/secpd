@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "various other assumptions",
+    "significant judgment exists",
+    "may have a material adverse impact",
+    "cannot be precisely quantified"
+  ],
+  "risk_summary": "The excerpt provides useful quantified earnings and book-value information but emphasizes substantial uncertainty in insurance reserves, investment valuations, reinsurance collectibility, litigation, and long-duration policy assumptions. Risk disclosure is detailed yet relies heavily on management judgment, implicit assumptions, and broad adverse-impact qualifiers, with the text ending mid-discussion."
+}

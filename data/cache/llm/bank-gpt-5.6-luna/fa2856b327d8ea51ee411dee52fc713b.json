@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future operating results",
+    "may operate at negative or marginally positive operating margins",
+    "inherent volatility of the crush spread",
+    "no assurances of successful investments",
+    "subject to significant fluctuations"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but emphasizes substantial exposure to volatile corn, ethanol, energy, and coproduct prices. Profitability improved and debt was repaid, yet management explicitly cautions that future results may differ materially and production could be reduced or halted if crush spreads deteriorate."
+}

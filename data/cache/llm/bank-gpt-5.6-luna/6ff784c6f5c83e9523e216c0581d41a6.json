@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.49,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot be predicted at this time",
+    "if the pandemic continues",
+    "variable demand in future periods",
+    "mainly due to",
+    "we do not currently anticipate a material impact"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed revenue, volume, market-share and pipeline disclosures. Risk tone is mixed: declining consolidated and North American revenues, generic competition, pandemic-related disruptions and uncertain future demand are offset by stable supply operations and growth in AUSTEDO and AJOVY. Forward-looking pandemic commentary relies on standard uncertainty qualifiers and provides limited scenario quantification."
+}

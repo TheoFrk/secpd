@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no way of determining future sales",
+    "inherent risks out of our control",
+    "almost entirely due to",
+    "expect expenses to remain approximately the same",
+    "forward-looking statements and no duty to update"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, but operating performance is heavily dependent on a third-party Pooph customer and its marketing execution, creating significant revenue concentration and forecasting uncertainty. BLEST continues to generate operating losses while funding internal technology development, and future profitability is not assured despite strong consolidated revenue growth."
+}

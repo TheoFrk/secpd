@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "variety of factors could cause",
+    "does not undertake any obligation",
+    "contingently liable",
+    "related-party ownership overlap"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, with clear year-over-year cash flow, investment, and tax figures. Key risk areas include extensive related-party relationships, guarantees and contingent liabilities, investments without control, and substantial investing cash outflows. The tone is largely neutral and compliance-oriented, with mildly positive operating liquidity commentary offset by standard uncertainty disclaimers."
+}

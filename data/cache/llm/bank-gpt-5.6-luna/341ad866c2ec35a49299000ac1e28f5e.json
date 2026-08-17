@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "challenging environment",
+    "expected to be challenging",
+    "we believe we are well positioned",
+    "continued uncertainty",
+    "if necessary, we will utilize"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified information on currency effects, debt, segment performance, and cost changes, limiting overall vagueness. Risk tone is mildly negative because of currency pressure, weak commodities, market contraction, and infrastructure uncertainty, although management remains confident in its positioning and liquidity."
+}

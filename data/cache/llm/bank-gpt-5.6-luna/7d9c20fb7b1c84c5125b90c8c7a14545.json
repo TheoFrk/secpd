@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may differ materially",
+    "cannot be assured",
+    "more likely than not",
+    "general corporate purposes"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, financing, revenue, margin, and customer-concentration information, supporting relatively strong disclosure specificity. Risk tone is mildly positive due to sales growth and commercialization efforts, but boilerplate disclaimers, tax-benefit uncertainty, discontinued relationships, and reliance on major customers indicate material underlying risks."
+}

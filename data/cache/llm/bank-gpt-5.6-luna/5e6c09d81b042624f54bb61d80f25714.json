@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results could differ materially",
+    "many of which are beyond our control",
+    "non-GAAP financial information",
+    "other items that do not necessarily correspond"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, including revenue, margins, pawn-loan balances, expenses, debt effects, and segment performance. Risk tone is cautiously positive because operating metrics improved, but extensive standard forward-looking disclaimers, non-GAAP presentation, leverage-related costs, impairment exposure, regulatory risks, and liquidity or dilution considerations temper confidence."
+}

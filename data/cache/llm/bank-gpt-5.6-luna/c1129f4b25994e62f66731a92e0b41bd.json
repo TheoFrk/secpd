@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking risks and uncertainties",
+    "significantly lower than previously expected",
+    "primarily driven by",
+    "non-GAAP financial measures",
+    "including without limitation"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but contains substantial standard MD&A, non-GAAP, and forward-looking-risk boilerplate. Key concerns include declining residential sales, elevated inventory and backlog, Intimidator underperformance and impairment, and exposure to consumer demand and financing conditions, partly offset by strong stated liquidity and cost-saving initiatives."
+}

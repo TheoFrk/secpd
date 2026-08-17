@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future investments cannot be predicted",
+    "subject to trading restrictions",
+    "if and when",
+    "ratings subject to change",
+    "actual results could differ"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on liquidity, debt maturities, pledged or restricted assets, market-value volatility, and contingent exposure. Key risks include below-investment-grade debt ratings, reliance on marketable securities and asset dispositions, restrictions on liquidity, and a $457.5 million exposure to Berkadia facility losses. Overall tone is cautiously neutral rather than crisis-like, supported by significant reported liquidity."
+}

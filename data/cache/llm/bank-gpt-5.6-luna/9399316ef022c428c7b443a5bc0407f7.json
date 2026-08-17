@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP earnings excluding impairment",
+    "incorporated by reference",
+    "expected to be placed in service",
+    "anticipated to be fully recoverable",
+    "omitted borrowing table"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed segment, project, liquidity, and financing information, but it uses substantial boilerplate and complex regulatory terminology. Risk factors include a significant NPT impairment, sharply reduced cash, pending project appeals, and reliance on future rate recovery, while management presents underlying performance and project recoverability positively."
+}

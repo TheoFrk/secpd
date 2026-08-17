@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "non-GAAP adjustments",
+    "unable to predict without unreasonable efforts",
+    "subject to uncertainty",
+    "forecast-dependent impairment assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, including an 18.2% sales decline, margin compression, elevated restructuring charges, debt-related costs, and an $80.0 million goodwill impairment. Risk disclosure is partly boilerplate and relies on broad uncertainty language and adjusted non-GAAP measures, but key operating and impairment drivers are identified. Overall tone is materially cautious and reflects weakening operating performance, though not crisis-like."
+}

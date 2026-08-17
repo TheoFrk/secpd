@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP constant currency measures",
+    "various other assumptions",
+    "customers appear to be destocking",
+    "qualitative or quantitative assessment"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, margins, taxes, currency effects, and segment drivers. Risk factors include margin compression from raw-material and supply-chain costs, foreign-exchange exposure, customer destocking, cyclical markets, and reliance on estimates and non-GAAP measures. Overall tone is positive due to strong earnings growth, but disclosures retain standard forward-looking and estimation-related caveats."
+}

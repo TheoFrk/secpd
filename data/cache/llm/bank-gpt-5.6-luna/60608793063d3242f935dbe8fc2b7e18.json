@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unable to identify or quantify",
+    "no guarantees",
+    "potential purchase prices",
+    "sufficient liquidity for the next 12 months"
+  ],
+  "risk_summary": "The excerpt reports materially worsening performance, including an 11.4% revenue decline, a substantial increase in operating loss, higher SG&A driven by GeoTraq, and a swing to net loss. Liquidity appears dependent on cash generation and potential financing, while the proposed Recycling business sale remains uncertain despite indications of $30–$35 million valuations. Extensive forward-looking disclaimers and unquantified future risks limit visibility, although much of the operating discussion is quantified."
+}

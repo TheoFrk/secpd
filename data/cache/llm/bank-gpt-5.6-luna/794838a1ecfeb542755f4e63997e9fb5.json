@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP \"normal\" results",
+    "one-time tax exclusions",
+    "management believes",
+    "not expected to exceed depreciation",
+    "future profitability"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides extensive reconciliation of GAAP to non-GAAP performance, liquidity, and operating metrics. Its tone is strongly positive and promotional, while emphasizing adjusted results that exclude substantial tax charges and acknowledging potential margin pressure from foreign exchange, labor, and vendor costs."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "organic change adjustments",
+    "non-comparable periods",
+    "partially offset",
+    "supply chain disruptions"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively supported, but emphasizes management-defined non-GAAP measures and multiple exclusions that may complicate comparability with GAAP results. Reported performance was positive, while inflation, supply chain disruptions, foreign exchange, and margin compression indicate moderate operating risk."
+}

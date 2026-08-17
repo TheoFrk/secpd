@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "could differ materially",
+    "slightly offset",
+    "off-market hedges",
+    "natural decline of existing production base"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear discussion of production, reserves, acquisitions, losses, derivatives, and capital requirements. Key risks include commodity-price volatility, production declines, a substantial derivative liability, and continued net losses, although the shift toward royalty interests reduces working-interest capital exposure."
+}

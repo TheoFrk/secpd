@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict extent or nature",
+    "impact may be significant",
+    "primarily attributable to",
+    "estimated future cash flows",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail, but highlights significant deterioration in sales, margins, customer credit quality, asset values, and operating results, including recurring net losses and major restructuring costs. COVID-19 uncertainty, facility closures, product-line exits, impairments, and valuation allowances indicate elevated operating and financial risk. The disclosure is generally transparent, though some forward-looking impacts and accounting estimates remain inherently uncertain, and the excerpt appears truncated."
+}

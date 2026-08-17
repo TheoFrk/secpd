@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.53,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "ability to successfully integrate acquisitions",
+    "non-GAAP measures and limitations",
+    "currently evaluating impact"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate cautionary language and extensive risk-factor framing, including dependence on aerospace and military demand, financing conditions, commodity prices, pensions, and acquisitions. Operating results are presented positively, with quantified sales and margin growth, but the discussion is dense and partly diluted by repeated non-GAAP disclaimers and forward-looking qualifications."
+}

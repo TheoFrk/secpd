@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "collection deemed probable",
+    "historical credit loss experience",
+    "management's expectations",
+    "actual results may differ materially",
+    "maximum loss exposure truncated"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, but relies on management estimates for collectibility, credit-loss provisions, collateral values, and future loss expectations. Regulatory changes have caused discontinued operations, while borrowing and interest expense increased substantially; the overall operating tone remains positive due to revenue and income growth."
+}

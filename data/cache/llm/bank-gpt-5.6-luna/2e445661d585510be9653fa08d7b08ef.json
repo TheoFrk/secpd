@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "no assurances",
+    "estimated contingent losses",
+    "favorable changes in timing"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear year-over-year revenue, expense, margin, cash flow, debt, and share repurchase disclosures. Risk is mixed: fiscal 2017 performance improved, but the business experienced prior-year declines, increased interest expense, discontinued mortgage litigation exposure, contingent losses, and uncertainty around future dividends and buybacks. Long, highly technical sentences and repeated causal qualifiers modestly reduce clarity."
+}

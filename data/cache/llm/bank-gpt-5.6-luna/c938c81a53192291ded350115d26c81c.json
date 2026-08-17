@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurances of funding",
+    "date inconsistency: 2016 versus 2019",
+    "complex convertible debenture terms",
+    "management judgment and estimates",
+    "truncated critical accounting text"
+  ],
+  "risk_summary": "The excerpt presents severe liquidity and going-concern risk, including only $19,000 of cash, a $18.9 million working-capital deficit, substantial accumulated losses, and an identified need to raise $4–5 million. Financing terms involve highly dilutive convertible debt and warrants, while inconsistent dates and truncated disclosure reduce reliability and clarity."
+}

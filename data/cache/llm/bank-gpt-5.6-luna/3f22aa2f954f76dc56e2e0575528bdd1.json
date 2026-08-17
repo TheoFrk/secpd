@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impact ... is uncertain",
+    "sufficient liquidity ... foreseeable future",
+    "we believe ... will continue to outperform",
+    "strongest within our sector",
+    "disciplined ... low-leveraged balance sheet"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes specific debt, leasing, liquidity, and capital commitment figures, but relies on optimistic projections regarding Sun Belt outperformance and portfolio positioning. Key risks include office-sector weakness, elevated interest costs, lease and tenant-improvement assumptions, and $109.6 million of unfunded commitments. Liquidity is presented as adequate, though the excerpt does not quantify stress-case capacity or refinancing sensitivity."
+}

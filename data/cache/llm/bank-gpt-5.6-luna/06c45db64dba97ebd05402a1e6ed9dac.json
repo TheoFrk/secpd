@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "no assurance",
+    "could have a material adverse effect",
+    "variety of factors",
+    "difficult to forecast"
+  ],
+  "risk_summary": "The disclosure provides useful quantified liquidity, revenue, cost, and securities information and highlights the absence of debt, but it also relies heavily on forward-looking caveats and broad risk-factor language. Liquidity appears adequate currently, though the company has no credit facilities and faces exposure to subscriber demand, cost inflation, execution risk, and potentially inflexible spending."
+}

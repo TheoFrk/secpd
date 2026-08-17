@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "inherent risk of lending",
+    "other conditions",
+    "significant additional risk",
+    "typically requires",
+    "when deposits are not adequate"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative balance-sheet data and detailed lending governance, approval limits, collateral requirements, and funding sources. Risk discussion is generally candid, particularly regarding commercial real estate concentration, borrower repayment dependence, and economic sensitivity, but relies on qualitative qualifiers and is partially truncated, limiting assessment of current deterioration or loss exposure."
+}

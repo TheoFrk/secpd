@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "actual results could differ materially",
+    "subject to significant risks and uncertainties",
+    "conditional ownership transfers",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt combines extensive forward-looking-statement disclaimers with a highly complex restructuring of the biologistex joint venture, including dilution, contingent ownership transfers, and termination provisions. Key transaction terms are quantified, but the dense legal structure and broad risk disclaimers make economic exposure and future outcomes difficult to assess. The risk tone is cautious but not crisis-like."
+}

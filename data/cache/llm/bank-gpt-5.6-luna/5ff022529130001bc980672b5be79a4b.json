@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no definitive plan",
+    "ability to raise capital questionable",
+    "reliance on affiliates",
+    "substantial doubt about going concern",
+    "financial statements omit potential adjustments"
+  ],
+  "risk_summary": "The disclosure is unusually direct about severe financial distress, including persistent operating losses, a $2.3 million working capital deficit, dependence on affiliate financing, and no identified plan to raise capital or resume operations. The explicit going-concern uncertainty and lack of franchise activity indicate acute liquidity and viability risk."
+}

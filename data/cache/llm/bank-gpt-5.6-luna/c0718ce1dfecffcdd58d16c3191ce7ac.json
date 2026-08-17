@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "long-term growth targets",
+    "positive outlook",
+    "strategic initiatives",
+    "non-GAAP adjustments",
+    "customer challenges masking successes"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but relies substantially on optimistic strategic projections and qualitative claims about future growth, margins, and market share. Earnings and operating margin declined despite revenue, bookings, and backlog growth, while net debt increased and acquisition, ERP, and execution risks remain. Extensive non-GAAP discussion and aspirational language moderately reduce transparency regarding underlying performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.47,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "largely determined by",
+    "could impact results",
+    "expected to increase",
+    "residual effects of rate increase",
+    "possibly request additional recovery"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, clearly explaining the 14.4% decline in net income, higher operating and interest expenses, and lower return on equity. Key risks include limited geographic diversity, weather sensitivity, rising costs and debt service, pension underperformance, and dependence on future rate increases, but management presents these risks in a measured and largely confident tone."
+}

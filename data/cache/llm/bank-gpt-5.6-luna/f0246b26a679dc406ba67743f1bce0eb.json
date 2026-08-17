@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects additional opportunities",
+    "should provide additional sales opportunities",
+    "foreseeable future",
+    "substantial market appeal",
+    "difficult to predict"
+  ],
+  "risk_summary": "The disclosure provides meaningful historical revenue figures and segment trends, but relies on optimistic forecasts and qualitative claims regarding new products, large orders, and market recovery. Key risks include customer and industry concentration, volatile order timing, dependence on government/OEM programs, competitive pressure, limited resources, and financing availability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "excluding these items",
+    "various factors",
+    "no assurance",
+    "adjusted results",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, with clear revenue, margin, debt-cost, impairment, restructuring, and cash-return metrics. Risk tone is mildly positive due to improved profitability and margins, but revenue contraction, higher interest expense, restructuring activity, and reliance on adjusted results indicate continuing operating and financial risks."
+}

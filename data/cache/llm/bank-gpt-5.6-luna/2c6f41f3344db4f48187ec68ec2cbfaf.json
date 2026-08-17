@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may prove to be inaccurate",
+    "susceptible to significant judgment and change",
+    "could be required",
+    "if total assets would equal or exceed $10 billion"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear operating and performance metrics. Key risk centers on the subjectivity of credit-loss estimates, potential future provisions, economic sensitivity, and the possible impact of exceeding the $10 billion asset threshold. Overall tone is stable to mildly positive despite modestly lower net income and returns."
+}

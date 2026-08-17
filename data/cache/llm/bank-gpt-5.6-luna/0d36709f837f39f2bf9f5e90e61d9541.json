@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may be attributable to",
+    "approximate a reasonable level",
+    "partially offset by",
+    "one-time non-cash",
+    "data can be impacted by"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, including sales, production, inventory, margin, and earnings declines. Risk tone is moderately negative because demand, shipments, production, gross profit, operating income, and net income deteriorated, although the presentation remains factual rather than crisis-like. Some causal explanations are qualified and the excerpt contains repeated boilerplate around metrics and non-GAAP measures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance of successful implementation",
+    "expects continued disruption",
+    "estimates, assumptions and judgments",
+    "when available",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent regarding earnings, loan and deposit growth, credit quality, TDRs, and allowance methodology. Risk is moderated by reliance on continued growth, competitive opportunities, personnel investment, and uncertain valuation estimates, with standard forward-looking caveats."
+}

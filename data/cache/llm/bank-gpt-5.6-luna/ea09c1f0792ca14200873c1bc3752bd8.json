@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "could have a positive impact",
+    "potentially could increase demand",
+    "may be reduced or restricted",
+    "dependent on market conditions",
+    "non-GAAP measure caveat"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and explains revenue declines, commodity exposure, fuel-surcharge sensitivity, and liquidity dependencies. Risk tone is mildly negative because of declining volumes and revenues, but liquidity disclosures and available credit indicate continued financial flexibility. Forward-looking statements rely on conditional and market-dependent language, while the text is dense and partly boilerplate."
+}

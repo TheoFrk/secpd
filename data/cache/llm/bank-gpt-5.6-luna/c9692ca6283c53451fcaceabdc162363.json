@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects markets to grow rapidly",
+    "believe we are well positioned",
+    "no assurance of favorable financing",
+    "subject to various factors",
+    "final purchase price allocation pending"
+  ],
+  "risk_summary": "The excerpt is detailed and substantially quantified, including acquisition funding, debt facilities, cash balances, and borrowing capacity. Risk tone is cautiously positive but includes material uncertainties around refinancing, acquisitions, tax audits, macroeconomic conditions, and the still-unfinalized purchase price allocation. Dense restructuring and credit-agreement terminology reduces readability but does not appear overtly evasive."
+}

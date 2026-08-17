@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "known and unknown risks",
+    "subject to numerous factors outside our control",
+    "heavily weighted toward royalties",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is materially quantitative but includes substantial boilerplate forward-looking language and repeated discussion of royalty concentration. Risk tone is negative because royalty revenues are declining, heavily dependent on PegIntron, subject to patent expirations, and accompanied by suspended development activity and sharply reduced cash."
+}

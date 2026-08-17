@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "relied on cash flows from operations",
+    "we believe",
+    "anticipated to include, but are not limited to",
+    "continued stable commodity price environment",
+    "unable to borrow under such line of credit"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but presents material liquidity and credit risks, including only $35,000 of available liquidity, recurring net losses, inability to draw on a prior credit facility, and reliance on new financing. Management uses moderately optimistic forward-looking language tied to commodity prices, receivables financing, and equity proceeds, which partially offsets but does not eliminate the stressed risk profile."
+}

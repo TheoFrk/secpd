@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "non-GAAP financial measures",
+    "driven by",
+    "should inflation persist",
+    "revision of previously issued financial statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified revenue, tuition, cost, and segment detail, supporting generally transparent disclosure. Risk signals include a financial-statement revision, declining enrollment in the Medical and Veterinary segment, higher bad-debt provisions, ongoing litigation, and reliance on financial-aid funding. The tone is cautiously positive overall, emphasizing revenue growth and cost efficiencies while using standard forward-looking qualifiers."
+}

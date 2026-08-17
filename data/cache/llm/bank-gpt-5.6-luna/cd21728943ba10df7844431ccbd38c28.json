@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "lower than anticipated closure rate",
+    "we believe",
+    "expect ... to continue to decrease",
+    "cannot make reliable estimates",
+    "material impact"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but highlights declining revenue, mature product lines, weaker economic conditions, and lower-than-anticipated customer project closures. Liquidity and funding commentary is relatively reassuring, although foreign earnings repatriation taxes, uncertain tax positions, and royalty obligations introduce potentially unquantified cash-flow exposures."
+}

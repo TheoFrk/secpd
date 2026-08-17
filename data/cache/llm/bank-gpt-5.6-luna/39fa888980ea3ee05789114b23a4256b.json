@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.67,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP NI and EPS",
+    "meaningful insight",
+    "solid year",
+    "unneeded storage facility",
+    "projected 9–10% sales increase"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed explanations of tax adjustments, liquidity, operating margins, and subsidiary performance. Risk tone is broadly confident, supported by strong cash balances, no debt, and positive cash flow, but management emphasizes adjusted non-GAAP results and optimistic projections that may downplay weaker sales, lower asset productivity, and declining international performance."
+}

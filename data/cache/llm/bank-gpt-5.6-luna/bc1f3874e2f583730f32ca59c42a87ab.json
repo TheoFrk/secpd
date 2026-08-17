@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "currency-neutral revenues",
+    "long-term financial goals",
+    "broad-based growth claims",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive, growth-oriented risk tone supported by extensive revenue, margin, channel, and regional quantification. Some risks, including currency volatility, higher product costs, increased investment spending, and geographic weakness, are acknowledged but framed as manageable or offset by growth. Non-GAAP measures and promotional strategic language modestly reduce comparability and transparency."
+}

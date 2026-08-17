@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances",
+    "cautiously optimistic",
+    "expected to",
+    "most beneficial use",
+    "sufficient to meet capital needs"
+  ],
+  "risk_summary": "The disclosure is generally detailed and supported by quantitative data on GDP, defense budgets, liquidity, debt capacity, repurchases, and cash balances. Risk tone is moderately positive but relies on forecasts and hedged language regarding inflation pass-through, supply-chain normalization, commercial-market recovery, and defense funding. Liquidity and covenant compliance are presented as strong, although the excerpt is incomplete and contains substantial business-description boilerplate."
+}

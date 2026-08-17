@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "number of risks, uncertainties and other factors",
+    "see Risk Factors",
+    "items that cannot be allocated"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, describing segment changes, loan terms, fees, store counts, acquisitions, and revenue results. Boilerplate forward-looking disclaimers and references to other risk sections limit standalone risk transparency, while the business model exposes the company to consumer-credit, regulatory, geographic, and acquisition-related risks. Overall tone is moderately confident, supported by reported revenue and earnings growth, but partially offset by declining same-store revenue and reliance on high-cost consumer lending."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe payor diversity mitigates exposure",
+    "predictable stream of revenue",
+    "expect cost saving measures to continue",
+    "non-GAAP free cash flow emphasis",
+    "tables and disclosures truncated"
+  ],
+  "risk_summary": "The excerpt presents a generally confident recovery and growth narrative, supported by detailed acquisition, valuation, and non-GAAP reconciliation disclosures. However, reliance on management assertions about reimbursement mitigation, predictability, and future cost benefits leaves exposure to healthcare utilization, reimbursement, integration, impairment, and leverage risks less fully quantified."
+}

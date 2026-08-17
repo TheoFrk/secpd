@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily",
+    "principally reflects",
+    "if desired",
+    "more likely than not",
+    "material change"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and positive performance narrative, supported by quantified record sales, acquisition contributions, and organic growth, particularly in FSG. Risk is partly moderated by ETG organic revenue decline, acquisition dependence, and sensitivity of contingent consideration and goodwill valuations to assumptions. The extensive product enumeration and technical accounting boilerplate reduce clarity despite substantial quantitative disclosure."
+}

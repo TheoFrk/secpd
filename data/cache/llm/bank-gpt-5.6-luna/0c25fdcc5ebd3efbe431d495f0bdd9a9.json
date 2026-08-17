@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management expects liquidity requirements to be met",
+    "based on mathematical modeling",
+    "revisions in completion estimates",
+    "among others",
+    "may cause cash position to deteriorate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on contracts, receivables, credit facilities, guarantees, and accounting judgments, but relies on management estimates and contains some forward-looking assurances. Key risks include percentage-of-completion revenue recognition, unbilled receivables, contract losses, performance guarantees, and potential cross-default acceleration of debt."
+}

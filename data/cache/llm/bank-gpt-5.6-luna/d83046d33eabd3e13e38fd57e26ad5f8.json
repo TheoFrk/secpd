@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures have limitations",
+    "challenging commercial and economic environment",
+    "material adverse effect",
+    "factors affecting our business section appears truncated"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with substantial disclosure of geographic, channel, product, seasonality, and tax exposures. Risk tone is cautiously positive, but reliance on standard forward-looking disclaimers and non-GAAP framing introduces moderate interpretive uncertainty. The apparent truncation or malformed transition in the factors-affecting-business discussion limits completeness assessment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "difficult to predict",
+    "no obligation to update",
+    "significant tax adjustments"
+  ],
+  "risk_summary": "The excerpt combines confident business and growth claims with extensive forward-looking disclaimers and acknowledged uncertainty around product development, competition, macroeconomic conditions, regulation, and healthcare cost containment. The IRS disputes present potentially material quantified exposure of approximately $3.6 billion plus interest for 2010–2012 and $5.1 billion in tax plus $2.0 billion in penalties for 2013–2015, although management firmly contests the claims."
+}

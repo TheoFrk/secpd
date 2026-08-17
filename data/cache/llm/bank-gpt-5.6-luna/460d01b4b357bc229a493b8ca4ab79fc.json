@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "timing cannot be specifically or reasonably determined",
+    "substantially all of the net assets",
+    "historically no material losses",
+    "we believe",
+    "not other-than-temporarily impaired"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with a confident tone emphasizing growth, liquidity, no debt, and strong operating cash flow. Key risks include persistent low interest rates, uncertain payment timing for certain liabilities, indemnification and insurance exposures, and dependence on favorable client retention and investment conditions."
+}

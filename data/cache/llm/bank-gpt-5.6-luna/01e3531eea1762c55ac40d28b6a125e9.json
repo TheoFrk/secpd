@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently imprecise estimates",
+    "may differ from these estimates",
+    "rely to a large extent on operator",
+    "subject to error and differences of interpretation",
+    "truncated revenue recognition disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified terms, but relies on standard boilerplate and highlights material estimation uncertainty, commodity-price sensitivity, full-cost ceiling impairment risk, and dependence on third-party operators. Historical mining impairment and ongoing derivative, warrant, and equity-financing activity contribute to a mildly negative risk tone."
+}

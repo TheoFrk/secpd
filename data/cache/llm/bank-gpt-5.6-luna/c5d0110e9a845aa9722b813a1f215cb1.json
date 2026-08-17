@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "reasonably possible",
+    "could have a material effect",
+    "not a meaningful measure",
+    "methodology may vary"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and transparent, but reports meaningful deterioration in orders, backlog, gross profit, and EURAF operating performance, alongside higher interest expense. Risk is heightened by demand uncertainty, elevated borrowing costs, historic losses, valuation allowances, and unresolved legal and tax matters. Some causal explanations and forward-looking tax statements remain qualified and dependent on management estimates."
+}

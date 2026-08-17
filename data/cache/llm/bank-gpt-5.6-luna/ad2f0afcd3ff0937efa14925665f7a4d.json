@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.65,
+  "complexity_score": 0.55,
+  "risk_sentiment": -0.1,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "forward-looking statements",
+    "see Risk Factors",
+    "no substantive MD&A disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or operating analysis and redirects readers to another document. This limits transparency within the filing and leaves key risks and performance drivers unassessed from the excerpt alone."
+}

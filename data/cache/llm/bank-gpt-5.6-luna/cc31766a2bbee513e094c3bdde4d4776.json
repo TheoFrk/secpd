@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "certain product liability matters",
+    "estimated cost",
+    "could adversely impact",
+    "currently view the environment as stable",
+    "other similar information"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong revenue growth, cash flow, and liquidity metrics. However, it identifies material product liability charges, a product recall, pricing pressure, currency exposure, macroeconomic uncertainty, and dependence on government healthcare funding. Overall tone is cautiously positive but tempered by meaningful operational and legal risks."
+}

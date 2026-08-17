@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "primarily due to",
+    "best estimate",
+    "qualitative assessment",
+    "subject to impairment analysis"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but operating income and same-store sales declined in several markets, with exposure to weather, traffic, labor costs, occupancy costs, and lease-related closures. Management uses standard forward-looking and impairment language, including no-assurance statements and qualitative assessments, while the excerpt is truncated in the tax discussion."
+}

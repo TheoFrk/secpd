@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and significant risks",
+    "may experience significant fluctuations",
+    "we believe",
+    "among other reasons",
+    "subjective or complex estimates"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance with quantified sales, earnings, cash flow, debt repayment, and product-development metrics, producing a generally positive tone. Risk disclosure is primarily standard boilerplate, emphasizing forecasting uncertainty, demand and supply volatility, acquisitions, and subjective accounting estimates without substantial sensitivity analysis or quantified downside scenarios."
+}

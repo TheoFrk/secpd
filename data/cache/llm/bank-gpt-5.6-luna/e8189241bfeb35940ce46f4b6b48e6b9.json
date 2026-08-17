@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance regarding financing",
+    "cannot be estimated with reasonable certainty",
+    "forward-looking safe-harbor boilerplate",
+    "possible future effects on recoverability",
+    "might be forced to dissolve"
+  ],
+  "risk_summary": "The company is a shell corporation with no revenue, discontinued operations, operating cash burn, limited cash resources, and reliance on financing or a future merger or acquisition. The disclosure explicitly identifies material liquidity and going-concern risks, including possible dissolution, while providing limited concrete information about financing capacity or transaction prospects."
+}

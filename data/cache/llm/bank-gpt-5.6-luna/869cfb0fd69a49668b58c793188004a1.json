@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "development stage company",
+    "expect to sign agreements",
+    "financial constraints and reliance on financing",
+    "subjective variables",
+    "short-term idling of power units"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, but includes forward-looking expectations about customer adoption, contract wins, and future growth that are not fully substantiated. Credit risk is elevated by persistent operating losses, substantial interest expense, reliance on financing, customer utilization volatility, prior asset impairments, and dependence on a limited commercial base."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe we can fund our operations",
+    "expect ... to continue",
+    "if needed",
+    "additional capital is needed",
+    "qualitative approach"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantified, but highlights a working-capital deficit, declining cash, reliance on asset liquidation proceeds, debt refinancing, and a near-term $0.9 million contractual payment. Management expresses confidence in funding operations, although that outlook depends on continued asset sales and access to credit. The lengthy accounting and transaction descriptions increase complexity and may obscure the underlying liquidity dependence."
+}

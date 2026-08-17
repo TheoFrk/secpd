@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "continually anticipate, respond to, and utilize",
+    "expects to continue",
+    "significant portion of fixed operating cost base"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative information on capital expenditures, debt, liquidity, leases, restructuring, and industry exposure. Risk tone is moderately cautious, reflecting cyclical demand, financing constraints, technology-transition risk, potential underutilized capacity, and substantial fixed costs, while management expresses confidence in its technology positioning."
+}

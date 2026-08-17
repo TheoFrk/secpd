@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the effects",
+    "may see a future impact",
+    "expected to be completed",
+    "future recoverability",
+    "expected future trends"
+  ],
+  "risk_summary": "The disclosure is materially quantified and identifies concrete pressures, including revenue decline, margin compression, higher operating expenses, supply-chain transition delays, pandemic uncertainty, and a larger net loss. Risk is somewhat softened by forward-looking qualifiers and reliance on expected benefits from sourcing, inventory conversion, and facility relocation."
+}

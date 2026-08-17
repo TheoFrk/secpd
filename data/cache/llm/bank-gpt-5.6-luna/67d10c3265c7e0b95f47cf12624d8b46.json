@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "approximately/around figures",
+    "one-time expenses",
+    "no sufficient assurance",
+    "material effect",
+    "inconsistent cash-flow discussion"
+  ],
+  "risk_summary": "The disclosure is materially quantified but contains imprecise qualifiers, grammatical issues, and apparent inconsistencies in the cash-flow narrative. Risk is elevated due to a net loss, very low cash and working capital, reliance on short-term debt, customer concentration, impairments, and unresolved workers’ compensation issues."
+}

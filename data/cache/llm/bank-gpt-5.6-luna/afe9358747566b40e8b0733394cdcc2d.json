@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "potential treatment/product candidate",
+    "if ever, recurring revenues",
+    "expects costs to increase",
+    "estimates and judgments"
+  ],
+  "risk_summary": "The company has no recurring revenue, a substantial accumulated deficit, ongoing operating losses, and expects significant additional spending before any potential commercialization. Liquidity depends heavily on financing, while clinical, regulatory, technology-development, and partner execution risks remain material. Disclosure is relatively quantified but includes substantial standard forward-looking and conditional language."
+}

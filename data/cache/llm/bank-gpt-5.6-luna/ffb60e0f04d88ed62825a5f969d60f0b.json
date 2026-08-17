@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict duration or scope",
+    "cannot be reasonably estimated",
+    "could continue to be material",
+    "various business risks",
+    "customary covenants and events of default"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified geographic exposure, sales growth, currency effects, financing capacity, and operational responses. Key risks include COVID-19 uncertainty, supply-chain disruption, inflationary input costs, freight constraints, foreign-exchange exposure, and floating-rate debt. The tone is balanced: fiscal 2021 performance improved materially, but management retains significant uncertainty around the duration and financial impact of adverse conditions."
+}

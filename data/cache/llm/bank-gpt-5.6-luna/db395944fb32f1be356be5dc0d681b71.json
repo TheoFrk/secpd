@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "expected to be initiated",
+    "subject to regulatory approval",
+    "other closing conditions",
+    "non-GAAP gross margin"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, reporting earnings, gross-margin contributions, expansion impacts, acquisition cost, and pension sensitivities. The tone is generally positive and growth-oriented, although projected initiatives depend on regulatory approvals, construction completion, customer agreements, and other closing conditions. Reliance on non-GAAP gross margin and extensive standard disclosures modestly limits comparability and clarity."
+}

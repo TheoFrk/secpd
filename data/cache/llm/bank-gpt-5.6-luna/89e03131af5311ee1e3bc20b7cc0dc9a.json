@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP metric adjustments",
+    "partially offset by",
+    "favorable transactions",
+    "unrealized derivative losses",
+    "long multi-factor explanations"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and attributes revenue and margin changes to specific business segments, transactions, outages, pricing, foreign exchange, and derivative effects. Risk tone is mixed: strategic execution and revenue growth are emphasized, but diluted loss per share increased and operating margin declined, with notable exposure to outages, regulatory charges, credit-loss allowances, FX, and market-linked transactions. Extensive non-GAAP definitions and lengthy offsetting explanations may reduce comparability and obscure underlying performance."
+}

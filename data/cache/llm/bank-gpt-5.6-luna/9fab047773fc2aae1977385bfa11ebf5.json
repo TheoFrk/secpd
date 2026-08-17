@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "positive pre-clinical safety and efficacy data",
+    "likelihood of long-term success",
+    "subjective and complex estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial product, regulatory, manufacturing, and accounting detail, but includes extensive standard forward-looking disclaimers and promotional pipeline language. Key risks include dependence on regulatory approvals and post-marketing commitments, limited internal commercial-scale manufacturing, clinical-development uncertainty, and potentially subjective inventory and tax estimates. The tone is operationally confident but tempered by material biotechnology and execution risks."
+}

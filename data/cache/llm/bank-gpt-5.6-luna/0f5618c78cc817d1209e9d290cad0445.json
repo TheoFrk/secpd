@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "does not undertake to update",
+    "cannot predict legislation or regulations",
+    "undue reliance should not be placed"
+  ],
+  "risk_summary": "The excerpt presents quantified operating performance and specific risk-management frameworks, with improved 2016 net income and loan growth. However, extensive standard cautionary language, broad references to external risk factors, and limited quantification of potential adverse impacts reduce transparency regarding downside exposure. Key risks include credit, interest-rate, liquidity, regulatory, reputational, and acquisition-related integration effects."
+}

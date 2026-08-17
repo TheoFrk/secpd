@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "management believes",
+    "qualitative factors",
+    "actual results may differ",
+    "one large non-accrual loan"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, detailing earnings, loan, deposit, funding, and credit-loss movements. Risk is moderate: earnings declined, CRE exposure and a large non-accrual loan generated charge-offs, and the allowance depends partly on qualitative judgments, although liquidity, deposits, and funding trends appear favorable."
+}

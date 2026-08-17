@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "cannot be fully estimated",
+    "likely to continue",
+    "various impacts",
+    "safe harbor provisions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on assets, deposits, acquisitions, earnings, credit-loss provisions, and allowance ratios. However, extensive COVID-19 uncertainty language, forward-looking disclaimers, and reliance on broad descriptions of potential impacts limit precision regarding future credit, liquidity, and operating risks. The overall tone is cautious but not crisis-like, with emphasis on balance-sheet strength and operational continuity."
+}

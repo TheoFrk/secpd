@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results could differ significantly",
+    "reasonable and supportable forecasts",
+    "subject to refinement",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on credit-loss provisioning, unemployment sensitivity, acquisitions, and goodwill testing, but relies on standard judgment and uncertainty disclosures around key estimates. Credit risk appears manageable based on the stated decline in provision expense and loan balances, although ACL sensitivity and forecast dependence remain material risks."
+}

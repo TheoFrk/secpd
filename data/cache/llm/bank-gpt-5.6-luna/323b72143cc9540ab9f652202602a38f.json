@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impact remains unclear",
+    "it is possible that",
+    "could have an adverse impact",
+    "dependent upon successful",
+    "additional information requested"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with substantial quantitative information on cash flows, acquisition spending, and operating drivers. Risk exposure is material but presented in a balanced, forward-looking manner, particularly regarding product concentration, competition, reimbursement pressure, regulatory uncertainty, and pipeline execution."
+}

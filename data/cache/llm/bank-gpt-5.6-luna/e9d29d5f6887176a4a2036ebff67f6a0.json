@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "limited sources of liquidity",
+    "anticipated future demand",
+    "management judgments and estimates",
+    "truncated disclosure / missing context"
+  ],
+  "risk_summary": "The excerpt provides useful quantified disclosures on deferred revenue, receivables, contract revenue, and planned R&D, but relies heavily on standard forward-looking language and management estimates. Limited liquidity, extended collection periods, seasonal cotton contracts, and substantial reliance on anticipated growth indicate meaningful funding and execution risk. The text is technically dense and appears truncated, reducing transparency around the financing and equity-related disclosures."
+}

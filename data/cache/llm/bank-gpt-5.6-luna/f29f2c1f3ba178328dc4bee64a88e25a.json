@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management judgments and estimates",
+    "not expected to differ significantly",
+    "subject to closing of financing and approval",
+    "if the Company closes",
+    "mission-critical and increasingly important"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative detail on investments, divestitures, leases, and proposed financing, but includes substantial promotional and boilerplate accounting language. Key risks include judgment-sensitive revenue recognition and impairment testing, contract cancellability, and dependence on financing and shareholder approvals for the recapitalization."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "not comparable to similar measures",
+    "excluding acquisition, divestiture, and foreign currency exchange",
+    "expected to be fully realized",
+    "amounts may not add due to rounding"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, including acquisition financing, impairment charges, operating results, synergies, and debt-related interest expense. Risk is moderated by the optimistic strategic and brand-focused narrative and reliance on adjusted non-GAAP measures that exclude material recurring or potentially nondiscretionary costs. Key credit concerns include acquisition-driven leverage, declining GAAP operating income, higher amortization and impairment charges, and integration execution risk."
+}

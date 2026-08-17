@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "customer credit problems",
+    "bankruptcy and liquidation",
+    "subject to management estimates",
+    "may materially impact",
+    "top three customers"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights customer concentration, credit deterioration, a major customer bankruptcy, weaker product trends, and potential inventory and royalty-related exposures. The tone is predominantly factual and moderately negative rather than crisis-like, with substantial accounting and tax jargon increasing interpretive complexity."
+}

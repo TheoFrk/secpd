@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "confidential settlement terms",
+    "cannot assure additional financing",
+    "reasonable basis for expectation",
+    "subject to certain exceptions",
+    "truncated going-concern disclosure"
+  ],
+  "risk_summary": "The company reports minimal cash, substantial operating losses and negative operating cash flow, indicating significant liquidity and going-concern risk. Financing is essential and includes secured convertible notes, potential dilution, acceleration provisions and a severe change-of-control penalty. Although results are presented with detailed quantification, some material terms and the going-concern discussion are qualified, confidential or incomplete."
+}

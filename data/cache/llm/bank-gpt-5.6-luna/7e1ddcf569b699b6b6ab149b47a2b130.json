@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.61,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "to a lesser extent",
+    "estimated future sales",
+    "may differ from estimates",
+    "material effect in future years"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitative, with strong operating performance, cash generation, margins, and shareholder returns supporting a confident tone. Some causal explanations rely on broad qualifiers, while tax estimates, inventory valuation, demand changes, and potential write-offs represent notable forward-looking risks. The excerpt also contains boilerplate and appears truncated or corrupted near the financial-condition and tax sections."
+}

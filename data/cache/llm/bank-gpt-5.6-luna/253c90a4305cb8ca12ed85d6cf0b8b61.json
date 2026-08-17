@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "estimated effects of weather",
+    "subject to MoPSC approval",
+    "expected final order",
+    "projected spending range",
+    "regulatory tracking mechanisms"
+  ],
+  "risk_summary": "The excerpt is generally detailed and transparent, with substantial quantitative disclosure on earnings, liquidity, capital expenditures, regulatory rates, and operating drivers. Risks include regulatory approval and allowed-return uncertainty, weather and customer-demand sensitivity, suspended New Madrid Smelter operations, and significant projected capital spending. The overall tone is modestly confident and favorable, though the passage is highly technical and contains some boilerplate and forward-looking estimates."
+}

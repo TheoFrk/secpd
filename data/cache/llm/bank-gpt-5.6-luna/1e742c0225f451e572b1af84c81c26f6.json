@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor boilerplate",
+    "unknown indirect impacts",
+    "appears to be temporary",
+    "may require additional financing",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is heavily weighted toward standard forward-looking and cautionary language, with substantial uncertainty around COVID-19, semiconductor shortages, supply-chain disruption, demand volatility, and liquidity needs. Management presents operational resilience and revenue recovery, but several key impacts are described qualitatively or with hedged language rather than quantified sensitivity or scenario analysis."
+}

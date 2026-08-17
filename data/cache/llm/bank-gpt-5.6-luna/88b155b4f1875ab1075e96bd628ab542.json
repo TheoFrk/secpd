@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "based on our current cash position and operating plan",
+    "we believe",
+    "actual results could be different",
+    "subject to periodic funding",
+    "anticipated results"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear revenue, margin, liquidity, and credit-facility data. Risk is moderate: total revenue and software sales declined materially, expenses increased as a percentage of revenue, and results depend partly on government contract funding and subjective revenue-recognition judgments. Liquidity appears adequate, with positive cash generation, no borrowings, and no non-current liabilities."
+}

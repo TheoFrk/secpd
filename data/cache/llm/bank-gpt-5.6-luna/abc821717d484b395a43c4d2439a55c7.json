@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to another section",
+    "no financial detail",
+    "boilerplate disclosure",
+    "redirected MD&A discussion"
+  ],
+  "risk_summary": "The excerpt is a procedural cross-reference rather than substantive management discussion. It provides no quantitative results, liquidity analysis, or explicit risk assessment, limiting transparency without conveying a clearly negative or positive risk tone."
+}

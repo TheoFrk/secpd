@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to create",
+    "believe will help",
+    "from time to time",
+    "impact is expected to last",
+    "significant flexibility"
+  ],
+  "risk_summary": "The disclosure is generally specific and balanced, quantifying production, demand, contract exposure, leverage, and interest-rate composition while clearly identifying overcapacity, raw-material volatility, import competition, and margin pressure. The tone is cautiously confident, emphasizing Nucor’s diversification, liquidity, variable-cost structure, and mitigation strategies, though several forward-looking claims rely on expectations and management judgments."
+}

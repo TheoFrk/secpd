@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.43,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP measure exclusions",
+    "no assurance on exchange rates",
+    "management believes",
+    "not comparable among companies",
+    "one-time items excluded"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook with quantified 2011 growth, margin, and cash-flow guidance. Risk disclosure is limited mainly to foreign-exchange uncertainty and the interpretive limitations of non-GAAP measures, while extensive boilerplate definitions reduce clarity."
+}

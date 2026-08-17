@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "including but not limited to",
+    "significant judgment and estimates",
+    "potential goodwill impairment"
+  ],
+  "risk_summary": "The excerpt presents strong operating momentum, with quantified revenue, shipment, and cash-flow growth, and a generally confident business outlook. Risk disclosure is largely standard boilerplate but identifies semiconductor cyclicality, forecasting uncertainty, and judgment-sensitive goodwill and intangible-asset impairment risks. The incomplete/truncated accounting discussion limits assessment of the full risk picture."
+}

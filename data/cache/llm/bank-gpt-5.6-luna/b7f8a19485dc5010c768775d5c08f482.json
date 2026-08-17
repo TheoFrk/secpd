@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "highly seasonal demand",
+    "budgetary pressures",
+    "cannot be certain",
+    "significant quantities",
+    "working capital estimates"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with quantified order-rate, sales, seasonality, and delivery metrics, and reports recovery from pandemic-related disruptions. Key risks remain concentrated in extreme seasonality, education-sector budgets, commodity and labor costs, supply-chain execution, and forecasting requirements. Overall tone is cautiously positive because operations returned to profitability, but the business remains operationally and financially sensitive to peak-season execution."
+}

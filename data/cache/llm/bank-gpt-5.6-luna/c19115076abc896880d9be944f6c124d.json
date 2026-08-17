@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "normal fluctuations in market demand",
+    "competitive pricing conditions",
+    "subjectivity in warranty estimates"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, reporting revenue, shipments, margins, operating income, and acquisition costs. Risk disclosure relies partly on standard boilerplate and broadly defined market and competitive factors, while warranty accruals and inventory valuations introduce estimation risk. Overall tone is confident and materially positive, tempered by modest near-term demand and pricing caution."
+}

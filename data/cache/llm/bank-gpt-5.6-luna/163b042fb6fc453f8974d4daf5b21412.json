@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP \"base\" measures",
+    "exclusion of certain items",
+    "targeted growth assumptions",
+    "primarily due to",
+    "if any"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, but presents performance favorably through extensive use of adjusted non-GAAP measures and forward-looking targets. Key risks include declining base earnings, margin compression, weaker industrial volumes, a substantially higher unfunded pension position, reduced operating cash flow, and increased debt following acquisitions."
+}

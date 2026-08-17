@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "to a lesser extent",
+    "expected to be recognized",
+    "cannot be determined accurately",
+    "revision to expected revenues and profits"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but contains substantial negative performance indicators, including revenue declines, operating losses, weak power-generation demand, and material downward revisions to South African project estimates. Management provides specific causes and amounts, though repeated attribution language and forward-looking expectations introduce moderate ambiguity."
+}

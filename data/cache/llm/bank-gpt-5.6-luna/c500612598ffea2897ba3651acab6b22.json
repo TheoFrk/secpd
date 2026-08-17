@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "significant judgment and projections",
+    "numerous factors",
+    "could be material",
+    "if market conditions decline"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent regarding revenue, margins, impairments, taxes, and segment performance, with a generally positive operating tone. Key risks include reliance on pricing to offset inflation, market share losses, unusual tax benefits, non-GAAP measures, and highly judgmental goodwill valuation assumptions. The impairment discussion appropriately discloses downside sensitivity but does not quantify the valuation cushion or specific forecast sensitivities."
+}

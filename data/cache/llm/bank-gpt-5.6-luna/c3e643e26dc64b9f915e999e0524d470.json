@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict with certainty",
+    "reasonably likely",
+    "actual results could differ materially",
+    "significant management judgment",
+    "partially offset"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies material risks, including heavy reliance on two customers, China sourcing and freight costs, COVID-19 disruption, impairment, tax uncertainty, and inventory valuation judgments. Risk tone is moderately negative but balanced by reported sales and gross-profit improvements. The excerpt includes considerable technical and boilerplate accounting language, which reduces accessibility but does not appear strongly evasive."
+}

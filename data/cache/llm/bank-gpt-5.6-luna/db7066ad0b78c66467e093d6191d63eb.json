@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to change",
+    "actual results are likely to differ",
+    "unknown",
+    "including, but not limited to",
+    "similar risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified tax, reinsurance, reserve, and operating data, but relies heavily on forward-looking disclaimers and estimates subject to market, regulatory, interest-rate, and credit uncertainty. Notable risks include potential elimination of the separate-account DRD benefit, low-rate pressure on earnings, reinsurer collectability, and potentially material reserve adjustments."
+}

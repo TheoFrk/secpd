@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "may never achieve profitable operations",
+    "subjective and complex estimates",
+    "third-party manufacturing dependence"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative liquidity information, including $1.13 billion in cash, equivalents, and investments, and states that funding is expected to cover at least twelve months. However, it highlights substantial biotechnology risks, including regulatory uncertainty, potential delays, possible failure to achieve profitability, reliance on third-party manufacturing, and estimation uncertainty. The disclosure is technically detailed but includes standard forward-looking disclaimers and some generalized risk language."
+}

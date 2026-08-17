@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "not obligated to update",
+    "risks and uncertainties",
+    "non-GAAP measures",
+    "unrealized losses and margin debt"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate forward-looking language and repeated liability disclaimers, which limits the specificity of risk communication. Operating performance and capital access are presented positively with substantial quantitative detail, but leverage, margin debt, unrealized securities losses, acquisition exposure, and reliance on non-GAAP measures remain material risk signals."
+}

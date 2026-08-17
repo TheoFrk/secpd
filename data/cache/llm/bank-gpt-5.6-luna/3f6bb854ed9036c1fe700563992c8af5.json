@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot be sure",
+    "subject to risks and uncertainties",
+    "factors ... dynamic and subject to change",
+    "disclaim any obligation to update",
+    "similar expressions identify forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally precise and favorable, with substantial quantitative detail on sales, margins, store growth, expenses, and earnings. Risk is framed mainly through standard forward-looking disclaimers and uncertainty around sustaining margins, sales growth, tax rates, and expansion results rather than through evidence of current distress."
+}

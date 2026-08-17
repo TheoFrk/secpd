@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurances can be given",
+    "management believes",
+    "may differ materially",
+    "non-GAAP measures with inherent limitations"
+  ],
+  "risk_summary": "The excerpt provides some useful quantified liquidity and liability information, but relies heavily on standard forward-looking disclaimers, assumptions, and management judgments. Debt repayment and future cash flow depend on projected operating performance, while impairment, tax asset, and non-GAAP disclosures introduce estimation and comparability risks."
+}

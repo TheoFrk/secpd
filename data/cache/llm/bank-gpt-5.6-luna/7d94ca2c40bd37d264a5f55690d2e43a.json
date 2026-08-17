@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expect to invest",
+    "potential acquisitions",
+    "timing subject to change",
+    "impacts unknown at this time",
+    "subject to regulatory clearances"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on planned savings, workforce reductions, restructuring charges, recognized costs, and capital projects. However, extensive forward-looking language and uncertainty qualifiers limit precision around execution, timing, regulatory outcomes, and ultimate financial impacts. Overall, the tone is strategically optimistic but tempered by restructuring and regulatory risks."
+}

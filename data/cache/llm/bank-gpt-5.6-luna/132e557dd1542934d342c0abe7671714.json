@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "ultimately gain market share",
+    "unmatched in recent years",
+    "expect to spend a comparable amount",
+    "generally result in break-even within 12 months"
+  ],
+  "risk_summary": "The excerpt has a generally confident, promotional tone and includes useful operating metrics, store counts, percentages, costs, and timing assumptions. Key risks include store expansion losses, delayed revenue recognition until delivery, dependence on custom-order demand, foreign sourcing, and reliance on optimistic break-even and market-share expectations."
+}

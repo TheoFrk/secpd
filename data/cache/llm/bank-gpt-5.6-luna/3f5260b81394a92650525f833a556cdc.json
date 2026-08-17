@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "could cause actual results to differ materially",
+    "no obligation to update",
+    "other risks or uncertainties",
+    "dependence on third party providers"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking-statement disclaimers and a broad, non-quantified list of operational, regulatory, insurance, cyber, and demand risks. However, the business description and selected operating metrics are comparatively specific, including revenue composition, segment contributions, cost changes, and tax impacts; the overall tone is moderately stable rather than crisis-like."
+}

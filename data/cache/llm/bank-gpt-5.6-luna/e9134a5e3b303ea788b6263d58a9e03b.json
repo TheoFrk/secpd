@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "high level of uncertainty",
+    "among other things",
+    "primarily due to",
+    "unfavorable product mix"
+  ],
+  "risk_summary": "The excerpt is detailed and includes material transaction and operating metrics, but contains substantial boilerplate and broad forward-looking disclaimers. Risk tone is mildly negative due to macroeconomic uncertainty, inflationary pressure, customer destocking, lower volumes, and unfavorable product mix, although quantified results provide useful transparency."
+}

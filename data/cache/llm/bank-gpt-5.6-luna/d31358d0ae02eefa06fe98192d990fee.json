@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of financing",
+    "cannot reliably project results",
+    "uncertain sufficient funding",
+    "dependent on collecting receivables"
+  ],
+  "risk_summary": "The company reports declining revenue, continuing losses, a $499,557 working-capital deficit, and only $49,729 of net cash. Management explicitly questions whether available resources and potential stockholder funding will finance operations for the next twelve months, while acknowledging substantial uncertainty around hospital projects and additional financing. Quantified operating results provide useful specificity, but extensive forward-looking disclaimers and repeated no-assurance language underscore material liquidity and going-concern risk."
+}

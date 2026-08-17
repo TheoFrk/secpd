@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.71,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "incorporated by reference",
+    "could cause actual results to differ materially",
+    "partially offset by",
+    "details provided in following table"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding segment gross-margin changes, project contributions, customer growth, and pandemic-related cost recovery. Risk factors include rising labor, maintenance, fuel, depreciation, and property-tax costs, while reliance on adjusted gross margin and incorporated prior-year disclosures modestly reduces comparability and completeness."
+}

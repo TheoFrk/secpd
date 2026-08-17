@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "long-term multi-year average organic revenue growth",
+    "modest but improving growth",
+    "for the foreseeable future",
+    "in the event that credit market conditions were to deteriorate",
+    "additional growth derived from strategic acquisitions"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified revenue, foreign-exchange, expense, margin, acquisition, and liquidity information. Risk tone is moderately positive, but the outlook relies on economic improvement and acquisitions while acknowledging mortgage-market weakness, foreign-exchange pressure, and potential increased reliance on debt markets if credit conditions deteriorate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt as to ability to continue",
+    "expected to",
+    "potential equity and debt offerings",
+    "projected cash flow insufficient to retire debt",
+    "subject to numerous conditions"
+  ],
+  "risk_summary": "The disclosure is highly quantitative but presents significant liquidity and solvency risk, including substantial doubt about going-concern status, recurring losses, limited operating cash flow, and dependence on refinancing or additional capital. Management offsets these concerns with projected revenue growth and facility improvements, but several initiatives are conditional and debt maturities require renewal because operating cash flow is insufficient for repayment."
+}

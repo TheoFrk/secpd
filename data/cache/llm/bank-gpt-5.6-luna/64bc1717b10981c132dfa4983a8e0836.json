@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could differ materially",
+    "among other considerations",
+    "no obligation to update",
+    "not expected to have a significant impact"
+  ],
+  "risk_summary": "The excerpt presents substantial pandemic, demand, supply-chain, execution, financing, and market-acceptance risks, but also provides meaningful operating metrics and specific explanations for sales changes. The forward-looking section is broad and heavily qualified, relying on extensive boilerplate risk-factor language without quantifying the likelihood or financial impact of most risks."
+}

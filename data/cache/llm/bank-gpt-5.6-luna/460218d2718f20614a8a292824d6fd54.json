@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to various uncertainties",
+    "actual results may differ",
+    "significant judgment",
+    "expected to decrease significantly",
+    "future development is unlikely"
+  ],
+  "risk_summary": "The excerpt provides useful quantified disclosures, including $125 million of long-lived assets, a $3.9 million impairment charge, and projected 2023 capital expenditures of approximately $10 million. Risk tone is moderately negative because coal deliveries and earnings are expected to decline significantly, while customer demand, cost inflation, impairment, and future estimates create material downside exposure. Repeated statutory and accounting-policy language, along with truncated text, reduces clarity but does not appear intentionally evasive."
+}

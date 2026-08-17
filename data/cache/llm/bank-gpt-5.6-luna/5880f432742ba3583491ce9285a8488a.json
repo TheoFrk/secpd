@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "adequate liquidity",
+    "no assurance",
+    "when economic values and conditions are conducive",
+    "if and when we choose to do so"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on liquidity, cash flow, debt capacity, covenants, maturities, and capital allocation. Risk tone is generally confident, but reliance on future operating cash flows, capital-market access, debt refinancing, covenant compliance, and discretionary actions introduces refinancing and execution risk."
+}

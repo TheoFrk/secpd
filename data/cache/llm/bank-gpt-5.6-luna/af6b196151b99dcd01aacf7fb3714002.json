@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could impact future results",
+    "outside of our control",
+    "may result in adjustments",
+    "non-GAAP supplemental financial measure",
+    "including ... or otherwise"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively grounded, including earnings, production curtailments, rescheduled wells, and reserve sensitivity. It identifies meaningful exposure to commodity-price volatility, supply-chain constraints, inflation, pipeline timing, and non-operated assets, while relying on forward-looking conditional language for potential effects."
+}

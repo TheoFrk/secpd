@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily due to:",
+    "These increases were partially offset by:",
+    "amount could change due to:",
+    "significant exception",
+    "excerpt truncation and omitted drivers"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on segment sales, prices, volumes, earnings, debt, and cash flows, but numerous causal explanations are incomplete in the excerpt and rely on omitted tables or follow-on text. Risk tone is cautiously positive overall due to improving housing, timber, and cellulose results, offset by weak housing demand, a sharp OSB price decline, weather effects, currency exposure, and financing outflows."
+}

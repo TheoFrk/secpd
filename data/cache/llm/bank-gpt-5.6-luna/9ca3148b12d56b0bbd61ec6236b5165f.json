@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance of profitability",
+    "may not be able to",
+    "additional dilution",
+    "projected positive cash flow"
+  ],
+  "risk_summary": "The excerpt discloses substantial financial stress, including a $2.4 million net loss, a $2.4 million working-capital deficit, negative operating cash flow, and reliance on additional borrowings. Although key liquidity figures are quantified, the outlook relies on uncertain projected positive cash flow and repeatedly states that financing and profitability are not assured. Extensive boilerplate cautionary language and broad, non-prioritized risk lists reduce disclosure specificity."
+}

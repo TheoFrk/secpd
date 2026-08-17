@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to",
+    "when executed successfully",
+    "could impact",
+    "various jurisdictions"
+  ],
+  "risk_summary": "The excerpt is relatively transparent, with extensive segment-level revenue, acquisition, currency, margin, and restructuring disclosures. Risk tone is cautiously positive, but forward-looking growth expectations and reliance on acquisitions, market conditions, operational execution, and actuarial assumptions introduce uncertainty. Some risks are qualified using broad language rather than quantified sensitivity analysis, particularly for demand, integration, and tax exposures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to continue",
+    "robust pipeline",
+    "future success depends on",
+    "raise necessary amount of cash"
+  ],
+  "risk_summary": "The excerpt reports strong revenue and gross-margin growth, but relies heavily on optimistic, non-quantified claims regarding technology adoption, customer pipeline conversion, and future orders. Key risks include substantial customer concentration, intense competition, dependence on continued financing to fund operating losses, and execution risk in converting engineering projects into manufacturing revenue."
+}

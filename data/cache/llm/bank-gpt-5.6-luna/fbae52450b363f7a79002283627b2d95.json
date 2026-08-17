@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "some of which are beyond our control",
+    "no obligation to update",
+    "primarily the result of / partially offset by"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on broad, non-quantified risk factors and extensive forward-looking-statement disclaimers. It provides useful quantitative information on segment mix, acquisitions, liquidity, debt, and covenant compliance, but the truncated operating discussion limits assessment of underlying performance drivers. Risk tone is neutral to mildly confident, supported by reported covenant compliance and available liquidity, while exposure to macroeconomic, integration, inflation, market, and regulatory risks remains material."
+}

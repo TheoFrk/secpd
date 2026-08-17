@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties including but not limited to",
+    "undertakes no obligation to update",
+    "several possible outcomes",
+    "significantly impacted"
+  ],
+  "risk_summary": "The excerpt presents strong quantified sales growth, substantial liquidity, and management confidence in meeting near-term operating needs. Risk disclosure is largely standard boilerplate, with Brexit and foreign operating exposure described using conditional and uncertain language, while the excerpt is truncated and contains apparent text-extraction gaps."
+}

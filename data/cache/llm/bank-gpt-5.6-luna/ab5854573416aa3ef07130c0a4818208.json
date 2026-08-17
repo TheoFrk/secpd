@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "non-GAAP financial measures",
+    "favorable loss reserve development",
+    "tail risk assumptions insufficient"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides specific drivers for weaker results, including adverse reserve development, foreign currency losses, and reduced investment returns. Risk is concentrated in OneBeacon’s professional and management liability reserves, where revised tail-risk assumptions and higher loss-adjustment expenses led to a substantial reserve increase. The overall tone is mixed but somewhat negative because of deteriorating underwriting performance at OneBeacon despite stronger Sirius Group results."
+}

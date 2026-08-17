@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "numerous assumptions, risks, and uncertainties",
+    "including, but not limited to",
+    "non-GAAP exclusions",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified performance information, but extensive boilerplate forward-looking disclaimers and broad risk lists reduce specificity. Non-GAAP adjustments and numerous exclusions may complicate comparability with GAAP results, while COVID-19 disruptions, supply constraints, margin pressure, regulatory exposure, and contingent losses remain material risks."
+}

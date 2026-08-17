@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "significant risks and uncertainties",
+    "no obligation to update",
+    "future success-oriented milestones",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is heavily legalistic and includes substantial boilerplate disclaimers that limit reliance on forward-looking statements. The company remains dependent on successful clinical and commercialization milestones, government funding, and intellectual-property value, with additional contingent payments of up to $10.0 million. Quantitative financial-condition and obligation details are incomplete because the excerpt ends mid-disclosure."
+}

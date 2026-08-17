@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "subject to risks and uncertainties",
+    "non-GAAP financial measures",
+    "tactical decisions to sell securities"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and liquidity narrative supported by several quantified metrics, including revenue growth, client-fund balances, and interest income. Risk disclosures are broad and largely boilerplate, covering many contingencies without estimating likelihood, magnitude, or potential financial impact. Client-funds liquidity, interest-rate exposure, funding costs, cybersecurity, and economic slowdown are the most material identified risks."
+}

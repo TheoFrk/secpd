@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective judgments and estimates",
+    "not known with certainty",
+    "beyond the Company’s control",
+    "cannot provide assurance",
+    "various economic and default scenarios"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on insurance reserves, investment risks, and accounting methodologies, including some quantified transactions and modeling assumptions. However, it emphasizes material uncertainty around claims emergence, reserve adequacy, inflation, litigation, reinsurance recoverables, and expected credit losses without quantifying potential adverse impacts. Overall tone is operationally confident but appropriately cautious, with moderate reliance on judgment and boilerplate risk framing."
+}

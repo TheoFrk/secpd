@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "factors that could cause future results to vary",
+    "other factors discussed elsewhere",
+    "assumes no obligation to update",
+    "extent and amount of coverage is not yet certain"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking language and broad, non-quantified lists of external risks, limiting precision about future performance. It discloses a material $8.9 million fraud-related charge and uncertain insurance recovery, while maintaining a generally constructive growth outlook. Interest-rate sensitivity, regulatory burden, acquisition execution, and funding risks are acknowledged but not fully quantified."
+}

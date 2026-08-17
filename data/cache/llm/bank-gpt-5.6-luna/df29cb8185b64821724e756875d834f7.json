@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects sales volume to modestly increase",
+    "expected inflationary pressures to flatten out",
+    "sufficient liquidity",
+    "non-GAAP base earnings",
+    "to date has not experienced significant disruptions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but relies on forward-looking expectations regarding demand normalization, inflation, price/cost recovery, and supply-chain conditions. Reported 2021 results include a substantial GAAP net loss and adverse price/cost, wage inflation, divestiture, and pension impacts, while liquidity appears adequate based on disclosed cash, credit availability, and debt maturities."
+}

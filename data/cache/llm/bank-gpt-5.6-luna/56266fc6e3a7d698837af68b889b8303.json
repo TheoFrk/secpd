@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "Non-GAAP comparability disclaimer",
+    "partially offset by",
+    "primarily due to",
+    "underlying business performance",
+    "currency-adjusted presentation"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed reconciliations, reducing concerns about evasiveness. It highlights meaningful risks from currency depreciation, weakening economic conditions, European exposure, geopolitical disruption, goodwill impairment, and declining quarterly revenue, although it also describes resilient demand and margin improvement."
+}

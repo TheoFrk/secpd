@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements involve certain risks and uncertainties",
+    "actual results could differ from these estimates",
+    "management’s discretion",
+    "disciplined acquisition strategy",
+    "not deemed impaired"
+  ],
+  "risk_summary": "The excerpt is generally constructive and highly quantitative regarding earnings, acquisitions, funding, and interest expense, but it contains substantial boilerplate framing and accounting-estimate caveats. Key risks include acquisition integration, loan-loss estimation, liquidity and interest-rate sensitivity, and reliance on acquired deposits and growth strategies."
+}

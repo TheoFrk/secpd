@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "material adverse effect",
+    "may change its financing strategy",
+    "certain events or changes in circumstances",
+    "estimated future cash flows"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively informative, highlighting strong occupancy, long lease duration, available liquidity, and moderate leverage. Key risks include tenant and geographic concentration, impairment and valuation estimates, cash-flow variability, and management discretion regarding financing strategy. The tone is cautiously confident rather than crisis-like, though some material risks are addressed through standard conditional language."
+}

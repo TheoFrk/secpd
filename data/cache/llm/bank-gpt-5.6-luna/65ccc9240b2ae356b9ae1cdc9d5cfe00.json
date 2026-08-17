@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP combined results",
+    "excluding special charges",
+    "conditions beyond our control",
+    "assuming we do not hedge",
+    "not comparable to prior year"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantitative, with detailed operating, revenue, fuel, liquidity, and tax information. Risk is moderated by strong 2014 performance and liquidity, but substantial exposure remains to fuel-price volatility, merger integration, economic conditions, and non-comparable or adjusted metrics."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "mainly due to",
+    "partly offset by",
+    "certain estimates",
+    "not necessarily reflective",
+    "subject to uncertainty"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear year-over-year explanations and balance-sheet metrics. Risk factors include elevated historical loan losses, declining loan balances and yields, regulatory effects on fees, impairment charges, and reliance on estimates, although the overall tone is stable and improving."
+}

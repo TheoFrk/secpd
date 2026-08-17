@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.56,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt as a going concern",
+    "no assurance of future financing",
+    "anticipate focusing on",
+    "could result in delays",
+    "actual results could differ"
+  ],
+  "risk_summary": "The company is pre-revenue, loss-making, and dependent on additional financing, with auditors expressing substantial doubt about its ability to continue as a going concern. Although liquidity is quantified and the company reports a working capital surplus, continued cash burn and possible delays in clinical validation or regulatory approval create significant execution and funding risk."
+}

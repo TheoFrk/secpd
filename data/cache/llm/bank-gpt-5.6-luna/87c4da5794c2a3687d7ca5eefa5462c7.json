@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot guarantee implementation",
+    "subject to applicable laws and covenants",
+    "non-GAAP exclusions",
+    "legacy run-off liabilities",
+    "potential adverse impacts"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent about earnings drivers, capital spending, regulatory costs, insurance reserves, and subsidiary dividend constraints. Risk is moderated by pension settlement charges, catastrophe losses, legacy insurance exposures, regulatory requirements, and potential operating impacts, while management maintains a generally controlled and factual tone."
+}

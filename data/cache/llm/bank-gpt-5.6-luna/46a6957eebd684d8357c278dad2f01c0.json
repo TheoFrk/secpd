@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to result in",
+    "partially offset by",
+    "adjusted earnings from continuing operations",
+    "non-core in nature",
+    "truncated operating-loss discussion"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but reports declining operating earnings, a Military segment operating loss, rising supply-chain and administrative costs, and restructuring-related charges. Management uses adjusted performance measures and offsetting explanations that may soften the presentation of underlying weakness. The outlook remains cautiously constructive but depends on projected growth and cost-reduction initiatives."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "discrete tax benefits",
+    "additional details are provided",
+    "higher-margin businesses"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified, describing revenue, margins, debt, interest rates, foreign exchange effects, tax rates, and acquisition impacts. The tone is confident and performance-oriented, although reliance on acquisitions, international operations, foreign currency movements, discretionary tax benefits, and substantial marketing investments presents moderate underlying risk."
+}

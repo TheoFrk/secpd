@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.91,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance can be given",
+    "cannot predict ultimate value",
+    "subject to Bankruptcy Court approval",
+    "materially change historical classifications"
+  ],
+  "risk_summary": "The excerpt presents severe credit risk, including Chapter 11 proceedings, delisting, uncertain recoveries for creditors and equity holders, and unresolved restructuring outcomes. While it provides concrete dates and procedural details, extensive legal boilerplate and repeated forward-looking disclaimers limit clarity regarding ultimate recoveries and financial consequences."
+}

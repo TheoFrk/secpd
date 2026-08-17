@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "potentially issuing alternative debt securities",
+    "cannot provide assurance",
+    "if available, on acceptable terms",
+    "future liquidity constraints"
+  ],
+  "risk_summary": "The excerpt explicitly identifies recurring operating losses, negative operating cash flow, covenant breaches, reduced borrowing capacity, near-term facility maturities, and substantial doubt about going-concern viability. Management cites equity proceeds, cost reductions, and planned sales growth as mitigants, but repeatedly notes that additional financing and operational improvements are uncertain and potentially dilutive."
+}

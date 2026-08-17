@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict approval",
+    "expected to become more significant",
+    "may not be covered by insurance",
+    "contingent upon approval",
+    "approximately"
+  ],
+  "risk_summary": "The excerpt is predominantly specific and quantitative, describing regulated operations, rate actions, customer counts, financing terms, and storm impacts. Risk tone is generally stable and confident, though regulatory approvals, insurance recovery, future wastewater growth, and contingent transactions introduce moderate uncertainty."
+}

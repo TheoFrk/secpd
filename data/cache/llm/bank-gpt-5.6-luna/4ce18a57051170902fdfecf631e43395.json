@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to increase",
+    "we believe",
+    "Adjusted EBITDA exclusions",
+    "non-GAAP measures",
+    "prospective net cash flow"
+  ],
+  "risk_summary": "The excerpt provides some concrete operating, liquidity, and debt figures, but relies heavily on repeated non-GAAP definitions and extensive adjustments that may obscure underlying cash-generation and leverage risks. The transformation narrative is optimistic and forward-looking, while execution, integration, refinancing, and debt-service risks receive limited discussion in the provided section."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could be material",
+    "subjective assessments",
+    "actual results could materially differ",
+    "highest and best use",
+    "opportunistic investments"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific regarding portfolio size, debt activity, impairments, and strategic actions. Key risks involve judgment-dependent valuations, collectability, deferred tax assets, impairment recognition, refinancing and deleveraging execution, with potential material charges if asset sale prices fall below carrying values."
+}

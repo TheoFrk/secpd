@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant customer concentration",
+    "foreseeable future",
+    "cyclical demand fluctuations",
+    "numerous operational efficiencies",
+    "more-likely-than-not impairment trigger"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including customer concentration, headcount reduction, and major goodwill and intangible-asset impairment charges. Key risks include dependence on a dominant wireless customer, cyclical semiconductor demand, slowing smartphone growth, and uncertain technology adoption. The accounting-policy discussion is detailed but highly technical and partly boilerplate."
+}

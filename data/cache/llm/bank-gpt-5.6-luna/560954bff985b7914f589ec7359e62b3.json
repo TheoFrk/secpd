@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor disclaimers",
+    "not exclusive risk-factor list",
+    "subject to risks and uncertainties",
+    "does not undertake to update",
+    "extensive merger-integration contingencies"
+  ],
+  "risk_summary": "The excerpt reports improved earnings, net interest income, credit quality, and nonperforming assets, supported by quantified year-over-year metrics. However, extensive boilerplate disclaimers and broad, non-quantified risk lists emphasize exposure to credit, liquidity, regulatory, cybersecurity, merger-integration, and economic risks. Overall tone is moderately positive on current performance but cautious regarding future results."
+}

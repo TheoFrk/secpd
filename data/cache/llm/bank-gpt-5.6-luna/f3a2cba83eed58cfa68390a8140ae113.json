@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "adjusted operating profit and EPS",
+    "constant-currency basis",
+    "dynamic operating environment",
+    "strategic revenue management",
+    "table may not foot due to rounding"
+  ],
+  "risk_summary": "The disclosure is strongly quantified and generally transparent about sales, margins, cash flow, input-cost inflation, and segment drivers. Risk tone is predominantly confident and promotional, while reliance on non-GAAP, constant-currency, and adjusted measures may make underlying performance less immediately comparable. Key risks include consumer health, persistent labor and input-cost inflation, volume weakness, and supply-chain conditions."
+}

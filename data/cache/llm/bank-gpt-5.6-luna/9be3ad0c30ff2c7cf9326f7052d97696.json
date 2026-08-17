@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "acceptable terms",
+    "estimated future operating cash flows",
+    "assumptions could change",
+    "material impact on results"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantitative, detailing leverage, liquidity capacity, maturities, pricing, covenants, acquisitions, and operating performance. Risk is moderated by reliance on capital-market access, refinancing availability, interest-rate exposure, and subjective real-estate impairment assumptions. Overall tone is confident and constructive, though it includes standard forward-looking caveats."
+}

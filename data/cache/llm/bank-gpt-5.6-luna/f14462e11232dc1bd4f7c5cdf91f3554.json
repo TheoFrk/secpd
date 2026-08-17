@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "immaterial impact",
+    "we expect",
+    "we believe",
+    "support growth"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, covering sales drivers, margins, taxes, cash flows, debt issuance, and planned capital expenditures. Risk tone is predominantly confident and growth-oriented, with a notable caution that currency movements could negatively affect fiscal 2016 results. Some standard management assertions and immateriality judgments introduce limited subjectivity."
+}

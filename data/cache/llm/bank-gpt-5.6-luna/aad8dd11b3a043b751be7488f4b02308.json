@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "challenging economic environment",
+    "partially offset by",
+    "various marketing campaigns",
+    "judgments as to whether"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with clear segment, revenue, expense, margin, and earnings data. Risk is moderate: net income declined, gross margin compressed, operating expenses grew faster than revenue, and growth is materially supported by acquisitions and favorable currency effects. The accounting-policy section is technical and somewhat boilerplate, but does not appear overtly evasive."
+}

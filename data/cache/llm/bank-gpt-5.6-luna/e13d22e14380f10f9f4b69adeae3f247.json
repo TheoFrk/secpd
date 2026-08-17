@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and difficult to predict",
+    "substantial negative impact",
+    "may directly or indirectly",
+    "depending on the application",
+    "for additional information, please read"
+  ],
+  "risk_summary": "The excerpt identifies material commercial, regulatory, clinical-trial, supply, pandemic, and generic-competition risks, including a substantial expected decline in TECFIDERA revenue. Disclosure is generally specific and supported by quantified data, but COVID-19 and Brexit impacts rely on broad uncertainty language and extensive cross-references. Overall tone is measured and corporate rather than crisis-like, with moderate downside risk."
+}

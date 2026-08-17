@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "potential increases",
+    "expected to",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The company is pre-revenue, loss-making, dependent on additional financing, and exposed to dilution, debt-service constraints, and potential curtailment of research programs. The disclosure relies heavily on forward-looking and conditional language, while providing limited quantified detail on funding runway, commercialization timing, or clinical and regulatory milestones."
+}

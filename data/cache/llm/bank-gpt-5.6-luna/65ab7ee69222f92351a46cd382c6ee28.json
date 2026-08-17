@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "many issues remain a concern",
+    "primarily due to",
+    "non-GAAP measures",
+    "clearer picture of underlying trends",
+    "management anticipates"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and well quantified, with detailed AUM, revenue, expense, cash flow, and margin data. Key risks include institutional and retail net outflows, challenging market conditions, a tax-provision error requiring restatement, and reliance on non-GAAP performance measures. Overall tone is cautiously constructive rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "designed to",
+    "we believe",
+    "if any",
+    "unable to assess",
+    "cannot reasonably estimate"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on clinical studies, grants, milestones, and timelines, but relies on promotional efficacy claims and repeated uncertainty language regarding regulatory approval, COVID-19 impacts, and future financing access. The company remains clinical-stage, with commercialization dependent on successful trials and regulatory approvals, while some patent protection may expire before approval."
+}

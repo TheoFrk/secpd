@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance can be given",
+    "anticipated to continue",
+    "assuming ... remain stable",
+    "subject to a degree of uncertainty",
+    "significant management judgment"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitative, but highlights losses in multi-family and other real estate activities, funding dependence, leverage, and uncertainty around profitability and asset valuation. Management uses forward-looking assumptions regarding occupancy, revenue growth, subsidies, and financing availability, creating meaningful execution and credit risk."
+}

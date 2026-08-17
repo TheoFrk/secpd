@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance",
+    "risks and uncertainties",
+    "materially differ",
+    "management assumptions and estimates"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking-statement disclaimers and emphasizes uncertainty around healthcare legislation, reimbursement, competition, and future performance. Accounting policy disclosures are detailed and include some quantified lease and FFO information, but reliance on management assumptions and non-GAAP measures may complicate assessment of underlying cash generation and asset values."
+}

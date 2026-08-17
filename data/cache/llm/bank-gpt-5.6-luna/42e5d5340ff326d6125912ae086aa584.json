@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "numerous assumptions",
+    "variety of risks and uncertainties",
+    "no obligation to update",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and broad, largely non-quantified risk categories, particularly around credit losses, liquidity, regulation, markets, and operational disruptions. It also provides some concrete balance, rate, and portfolio-growth data, but the excerpt is dominated by boilerplate risk language and complex accounting-estimate disclosures."
+}

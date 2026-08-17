@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we anticipate",
+    "could differ from estimates",
+    "management judgments and assumptions",
+    "qualified with the term net sales as adjusted"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and well quantified, but it reports declining sales, an operating loss, weaker demand across brands, margin pressure, and substantial restructuring costs. Management presents corrective actions and new product initiatives positively, while relying on forecasts and judgment-sensitive assumptions for market growth, impairment testing, and future costs."
+}

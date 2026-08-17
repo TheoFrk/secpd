@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP segment operating profit",
+    "items not representative of ongoing operations",
+    "temporary curtailments of production",
+    "subject to certain exceptions",
+    "defined instances only"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and generally transparent, but uses adjusted non-GAAP measures and exclusions that may complicate comparability with GAAP results. Operating performance weakened materially, with an 8% sales decline, a 37% reduction in segment operating profit, net losses, lower demand, destocking, competitive pressure, and significant secured debt subject to covenants."
+}

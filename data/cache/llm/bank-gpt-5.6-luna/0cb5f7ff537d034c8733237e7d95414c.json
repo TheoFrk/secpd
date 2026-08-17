@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "going forward we expect more variability",
+    "may involve new products",
+    "if necessary",
+    "cannot guarantee",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, showing substantial improvement in revenue, margins, operating income, cash flow, and liquidity. However, liquidity depends partly on an SBA PPP loan, while future bookings, manufacturing execution, product development, customer credit, personnel, controls, and COVID-19 effects remain material uncertainties. The extensive risk-factor language is largely standardized and boilerplate, limiting specificity about the probability and financial magnitude of identified risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measure disclaimers",
+    "not comparable to other companies",
+    "partially offset by",
+    "challenging weather conditions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment definitions, revenue percentages, operating drivers, and non-GAAP reconciliations. Risk is presented in a measured, mostly confident tone, but the business remains exposed to seasonality, weather, economic conditions, and its significant fixed-cost structure. Repeated forward-looking and non-GAAP disclaimers are largely standard boilerplate rather than evidence of material concealment."
+}

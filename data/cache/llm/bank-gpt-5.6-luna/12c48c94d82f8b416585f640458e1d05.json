@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to provide",
+    "as further discussed",
+    "potential impacts",
+    "may be suspended or discontinued",
+    "continue to assess"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent on repurchases, disaster reserves, credit-loss provision changes, and regulatory developments. However, strategic objectives and some forward-looking impacts rely on generic language, while extensive cross-references and acquisition-related comparisons increase interpretive complexity. Overall tone is cautiously constructive, with identifiable exposure to credit, regulatory, disaster, and funding risks."
+}

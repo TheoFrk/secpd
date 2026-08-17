@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "actual results could be materially different",
+    "various factors",
+    "not possible to precisely allocate",
+    "subject to significant risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting earnings, margins, provisions, charge-offs, and specific commercial-loan impairments. Risk disclosure relies on standard forward-looking and safe-harbor boilerplate, while the increase in net charge-offs and concentration of losses in large commercial loans represent meaningful credit-risk signals."
+}

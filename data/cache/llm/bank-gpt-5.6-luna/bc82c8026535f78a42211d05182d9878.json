@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherent uncertainty",
+    "significant judgment required",
+    "may be materially greater or lower",
+    "reasonably likely scenario",
+    "not unusual or unexpected"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed year-over-year performance, reserve balances, loss ratios, and sensitivity analysis. The principal risk relates to uncertainty in title-loss reserves, IBNR estimates, large claims, agency defalcations, and mortgage fraud, with potential for material reserve adjustments. Operating results are mixed rather than crisis-like: revenue declined in key title activities, while pretax title income improved through lower expenses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not possible to predict all factors",
+    "no obligation to update",
+    "significant estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and safe-harbor language, limiting accountability for future outcomes and emphasizing numerous operational, market, supplier, customer, acquisition, and technology risks. Operating results are presented in a generally positive tone with quantified margins and sales drivers, but critical impairment and receivables estimates remain sensitive to assumptions and changing conditions."
+}

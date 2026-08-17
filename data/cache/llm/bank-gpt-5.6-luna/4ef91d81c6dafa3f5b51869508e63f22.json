@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be accurately predicted",
+    "may not be available",
+    "expect such losses to continue",
+    "subject to change",
+    "when the opportunity arises"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but highlights sustained net losses, declining revenue, accumulated deficit, uncertain cash flow, and potential dependence on additional financing. Forward-looking qualifications and uncertainty around capital availability materially elevate liquidity and going-concern risk."
+}

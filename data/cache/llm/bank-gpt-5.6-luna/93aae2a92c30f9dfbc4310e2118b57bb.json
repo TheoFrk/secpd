@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results will inevitably differ",
+    "whenever conditions warrant",
+    "could negatively impact",
+    "possible reduced margins",
+    "subject to further reductions"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, reporting sales, earnings, backlog, debt terms, covenant thresholds, and market exposures. It presents a cautiously positive outlook based on acquisition and new programs, but acknowledges meaningful risks from declining truck production, soft recreational-vehicle demand, raw-material inflation, tariffs, pension assumptions, and LIBOR transition. Some risk disclosures rely on conditional or broad language and the provided text is truncated, limiting assessment of financing and liquidity details."
+}

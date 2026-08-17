@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to a number of factors and uncertainties",
+    "including, but not limited to",
+    "Management believes that the ALL is adequate",
+    "other events beyond the Company’s control",
+    "no problems with meeting its liquidity needs"
+  ],
+  "risk_summary": "The excerpt reports consecutive net losses, including a $4.6 million loss in 2015, alongside declining net interest and non-interest income and rising non-interest expense. Credit, liquidity, economic, regulatory, and estimate-driven risks are acknowledged, but management provides limited quantitative sensitivity or detail on their potential impact. The liquidity discussion is reassuring, although reliance on contingency funding sources and potentially volatile deposits remains a risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.16,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "no assurance",
+    "not meaningful",
+    "allocated corporate expenses"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and segment-specific, but reports declining consolidated revenue and net income, with particularly significant deterioration in TRS-RenTelco and Adler Tanks. Standard forward-looking disclaimers and limited discussion of drivers such as allocated expenses and margin sustainability introduce moderate uncertainty, but the tone is not crisis-like."
+}

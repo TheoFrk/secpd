@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "could have a material adverse effect",
+    "various methods",
+    "if needed",
+    "customary representations and warranties"
+  ],
+  "risk_summary": "The disclosure is detailed and includes material quantitative exposure data, covenant terms, borrowing levels, and cash-flow information. Key risks stem from market valuation volatility, insurance reserve and policy-benefit estimation uncertainty, reinsurer collectability, and potential adverse loss development. Liquidity appears adequate based on increased cash balances and modest borrowings, but the excerpt is truncated before management’s full liquidity conclusion."
+}

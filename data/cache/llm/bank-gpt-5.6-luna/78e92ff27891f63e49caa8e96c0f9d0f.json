@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "risks are manageable",
+    "among other things",
+    "currently assessing the impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail and describes improving sales, margins, profitability, and housing-market conditions. Risk disclosure is largely standardized and broad, emphasizing potential material adverse impacts without quantifying their likelihood or magnitude, particularly for housing demand, promotions, pensions, taxes, and accounting changes."
+}

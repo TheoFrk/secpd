@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "assuming continued growth",
+    "no assurance",
+    "could be significant",
+    "economic uncertainties",
+    "long-term strategic objective"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating data, including revenue, hours worked, bill rates, margins, and regional trends. Risk tone is moderately negative due to weak demand, declining revenue and hours, below-target profitability, planned investment-related earnings pressure, and uncertain healthcare cost recovery. Forward-looking targets are conditional and include material caveats around economic growth and pricing execution."
+}

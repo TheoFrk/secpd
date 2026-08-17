@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonable under the circumstances",
+    "actual results could differ",
+    "probable and estimable",
+    "inherently unpredictable",
+    "significant judgments and assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and some useful quantification, including unapproved claims revenue of $13.1 million and a 10% reserve sensitivity of $0.6 million. Risk is concentrated in contract estimates, change orders and claims, litigation, insurance reserves, and goodwill impairment assumptions, with material outcomes dependent on management judgment. The tone is cautiously neutral, combining confidence in historical estimates with broad standard disclaimers about adverse revisions and unpredictability."
+}

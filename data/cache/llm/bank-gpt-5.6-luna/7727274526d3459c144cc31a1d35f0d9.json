@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "omitted causal detail after \"primarily due to\"",
+    "forward-looking market expectations",
+    "heightened pricing volatility",
+    "trade policy and tariff exposure",
+    "conditional housing forecast"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, covering segment drivers, pricing, volumes, tariffs, exchange rates, and operating results. Risk is moderate because results depend on cyclical housing demand, volatile wood-product prices, export markets, currency movements, and trade duties. Several causal explanations are incomplete in the excerpt, particularly where contributing factors appear after \"primarily due to:\"."
+}

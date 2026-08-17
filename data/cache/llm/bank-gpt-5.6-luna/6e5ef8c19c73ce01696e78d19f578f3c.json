@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "may use",
+    "various factors",
+    "expects these trends to continue",
+    "subject to significant changes"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating outlook supported by strong semiconductor and display investment, rising sales, margins, and operating cash flow. However, results are highly cyclical and exposed to customer spending, technology transitions, geographic concentration, and timing uncertainty. Disclosure is fairly substantive but uses recurring qualifiers and includes a truncated section that limits assessment of the full risk context."
+}

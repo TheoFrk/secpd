@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally have been",
+    "we expect",
+    "various factors affect",
+    "could have a significant impact",
+    "strategy may result in the appearance"
+  ],
+  "risk_summary": "The excerpt is relatively transparent, with substantial historical revenue, segment, market-concentration, and operating-performance quantification. Key risks include advertising cyclicality, economic sensitivity, competitive pricing, technological disruption, market concentration, and execution risk from investing ahead of revenue growth; the overall tone is balanced rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.9,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "extensive non-GAAP adjustments",
+    "unable to predict without unreasonable efforts",
+    "forward-looking risks and uncertainties",
+    "mid-single-digit declines",
+    "excluding unusual charges"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive outlook, emphasizing sustained growth, margin improvement, and free cash flow above $320 million. However, extensive non-GAAP exclusions, acquisition and restructuring effects, Fitness weakness, tariffs, foreign exchange exposure, and the inability to provide GAAP guidance reduce comparability and visibility. Dense boilerplate and heavily qualified projections further complicate assessment of underlying performance."
+}

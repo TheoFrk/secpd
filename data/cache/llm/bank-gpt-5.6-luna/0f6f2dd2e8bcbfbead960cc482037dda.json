@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not meaningful",
+    "one-time items",
+    "timing of certain expenses",
+    "anticipated future remediation costs",
+    "text truncated mid-disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified but reports declining sales, a sharp deterioration to a quarterly net loss, elevated restructuring and environmental charges, and an unusually negative effective tax rate. Management provides explanations and identifies offsetting cost savings, but recurring demand weakness, currency exposure, remediation obligations, and restructuring-related uncertainty remain material risks."
+}

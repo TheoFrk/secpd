@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial doubt about going concern",
+    "no assurance of funding",
+    "if and when economically feasible",
+    "various factors and uncertainties"
+  ],
+  "risk_summary": "The company generated no revenue, had zero cash, recurring losses, negative operating cash flow, and an accumulated deficit, creating substantial doubt about its ability to continue as a going concern. Operations depend on additional debt and equity financing, with no assurance that funding will be available; drilling and exploration have been suspended. The disclosure is financially specific but includes extensive boilerplate, complex accounting language, and speculative future plans."
+}

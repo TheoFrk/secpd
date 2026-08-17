@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.73,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "various important factors",
+    "no assurance future events",
+    "outside the control of management",
+    "does not expect a material impact"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on broad forward-looking disclaimers and generalized risk factors, with limited quantified sensitivity analysis. It identifies meaningful estimation risks in receivables, rebates, inventory, taxes, goodwill, and pensions, but presents historical outcomes and expected accounting-standard impacts as largely non-material."
+}

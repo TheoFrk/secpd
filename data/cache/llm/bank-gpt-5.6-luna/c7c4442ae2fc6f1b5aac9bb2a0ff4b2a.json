@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "including but not limited to",
+    "as needed",
+    "expected to",
+    "dependent on financial market conditions",
+    "preliminary engineering studies"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, detailing customers, contract expirations, rate recovery, PFAS compliance timelines, capital spending, and debt terms. Key risks include substantial infrastructure funding needs, evolving PFAS and lead-service-line requirements, regulatory cost recovery, and dependence on debt or equity market conditions. Overall tone is cautiously positive and operationally confident rather than crisis-oriented."
+}

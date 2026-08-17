@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "ultimate outcome is unknown",
+    "materially different results",
+    "believed adequate by management",
+    "judgement errors may occur",
+    "based on historical loss experience"
+  ],
+  "risk_summary": "The disclosure describes a judgment-intensive allowance-for-loan-loss process with limited quantitative detail on reserve adequacy, expected losses, or sensitivity to adverse scenarios. It acknowledges that changing economic and borrower conditions could materially alter estimates, creating potential credit-loss and earnings volatility."
+}

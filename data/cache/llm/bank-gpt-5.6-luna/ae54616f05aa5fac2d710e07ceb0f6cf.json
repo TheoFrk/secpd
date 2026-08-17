@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks include but are not limited to",
+    "continued growth",
+    "uniquely positioned",
+    "rapidly changing world"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and an extensive, non-prioritized list of potential risks, limiting assessment of materiality and likelihood. Management presents a generally optimistic strategic narrative despite economic headwinds, layoffs, restructuring costs, demand uncertainty, cybersecurity exposure, indebtedness, and execution risks. The financial discussion includes useful quantified variances but is incomplete and truncated."
+}

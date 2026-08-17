@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to estimate with any certainty",
+    "forward-looking statements",
+    "substantial resources",
+    "if approved",
+    "current financial resources"
+  ],
+  "risk_summary": "The excerpt combines detailed product and regulatory information with material uncertainty around clinical development costs, regulatory approval, and future spending. Quantified commitments include $10.1 million of capital expenditures, $40.9 million of purchase obligations, and $7.2 million of convertible notes outstanding, but the stated funding source is only current financial resources. Overall tone is cautiously neutral, with meaningful execution, financing, and approval risks."
+}

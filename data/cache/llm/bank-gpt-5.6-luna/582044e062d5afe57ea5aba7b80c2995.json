@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted earnings",
+    "normalized operations",
+    "expected to be fully accretive",
+    "continues to focus on profitability",
+    "stabilized cost if rates do go up"
+  ],
+  "risk_summary": "The excerpt reports improved earnings, asset quality-related performance indicators, and reduced wholesale funding, but net interest margin declined and depends partly on strategic balance-sheet actions and future accretion. Extensive boilerplate and emphasis on non-GAAP measures may make comparability and underlying performance less transparent."
+}

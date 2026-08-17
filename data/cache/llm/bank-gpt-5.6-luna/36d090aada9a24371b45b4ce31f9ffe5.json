@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "expected to",
+    "low risk in-market transactions",
+    "outlook remains positive",
+    "customary conditions"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive management narrative centered on acquisitions, strategic initiatives, and favorable economic conditions, with substantial quantified transaction details. Risk discussion is present but generally qualified and forward-looking, including competitive lending pressure, aggressive underwriting, interest-rate impacts, and regulatory approval conditions. Extensive non-GAAP definitions and promotional language may reduce comparability and temper the otherwise confident tone."
+}

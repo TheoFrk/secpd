@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "additional undisclosed product candidates",
+    "ability to curtail or delay programs",
+    "estimates and assumptions",
+    "probable implementations"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes material quantified amounts, but relies on standard forward-looking disclaimers, judgment-based assumptions, and undisclosed pipeline information. The clinical-stage status, dependence on milestone-based collaboration proceeds, and potential need to curtail programs indicate meaningful execution and liquidity risk, although the tone is generally factual rather than crisis-like."
+}

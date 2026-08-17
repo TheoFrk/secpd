@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significant uncertainties and contingencies",
+    "many of which are beyond the Company’s control",
+    "cannot guarantee future performance",
+    "does not undertake any obligation to update"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative, supported by quantified loan growth, earnings, deposits, acquisitions, and declining non-performing assets. Risk disclosure is substantially boilerplate, emphasizing broad uncertainties, dependence on economic and competitive conditions, acquisition integration, loan quality, interest rates, and regulatory burden without detailed scenario quantification. The high commercial real estate and commercial loan growth warrants attention despite the reported stable provision and low charge-offs."
+}

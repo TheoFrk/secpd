@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective input assumptions",
+    "could cause actual results to differ",
+    "if necessary in the next 12 months",
+    "substantial doubt about ability to continue",
+    "excerpt appears truncated"
+  ],
+  "risk_summary": "The excerpt is heavily accounting-policy and compliance oriented, with substantial reliance on management estimates, subjective valuation inputs, and conditional planning language. Governance turnover, derivative-liability valuation uncertainty, receivable collectability risk, and the referenced going-concern disclosure indicate elevated risk, although the available text does not provide sufficient liquidity or funding quantification."
+}

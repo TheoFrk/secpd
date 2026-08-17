@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking statements",
+    "significant risks and uncertainties",
+    "actual results may differ materially",
+    "not possible to predict all",
+    "non-GAAP measures and limitations"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking-disclaimer language and broad, largely unquantified risk factors, which limits transparency regarding downside scenarios. Operating disclosures include useful quantified figures on credit losses, deposits, investments, and funding, but the excerpt is truncated and the deposit decline and competitive-rate pressures indicate moderate risk."
+}

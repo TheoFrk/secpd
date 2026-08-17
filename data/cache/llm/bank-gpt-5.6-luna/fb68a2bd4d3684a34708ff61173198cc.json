@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to variability",
+    "Actual results could differ significantly",
+    "significant judgments",
+    "current market conditions",
+    "stable to rising net interest margin"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting earnings, balance-sheet movements, tax impacts, and allowance methodology. Key risks remain concentrated in subjective loan-loss estimates, collateral valuations, commodity prices, construction, regulatory changes, and interest-rate sensitivity, while the forward outlook is cautiously positive."
+}

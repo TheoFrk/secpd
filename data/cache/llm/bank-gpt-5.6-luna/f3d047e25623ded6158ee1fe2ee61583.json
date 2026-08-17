@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "numerous assumptions, estimates, and assessments",
+    "could differ significantly",
+    "continued broad-based improvement",
+    "best estimate of probable losses"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, emphasizing improving credit quality, strong earnings, loan and deposit growth, and capital returns. Risk is moderated by disclosure of subjective allowance estimates, portfolio concentration and credit-risk assumptions, but the overall tone is confident rather than crisis-like."
+}

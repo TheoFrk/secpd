@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on current expectations",
+    "we expect revenue declines will continue",
+    "mainly attributable to",
+    "significant judgements and assumptions",
+    "additional capital will be required"
+  ],
+  "risk_summary": "The excerpt discloses substantial operating deterioration, including a 30.4% revenue decline, falling gross margin, customer attrition, pricing pressure, continued expected revenue declines, and significant impairment charges. Although several figures are quantified, explanations rely partly on broad qualitative attributions and forward-looking caveats, while reduced R&D and potential additional capital needs indicate elevated liquidity and business-model risk."
+}

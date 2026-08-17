@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "based on best estimate of future cash flows",
+    "believe that",
+    "likely due to",
+    "not possible to forecast or predict",
+    "assumptions may materially affect"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and strongly quantified, with clear year-over-year sales, earnings, pricing, and pension sensitivity disclosures. Risk exposure remains tied to cyclical housing demand, commodity OSB pricing, capacity and input costs, operational downtime, and judgment-dependent accounting estimates. Overall tone is favorable due to substantial operating improvement, but it includes meaningful forward-looking and assumption-related uncertainty."
+}

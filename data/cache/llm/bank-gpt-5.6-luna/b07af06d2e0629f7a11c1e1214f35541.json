@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "various factors could affect",
+    "anticipated or projected",
+    "recovery assumptions",
+    "truncated cash-flow discussion"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but includes standard forward-looking disclaimers and relies on uncertain housing-market recovery and product-launch assumptions. Risk tone is negative, reflecting a $503,288 net loss, a 70.4% decline in equity earnings from the joint venture, reduced working capital, and $3.8 million of operating cash use. Liquidity depends on operations and a $1 million factoring facility secured by receivables and inventory."
+}

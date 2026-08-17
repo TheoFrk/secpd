@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "partially offset",
+    "primarily attributable",
+    "consistent with",
+    "normal production decline",
+    "management believes"
+  ],
+  "risk_summary": "The disclosure is relatively precise and strongly quantified, with clear year-over-year explanations of revenue, earnings, volumes, pricing, and costs. Risk tone is mildly negative because of substantially lower net and operating income, lower realized gas prices, and higher DD&A and interest expense, although production, gathering volumes, and reserves increased."
+}

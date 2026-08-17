@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "may vary significantly period to period",
+    "judgment is required",
+    "future business developments",
+    "non-recurring expenses"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear year-over-year explanations, but it highlights continuing losses, revenue contraction, margin pressure, restructuring costs, and substantial tax-asset realizability dependence. The risk tone is moderately negative despite improvement from the prior year, which was distorted by significant pension settlement losses."
+}

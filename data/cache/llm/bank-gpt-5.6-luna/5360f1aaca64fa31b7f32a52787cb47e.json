@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor disclaimers",
+    "risks and uncertainties",
+    "not exclusive",
+    "do not undertake to update",
+    "significant judgments and estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on earnings, asset quality, capital ratios, loan growth, and funding, with generally improving credit metrics and a well-capitalized profile. Risk disclosure is heavily boilerplate and emphasizes broad uncertainties, assumptions, and forward-looking statement protections, while acquisition-driven growth and declining net income warrant monitoring."
+}

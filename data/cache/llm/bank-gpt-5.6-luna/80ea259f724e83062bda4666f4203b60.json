@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "significant estimates and judgments",
+    "more likely than not",
+    "will further study the implications",
+    "not updated its Section 382 analysis since 2009"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial tax-loss carryforward and valuation-allowance quantification, but relies heavily on standard forward-looking disclaimers and management estimates. Key uncertainty remains around tax asset recoverability, impairment judgments, and the not-currently-updated Section 382 analysis; the overall tone is neutral with modestly adverse risk implications."
+}

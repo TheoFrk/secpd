@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "cannot guarantee future results",
+    "disclaim any obligation to update",
+    "inherent uncertainty in estimation"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers, including repeated language limiting reliance on projections and emphasizing that actual results may differ materially. Operating strategy and manufacturing capabilities are described confidently, but quantified performance, exposure, and contingency impacts are largely absent in the provided section."
+}

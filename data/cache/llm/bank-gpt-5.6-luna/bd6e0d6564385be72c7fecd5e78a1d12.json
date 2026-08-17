@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "extent and duration cannot be predicted",
+    "we believe demand will accelerate",
+    "actual results could differ",
+    "historical experience",
+    "going concern"
+  ],
+  "risk_summary": "The disclosure presents materially adverse conditions, including declining sales, a substantially larger net loss, operating losses, elevated costs, increased tax valuation allowances, and Nasdaq delisting. Quantitative results are generally specific, but outlook and recoverability discussions rely on estimates and hedged assumptions, while the repeated delisting disclosure adds boilerplate redundancy."
+}

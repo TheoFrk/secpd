@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "certain liabilities",
+    "subject to certain closing conditions",
+    "no assurance",
+    "subject to extension",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, particularly regarding acquisitions, financing, cash flows, and liquidity. Risk is elevated by acquisition-driven growth, reduced cash balances, substantial borrowing activity, and the pending Tri-State transaction, although management presents operating performance positively. Some contractual and accounting uncertainties are described using broad qualifiers and technical boilerplate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "not required to revise or update",
+    "subject to change based on guidance",
+    "flat-to-modest volume growth"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and capital guidance, but is preceded by extensive boilerplate disclaimers that limit reliance on projections and emphasize unquantifiable risks. Operating trends are mixed, with volume declines, lower expected EBITDA, negative working capital, and significant planned vessel investment, although management presents the outlook as broadly stable."
+}

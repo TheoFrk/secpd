@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance",
+    "substantial doubt about going concern",
+    "maintaining operations as best we are able",
+    "seeking debt or equity financing",
+    "if unable to refinance or extend"
+  ],
+  "risk_summary": "The disclosure is unusually direct and well quantified regarding severe liquidity stress, lender default, negative working capital, losses, and substantial doubt about going-concern viability. Management cites refinancing, creditor forbearance, cost reductions, and growth initiatives, but these plans remain uncertain and dependent on external financing and lender extensions."
+}

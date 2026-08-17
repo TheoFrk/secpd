@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ",
+    "long-term projections",
+    "inherently uncertain estimates",
+    "material impact"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy disclosure, with substantial technical detail and several quantified revenue and operating-income figures. Key risks arise from estimation uncertainty in revenue recognition, inventory valuation, goodwill impairment, taxes, and acquisitions, although management reports no goodwill impairment risk as of June 30, 2018. Overall tone is cautiously positive, emphasizing growth and market expansion while relying on broad forward-looking disclaimers."
+}

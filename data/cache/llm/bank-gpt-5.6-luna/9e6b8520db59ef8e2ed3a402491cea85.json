@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may be impacted by",
+    "significant portion",
+    "certain limits",
+    "other factors such as",
+    "unspecified damages"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and insurance-risk quantification, including customer concentration, contract termination rights, retainage, claim retentions, and stop-loss coverage. However, it relies on broad qualifiers and extensive boilerplate regarding economic conditions, collectability, claims estimates, and potential litigation, with the excerpt also ending mid-disclosure. Overall tone is cautious and risk-aware rather than crisis-like."
+}

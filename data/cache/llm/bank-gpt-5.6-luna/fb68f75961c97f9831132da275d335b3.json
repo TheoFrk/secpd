@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "beyond the Partnership’s control",
+    "expressly disclaim any obligation to update",
+    "not construed as exhaustive",
+    "if certain conditions are met"
+  ],
+  "risk_summary": "The disclosure contains substantial quantified operating, acquisition, refinancing, and leverage information, but is embedded in lengthy boilerplate forward-looking disclaimers and repeated non-update language. Key risks include coronavirus exposure to international-student demand, rising rental commissions, significant line-of-credit borrowings, refinancing needs, and concentrated governance following the controlling owner’s death. Overall operating performance is presented positively, though the outlook is materially conditional on limited economic disruption."
+}

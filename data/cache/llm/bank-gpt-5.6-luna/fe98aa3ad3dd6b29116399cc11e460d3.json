@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to predict additional consequences",
+    "potentially volatile and severe",
+    "no assurance of forgiveness",
+    "estimates and assumptions",
+    "may be required to record impairment"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on revenue concentration, deferred tax assets, liquidity, debt, COVID-19 mitigation actions, and PPP funding. However, it highlights substantial uncertainty around pandemic effects, future taxable income, receivables collectability, loan forgiveness, and impairment assumptions, while concluding that operations can continue based on positive cash flow and available liquidity."
+}

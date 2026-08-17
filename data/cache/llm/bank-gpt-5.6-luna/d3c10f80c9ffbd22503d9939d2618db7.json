@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "sufficient for the foreseeable future",
+    "subject to approval by lending banks",
+    "if required, adjust business strategy",
+    "actual return may not remain"
+  ],
+  "risk_summary": "The excerpt is comparatively transparent and heavily quantified, including debt, liquidity, coverage ratios, acquisitions, lease terms, and distribution history. The tone is generally confident and stable, but it acknowledges capital-market access, interest-rate, tenant-default, and real-estate-market risks through standard conditional language. Disclosure complexity is high due to extensive REIT, financing, and non-GAAP terminology, while the excerpt is partially truncated."
+}

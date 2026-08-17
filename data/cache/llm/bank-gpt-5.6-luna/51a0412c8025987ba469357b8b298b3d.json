@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unless and until",
+    "no material commitments",
+    "cannot be assured",
+    "not aware of any other trends",
+    "complex exceptions and contingencies"
+  ],
+  "risk_summary": "The company reports recurring operating cash burn, declining cash balances, substantial deferred executive compensation, and no meaningful liquidity sources beyond working capital and asset-related proceeds. Management explicitly expects negative cash flow and net losses unless it makes currently unplanned investments that generate sufficient operating cash flow. Disclosure is quantitatively specific but uses lengthy legalistic caveats and conditional language around liquidity and environmental or reclamation liabilities."
+}

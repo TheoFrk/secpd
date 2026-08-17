@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may not be available",
+    "no purchase commitments",
+    "inherently subjective estimates",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The disclosure is quantitatively specific about a 45% revenue decline, substantial operating losses, weak product sales, and working-capital constraints. Liquidity and execution risk are elevated because production funding is required and may be unavailable, while the new product has no retailer purchase commitments. Repeated disclaimer and boilerplate language somewhat obscures the severity of the operating deterioration."
+}

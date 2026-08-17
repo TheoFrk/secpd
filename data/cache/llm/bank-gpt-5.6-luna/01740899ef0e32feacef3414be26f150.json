@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily caused by",
+    "among other things",
+    "subject to other factors",
+    "could impact our ability",
+    "significant degree of flexibility"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, with clear year-over-year drivers, investment plans, and credit-rating sensitivity. Key risks include customer switching, weather dependence, substantial capital requirements, collateral exposure of approximately $211.8 million, and potential higher-cost capital-market access after a downgrade. Overall tone is moderately confident, supported by investment-grade ratings and stable outlooks, but includes standard forward-looking caveats."
+}

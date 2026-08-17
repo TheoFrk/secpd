@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.81,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "inherent uncertainties",
+    "impracticable to provide projections",
+    "pending regulatory review",
+    "benefits not expected to recur"
+  ],
+  "risk_summary": "The disclosure is relatively quantified but uses extensive non-GAAP adjustments and allocation changes that may complicate comparability and obscure underlying performance. It highlights modest market growth, competitive pricing, inflation, rising expenses, and uncertainty surrounding the pending US Foods merger. Management remains strategically confident, but the overall tone is cautiously negative due to margin and cost pressures."
+}

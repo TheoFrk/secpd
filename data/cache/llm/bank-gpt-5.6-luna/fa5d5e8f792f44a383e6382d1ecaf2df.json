@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future trend",
+    "not subject to accurate forecasting",
+    "uncertain whether recovery can be sustained",
+    "subject to certain limitations",
+    "as discussed in more detail"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, net income, segment changes, foreign-exchange effects, and COVID-19 impacts. Key risks include dependence on volatile catastrophe-related claim volumes, economic conditions, outsourcing decisions, and uncertainty around the durability of recovery. The tone is cautiously positive overall, offset by material operational and forecasting uncertainties."
+}

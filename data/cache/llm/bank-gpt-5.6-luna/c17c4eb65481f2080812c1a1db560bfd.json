@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "continued weakness in global credit markets",
+    "partially offset by",
+    "improving outlook",
+    "controlled spending",
+    "discontinued operations"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively supported, but describes material deterioration in crane sales, backlog, margins, foreign-exchange results, and significant debt-related costs. The disclosure also reports accounting errors and restructuring activity, although it frames these as non-material or partly offset by cost reductions and improving order rates. A likely unit error in the gross-profit comparison and the truncated passage reduce reliability somewhat."
+}

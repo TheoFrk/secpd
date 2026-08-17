@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.82,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurances",
+    "based upon management’s judgment",
+    "certain milestone payments",
+    "subject to specified conditions",
+    "projected net cash flows"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk, with only $28,000 in cash, a $567.3 million accumulated deficit, and an explicit need for additional capital without assurance of successful financing. The business remains dependent on unproven clinical-stage products, regulatory approvals, partnerships, and uncertain future cash flows. Extensive technical, contractual, and impairment-accounting language adds complexity and partially obscures the magnitude of execution and funding risks."
+}

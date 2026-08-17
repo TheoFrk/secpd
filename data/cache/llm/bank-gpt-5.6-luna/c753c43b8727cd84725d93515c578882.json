@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "no obligation to publicly release revisions",
+    "assumptions, judgments and estimates",
+    "impact was not material"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking disclaimers and emphasizes that estimates, revenue-allocation judgments, and acquisition impacts may materially affect reported results. Operating commentary is generally positive and includes quantified growth, but some explanations rely on qualitative drivers and repeated non-materiality language."
+}

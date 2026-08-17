@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily driven by",
+    "broad-based organic growth",
+    "acquisition-related growth",
+    "customary conditions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed revenue, margin, bookings, acquisition, restructuring, tax, and divestiture impacts. Risk tone is moderately positive, although dependence on acquisitions, energy-market activity, restructuring, product recalls, and execution of the Wellsite separation present meaningful risks. The introductory forward-looking disclaimer and recurring attribution language are standard boilerplate rather than substantial obfuscation."
+}

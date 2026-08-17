@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.96,
+  "redundancy_score": 0.88,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "see the section entitled",
+    "filed as an exhibit",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and directs readers to another filing section. This reliance on incorporation by reference limits transparency within the presented text and prevents assessment of liquidity, operating results, or emerging risks."
+}

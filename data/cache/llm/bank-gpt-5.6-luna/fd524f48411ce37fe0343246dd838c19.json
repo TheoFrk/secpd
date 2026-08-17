@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to a number of factors and uncertainties",
+    "including, but not limited to",
+    "high degree of Management judgment",
+    "reasonable and supportable forecasts",
+    "believes that the allowance is adequate and appropriate"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified credit-loss provisions, but relies heavily on standard forward-looking disclaimers and management judgment regarding CECL, valuation allowances, and fair values. The tone is generally stable and mildly confident, although uncertainty around economic conditions, liquidity, interest rates, and estimated loss assumptions remains material."
+}

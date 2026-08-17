@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "will be influenced by a number of factors",
+    "hope to close",
+    "not fully realized",
+    "variance is not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, explaining earnings changes, debt extinguishment losses, weather effects, commodity exposure, and acquisition timing. Liquidity is presented positively, but risks remain from warmer weather, volatile commodity prices, integration demands, facility outages, and the large pending acquisition. Forward-looking statements use moderate hedging around timing and future growth."
+}

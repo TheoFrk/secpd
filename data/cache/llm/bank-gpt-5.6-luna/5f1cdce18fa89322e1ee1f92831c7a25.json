@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot reliably estimate",
+    "potential new drugs",
+    "may fail to reach the market",
+    "partially offset by",
+    "various risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue drivers, gains, product performance, and pipeline status, reducing concerns about evasiveness. However, it emphasizes significant pharmaceutical development, regulatory, patent, pricing, foreign-exchange, and generic-competition risks, while relying on broad forward-looking uncertainty language for future outcomes."
+}

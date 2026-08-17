@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurances",
+    "not possible to predict",
+    "actual results could differ",
+    "subjective assumptions",
+    "truncated debt disclosure"
+  ],
+  "risk_summary": "The company presents severe liquidity and going-concern risk, with a $595.6 million accumulated deficit, only $5.3 million in cash, a stated need for additional capital, and $16.1 million of notes past due. Clinical-stage operations, COVID-19 uncertainty, unsecured convertible debt, and reliance on financing further heighten risk. Disclosure is materially quantified but includes standard uncertainty language and the excerpt is truncated in a potentially important settlement-debt section."
+}

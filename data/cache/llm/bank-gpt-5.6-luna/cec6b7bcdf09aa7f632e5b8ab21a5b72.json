@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "including but not limited to",
+    "primarily attributable",
+    "partially offset",
+    "several factors",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed segment-level explanations, but it highlights meaningful pressure from low oil prices, foreign exchange, declining volumes, and goodwill impairment charges. The tone is factual and controlled rather than crisis-like, though reliance on offsetting emergency-response revenue and favorable cost changes introduces earnings-quality and cyclicality concerns."
+}

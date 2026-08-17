@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP segment operating profit",
+    "items not representative of ongoing operations",
+    "significant destocking across the value chain",
+    "temporary production curtailments",
+    "higher borrowings and interest expense"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed bridges for sales, volumes, pricing, earnings, and segment performance. Risk is elevated by a $445 million goodwill impairment, a net loss, sharply lower shipments, destocking, production curtailments, and higher interest expense and borrowings. Management emphasizes stronger adjusted segment operating profit and excludes several material items as nonrecurring or not representative of ongoing operations."
+}

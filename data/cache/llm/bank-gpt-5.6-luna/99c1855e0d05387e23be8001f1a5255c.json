@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management’s judgment",
+    "subjective and qualitative factors",
+    "actual results could differ significantly",
+    "variety of factors",
+    "designed to mitigate risks"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative portfolio, repricing, concentration, and residual-value information, but relies heavily on broad caveats and management estimates for credit losses, fair values, taxes, and residual realizability. Key risks include interest-rate mismatch, leveraged syndicated loans, customer concentration, collateral-value uncertainty, and potential estimation error."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could have a material adverse impact",
+    "if ... continues over an extended period",
+    "no assurances ... in the future",
+    "based on estimates and assumptions",
+    "challenging retail environment"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding sales, earnings, liquidity, tariffs, and segment performance, with a moderately complex MD&A structure. It identifies meaningful coronavirus, retail-channel, sourcing, tariff, and impairment risks, but largely frames them as contingent and not yet material."
+}

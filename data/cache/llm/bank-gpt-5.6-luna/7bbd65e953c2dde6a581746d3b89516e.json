@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "risks and uncertainties",
+    "including but not limited to",
+    "subjective and inherently uncertain judgments"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standardized forward-looking disclaimers and a broad, largely unquantified catalog of macroeconomic, credit, funding, regulatory, litigation, technology, and acquisition risks. Critical accounting estimates, especially credit-loss allowances, rely on inherently uncertain forecasts and assumptions that could materially affect results. The tone is cautious and risk-aware rather than crisis-like, but the excerpt provides limited company-specific probability, sensitivity, or quantified downside analysis."
+}

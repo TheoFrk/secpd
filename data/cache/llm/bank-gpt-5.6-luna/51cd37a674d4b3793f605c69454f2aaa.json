@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "many factors could cause",
+    "undetermined period",
+    "committed, capable, caring and connected",
+    "profitably grow the balance sheet"
+  ],
+  "risk_summary": "The excerpt combines quantified net-interest data with extensive boilerplate disclaimers and qualitative assertions about growth, soundness, and management capabilities. Key risks include interest-rate sensitivity, margin compression, economic conditions, borrower credit strength, competition, and ongoing pandemic effects, but their potential financial magnitude is not quantified here."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "ultimate implementation",
+    "expected to cost approximately",
+    "ability to obtain new financings",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on project scale, permitted capacity, financing needs, and equity issuances, but relies heavily on forward-looking assumptions about project implementation and future cash flow. Liquidity and capital-raising dependence are material risks, including approximately $310 million of expected construction costs and an explicit warning regarding inadequate liquidity. The duplicated passage and truncated ending reduce disclosure clarity."
+}

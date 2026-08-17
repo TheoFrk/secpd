@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally presented",
+    "believed to be reasonable",
+    "actual results may differ",
+    "potential cost savings and future growth",
+    "additional information can be found in Note"
+  ],
+  "risk_summary": "The excerpt is largely transparent and quantitatively detailed, particularly regarding acquisitions, deposit and loan balances, FDIC loss-sharing terms, and interest-rate drivers. Risk is presented in a generally stable-to-positive tone, but reliance on estimates and standardized caveats leaves some uncertainty around loan-loss adequacy, fair values, and future acquisition benefits."
+}

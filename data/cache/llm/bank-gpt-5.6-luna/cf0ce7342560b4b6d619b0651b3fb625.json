@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "risks are manageable",
+    "under certain circumstances",
+    "various assumptions and estimates"
+  ],
+  "risk_summary": "The excerpt presents improving sales, margins, profitability, and housing conditions, but relies heavily on standard forward-looking disclaimers and broad conditional risk language. Material exposures include cyclical housing demand, customer and financing risk, input costs, capacity constraints, pension underfunding, deferred tax asset realization, and estimation uncertainty in self-insurance and pension liabilities."
+}

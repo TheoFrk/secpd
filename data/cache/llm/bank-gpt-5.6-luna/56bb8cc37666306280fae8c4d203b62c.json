@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximately 605,000 clients",
+    "we believe",
+    "competitive rates",
+    "leading-edge technology",
+    "subject to certain restrictions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook, supported by quantified client, revenue, liquidity, cash flow, investment, and credit-facility data. Key risks include flat client growth, slightly lower retention, challenged new sales, low interest-rate yields, and reliance on investment portfolios and short-term funding facilities. Disclosure is detailed but includes substantial boilerplate, promotional language, and some unquantified claims about competitive positioning and future growth."
+}

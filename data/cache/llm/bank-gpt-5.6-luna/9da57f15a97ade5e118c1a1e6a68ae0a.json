@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot be accurately predicted",
+    "may need to borrow additional funds",
+    "funding may not be available",
+    "covenant violations may require immediate repayment"
+  ],
+  "risk_summary": "The company reports persistent net losses, expects losses to continue, and acknowledges that future cash flows may be insufficient to support operations. Liquidity depends on equity proceeds, debt availability, and continued compliance with restrictive covenants, creating material refinancing and going-concern risk. The disclosure is quantitatively informative but uses substantial forward-looking qualifiers and dense technical language."
+}

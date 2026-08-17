@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "significant assumptions, judgments and estimates",
+    "could significantly impact",
+    "more likely than not",
+    "inherently difficult and subjective",
+    "we do not expect our experience to change"
+  ],
+  "risk_summary": "The excerpt is heavily technical and relies on recurring accounting-policy boilerplate, with substantial judgment around taxes, revenue recognition, deferred tax assets, and audit outcomes. It identifies potentially material downside scenarios but provides limited quantified exposure in the supplied text. Overall tone is neutral to mildly confident, moderated by extensive contingencies and forward-looking caveats."
+}

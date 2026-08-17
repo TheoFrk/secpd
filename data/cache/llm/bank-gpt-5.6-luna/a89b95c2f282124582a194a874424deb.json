@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involve significant risks",
+    "may experience significant fluctuations",
+    "we currently expect those pressures to continue",
+    "may impact the overall demand environment",
+    "judgments and estimates may change over time"
+  ],
+  "risk_summary": "The excerpt presents strong quantified fiscal 2021 growth, cash generation, product expansion, and acquisition activity, producing a generally positive operating tone. Key risks include supply-chain disruption, freight and input-cost inflation, staffing and demand uncertainty related to COVID-19, quarterly volatility, and estimation risk in customer credits, inventory reserves, and purchase accounting. Disclosure is relatively specific but includes substantial legal boilerplate and forward-looking qualifiers."
+}

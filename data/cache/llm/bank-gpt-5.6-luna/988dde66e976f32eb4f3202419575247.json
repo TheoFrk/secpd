@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "differ materially",
+    "does not undertake to update",
+    "partly offset by"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantitative regarding historical performance, income drivers, capital ratios, loan growth, and credit losses. Risk disclosure is substantially boilerplate and emphasizes broad, non-quantified contingencies, while declining returns on assets and equity and lower tangible common equity modestly temper the otherwise stable tone."
+}

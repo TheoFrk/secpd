@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expect significant growth",
+    "adequate capital",
+    "well positioned",
+    "can fluctuate significantly",
+    "geopolitical uncertainty"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, including revenue, margins, debt, liquidity, inventory, and warranty metrics. Risk is elevated by declining sales, sharply lower profitability, supply-chain shortages, customer-demand uncertainty, inventory exposure, and reliance on forecasts, although management uses a generally optimistic tone regarding growth and liquidity."
+}

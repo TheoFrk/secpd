@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "not an exhaustive list",
+    "actual results may differ materially",
+    "do not undertake any obligation to update",
+    "ability to maintain and attract"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and a broad, non-exhaustive catalog of risks, which limits specificity regarding probability and potential financial impact. Actual historical performance and balance-sheet metrics are quantified, and the operating tone is generally stable and confident, citing loan, deposit, liquidity, and capital strength. Key exposures include interest rates, liquidity and capital access, cybersecurity, third-party dependencies, regulatory requirements, BNPP ownership, and geographic concentration."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "variety of factors could cause",
+    "does not undertake any obligation",
+    "related-party ownership overlap",
+    "contingently liable"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides detailed cash-flow, working-capital, impairment, and investment information. Risk is elevated by related-party relationships, limited control over investees, contingent liability, and recorded asset impairments, although liquidity appears adequate and operating cash flow remains positive."
+}

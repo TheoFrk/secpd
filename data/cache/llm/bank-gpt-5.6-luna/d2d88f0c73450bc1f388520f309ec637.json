@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subjective assumptions",
+    "if actual market conditions are less favorable",
+    "additional allowances may be required",
+    "smaller reporting company omissions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified sales and segment information, but includes extensive boilerplate disclaimers and relies on subjective assumptions for inventory, receivables, rebates, and stock-based compensation. The company expresses confidence in liquidity and future funding sufficiency, while acknowledging potential volatility from market conditions, credit losses, and valuation assumptions."
+}

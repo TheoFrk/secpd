@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "new risks emerge from time to time",
+    "not possible for management to predict all risks",
+    "future results may differ materially",
+    "adequate to fund future commitments"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue changes, COVID-19 costs, customer concentration, and regional performance, but is preceded by extensive standard forward-looking disclaimers. Key risks include pandemic resurgence, factory disruptions, component constraints, demand weakness, restructuring, and customer or market concentration, with some uncertainty left unquantified."
+}

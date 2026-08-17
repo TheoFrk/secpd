@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.89,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may not / cannot be assured",
+    "subject to successful capital raise",
+    "some obligations are duplicative",
+    "unable to accurately quantify"
+  ],
+  "risk_summary": "The disclosure indicates severe liquidity and going-concern risk, including minimal cash, continuing losses, no adequate financing or assets, substantial past-due obligations, and a stated $5.28 million liquidity shortfall. Funding and operational plans are highly contingent on capital raises, related-party support, and uncertain acquisitions, while extensive cautionary language limits reliance on projections."
+}

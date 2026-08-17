@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subjective assumptions",
+    "may be required",
+    "has not yet determined the impact",
+    "smaller reporting company omissions"
+  ],
+  "risk_summary": "The excerpt provides useful quantified sales data and segment detail, but contains substantial standard legal disclaimers and accounting-policy boilerplate. Key estimation areas, including receivables, inventory, rebates, and stock-based compensation, rely on subjective assumptions and could require future adjustments. Overall tone is neutral to mildly positive, with modest growth offset by disclosure limitations and uncertainty around accounting-standard adoption."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "repeated \"leading\" market-position claims",
+    "\"challenges as a result of\" broad risk framing",
+    "higher material and freight costs",
+    "74% of backlog without surcharge",
+    "cash flow deterioration and working-capital buildup"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and presents strong 2018 growth, improved profitability, refinancing, and favorable 2019 guidance. Key risks include rapidly rising commodity, logistics, and labor costs, supply-chain strain, limited surcharge coverage in the 2019 backlog, and historically weaker operating cash flow driven by receivables and inventory increases. Repeated market-leadership descriptions add boilerplate but do not materially obscure the financial data."
+}

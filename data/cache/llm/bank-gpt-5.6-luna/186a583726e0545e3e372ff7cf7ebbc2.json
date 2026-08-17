@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "management's evaluation of qualitative factors",
+    "expected deterioration in economic conditions",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and presents strong capitalization, earnings growth, and tax-related benefits, but it also identifies net interest margin compression and rising loan-loss provisions. Credit risk disclosure relies partly on subjective management estimates, qualitative factors, and forward-looking disclaimers, with the excerpt ending before the full loss analysis is provided."
+}

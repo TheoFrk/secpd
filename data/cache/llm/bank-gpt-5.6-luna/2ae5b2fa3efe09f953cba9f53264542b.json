@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "we believe",
+    "we expect",
+    "continued volatility",
+    "not expected to be converted"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating and backlog data, but relies heavily on forward-looking, hedged language regarding market recovery, growth opportunities, and future orders. Key risks include margin pressure from international and petrochemical mix, volatile order patterns, global economic uncertainty, and backlog conversion risk."
+}

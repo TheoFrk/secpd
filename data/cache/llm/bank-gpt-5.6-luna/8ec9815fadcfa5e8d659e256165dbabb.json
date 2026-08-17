@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "other factors",
+    "significant effect",
+    "intended to improve",
+    "applicable legal requirements"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and segment detail, including revenue mix, customer scale, repurchases, and initiative spending, which limits overall evasiveness. However, it contains dense accounting and organizational language and relies on broad, non-quantified risk qualifiers around economic conditions, estimates, liquidity, and strategic initiatives."
+}

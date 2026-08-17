@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective assessments",
+    "actual results could materially differ",
+    "anticipated hold period",
+    "primarily attributable",
+    "other debt and equity alternatives"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains substantial boilerplate regarding accounting judgments, impairment testing, valuation, and collectability. Risk disclosure is meaningful but often qualitative, relying on management estimates and projections without detailed sensitivity analysis; the liquidity discussion is moderately reassuring due to stated operating cash flow and substantial credit capacity."
+}

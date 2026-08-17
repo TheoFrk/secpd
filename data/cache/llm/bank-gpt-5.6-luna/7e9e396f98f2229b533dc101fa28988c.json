@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "timing ... is uncertain",
+    "potentially may have a material impact",
+    "feels confident protests will be resolved",
+    "in the absence of new engagements",
+    "actual results could be different"
+  ],
+  "risk_summary": "The company reports sharply increased losses, declining high-margin professional-services revenue, weak cash generation, and dependence on delayed and protested government contracts. Software-sales growth is low-margin and fluctuating, while management acknowledges continued losses absent new engagements and has implemented expense reductions. Disclosure is substantially quantified but includes material uncertainty around contract awards, revenue timing, and future profitability."
+}

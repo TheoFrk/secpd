@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "largely attributable",
+    "primarily due to",
+    "may not be comparable",
+    "among other factors",
+    "uncertain if or when"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed year-over-year operating and credit metrics, indicating generally stable-to-improving results. Credit revenue and credit segment income declined modestly due to lower receivables, while profitability and store expansion remained favorable. Some attribution is qualified and comparability limitations are noted, but there is no crisis-like risk tone."
+}

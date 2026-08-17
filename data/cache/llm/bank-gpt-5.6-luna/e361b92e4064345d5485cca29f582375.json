@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management has not been able to conclude",
+    "does not anticipate",
+    "turnaround date",
+    "inherently uncertain",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The disclosure is highly quantified and specific, particularly regarding long-term lease receivables, collectibility horizons, cash balances, redemption obligations, and environmental remediation. Risk is primarily concentrated in substantial straight-line lease receivables with distant or uncertain collection dates and an unresolved remediation obligation, while liquidity and debt repayment are presented as manageable."
+}

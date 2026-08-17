@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance transaction will occur",
+    "may differ materially from current estimates",
+    "adjusted non-GAAP measures",
+    "discrete items excluded",
+    "expects to monetize in the future"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but emphasizes adjusted non-GAAP results and includes material uncertainty around the potential Viacom combination and provisional tax estimates. Operating income, GAAP net earnings, cash flow, and advertising revenue declined, while programming investment and pension-related obligations remain notable financial considerations."
+}

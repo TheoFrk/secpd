@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expect revenue and earnings to rebound",
+    "believe we maintain sufficient liquidity",
+    "potentially adding additional credit capacities",
+    "previously disclosed",
+    "primarily due"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative but presents meaningful risk signals, including a financial restatement, cybersecurity disruption, declining sales and margins, a net loss, and reliance on projected operating cash flows and potential refinancing. Management uses moderately optimistic forward-looking language regarding recovery, operational efficiencies, and liquidity without fully quantifying execution risks or refinancing availability."
+}

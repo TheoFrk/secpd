@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "attractive risk-adjusted yields",
+    "in line with",
+    "favorable prior years' reserve development",
+    "not meaningful (N.M.)"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with numerous year-over-year changes, ratios, reserve developments, and explicit 2025 targets. Risk is framed positively, although performance depends on favorable loss experience, reserve development, catastrophe assumptions, investment yields, and higher credited and debt costs. Some boilerplate definitions and qualitative causal language limit precision, and the excerpt is truncated."
+}

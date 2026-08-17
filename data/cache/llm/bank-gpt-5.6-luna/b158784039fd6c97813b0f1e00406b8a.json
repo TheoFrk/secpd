@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.86,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to assumptions, risks, and uncertainties",
+    "no list could be complete",
+    "ability to",
+    "other assumptions, risks, or uncertainties"
+  ],
+  "risk_summary": "The excerpt is dominated by broad, boilerplate forward-looking disclaimers and an extensive enumeration of possible adverse factors, with limited quantification or prioritization. It highlights material exposure to funding, credit, liquidity, regulatory, operational, cybersecurity, competitive, and macroeconomic risks, but does not indicate that a specific adverse event is currently occurring."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "if circumstances change",
+    "uncertain outlook",
+    "adequate loan loss reserves",
+    "potential sale of real estate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, customer concentration, financing, guarantees, and tax reserves, but relies on management judgments regarding loan losses, deferred tax assets, and future growth. Risk tone is cautiously negative due to weak economic conditions, financing dependence, customer concentration, and uncertainty, partially offset by improved sales and reported profitability."
+}

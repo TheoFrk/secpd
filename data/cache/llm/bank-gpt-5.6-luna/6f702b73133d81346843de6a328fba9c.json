@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management judgment and estimates",
+    "actual results may differ",
+    "anticipated synergies",
+    "foreseeable future",
+    "non-U.S. GAAP measures"
+  ],
+  "risk_summary": "The excerpt is largely promotional and boilerplate, with substantial technical complexity around revenue recognition, purchase accounting, valuation assumptions, and non-GAAP measures. It identifies meaningful estimation uncertainty but provides limited sensitivity analysis or quantified downside scenarios. The overall tone is moderately confident, though the renewable power restructuring charge and reliance on forecasts indicate material execution and impairment risks."
+}

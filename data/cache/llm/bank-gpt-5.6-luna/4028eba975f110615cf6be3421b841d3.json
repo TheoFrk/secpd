@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and actual results may differ materially",
+    "may experience negative impacts",
+    "typically offsetting benefits",
+    "could adversely impact our results",
+    "significant judgment and forecasted assumptions"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative operating information and identifies key exposures, including fuel-price volatility, inflation, interest rates, credit risk, hedging limitations, and segment-specific earnings declines. Its tone is cautiously constructive, but reliance on mitigating factors, forward-looking assumptions, and broad conditional language leaves meaningful uncertainty around future performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "subject to change",
+    "as needed by borrowings",
+    "limited ability to predict future demand",
+    "other factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, backlog, margin, liquidity, and capital expenditure data, supporting relatively transparent disclosure. Key risks include demand uncertainty, project delays, cost inflation, reliance on estimates, pension and self-insurance assumptions, tax complexity, and potential reliance on revolving borrowings. The outlook is cautiously positive but uses broad, non-quantified assertions about market strength and positioning."
+}

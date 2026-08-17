@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual amounts could differ from those estimates",
+    "not reasonably available or meaningful",
+    "subject to market conditions and other factors",
+    "various affirmative, restrictive and financial covenants",
+    "excerpt truncation with omitted outlook text"
+  ],
+  "risk_summary": "The disclosure is generally specific and informative, with quantified public-work exposure, infrastructure funding, repurchases, and covenant compliance. Key risks center on judgment-sensitive revenue and cost estimates, project execution variables, funding and macroeconomic dependence, and potential covenant or contract defaults. The overall tone is cautiously positive due to strong infrastructure funding and stated covenant compliance, but the omitted outlook passage and broad limitation language reduce transparency somewhat."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurances of financing",
+    "plans to become profitable",
+    "intend to continue expanding",
+    "underserved markets"
+  ],
+  "risk_summary": "The disclosure provides useful quantified revenue and pricing changes but relies heavily on forward-looking intentions and broad strategic claims. Recurring operating losses, dependence on additional capital, and the auditor’s going-concern emphasis indicate material liquidity and survival risk, with no assurance that financing will be available or sufficient."
+}

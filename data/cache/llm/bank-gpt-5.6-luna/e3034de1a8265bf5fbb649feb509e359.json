@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "materially adversely affected",
+    "beyond our control",
+    "industry-wide issue",
+    "historical estimates may differ"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, including revenue and earnings declines, COVID-19 impacts, customer receivable concentrations, and reserve balances. Risk is elevated by pandemic-related disruption, economic sensitivity, seasonality, and customer concentration, while extensive promotional language and standard forward-looking disclaimers dilute the risk presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain and subject to change",
+    "there can be no assurance",
+    "pending sale and discontinued operations",
+    "materially adversely affected",
+    "currently assessing compliance obligations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on acquisitions, divestitures, losses, and operating results, but relies on extensive boilerplate and qualifying language around estimates and future effects. Risk is elevated by continuing-operation net losses, a $570.145 million disposal loss, acquisition and restructuring costs, and uncertainty in loss reserves and regulatory compliance."
+}

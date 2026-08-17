@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "proprietary artificial intelligence claims",
+    "mutually release all claims",
+    "principal and interest due on demand",
+    "truncated 2020 overview disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on losses, cash usage, financing, debt terms, and merger termination obligations, but includes standard forward-looking disclaimers and promotional descriptions of technology and market positioning. Liquidity risk is elevated given recurring operating cash burn, net losses, demand debt, covenant exposure, and reliance on equity financing."
+}

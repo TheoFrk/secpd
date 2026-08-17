@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict outcome",
+    "not currently able to estimate",
+    "could be significant",
+    "if fuel prices rise significantly",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding capacity, fuel sensitivity, labor exposure, and Cleveland reductions. Key uncertainties include fuel prices, economic demand, labor negotiations, pilot availability, and potentially significant unquantified restructuring charges. Overall tone is operationally confident but acknowledges meaningful downside risks and execution challenges."
+}

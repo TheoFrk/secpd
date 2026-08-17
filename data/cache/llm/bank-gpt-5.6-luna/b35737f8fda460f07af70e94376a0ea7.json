@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.54,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "adjusted/non-GAAP measures",
+    "subject to greater uncertainty",
+    "industry out-performance claims",
+    "special items exclusions"
+  ],
+  "risk_summary": "The disclosure is broadly quantified and provides meaningful operating, liquidity, fuel-cost, labor, and aircraft-commitment details. Risk visibility is somewhat reduced by extensive reliance on adjusted metrics, optimistic forward-looking claims, and qualifications regarding uncertainty, while elevated fuel costs, operational disruptions, labor costs, and substantial aircraft commitments remain material risks."
+}

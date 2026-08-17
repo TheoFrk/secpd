@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may be required to obtain more working capital",
+    "cannot be certain that additional funding will be available",
+    "if it is to occur at all",
+    "management’s estimates",
+    "no revenue from therapeutics or vaccine programs"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but highlights a highly uncertain business model with minimal licensing revenue, no therapeutics or vaccine revenue, ongoing operating cash burn, and potential dependence on future financing. Management states that funding is sufficient for at least twelve months, while expressly warning that additional capital may be unavailable or dilutive and that future licensing may take years or never occur."
+}

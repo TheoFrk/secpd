@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management’s judgment",
+    "variety of factors",
+    "subjective and qualitative factors",
+    "actual results could differ significantly",
+    "designed to mitigate risks"
+  ],
+  "risk_summary": "The disclosure is fairly detailed and includes meaningful quantitative metrics, but several material estimates—credit losses, residual values, fair values, taxes, and deferred costs—depend heavily on management judgment and broad qualitative factors. Results weakened year over year, with lower earnings, non-interest income, and commercial loan originations, while the short-term balance-sheet structure creates notable interest-rate repricing risk."
+}

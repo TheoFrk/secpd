@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "context otherwise requires",
+    "from time to time",
+    "expected future tax consequences",
+    "more likely than not",
+    "access to external capital is critical"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, detailing portfolio composition, financing activity, debt structure, acquisitions, and litigation proceeds. Risk is framed in a measured, generally confident tone, though reliance on external capital, debt maturities, interest rates, tenant performance, and judgment-based tax and accounting estimates remain material vulnerabilities."
+}

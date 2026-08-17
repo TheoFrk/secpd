@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "planned retirement",
+    "subject to regulatory approvals",
+    "we believe",
+    "initial findings indicate"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, with specific emissions targets, retirement schedules, investment amounts, and capacity additions. However, execution depends on regulatory approvals, technology performance, customer demand, and substantial capital deployment, while several initiatives remain planned or under evaluation. The overall tone is strategic and confident rather than crisis-like, but it emphasizes objectives more than downside scenarios or funding sensitivity."
+}

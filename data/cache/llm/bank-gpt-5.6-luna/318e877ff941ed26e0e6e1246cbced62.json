@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "ordinary course fluctuations",
+    "to the extent probable",
+    "unfunded backlog and option periods",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and backlog narrative supported by quantified revenue, awards, backlog, and book-to-bill metrics. However, backlog realization depends on appropriations, funding, renewals, options, task orders, and customer termination rights, while portions of the text are boilerplate and appear internally inconsistent across reporting periods. Overall risk is moderate, particularly around government funding, contract execution, and the conversion of backlog into revenue."
+}

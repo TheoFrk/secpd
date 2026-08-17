@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "assumptions and judgments",
+    "expected to result in",
+    "strong asset-sensitive balance sheet",
+    "subject to exception and approval"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate with substantial technical and cautionary language, but it provides meaningful transaction, PPP, capital-raising, and lending details. Risk tone is cautiously positive, emphasizing economic recovery and expected benefits from higher rates while acknowledging pandemic, inflation, credit, construction, and estimation risks. Key exposures include loan-loss estimates, acquired-loan valuation, speculative real estate lending, and reliance on assumptions about economic conditions and repayment sources."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partly offset by",
+    "negative leverage on fixed payroll costs",
+    "as a result of",
+    "discontinued operations discussed at the end"
+  ],
+  "risk_summary": "The excerpt is relatively data-rich and attributes revenue and expense changes to specific operational drivers, but relies heavily on repetitive MD&A phrasing. The risk tone is moderately negative, reflecting declining same-store sales, salon closures, operating losses, wage pressure, unfavorable productivity, and executive severance, although the disclosure remains largely factual rather than crisis-oriented."
+}

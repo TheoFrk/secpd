@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believes it has adequate cash",
+    "expects to renew",
+    "qualitative factors",
+    "could differ materially",
+    "unable to reasonably estimate"
+  ],
+  "risk_summary": "The excerpt presents a generally confident business outlook and reports covenant compliance, but includes meaningful refinancing risk because the revolving credit note required renewal and was secured by substantial assets. Revenue recognition and impairment assessments rely on management judgments, estimates, and qualitative evaluations, creating potential earnings and valuation uncertainty."
+}

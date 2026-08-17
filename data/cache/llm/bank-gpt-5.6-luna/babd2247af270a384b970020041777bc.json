@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "may not be fully realized",
+    "subjective estimates and judgments",
+    "no duty to update"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and safe-harbor language, with extensive boilerplate risk-factor disclosures and reliance on management estimates. It provides meaningful quantitative detail on deposits, borrowing costs, loan-loss methodology, and interest margins, but highlights material uncertainty around merger integration, credit losses, regulation, cybersecurity, and CECL impacts."
+}

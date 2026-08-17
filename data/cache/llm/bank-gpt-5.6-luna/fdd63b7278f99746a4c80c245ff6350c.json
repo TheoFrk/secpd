@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "may consider qualitative factors",
+    "could differ significantly",
+    "reasonable and supportable forecasts",
+    "materially different financial condition"
+  ],
+  "risk_summary": "The disclosure provides detailed CECL methodology and quantified interest-rate and balance information, but relies heavily on standard caveats regarding subjective assumptions, forecasts, collateral values, and potential revisions. Credit risk appears manageable based on the described review and rating processes, although the excerpt does not quantify key loan-portfolio risk metrics such as criticized assets, nonaccrual loans, charge-offs, or ACL coverage."
+}

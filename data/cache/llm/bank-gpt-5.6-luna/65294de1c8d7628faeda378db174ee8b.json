@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot guarantee dividend maintenance",
+    "unforeseen global events",
+    "primarily due to",
+    "not material",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides substantial portfolio, leasing, investment, financing, and dividend detail, supporting relatively strong disclosure quality. The tone is generally confident and promotional, though it acknowledges exposure to inflation, tenant financial stress, economic cycles, and uncertainty regarding future dividends and vacancies. Long, jargon-dense sentences and recurring favorable corporate descriptions modestly reduce clarity."
+}

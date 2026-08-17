@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "best information available",
+    "may or may not differ",
+    "not certain if and/or when",
+    "expected to continue",
+    "qualitative impairment test"
+  ],
+  "risk_summary": "The disclosure is generally specific, with meaningful quantified exposures including international sales, contingent consideration, impairment conclusions, and stock-based compensation. Key risks relate to inflation, supply-chain challenges, acquisition-related valuation estimates, goodwill and intangible-asset impairment, and uncertain contingent payments. Overall tone is measured and mildly confident, though some forward-looking and valuation language remains inherently uncertain."
+}

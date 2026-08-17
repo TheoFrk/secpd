@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.77,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "known and unknown liabilities",
+    "could involve significant costs",
+    "actual results could differ",
+    "prices may be adjusted periodically"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified customer counts, transaction proceeds, water volumes, contract expirations, and revenue effects. It nevertheless contains extensive acquisition-risk boilerplate and acknowledges uncertainty around integration, estimates, regulatory compliance, financing, and water-supply costs. Overall tone is cautiously constructive, supported by regulated utility characteristics but tempered by execution and cost risks."
+}

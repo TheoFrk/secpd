@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "expected limited financial impact",
+    "subject to future regulatory proceedings",
+    "reasonably possible",
+    "actual results could differ",
+    "probable of recovery through rates"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including rate requests, outage impacts, deferred costs, and operational events, but relies on regulatory recovery and forward-looking assumptions. Key risks include hydroelectric shortfalls, regulatory lag, higher commodity and financing costs, infrastructure disruptions, and potential write-offs if regulatory accounting criteria or cost recovery are not maintained."
+}

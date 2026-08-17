@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "ability to raise additional capital ... is questionable",
+    "substantial doubt about ability to continue",
+    "expects ... rely on affiliates for loans",
+    "primarily the result of",
+    "plans ... described in Note 3"
+  ],
+  "risk_summary": "The company reports a sharp increase in net loss, minimal revenue, substantial operating cash use, and dependence on related-party and affiliate financing. Management explicitly acknowledges substantial doubt about continuing as a going concern and questions its ability to raise capital outside affiliates. Disclosure is generally quantified but includes limited detail on funding plans and remediation actions."
+}

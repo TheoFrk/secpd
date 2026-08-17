@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "typically experience some seasonality",
+    "we believe our payor diversity mitigates",
+    "predictable stream of revenue",
+    "qualitative analysis",
+    "fair value determination"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including procedure volumes, revenue, payer mix, equipment counts, acquisitions, and interest expense. Key risks include reimbursement trends, high-deductible utilization, weather-related volume volatility, acquisition integration, complex VIE consolidation judgments, and substantial interest expense. Overall tone is operationally confident but tempered by moderate financial and execution risks."
+}

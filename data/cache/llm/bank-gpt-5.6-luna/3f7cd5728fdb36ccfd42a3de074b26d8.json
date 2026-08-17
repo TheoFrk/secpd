@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "other factors might in the future",
+    "not possible to predict all such factors",
+    "non-GAAP adjusted measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and segment information, but includes extensive boilerplate disclaimers and non-GAAP presentation that may soften the severity of sharply lower sales, operating income, EPS, and a significant impairment charge. Ongoing exposure includes COVID-19-related demand weakness, potential further impairment, fixed-price project contingencies, product liability and warranty claims, and uninsured losses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "we believe",
+    "not materially alter",
+    "as noted in the chart below",
+    "tables and explanations omitted"
+  ],
+  "risk_summary": "The excerpt presents improving sales, margins, segment income, and shareholder returns, producing a moderately confident tone. Key risks include weather sensitivity, seasonal and retail concentration, acquisitions, foreign exchange, product registration and recall matters, and discontinued operations. Several causal explanations are deferred to missing tables or expressed in broad terms, limiting transparency."
+}

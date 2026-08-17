@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"not meaningful\" classifications",
+    "omitted tables and bullet points",
+    "subject to customary closing conditions",
+    "optimistic strategic boilerplate",
+    "broad operational assertions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on earnings, debt refinancing, repurchases, and the proposed merger, but the truncated tables and omitted strategy details limit evaluability. Risk tone is moderately positive, although the sharp decline in net income, cyclical commodity exposure, leverage, and merger approval contingencies remain material concerns."
+}

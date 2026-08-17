@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "adjusted operating income",
+    "special charges",
+    "expected to",
+    "due in part",
+    "no further significant events"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, with detailed segment, cash flow, pension, restructuring, tax, and acquisition information. Risk is present through below-target sales and operating income growth, industrial demand weakness, restructuring costs, pension volatility, and an ongoing IRS examination, but management maintains a constructive outlook and liquidity narrative."
+}

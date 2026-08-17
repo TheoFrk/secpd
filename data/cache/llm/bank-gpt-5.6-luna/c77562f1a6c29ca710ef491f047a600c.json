@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.52,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "excluding integration costs",
+    "projected capital expenditures",
+    "expected to be operational",
+    "contingent upon project selection"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial operational, liquidity, debt, investment, and project detail, supporting relatively strong disclosure quality. Risk tone is generally confident and favorable, although major infrastructure initiatives remain subject to permitting, regulatory approval, RFP selection, and cost uncertainty. Extensive definitions, cross-references, and non-GAAP exclusions increase interpretive complexity and may make underlying performance less immediately transparent."
+}

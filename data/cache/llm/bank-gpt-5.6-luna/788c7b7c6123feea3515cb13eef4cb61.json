@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "estimated life of the contract",
+    "best estimate of realizable value",
+    "results are not necessarily indicative",
+    "difficult to predict",
+    "currently evaluating the impact"
+  ],
+  "risk_summary": "The excerpt discloses recurring operating losses, likely near-term losses, volatile revenue recognition, and material uncertainty around investment valuations. It provides useful accounting-policy detail and some quantified amounts, but relies on estimates, contingent conditions, and forward-looking caveats regarding predictability and future results."
+}

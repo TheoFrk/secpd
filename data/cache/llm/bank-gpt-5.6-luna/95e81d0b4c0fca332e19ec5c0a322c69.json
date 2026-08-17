@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be predicted",
+    "no assurance on whether or when",
+    "among other things",
+    "subject to various limitations",
+    "including in the most severe circumstances"
+  ],
+  "risk_summary": "The disclosure is detailed on regulatory history, dates, restrictions, and potential enforcement actions, but contains substantial legal boilerplate and broad uncertainty language. The active Compliance MOU and references to possible penalties, activity restrictions, receivership, or loss of deposit insurance indicate elevated regulatory and operational risk despite the lifting of prior orders and stated remediation efforts."
+}

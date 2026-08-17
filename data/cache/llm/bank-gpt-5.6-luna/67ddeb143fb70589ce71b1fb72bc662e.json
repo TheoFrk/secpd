@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "there can be no assurance",
+    "if and when necessary",
+    "terms acceptable to the Company, if at all",
+    "risks include, but are not limited to"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but signals severe liquidity and going-concern risk, with operating cash burn and insufficient resources expected within twelve months. Continued operations depend on additional financing, asset sales, and insider credit facilities, none of which is assured. The investment, legal proceedings, vacant property space, and reliance on management estimates add material execution and valuation risk."
+}

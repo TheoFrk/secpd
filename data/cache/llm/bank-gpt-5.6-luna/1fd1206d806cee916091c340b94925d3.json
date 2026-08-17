@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "somewhat offset by",
+    "could differ materially",
+    "subject to satisfaction or waiver",
+    "high degree of uncertainty"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides useful segment and sensitivity information, but relies on recurring forward-looking disclaimers and causal qualifiers. Risk tone is mildly negative due to catastrophe costs, investment losses, acquisition execution conditions, and uncertainty in insurance reserve and DAC estimates, partially offset by stable retention, strong persistency, and conservative investment practices."
+}

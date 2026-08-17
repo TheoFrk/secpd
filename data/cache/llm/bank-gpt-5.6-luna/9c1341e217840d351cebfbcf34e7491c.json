@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.54,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "cannot provide assurance",
+    "subjective judgments",
+    "many factors",
+    "other relevant information"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on insurance reserving, investment valuation, inflation, and market risks, including actuarial methods and sources of uncertainty. However, reserve adequacy and fair-value conclusions depend heavily on management judgment, evolving claims data, market inputs, and external conditions, with no assurance that estimates will prove adequate."
+}

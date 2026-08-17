@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.21,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes ACL is adequate",
+    "actual losses may differ materially",
+    "in line with management's projections",
+    "expected deposit rates",
+    "uncertain macroeconomic environment"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, with extensive disclosure of performance, credit metrics, interest-rate sensitivity, and acquisition effects. The tone is predominantly confident and favorable, although it acknowledges estimation uncertainty, COVID-19 exposure, potential credit-loss variability, and settlement-related risk. Complexity is elevated due to dense banking terminology, accounting references, and long multi-clause sentences."
+}

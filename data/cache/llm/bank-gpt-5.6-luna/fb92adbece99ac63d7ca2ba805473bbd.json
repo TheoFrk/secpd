@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "no assurance",
+    "cannot be precisely quantified",
+    "material adverse impact",
+    "implicit assumptions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides specific drivers of earnings changes, impairments, disposals, and balance-sheet dependencies. Risk disclosure is detailed but relies on actuarial uncertainty, unquantifiable assumptions, and broad material-adverse-effect qualifiers, particularly for insurance reserves and receivables. Overall tone is cautious and slightly negative, reflecting earnings declines and meaningful exposure to subsidiary distributions, regulated capital, reinsurance collectibility, and reserve volatility."
+}

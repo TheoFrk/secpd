@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors including but not limited to",
+    "may continue to impact",
+    "potential for Federal Reserve action",
+    "regulatory uncertainty"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail on returns, leverage reduction, funding, spreads, and collateral, but relies heavily on standard forward-looking disclaimers and conditional language. Key risks include interest-rate normalization, spread widening, rising repurchase-agreement costs, regulatory changes, GSE reform, and market liquidity or valuation reversals. Management presents the balance sheet and liquidity profile as improved, producing a cautiously confident rather than crisis-oriented tone."
+}

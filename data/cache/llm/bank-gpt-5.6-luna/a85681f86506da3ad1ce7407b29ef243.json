@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "disputes respecting the status of the license",
+    "severe shortages of working capital and cash",
+    "numerous lawsuits",
+    "obtaining additional capital",
+    "estimated fair value of embedded derivatives"
+  ],
+  "risk_summary": "The disclosure is materially negative, highlighting a collapsed revenue base, substantial accumulated losses, a $25.5 million working-capital deficit, negative operating cash flow, creditor forbearance efforts, litigation, and license disputes. Quantification is generally strong, but repeated references to disputes and derivative valuation complexity obscure some underlying uncertainty. Overall, the company presents significant liquidity, legal, operational, and going-concern risk."
+}

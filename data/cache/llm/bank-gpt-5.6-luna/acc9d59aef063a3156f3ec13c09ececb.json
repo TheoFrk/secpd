@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "could cause actual results to differ materially",
+    "no obligation to update",
+    "other operational, financial or legal risks",
+    "detailed from time to time"
+  ],
+  "risk_summary": "The excerpt provides useful operational and financial detail, including revenue mix, capital expenditures, liquidity assertions, and contractual obligations. However, the extensive safe-h harbor language, broad risk catalog, and reliance on unspecified risks limit predictive clarity, while repeated descriptions of the agent and capacity-provider network add boilerplate. Overall tone is moderately confident but tempered by material operational, economic, insurance, and execution risks."
+}

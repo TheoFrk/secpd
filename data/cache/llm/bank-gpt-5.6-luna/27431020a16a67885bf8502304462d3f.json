@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "many beyond our control",
+    "primarily due to",
+    "partially offset by",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting revenue, earnings, asset, margin, client-loss, and repurchase metrics. Risk tone is mixed: profitability and operating margins remain strong, but earnings declined, LSV performance weakened, and client losses, fee compression, market sensitivity, and COVID-19 effects remain material risks. Boilerplate forward-looking disclaimers and repeated cause-and-offset phrasing modestly reduce clarity."
+}

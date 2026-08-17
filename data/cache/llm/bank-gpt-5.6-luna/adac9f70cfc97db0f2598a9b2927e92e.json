@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "high economic uncertainty",
+    "many factors contributed",
+    "under normal economic conditions",
+    "forward-looking forecasts"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, margins, segment performance, currency effects, and outlook ranges. The tone is confident and positive, though it acknowledges global uncertainty, cyclical end markets, foreign exchange exposure, commodity sensitivity, product-mix pressure, and operational disruption from Thailand floods. Complexity is elevated due to dense segment, product, and non-GAAP discussion, with some boilerplate language."
+}

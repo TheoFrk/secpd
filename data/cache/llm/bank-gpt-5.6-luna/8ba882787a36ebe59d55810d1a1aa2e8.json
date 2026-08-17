@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "actual results may differ",
+    "significant unanticipated changes",
+    "sufficient to meet foreseeable needs",
+    "out of compliance with a debt covenant"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but relies on standard accounting-policy caveats and forecast-based assumptions. Risk is elevated by the 85.4% increase in net loss, materially higher revolver borrowings and interest expense, and a debt-covenant violation that required a waiver through December 31, 2024. Management remains cautiously reassuring about liquidity, asserting that operating cash flow and available financing will cover foreseeable needs."
+}

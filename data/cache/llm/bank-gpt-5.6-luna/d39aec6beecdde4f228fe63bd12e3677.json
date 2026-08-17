@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "not indicative of annual results",
+    "significant, adverse impact",
+    "highly competitive business",
+    "majority sourced from one supplier"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, particularly regarding acquisitions, liquidity, customer sales, and facility closure. Risks include the loss of the UPRR supply agreement, customer and supplier concentration, competitive pricing pressure, and reliance on optimistic management assertions about limited impact. Overall tone is cautiously positive, supported by substantial cash and credit availability."
+}

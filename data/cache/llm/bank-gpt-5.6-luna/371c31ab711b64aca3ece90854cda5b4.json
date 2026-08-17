@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict duration or scope",
+    "could potentially exacerbate other risks",
+    "we believe",
+    "foreseeable future",
+    "substantial financial resources"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on cash flow, debt payments, currency effects, and liquidity, but relies heavily on forward-looking assurances regarding COVID-19, growth, borrowing capacity, and future cash sufficiency. Risk tone is mixed: significant pandemic, supply-chain, currency, market, and geopolitical uncertainties are acknowledged, while management remains moderately confident in liquidity and operating resilience."
+}

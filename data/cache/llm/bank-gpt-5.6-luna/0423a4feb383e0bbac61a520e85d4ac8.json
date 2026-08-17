@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor disclaimer",
+    "unable to estimate future revenues",
+    "no assurance of additional funding",
+    "subject to risks and uncertainties",
+    "substantial doubt about going concern"
+  ],
+  "risk_summary": "The company reports minimal revenue, substantial operating losses, negative operating cash flow, and insufficient cash to fund operations for the next twelve months. Continued operations depend on uncertain additional debt or equity financing and successful commercialization, with management explicitly identifying substantial doubt about going-concern status. Quantitative historical disclosures are relatively clear, but extensive boilerplate and repeated uncertainty language reduce forward-looking transparency."
+}

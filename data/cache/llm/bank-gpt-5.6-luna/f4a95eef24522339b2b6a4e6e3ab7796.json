@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to be collected",
+    "more likely than not",
+    "actual results may differ materially",
+    "including, but not limited to",
+    "unknown how many licenses have left"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent about revenue, expense, receivables, deferred tax assets, legal accruals, debt, and operating trends. Key risks include declining traditional-location royalties, reliance on collectible estimates, litigation exposure, deferred tax asset utilization, and forward-looking assumptions regarding franchise growth."
+}

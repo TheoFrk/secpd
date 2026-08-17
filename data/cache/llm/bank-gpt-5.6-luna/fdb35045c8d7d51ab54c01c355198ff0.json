@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information set forth under the caption",
+    "annual report",
+    "filed as exhibit 13"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, or risk disclosure and instead redirects readers to another filing. This materially limits standalone assessment of the issuer’s condition and may obscure relevant details without access to the incorporated report."
+}

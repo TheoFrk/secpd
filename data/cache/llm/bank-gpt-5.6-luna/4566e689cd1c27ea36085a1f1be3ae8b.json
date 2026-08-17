@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to elevated uncertainty and change",
+    "may negatively impact operating earnings",
+    "non-GAAP operating measures",
+    "underlying performance of our core operations",
+    "impact unchanged"
+  ],
+  "risk_summary": "The excerpt identifies material exposure to market performance, low interest rates, valuation assumptions, guaranteed benefits, and regulatory uncertainty, with potential negative effects on earnings and reserves. Disclosure is generally specific about transmission mechanisms but relies heavily on technical non-GAAP adjustments and dense accounting language that can obscure comparability with GAAP results."
+}

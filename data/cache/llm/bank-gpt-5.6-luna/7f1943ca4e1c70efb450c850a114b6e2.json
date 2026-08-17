@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "without limitation",
+    "no assurance",
+    "not currently anticipated",
+    "undue reliance"
+  ],
+  "risk_summary": "The excerpt is generally quantitatively detailed, but extensive repeated forward-looking disclaimers and broad catch-all risk language reduce transparency around potential adverse outcomes. Earnings, diluted EPS, ROE, and ROA declined year over year, while nonperforming loans increased and allowance coverage weakened despite acquisition-driven balance-sheet growth. Net interest margin and net interest income improved, providing a partially offsetting positive trend."
+}

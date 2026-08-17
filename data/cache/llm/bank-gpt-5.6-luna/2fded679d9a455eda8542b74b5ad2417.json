@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "may adversely affect",
+    "no assurance",
+    "currently anticipated cash requirements",
+    "difficult to forecast"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail on cash, revenue, costs, liquidity, and operating trends, but relies heavily on forward-looking qualifiers and standard risk-language. Liquidity appears adequate with no long-term debt, although limited external credit access, potential financing needs, customer and vendor dependencies, and largely fixed expenses create downside exposure if growth or revenue plans fall short."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to annual report",
+    "no substantive disclosure",
+    "generic required-item language",
+    "page-range deferral"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and merely redirects the reader to another section of the annual report. Its boilerplate cross-reference limits standalone transparency and prevents meaningful assessment of operating or credit risks."
+}

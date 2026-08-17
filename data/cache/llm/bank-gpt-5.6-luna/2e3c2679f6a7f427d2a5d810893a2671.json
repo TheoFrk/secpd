@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "not presently determinable",
+    "not within complete control",
+    "not expected to have a material impact",
+    "currently evaluating the impact"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing litigation dates, case details, procedural status, and settlement amounts, but relies on standard accounting-policy and forward-looking boilerplate. Legal matters include one concluded insured settlement, one pending derivative action with unspecified damages, and another settled class action, creating residual legal and governance risk. The overall tone is cautious rather than crisis-like, with limited quantified discussion of potential future financial effects."
+}

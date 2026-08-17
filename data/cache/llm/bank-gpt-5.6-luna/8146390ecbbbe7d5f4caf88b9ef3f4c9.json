@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "reasonably assured",
+    "best estimates of future demand",
+    "may have a material impact",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and critical-accounting boilerplate, with substantial reliance on estimates for revenue returns, credit losses, inventory valuation, and impairment. It provides some useful historical and forward-looking cash-flow figures, but the truncated disclosure limits assessment of operating performance and downside exposure. Overall tone is mildly confident, tempered by recurring uncertainty and material-impact caveats."
+}

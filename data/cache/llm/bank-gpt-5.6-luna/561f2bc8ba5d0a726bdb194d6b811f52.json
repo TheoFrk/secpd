@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "may be utilized",
+    "could take a number of years",
+    "all projects are under development",
+    "fair value based on valuation models"
+  ],
+  "risk_summary": "CEL-SCI remains pre-revenue and dependent on equity, convertible debt, loans, and grants to fund ongoing clinical and preclinical development. The disclosure quantifies historical expenses, financing, lease obligations, and derivative effects, but emphasizes substantial uncertainty regarding regulatory approval, future funding needs, timing, and commercialization. Financing dependence and potential dilution represent significant continuing liquidity risks."
+}

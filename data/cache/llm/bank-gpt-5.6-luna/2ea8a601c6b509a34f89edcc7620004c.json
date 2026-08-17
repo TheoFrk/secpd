@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may not be able to execute",
+    "cannot assure financing availability",
+    "material adverse effect",
+    "going concern assumption"
+  ],
+  "risk_summary": "The company reports minimal lending activity, recurring net losses, declining cash, and reliance on equity and related-party financing. Its statement that working capital is sufficient for twelve months is qualified by substantial uncertainty regarding its ability to raise additional capital and execute its business plan. Disclosure is relatively quantified but includes standard forward-looking and financing-risk boilerplate."
+}

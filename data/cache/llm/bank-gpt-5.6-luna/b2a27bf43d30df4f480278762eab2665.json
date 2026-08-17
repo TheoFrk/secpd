@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "other operating activities",
+    "not expected to be settled with cash",
+    "at the Funder’s sole discretion",
+    "approximations to the nearest $1,000,000"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains year-over-year changes, but reflects significant operating losses, increasing cash usage, litigation-related costs, and reliance on debt, equity, and litigation financing. Liquidity risk is elevated because operating cash burn is funded externally and some liabilities are described as not expected to be settled with cash. Dense legal and accounting terminology, approximations, and broad catch-all descriptions modestly reduce transparency."
+}

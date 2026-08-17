@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not possible to estimate",
+    "effects remain uncertain",
+    "various initiatives",
+    "where necessary",
+    "non-GAAP substitute caveats"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding sales, pricing, volume, currency, margins, and earnings, but includes substantial boilerplate around MD&A structure and non-GAAP measures. Supply-chain, inflationary, geopolitical, and demand risks are acknowledged, while the timing and magnitude of future effects remain expressly uncertain. Overall tone is cautiously neutral, with modestly positive framing of mitigation actions despite weaker volume and net income."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant periods of time between orders",
+    "could substantially decrease sales",
+    "new and unproven technology",
+    "lack of reliable predictive market information",
+    "best estimate of damages"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on acquisitions, divestitures, restructuring charges, segment sales, backlog, and contractual obligations. Risk disclosures are candid regarding cyclicality, defense spending, execution challenges, 737 MAX exposure, AeroSat losses, and litigation, although some contingencies and forecasts remain inherently uncertain."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "approximately",
+    "low single-digit percentage",
+    "primarily driven by",
+    "not necessarily indicative",
+    "inherent uncertainty"
+  ],
+  "risk_summary": "The disclosure is generally transparent and strongly quantified, reporting revenue, earnings, margin, geographic, product, and channel performance in detail. Risk tone is confident and performance-oriented, though it acknowledges macroeconomic volatility, higher input and transportation costs, tax-rate pressure, and limitations of futures orders as a revenue predictor."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "liquidity challenges",
+    "subject to business conditions",
+    "actively seeking additional funds",
+    "eventual profitability",
+    "actual results may differ significantly"
+  ],
+  "risk_summary": "The company is an exploration-stage miner with no operating revenue, recurring losses, substantial operating cash burn, and explicit liquidity challenges. Its ability to continue as a going concern depends on additional financing and eventual mining profitability, while several funding plans remain uncertain. Disclosure is reasonably quantified but repeats financing alternatives and uses optimistic, contingent language around viability."
+}

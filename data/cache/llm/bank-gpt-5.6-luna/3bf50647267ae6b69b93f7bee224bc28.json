@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "subjectivity and complex nature",
+    "estimates of future cash flows",
+    "tightened pricing margins"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes meaningful quantitative information on sales, customer concentration, market exposure, and accounting estimates. Risk tone is mildly cautious, reflecting customer and market concentration, dependence on sales representatives, estimate uncertainty, and pressure on pricing margins, but there is no indication of an acute crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties not exhaustive",
+    "beyond our control",
+    "disclaim responsibility to update",
+    "related-party transactions may not be favorable"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimer language and broad, non-quantified warnings, limiting predictive value. The underlying business profile includes material real-estate, development, refinancing, variable-rate debt, impairment, loss, and related-party transaction risks. Reported 2010 losses and significant impairments contribute to a moderately negative risk tone, although the overview provides substantial portfolio and transaction detail."
+}

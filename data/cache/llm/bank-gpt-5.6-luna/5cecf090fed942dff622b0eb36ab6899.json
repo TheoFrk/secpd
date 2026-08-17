@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various factors including, but not limited to",
+    "estimates and judgments",
+    "when we deem it necessary",
+    "actual results may differ",
+    "truncated foreign-currency disclosure"
+  ],
+  "risk_summary": "The excerpt is heavily composed of standard accounting-policy and regulatory boilerplate, with limited discussion of business drivers beyond revenue decline and expense changes. Quantified liquidity data indicates a substantial working-capital deficit despite positive operating cash flow, while the company reported a net loss and no 2021 cargo-security product sales. Some language is repetitive, imprecise, and appears incomplete in the foreign-currency section."
+}

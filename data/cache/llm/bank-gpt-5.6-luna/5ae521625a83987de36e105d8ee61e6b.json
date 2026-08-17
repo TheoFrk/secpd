@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to various customary conditions",
+    "cannot predict timing or outcome",
+    "actual results may differ from estimates",
+    "await approval",
+    "contingent upon approval"
+  ],
+  "risk_summary": "The disclosure is highly detailed and timeline-driven, with substantial quantitative information regarding the merger, regulatory processes, and ROE sensitivity. Key risks remain the unresolved merger approvals, potential regulatory delays, and possible reduction in the FERC-approved transmission ROE, although the overall tone is measured and operationally stable."
+}

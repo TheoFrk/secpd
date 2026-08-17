@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "inherently uncertain estimates",
+    "may have significant impact",
+    "unobservable valuation inputs"
+  ],
+  "risk_summary": "The excerpt combines quantified earnings and portfolio data with extensive boilerplate disclaimers and qualitative discussion of material estimation uncertainty. Key risks center on loan-loss reserves, fair-value measurements, and mortgage servicing rights, whose valuations depend on subjective or unobservable assumptions. Overall tone is cautiously positive due to improving earnings and credit quality, but risk transparency is moderated by broad hedging and limited sensitivity quantification."
+}

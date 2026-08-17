@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.72,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measure emphasis",
+    "not directly comparable",
+    "cannot predict exact timing or amounts",
+    "excludes special items",
+    "management believes"
+  ],
+  "risk_summary": "The excerpt presents strong profitability, record earnings, improving ROIC, successful integration, and favorable fuel-cost effects, producing a confident overall tone. It relies heavily on non-GAAP and “economic” measures that exclude unrealized hedge effects and special items, limiting comparability and potentially obscuring GAAP volatility. Forward-looking statements retain uncertainty around the timing and amount of future charges and operating expenses."
+}

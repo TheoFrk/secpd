@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "subject to conditions precedent",
+    "substantial doubt as to going concern",
+    "among other things",
+    "we expect to emerge",
+    "not recorded as we do not expect payment"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on the Chapter 11 process, debt restructuring, liquidity, and operating results. Despite optimistic restructuring language, the explicit going-concern qualification, recurring losses, accumulated deficit, bankruptcy dependence, and unrecorded contractual interest indicate severe credit risk."
+}

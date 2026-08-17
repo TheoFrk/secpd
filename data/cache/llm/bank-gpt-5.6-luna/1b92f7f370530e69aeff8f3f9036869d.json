@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.88,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurances can be given",
+    "actively seeking financing",
+    "may be forced to cease operations",
+    "without limitation"
+  ],
+  "risk_summary": "The company has no revenue, minimal cash, substantial net losses, and an auditor-issued going-concern opinion. Management explicitly states that additional financing is required to maintain operations and that failure to obtain capital or generate revenue could result in cessation of business activities. Disclosure is relatively specific on liquidity distress, although it includes extensive boilerplate forward-looking language."
+}

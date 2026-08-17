@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "various risks, uncertainties, and other factors",
+    "could impact our performance",
+    "no obligation to update or revise",
+    "subjective estimates and judgments"
+  ],
+  "risk_summary": "The excerpt is dominated by standard forward-looking disclaimers and broad, largely unquantified risk categories, limiting visibility into specific downside exposures. It does provide useful geographic, concentration, loan-composition, and regulatory-threshold data, but the discussion remains technically dense and heavily boilerplate. The tone is cautious rather than crisis-like, with notable sensitivity to interest rates, liquidity, credit quality, regulation, and commercial real estate."
+}

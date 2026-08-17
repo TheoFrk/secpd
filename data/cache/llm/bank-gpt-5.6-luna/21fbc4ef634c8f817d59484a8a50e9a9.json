@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.12,
+  "redundancy_score": 0.05,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive discussion",
+    "relocated MD&A disclosure"
+  ],
+  "risk_summary": "The excerpt is a brief cross-reference directing readers to the MD&A elsewhere in the filing and provides no substantive financial or risk information. Risk assessment is therefore limited, with no discernible positive or negative tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "actual results could differ",
+    "significant differentiation",
+    "various criteria specified",
+    "proportional performance"
+  ],
+  "risk_summary": "The excerpt is highly technical and detailed, with substantial accounting-policy boilerplate and extensive reliance on management estimates. Revenue recognition judgments, contract complexity, and gross-versus-net presentation create material reporting risk, while the reported 2013 net loss and recurring financing outflows indicate some financial pressure."
+}

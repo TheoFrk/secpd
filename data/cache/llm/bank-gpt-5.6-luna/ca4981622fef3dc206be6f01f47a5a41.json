@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "non-GAAP measures",
+    "one-time revenue item",
+    "current expectations",
+    "similar responses"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed operating metrics, revenue drivers, costs, labor negotiations, and capital allocation. Risk tone is moderately positive, but increased competition, declining load-factor expectations, unit-revenue pressure, labor uncertainty, and reliance on a significant one-time mileage-plan revenue item present notable risks. Missing tables and reliance on adjusted non-GAAP measures modestly reduce comparability."
+}

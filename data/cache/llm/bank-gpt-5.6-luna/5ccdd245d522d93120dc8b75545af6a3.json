@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "non-GAAP financial measures",
+    "primarily driven by",
+    "excluding MediaAlpha"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed operating, investment, catastrophe-loss, reserve-development, and exposure metrics, supporting relatively transparent disclosure. Risk factors include materially lower comprehensive income, catastrophe losses, investment volatility, BAM deconsolidation, and sensitivity to MediaAlpha’s share price, although operating results and capital deployment are presented in generally favorable terms."
+}

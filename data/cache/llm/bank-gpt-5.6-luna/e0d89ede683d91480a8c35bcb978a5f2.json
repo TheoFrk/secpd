@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "including but not limited to",
+    "cannot always predict",
+    "actual results could differ significantly",
+    "has not yet determined the effect"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and broad, non-exhaustive risk categories, limiting specificity about the magnitude and probability of risks. It identifies meaningful exposure to project delays, fixed-price contracts, commodity and labor cost inflation, demand uncertainty, and estimation risk, but provides little quantitative sensitivity or scenario analysis."
+}

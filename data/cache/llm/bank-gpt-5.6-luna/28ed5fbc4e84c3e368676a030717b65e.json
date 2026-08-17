@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted amounts excluding charges",
+    "management believes",
+    "representative assumptions",
+    "non-GAAP financial information",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed explanations of revenue, margins, debt, currency effects, and impairment testing. Risk tone is cautiously positive, though reliance on adjusted measures, acquisition-related financing, foreign exchange exposure, and prior impairment charges are material risk signals."
+}

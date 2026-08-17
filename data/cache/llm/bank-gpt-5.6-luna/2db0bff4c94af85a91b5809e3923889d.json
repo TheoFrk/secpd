@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "not significant to consolidated financial statements",
+    "for the foreseeable future",
+    "primarily attributable to",
+    "cautionary forward-looking statements"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook supported by substantial operating and liquidity metrics, including revenue-related growth, $671.3 million in cash and investments, and no debt. Key risks include prolonged low interest rates, weak new-business formation, client-base pressure excluding the acquisition, and litigation-reserve adjustments. Non-GAAP presentation and the truncated disclosure modestly limit comparability and completeness."
+}

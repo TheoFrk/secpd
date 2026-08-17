@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "no assurance expectations will prove correct",
+    "market conditions that no longer support prior valuations",
+    "in the absence of any need to further write-off",
+    "execution issues and customer-driven project delays"
+  ],
+  "risk_summary": "The disclosure is materially quantified but presents significant credit concerns, including a $348 million net loss, $291 million operating loss, and $252 million of impairment and restructuring-related charges. Management projects improvement in 2020, but the outlook depends on higher activity and margins and assumes no further long-lived-asset write-offs. Heavy forward-looking disclaimers and valuation language indicate meaningful uncertainty around recovery and asset values."
+}

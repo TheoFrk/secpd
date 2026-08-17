@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "significant estimates and judgment",
+    "reasonable period of time",
+    "market-participating brokers",
+    "actual performance could differ"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified financial tables, but relies substantially on standard forward-looking disclaimers and management estimates for fair value, impairment, reserves, and acquisition accounting. Key exposures include economic downturns, borrower performance, valuation-model uncertainty, and potential changes in reserves or intangible-asset values; the tone is broadly neutral with a modestly cautious risk bias."
+}

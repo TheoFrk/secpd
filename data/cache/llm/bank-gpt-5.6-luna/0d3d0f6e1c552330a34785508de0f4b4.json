@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures and exclusions",
+    "management believes",
+    "substantially in excess",
+    "assumption-dependent fair values"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified 2022 performance and a confident outlook, supported by sales, earnings, margin, and cash-flow metrics. Key risks include inflation, supply-chain constraints, foreign exchange, acquisition execution, working-capital investment, and valuation sensitivity to forecast and market assumptions. Extensive non-GAAP adjustments and standard forward-looking disclaimers require reconciliation to GAAP results and caution when assessing underlying performance."
+}

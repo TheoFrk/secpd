@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to Annual Report",
+    "no substantive discussion",
+    "page-range delegation"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and delegates the relevant analysis to another document. Although the cross-reference is specific, it limits transparency within the filing section and requires the reader to consult external pages."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "MD&A discussion omitted",
+    "no assurance",
+    "actual results may differ significantly",
+    "not within complete control",
+    "other factors"
+  ],
+  "risk_summary": "The excerpt reports a 34% sales decline driven by reactor disruption, supply constraints, and the loss of orders from a historically significant customer. Disclosure includes standard accounting-policy boilerplate and forward-looking caveats, while omitting discussion for prior fiscal years and containing a likely period-comparison error, reducing clarity."
+}

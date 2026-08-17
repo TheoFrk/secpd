@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "not construed as exhaustive",
+    "disclaims any obligation to revise",
+    "truncated/inconsistent comparative data"
+  ],
+  "risk_summary": "The excerpt reports strong growth, profitability, cash resources, and no long-term debt, supporting a generally favorable operating and liquidity profile. However, it contains extensive boilerplate forward-looking disclaimers and identifies material exposure to supply shortages, customer concentration, COVID-19 effects, technology, geopolitical, currency, litigation, and acquisition risks. A truncated passage and an apparent inconsistency in the comparative revenue figures reduce disclosure clarity."
+}

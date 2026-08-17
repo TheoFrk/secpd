@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "expected to",
+    "may require us to incur debt",
+    "factors over which we have limited control",
+    "truncated forward-looking conclusion"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively reconciles revenue, operating costs, utilization, litigation impacts, capital expenditures, and debt changes. Risk is moderate, driven by COVID-19-related customer shutdowns, elevated fixed costs, insurance and claims exposure, increased borrowings, and dependence on future financing availability. Management remains cautiously confident about near-term liquidity, but the conclusion is incomplete and includes standard forward-looking qualifications."
+}

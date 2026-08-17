@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.86,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.32,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "boilerplate heading",
+    "no substantive detail",
+    "table markup artifacts"
+  ],
+  "risk_summary": "The excerpt provides only a section heading and page reference, with no financial, operational, liquidity, or risk disclosures. Credit-risk assessment is therefore not possible from this text alone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally have been able to pass cost increases",
+    "could negatively impact ... in the near-term",
+    "do not currently expect ... materially impact",
+    "subject to fluctuating order patterns",
+    "temporary basis"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, identifying exposure to raw-material volatility, firm-price contracts, supply-chain disruption, inflation, product mix, and customer commitments. Management presents mitigation mechanisms such as surcharges, hedging, supplier relationships, and productivity initiatives, while using moderately qualified language to characterize future impacts. Overall tone is cautiously positive rather than crisis-like, but margin volatility and execution risks remain material."
+}

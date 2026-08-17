@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "variety of mitigation measures",
+    "potential for new lockdowns",
+    "at the discretion of the board"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, reporting revenue, margins, customer concentration, geographic exposure, operating expenses, and capital returns. Key risks include heavy international and customer concentration, semiconductor pricing and supply-chain sensitivity, foreign-exchange exposure, and pandemic-related disruption. The tone is moderately positive, supported by strong revenue growth and market-share gains, but includes standard forward-looking caveats and an incomplete pandemic discussion."
+}

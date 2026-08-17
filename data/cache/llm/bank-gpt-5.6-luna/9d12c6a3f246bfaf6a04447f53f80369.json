@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various other factors",
+    "could materially impact",
+    "may be required",
+    "undertakes no duty to update"
+  ],
+  "risk_summary": "The disclosure is relatively specific, including quantified debt, goodwill, sensitivity thresholds, pension charges, and cash flows, but relies heavily on standard accounting-estimate caveats and forward-looking safe-harbor language. Key risks include liquidity and debt obligations, receivables collection pressure, pension exposure, potential goodwill impairment, and sensitivity to competitive and macroeconomic conditions."
+}

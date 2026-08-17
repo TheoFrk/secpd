@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "full financial impact cannot be reasonably estimated",
+    "highly uncertain and cannot be predicted",
+    "may incur significant additional charges",
+    "benefits ... not currently quantifiable",
+    "other yet to be identified actions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, cost, debt, and restructuring information, but includes significant uncertainty around Polaris costs and the COVID-19 impact. Risk tone is moderately negative due to declining sales, store-closure impairment charges, credit-rating downgrades, potential liquidity measures, and possible additional charges."
+}

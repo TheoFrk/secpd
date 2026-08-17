@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects production to increase",
+    "if needed",
+    "at the discretion of the bank",
+    "customary covenants",
+    "negative price revisions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, with clear explanations of production, pricing, costs, reserves, liquidity, and debt terms. Key risks include sharply lower natural gas prices, negative reserve revisions, higher finding costs and DD&A, exploratory dry-hole charges, and reliance on bank discretion for additional borrowing capacity. Management presents liquidity and covenant compliance confidently, but projected production, pricing and acquisition funding remain subject to commodity-market and financing uncertainty."
+}

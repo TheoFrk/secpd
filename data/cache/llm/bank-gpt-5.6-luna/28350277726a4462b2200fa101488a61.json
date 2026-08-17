@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to estimate possible loss or range of loss",
+    "could be material",
+    "no assurances",
+    "subject to risks and uncertainties",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative information, but relies on standard safe-harbor language and provides limited quantification of Superstorm Sandy’s potential financial impact. Key risks include infrastructure damage, uncertain recovery through regulatory mechanisms, financing needs, commodity and derivative volatility, and regulatory or environmental exposure."
+}

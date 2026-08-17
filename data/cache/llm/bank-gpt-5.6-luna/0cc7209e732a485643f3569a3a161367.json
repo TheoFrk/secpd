@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily as a result of",
+    "to a lesser extent",
+    "recovery ... unlikely for the foreseeable future",
+    "not available for many competitors",
+    "Non-GAAP measure disclaimers"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, but repeats explanations and relies on broad causal language in places. Key risks include declining power-generation markets, competitive pressure, project-related revenue revisions, cyclicality, and discontinued operations, partially offset by improved 2016 profitability and cash flow."
+}

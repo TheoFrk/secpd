@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "promotional superlatives",
+    "non-GAAP emphasis",
+    "sustainable value creation",
+    "strong cash flow and solid balance sheet",
+    "missing table values"
+  ],
+  "risk_summary": "The excerpt uses confident promotional language and emphasizes Adjusted EBITDA, while providing limited quantified detail in the presented text and omitting the referenced tables. Disclosure complexity is elevated by segment reporting, accounting adjustments, and non-GAAP measure definitions, which may hinder straightforward assessment of underlying performance."
+}

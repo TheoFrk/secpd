@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.45,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "disclaims any obligation to update",
+    "adjusted earnings exclusions",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally detailed and strongly quantified, with positive operating performance and liquidity indicators. Risk discussion is largely standardized and includes interest-rate, competitive, regulatory, technology, acquisition, and execution risks, while extensive adjusted metrics and repeated offsetting explanations may soften weaker results. Overall tone is confident but acknowledges declining client-funds interest revenue, goodwill impairment, and lower operating cash flow."
+}

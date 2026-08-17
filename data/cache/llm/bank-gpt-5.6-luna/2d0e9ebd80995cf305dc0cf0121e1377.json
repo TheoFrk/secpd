@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain, continuously evolving",
+    "full impact cannot be predicted",
+    "significant volatility",
+    "certain criteria",
+    "additional information in Risk Factors"
+  ],
+  "risk_summary": "The excerpt presents material operational and liquidity risks from COVID-19, hospital access limitations, supply-chain disruption, inflation, rising manufacturing costs, and continued cash losses. Although it provides several quantified cash-flow figures and describes mitigation through inventory and a BD sales agreement, the discussion relies heavily on broad uncertainty disclaimers and repetitive pandemic-related boilerplate."
+}

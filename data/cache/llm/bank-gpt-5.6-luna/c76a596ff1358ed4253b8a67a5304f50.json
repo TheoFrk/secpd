@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "significant estimates and assumptions",
+    "inherently uncertain",
+    "unanticipated events and circumstances",
+    "reserved for potential adjustments"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance and provides quantified acquisition consideration, but relies extensively on standard accounting-estimate caveats and judgment-based language. Key risks include revenue-recognition judgments, acquisition valuation assumptions, and potentially material income-tax examination outcomes; the excerpt is also truncated where several expense drivers would be explained."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to applicable securities laws and regulations",
+    "somewhat offset by",
+    "currently evaluating the impact",
+    "significant estimates and assumptions",
+    "may be considered to have indefinite useful lives"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with segment-level sales, margins, expenses, and accounting impacts clearly described. Risk tone is moderately positive due to sales and operating-income improvement, although commodity-price volatility, transportation costs, LIFO sensitivity, goodwill impairment history, and judgment-based valuations remain material risks."
+}

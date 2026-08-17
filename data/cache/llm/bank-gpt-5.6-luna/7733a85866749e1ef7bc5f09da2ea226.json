@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "subject to a high degree of uncertainty",
+    "reasonably likely",
+    "future adjustments may be required",
+    "expected cash flows and discount rate"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive outlook, citing improving construction markets, funding, synergies, and expected cost reductions. However, substantial reliance on management estimates and assumptions creates exposure to credit losses, inventory and goodwill impairments, self-insurance claims, litigation, and uncertain market conditions. The disclosure is technically detailed but largely qualitative and includes broad forward-looking caveats rather than quantified sensitivity analysis."
+}

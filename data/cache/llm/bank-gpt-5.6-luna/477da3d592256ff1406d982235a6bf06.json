@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty around its duration",
+    "cannot be reasonably estimated at this time",
+    "we believe our brands have true competitive advantages",
+    "necessary precautionary measures",
+    "mitigate the impact"
+  ],
+  "risk_summary": "The disclosure identifies substantial COVID-19-related operational and liquidity risks, including widespread closures, reduced consumer traffic, employee furloughs, supplier disruptions, and a $200 million revolver draw. Although the company provides useful quantitative exposure data and specific mitigation actions, the duration and financial impact remain unquantified and highly uncertain. Strategic confidence and repeated brand-strength assertions partially temper, but do not offset, the predominantly negative risk tone."
+}

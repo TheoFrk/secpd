@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "actual results may differ materially",
+    "risks are manageable",
+    "more likely than not",
+    "among other things"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong sales and margin improvement. Key risks include housing-market cyclicality, promotional pressure, pension underfunding, deferred tax asset recoverability, and reliance on future profitability assumptions. The tone is cautiously positive but contains extensive standard forward-looking disclaimers."
+}

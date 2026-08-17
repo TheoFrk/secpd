@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.43,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to substantial uncertainty",
+    "There can be no assurance",
+    "favorably impacted",
+    "excluding the impact",
+    "not meaningful"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent, with detailed revenue, operating profit, cost, acquisition, disposition, and legal settlement impacts. The tone is generally confident and growth-oriented, but includes standard forward-looking uncertainty language and acknowledges exposure to credit-market and regulatory changes. High sentence density, segment terminology, and extensive adjusted comparisons increase readability complexity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "depends significantly on continued success",
+    "may fluctuate from quarter to quarter",
+    "cannot predict whether or when",
+    "material adverse effect",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantitative information, but relies on forward-looking qualifications and estimates around product commercialization, regulatory approvals, collaborations, revenue deductions, and liquidity. Key risks include dependence on EYLEA and Dupixent, uncertain development outcomes, potential estimate revisions, REGEN-COV-related inventory write-offs, and customer receivable concentration. Overall tone is cautiously positive, supported by strong cash resources and borrowing availability, but materially exposed to execution and regulatory uncertainty."
+}

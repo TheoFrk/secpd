@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future cash flow projections",
+    "reasonable expectations",
+    "could have a negative effect",
+    "risks and uncertainties",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes useful quantitative assumptions, but relies substantially on management judgment, forward-looking caveats, and sensitivity to valuation inputs. No goodwill impairment was recorded, while acquisitions, macroeconomic conditions, pension assumptions, taxes, and other external risks could materially affect future results."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "if conditions worsen or are prolonged",
+    "non-U.S. GAAP adjusted results",
+    "NM = not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with revenue growth, segment performance, liquidity, borrowing capacity, cash flow, and impairment charges presented in detail. Risk is acknowledged through COVID-19 exposure, commercial weakness, project delays, budget constraints, and goodwill impairments, but the overall tone remains cautiously confident. Extensive accounting adjustments and forward-looking caveats may complicate comparability and interpretation."
+}

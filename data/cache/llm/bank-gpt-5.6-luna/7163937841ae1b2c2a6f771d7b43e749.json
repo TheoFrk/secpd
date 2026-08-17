@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to",
+    "significant degree of autonomy",
+    "complex and subjective judgments",
+    "not subject to simple extrapolation"
+  ],
+  "risk_summary": "The excerpt presents a cautiously improving performance narrative, supported by quantified earnings and operating metrics, but emphasizes recovery from a substantial prior-year loss and the need for further improvement. Material judgment and uncertainty surround fair-value measurements, impairment testing, deferred tax assets, and forecast taxable income. The disclosure is detailed but contains substantial boilerplate and reliance on management assumptions."
+}

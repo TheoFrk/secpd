@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted EPS excludes significant items",
+    "no GAAP reconciliation provided",
+    "highly variable and difficult to predict",
+    "fair value volatility and limited information",
+    "forward-looking guidance caveats"
+  ],
+  "risk_summary": "The excerpt provides quantified 2020 adjusted EPS and tax-rate guidance, but excludes potentially significant litigation, impairment, acquisition, investment-valuation, and tax items and does not provide a GAAP reconciliation. Risk is elevated by debt incurred for Cronos and JUUL, volatility in the e-vapor category, and limited publicly available information regarding JUUL’s valuation, although management presents a moderately confident operating outlook."
+}

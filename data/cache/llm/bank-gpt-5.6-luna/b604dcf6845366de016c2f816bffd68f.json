@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "not possible to predict all",
+    "significant judgments and estimates",
+    "fair value based on Level 3 inputs"
+  ],
+  "risk_summary": "The excerpt is substantially boilerplate in its forward-looking disclaimers but provides meaningful quantitative disclosures on bad debt, impairments, investments, liquidity, and cash flows. Risk is moderate, with exposure to cyclical housing markets, customers, commodities, foreign operations, estimation uncertainty, and illiquid Level 3/private investments, partly offset by generally positive operating commentary."
+}

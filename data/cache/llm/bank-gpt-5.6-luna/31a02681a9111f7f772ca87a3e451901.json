@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "largely attributed to",
+    "partially offset by",
+    "favorable development",
+    "non-GAAP measures",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well quantified, with clear year-over-year revenue and expense changes. Risk tone is mildly negative because revenue and shipment volumes declined, although cost reductions, yield improvements, and operating-efficiency gains provide mitigating context. Boilerplate safe-harbor language and repeated offsetting explanations modestly reduce transparency but do not appear strongly evasive."
+}

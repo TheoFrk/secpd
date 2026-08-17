@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "may not be exhaustive",
+    "range of reasonable reserve estimates",
+    "significant judgment"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate legal disclaimers and extensive reliance on uncertain assumptions, actuarial judgment, and scenario-based estimates. Quantified reserve disclosures are informative, but the sharp increase in unfavorable prior-year development and wider reserve range indicate elevated underwriting and reserve adequacy risk, including social inflation exposure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "expected period",
+    "as much cash as reasonably possible",
+    "maintaining occupancy to the maximum extent",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and identifies material COVID-19 impacts, including rent deferrals, tenant closures, increased vacancy, reduced capital spending, and a mortgage loan default. Liquidity is presented as strong, with $798.3 million of cash and no revolving-credit borrowings, but the outlook remains dependent on recovery in operating revenues and tenant payments. Extensive non-GAAP discussion and forward-looking language add some interpretive complexity but do not appear strongly evasive."
+}

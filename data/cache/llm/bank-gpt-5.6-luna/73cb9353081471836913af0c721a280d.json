@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "likely to experience negative cash flow",
+    "unless and until",
+    "no material commitments",
+    "trends or uncertainties",
+    "unanticipated expenses"
+  ],
+  "risk_summary": "The company reports negative operating cash flow, declining oil and gas revenue, substantial deferred related-party salary obligations, and no meaningful liquidity sources beyond working capital and existing operations. Management explicitly expects continuing losses and negative cash flow unless it makes currently unplanned investments that generate sufficient operating cash flow."
+}

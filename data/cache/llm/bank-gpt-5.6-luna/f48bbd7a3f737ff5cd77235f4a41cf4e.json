@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe-harbor boilerplate",
+    "unable to estimate future revenues",
+    "many factors including",
+    "sufficient for at least the next twelve months",
+    "may have to sell additional equity or debt"
+  ],
+  "risk_summary": "The excerpt reports severe financial risk, including a $26.1 million net loss, $17.3 million in operating expenses, $9.5 million in other expenses, substantial impairment charges, and heavy interest expense. Liquidity language is cautiously optimistic but unsupported by quantified cash-flow, debt-maturity, or funding details, while future software and gasifier revenues remain uncertain. Extensive forward-looking disclaimers and reliance on potential future financing further weaken visibility into solvency and execution."
+}

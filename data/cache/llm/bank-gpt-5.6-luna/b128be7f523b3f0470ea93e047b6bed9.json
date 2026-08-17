@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "inherently uncertain",
+    "subject to significant change",
+    "ability to predict future demand is limited",
+    "as needed by borrowings"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, margins, expenses, backlog, liquidity, and planned capital expenditures, supporting relatively transparent disclosure. Key risks include declining sales, construction-dependent demand, fixed-price exposure to input costs, credit-loss estimates, and reliance on borrowing if operating cash flow is insufficient. The overall tone is cautiously positive, emphasizing improved margins, productivity, backlog, and pension-risk elimination despite demand uncertainty."
+}

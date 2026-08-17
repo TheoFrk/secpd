@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted operating revenues",
+    "discontinued operations and recast periods",
+    "cannot provide any assurance",
+    "derivative fair-value volatility",
+    "forward strip pricing limitations"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed reconciliations, but its presentation is technically complex and relies substantially on non-GAAP measures, recast results, discontinued-operations treatment, and derivative accounting. Results show material earnings volatility, including a $2.4 billion loss from continuing operations and significant impairment and derivative losses. Liquidity is presented as adequate for at least 12 months, while exposure to commodity-price movements remains a notable risk."
+}

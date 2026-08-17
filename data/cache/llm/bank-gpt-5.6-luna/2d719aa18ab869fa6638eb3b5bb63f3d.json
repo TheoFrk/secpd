@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future adjustments could be necessary",
+    "economic conditions differ substantially",
+    "management believes allowance is adequate",
+    "regulators could require additions",
+    "qualitative factors and assumptions"
+  ],
+  "risk_summary": "The disclosure is highly quantified and explains changes in net interest income, credit-loss provisions, reserves, recoveries, and loan growth. Risk is moderated by declining allowance coverage and substantial loan growth, while management acknowledges sensitivity to economic conditions, borrower information delays, model assumptions, and regulatory review. Repetition of allowance commentary and dense technical language somewhat reduce clarity but do not appear strongly evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "generally pass on to customers",
+    "individually insignificant nature",
+    "non-GAAP Adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, with detailed revenue, volume, margin, geographic, and cost drivers. Risk tone is cautiously positive, but it identifies lower European volumes, Mexican energy inflation, North American launch inefficiencies, foreign-exchange volatility, and increased interest expense. Reliance on Adjusted EBITDA and standard forward-looking disclaimers modestly limits comparability and risk clarity."
+}

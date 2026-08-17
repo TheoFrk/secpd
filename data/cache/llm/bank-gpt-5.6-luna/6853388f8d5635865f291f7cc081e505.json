@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "generally indicative",
+    "very difficult to detail",
+    "expected to continue",
+    "other factors affecting results"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and several quantitative metrics, but relies on broad qualifiers and extensive forward-looking-statement disclaimers. Risk tone is mixed: strong sales growth and favorable tax effects are offset by declining earnings, impairment charges, weaker steel-processing performance, and exposure to cyclical end markets and commodity prices."
+}

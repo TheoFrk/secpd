@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "certain legal matters",
+    "about/approximately",
+    "non-GAAP adjustments",
+    "under current circumstances",
+    "perceived more efficient alternate use of cash"
+  ],
+  "risk_summary": "The excerpt presents a generally strong operating performance, with quantified sales, margin, cash flow, and restructuring data. Key risks include regional weakness and uncertainty in EMENA and Southern Africa, acquisition and integration costs, legal matters, restructuring obligations, and substantial debt and interest commitments. Disclosure is relatively specific, though some legal items and forward-looking financing statements remain generalized."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the duration",
+    "ultimate impact on consumer discretionary spending",
+    "for a variety of reasons",
+    "subject to change",
+    "may not foot or cross foot due to rounding"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and cash-flow information, including same-restaurant sales, restaurant counts, earnings, debt repayments, and shareholder returns. Risk disclosure is moderately hedged around pandemic recurrence, restrictions, closures, and consumer spending, while net income declined year over year. Overall tone is cautiously positive but includes meaningful operating uncertainty and extensive boilerplate background material."
+}

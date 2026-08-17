@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "prolonged pandemic could impact assumptions",
+    "may be required to reassess",
+    "expects fluctuating demand",
+    "believes it is well positioned",
+    "unfavorable net impact"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and specific, including sales, earnings, cash, debt issuance, restructuring savings, and planned capital investments. Risk tone is mixed: COVID-19 caused lower demand, production reductions, restructuring, and potential impairment exposure, while management emphasizes liquidity, cost actions, and strategic investment. Long, jargon-heavy descriptions and repeated indexing language reduce readability but do not appear strongly evasive."
+}

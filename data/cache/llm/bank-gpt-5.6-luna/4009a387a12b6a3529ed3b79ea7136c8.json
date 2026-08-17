@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "inherently uncertain estimates",
+    "numerous factors",
+    "economic uncertainty",
+    "truncated cyber-attack discussion"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including sales, backlog, margins, working capital, and cost impacts. Risk is elevated by supply-chain inflation, labor constraints, cyberattack effects, construction delays, pension and tax estimate sensitivity, and uncertain demand, although management adopts a cautiously optimistic tone based on record backlog and improved performance."
+}

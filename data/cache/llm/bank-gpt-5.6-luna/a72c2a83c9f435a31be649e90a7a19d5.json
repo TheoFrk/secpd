@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we intend to",
+    "may not convert to final approval",
+    "currently eligible to receive",
+    "subject to applicable exclusivity"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on products, approvals, financing, licensing, royalties, and development milestones, supporting relatively transparent disclosure. However, commercialization, regulatory timing, market opportunity, milestone payments, and intellectual-property protections remain conditional and rely on forward-looking language. Operational risks include product recalls, manufacturing lead times, partner dependence, royalty obligations, and substantial clinical and regulatory execution requirements."
+}

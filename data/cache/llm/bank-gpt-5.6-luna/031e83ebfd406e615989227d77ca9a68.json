@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "full-year financial guidance suspended",
+    "cannot be reasonably estimated",
+    "subject to change",
+    "we do not currently anticipate",
+    "future uncertainties"
+  ],
+  "risk_summary": "The disclosure quantifies liquidity, debt, revenue impacts, and goodwill exposure, but emphasizes uncertainty and suspends full-year guidance because COVID-19 effects cannot be reliably estimated. Key risks include commercial aerospace weakness, deferred utility spending, potential goodwill impairment at Mayday, and reliance on estimates of discounted cash flows. The overall tone is cautiously resilient, supported by liquidity, backlog, and no near-term debt maturities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "various factors",
+    "we believe",
+    "could adversely change",
+    "cannot provide absolute assurance"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive growth and acquisition narrative, supported by some operational detail and quantified customer and geographic metrics. Risk disclosure is broad and partially boilerplate, with meaningful exposure to reimbursement changes, demand uncertainty, integration effects, and judgment-based impairment estimates. The text acknowledges potential adverse outcomes but does not quantify their likely magnitude beyond the disclosed $0.3 million impairment charge."
+}

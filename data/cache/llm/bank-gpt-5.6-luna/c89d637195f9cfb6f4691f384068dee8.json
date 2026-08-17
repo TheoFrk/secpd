@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "based on our current understanding",
+    "we cannot forecast the scope or timing",
+    "could lead",
+    "remain uncertain",
+    "we believe ... will be sufficient"
+  ],
+  "risk_summary": "The disclosure presents a generally confident operating and liquidity position, supported by revenue-growth history, recurring revenue characteristics, and quantified cash resources. It acknowledges meaningful exposure to macroeconomic volatility, export controls, customer spending delays, geopolitical events, and litigation or tax proceedings, but often describes impacts as uncertain or immaterial without detailed scenario quantification."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "forward-looking statements subject to risks",
+    "unless otherwise noted",
+    "partially offset",
+    "truncated disclosure/table"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting strong 2021 sales, income, cash flow, and acquisition impacts. Risk disclosures identify COVID-19 effects, aerospace and automotive weakness, customer concentration-related exposure, and regulatory restrictions, but the excerpt is partly boilerplate and the provided table is incomplete."
+}

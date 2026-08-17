@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various other assumptions",
+    "timing may be different",
+    "unable to make a reasonably reliable estimate",
+    "subject to local government health measures"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and financial profile, with substantial revenue, profitability, cash, and debt improvements supported by specific quantitative disclosures. Residual risks include COVID-19 impacts, supply-chain and demand uncertainty, estimation risk in revenue allowances and taxes, and an acquisition expected to close in the future. Disclosure is generally specific but includes standard forward-looking qualifiers and limited quantification of certain uncertainties."
+}

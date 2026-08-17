@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "no assurances",
+    "customary representations, warranties, indemnities and covenants",
+    "substantially all of the assets",
+    "estimated undiscounted cash flows"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue growth, acquisitions, lease savings, financing, and promissory notes, but relies on standard forward-looking disclaimers and subjective estimates regarding future cash flows and profitability. Management acknowledges material uncertainty around achieving revenue growth, profitability, and positive cash flow, while acquisition-related debt and guarantees add financial risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "believe trend will reverse",
+    "materially adversely affect",
+    "non-GAAP performance measures",
+    "based on estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt reports improved revenue, earnings, comparable-store sales, and Adjusted EBITDA, but the recovery remains exposed to pandemic-related restrictions, closures, franchise-unit declines, and uncertain customer behavior. Management uses moderately hedged projections regarding store closures and future performance, while important outcomes depend on estimates and non-GAAP measures."
+}

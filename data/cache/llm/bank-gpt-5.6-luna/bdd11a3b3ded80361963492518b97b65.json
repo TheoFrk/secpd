@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks include but are not limited to",
+    "management judgment and estimates",
+    "inherent but undetected losses",
+    "historical data may not be representative"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and emphasizes uncertainty in loan-loss reserves, economic conditions, and valuation estimates. Credit risk appears elevated by reliance on subjective assumptions, incomplete economic-cycle data, acquisition-related portfolio changes, and potentially lagging regional markets, although reported net interest income and margins improved."
+}

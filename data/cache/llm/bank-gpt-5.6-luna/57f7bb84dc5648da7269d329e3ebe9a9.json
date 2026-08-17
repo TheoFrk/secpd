@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "full extent and impact ... uncertain",
+    "cannot be predicted at this time",
+    "strategies designed to mitigate",
+    "significant assumptions, estimates and judgments",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with reported sales, margins, earnings, and segment results. Risk language is largely standard macroeconomic and accounting-estimate boilerplate, with uncertainty around economic conditions, goodwill impairment, inventory valuation, and legal contingencies. Overall tone is cautiously confident, supported by positive operating performance but tempered by external and estimation risks."
+}

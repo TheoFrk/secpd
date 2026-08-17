@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to numerous risks",
+    "does not undertake to update",
+    "subjective elements and significant change",
+    "inherent but undetected losses",
+    "other common risk factor"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate cautionary language and broad qualifiers around forecasts and accounting estimates. Credit risk disclosure is detailed conceptually but relies heavily on management judgment and qualitative adjustments, with limited quantified sensitivity or scenario analysis for allowance adequacy. The tone is cautious rather than crisis-like, while acknowledging potential adverse effects on earnings and financial position."
+}

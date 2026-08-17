@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict market interest rate fluctuations",
+    "may not prevent material adverse effect",
+    "primarily attributed to",
+    "qualitative factors",
+    "favorable asset quality trends"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting detailed earnings, capital, liquidity, and credit metrics. Risk tone is cautiously positive, but it acknowledges interest-rate uncertainty and emerging credit deterioration, including higher net charge-offs and non-performing loans despite a reduction in loan-loss provisions. Some explanations rely on broad causal language and qualitative factors."
+}

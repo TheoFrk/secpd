@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "opportunistic acquisitions",
+    "temporary disruptions",
+    "meaningful non-GAAP measures",
+    "may require additional restructuring"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including revenue, earnings, liquidity, debt, COVID-19 costs, and restructuring figures. Risk tone is balanced but cautiously optimistic, with material exposure to global demand, pandemic effects, shipping constraints, and potential additional restructuring. Reliance on forward-looking qualifiers and management-defined non-GAAP metrics modestly reduces transparency."
+}

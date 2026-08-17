@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "actual results may differ significantly",
+    "reasonable under the circumstances",
+    "cyclical demand fluctuations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on historical cost changes, impairment, restructuring accruals, and revenue-recognition practices, but includes standard legal disclaimers and estimate-related uncertainty. Core risks are semiconductor cyclicality, customer demand volatility, accounting estimates, and prior goodwill impairment. Management’s tone is cautiously optimistic regarding recovery and profitability while acknowledging significant operational sensitivity to industry swings."
+}

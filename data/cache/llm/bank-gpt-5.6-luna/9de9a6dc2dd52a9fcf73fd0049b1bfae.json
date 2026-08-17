@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict when or if",
+    "material year-to-year fluctuations",
+    "due primarily to",
+    "partially offset by",
+    "see MD&A cross-references"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed year-over-year drivers and segment-level disclosures. Risk tone is mildly negative because net income declined, impairment losses increased, and results remain exposed to catastrophe volatility, reserve development, and unpredictable investment gains or losses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.78,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain and not within Barnwell’s control",
+    "likely be forced to wind down",
+    "may not be able to continue as a going concern",
+    "substantial judgment",
+    "cannot be determined at this time"
+  ],
+  "risk_summary": "The excerpt presents significant liquidity and going-concern risk, including projected negative operating cash flow and likely dependence on uncertain land-development proceeds. It explicitly contemplates liquidation, bankruptcy, asset sales, and inability to continue as a going concern beyond one year. Accounting estimates and reserve revisions add material impairment and earnings volatility risk, although several sensitivities are quantified."
+}

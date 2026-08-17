@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "many factors, including",
+    "we expect to see",
+    "not reportable",
+    "subject to certain performance criteria",
+    "excluding the impact relating to"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, with clear discussion of revenue drivers, historical performance, acquisitions, and market pressures. Risk tone is cautiously positive, though forward-looking expectations depend on insurance pricing, exposure units, economic conditions, and catastrophe-related activity. Long, technical definitions and some boilerplate or non-aggregated metrics reduce readability and comparability."
+}

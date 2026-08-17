@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties not exclusive",
+    "may not be able to accurately predict",
+    "no obligation to update",
+    "competitive pressures may limit price increases"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and broad, largely unquantified uncertainty language. It identifies meaningful exposure to agricultural demand, government spending, supply-chain constraints, inflation, labor, logistics, and covenant compliance, although it provides some precise debt and covenant information. Management maintains a generally constructive tone but acknowledges that inflation and competitive pressures may restrict its ability to pass through higher costs."
+}

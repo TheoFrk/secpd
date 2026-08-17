@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "strive to",
+    "above-average growth",
+    "positive and negative evidence",
+    "hypothetical sensitivities"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive growth and performance narrative supported by substantial geographic and operating metrics. It acknowledges California fiscal stress, uncertainty in tax assets, complex estimates, and limitations of sensitivity analyses, but relies materially on management assertions and forward-looking language."
+}

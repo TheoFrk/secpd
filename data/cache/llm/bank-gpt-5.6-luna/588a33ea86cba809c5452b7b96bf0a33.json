@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future effects remain uncertain",
+    "may differ, possibly materially",
+    "tactical approach to capital allocation",
+    "subject to qualified collateral availability and other conditions",
+    "non-U.S. GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and well-capitalized position, supported by quantified liquidity, capital ratios, debt issuance, and available facilities. However, it contains substantial forward-looking disclaimers and acknowledges material uncertainty around COVID-19, market volatility, hedging exposure, sales declines, interest rates, and future estimates. Reliance on adjusted non-U.S. GAAP measures and extensive boilerplate somewhat limits transparency regarding underlying performance."
+}

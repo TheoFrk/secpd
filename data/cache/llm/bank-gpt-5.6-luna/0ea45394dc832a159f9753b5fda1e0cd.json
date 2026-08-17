@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.27,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "significant estimates and assumptions",
+    "may materially impact",
+    "we believe there is significant growth potential",
+    "potential factors that may affect future results",
+    "cautionary note regarding forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantified footprint, production, impairment, and store information, but contains extensive strategic boilerplate and forward-looking claims. Key risk exposure centers on demand and growth execution, impairment testing assumptions, warranty estimates, supply-chain dependence, and the $10.8 million Torreón closure charges. Overall tone is cautiously optimistic rather than crisis-like, with material uncertainty embedded in projections and valuation assumptions."
+}

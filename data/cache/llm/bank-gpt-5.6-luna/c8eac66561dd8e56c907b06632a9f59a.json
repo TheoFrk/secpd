@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "various important factors",
+    "no obligation to update",
+    "estimates could vary significantly",
+    "expected to be sufficient"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate in its forward-looking and accounting-policy disclosures, with substantial reliance on management judgment and external economic conditions. It identifies relevant risks including rebates, receivables, inventory, taxes, intangible asset impairment, pension assumptions, and covenant restrictions, but provides limited sensitivity analysis beyond selected pension metrics. The tone is cautiously positive, citing covenant compliance and expected liquidity sufficiency, while retaining meaningful uncertainty around forecasts and estimates."
+}

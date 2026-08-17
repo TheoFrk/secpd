@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.66,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not exhaustive",
+    "not possible for management to predict",
+    "reasonable estimates",
+    "future status uncertain",
+    "likelihood ... questionable"
+  ],
+  "risk_summary": "The excerpt contains extensive standard safe-h harbor language and broad, largely unquantified risk categories that limit predictive usefulness. Material judgment surrounds contract costs, inventory valuation, taxes, and deferred tax assets, while the full impairment of the Morion investment, sanctions exposure, uncertain future activity, and inflation indicate elevated operational and financial risk."
+}

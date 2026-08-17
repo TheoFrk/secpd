@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.44,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no operations since 1990",
+    "no revenue unless and until acquisition",
+    "no commitments from lenders",
+    "no assurance funding available",
+    "substantial funding may be required"
+  ],
+  "risk_summary": "The registrant is a non-operating shell with no revenue and recurring losses, funded primarily through affiliate and director advances. Its acquisition strategy depends on substantial future financing for which no commitments exist, and management explicitly states that funding may be unavailable or unfavorable."
+}

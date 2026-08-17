@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently complex and subjective",
+    "could change in the near term and be material",
+    "cannot determine the impact",
+    "potential developments",
+    "reasonable under the circumstances"
+  ],
+  "risk_summary": "The excerpt provides some quantified liquidity and borrowing disclosures, but relies heavily on judgmental assumptions and broad uncertainty language for tax assets, litigation reserves, and goodwill impairment. Respirator liability estimates could change materially, while cash mobility and liquidity depend on collections, foreign repatriation, financing availability, and regulatory conditions."
+}

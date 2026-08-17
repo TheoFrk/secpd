@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict duration and severity",
+    "expect to continue",
+    "could have an impact",
+    "adequate resources",
+    "regulatory lag"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, load declines, liquidity, regulatory deferrals, and COVID-19 impacts. Risk disclosures are balanced but rely on forward-looking assumptions regarding recovery, regulatory relief, vendor performance, and cash flow adequacy. The overall tone is cautiously negative on near-term operating conditions while expressing confidence in liquidity and service continuity."
+}

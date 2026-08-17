@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "dependent on customers' capital investment decisions",
+    "look for growth opportunities",
+    "not been robust enough to offset",
+    "management determines usage is not probable",
+    "operating condition information is inaccurate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue declines, backlog contraction, loss contracts, unbilled receivables, and inventory reserves. Key risks include weak coal-related demand, fuel switching, customer spending reductions, contract-estimate uncertainty, and performance-guarantee exposure, although management frames these issues in largely explanatory and forward-looking terms."
+}

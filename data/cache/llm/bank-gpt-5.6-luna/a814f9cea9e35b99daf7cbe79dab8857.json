@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "estimates, assumptions, and judgments",
+    "other risk factors",
+    "updates them as needed",
+    "deemed to be more representative",
+    "reasonable and supportable forecasts"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified operating data, but its extensive accounting-policy discussion relies on management judgment, forecasts, collateral valuations, and broad qualitative factors. Credit-loss estimates remain sensitive to portfolio composition, credit quality, economic conditions, and collateral values, with potential for material future adjustments; the tone is cautious but not crisis-like."
+}

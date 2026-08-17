@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.66,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "factors beyond the Company’s control",
+    "may differ materially",
+    "under adversely different conditions",
+    "management believes assumptions were appropriate"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by boilerplate forward-looking disclaimers and broad lists of potential risks, limiting company-specific assessment. It identifies meaningful credit, valuation, regulatory, tax, pension, and impairment sensitivities, while presenting loan growth and management judgments in a generally neutral-to-cautious tone."
+}

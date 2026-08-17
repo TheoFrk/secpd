@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe we can fund",
+    "if needed",
+    "for the foreseeable future",
+    "subject to the same variability",
+    "some of which are beyond our control"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, but emphasizes reliance on variable asset liquidation cash flows, available credit, and potential additional financing. Declining cash, negative operating and investing cash flow, and debt obligations indicate moderate liquidity risk despite management’s stated confidence in funding operations."
+}

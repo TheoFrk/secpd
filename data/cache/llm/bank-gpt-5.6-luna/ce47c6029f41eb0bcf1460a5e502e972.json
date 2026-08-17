@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "unforeseen uncertainties and risks",
+    "anticipated benefits",
+    "ability to successfully",
+    "among other factors"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate risk disclaimers and a broad, non-exhaustive list of operational, geopolitical, cyber, legal, tax, supply-chain, and leverage risks. Although cash-flow and acquisition figures are quantified, many forward-looking impacts and mitigation outcomes are expressed conditionally without probability estimates or quantified sensitivity. The overall tone is cautiously neutral, balancing significant uncertainty with management’s confidence in its strategic initiatives and ability to manage disruptions."
+}

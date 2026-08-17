@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "inherent uncertainty",
+    "many other factors",
+    "duration and degree",
+    "potential legislative, regulatory or judicial actions"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively supported, but relies heavily on actuarial judgment and acknowledges substantial uncertainty in loss reserves, pandemic-related claims emergence, and investment income. Risk tone is balanced but moderately positive, supported by sustained underwriting profitability and portfolio gains while noting potential future reserve deficiencies and weaker reinvestment yields."
+}

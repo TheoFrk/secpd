@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "due to variability and difficulty in making accurate forecasts",
+    "without unreasonable efforts",
+    "may be materially different",
+    "non-GAAP measures not comparable"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and explains segment drivers, acquisitions, foreign-exchange effects, and operating trends, but relies substantially on non-GAAP measures and omits reconciliations for forward-looking metrics. The tone is moderately positive due to revenue and operating-income growth, tempered by FX exposure, show-rotation volatility, restructuring costs, and explicit forecast uncertainty."
+}

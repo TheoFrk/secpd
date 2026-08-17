@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "adverse effect on business and prospects",
+    "among other things",
+    "may not replace in full",
+    "highly competitive environment"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear revenue, cost, subscription, and margin comparisons. Risk tone is moderately negative because of declining print advertising, structural migration from print to digital, intense competition, and uncertainty about digital monetization, although digital subscription growth provides a counterpoint. Extensive non-GAAP adjustments and conditional language modestly reduce transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "management judgment and estimates",
+    "no impairment trigger existed"
+  ],
+  "risk_summary": "The disclosure provides useful operational metrics and segment-specific detail, but includes extensive boilerplate disclaimers and relies on management forecasts, valuation assumptions, and impairment judgments. The tone is cautiously positive regarding agriculture, ethanol operations, and growth investments, while acknowledging regulatory, market, commodity-price, and potential impairment risks."
+}

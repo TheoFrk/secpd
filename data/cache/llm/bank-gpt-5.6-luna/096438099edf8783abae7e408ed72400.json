@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily because",
+    "partially offset",
+    "approximately",
+    "unrealized gains",
+    "fewer project go-lives"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear year-over-year explanations, but relies on recurring qualifiers such as “primarily” and “partially offset.” Reported earnings growth is heavily driven by realized and unrealized marketable-securities gains, while Journal Technologies’ pretax income declined 50% and consulting revenue fell 24%. Concentration in a few financial-institution and foreign-manufacturer stocks creates material market-value and earnings volatility risk."
+}

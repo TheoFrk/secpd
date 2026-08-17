@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "reasonably likely impairment",
+    "based upon our current expectations",
+    "various other assumptions",
+    "due to the current state"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes quantitative operating, valuation, and impairment information, but relies on management forecasts and assumptions that could materially change. Risk tone is mildly positive due to improved earnings and a favorable 2012 outlook, tempered by continued Marine Components losses, commodity-cost pressure, and potential impairment exposure."
+}

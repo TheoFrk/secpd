@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "may cause actual results to differ materially",
+    "not place undue reliance",
+    "including but not limited to"
+  ],
+  "risk_summary": "The excerpt is heavily standardized safe-harbor language that broadly lists uncertainties without quantifying their likelihood or financial impact. It identifies meaningful risks involving acquisitions, integration costs, liquidity, regulatory matters, interest rates, client activity, and indemnification obligations, while maintaining a generally neutral-to-positive business tone supported by reported revenue growth."
+}

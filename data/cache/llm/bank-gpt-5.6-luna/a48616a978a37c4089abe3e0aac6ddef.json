@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable",
+    "could, but may not",
+    "other unfavorable impacts",
+    "somewhat temporary",
+    "more detailed description"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and generally transparent, but it is dense and relies on causal qualifiers when explaining performance. The risk tone is mildly positive due to improved net income and commodity prices, offset by material impairment charges, production declines, operational disruptions, and exposure to volatile oil and gas prices."
+}

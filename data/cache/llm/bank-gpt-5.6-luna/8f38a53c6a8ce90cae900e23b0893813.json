@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "consistent with our expectations",
+    "best estimate assumptions",
+    "primarily driven by",
+    "partially offsetting",
+    "non-GAAP adjusted operating income"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides substantial detail on operating results, reserves, capital, and assumptions. Risk is elevated by the $750.8 million long-term-care reserve increase, lower net investment income and unrealized gains, and declining reported net income, although management presents capital adequacy and asset quality as strong. Some reliance on expectations, adjusted measures, and technical accounting terminology modestly limits transparency."
+}

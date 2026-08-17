@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of asset sales",
+    "highly dependent on business initiatives",
+    "absent sale or refinancing",
+    "customary covenants and events of default",
+    "acceptable prices, if at all"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, but it clearly identifies severe liquidity and refinancing risk. The company states that it may be unable to repay approximately $50 million of borrowings at maturity and would lack sufficient liquidity if covenants are breached, making continued operations dependent on asset sales, refinancing, or maturity extensions."
+}

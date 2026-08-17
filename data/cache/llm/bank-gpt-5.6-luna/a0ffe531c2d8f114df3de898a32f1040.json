@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "expects to",
+    "anticipated to include",
+    "subject to PSCW approval",
+    "cannot reasonably be estimated",
+    "amount and timing are uncertain"
+  ],
+  "risk_summary": "The disclosure is generally specific, with substantial quantified investment, capacity, emissions, and contractual-obligation data. Its tone is predominantly confident and strategic, though execution, regulatory approval, COVID-19 impacts, credit-rating downgrades, and uncertain remediation or benefit-plan obligations introduce material risks. Promotional ESG and reliability language contributes moderate boilerplate content but does not substantially obscure the key risks."
+}

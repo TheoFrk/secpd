@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not possible to determine",
+    "no obligation to update",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt presents strong fiscal 2014 growth, profitability, liquidity, and client retention, producing a generally positive operating tone. However, extensive boilerplate disclaimers, broad unranked risk lists, reliance on adjusted EBITDA, and uncertainty around goodwill impairment assumptions reduce transparency regarding downside risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unable to identify or quantify",
+    "sufficient liquidity for next 12 months",
+    "going concern conclusion",
+    "potential sources of cash"
+  ],
+  "risk_summary": "The disclosure provides quantified deterioration, including a 29.6% gross profit decline, $12.4 million operating loss, $12.0 million net loss, and $8.7 million negative working capital. Liquidity appears pressured by factoring dependence, increased interest expense, tax and note payables, and a material impairment, although management asserts that going-concern risks are not material within one year. Extensive forward-looking disclaimers and reliance on potential financing and cash generation introduce uncertainty."
+}

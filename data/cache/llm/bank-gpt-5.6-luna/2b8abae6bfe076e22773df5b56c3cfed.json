@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no obligation to update",
+    "many factors could cause",
+    "strong liquidity and capital ratios",
+    "qualitative growth aspirations"
+  ],
+  "risk_summary": "The excerpt projects a generally confident, community-focused outlook and presents some useful quantified interest-rate and balance-sheet data. However, extensive forward-looking disclaimers, broad qualifiers, and promotional language limit specificity regarding downside scenarios, credit losses, liquidity sensitivity, and the basis for stated strengths."
+}

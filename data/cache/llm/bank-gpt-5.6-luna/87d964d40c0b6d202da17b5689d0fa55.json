@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "expected future customers",
+    "currently unknown capital requirements",
+    "may or may not realize",
+    "uncertainty as to future taxable income"
+  ],
+  "risk_summary": "The disclosure provides useful revenue, customer concentration, margin, R&D, and tax-loss figures, but relies heavily on conditional forecasts and unquantified expectations for growth, margins, and commercialization. Key risks include dependence on major customers, insufficient scale, uncertain capital needs, potential going-concern pressure, regulatory exposure, and expiration or limitation of tax attributes."
+}

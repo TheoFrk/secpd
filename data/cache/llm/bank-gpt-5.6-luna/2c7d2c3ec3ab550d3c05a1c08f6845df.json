@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "strong operational execution",
+    "extraordinary levels of shareholder value",
+    "regardless of the operating environment",
+    "up to $200 million",
+    "additional information can be found in Note 6"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent on sales, margins, restructuring charges, currency impacts, debt funding, and guarantee exposure. Risk tone is cautiously positive, but promotional language and forward-looking claims about synergies, sustainable growth, and shareholder value are not supported here by detailed sensitivity analysis. Notable risks include macroeconomic volatility, foreign exchange pressure, emerging-market weakness, restructuring costs, acquisition integration, and Brazilian customer-credit guarantees."
+}

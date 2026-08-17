@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "ongoing guidance and accounting interpretation",
+    "provisional estimate",
+    "incomplete due to forthcoming guidance",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, but includes standard forward-looking disclaimers and provisional tax accounting language. Risk tone is materially negative due to declining sales and backlog, an Energy Segment operating loss, project cancellations, impairments, doubtful accounts, and exposure to the Westinghouse bankruptcy. The duplicated tax discussion and dense accounting terminology modestly reduce disclosure clarity."
+}

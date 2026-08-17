@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "unpredictable and beyond our control",
+    "subject to certain conditions",
+    "among other things",
+    "material adverse effect dispute"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A disclosure but identifies meaningful sensitivity to market conditions, interest rates, technology execution, and regulatory or economic factors. The terminated Kakaopay transaction and related $5.943 million cost indicate transaction-execution and governance risk, although the disclosure provides substantial quantitative and contractual detail. Overall tone is cautious and neutral rather than crisis-like, with some reliance on broad risk disclaimers."
+}

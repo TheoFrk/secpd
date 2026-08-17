@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "incorporated by reference",
+    "non-GAAP performance measures",
+    "future events beyond our control"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but contains extensive boilerplate disclaimers and repeated caveats limiting reliance on forecasts and non-GAAP measures. Risk tone is mildly negative, reflecting significant impairments, restructuring costs, margin pressure, supply-chain challenges, and sharply lower GAAP EPS despite sales growth."
+}

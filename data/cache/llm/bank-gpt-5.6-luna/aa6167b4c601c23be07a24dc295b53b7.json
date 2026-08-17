@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "actual results are likely to differ",
+    "including, but not limited to",
+    "no obligation to publicly update",
+    "subject to uncertainty",
+    "not meaningful (NM)"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified tax, capital management, transaction, and reserve information, but relies heavily on standard forward-looking disclaimers and generalized assumptions. The tone is cautiously constructive regarding the strategic realignment and expected business performance, while acknowledging meaningful exposure to economic conditions, interest rates, capital markets, catastrophe losses, and reserve-estimation uncertainty."
+}

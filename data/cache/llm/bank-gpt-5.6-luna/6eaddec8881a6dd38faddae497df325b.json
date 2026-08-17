@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict the outcome",
+    "could have further adverse impact",
+    "do not believe material adverse effect",
+    "variety of factors",
+    "unanticipated contract claims or litigation"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, including acquisition costs, Venezuela write-offs, debt fair values, and contractual obligations. Material uncertainty remains around Venezuelan recoveries, litigation exposure, commodity costs, demand variability, and potential unanticipated claims, with outcomes described using qualified language."
+}

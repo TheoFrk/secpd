@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "could differ materially",
+    "does not expect a material impact",
+    "believe key programs benefit from bipartisan support",
+    "subject to renewal solicitations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes meaningful customer concentration, contract renewal, government continuing resolution, shutdown, and acquisition-related risks. Its tone is cautiously optimistic, but repeated reliance on expectations, beliefs, and anticipated bipartisan support introduces moderate uncertainty. Extensive legal cautionary language and repeated budget discussion add boilerplate and reduce clarity."
+}

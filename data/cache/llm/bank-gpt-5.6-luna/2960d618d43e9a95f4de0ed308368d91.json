@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.26,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to occur",
+    "if prices should weaken",
+    "cannot be measured precisely",
+    "more detailed description",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantified production, pricing, earnings, sensitivity, and asset-sale information. Key risks include high exposure to oil and natural-gas prices, declining gas volumes, operational costs, discontinued-operation uncertainty, and execution of the U.K. asset sale. The tone is moderately positive regarding earnings and strategic transition but acknowledges meaningful commodity and execution risks."
+}

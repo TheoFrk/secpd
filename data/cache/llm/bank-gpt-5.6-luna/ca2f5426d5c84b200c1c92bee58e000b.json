@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "loss not probable or reasonably estimable",
+    "could have a material adverse effect",
+    "management believes",
+    "variety of other matters",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure provides substantial procedural detail on securities litigation but does not quantify potential exposure, relying on management’s assessment that loss is neither probable nor reasonably estimable while acknowledging potentially material consequences. Operating commentary indicates modest growth and expansion in newer applications, offset by product discontinuation, revenue volatility, reliance on early-adopter physicians, and unresolved accounting-standard impacts."
+}

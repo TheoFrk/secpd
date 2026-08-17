@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "Non-GAAP adjusted earnings exclusions",
+    "Broad forward-looking earnings expectations",
+    "Extensive excluded expense categories",
+    "Management-defined segment operating profit",
+    "Covenant and floating-rate debt exposure"
+  ],
+  "risk_summary": "The excerpt is relatively specific, with substantial revenue, profit, cost, geographic and financing data, but relies on management-defined non-GAAP measures that exclude numerous recurring or potentially material costs. The tone is generally confident and growth-oriented, while regulatory review, weak regional demand, currency effects, acquisition execution and leverage-related financing risks remain evident."
+}

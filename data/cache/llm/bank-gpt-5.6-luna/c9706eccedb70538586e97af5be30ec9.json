@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to quantify possible effects",
+    "no guarantee of collection",
+    "could differ materially",
+    "environment remains uncertain",
+    "management cannot estimate with certainty"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating data, including revenue growth, customer concentration, cost changes, and legal judgment amounts. Material risks include dependence on three customers, exclusive China manufacturing and tariff exposure, uncertain demand, and potential non-collection of a substantial legal judgment. The tone is cautiously negative regarding forward-looking uncertainty despite reported sales growth."
+}

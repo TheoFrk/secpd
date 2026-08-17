@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "material adverse effect",
+    "no assurance expectations will prove correct",
+    "other risks described in filings",
+    "estimates, assumptions and judgments"
+  ],
+  "risk_summary": "The excerpt presents a cautious risk tone, emphasizing fragile economic recovery, credit-market volatility, asset-quality pressure, and dependence on subjective loss estimates. Quantified metrics and capital/liquidity disclosures provide useful specificity, but extensive boilerplate disclaimers and broad risk lists reduce transparency regarding probability, magnitude, and timing of adverse outcomes."
+}

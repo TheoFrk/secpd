@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "without limitation",
+    "may materially adversely affect",
+    "do not place undue reliance",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, margins, asset composition, nonperforming loans, and loss reserves, but includes an extensive boilerplate forward-looking disclaimer. Risk indicators include declining net interest income and margin, lower loan balances, and rising nonperforming assets, although management presents these developments as actively managed."
+}

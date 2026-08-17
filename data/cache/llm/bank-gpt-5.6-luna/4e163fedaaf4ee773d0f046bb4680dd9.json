@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "currently expect to close",
+    "no assurance",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, but presents declining net income, impairment charges, tenant non-renewal, and transaction execution risk. Operating metrics and financing capacity are disclosed, although reliance on non-GAAP NOI/FFO and extensive definitions add interpretive complexity."
+}

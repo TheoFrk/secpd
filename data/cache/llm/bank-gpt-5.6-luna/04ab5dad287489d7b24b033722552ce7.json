@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "difficult and subjective judgments",
+    "reasonable under the circumstances",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth-oriented strategy with quantified revenue and operating metrics, particularly for Moving and Storage. Risk disclosure relies partly on standard forward-looking-statement disclaimers and acknowledges material estimation uncertainty in critical accounting policies. The text is structurally complex and includes OCR or formatting artifacts, but it is not strongly evasive."
+}

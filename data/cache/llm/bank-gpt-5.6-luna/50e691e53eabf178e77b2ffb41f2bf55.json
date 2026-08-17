@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "repeated forward-looking disclaimer",
+    "known and unknown risks and uncertainties",
+    "actual results could differ materially",
+    "additional financing may not be completed",
+    "inherently subjective and uncertain"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and repeated warnings that future results and financing depend on uncertain factors. It provides useful revenue and cash-flow figures, but indicates continued operating cash use and reliance on equity financing, creating liquidity and execution risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "various estimates",
+    "not necessarily a good indication",
+    "may experience future impairment charges",
+    "refer to Item 1 for more detail"
+  ],
+  "risk_summary": "The excerpt is relatively specific and well quantified, but contains material negative signals including recurring net losses, declining revenue, substantial impairment charges, and a rising unfunded pension liability. Risk is partly softened by management’s statement that cash flows are adequate for anticipated capital expenditures, although future results remain exposed to market weakness, customer pressure, and asset valuation assumptions."
+}

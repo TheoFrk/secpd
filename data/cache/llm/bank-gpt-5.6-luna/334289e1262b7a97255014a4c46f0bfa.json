@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "due to:",
+    "partially offsetting",
+    "largely due to",
+    "no assurance",
+    "certain assumptions"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified earnings, losses, impairments, rate requests, and operating drivers, but several key explanations are truncated or replaced by generic transition phrases. Risk exposure is elevated from regulatory requirements, commodity volatility, permitting constraints, competition, workforce issues, and significant prior-year asset impairments."
+}

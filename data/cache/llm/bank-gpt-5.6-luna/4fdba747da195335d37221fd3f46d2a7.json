@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expect to generate strong operating cash flow",
+    "underlying markets",
+    "core net income",
+    "internally derived management estimates",
+    "non-GAAP exclusions"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, detailing significant declines in net income, gross margin, and several segment revenues. Risk is elevated due to COVID-19 effects, customer weakness, litigation and environmental reserves, impairment charges, and foreign-exchange exposure, although management presents a resilient and growth-oriented outlook. Use of adjusted metrics and internally derived constant-currency assumptions introduces some comparability and transparency risk."
+}

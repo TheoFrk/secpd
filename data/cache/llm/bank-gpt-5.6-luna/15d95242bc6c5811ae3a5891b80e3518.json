@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "boilerplate forward-looking disclaimer",
+    "among other things",
+    "other factors beyond our control",
+    "non-exhaustive risk list",
+    "truncated accounting-policy discussion"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, including sales growth and cash balances, but also highlights weaker operating cash flow, customer-collection exposure, dependence on distributors and regulatory approvals. Risk disclosure is broad and largely boilerplate, with limited quantification of downside scenarios or sensitivity to the identified risks."
+}

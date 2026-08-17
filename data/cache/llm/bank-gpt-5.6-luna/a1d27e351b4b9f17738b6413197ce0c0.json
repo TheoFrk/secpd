@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "unique and increasingly important capability",
+    "more likely than not",
+    "best estimate of selling price",
+    "not expected to differ significantly",
+    "contractual obligations section truncated"
+  ],
+  "risk_summary": "The excerpt combines detailed quantitative disclosures on acquisitions, divestitures, debt, and revenue recognition with promotional, largely unquantified descriptions of market positioning. Accounting estimates and impairment assessments create judgment-related risk, while leverage appears modest and covenant compliance is explicitly reported; the excerpt is truncated before the full contractual-obligations detail."
+}

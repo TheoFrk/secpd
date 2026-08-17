@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "future additions may be necessary",
+    "subjective or complex estimates",
+    "significant nonobservable inputs",
+    "projected cash flows"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and methodological detail on loan-loss allowances, fair values, FDIC loss-share receivables, and pension assumptions. Risk is presented in a generally controlled and technically confident tone, but reliance on management estimates, economic conditions, collateral values, and projected cash flows creates material uncertainty. The text is highly complex and includes standard caveats that could obscure sensitivity to adverse outcomes."
+}

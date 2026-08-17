@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "could experience fluctuation",
+    "broad array of products",
+    "past performance does not guarantee",
+    "actual results may vary"
+  ],
+  "risk_summary": "The excerpt presents strong 2021 growth in assets, revenues, operating income, and acquisitions, with substantial quantitative detail and a generally confident tone. Key risks are market volatility, dependence on asset-based fees and flows, acquisition integration, and estimation uncertainty, although these are described largely in standard disclosure language."
+}

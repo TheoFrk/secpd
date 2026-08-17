@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "numerous assumptions could prove inaccurate",
+    "variety of risks and uncertainties",
+    "not an exhaustive statement",
+    "undertake no obligation to update",
+    "reasonable and supportable forecasts"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and an extensive, non-quantified list of potential risks, particularly COVID-19, Hawaii tourism exposure, credit losses, liquidity, and operational disruption. Despite this cautionary framing, reported 2021 earnings, profitability, housing activity, and balance-sheet commentary are materially positive and include useful quantitative metrics."
+}

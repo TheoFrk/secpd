@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "plans to mitigate and alleviate",
+    "period-to-period comparison may not be indicative",
+    "general increase in business operations",
+    "truncated disclosure on notes payable"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial data but signals severe liquidity and solvency risk, including a $38 million working-capital deficit, low cash, accumulated losses, and an explicit going-concern concern. The going-concern mitigation section appears incomplete or non-specific, limiting assessment of management’s ability to address the risks. Revenue growth and improved operating cash flow are offset by continuing net losses, rising interest expense, and a large stockholders’ deficit."
+}

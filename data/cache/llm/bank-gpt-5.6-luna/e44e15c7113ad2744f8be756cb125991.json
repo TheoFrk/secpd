@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.49,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"promises better service\"",
+    "\"growing stronger day by day\"",
+    "\"successful ongoing problem credit resolution\"",
+    "\"other negative economic concerns\"",
+    "\"no matter whether the economy rises or falls\""
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful detail on earnings, loan growth, asset quality, capital, and allowance coverage. Its tone is nevertheless promotional and optimistic, with economic weakness and borrower stress acknowledged but partly offset by broad assurances and limited downside sensitivity analysis. Credit risk remains tied to commercial and commercial real estate concentrations, slow economic recovery, and reliance on improved asset quality to support negative loan-loss provisions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "risks and uncertainties",
+    "undertakes no obligation to update",
+    "factors that could cause actual results to differ materially",
+    "incomplete segment descriptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, but is preceded by extensive standard forward-looking-statement disclaimers and broad, nonspecific risk factors. Performance weakened materially, with a shift from net income to net loss, lower professional sales-service and equipment revenue, and declining gross profit, although IT growth and backlog provide some offset."
+}

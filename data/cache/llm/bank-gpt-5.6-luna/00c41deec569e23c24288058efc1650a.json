@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management judgment and estimates",
+    "actual results may differ",
+    "future cash flows and assumptions",
+    "non-U.S. GAAP measures",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt reports solid sales, earnings, and operating cash-flow growth, producing a moderately positive risk tone. However, extensive reliance on management judgments, valuation assumptions, contingencies, and non-U.S. GAAP measures introduces estimation and comparability risk; the truncated text limits full assessment."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.67,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "plans to achieve profitability",
+    "substantial doubt going concern",
+    "late fees and penalties not quantifiable"
+  ],
+  "risk_summary": "The disclosure explicitly reports substantial doubt about the Company’s ability to continue as a going concern, significant net losses, working-capital deficits, and dependence on debt and equity financing. Although it presents revenue growth and strategic initiatives, profitability plans are broadly stated and not supported here by quantified milestones or financing certainty. Extensive legal and forward-looking disclaimers add boilerplate and limit accountability for projections."
+}

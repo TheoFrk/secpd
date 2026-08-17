@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance financing available",
+    "assessing potential mergers",
+    "additional capital required",
+    "materially adversely affected"
+  ],
+  "risk_summary": "The company has discontinued operations, minimal cash of $55,000, negative working capital of approximately $240,000, and expects existing funds to be insufficient for the next twelve months. Continued operations depend on obtaining additional financing, with explicit uncertainty regarding availability and terms. The disclosure is quantitatively informative on liquidity but relies heavily on standardized forward-looking disclaimers and generic strategic language."
+}

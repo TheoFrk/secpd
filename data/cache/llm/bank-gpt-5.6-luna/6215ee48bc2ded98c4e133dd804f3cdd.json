@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance of additional funding",
+    "may not be able to continue operations",
+    "equity method accounting transition",
+    "related-party transactions",
+    "unaudited subsidiary financials"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but highlights a net loss, increased operating expenses, dependence on external capital, and the possibility of curtailing or ceasing operations without additional funding. The Cellerate transaction and accounting transition complicate year-over-year comparability and involve related-party and unaudited subsidiary information."
+}

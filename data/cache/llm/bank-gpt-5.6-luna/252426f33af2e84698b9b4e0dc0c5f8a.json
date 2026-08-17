@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.25,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "broad array of engineered components",
+    "expects to return to the normal wholesale cycle",
+    "future retail demand is inherently uncertain",
+    "many factors that can impact this relationship",
+    "significant opportunities in adjacent industries"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with specific industry volumes, cash flows, inventory changes, and forward estimates. Risk tone is mildly positive but acknowledges an industry slowdown, inventory normalization, uncertain future demand, and working-capital variability. Dense market and segment descriptions, along with broad forward-looking language, modestly reduce transparency."
+}

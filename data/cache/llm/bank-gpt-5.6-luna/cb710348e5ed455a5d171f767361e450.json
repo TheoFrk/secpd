@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be predicted",
+    "do not yet know",
+    "impossible to isolate the exact impact",
+    "to the extent",
+    "certain other conditions"
+  ],
+  "risk_summary": "The excerpt describes material COVID-19-related disruption to operations, manufacturing capacity, supply chains, sales activity, and near-term financial results. Although management cites mitigation measures and some quantified spending and revenue data, it provides limited quantification of the pandemic’s total financial impact and repeatedly emphasizes uncertainty. Detailed debt repayment terms are disclosed, but the excerpt is highly dense and partly boilerplate in presentation."
+}

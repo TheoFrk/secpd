@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potential sale of businesses",
+    "strategic choices",
+    "non-GAAP financial measures",
+    "excluding certain items",
+    "potential adverse impacts"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including substantial mark-to-market, restructuring, and portfolio-related charges. Risk is moderated by management’s use of adjusted measures and optimistic strategic framing, while the potential divestitures, restatements, pension volatility, Brexit exposure, and segment declines indicate meaningful operating and comparability risks."
+}

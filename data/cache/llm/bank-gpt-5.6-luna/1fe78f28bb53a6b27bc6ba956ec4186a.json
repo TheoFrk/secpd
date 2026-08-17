@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "uncertain impact",
+    "if necessary, we will take actions",
+    "barring unforeseen events",
+    "typically do not have a material impact"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on revenue movements, client concentration, geographic exposure, and business drivers, but contains substantial boilerplate and extensive service descriptions. Risk tone is cautiously negative regarding economic downturns, foreign exchange, political conditions, Brexit, China, and client spending, while management projects modest organic growth. Mitigation plans are described generally, with limited quantified sensitivity or contingency detail."
+}

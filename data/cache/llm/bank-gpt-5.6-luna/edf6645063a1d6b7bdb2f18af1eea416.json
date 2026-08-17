@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "risks and uncertainties",
+    "not possible to predict all such risks",
+    "no obligation to revise or update",
+    "expected to approximate"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer language and broad risk reservations, which reduce specificity around potential downside outcomes. Operating metrics and forecasts are reasonably quantified, but expectations rely on assumptions regarding economic growth, demand, freight rates, and brokerage conditions. Overall tone is cautiously positive, with acknowledged weakness in logistics and near-term operating income. "
+}

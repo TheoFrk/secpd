@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "plans to expand into brokerage",
+    "related-party acquisition",
+    "pending legal proceedings"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue, cost, share repurchase, and transaction details, but is heavily supplemented by boilerplate forward-looking disclaimers and broad strategic language. Key risks include cryptocurrency and mining exposure, early-stage brokerage expansion, related-party transactions, management turnover, prior legal complications, and substantial deferred payment obligations."
+}

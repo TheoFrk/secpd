@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot accurately measure full impact",
+    "subject to risks and uncertainties",
+    "no obligation to update",
+    "undue reliance on forward-looking statements",
+    "fluctuation of competitive factors"
+  ],
+  "risk_summary": "The excerpt is generally confident and provides meaningful operational and margin metrics, store counts, acquisition details, and insurance assumptions. Risk disclosures rely substantially on standard forward-looking language and acknowledge uncertainty around inflation, competition, actuarial estimates, and future performance without quantifying potential downside. Repeated headers, duplicated program descriptions, and formatting artifacts reduce clarity but do not indicate an acute crisis tone."
+}

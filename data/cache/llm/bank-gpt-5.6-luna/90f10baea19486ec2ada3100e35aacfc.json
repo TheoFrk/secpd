@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures may not be consistent",
+    "driven by",
+    "historically...reliable",
+    "such as decisions to close a store",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and heavily quantified, with clear explanations of revenue, margin, SG&A, impairment, and accounting classifications. Risk signals include declining 2019 net sales, margin pressure, SG&A deleveraging, higher fulfillment costs, store closures, impairments, severance, and technology write-offs. Overall tone is factual and moderately cautious rather than crisis-like, though some estimates and non-GAAP definitions limit comparability."
+}

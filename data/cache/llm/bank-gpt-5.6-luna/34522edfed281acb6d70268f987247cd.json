@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors that may affect results",
+    "actual results may differ materially",
+    "estimates and judgments",
+    "various other assumptions",
+    "single source or limited number of suppliers"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with revenue, margins, expenses, supplier structure, and accounting judgments described. Key risks include reliance on outsourced and concentrated suppliers, absence of long-term supply contracts, uncertain fair-value and impairment judgments, and sensitivity to product mix and new-product margins. Overall tone is moderately confident but includes standard forward-looking and estimation-related caveats."
+}

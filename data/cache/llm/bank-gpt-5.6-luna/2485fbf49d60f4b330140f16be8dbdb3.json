@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "possible non-collections",
+    "significant estimates and assumptions",
+    "it is unknown how many",
+    "may differ materially",
+    "underlying assumptions or estimates"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including receivable write-offs, reserves, outlet counts, margins, and deferred tax asset reductions. Credit risks remain elevated due to franchisee collectability issues, COVID-19 effects, potential tax credit expirations, operating execution, and broad forward-looking uncertainties, although management emphasizes improving restaurant margins and growth plans."
+}

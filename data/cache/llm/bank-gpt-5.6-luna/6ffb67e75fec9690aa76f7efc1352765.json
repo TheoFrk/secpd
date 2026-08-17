@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "foreseeable future",
+    "with few exceptions",
+    "primarily due to",
+    "advanced-stage properties",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but uses substantial technical and non-GAAP terminology and includes reliance disclaimers regarding third-party mine data. Risk tone is moderately negative, reflecting a net loss, sharply higher production and sustaining costs, declining mine life at El Gallo 1, operational disruption, and reduced investment income."
+}

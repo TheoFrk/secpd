@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "may be significantly affected",
+    "primarily due to",
+    "state-of-the-art; fiber-rich",
+    "see Note 4 for additional information"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, including revenue trends, debt maturities, interest-rate hedging, and access-line declines. Key risks include structural erosion of voice and switched-access revenue, regulatory uncertainty, competition, and reliance on network investment and customer bundling to offset declines. The tone is cautiously positive but emphasizes management’s mitigating initiatives more than downside scenarios."
+}

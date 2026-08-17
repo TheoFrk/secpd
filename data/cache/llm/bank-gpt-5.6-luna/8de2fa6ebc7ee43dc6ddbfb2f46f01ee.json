@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "omitted pursuant to instruction",
+    "incorporated herein by reference",
+    "no substantive analysis",
+    "multiple entity abbreviations"
+  ],
+  "risk_summary": "The excerpt provides no direct financial or operational discussion and instead defers substantially to separate annual reports. This limits transparency and requires readers to consult external disclosures to assess results and financial condition."
+}

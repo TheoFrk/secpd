@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "known and unknown liabilities",
+    "could involve significant costs",
+    "may not achieve projected profitability",
+    "actual results could differ from estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified customer counts, service areas, water volumes, contract terms, rates, and production trends. Risk discussion is balanced but includes material uncertainty around acquisitions, integration, financing, regulatory compliance, estimates, water costs, and supply arrangements. The excerpt is technically dense and contains some standard forward-looking and contingency language."
+}

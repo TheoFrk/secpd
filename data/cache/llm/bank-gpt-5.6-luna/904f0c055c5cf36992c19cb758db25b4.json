@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.98,
+  "complexity_score": 0.38,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "repeated section headers",
+    "duplicated boilerplate",
+    "truncated disclosure",
+    "incomplete context",
+    "restructuring costs"
+  ],
+  "risk_summary": "The excerpt is dominated by repeated headers and boilerplate, substantially reducing transparency and making substantive risk assessment difficult. The only substantive detail identifies $180 million of restructuring and other costs in 2013, but the truncated context prevents evaluation of drivers, recurrence, or financial impact."
+}

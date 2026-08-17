@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.66,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "disclaims any obligation to update",
+    "strategic pillars",
+    "solid underlying business model"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and financial narrative, supported by substantial quantified revenue, earnings, cash flow, retention, and booking metrics. Risk disclosure is broad and largely boilerplate, covering regulatory, market, technology, security, funding, and competitive risks without quantifying likely exposure or sensitivity. Overall credit risk tone is confident, though reliance on client-funds interest income and short-term financing warrants monitoring."
+}

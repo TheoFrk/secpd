@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to accurately estimate financial impact",
+    "various strategies and exceptions",
+    "may not recover",
+    "subject to certain thresholds",
+    "believe we are in compliance"
+  ],
+  "risk_summary": "The excerpt identifies material operational and financial risks from persistent supply-chain disruptions, component shortages, inflation, elevated inventories, higher procurement and logistics costs, and incomplete recovery in aerospace and customer demand. Mitigation actions are described, but their effectiveness and ultimate financial impact remain uncertain, with several broad qualifiers and limited quantification. Debt covenant compliance is stated, although secured lending terms and broad events of default create meaningful downside risk."
+}

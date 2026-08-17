@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "no reasonable likelihood",
+    "subject to change",
+    "could significantly adversely affect",
+    "non-GAAP exclusions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including sensitivity analyses for key estimates and explicit accounting-policy explanations. Risk is present around revenue recognition, customer collections, inventory obsolescence, acquisitions, tax effects, and substantial earnings decline, but the tone remains measured and management-focused rather than crisis-like."
+}

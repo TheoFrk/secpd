@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.15,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "based on currently available information",
+    "varying utilization",
+    "significant fluctuations",
+    "no assurances as to future levels"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and financial quantification, including revenues, EBITDA improvement, crew counts, and cost metrics. Risk tone remains cautious because demand, commodity prices, pricing differentials, utilization, weather, permitting, and turnkey-contract exposure create material volatility, while several outlook statements rely on conditional or non-quantified expectations."
+}

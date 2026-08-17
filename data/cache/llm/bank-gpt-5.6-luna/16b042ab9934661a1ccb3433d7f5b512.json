@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "reasonably well",
+    "may or may not be realized",
+    "best judgment",
+    "other factors",
+    "without taking into consideration offsetting inputs"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes substantial quantitative disclosure on loans, revenue, leverage objectives, derivatives, and COVID-19 impacts. Risk is moderated by reliance on non-GAAP measures, management judgments in allowance estimates, derivative-related earnings volatility, and extensive conditional language. The overall tone is cautiously reassuring rather than crisis-like, but the excerpt is truncated before the sensitivity results are provided."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.56,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "favorable markets",
+    "continued improvement",
+    "one-time charges"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and generally transparent, with detailed year-over-year financial, credit, capital, and expense metrics. Risk tone is moderately positive, supported by improving credit quality, strong capital ratios, and earnings growth, although acquisition costs, litigation, impairments, and expense pressures are noted. Repetition and dense financial terminology reduce readability but do not appear materially evasive."
+}

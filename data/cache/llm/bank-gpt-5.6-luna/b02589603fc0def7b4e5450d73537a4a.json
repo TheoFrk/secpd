@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "subject to significant risks and uncertainties",
+    "factors ... include, but are not limited to",
+    "not possible for us to predict all of them",
+    "non-GAAP financial information"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and broad, largely unquantified risk factors, including merger execution, credit losses, funding, cybersecurity, regulation, and macroeconomic conditions. It provides some concrete information on the ESSA merger and allowance for credit losses, but the overall disclosure is boilerplate-heavy and risk-focused rather than predictive."
+}

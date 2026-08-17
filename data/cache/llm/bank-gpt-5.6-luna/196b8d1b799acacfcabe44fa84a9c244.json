@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant management estimates",
+    "inherently subjective",
+    "imprecise risk associated",
+    "events and factors that may significantly affect",
+    "likelihood ... is remote"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic and asset-quality profile, supported by detailed operating, delinquency, cash-flow, and contractual-obligation figures. Material uncertainty remains around loan-loss allowances, goodwill impairment, deferred taxes, economic conditions, and interest-rate sensitivity because these rely on subjective assumptions and scenario-based estimates. The disclosure is technically dense and includes standard accounting-policy language, but is not predominantly evasive."
+}

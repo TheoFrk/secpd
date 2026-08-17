@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances that actual results will not differ",
+    "vary greatly",
+    "other factors will also influence",
+    "not materially impact",
+    "estimates based on established methodologies"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, volumes, interest-rate sensitivity, loan quality, nonaccrual loans, and operating expense changes. Risk tone is cautiously positive, supported by strong asset-quality statements and growth claims, but includes exposure to interest rates, customer retention, economic conditions, and management estimates. The excerpt is lengthy and technical, with some boilerplate and a truncated allowance-for-loan-loss discussion limiting completeness."
+}

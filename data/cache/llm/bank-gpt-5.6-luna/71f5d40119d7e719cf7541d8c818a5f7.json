@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results could differ materially",
+    "subjective and complex judgments",
+    "many factors",
+    "limited number of long-term fixed-price contracts"
+  ],
+  "risk_summary": "The disclosure identifies meaningful exposure to U.S. government spending, continuing resolutions, competitive bidding, pricing pressure, cybersecurity threats, and estimation uncertainty. It provides useful contract-mix quantification, but relies substantially on standard forward-looking disclaimers and qualitative descriptions of potential impacts. Overall tone is balanced but modestly risk-negative due to funding uncertainty and operational exposure."
+}

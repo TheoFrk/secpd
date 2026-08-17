@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may adversely affect",
+    "no assurance as to",
+    "if economic conditions persist or deteriorate",
+    "opportunistically dispose",
+    "expected rental rates or projected timeframes"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitative, identifying lease expirations, retention rates, receivable allowances, development spending, and funding requirements. Risk tone is cautious and materially negative, emphasizing constrained credit markets, refinancing and liquidity risk, tenant defaults, vacancy, valuation impairment, and development uncertainty. Some risks are expressed through broad conditional and forward-looking language without probability estimates or sensitivity analysis."
+}

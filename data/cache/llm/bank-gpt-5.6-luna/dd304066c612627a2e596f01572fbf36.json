@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "known and unknown risks",
+    "other unknown or unpredictable factors",
+    "could cause actual results to differ materially",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt combines detailed, quantified operating and acquisition information with extensive standardized forward-looking disclaimer language. Key risks include integration and regulatory approval for pending acquisitions, sensitivity to local economies and credit quality, funding costs, and interest-rate changes, although capital levels are described as exceeding well-capitalized guidelines."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "sufficient liquidity for the next fiscal year",
+    "to the extent possible",
+    "may continue to sell non-core assets",
+    "extremely difficult to predict",
+    "still determining the impact"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and heavily quantified, but liquidity depends partly on continued asset sales, operating cash flow, and commodity prices while the company remains unprofitable and carries bank debt. Management expresses confidence in near-term liquidity without providing a detailed downside scenario or quantified liquidity buffer."
+}

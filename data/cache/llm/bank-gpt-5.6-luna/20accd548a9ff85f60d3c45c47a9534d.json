@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive discussion",
+    "boilerplate section heading"
+  ],
+  "risk_summary": "The excerpt is purely a navigational cross-reference to the MD&A and provides no quantitative or qualitative information about financial condition, performance, liquidity, or risks. Its lack of substantive content prevents meaningful assessment of the issuer’s risk profile from this passage alone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "outside of our control",
+    "may vary depending on factors",
+    "could cause future events to differ",
+    "for additional information, see"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and stable outlook, supported by extensive quantified operating, balance-sheet, and capital data. However, performance weakened modestly as net income declined and credit-loss provisions increased, while significant reliance on forward-looking assumptions and broad risk disclaimers limits precision regarding downside exposure."
+}

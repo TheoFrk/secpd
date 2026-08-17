@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management’s judgment",
+    "variety of factors",
+    "subjective and qualitative factors",
+    "actual results could differ significantly",
+    "designed to mitigate risks"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes meaningful quantitative information, but relies heavily on management estimates and broad qualitative caveats regarding credit losses, residual values, fair value, taxes, and interest-rate sensitivity. Earnings declined 17.4% amid lower yields and non-interest income, while portfolio concentrations and repricing mismatches present identifiable risks. Overall tone is measured and controlled rather than crisis-like, with some boilerplate risk-management language."
+}

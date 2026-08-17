@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "factors include, but are not limited to",
+    "inherently uncertain",
+    "extremely fluid economic condition"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative performance, funding, capital, and net interest margin data, but is preceded by extensive boilerplate disclaimers and broad, largely unquantified risk factors. Management expresses cautious optimism while acknowledging substantial macroeconomic, credit, interest-rate, funding, and regulatory uncertainty, including possible additional credit loss provisions."
+}

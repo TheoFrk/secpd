@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "could have a material impact",
+    "based on relevant characteristics",
+    "general nonspecific portion",
+    "new information becomes available"
+  ],
+  "risk_summary": "The disclosure identifies meaningful estimation risk in ALLL, MSR, and OREO valuations, particularly from credit losses, collateral recovery, prepayment speeds, discount rates, and market conditions. It provides some quantitative operating detail and third-party valuation references, but relies heavily on standard accounting-policy language and does not quantify sensitivity ranges or potential loss impacts. The overall tone is moderately positive, emphasizing record earnings, growth, and merger benefits while acknowledging margin and funding-cost pressure."
+}

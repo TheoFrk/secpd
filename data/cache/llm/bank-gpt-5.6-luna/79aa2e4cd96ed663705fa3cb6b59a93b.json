@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "shell company without significant operations",
+    "many of which are beyond our control",
+    "actively seeking acquisitions",
+    "rely upon future capital contributions",
+    "full valuation allowance"
+  ],
+  "risk_summary": "The company is a shell with no significant operations or internally generated cash flow and depends on completing an acquisition, raising capital, and implementing a reorganization plan to continue as a going concern. Historical severe losses, accrued preferred dividends settled in stock, and reliance on investor funding indicate substantial liquidity and execution risk. The disclosure includes extensive standard accounting-policy language that somewhat obscures the central financial distress and uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "promotional brand claims",
+    "believes and strives language",
+    "competitive advantage assertions",
+    "unquantified growth strategy",
+    "offsetting factors without full context"
+  ],
+  "risk_summary": "The excerpt is largely promotional and descriptive, emphasizing brands, design leadership, global reach, and strategic strengths more than concrete risk disclosure. It does provide useful quantified operating drivers, including sales declines, foreign-exchange effects, cost pressures, and margin impacts, but the excerpt is incomplete and contains limited forward-looking risk detail."
+}

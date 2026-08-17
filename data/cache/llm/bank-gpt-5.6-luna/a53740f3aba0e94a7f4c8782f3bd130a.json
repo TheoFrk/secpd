@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurances of funding",
+    "going-concern uncertainty",
+    "working capital deficit",
+    "derivative liabilities",
+    "anti-dilution adjustments"
+  ],
+  "risk_summary": "The disclosure is highly risk-negative and explicitly identifies severe liquidity constraints, including only $47,000 of cash, a $61.125 million working capital deficit, and an estimated $4–5 million near-term funding requirement. The accumulated deficit, substantial interest and derivative-related losses, repeated convertible debt financings, and lack of assurance regarding additional capital indicate material going-concern and dilution risk. Quantification is generally strong, although complex financing terms and extensive accounting jargon reduce accessibility."
+}

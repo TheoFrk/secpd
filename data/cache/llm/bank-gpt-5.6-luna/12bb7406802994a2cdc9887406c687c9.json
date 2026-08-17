@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.42,
+  "risk_sentiment": -0.08,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "broad page-range reference"
+  ],
+  "risk_summary": "The excerpt provides no direct financial condition or performance analysis and instead relies entirely on a cross-reference. This limits transparency in the presented section and prevents assessment of material risks from the excerpt alone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "may cause actual results to differ",
+    "no obligation to update",
+    "difficult to predict future"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standardized forward-looking disclaimers and broad risk enumerations, reducing disclosure specificity. Quantified backlog data provides useful precision, but declining backlog, cancellable orders, lending exposure, servicing cash-flow obligations, insurance catastrophe risk, and inflation sensitivity indicate a cautious operating and credit-risk outlook."
+}

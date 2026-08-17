@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective assessments and estimates",
+    "actual results could materially differ",
+    "based on, but not limited to",
+    "primarily due to",
+    "single reportable segment"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified year-over-year impacts, but relies heavily on management judgment for collectability, impairments, fair values, useful lives, and tax realizability. COVID-19-related rent deferrals, relief, defaults, bankruptcies, and property impairments indicate elevated operating and credit risk, although the disclosure is largely standard accounting-policy language rather than crisis-oriented."
+}

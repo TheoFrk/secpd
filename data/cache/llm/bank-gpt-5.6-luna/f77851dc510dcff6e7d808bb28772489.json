@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgments, assumptions, and estimates",
+    "actual results could differ materially",
+    "expected orders in a reasonable time frame",
+    "may become necessary",
+    "certain special items"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, emphasizing market position while providing limited quantified risk analysis. It identifies material estimation uncertainty in revenue recognition, acquisitions, inventory valuation, and postretirement obligations, including potential impairment and inventory write-down exposure. Overall tone is mildly confident, but extensive accounting jargon and conditional language reduce transparency."
+}

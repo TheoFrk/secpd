@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "in the process of negotiating",
+    "subject to debt covenants",
+    "general corporate purposes",
+    "actual results could differ",
+    "related party due to common ownership"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed transaction, debt, development, and distribution information, but presents notable structural and financial risks from leverage, debt maturities, covenant restrictions, related-party management, and reliance on fair-value estimates. The tone is generally neutral to mildly confident, supported by asset sales and gains, while some obligations and negotiations remain unresolved."
+}

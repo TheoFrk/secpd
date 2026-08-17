@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.27,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "does not undertake any obligation",
+    "contingently liable",
+    "related-party relationships",
+    "deferred tax benefit"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but includes substantial boilerplate disclaimers and cross-references. Operating cash flow declined 63%, oil and gas sales fell materially, and lower prices reduced drilling activity, while related-party arrangements and guarantee exposure add governance and contingent-liability risks."
+}

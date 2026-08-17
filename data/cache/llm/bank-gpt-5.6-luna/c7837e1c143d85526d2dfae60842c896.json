@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.23,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "including but not limited to",
+    "may be negatively impacted",
+    "somewhat mitigated by"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, covering fleet composition, revenue concentration, profitability, tax effects, labor exposure, and pilot availability. Key risks include extreme dependence on American and United capacity purchase agreements, pilot attrition and hiring constraints, labor costs, and potential partner rate or capacity reductions. The tone is balanced with some confidence from operating improvements and contractual protections, but substantial conditional risk language remains."
+}

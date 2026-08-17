@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "do not assume obligation to update",
+    "among other things",
+    "beyond our control",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, showing improved revenue, profitability, liquidity, and no long-term debt. Risk tone is cautiously confident, although it includes standard forward-looking disclaimers, numerous external-factor caveats, and a truncated section that limits completeness."
+}

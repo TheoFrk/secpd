@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "uncertain approval timing",
+    "verbal notification",
+    "believes issues are almost resolved",
+    "subjective estimates",
+    "temporarily halt trial production"
+  ],
+  "risk_summary": "The disclosure identifies substantial operational, regulatory, environmental, and permitting risks, including production shutdowns, required relocation, halted natural-gas operations, flooding, and significant remediation expenditures. While it provides several dates and quantified costs, the status and timing of critical governmental approvals remain uncertain and are partly based on verbal communications and management expectations."
+}

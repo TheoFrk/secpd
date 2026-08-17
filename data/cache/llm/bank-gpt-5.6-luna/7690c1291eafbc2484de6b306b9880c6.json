@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "subject to change",
+    "various factors, including but not limited to",
+    "unable to predict timing and effect",
+    "undertakes no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on earnings, premiums, investments, cash flow, catastrophe losses, and loss ratios, but is accompanied by extensive standard forward-looking disclaimers and broad uncertainty language. Key risks include regulatory and rate-approval uncertainty, reserve adequacy, inflation, catastrophe exposure, competitive pressure, and investment-market volatility. Reported performance improved materially, although catastrophe losses and unfavorable reserve development indicate meaningful underwriting risk."
+}

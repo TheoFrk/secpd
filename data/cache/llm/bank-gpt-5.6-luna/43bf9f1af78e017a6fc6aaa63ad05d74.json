@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to",
+    "may decline further",
+    "could negatively impact",
+    "subject to significant competition",
+    "long-term goal"
+  ],
+  "risk_summary": "The excerpt is generally confident and supported by substantial quantitative disclosure on sales, EBIT, margins, acquisitions, and segment performance. Key risks include pricing pressure, foreign exchange, commodity and energy costs, construction-market sensitivity, labor constraints, interest rates, and competitive capacity. Forward-looking language is present but generally accompanied by identified drivers and caveats."
+}

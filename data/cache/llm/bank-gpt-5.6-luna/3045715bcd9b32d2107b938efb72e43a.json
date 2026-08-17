@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "significant judgments and may be volatile",
+    "current market conditions",
+    "other relevant factors",
+    "expected to remain close to 2%"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear reporting of earnings, acquisition costs, interest-rate movements, loan growth, and allowance methodology. Credit risk remains sensitive to collateral valuations, commodity prices, construction and healthcare conditions, economic trends, and management assumptions, although the overall tone is stable and moderately confident."
+}

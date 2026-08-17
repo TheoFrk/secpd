@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "various opportunities and challenges",
+    "may impact",
+    "material adverse impact",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking language and extensive caveats, but also provides meaningful quantified disclosures, including estimated healthcare-reform impacts and debt balances. Risk tone is moderately negative due to regulatory, reimbursement, competitive, patent-expiration, and product-sales pressures, partially offset by stated growth opportunities and pipeline developments."
+}

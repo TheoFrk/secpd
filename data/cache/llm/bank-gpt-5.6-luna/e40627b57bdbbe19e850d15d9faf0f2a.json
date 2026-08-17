@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.34,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties beyond our control",
+    "actual results could differ materially",
+    "no obligation to update",
+    "highly leveraged and may not be able to service debt"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-statement disclaimers and a broad catalog of potential risks, including leverage, contract exposure, cyclical demand, litigation, cybersecurity, and insurance limitations. Operating disclosures provide useful business and segment context, but the risk discussion is largely boilerplate, heavily hedged, and minimally quantified in the provided section."
+}

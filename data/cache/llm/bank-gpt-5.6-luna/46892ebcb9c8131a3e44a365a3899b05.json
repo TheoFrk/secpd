@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could be affected by uncertainties",
+    "not representative of ongoing operations",
+    "excluding effects of changes",
+    "platform for sustained growth"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed segment, currency, and earnings disclosures. Management uses a confident growth-oriented outlook, but relies on expectations regarding demand, margins, capacity expansion, emerging markets, and proprietary products. Foreign exchange exposure, non-GAAP constant-currency measures, and excluded corporate or restructuring items are notable risk and comparability considerations."
+}

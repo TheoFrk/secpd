@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may differ materially",
+    "risks and uncertainties",
+    "extremely fluid economic condition",
+    "undue reliance should not be placed"
+  ],
+  "risk_summary": "The excerpt combines quantified performance and funding data with extensive boilerplate cautionary language and broad, largely unquantified macroeconomic and operational risk factors. Net income declined materially, net interest margin compressed, and reliance on FHLB and Bank Term Funding Program borrowings increased, although management states that capitalization and risk monitoring remain adequate."
+}

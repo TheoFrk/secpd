@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance expectations will prove correct",
+    "beyond our control",
+    "undertake no obligation to update",
+    "not currently contemplating acquisitions"
+  ],
+  "risk_summary": "The excerpt presents strong revenue and ICL growth with detailed operating metrics, creating a generally positive risk tone. However, extensive forward-looking disclaimers, dependence on regulatory approvals and market expansion, financing availability caveats, and short-term credit facilities introduce execution and liquidity risks. Minor apparent year-label inconsistencies reduce disclosure precision."
+}

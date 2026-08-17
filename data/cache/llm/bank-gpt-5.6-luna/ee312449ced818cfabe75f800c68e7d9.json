@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant and highly subjective estimates",
+    "actual results may differ",
+    "future additions to the ACL may be necessary",
+    "reasonable and supportable forecasts",
+    "strategic balance sheet restructuring"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear discussion of earnings, loan growth, funding changes, credit losses, and liquidity actions. Credit and interest-rate risks are acknowledged through ACL uncertainty, increased charge-offs, reliance on borrowings, and deposit mix changes, but management presents overall performance and balance-sheet actions in a moderately confident tone. The excerpt ends abruptly, limiting assessment of the complete risk discussion."
+}

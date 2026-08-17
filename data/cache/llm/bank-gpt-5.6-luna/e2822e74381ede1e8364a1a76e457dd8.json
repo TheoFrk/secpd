@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective judgments",
+    "estimated future credit losses",
+    "market-based assumptions",
+    "could impact positively or negatively",
+    "model could fail to accurately predict"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on loan balances, reserves, goodwill, and servicing rights, but relies heavily on management estimates, assumptions, and third-party models. Key risks include loan-loss reserve adequacy, goodwill impairment, mortgage prepayment behavior, and potential earnings volatility; the overall tone is measured and operationally stable rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be precisely quantified",
+    "no assurance",
+    "material deviation reasonably possible",
+    "implicit assumptions",
+    "current best estimates"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding earnings, catastrophe losses, reserve development, and acquisition impacts, but reserve uncertainty is substantial and partly difficult to quantify. Risk tone is mildly negative due to declining operating income, higher catastrophe losses, unfavorable reserve dynamics, and actuarial assumption changes, although the discussion remains measured and factual."
+}

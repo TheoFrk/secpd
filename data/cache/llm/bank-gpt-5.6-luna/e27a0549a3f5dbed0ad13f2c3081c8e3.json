@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "forward-looking statements",
+    "various factors",
+    "known trends and uncertainties",
+    "estimated sales prices"
+  ],
+  "risk_summary": "The excerpt is largely quantified and presents strong revenue, cash flow, profit, and acquisition performance, producing a generally positive risk tone. However, extensive non-GAAP adjustments, forward-looking disclaimers, and impairment-related estimates complicate comparability and may soften visibility into underlying performance."
+}

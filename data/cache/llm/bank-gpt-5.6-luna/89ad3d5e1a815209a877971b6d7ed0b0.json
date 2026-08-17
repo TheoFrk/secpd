@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "some of which are beyond our control",
+    "may continue to result",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimer language and broad, non-quantified risk categories, which limits predictive clarity. It nevertheless provides specific operational and cash-flow figures and describes pandemic-related closures, supply-chain disruption, higher costs, and potential profitability pressure. Overall tone is cautious but indicates business continuity and operational resilience rather than crisis conditions."
+}

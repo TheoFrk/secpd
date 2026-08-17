@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "primarily due to",
+    "partially offset by",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is relatively specific and quantitatively explains year-over-year changes, but presents operational contraction through lower product revenue, suspended marketing, facility closure, headcount reductions, and restructuring charges. Clinical development spending increased while the disclosure also references deferred grant revenue and potential 409A liabilities, indicating execution and funding-related risks. The tone is predominantly factual and cautious rather than crisis-like."
+}

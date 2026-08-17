@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "long-term growth objectives",
+    "expect inflationary pressures to persist",
+    "cost savings expected to mitigate",
+    "non-GAAP adjusted results",
+    "price elasticity impacts volume"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with clear attribution of pricing, volume, currency, divestiture, and special-charge effects. Risk is moderate: inflation, price elasticity, unfavorable volume and mix, restructuring charges, and reliance on cost savings remain material, although management presents a confident mitigation and growth outlook."
+}

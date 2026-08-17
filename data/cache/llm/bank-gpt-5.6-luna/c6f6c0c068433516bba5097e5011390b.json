@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "not currently considered material",
+    "reasonable estimate",
+    "subject to additional clarification"
+  ],
+  "risk_summary": "The excerpt combines quantified disclosures on shutdown costs, capital expenditures, tax expense, and strategic targets with extensive boilerplate forward-looking-statement disclaimers. Key risks include macroeconomic conditions, customer demand and creditworthiness, order cancellations, execution of acquisitions, manufacturing investments, and provisional tax accounting. Overall tone is cautiously optimistic, but reliance on assumptions and unresolved tax effects introduces uncertainty."
+}

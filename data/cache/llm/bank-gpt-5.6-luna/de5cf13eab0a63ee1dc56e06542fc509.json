@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.35,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "uncertain factors",
+    "could change in future periods",
+    "extent ... is uncertain",
+    "may not be an indication",
+    "we believe"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating and liquidity profile, supported by revenue-growth claims and $1.58 billion in cash, cash equivalents, and short-term investments. It acknowledges COVID-19 uncertainty, slower Software Integrity commitments, supply-chain disruptions, customer-spending sensitivity, and unresolved Hungarian tax litigation, but provides limited quantified downside analysis for these risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "MD&A discussion omitted",
+    "unable to predict future impact",
+    "outside of our control",
+    "disclaim all responsibility",
+    "operators’ estimates not independently verified"
+  ],
+  "risk_summary": "The disclosure presents a financially stable and growth-oriented profile, with increased revenue, substantial operating cash flow, acquisitions, and a higher dividend. Key risks include metal-price volatility, pandemic-related production disruption, reliance on operator forecasts, and limited independent verification of production data. Omitting the fiscal-year comparative MD&A reduces transparency and limits assessment of longer-term trends."
+}

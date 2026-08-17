@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "intended to assist the reader",
+    "believed to be reasonable under the circumstances",
+    "actual results could differ",
+    "future events rarely develop exactly as forecasted",
+    "sufficient resources to meet known capital requirements"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but includes substantial standard MD&A and accounting-policy boilerplate. Operating performance weakened, with consolidated sales down 10.6%, lower segment sales, and increased unabsorbed manufacturing costs, although liquidity is presented as adequate for near-term needs."
+}

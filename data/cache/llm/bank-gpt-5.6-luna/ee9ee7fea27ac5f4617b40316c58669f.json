@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "currently expects savings to exceed cost",
+    "significant improvement in demand",
+    "subject to approvals",
+    "carefully managed",
+    "tremendous accomplishment"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and explains the major drivers of the 2009 earnings decline, including weaker demand, lower fares, fuel volatility, and hedging losses. Management maintains a cautiously constructive tone, but relies on forward-looking assumptions regarding demand recovery, cost savings, alliances, and fleet flexibility."
+}

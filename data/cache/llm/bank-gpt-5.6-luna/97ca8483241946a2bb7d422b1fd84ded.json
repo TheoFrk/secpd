@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "material estimates",
+    "may be susceptible to significant change",
+    "could also be subject to future valuation adjustments",
+    "challenging economic environment"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and transparent on earnings, capital ratios, credit metrics, expenses, and funding actions. Credit and asset-quality risks remain evident through higher charge-offs, weak loan demand, OREO valuation exposure, and subjective allowance estimates, with potential for further real-estate losses and debt prepayment costs."
+}

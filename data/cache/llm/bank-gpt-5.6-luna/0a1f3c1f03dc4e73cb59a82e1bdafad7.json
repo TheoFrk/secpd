@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "repetitive forward-looking disclaimer",
+    "substantial capital required",
+    "subject to uncertainty",
+    "best efforts to authorize and reserve",
+    "inconsistent and unclear figures"
+  ],
+  "risk_summary": "The company reports severe deterioration in profitability, including a $6.6 million net loss, $5.7 million in other expenses, only $95,344 in cash, and reliance on additional financing. Its operating plans are broad and aspirational, while funding sources and execution appear uncertain. Repetitive disclaimers, an excerpt truncation, and apparent numerical or wording errors reduce disclosure clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance financing will be available",
+    "cannot estimate with any degree of certainty",
+    "many assumptions regarding future events",
+    "at least 12 months of funding"
+  ],
+  "risk_summary": "Microbot is a pre-revenue, pre-commercial medical device company with recurring losses, substantial future capital needs, and reliance on uncertain regulatory and clinical development outcomes. Although it reports approximately $10.4 million in net working capital and believes funding is sufficient for at least 12 months, it cannot reliably estimate development costs and acknowledges potential dilution, debt constraints, or curtailment of programs if financing is unavailable."
+}

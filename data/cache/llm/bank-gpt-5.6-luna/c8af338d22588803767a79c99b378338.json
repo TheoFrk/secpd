@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may or may not differ",
+    "based on the best information available",
+    "as necessary",
+    "expected future trends",
+    "events and circumstances indicate"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, reporting sales, margins, acquisition financing, restructuring charges, and contractual obligations. Key judgment areas include inventory recoverability, goodwill and intangible-asset impairment, projected cash flows, discount rates, and future restructuring costs. Risk tone is broadly stable and moderately positive, although leverage from the acquisition and estimation uncertainty warrant monitoring."
+}

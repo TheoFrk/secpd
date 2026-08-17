@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to significantly expand",
+    "expects to file with additional agencies",
+    "sufficient liquidity for at least the next twelve months",
+    "actual results may vary",
+    "ongoing research and development efforts"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure of rising net losses, declining cash balances, limited revenue, and substantial clinical-development spending. Management presents a positive pipeline and states that liquidity should fund operations for at least twelve months, but this is forward-looking and dependent on execution, trial outcomes, and future financing. Dense scientific, accounting, and transaction terminology, along with the truncated/OCR-corrupted text, reduces transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking information risks and uncertainties",
+    "could differ materially",
+    "primarily attributed to",
+    "estimates and judgments",
+    "more-likely-than-not"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent about an 18% revenue decline, a shift to an operating loss, segment weakness, customer concentration, and reliance on a one-time divestiture gain. Risk tone is moderately negative but presented in a conventional, factual MD&A style. Boilerplate forward-looking and tax-accounting language adds some hedging and complexity without materially obscuring the reported performance."
+}

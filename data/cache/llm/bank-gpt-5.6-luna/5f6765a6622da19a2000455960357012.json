@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "broad array of products",
+    "various factors",
+    "significant judgment is required",
+    "should circumstances change",
+    "past performance is not indicative"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and specific, reporting earnings, sales, net flows, assets under management, acquisition cost, and impairment balances. It presents a mixed risk profile: positive market performance and earnings growth offset by continued net outflows and sensitivity to market volatility. Some impairment and fee-related judgments rely on qualitative assumptions and standard forward-looking caveats."
+}

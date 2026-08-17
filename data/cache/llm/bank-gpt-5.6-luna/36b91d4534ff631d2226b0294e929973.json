@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain and difficult to predict",
+    "may decide or need to implement",
+    "as we deem prudent",
+    "to the extent applicable",
+    "outside of our control"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified operating and liquidity data, but relies heavily on standard pandemic-risk caveats and broad forward-looking uncertainty. COVID-19 materially pressured sales, cash flow, inventory, production costs, and collections, while management maintains a cautiously optimistic long-term outlook."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "significant management judgment",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking and liability-limiting language, with broad unquantified risk categories and reliance on management assumptions. Credit-loss reserves and fair-value measurements involve material judgment and sensitivity to economic conditions, borrower ratings, and market inputs. Quantified operating results and a stated strong balance sheet provide some mitigating context, but earnings and returns modestly declined."
+}

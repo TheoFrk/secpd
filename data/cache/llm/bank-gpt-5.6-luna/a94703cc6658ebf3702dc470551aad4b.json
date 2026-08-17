@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "including but not limited to",
+    "non-GAAP performance measures",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative operating and restructuring disclosures with extensive legal boilerplate and broad, largely unquantified risk-factor language. Risk tone is cautiously positive and promotional, but integration costs, goodwill impairment sensitivity, consultant utilization, cyber risk, competition, and other operational uncertainties remain material."
+}

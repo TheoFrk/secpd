@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may significantly affect",
+    "could adversely affect",
+    "management believes sufficient",
+    "general economic conditions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes meaningful quantitative credit metrics, including allowance levels, nonperforming loans, and net charge-offs. However, significant reliance on management estimates, historical loss factors, collateral values, and economic assumptions creates uncertainty regarding future credit-loss provisions and fair values. The tone is cautiously positive, reflecting improved nonperforming-loan and coverage ratios while acknowledging potential adverse outcomes."
+}

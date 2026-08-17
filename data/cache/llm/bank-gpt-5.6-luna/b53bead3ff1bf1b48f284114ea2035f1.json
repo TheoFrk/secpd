@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "absent the sale ... or refinancing",
+    "do not expect to be able to pay",
+    "customary for financings of this type",
+    "substantial uncertainties",
+    "not necessarily indicative of future performance"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but highlights significant liquidity risk: only $359,000 of cash against $49.0 million of debt, including maturities in May 2014, and acknowledges repayment is unlikely without asset sales or refinancing. Operational results are mixed, with declining real estate commissions, leasing revenues, and resort amenities revenue, while prior project disputes and contingencies add uncertainty."
+}

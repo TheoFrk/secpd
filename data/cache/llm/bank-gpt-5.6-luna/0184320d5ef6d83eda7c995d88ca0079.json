@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance that these are all factors",
+    "non-run-rate items",
+    "designed to largely mitigate",
+    "we believe / we expect"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking and risk-factor disclaimers, with substantial reliance on management beliefs and expectations. It provides some useful operational detail and quantified results, but the non-run-rate presentation and broad caveats may make underlying performance and exposure harder to assess. The overall tone is cautiously optimistic, supported by expected aerospace and automotive demand, while acknowledging commodity-price, cyclical, regulatory, and execution risks."
+}

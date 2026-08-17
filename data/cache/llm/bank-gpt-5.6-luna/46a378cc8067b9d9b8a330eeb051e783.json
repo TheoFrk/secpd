@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "when possible",
+    "as circumstances permit",
+    "timing can last several months to several years"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and portfolio detail with meaningful quantitative disclosure, but relies on standard forward-looking disclaimers and qualified language around acquisitions, land transactions, and market conditions. Key risks include inconsistent real estate activity, challenging transaction timing, exposure to land-market volatility, and impairment or loss potential."
+}

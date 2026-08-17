@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "partially offset by",
+    "unless otherwise noted",
+    "adjusted non-GAAP measures",
+    "year-over-year discussion omitted"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but relies on standard MD&A boilerplate and offsetting explanations. Risk tone is modestly negative due to lower earnings, production declines, downtime, impairments, dry holes, and higher operating costs, although liquidity actions and operational highlights provide some balance."
+}

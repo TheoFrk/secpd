@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "opportunities to expand",
+    "sufficient to fund operations",
+    "may not be available at acceptable terms"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including revenue changes, customer concentration, geographic exposure, acquisition contribution, capital expenditures, and contractual commitments. Risk is moderated by reported growth and diversification, but COVID-19 impacts, a canceled engineering project, dependence on future sales, potential financing needs, and reliance on optimistic expectations remain material concerns."
+}

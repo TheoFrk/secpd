@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we currently anticipate",
+    "we believe",
+    "no assurance FDA approval",
+    "trial enrollment challenges"
+  ],
+  "risk_summary": "The company provides substantial operational detail on clinical-trial designs, endpoints, enrollment targets, and anticipated regulatory timelines, but outcomes remain highly contingent on trial success and FDA approval. Suspended or stopped trials, enrollment challenges, protocol revisions, and reliance on future approvals indicate elevated execution and regulatory risk. Boilerplate forward-looking language and optimistic projections temper the otherwise relatively specific disclosure."
+}

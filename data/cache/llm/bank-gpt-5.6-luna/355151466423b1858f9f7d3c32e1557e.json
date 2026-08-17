@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "various other assumptions",
+    "under different assumptions or conditions",
+    "could significantly impact",
+    "numerous factors",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt presents substantial financial risk, including persistent losses, expected significant losses, substantial doubt about going-concern status, high cash requirements, and extreme customer concentration. Revenue composition and financing activity are quantified, but extensive accounting-policy boilerplate and reliance on estimates introduce uncertainty around reported results and future obligations."
+}

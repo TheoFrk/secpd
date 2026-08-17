@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "qualitative factors",
+    "reasonable estimates",
+    "could change at any time",
+    "future outlook",
+    "Key assumptions […]"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, including allowance balances, tax impacts, contract revenue, debt obligations, and covenant compliance. Risk is concentrated in accounting estimates, project-cost forecasts, tax uncertainty, goodwill impairment, receivables, inventory, and foreign cash repatriation. The tone is broadly controlled and compliant, though some boilerplate and a truncated section limit transparency."
+}

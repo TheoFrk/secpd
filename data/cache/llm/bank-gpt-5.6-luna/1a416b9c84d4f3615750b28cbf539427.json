@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "favorable macro trends",
+    "Accomplishments headings without detail"
+  ],
+  "risk_summary": "The excerpt has substantial quantified operating data and clear segment-level explanations, supporting relatively strong disclosure quality. Risk discussion is largely standardized and forward-looking, with limited quantification of downside exposure and some promotional strategic language. The overall tone is confident and growth-oriented, though competition, input costs, and inventory exceeding current demand are acknowledged risks."
+}

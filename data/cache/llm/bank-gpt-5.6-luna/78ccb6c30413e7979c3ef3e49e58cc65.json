@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measure",
+    "tax valuation allowance release",
+    "more likely than not",
+    "we believe",
+    "generally flat/slight decline"
+  ],
+  "risk_summary": "The disclosure is highly quantified and presents strong operating performance, liquidity, debt reduction, and network expansion in a confident tone. Reported net income is materially boosted by a nonrecurring $8.0 billion tax benefit, while underlying exposure remains to fuel prices, debt, execution of major projects, and international market conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "not possible for us to predict all of them",
+    "undertake no obligation to publicly update",
+    "could cause actual results to differ materially",
+    "policies and procedures established by the Corporation"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative results and liquidity information, including declining net income, ROA, and ROE, alongside sharply higher loan-loss provisions and expenses. Risk discussion is largely standardized and qualitative, with extensive forward-looking disclaimers and limited quantification of stress exposures or mitigation effectiveness. Liquidity appears adequate based on reported borrowing capacity, but credit, interest-rate, regulatory, integration, and deposit risks remain material."
+}

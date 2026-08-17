@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no obligation to update",
+    "risks and uncertainties",
+    "subject to change at any time",
+    "including without limitation",
+    "other risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt reports strong 2019 operating performance, improved profitability, substantial liquidity, and no outstanding debt, supporting a generally confident tone. However, the forward-looking disclosure is highly broad and boilerplate-heavy, covering extensive operational, market, regulatory, commodity, financing, and reserve risks without probability or quantified sensitivity analysis. The truncated liquidity and contractual-obligations discussion limits assessment of future cash requirements."
+}

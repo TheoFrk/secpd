@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "important factors that could cause actual results to differ materially",
+    "non-GAAP financial measures have limitations",
+    "designed to provide a reader",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantitative regarding channels, geography, product mix, inventory, currency effects, expenses, and impairment charges, but includes extensive standard boilerplate and promotional brand language. Risk tone is mildly positive overall, though lower margins, inflation, supply-chain constraints, and material software and Russia-Ukraine-related impairments indicate meaningful operating risks. The excerpt is truncated, limiting assessment of the full financial outlook and liquidity discussion."
+}

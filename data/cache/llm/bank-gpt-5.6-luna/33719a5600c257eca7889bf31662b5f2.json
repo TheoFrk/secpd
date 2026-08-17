@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict",
+    "no assurance",
+    "subject to IRS review",
+    "ongoing litigation",
+    "seeking recoveries"
+  ],
+  "risk_summary": "The excerpt provides useful quantified liquidity, asset, liability, and tax-refund information, but emphasizes substantial uncertainty from tax audits, potential repayment obligations, litigation, operating losses, and dependence on limited cash resources. Repeated cross-references and extensive conditional language reduce clarity regarding ultimate tax recoveries, legal outcomes, and longer-term viability."
+}

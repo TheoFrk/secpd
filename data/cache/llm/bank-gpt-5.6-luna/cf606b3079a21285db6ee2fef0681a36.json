@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "among other things",
+    "believes future revenue will provide",
+    "may not be available on favorable terms",
+    "qualitative impairment assessment"
+  ],
+  "risk_summary": "The disclosure explicitly states that independent auditors expressed substantial doubt about the company’s ability to continue as a going concern. Liquidity depends on additional capital and future revenue, while financing may be unavailable or highly dilutive; otherwise, operations and growth plans may need to be curtailed."
+}

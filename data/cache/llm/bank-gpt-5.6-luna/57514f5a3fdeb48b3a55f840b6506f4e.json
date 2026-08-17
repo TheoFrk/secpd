@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "ultimate outcome is unknown",
+    "materially different results",
+    "current judgement",
+    "judgement errors may occur",
+    "believed adequate"
+  ],
+  "risk_summary": "The disclosure is largely boilerplate and relies heavily on management estimates and judgment without providing quantified sensitivity analysis or allowance metrics in the excerpt. It acknowledges that credit-risk assessments and loan-loss provisions could change materially as economic and borrower conditions evolve, indicating moderate uncertainty but not an immediate crisis tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "could differ from these estimates",
+    "subject to a number of factors",
+    "no assurance",
+    "unexpected changes in market conditions"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantitative information, but relies heavily on standard accounting-policy language and management estimates for revenue recognition, construction costs, inventory valuation, and impairment testing. Housing-market, land-spending, absorption, cost-to-complete, and fair-value assumptions create material downside sensitivity, despite an overall cautiously optimistic operating outlook."
+}

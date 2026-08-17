@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP organic sales measure",
+    "not practicable to disclose each activity",
+    "coherent growth strategy",
+    "meaningful contributor going forward",
+    "critical industries and workplaces of consequence"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding sales, earnings, acquisitions, and accounting effects, with a positive management tone. Risk discussion is limited and partly offset by promotional, highly branded strategy language and reliance on non-GAAP organic sales measures. The truncated passage reduces confidence in assessing the full risk disclosure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance expectations will prove correct",
+    "numerous factors beyond our control",
+    "FDA Warning Letter and FDA-483",
+    "anticipated and expected results"
+  ],
+  "risk_summary": "The excerpt combines specific historical financial and remediation figures with extensive forward-looking disclaimers and non-quantified expectations. Risk is elevated by prior FDA quality-system issues, remediation requirements, anticipated Korean order declines, and dependence on regulatory approvals, although management presents a measured growth-oriented outlook."
+}

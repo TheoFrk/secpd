@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "known and unknown risks",
+    "other unknown or unpredictable factors",
+    "do not undertake or assume any obligation",
+    "ultimate loan losses may vary from current estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, balance-sheet, acquisition, and capital information, but is dominated by standardized forward-looking disclaimers and broad, non-quantified risk reservations. Credit risk is present through economic sensitivity of the loan portfolio, industry concentrations, allowance estimation uncertainty, and pending merger execution, though the overall management tone is measured and moderately confident."
+}

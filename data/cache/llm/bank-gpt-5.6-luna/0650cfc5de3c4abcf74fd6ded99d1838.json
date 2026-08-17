@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "risks and uncertainties",
+    "no obligation to update",
+    "factors that could cause actual results to differ",
+    "dependent upon achieving profitability"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating results and segment detail, but contains substantial boilerplate forward-looking language and broad, largely unquantified risk factors. The explicit going-concern warning, recurring losses, and dependence on credit extensions or new financing indicate elevated liquidity and continuity risk despite modest revenue growth and reduced net loss."
+}

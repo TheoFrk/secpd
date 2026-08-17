@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "believe",
+    "largely due to",
+    "partially offset",
+    "changing facts and circumstances"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear explanations of sales drivers, margins, cash flow, debt, tax matters, and joint-venture pressures. Risk tone is moderately positive, although material-cost inflation, retirement-benefit expense, foreign exchange exposure, acquisition-related debt, and uncertain tax positions are acknowledged. Some forward-looking language and standard MD&A framing introduce limited ambiguity, but there is little evidence of deliberate obfuscation."
+}

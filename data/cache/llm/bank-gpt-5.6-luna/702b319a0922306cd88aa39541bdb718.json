@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimate and significant assumptions",
+    "highly subjective",
+    "may differ under different assumptions",
+    "expected to have a positive contribution",
+    "currently evaluating the impact"
+  ],
+  "risk_summary": "The excerpt presents strong revenue growth and quantified 2015 results, but relies substantially on management estimates regarding receivables, effective interest rates, future revenues, tax valuation allowances, and accounting adoption impacts. Risk is moderated by disclosed subjectivity and sensitivity, although the discussion remains complex and includes forward-looking assumptions about customer penetration and expense-driven growth."
+}

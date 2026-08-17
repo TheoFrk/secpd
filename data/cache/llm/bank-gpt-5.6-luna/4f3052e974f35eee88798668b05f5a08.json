@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "may have",
+    "believes there are enough capital resources",
+    "various other factors",
+    "subject to cyclical fluctuations"
+  ],
+  "risk_summary": "The excerpt identifies meaningful exposures to commodity-price volatility, cyclicality, macroeconomic pressure, customer concentration, inventory valuation, and working-capital needs. While it provides some quantitative detail on cash flows, debt, credit capacity, and planned capital expenditures, several forward-looking claims rely on broad caveats and management judgment rather than quantified sensitivities or downside scenarios."
+}

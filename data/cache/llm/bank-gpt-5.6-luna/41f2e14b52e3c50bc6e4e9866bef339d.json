@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "impact remains unclear",
+    "may adversely affect",
+    "significant risk",
+    "could significantly disrupt",
+    "truncated and malformed excerpt"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on AUM, flows, revenues, expenses, and margins, but presents substantial uncertainty around COVID-19, inflation, market volatility, redemptions, and cybersecurity. The overall tone is mixed: operating performance is strong, while extensive conditional risk language highlights potential downside and the excerpt contains apparent truncation or formatting defects."
+}

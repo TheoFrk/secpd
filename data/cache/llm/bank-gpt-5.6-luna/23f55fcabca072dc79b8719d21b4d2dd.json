@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties not exclusive",
+    "no obligation to update",
+    "could differ materially",
+    "expects sufficient liquidity"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking-statement disclaimers and broad, non-quantified risk language, limiting predictive clarity. It reports improving cash, working capital, and operating cash flow, but also notes lower net earnings and potential additional debt for acquisitions and share repurchases."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance sufficient funding",
+    "anticipated to remain unprofitable",
+    "assuming rates remain stable",
+    "significant management judgment",
+    "could adversely affect taxable income"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial operating detail, but highlights material losses, dependence on third-party funding, uncertain project profitability, and rising expenses. Forward-looking estimates rely on stable occupancy, rental rates, and operating costs, while accounting judgments could affect reported income and taxable income."
+}

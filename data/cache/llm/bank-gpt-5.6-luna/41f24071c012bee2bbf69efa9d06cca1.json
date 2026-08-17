@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.5,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "may not be available on acceptable terms",
+    "uncertain magnitude and duration",
+    "beyond management’s ability to control",
+    "forward-looking statement safe harbor"
+  ],
+  "risk_summary": "The excerpt reports a return to profitability with specific financial figures, but emphasizes substantial exposure to real estate liquidity, financing availability, impairment estimates, COVID-19 disruptions, cost inflation, and interest-rate sensitivity. Risk disclosure is detailed but includes substantial standard boilerplate and broad forward-looking disclaimers, while portions of the underlying tables and pandemic discussion are incomplete or truncated."
+}

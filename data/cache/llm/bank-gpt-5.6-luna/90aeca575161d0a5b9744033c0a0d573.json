@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future impact highly uncertain",
+    "cannot provide any assurance",
+    "estimates and assumptions",
+    "may result in",
+    "delays by third party manufacturer"
+  ],
+  "risk_summary": "The excerpt describes a development-stage biotechnology company with substantial regulatory, clinical, manufacturing, funding, and commercialization risks. It provides some concrete detail, including the delayed HyBryte NDA filing and reliance on government funding, but contains extensive accounting boilerplate and repeated uncertainty disclaimers. Overall tone is cautious and moderately negative rather than crisis-like."
+}

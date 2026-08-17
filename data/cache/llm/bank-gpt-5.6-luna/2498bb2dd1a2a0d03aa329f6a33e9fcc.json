@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "adjusted earnings exclusions",
+    "other adjustments may be made from time to time",
+    "non-qualifying hedge activity",
+    "fair value adjustments",
+    "potential impairments due to low prices"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed segment and earnings drivers, but emphasizes non-GAAP adjusted earnings and numerous exclusions that can complicate comparability with GAAP results. Key risks include derivative-related earnings volatility, commodity-price-driven impairment exposure, substantial gas infrastructure assets, and reliance on debt and equity financing to fund growth. Overall tone is moderately confident and growth-oriented, with risks acknowledged but framed as manageable."
+}

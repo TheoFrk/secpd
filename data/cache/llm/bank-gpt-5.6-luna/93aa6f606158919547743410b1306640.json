@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "assuming market conditions remain consistent",
+    "we expect to continue",
+    "slow and sustained housing recovery",
+    "strategic capital allocation process",
+    "results vary between periods"
+  ],
+  "risk_summary": "The disclosure is largely precise and well quantified, reporting revenue, margins, cash flow, debt reduction, orders, cancellations, and regional performance. Tone is strongly optimistic, but outlook depends on favorable housing, interest-rate, employment, pricing, and inventory conditions, while lower orders, regional weakness, and elevated insurance reserves present risks."
+}

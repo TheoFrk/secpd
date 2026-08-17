@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may significantly affect",
+    "as needed",
+    "from time to time",
+    "more meaningful representation",
+    "not comparable to similarly titled measures"
+  ],
+  "risk_summary": "The excerpt is primarily factual and quantified, describing a regulated utility model with pass-through mechanisms, decoupling, seasonal exposure, and substantial capital needs. Risk disclosure is generally balanced, though reliance on non-GAAP measures and broad statements about future financing may limit comparability and precision."
+}

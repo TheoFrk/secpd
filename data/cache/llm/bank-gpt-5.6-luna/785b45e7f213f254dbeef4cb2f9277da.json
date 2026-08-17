@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "exact extent of impact currently unknown",
+    "highly uncertain and continuously evolving",
+    "may take additional actions",
+    "forward-looking statements",
+    "qualitative goodwill assessment"
+  ],
+  "risk_summary": "The excerpt describes substantial COVID-19-related operational disruptions, supply-chain constraints, added costs, deferred payments, and a ransomware incident, although several recovery measures and capacity improvements are quantified. Risk disclosure is extensive but includes significant boilerplate and uncertainty language, with limited quantification of the ultimate financial impact and potential impairment exposure."
+}

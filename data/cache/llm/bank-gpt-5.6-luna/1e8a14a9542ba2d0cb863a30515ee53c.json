@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate impacts",
+    "outside our control",
+    "may take additional actions",
+    "not material adverse impact",
+    "forward-looking statements subject to uncertainties"
+  ],
+  "risk_summary": "The disclosure is materially quantified and provides useful year-over-year operating data, but repeatedly relies on COVID-19 uncertainty, management expectations, and broad forward-looking disclaimers. Key risks include demand volatility, inventory obsolescence, customer credit deterioration, deferred-tax-asset realizability, and potential impairment, although the tone remains cautiously stable due to reported profitability and improving margins."
+}

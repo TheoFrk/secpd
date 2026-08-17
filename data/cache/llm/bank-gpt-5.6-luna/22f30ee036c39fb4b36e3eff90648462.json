@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could cause actual results to differ materially",
+    "scaled disclosures",
+    "various actuarial assumptions",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is generally data-rich and transparent, with detailed revenue, margin, geographic, and acquisition impacts. Risk tone is cautiously positive but acknowledges weakening oil and gas demand, margin pressure, currency effects, supplier costs, acquisition accounting impacts, and sensitivity to actuarial and tax assumptions. Boilerplate disclaimers and scaled smaller-reporting-company disclosures modestly limit completeness but do not appear strongly evasive."
+}

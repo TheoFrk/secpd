@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot reliably predict or estimate",
+    "without unreasonable effort",
+    "until and if operating environment normalizes",
+    "primarily driven by",
+    "significant volatility"
+  ],
+  "risk_summary": "The excerpt presents a materially adverse operating and liquidity impact from COVID-19, including a 59.7% revenue decline, first annual loss in 48 years, substantially higher debt costs, and reliance on government payroll support. Disclosure is generally specific and quantitatively detailed, although forward-looking estimates contain inherent uncertainty and exclude volatile or difficult-to-estimate items. The tone is cautious and risk-heavy but transparent rather than overtly evasive."
+}

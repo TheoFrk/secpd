@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not possible to estimate",
+    "reasonably possible losses",
+    "early stage of proceedings",
+    "could be material",
+    "ongoing analysis"
+  ],
+  "risk_summary": "The disclosure is comparatively detailed and quantifies affected populations, incurred costs, insurance coverage, and expected future spending. However, litigation and regulatory exposure remain materially uncertain, with no estimable loss range and potentially material future impacts from lawsuits, investigations, remediation, and security investments."
+}

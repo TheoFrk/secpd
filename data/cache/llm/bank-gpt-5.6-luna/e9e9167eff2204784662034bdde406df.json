@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "does not undertake any obligation to update",
+    "adjusted financial measures not GAAP",
+    "actual results could be materially different",
+    "acquisition and currency adjustments"
+  ],
+  "risk_summary": "The disclosure presents strong revenue and organic growth with detailed segment and acquisition impacts, but GAAP earnings declined and results were affected by currency, mix, funding delays, and customer project deferrals. Extensive forward-looking disclaimers and reliance on non-GAAP adjusted measures moderately limit transparency regarding underlying performance and risks."
+}

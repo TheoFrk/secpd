@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "may be required",
+    "typically in excess",
+    "primarily",
+    "not probable"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful operational scale, segment composition, revenue concentrations, and quantified accounting impacts. Risk is moderated by reliance on management estimates, customer credit sensitivity, inventory-demand assumptions, and a significant CRM impairment and replacement project, while the overall tone remains operationally stable and mildly confident."
+}

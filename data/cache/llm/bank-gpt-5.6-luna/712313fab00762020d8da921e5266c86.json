@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "may materially affect",
+    "when reasonably assured",
+    "designed to mitigate our risk",
+    "subject to future uncertainties"
+  ],
+  "risk_summary": "The excerpt is highly detailed and materially quantified, including occupancy, receivables, allowances, bad-debt sensitivity, and development expenditures. Risk is presented in a measured, largely routine MD&A tone, with uncertainty concentrated in tenant collectability, valuation assumptions, redevelopment execution, and future development economics."
+}

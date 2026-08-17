@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "Certain Items exclusions",
+    "constant currency basis",
+    "estimated impact of additional week",
+    "methodology revisions"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating performance with extensive quantified growth in sales, earnings, EBITDA, and market share. Key risks include inflationary pressure, COVID-19 recovery costs, foreign exchange effects, bad-debt comparisons, and comparability distortions from a 53-week prior year. Disclosure is generally transparent but relatively complex due to extensive non-GAAP adjustments and reconciliation conventions."
+}

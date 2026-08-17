@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to determine or predict",
+    "may take further actions",
+    "material adverse effect",
+    "need to secure additional funding",
+    "amount subject to arbitration"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on losses, cash resources, impairment charges, and funding runway, but includes substantial COVID-19 boilerplate and some incomplete explanations of expense changes. Risk tone is moderately negative due to ongoing net losses, declining liquidity, reliance on future financing, potential REGENXBIO obligations, and clinical-stage execution uncertainty, partially offset by management's stated liquidity through at least the next 12 months."
+}

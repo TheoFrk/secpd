@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "estimated contingent commissions",
+    "unobservable inputs (Level 3)",
+    "to the extent it is available",
+    "not indicative of ongoing performance"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, emphasizing strong long-term revenue and earnings growth. Key risks include catastrophe exposure, floating-rate debt, acquisition earn-out volatility, contingent commission estimation, and reliance on non-GAAP performance measures. The tone is confident but moderated by extensive qualifications and accounting estimates."
+}

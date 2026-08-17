@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unable to predict duration",
+    "no assurance estimates will be accurate",
+    "materially differ",
+    "broad list of risks"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate forward-looking language and broad risk enumeration, limiting specificity about future outcomes. COVID-19 materially reduced fee revenue and created heightened uncertainty around liquidity, operations, goodwill valuations, and potential impairment, with the Consulting segment showing the smallest fair-value cushion."
+}

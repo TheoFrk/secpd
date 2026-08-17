@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "limited funds from IP monetization",
+    "may alone or in conjunction with others",
+    "estimated fair value assumptions",
+    "liquidity and access to capital"
+  ],
+  "risk_summary": "The disclosure is technically detailed but contains substantial accounting jargon and standard forward-looking disclaimers. Financial risk is elevated because IP monetization has generated limited funds, the company is transitioning into blockchain development, and contingent payment obligations could impair liquidity and financial position."
+}

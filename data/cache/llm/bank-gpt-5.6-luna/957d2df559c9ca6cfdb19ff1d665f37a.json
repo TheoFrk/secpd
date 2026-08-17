@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.67,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "potential sale of nutrient credits",
+    "substantial political efforts",
+    "going concern explanatory paragraph"
+  ],
+  "risk_summary": "The excerpt contains extensive forward-looking disclaimers and promotional claims, but also provides concrete evidence of material operating losses, limited commercial deployment, delayed projects, and dependence on nutrient-credit markets that have not yet developed. The explicit going-concern explanatory paragraph signals significant liquidity and financing risk."
+}

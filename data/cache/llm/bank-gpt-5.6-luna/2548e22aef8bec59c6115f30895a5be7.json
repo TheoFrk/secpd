@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "factors could cause actual results to differ",
+    "continue to monitor developments",
+    "non-GAAP measure comparability caveat",
+    "potential deferral of incremental expenses"
+  ],
+  "risk_summary": "The excerpt presents generally favorable operating performance, supported by quantified segment margin increases, customer growth, acquisitions, and infrastructure expansion. Risk discussion is largely centered on COVID-19, regulatory changes, weather, cost pressures, and reliance on regulatory accounting, with substantial boilerplate and forward-looking disclaimers. Overall tone is moderately positive, but exposure to pandemic developments, operating costs, and regulatory treatment remains material."
+}

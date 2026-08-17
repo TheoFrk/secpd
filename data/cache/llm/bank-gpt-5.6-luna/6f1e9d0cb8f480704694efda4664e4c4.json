@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP earnings exclusions",
+    "strategic review of offshore wind",
+    "projected investments could be impacted",
+    "upper half of a 5 to 7 percent range",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with detailed earnings, liquidity, debt, capital expenditure, and regulatory disclosures. Risk is moderated by substantial planned investment, new debt issuance, and uncertainty surrounding the offshore wind portfolio and project completion assumptions. The presentation emphasizes non-GAAP performance measures, which may soften the apparent impact of specified costs and charges."
+}

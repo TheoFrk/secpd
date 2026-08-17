@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "future additions may be necessary",
+    "could yield significantly different fair values",
+    "projected cash flows",
+    "loss share protection forfeiture"
+  ],
+  "risk_summary": "The disclosure is detailed and quantitatively supported, but relies materially on management judgments regarding loan losses, collateral values, fair values, cash flows, and FDIC loss-share recoveries. It identifies meaningful downside risks, including borrower deterioration, economic changes, valuation sensitivity, and expiration or forfeiture of loss-share protection, while maintaining a generally neutral tone."
+}

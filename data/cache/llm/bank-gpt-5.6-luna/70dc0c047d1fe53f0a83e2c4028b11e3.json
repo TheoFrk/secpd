@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.02,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "highly subjective assumptions",
+    "could differ materially",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking language and broad disclaimers that limit reliance on projections, while providing limited current-period risk quantification. Accounting estimates, impairment testing, occupancy, rental rates, insurance recoveries, and long-term holding assumptions introduce material uncertainty, although reported operating developments are presented neutrally."
+}

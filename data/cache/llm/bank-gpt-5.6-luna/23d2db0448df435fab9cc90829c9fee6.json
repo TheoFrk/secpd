@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "continue to expand",
+    "proven expertise and differentiators",
+    "customary covenants and conditions",
+    "truncated disclosure context"
+  ],
+  "risk_summary": "The excerpt uses substantial forward-looking, promotional, and boilerplate language, with limited quantified support beyond selected growth, funding, and lending figures. Debt terms, collateral, covenants, and potential acceleration create meaningful financial risk, although management states that no default has occurred. The apparent truncation and abrupt insertion of loan and payroll-tax disclosures reduce contextual clarity."
+}

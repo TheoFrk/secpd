@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "uncertain environment",
+    "we believe",
+    "clear opportunities for substantial growth",
+    "we will look for, and capitalize on, those opportunities",
+    "The following table provides"
+  ],
+  "risk_summary": "The excerpt presents strong quantified 2010 performance and an optimistic strategic outlook, but repeatedly qualifies conditions as uncertain and relies on broad, non-quantified growth and margin aspirations. Repeated table references and omitted detail reduce transparency in the provided passage, although the overall tone is confident rather than crisis-like."
+}

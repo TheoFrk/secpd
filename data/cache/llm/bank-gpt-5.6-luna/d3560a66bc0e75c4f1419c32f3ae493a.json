@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "we believe",
+    "expect to continue",
+    "no assurances"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial operating detail, supporting relatively low vagueness. It presents strong growth, profitability, liquidity and strategic positioning, but identifies material execution risks from supply-chain shortages, labor tightness, lengthening construction cycles and the need to restrict sales pace. Forward-looking claims rely on management expectations and include standard disclaimers that actual results may differ materially."
+}

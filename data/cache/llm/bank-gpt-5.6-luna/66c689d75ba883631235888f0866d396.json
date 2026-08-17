@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally 80% or less",
+    "subject to adverse conditions",
+    "attempts to maintain its net interest margin",
+    "inherent risk of lending",
+    "other conditions that affect repayment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified balance-sheet, earnings, funding, approval-limit, and interest-rate information, supporting relatively transparent disclosure. It nevertheless uses recurring boilerplate strategy language and broad conditional phrasing around credit, real-estate, funding, and economic risks, while the excerpt is truncated before key portfolio detail is presented."
+}

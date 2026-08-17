@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could adversely affect",
+    "cautiously optimistic",
+    "future effect will largely depend",
+    "among other things"
+  ],
+  "risk_summary": "The disclosure combines quantified liquidity and cash-flow information with extensive generic forward-looking disclaimers and conditional risk language. Key risks include component shortages, extended lead times, inflation, tariffs, customer cancellations, labor constraints, pricing pressure, and dependence on suppliers and financing. Overall tone is cautiously positive but acknowledges meaningful operational and supply-chain uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe we are well positioned",
+    "primarily driven by",
+    "may be impaired",
+    "if any",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, channel, brand, margin, and liability metrics across multiple periods. The tone is confident and growth-oriented, although lower selling margins, occupancy pressure, self-insurance estimates, tax uncertainty, and potential goodwill impairment represent moderate risks."
+}

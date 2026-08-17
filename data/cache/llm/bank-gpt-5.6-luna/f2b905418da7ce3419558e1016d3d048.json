@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and broad disclaimer",
+    "inconsistent five versus nine business lines",
+    "promotional claims without operating metrics",
+    "anticipated to remain relatively stable",
+    "significant estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt reports a material 36% revenue decline, impaired notes receivable, and unpaid rent, indicating operating and credit-quality pressure. Disclosure is diluted by repetitive corporate-history language, promotional descriptions of numerous businesses, inconsistent segment counts, and heavily qualified forward-looking statements. Quantification is uneven, limiting assessment of the sustainability and risk of newer lending, securities, biotechnology, and digital-asset initiatives."
+}

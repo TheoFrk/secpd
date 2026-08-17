@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "may be required to refinance",
+    "sufficient cash flow",
+    "beyond our control"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosure on product development costs, tax attributes, rent, and expected capital requirements, but relies heavily on standard forward-looking disclaimers and conditional language. Liquidity appears dependent on operating cash flow, credit availability, and potential future debt or equity financing, with explicit downside alternatives including asset sales or delayed expansion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "anticipated clinical milestones",
+    "positive FDA input",
+    "favorable safety profile",
+    "subject to terms and conditions",
+    "COVID-19 boilerplate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on clinical studies, financing obligations, royalty payments, and transaction consideration, supporting generally adequate disclosure precision. However, the tone is forward-looking and optimistic, relying on anticipated milestones and favorable trial descriptions while clinical, regulatory, commercialization, and COVID-19 execution risks remain material."
+}

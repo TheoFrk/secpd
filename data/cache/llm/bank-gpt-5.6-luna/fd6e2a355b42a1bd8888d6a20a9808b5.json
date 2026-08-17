@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "information required",
+    "forward-looking statements",
+    "missing substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A content and instead incorporates material from another report, limiting direct assessment of financial condition, performance, and risks. This cross-reference may reduce transparency in the excerpt but does not itself indicate a positive or negative risk outlook."
+}

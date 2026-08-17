@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "certain risks and uncertainties",
+    "subjective or complex judgments",
+    "non-GAAP operating-basis measures",
+    "additional information is provided elsewhere"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding assets, deposits, equity, employees, and portfolio trends, but contains substantial standard MD&A boilerplate and cross-references. Risk is framed as manageable, with acknowledged exposure to estimation uncertainty, market conditions, regulatory matters, and forward-looking variability. The extensive jargon, long sentences, and reliance on reconciliations and disclosures elsewhere modestly reduce accessibility."
+}

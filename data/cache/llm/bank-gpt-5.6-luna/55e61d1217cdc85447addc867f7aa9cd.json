@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures before special items",
+    "subject to changes",
+    "could change by a material amount",
+    "numerous other applications",
+    "truncated accounting discussion"
+  ],
+  "risk_summary": "The excerpt is generally detailed and supported by quantified operational and financial data, but relies on substantial accounting-estimate language and non-GAAP performance measures. Risk tone is broadly neutral to mildly confident, with identifiable exposure to receivable collectability, inventory obsolescence, asset impairments, market conditions, and weather. The apparent truncation and malformed text reduce disclosure completeness and interpretability."
+}

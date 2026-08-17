@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking information involves risks and uncertainties",
+    "may differ materially",
+    "more likely than not",
+    "projected discounted cash flow method",
+    "not expected to have a material impact"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified sales, margins, restructuring costs, and R&D projections, but includes substantial standard accounting and forward-looking boilerplate. Key risks include declining disposable-product sales, competitive pricing pressure, international manufacturing exposure, and estimation uncertainty in impairment, tax, and allowance judgments."
+}

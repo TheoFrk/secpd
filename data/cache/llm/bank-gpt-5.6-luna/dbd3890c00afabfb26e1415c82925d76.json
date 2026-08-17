@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "actual results could differ materially",
+    "no obligation to update",
+    "various factors"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking-statement disclaimers and broad, non-quantified risk categories, which limit specificity around downside exposure. It also provides meaningful quantified acquisition and operating details and presents a generally constructive outlook, although execution, cybersecurity, customer demand, capital access, integration, and regulatory risks are material."
+}

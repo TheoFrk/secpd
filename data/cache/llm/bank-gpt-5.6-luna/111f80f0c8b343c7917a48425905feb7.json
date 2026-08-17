@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects continued growth",
+    "should continue to drive demand",
+    "various other assumptions",
+    "actual results may differ",
+    "future developments could result in adjustments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively specific regarding revenue and segment changes, but contains optimistic forward-looking assumptions about growth and demand. Key risks include foreign-exchange headwinds, restructuring and discontinued operations, tax examinations, and estimation uncertainty in reserves, asset values, and other accounting judgments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "without limiting the generality",
+    "could differ materially",
+    "significant capital expenditures",
+    "truncated cash management section"
+  ],
+  "risk_summary": "The excerpt provides useful transaction, revenue, liquidity, and selected accounting figures, but substantial boilerplate, promotional language, and incomplete sections limit transparency. Risk is moderated by improved revenue and net income, yet acquisitions, seller financing, planned capital needs, equity financing dependence, and weakly detailed cash-flow disclosures remain material concerns."
+}

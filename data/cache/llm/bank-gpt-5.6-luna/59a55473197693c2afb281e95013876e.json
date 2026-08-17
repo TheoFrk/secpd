@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.25,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference to Appendix A",
+    "no substantive MD&A disclosure"
+  ],
+  "risk_summary": "The excerpt provides no financial or operational analysis and directs readers elsewhere for the substantive MD&A. This limits assessment of liquidity, performance, and risk exposures from the provided text alone."
+}

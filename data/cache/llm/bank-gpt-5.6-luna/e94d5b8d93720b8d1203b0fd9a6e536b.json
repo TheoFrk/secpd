@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "risks including but not limited to",
+    "no obligation to publicly update",
+    "other risks or uncertainties",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt combines substantial operational and revenue detail with extensive standard forward-looking-statement disclaimers and a broad, non-exhaustive risk list. Business concentration in independent agents, third-party capacity providers, insurance arrangements, technology, and transportation demand presents meaningful exposure, while the overall tone remains neutral and informational rather than crisis-like."
+}

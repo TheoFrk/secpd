@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements cautionary language",
+    "known and unknown risks",
+    "subjectively determined qualitative factors",
+    "inherent uncertainties",
+    "could differ materially"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent regarding acquisition effects, loan and deposit growth, PPP fees, and restructuring costs. However, it contains extensive standard forward-looking disclaimers and emphasizes subjective estimates, impairment uncertainty, and potential divergence of actual results. Overall tone is mildly positive due to reported growth and profitability, though comparability and acquisition-related adjustments reduce interpretive clarity."
+}

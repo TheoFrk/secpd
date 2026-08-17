@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believes potential for growth is significant",
+    "subjective components requiring material estimates",
+    "all of these factors may be susceptible to significant change",
+    "more likely than not",
+    "seamlessly and consistently delivering operational excellence"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with positive framing around growth, market expansion, liquidity, and asset quality. Key risks arise from subjective ACL, goodwill, and tax estimates, as well as increased delinquency and nonperforming assets year over year. The loan portfolio has substantial commercial real estate and long-duration floating-rate exposure, creating sensitivity to credit and interest-rate conditions."
+}

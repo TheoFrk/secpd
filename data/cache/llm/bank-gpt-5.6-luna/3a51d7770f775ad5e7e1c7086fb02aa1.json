@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporated by reference herein",
+    "detailed discussion can be found",
+    "most meaningful, useful and transparent",
+    "other non-GAAP financial measures",
+    "critical accounting policies"
+  ],
+  "risk_summary": "The excerpt largely redirects readers to an external annual report rather than providing substantive financial-condition or performance analysis. It identifies judgment-sensitive accounting areas and non-GAAP measures but offers no quantified exposures, trends, or risk outcomes in the excerpt itself."
+}

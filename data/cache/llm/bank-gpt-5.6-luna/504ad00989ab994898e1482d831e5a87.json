@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and disclaimers",
+    "many factors, including but not limited to",
+    "no obligation to update",
+    "adequate liquidity for at least twelve months",
+    "well-positioned regardless of economic environment"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, including segment trends, profitability, liquidity, capital expenditures, and debt levels. Risk tone is cautiously positive, supported by no long-term debt and operating cash flow, but includes standard forward-looking disclaimers and optimistic assertions about liquidity and resilience. The dense, lengthy presentation and excerpt truncation modestly hinder readability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor language",
+    "risks and uncertainties beyond our control",
+    "no obligation to update",
+    "probable future recovery through rates",
+    "historical experience and other assumptions"
+  ],
+  "risk_summary": "The excerpt uses extensive standard safe-h harbor and forward-looking disclaimer language while listing numerous regulatory, market, liquidity, operational, climate, and commodity risks without quantifying their potential impact. Accounting and regulatory disclosures are technically detailed, but reliance on probability assessments, estimates, and future rate recovery introduces uncertainty. Overall tone is neutral to mildly confident rather than crisis-like."
+}

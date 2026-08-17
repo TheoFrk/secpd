@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may not prevent material adverse effect",
+    "not able to predict",
+    "expected to continue",
+    "non-recurring in nature",
+    "complex regulation and potential ramifications"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed performance, asset-quality, capital, and margin metrics. Key risks include prolonged low interest rates, margin compression, rising nonaccrual loans and charge-offs, regulatory complexity, and increased borrowings, although management presents overall performance and balance-sheet trends positively."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "entirely possible, even likely",
+    "well controlled overall expenses",
+    "subject to temporary increase",
+    "reopening efforts",
+    "surprisingly good employment figures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, earnings, ownership-interest, and AUM information, limiting overall vagueness. However, the pandemic and economic outlook rely on speculative language and broad macroeconomic commentary, while the long, dense presentation may obscure key sensitivities. Reported performance is favorable, but exposure to market conditions, fund assets, and the non-voting EAM interests remains a meaningful risk."
+}

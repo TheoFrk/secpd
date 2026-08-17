@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance can be given",
+    "substantial amounts of capital",
+    "potentially generate significant revenues",
+    "customary representations and warranties"
+  ],
+  "risk_summary": "The excerpt provides useful historical quantification but is dominated by extensive boilerplate disclaimers and highly speculative growth and financing plans. Material risks include recurring net losses, minimal cash, substantial investing outflows, dependence on external financing, high-interest convertible notes, and significant dilution potential."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks and uncertainties",
+    "expressly disclaim any obligation to update",
+    "expected to be sustained",
+    "if available acquisitions do not meet criteria"
+  ],
+  "risk_summary": "The disclosure provides substantial operating, acquisition, debt, interest-rate, and performance data, but is interspersed with extensive forward-looking disclaimers and optimistic projections. Key risks include refinancing and mortgage maturity exposure, floating-rate debt, reliance on continued rent growth and occupancy, and related-party financing, although current operating trends are presented as generally favorable."
+}

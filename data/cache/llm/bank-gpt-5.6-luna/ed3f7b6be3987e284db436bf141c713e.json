@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "appears to be performing better",
+    "we believe",
+    "slow recovery",
+    "estimates and assumptions",
+    "actual amounts could differ materially"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent about sales growth, refinancing, restructuring costs, impairments, and related-party purchases. Risk tone is cautiously positive due to profitability recovery and strong upper-end market performance, but remains exposed to a slow housing and commercial construction recovery, estimation uncertainty, and supplier concentration."
+}

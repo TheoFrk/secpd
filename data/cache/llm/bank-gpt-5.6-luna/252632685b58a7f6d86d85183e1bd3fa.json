@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "including but not limited to",
+    "risks are manageable",
+    "material adverse impact",
+    "amount still to be determined"
+  ],
+  "risk_summary": "The disclosure is broadly comprehensive and includes substantial quantified operating, market, margin, supply-chain, and pension information. However, extensive boilerplate risk-factor language and reliance on broad contingencies reduce specificity, particularly regarding covenant capacity, pension funding, and COVID-19 and supply-chain impacts. Overall tone is balanced but mildly cautious, with management characterizing risks as manageable despite meaningful downside exposures."
+}

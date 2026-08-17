@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally comprised of average daily balances",
+    "believed to be reasonable under the circumstances",
+    "actual results may differ",
+    "based upon, among other things",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitative, particularly regarding acquisitions, loan growth, yields, loss-sharing terms, and noninterest income. It contains moderate boilerplate repetition and relies on management estimates for credit losses and acquired-loan cash flows, creating ordinary uncertainty rather than an overtly adverse risk tone."
+}

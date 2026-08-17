@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.29,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "material uncertainty and risk",
+    "various estimates and judgments",
+    "complex and subjective assumptions",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail, but relies on broad forward-looking disclaimers and subjective accounting estimates. Risk tone is moderately negative due to COVID-19 demand disruption, reduced cash flow, potential losses, customer concentration, debt refinancing, and covenant risks, despite revenue growth and improved ground-equipment performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot provide assurance",
+    "considerable uncertainty",
+    "subject to possible further review",
+    "ultimately determine",
+    "cannot predict the outcome"
+  ],
+  "risk_summary": "The excerpt presents material regulatory, operational, and financial risks related to the permanent retirement of San Onofre, including potential cost disallowances, customer refunds, and uncertain recovery through rates. Although many amounts, dates, and proposed decisions are quantified, the disclosure relies on substantial contingencies regarding CPUC proceedings and future recoverability. The tone is cautious and materially negative but not crisis-like."
+}

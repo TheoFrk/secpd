@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "may defer some projects",
+    "many unknowns",
+    "adjust operations accordingly"
+  ],
+  "risk_summary": "The disclosure presents a cautiously positive outlook supported by quantified cash and debt balances, but relies substantially on management expectations regarding COVID-19 recovery, demand, investments, and acquisitions. Key risks include semiconductor cyclicality, pandemic-related disruption, supply-chain uncertainty, and potential cash pressure if recovery is delayed."
+}

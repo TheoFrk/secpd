@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes provides useful information",
+    "non-GAAP financial measures",
+    "adjusting for the loss",
+    "methodology may differ among companies",
+    "project implementation has been delayed"
+  ],
+  "risk_summary": "The excerpt presents a generally positive performance narrative supported by extensive quantified results, but relies heavily on repetitive non-GAAP justifications and adjusted metrics. Key risk signals include a 132% increase in loan-loss provision, delayed core-system implementation, and potentially favorable presentation from excluding the prior-year CDO loss."
+}

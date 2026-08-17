@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP organic adjustments",
+    "estimated distributor inventories",
+    "difficult to quantify or predict",
+    "comparable basis",
+    "foreign exchange exclusions"
+  ],
+  "risk_summary": "The excerpt is detailed and provides quantified results, but extensive non-GAAP adjustments may make underlying performance less transparent and emphasize favorable comparability. Several brands experienced volume and net sales declines, partly attributed to estimated distributor inventory reductions, while price/mix and selected brand growth provided offsets."
+}

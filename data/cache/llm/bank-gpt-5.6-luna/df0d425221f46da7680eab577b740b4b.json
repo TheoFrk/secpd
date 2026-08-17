@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking information involving risks and uncertainties",
+    "estimates and judgments",
+    "subject to many variables",
+    "may not be able to sell excess inventory",
+    "subject to certain closing conditions"
+  ],
+  "risk_summary": "The excerpt is detailed and includes quantified contractual obligations, but relies heavily on management estimates, assumptions, and probability-based judgments for revenue recognition, contract costs, inventory reserves, investments, and taxes. Key risks include potential revenue overstatement, excess inventory, investment impairments, joint-venture execution uncertainty, and reliance on continued financing and cash resources. The tone is broadly neutral with modest confidence from the stated liquidity outlook, offset by extensive standard forward-looking caveats."
+}

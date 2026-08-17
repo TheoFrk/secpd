@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "not meaningful",
+    "special items",
+    "Adjusted EBITDA"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear year-over-year drivers for revenue and expenses. Risk is moderated by dependence on cyclical political and seasonal advertising, declining AMS revenue, rising programming and digital costs, and ongoing Department of Justice investigation costs. Extensive non-GAAP adjustments and emphasis on special items may complicate assessment of underlying performance."
+}

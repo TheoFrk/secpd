@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be quantified",
+    "not known with certainty",
+    "may have a material adverse impact",
+    "uncertain and cannot be predicted",
+    "no assurance"
+  ],
+  "risk_summary": "The disclosure is relatively precise on historical financial performance but relies substantially on uncertainty language regarding supply-chain disruptions, COVID-19 effects, and future fulfillment. Risk tone is moderately negative because sales growth coexists with declining margins, an operating loss, and potentially prolonged component shortages, although backlog and liquidity provide some support."
+}

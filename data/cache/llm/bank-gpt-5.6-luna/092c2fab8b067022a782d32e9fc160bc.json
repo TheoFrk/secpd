@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "may be beyond the Company's control",
+    "disclaims any obligation to update",
+    "based on certain assumptions and judgments",
+    "historically, actual results have not varied materially"
+  ],
+  "risk_summary": "The excerpt is largely standard SEC cautionary and accounting-policy disclosure, with substantial boilerplate and extensive technical wording. It provides useful quantitative detail on receivables, inventory, contract balances, and revenue timing, but relies on management estimates and includes meaningful uncertainty around collectability, obsolescence, contract costs, and forward-looking results."
+}

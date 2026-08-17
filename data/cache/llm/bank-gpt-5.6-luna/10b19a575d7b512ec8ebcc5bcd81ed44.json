@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance",
+    "no obligation to update",
+    "plans subject to uncertainty",
+    "no guarantee of success"
+  ],
+  "risk_summary": "The excerpt discloses severe liquidity and going-concern risk, including no cash, no current revenue, substantial accrued interest, and materially past-due obligations. Management relies on future financing, consulting revenue, acquisitions, and trading opportunities, while repeatedly disclaiming the achievability of these plans."
+}

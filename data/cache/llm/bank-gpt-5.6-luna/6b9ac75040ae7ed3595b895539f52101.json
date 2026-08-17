@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could materially differ",
+    "subjective assessments",
+    "estimates and assumptions",
+    "actively selling non-strategic assets",
+    "impairment charges"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including portfolio scale, asset values, earnings, and year-over-year drivers, but relies heavily on accounting estimates and forward-looking judgments. Key risks include potential impairment charges, asset sale losses below carrying value, collectability, valuation uncertainty, and leverage reduction execution. Overall tone is cautiously positive, reflecting improved earnings and portfolio performance while acknowledging material estimation and market risks."
+}

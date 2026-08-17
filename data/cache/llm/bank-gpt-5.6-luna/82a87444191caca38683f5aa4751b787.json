@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management considers adequate",
+    "future additions may be necessary",
+    "other risk factors",
+    "as necessary",
+    "unallocated component may be used"
+  ],
+  "risk_summary": "The disclosure is detailed and quantitatively supported, particularly regarding loan-loss methodology, credit review controls, collateral valuation, and interest-rate performance. Risk remains tied to management judgment, economic conditions, real-estate values, appraisal timing, and potential future allowance increases, but the overall tone is controlled rather than crisis-like. The excerpt is highly technical and includes substantial standard accounting-policy language."
+}

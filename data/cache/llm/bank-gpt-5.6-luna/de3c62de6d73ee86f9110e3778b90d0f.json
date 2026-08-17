@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be reasonably predicted",
+    "no assurance future growth can be achieved",
+    "expected to decline",
+    "could offset impacts",
+    "at this time, it is too early to determine"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and revenue detail, including quantified COVID-19 testing growth and segment revenue, but relies on forward-looking hedging around pandemic duration, variants, reimbursement pressure, and future growth. Risk tone is mildly negative because pandemic and supply-chain uncertainty are prominent, although the discussion also emphasizes EUAs, capacity expansion, and growth opportunities."
+}

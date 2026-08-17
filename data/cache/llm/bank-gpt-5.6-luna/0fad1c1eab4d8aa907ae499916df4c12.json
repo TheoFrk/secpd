@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "largely offset",
+    "reasonable and supportable forecasts",
+    "balance sheet repositioning",
+    "actual maturities may differ"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and heavily quantified, including earnings deterioration, securities losses, loan growth, credit-loss reserves, and capital ratios. Risk tone is mildly negative because net earnings fell sharply and the company incurred a significant securities loss, although management emphasizes strong capitalization and explains key drivers. Some standard boilerplate and forward-looking/model-based language limits transparency around forecast sensitivity and asset-quality risks."
+}

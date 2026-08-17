@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management believes",
+    "well positioned to withstand",
+    "long-term perspective",
+    "substantial discretion",
+    "range of reasonable IBNR reserves"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including performance targets, year-over-year changes, catastrophe-loss impacts, investment valuation effects, and reserve-estimation methods. Risk is moderated by acknowledged exposure to market uncertainty, catastrophe losses, interest rates, credit spreads, and actuarial-estimation uncertainty, although optimistic forward-looking language is used. The dense insurance and accounting terminology increases interpretive complexity."
+}

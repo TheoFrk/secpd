@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to a high degree of uncertainty",
+    "actual results could differ from these estimates",
+    "reasonably likely that actual outcomes will differ",
+    "uncertain at this time",
+    "mixed macro indicators"
+  ],
+  "risk_summary": "The disclosure identifies meaningful exposure to customer credit risk, commodity-price volatility, impairment assumptions, insurance claims, litigation, and uncertain construction demand. While it provides some transaction details and goodwill-testing assumptions, many potential impacts remain dependent on management estimates and future conditions. The overall tone is cautiously positive, supported by expected infrastructure spending, but tempered by mixed market indicators and uncertain demand."
+}

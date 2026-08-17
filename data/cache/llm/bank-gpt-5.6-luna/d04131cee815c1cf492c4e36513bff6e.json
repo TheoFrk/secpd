@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we expect",
+    "should continue",
+    "primarily attributable",
+    "non-GAAP measures",
+    "what we believe to be appropriate"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong utilization, liquidity, investment, and segment performance information. The outlook is predominantly confident but relies on forward-looking assumptions regarding lease rates, demand, fleet growth, air travel recovery, and higher interest expense. Impairments, Russia-related asset exposure, and reliance on favorable market conditions remain notable risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "many factors beyond our control",
+    "not a complete set of all potential risks",
+    "do not undertake to update",
+    "restated previously issued financial statements"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and financial data, but is preceded by extensive boilerplate forward-looking language and broad risk disclaimers. The restatement of previously issued financial statements is a notable control and reporting risk, while mortgage banking results deteriorated materially despite stable overall net income."
+}

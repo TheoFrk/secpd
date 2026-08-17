@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimer",
+    "actual results could differ materially",
+    "significant risks and uncertainties",
+    "no obligation to update projections",
+    "critical estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by boilerplate forward-looking-statement disclaimers, which limit interpretability of future performance and emphasize material uncertainty. However, acquisition terms, valuation inputs, tax attributes, and goodwill are comparatively specific and quantified. The overall tone is cautiously neutral, with positive references to growth and diversification offset by execution, valuation, regulatory, and tax risks."
+}

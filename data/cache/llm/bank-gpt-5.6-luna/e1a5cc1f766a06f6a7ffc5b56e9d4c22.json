@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results may differ materially",
+    "extensive risk-factor laundry list",
+    "restatement of previously issued statements",
+    "numerous factors and uncertainties"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, largely unquantified list of possible adverse factors, which reduces transparency about the relative severity and probability of risks. It also discloses a restatement related to deferred tax liabilities and retained earnings, while operational results show lower citrus production and pound solids due to disease and weather, partly offset by higher pricing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "among others",
+    "inherently uncertain",
+    "superior shareholder value"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear year-over-year operating metrics and explanations for margin changes. Risk disclosure is largely standardized, emphasizing forward-looking statement limitations and uncertainty around estimates, while promotional language creates a moderately optimistic tone. Notable risks include declining gross margin, higher debt-related interest expense, product-transition costs, and reliance on management assumptions."
+}

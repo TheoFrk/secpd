@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial doubt as a going concern",
+    "disciplined and targeted expansion strategies",
+    "no assurances to that effect",
+    "ability to raise additional funds"
+  ],
+  "risk_summary": "The disclosure identifies substantial doubt about the Company’s ability to continue as a going concern, reflecting significant historical losses, accumulated deficit, operational disruption, and dependence on future financing and business transformation. Although cash of $152.01 million and project collections are presented as mitigating factors, the strategy and financing assumptions remain uncertain and largely unquantified. Extensive boilerplate and forward-looking disclaimers dilute the specificity of the risk discussion."
+}

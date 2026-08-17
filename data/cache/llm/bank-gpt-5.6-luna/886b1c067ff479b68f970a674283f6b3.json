@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including but not limited to",
+    "expected to continue",
+    "may cause inventory levels to increase",
+    "estimation uncertainty"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, but includes standard forward-looking disclaimers and uncertainty around market conditions, costs, demand, and asset recoverability. Key risks include declining shipments and sales, customer and geographic concentration, variable-rate debt exposure, persistent cost inflation, and potentially higher inventory and cash-flow pressure."
+}

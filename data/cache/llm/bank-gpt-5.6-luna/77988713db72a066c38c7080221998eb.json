@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "significant, non-recurring, or otherwise not supporting",
+    "other costs, gains and losses",
+    "subject to general economic and other conditions",
+    "expected ability to access credit markets"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily reliant on boilerplate non-GAAP definitions and broad adjustment categories, which can reduce transparency around recurring operating performance. Liquidity disclosure is relatively specific, citing cash, credit availability, debt repayment, and a 12-month sufficiency expectation, but meaningful leverage, refinancing, market-access, and execution risks remain."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.64,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "industry leading",
+    "focused on",
+    "challenging market conditions"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive strategic and operating narrative, supported by substantial quantitative disclosures on revenue and capital expenditures. Risk transparency is moderate because promotional language and forward-looking claims receive more emphasis than detailed downside scenarios, although customer-base declines, competitive conditions, and significant capital requirements are acknowledged."
+}

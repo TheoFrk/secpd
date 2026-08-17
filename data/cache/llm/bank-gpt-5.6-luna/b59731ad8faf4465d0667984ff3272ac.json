@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonably likely actual outcomes will differ",
+    "subject to a high degree of uncertainty",
+    "future market conditions",
+    "all available information at the time",
+    "forward-looking statements subject to numerous risks"
+  ],
+  "risk_summary": "The excerpt uses standard, detailed accounting-policy disclosures but relies heavily on estimates, assumptions, and conditional language, particularly for receivables, inventory, impairment, insurance, and litigation. Credit and operating risks include uninsured cash concentrations, customer default exposure, uncertain claims and litigation outcomes, potential impairment charges, and low-priced imports. The outlook is cautiously positive, supported by construction demand and infrastructure spending, but acknowledges challenging business conditions and moderating growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may need to raise additional funds",
+    "cannot predict whether financing will become available",
+    "if at all",
+    "material adverse effect",
+    "no written finance agreement"
+  ],
+  "risk_summary": "The company has no operations or revenue, no current assets, recurring losses, and substantial liabilities, relying on interim funding from its controlling shareholder without a written commitment. Its ability to complete a business combination depends on uncertain future debt or equity financing, with significant dilution, default, and liquidity risks explicitly identified."
+}

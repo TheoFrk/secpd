@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "very difficult to examine",
+    "nearly impossible to predict",
+    "current relationships ... satisfactory",
+    "certain carriers facing significant liquidity challenges",
+    "limited circumstances"
+  ],
+  "risk_summary": "The disclosure is detailed and explains revenue recognition, operating structure, incentives, and geographic exposure, but it also identifies meaningful counterparty, carrier leverage, liquidity, regulatory, and execution risks. The tone is generally confident and control-oriented, with some broad or subjective assertions and limited quantification of downside exposure. The excerpt is truncated, reducing confidence regarding the full risk discussion."
+}

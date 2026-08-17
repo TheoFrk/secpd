@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.14,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "approximately 96% international sales",
+    "customer concentration",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with revenue, margin, cash-flow, customer concentration, geographic exposure, and currency sensitivity clearly presented. Risk tone is mixed: operating performance improved, but substantial international exposure, customer concentration, pricing pressure, foreign-exchange sensitivity, fixed production costs, litigation expense, and accounting-estimate uncertainty remain notable risks. Boilerplate forward-looking language is present but does not materially obscure the quantitative discussion."
+}

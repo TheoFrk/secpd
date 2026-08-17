@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "nonrecurring items",
+    "primarily and partially offset",
+    "qualitative factors and judgments",
+    "economic forecasts",
+    "rounded numbers"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed operating and credit metrics, but uses some boilerplate explanations and attribution to nonrecurring repositioning items. Earnings declined materially and funding costs increased, while loan growth and reported nonperforming assets appear comparatively manageable in the excerpt. Credit-loss provisioning relies partly on management judgments and economic forecasts, creating some estimation risk."
+}

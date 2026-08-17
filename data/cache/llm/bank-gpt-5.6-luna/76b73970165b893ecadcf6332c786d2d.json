@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "significant judgment involved",
+    "estimate may change",
+    "primarily due to",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with improved revenue, margins, and operating income, but relies on adjusted non-GAAP measures that exclude restructuring and optimization costs. Key judgment areas include inventory realizable values, litigation liabilities, tax rates, and the completion and transfer of manufacturing activities under the Portfolio Optimization Plan."
+}

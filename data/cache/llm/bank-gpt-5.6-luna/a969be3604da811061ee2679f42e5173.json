@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ",
+    "based on assumptions",
+    "greater degree of uncertainty",
+    "qualitative impairment assessment"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including receivables, bad-debt expense, goodwill, insurance reserves, and liquidity data. Risk exposure remains meaningful around customer concentration and payment defaults, revenue offsets, impairment assumptions, and self-insurance estimates, while the overall tone is cautious but not crisis-like."
+}

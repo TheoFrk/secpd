@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "may differ materially",
+    "expected costs and synergies",
+    "inability to realize anticipated benefits",
+    "subjective and inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt is heavily disclaimer-oriented and lists extensive acquisition, credit, liquidity, regulatory, cyber, litigation, and macroeconomic risks. It contains some quantified historical borrowing information, but key forward-looking outcomes and critical estimates remain materially uncertain and dependent on economic conditions and management assumptions."
+}

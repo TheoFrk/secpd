@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management is of the opinion",
+    "actual results could differ",
+    "subject to inherent uncertainties",
+    "anticipated commodity price trends",
+    "primarily attributable to"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed year-over-year changes in sales, costs, margins, cash flow, taxes, and planned capital commitments. Risk tone is cautiously positive, but operating cash flow declined, labor and healthcare costs increased, commodity prices remain uncertain, and approximately $13.9 million of construction-related obligations are expected."
+}

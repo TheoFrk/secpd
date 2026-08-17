@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "meaningful positive operating leverage",
+    "robust loan pipeline",
+    "no specific sector weaknesses",
+    "CECL model assumption volatility"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, highlighting merger impacts, credit metrics, loan growth, provisions, and specific charges. Tone is confident and positive, but relies on optimistic projections regarding organic growth, operating leverage, and credit quality while acknowledging sensitivity to macroeconomic conditions, CECL assumptions, charge-offs, and interest rates."
+}

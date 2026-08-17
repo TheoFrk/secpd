@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimate",
+    "high degree of judgment",
+    "difficult to estimate",
+    "qualitative information",
+    "likely occur"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating narrative, including sustained underwriting profitability, but emphasizes substantial uncertainty around loss and LAE reserves. Reserve outcomes depend on evolving claims, legal, inflationary, and catastrophe factors, with potential for unfavorable development. Quantitative definitions are provided, but the discussion relies heavily on actuarial judgment and broad qualitative caveats."
+}

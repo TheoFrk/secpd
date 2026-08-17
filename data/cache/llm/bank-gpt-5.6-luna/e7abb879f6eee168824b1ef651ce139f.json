@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "subjective and/or complex judgments",
+    "inherently uncertain",
+    "may be subject to significant change",
+    "additional provisions may be required"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified impairment charges and interest-rate metrics, but relies heavily on standard accounting-policy caveats and management estimates. Key risks center on loan-loss provisioning, securities impairment, taxes, goodwill, and fair-value judgments, with potential future earnings impact if assumptions prove inaccurate."
+}

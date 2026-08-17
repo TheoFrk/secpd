@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties beyond our control",
+    "may differ materially",
+    "no obligation to update",
+    "positive long-term strategic benefits"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standardized forward-looking-statement disclaimers and broad, largely unquantified strategic claims. It presents a generally confident outlook and emphasizes liquidity and growth, but acknowledges meaningful exposure to housing-market conditions, financing availability, interest rates, legal and regulatory risks, and consumer lending performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "among other considerations",
+    "no obligation to update",
+    "significant judgment and estimates",
+    "could result in a material change"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and quantitatively detailed, showing strong sales, profitability, operating cash flow, and liquidity metrics. Key risks include substantial investment outflows, increased secured debt, margin compression, reliance on estimates, and broad forward-looking disclaimers. Overall tone is confident, though partially moderated by standard uncertainty language and limited discussion of downside scenarios."
+}

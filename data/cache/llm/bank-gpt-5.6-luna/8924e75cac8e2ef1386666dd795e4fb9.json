@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "primarily due to",
+    "we believe",
+    "actual results could differ",
+    "subject to a high degree of unpredictability"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, including store counts, sales changes, merger consideration, non-GAAP reconciliations, and sensitivity information. Risk is presented in a measured, routine filing tone, with the main uncertainties involving estimates, self-insurance claims, inflation, legal trends, and comparability of identical-store sales."
+}

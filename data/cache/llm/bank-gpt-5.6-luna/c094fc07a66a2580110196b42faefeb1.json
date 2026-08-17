@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "other factors",
+    "primarily due to",
+    "partially offset by",
+    "should be read in conjunction"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, reporting strong earnings, loan growth, net interest margin expansion, and efficiency improvements. Risk exposure is acknowledged through interest-rate sensitivity, rising deposit costs, and an increase in non-performing assets, but the overall tone remains favorable. Repeated non-GAAP caveats and dense rate/volume explanations add boilerplate and reduce readability without materially obscuring the performance discussion."
+}

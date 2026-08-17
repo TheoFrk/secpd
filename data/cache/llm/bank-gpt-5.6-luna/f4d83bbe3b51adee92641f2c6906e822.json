@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "approximately",
+    "primarily driven by",
+    "partially offset by",
+    "continued strong performance",
+    "we expect"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed revenue, margin, store growth, investment, and earnings expectations. The tone is confident and growth-oriented, though repeated attribution language and reliance on approximate forecasts somewhat qualify the outlook. EMEA weakness, foreign-exchange headwinds, and execution-dependent investments are acknowledged but framed as manageable."
+}

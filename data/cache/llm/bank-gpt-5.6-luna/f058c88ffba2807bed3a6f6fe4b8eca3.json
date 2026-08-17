@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor disclaimer",
+    "other operational, financial or legal risks",
+    "from time to time",
+    "no obligation to update",
+    "long enumerated risk list"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including revenue mix, segment structure, liquidity, and earnings figures. Risk disclosure is broad but largely standardized, relying on generic categories and cross-references rather than quantifying potential impacts. Overall tone is neutral to moderately confident, with no evident crisis signal."
+}

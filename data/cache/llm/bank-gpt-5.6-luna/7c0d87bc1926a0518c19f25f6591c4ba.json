@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference herein",
+    "detailed discussion can be found",
+    "most meaningful, useful and transparent",
+    "certain non-GAAP financial measures",
+    "critical accounting policies"
+  ],
+  "risk_summary": "The excerpt largely redirects readers to another report rather than presenting substantive MD&A analysis or quantified risk information. It identifies several judgment-intensive accounting areas and emphasizes non-GAAP measures, but provides limited detail here to assess their impact or potential downside."
+}

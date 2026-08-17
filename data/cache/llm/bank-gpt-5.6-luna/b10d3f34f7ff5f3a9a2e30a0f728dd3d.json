@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to state with certainty",
+    "inherently subject to uncertainty",
+    "could have a material impact",
+    "management believes",
+    "subject to a number of factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified balance-sheet, deposit, loan, and tax information, but relies on management estimates for loan-loss allowances, securities impairment, goodwill, pensions, and future settlement costs. Risk tone is cautiously neutral to modestly positive due to reported asset, loan, and deposit growth, while uncertainty around valuation judgments and pension-plan liabilities remains material."
+}

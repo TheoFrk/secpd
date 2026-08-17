@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor disclaimers",
+    "actual results could differ materially",
+    "significant risks and uncertainties",
+    "may be required to continue funding",
+    "minimum sales targets and long-term commitments"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers that limit reliance on management projections. Disclosed commitments include substantial ongoing funding needs for biologistex, minimum product purchases, and 20-year agreements, although the excerpt also provides meaningful transaction amounts and remaining commitments. Overall tone is neutral, with cautious language reflecting execution, financing, and commercialization risks."
+}

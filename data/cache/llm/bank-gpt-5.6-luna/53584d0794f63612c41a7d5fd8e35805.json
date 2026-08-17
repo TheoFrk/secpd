@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherently subject to uncertainty",
+    "believed to be reasonable",
+    "unable to state with certainty",
+    "actual results could differ",
+    "qualitative factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on deposits, borrowings, equity, and loan growth, but relies heavily on standard MD&A caveats regarding estimates, assumptions, and potential impairment. Key credit risks include loan concentration in real estate, increased reliance on FHLB advances, and uncertainty surrounding the allowance for loan losses, securities impairment, goodwill, and pension assumptions."
+}

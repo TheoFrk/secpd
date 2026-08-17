@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may significantly affect",
+    "could adversely affect",
+    "management believes sufficient",
+    "qualitative or environmental factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative credit metrics and identifies specific charge-offs, but relies on management judgment regarding loss estimates, collateral values, economic conditions, and fair-value assumptions. Credit quality improved based on lower nonperforming loans and a higher allowance-to-nonperforming-loan ratio, while net credit losses more than doubled year over year, indicating continuing material credit risk."
+}

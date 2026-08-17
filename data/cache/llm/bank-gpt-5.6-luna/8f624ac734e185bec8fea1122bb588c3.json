@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "cannot accurately predict future prices",
+    "depending on circumstances",
+    "at any one time may not be economically feasible",
+    "management judgment and assumptions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including commodity-price changes, production volumes, capital expenditures, liquidity sources, and hedging impacts. Risk exposure is material from commodity-price volatility, reserve economics, capital needs, and reliance on credit availability, although management presents a generally confident liquidity and strategy outlook. Some uncertainty is addressed through broad caveats and forward-looking disclaimers, and the excerpt is truncated in places."
+}

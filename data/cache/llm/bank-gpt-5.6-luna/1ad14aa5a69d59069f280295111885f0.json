@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict when it will be able to generate any revenue",
+    "any or all of these financing vehicles or others may be utilized",
+    "settlement ... in the best interests of its shareholders",
+    "customary exceptions",
+    "fair value ... based on available market data using appropriate valuation models"
+  ],
+  "risk_summary": "The company is pre-revenue, loss-making, dependent on external financing, and exposed to clinical-development and regulatory uncertainty. The $12 million litigation settlement, asset pledges, debt-payment obligations, financing restrictions, and potentially dilutive securities indicate substantial liquidity, legal, and capital-structure risk. Disclosure is numerically detailed but technically complex and includes forward-looking uncertainty regarding revenue generation and funding."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurances can be given",
+    "actual results may differ materially",
+    "other factors beyond our control",
+    "non-GAAP measures and limitations"
+  ],
+  "risk_summary": "The disclosure provides useful quantified liquidity and working-capital data, but relies substantially on standard forward-looking disclaimers and broad, unquantified risk factors. Management expresses moderate confidence in funding operations and debt obligations for the next 12 months, while noting dependence on cash-flow growth and potential inflation-related demand pressure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involving risks and uncertainties",
+    "could differ materially",
+    "unable to determine or predict the full nature, duration or scope",
+    "no assurance",
+    "subject to certain adjustments"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides useful segment, revenue, margin, and transaction information, supporting a moderately confident assessment. Risk tone is cautiously positive, but standard forward-looking disclaimers, uncertainty around COVID-19 effects, transaction adjustments, customer demand, and sustainability of margins introduce meaningful uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.75,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results are likely to differ materially",
+    "undertakes no obligation to update",
+    "subjective and complex judgments",
+    "not meaningful (NM)"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate supplemented by detailed descriptions of business drivers, divestitures, investment risks, and accounting estimates. It highlights material uncertainty from market movements, underwriting outcomes, credit and interest-rate risk, and judgment-sensitive reserves, but does not convey an acute crisis tone."
+}

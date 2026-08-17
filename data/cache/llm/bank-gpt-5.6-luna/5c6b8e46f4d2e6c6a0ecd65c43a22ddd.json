@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unable to accurately predict full impact",
+    "numerous uncertainties",
+    "could disrupt ... for an indefinite period",
+    "significant judgment required",
+    "may use information such as"
+  ],
+  "risk_summary": "The disclosure is generally transparent and includes specific amounts, timing, product categories, and quantified COVID-19 and acquisition effects. Risk is framed as manageable, but uncertainty remains around pandemic impacts, delivery timing, revenue recognition judgments, and estimated standalone selling prices."
+}

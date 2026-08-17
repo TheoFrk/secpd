@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "inherently subjective",
+    "as necessary",
+    "if necessary",
+    "varying interpretations"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting loan, deposit, earnings, capital, liquidity, and acquisition metrics. Key risk disclosures rely on standard management-estimate caveats, particularly for loan-loss allowances, taxes, and contingency funding. Overall tone is stable and confident, with no indication of an immediate crisis, although banking exposure to credit, interest-rate, and liquidity risks remains material."
+}

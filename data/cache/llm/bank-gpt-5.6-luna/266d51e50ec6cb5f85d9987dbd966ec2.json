@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "actual results could be materially different",
+    "under adversely different conditions",
+    "more-likely-than-not",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily standardized and legalistic, relying on broad forward-looking disclaimers and qualitative assumptions around credit losses and goodwill impairment. It provides some quantified operating data, but the excerpt emphasizes conditional risks without fully quantifying potential downside, particularly from credit deterioration, interest-rate changes, COVID-19, and valuation assumptions."
+}

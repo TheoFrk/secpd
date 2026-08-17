@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be reasonably or reliably projected",
+    "no assurances can be made",
+    "may need additional rent deferrals",
+    "material adverse effect",
+    "continually evolving pandemic"
+  ],
+  "risk_summary": "The disclosure is substantially quantified regarding portfolio composition, rent deferrals, liquidity, and tenant exposure, but relies on forward-looking qualifiers around future concessions, occupancy, tenant performance, and funding access. Risk tone is moderately negative due to pandemic-driven occupancy pressure, rising costs, lease modifications, and potential rent shortfalls, partially offset by stated liquidity and credit enhancements."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently imprecise estimates",
+    "assuming other variables remain substantially unchanged",
+    "subject to anti-dilution adjustments",
+    "may expand holdings or operations",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes material quantified information, including preferred-stock terms and an expected $3.0–$4.0 million impairment charge. Risk is elevated by commodity-price sensitivity, reserve-estimation uncertainty, full-cost ceiling impairment exposure, debt management concerns, and reliance on non-operating partners, although the tone is primarily factual rather than crisis-like."
+}

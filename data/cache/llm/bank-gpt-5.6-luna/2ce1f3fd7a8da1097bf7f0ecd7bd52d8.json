@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "variety of factors",
+    "estimated undiscounted future cash flows",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is largely factual and includes meaningful quantitative detail on segment mix, seasonality, equity investments, and supply-chain impacts. Risk tone is mildly negative due to COVID-19-related disruptions, freight and input-cost inflation, container shortages, and shipping delays, while the extensive forward-looking disclaimer is largely boilerplate. The excerpt is structurally complex and incomplete, limiting assessment of the full operational and financial risk picture."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future investments and cost cannot be predicted",
+    "may be at a higher interest rate",
+    "source of such funding has not yet been determined",
+    "not commenced foreclosure proceedings",
+    "generally available to meet liquidity needs"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides detailed liquidity, debt maturity, investment exposure, and impairment information. However, it identifies significant risks, including below-investment-grade ratings, restricted or pledged liquidity, uncertain access to credit markets, substantial future funding needs, and a real estate subsidiary loan in default. The overall tone is materially risk-aware and negative, despite reported available liquidity and asset appreciation."
+}

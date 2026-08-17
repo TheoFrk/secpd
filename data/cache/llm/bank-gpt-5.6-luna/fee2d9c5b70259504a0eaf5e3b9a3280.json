@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "general corporate purposes",
+    "highly relevant technical competencies",
+    "non-GAAP adjusted measures",
+    "contract value dependent on commitments"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and transparent regarding revenue growth, acquisition financing, cash usage, and contract funding, but includes promotional language and standard forward-looking caveats. Key credit risks include substantial operating cash burn, acquisition-related investment, dependence on government commitments, and reliance on non-GAAP performance measures."
+}

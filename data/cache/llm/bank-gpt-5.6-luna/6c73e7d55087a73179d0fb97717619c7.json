@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Certain Items adjustments",
+    "non-GAAP adjusted measures",
+    "discussion omitted from this Form 10-K",
+    "approximately/about market share",
+    "not normalized for full COVID-19 impact"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent about reported versus adjusted results, but extensive non-GAAP adjustments and omitted prior-year discussion complicate comparability. The tone is cautiously positive regarding recovery, profitability, and debt reduction, while COVID-19 effects, market uncertainty, and normalization limitations remain material risks."
+}

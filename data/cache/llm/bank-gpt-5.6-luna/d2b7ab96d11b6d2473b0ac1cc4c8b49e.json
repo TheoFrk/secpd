@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "reasonable under the circumstances",
+    "timing is uncertain",
+    "maximum potential amount is unlimited",
+    "subject to management estimates"
+  ],
+  "risk_summary": "The excerpt presents generally stable operating performance and a confident strategic outlook, but fiscal 2016 revenue and billable hours were weak and underlying earnings declined excluding a tax benefit. Key disclosures rely on management estimates for revenue recognition, contract losses, collectability, and indemnification exposure, with some uncertainty around tax liabilities and potentially unlimited indemnification obligations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks are not exhaustive",
+    "not possible to predict all such risk factors",
+    "not possible to assess the effect",
+    "excluded items are unpredictable",
+    "disclaim any obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive legal safe-h harbor and cross-reference language that limits specificity and emphasizes uncertainty, particularly around interest rates, market conditions, litigation, and actuarial assumptions. It provides some quantified information, such as the $17.8 billion increase in account values, but much of the discussion is technical, heavily qualified, and relies on non-GAAP segment measures and assumptions."
+}

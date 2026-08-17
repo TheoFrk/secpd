@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "believe has the potential to disrupt",
+    "may fluctuate in future quarters",
+    "based upon information presently available",
+    "Actual results may differ significantly",
+    "not provided historical costs by project"
+  ],
+  "risk_summary": "The excerpt is generally confident and growth-oriented, emphasizing market leadership, product advantages, acquisitions, and expanding applications. However, it contains substantial promotional and boilerplate language, while key estimates and future outcomes are qualified through assumptions, uncertainty, and limited program-level expense disclosure. Quantified acquisition and margin information improves transparency, but the truncated context limits assessment of broader financial risks."
+}

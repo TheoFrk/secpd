@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "current new normal",
+    "largely due to",
+    "primarily due to",
+    "partially offset by",
+    "economic forecasts and loan portfolio characteristics"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and transparent, reporting earnings, credit-loss provisions, capital ratios, liquidity-related deposit growth, and portfolio metrics. Risk tone is moderately cautious due to COVID-19 volatility, near-zero rates, margin compression, and materially higher expected credit-loss provisions, although strong revenue, deposits, capital, and government-guaranteed PPP lending provide offsets."
+}

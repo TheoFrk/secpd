@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally 80% or less",
+    "may be subject to adverse conditions",
+    "attempts to maintain net interest margin",
+    "inherent risk of lending",
+    "truncated discussion"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative information and detailed lending governance, approval limits, funding sources, and credit-risk controls. However, several risk statements rely on qualified language and broad descriptions rather than portfolio-level loss, concentration, delinquency, or stress metrics, and the excerpt is visibly truncated. Overall, the tone is operationally confident but acknowledges meaningful commercial real estate, economic, interest-rate, and funding risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "not limited to",
+    "undue reliance",
+    "acceptable level"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standardized forward-looking disclaimers, glossary material, and repeated filing headers, limiting its direct assessment of current risks. The available operating discussion is relatively confident and includes some quantitative detail, but relies on broad qualifiers regarding interest-rate exposure and balance-sheet management."
+}

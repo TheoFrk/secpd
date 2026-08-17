@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measure excluding selected items",
+    "under certain circumstances",
+    "various operating leases and purchase obligations",
+    "expected to grow",
+    "missing table content"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including client declines, retention, investment returns, credit facilities, letters of credit, and commitments. Risk is elevated by recessionary conditions, declining clients and transaction volumes, low interest rates, and litigation-reserve adjustments, but management presents modest improvement and adequate liquidity. The non-GAAP presentation and omitted table artifacts modestly reduce comparability and completeness."
+}

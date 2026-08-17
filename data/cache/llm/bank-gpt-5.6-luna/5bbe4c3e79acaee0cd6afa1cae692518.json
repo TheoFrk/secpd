@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "including without limitation",
+    "subject to significant change",
+    "inherently subjective",
+    "no material substantive changes"
+  ],
+  "risk_summary": "The excerpt contains substantial standard legal and accounting-estimate language, with extensive caveats around credit losses, impairment, economic conditions, and regulatory risks. Quantitative disclosures and detailed methodology reduce overall evasiveness, although the allowance methodology remains materially judgment-based and potentially volatile."
+}

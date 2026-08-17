@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "expects improvement in sales",
+    "various factors and other risks",
+    "insufficient sales volumes",
+    "continued operating losses"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but includes substantial boilerplate forward-looking language and relies on unverified expectations for housing-market recovery and product acceptance. Credit risk is elevated due to recurring net losses, declining working capital, increased borrowing costs, inventory and receivables growth, reliance on factoring, and significant losses from the Hong Kong Joint Venture."
+}

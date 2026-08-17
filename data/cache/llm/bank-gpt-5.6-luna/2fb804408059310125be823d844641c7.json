@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and associated risks",
+    "subject to risks, uncertainties, and other factors",
+    "inherently subjective",
+    "susceptible to significant change",
+    "judgmentally adjusted for economic factors"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, reporting earnings, revenue changes, and loan-loss provisions with year-over-year comparisons. Credit risk estimation is appropriately identified as subjective and dependent on economic conditions, collateral values, borrower information, and management judgment, with some reliance on boilerplate forward-looking disclaimers. Overall tone is positive, reflecting record earnings and strong asset quality, but the excerpt is truncated and leaves some valuation and loss-estimation details incomplete."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "duplicated forward-looking disclaimer",
+    "believe sufficient liquidity",
+    "estimate ... is adequate",
+    "long-term success",
+    "cost-reduction initiatives"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains year-over-year drivers, but includes repeated boilerplate and some unsupported assurances regarding liquidity, reserves, and future success. Risk tone is mildly negative due to declining sales, persistent losses, reduced cash, increased borrowings, and acquisition-related cash uses, despite reported operating cash flow and management’s improvement narrative."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may require additional debt or equity capital",
+    "subject to factors beyond our control",
+    "unable to generate sufficient cash flow",
+    "pending final approval"
+  ],
+  "risk_summary": "The disclosure includes meaningful quantified items, but relies heavily on standard forward-looking disclaimers and conditional language regarding liquidity and future performance. Key risks include declining demand for MDM services, potential product defects, customer concentration or loss, a $2.4 million pending settlement, and possible need for additional financing. Overall tone is cautiously negative due to market weakness and dependence on sufficient cash flow and capital access."
+}

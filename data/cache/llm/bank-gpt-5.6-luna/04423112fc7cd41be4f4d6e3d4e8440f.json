@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "may not materialize as expected",
+    "inability to meaningfully quantify demand"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative with strong sales growth and improved profitability, supported by several quantitative metrics. However, extensive boilerplate disclaimers and a broad catalog of contingencies obscure the relative magnitude and probability of risks, including debt servicing, covenants, demand volatility, litigation, supply constraints, and execution challenges."
+}

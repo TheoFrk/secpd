@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "adjusted diluted EPS excluding certain items",
+    "constant-currency growth measures",
+    "results were in line with expectations",
+    "operating environment remains uncertain",
+    "strategic decision to redirect resources"
+  ],
+  "risk_summary": "The disclosure is relatively precise and highly quantified, but emphasizes adjusted and constant-currency metrics that soften reported declines. Credit risk is elevated by a 33% drop in net earnings, a 30% EPS decline, significant restructuring and impairment charges, foreign-exchange exposure, and weakness in U.S. Retail. Management maintains a generally constructive long-term tone despite acknowledging uncertain markets and ongoing cost pressures."
+}

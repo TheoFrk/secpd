@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "estimates and assumptions",
+    "subjectivity and complex nature",
+    "customer concentration"
+  ],
+  "risk_summary": "The excerpt provides useful quantified information on revenue growth, market mix, and customer concentration, but relies substantially on standard forward-looking and accounting-estimate disclaimers. Key risks include dependence on military and aerospace demand, two customers representing 26.2% of sales, inventory and tax-estimate uncertainty, and margin pressure from excess industry capacity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "cannot guarantee future results",
+    "does not intend to update",
+    "complex ownership structure"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and complex subsidiary, fund, lease, and joint-venture structures that increase interpretive burden. It provides substantial historical and transaction-level detail, but the excerpt is truncated and does not quantify current liquidity, performance deterioration, or specific contingent risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results may differ",
+    "estimates of future usage-based fees",
+    "significant estimation uncertainty",
+    "unable to reasonably estimate timing or amount"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, highlighting strong revenue, recurring-revenue, profitability, and retention growth. Key risks include substantial $1.9 billion debt, lower operating cash flow, usage-based revenue estimation variability, uncertain tax obligations, and material accounting judgment. The overall tone is confident but moderated by standard forward-looking and estimation caveats."
+}

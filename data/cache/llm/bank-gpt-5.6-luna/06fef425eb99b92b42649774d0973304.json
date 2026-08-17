@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurances as to future levels",
+    "may be affected and vary",
+    "expected to remain flat or decline",
+    "valuation allowances and recent operating losses"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative comparisons and identifies key operational sensitivities, but relies on standard forward-looking disclaimers and conditional language for outlook statements. Risk tone is moderately negative due to commodity-price dependence, turnkey-contract exposure, recent senior-management terminations, operating losses, and potential inability to realize tax benefits, although improved utilization, margins, and cost controls are presented as mitigating factors."
+}

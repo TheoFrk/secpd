@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "intended to assist the reader",
+    "due primarily to",
+    "reflecting an increase",
+    "economic crisis",
+    "subject to post-closing adjustment"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with limited evasive or hedged language. It indicates modest operating pressure through slightly lower consolidated sales, market-specific declines, and substantial operating cash use driven by taxes and working-capital changes, although margins improved and liquidity activity is clearly disclosed."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "numerous evolving factors",
+    "may not be able to predict",
+    "other factors included in Risk Factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting strong revenue, earnings, cash flow, and liquidity metrics. However, COVID-19 introduces material uncertainty around engagement normalization, product delivery, consumer demand, sports seasons, partners, and foreign exchange, with several impacts explicitly difficult to predict. Reliance on live services and Ultimate Team revenue is a notable concentration and business-model risk."
+}

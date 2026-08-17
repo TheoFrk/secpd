@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "non-GAAP financial measures",
+    "estimated gain at closing",
+    "assumed tail risk insufficient"
+  ],
+  "risk_summary": "The disclosure is generally data-rich and specific, but includes standard forward-looking disclaimers and emphasizes non-GAAP measures. Key risk signals include adverse reserve development, insufficient tail-risk assumptions, underwriting deterioration, currency losses, energy-exposed investment losses, and transaction-dependent gains. Overall tone is cautiously positive due to improved adjusted book value and profitability, offset by material insurance and investment risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "may impact future results",
+    "timing and amount determined by management",
+    "currently evaluating the extent of the impact",
+    "leading/premier platform claims"
+  ],
+  "risk_summary": "The disclosure is generally specific, with quantified acquisitions, repurchases, dividends, foreign-currency exposure, and liquidity expectations. Risk is moderated but includes declining revenue, material international currency exposure, acquisition and capital-allocation commitments, shareholder activism, and unresolved tax effects. Boilerplate forward-looking language and promotional product descriptions modestly reduce transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "long-term growth objectives",
+    "expected to",
+    "constant currency",
+    "return to pre-acquisition credit profile"
+  ],
+  "risk_summary": "The disclosure is generally detailed and highly quantified, with clear discussion of acquisition financing, operating performance, cash flow, and 2018 expectations. Risk tone is moderately positive, but increased indebtedness, acquisition-related costs, currency effects, material-cost inflation, and reliance on adjusted metrics introduce meaningful credit risks."
+}

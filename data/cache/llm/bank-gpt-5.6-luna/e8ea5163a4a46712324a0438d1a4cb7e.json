@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "risks and uncertainties",
+    "no obligation to update",
+    "one-time tax benefit",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent on revenue, earnings, margins, charges, tax effects, and segment drivers, but relies substantially on standard forward-looking disclaimers and non-GAAP adjustments. Reported earnings benefited materially from a large tax valuation allowance reversal, while discontinued operations, market weakness, and challenging sterndrive conditions indicate underlying risks. The 2014 outlook is cautiously positive but dependent on economic recovery, new products, and successful cost and investment initiatives."
+}

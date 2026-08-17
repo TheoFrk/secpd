@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "repeated section headers",
+    "critical policies listed without discussion",
+    "incomplete disclosure",
+    "accounts receivable factoring",
+    "deferred assessment payments"
+  ],
+  "risk_summary": "The excerpt contains material liquidity and payment obligations, including receivables factoring, secured borrowing, and a substantial deferred assessment balance. Disclosure quality is weakened by extensive repeated headers, fragmented text, and critical accounting policies that are listed but not explained."
+}

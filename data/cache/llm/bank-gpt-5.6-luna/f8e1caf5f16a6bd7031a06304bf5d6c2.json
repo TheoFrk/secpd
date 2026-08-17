@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "significant items impacting comparability",
+    "adjusted operating profit",
+    "not considered material",
+    "potential adverse impacts"
+  ],
+  "risk_summary": "The excerpt is generally transparent and heavily quantified, including segment changes, divestiture proceeds, restructuring costs, pension mark-to-market charges, and other adjustments. Risk is moderated by substantial one-time charges, foreign-currency exposure, Brexit uncertainty, pension liabilities, and reliance on non-GAAP measures that may reduce comparability. Overall tone is operationally confident but selectively emphasizes adjusted performance."
+}

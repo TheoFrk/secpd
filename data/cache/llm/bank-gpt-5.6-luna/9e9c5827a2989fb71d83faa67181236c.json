@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.57,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "unclear when additional revenues may be generated",
+    "significant legal expenses",
+    "may need capital contributions",
+    "highly unlikely additional financing"
+  ],
+  "risk_summary": "The disclosure identifies substantial liquidity and funding risks tied to declining licensing revenues, ongoing litigation costs, and potential capital contributions to PDS. Reliance on uncertain future licensing agreements and the statement that additional financing is highly unlikely indicate elevated going-concern and cash-flow risk, despite some quantified balances and timelines."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ",
+    "management estimates and assumptions",
+    "unexpected changes in market conditions",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is technically detailed on revenue recognition, inventory valuation, impairment testing, and tax positions, but relies substantially on standard forward-looking disclaimers and management estimates. Key risks include construction cost overruns, inventory impairment, changing market conditions, valuation allowances, and uncertainty in mortgage-related guarantees."
+}

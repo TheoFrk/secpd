@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference instead of disclosure",
+    "see information contained under",
+    "no substantive discussion",
+    "boilerplate filing language"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and merely redirects the reader to another section. This limits standalone transparency and requires reviewing the referenced material to assess credit risk."
+}

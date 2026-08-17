@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.28,
+  "risk_sentiment": -0.08,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "duplicated wording"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A analysis and redirects readers to another filing exhibit. This limits transparency in the excerpt and requires review of the incorporated annual report for liquidity, results, and risk information."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective estimates and approximations",
+    "actual results could differ",
+    "when the opportunity arises",
+    "experts in this field",
+    "future known or anticipated events"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including liquidity, receivables aging, investment losses, and operating results. Risk is elevated by COVID-19-related payment delays, a substantial marketable-securities loss, reliance on investment income, and a 41.5% decline in net income. Some accounting estimates, related-party arrangements, and informal explanations introduce moderate judgment and transparency concerns."
+}

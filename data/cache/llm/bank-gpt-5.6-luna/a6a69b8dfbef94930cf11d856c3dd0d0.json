@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.52,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "significant annualized savings",
+    "expected to drive",
+    "non-GAAP adjustments",
+    "portfolio rationalization"
+  ],
+  "risk_summary": "The excerpt presents a broadly confident, growth-oriented outlook supported by quantified sales, geographic, acquisition, and capital project information. However, reliance on forward-looking expectations, broad claims about savings and resilience, and extensive non-GAAP adjustments introduce uncertainty and may make underlying performance less transparent."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "many risks beyond the Company’s control",
+    "cannot guarantee future performance",
+    "does not undertake obligation to update",
+    "future performance will depend on many factors"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results and loan growth with extensive boilerplate forward-looking disclaimers and a broad list of potential adverse factors. Risk exposure is meaningful, particularly from credit quality, deposit outflows, interest-rate volatility, funding costs, regulation, cybersecurity, acquisitions, and market conditions, although management presents a modestly positive tone based on record net income."
+}

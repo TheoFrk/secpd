@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "factors beyond our control",
+    "may materially adversely affect",
+    "anticipates raising additional capital"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but includes extensive standard forward-looking disclaimers and broad, non-specific risk-factor language. Operating performance weakened, with declining sales, higher cost ratios, a larger net loss, increased operating cash burn, and reduced cash balances. Continued reliance on equity financing to fund operations and research creates meaningful liquidity and dilution risk."
+}

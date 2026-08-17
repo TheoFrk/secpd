@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "no assurance ... successful",
+    "legal challenges may continue",
+    "subject to various conditions",
+    "expected additional ... thereafter"
+  ],
+  "risk_summary": "The excerpt provides substantial regulatory, legal, debt, and operating detail, but relies on forward-looking expectations and conditional language around customer growth, licensing, MATS stability, and debt repayment. Business performance is exposed to fluctuating plant utilization and unresolved regulatory and financing outcomes, producing a balanced but materially cautious risk tone."
+}

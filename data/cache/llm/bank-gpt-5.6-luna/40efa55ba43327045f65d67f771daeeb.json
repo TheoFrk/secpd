@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "ultimate financial impact cannot be reasonably estimated",
+    "does not expect a material impact",
+    "may require access to capital markets",
+    "where possible",
+    "periodically looks at transactions"
+  ],
+  "risk_summary": "The excerpt combines extensive business-description boilerplate with some quantified debt, dividend, and operating information. COVID-19 effects, acquisition funding needs, and future demand remain materially uncertain, while management generally uses reassuring language and materiality qualifiers to frame risks."
+}

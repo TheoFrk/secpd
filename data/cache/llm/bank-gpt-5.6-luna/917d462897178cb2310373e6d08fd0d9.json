@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor boilerplate",
+    "no obligation to update",
+    "subject to customary due diligence and other conditions",
+    "ability to continue as a going concern",
+    "license termination notice"
+  ],
+  "risk_summary": "The excerpt describes a development-stage biotechnology company with limited operating history, recurring losses, reliance on convertible debt and other financing, and an apparent going-concern risk. The termination notice from CWRU and the contingent, equity-funded Oncotelic transaction add material execution and strategic uncertainty. Cash-flow disclosures are relatively quantified, but extensive legal boilerplate and the truncated discussion limit assessment of liquidity and transaction outcomes."
+}

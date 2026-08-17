@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to further rulemaking",
+    "difficult to anticipate potential impact",
+    "estimates, assumptions, and judgments",
+    "could result in a material change",
+    "subtle impacts not yet capable of precise quantification"
+  ],
+  "risk_summary": "The disclosure presents a generally positive performance narrative with quantified earnings, balance-sheet metrics, and a specific estimated $6–8 million annual interchange-fee impact. However, substantial discussion of economic uncertainty, subjective loan-loss estimates, regulatory effects, and potentially material changes indicates meaningful credit and earnings risk. The dense accounting and regulatory language may limit transparency around downside sensitivity."
+}

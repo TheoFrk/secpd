@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.28,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A provided",
+    "duplicated wording",
+    "cross-reference to external exhibit"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial condition or results discussion, instead deferring the required MD&A to an incorporated annual report exhibit. This limits transparency in the excerpt and requires review of the referenced document to assess risks."
+}

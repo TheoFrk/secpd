@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.7,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "substantial doubts about going concern",
+    "cannot assure capital access",
+    "dilution of existing stockholders",
+    "accruing interest expense"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, highlighting substantial accumulated losses, a going-concern qualification, significant accrued interest, near-term debt maturities, and dependence on additional financing. Although revenue and operating cash flow improved in 2020, liquidity remains fragile and management cannot assure access to needed capital. Quantitative disclosures are relatively detailed, but standard forward-looking disclaimers and generalized financing plans introduce some vagueness."
+}

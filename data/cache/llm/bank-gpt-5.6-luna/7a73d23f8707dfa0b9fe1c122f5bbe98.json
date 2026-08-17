@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "assumptions, risks, and uncertainties",
+    "not necessarily indicative of future results",
+    "does not undertake to update",
+    "unrealized gains on investments"
+  ],
+  "risk_summary": "The excerpt presents improving earnings, loan growth, capital, and fee income with substantial quantitative support, producing a generally positive risk tone. Disclosure is diluted by extensive boilerplate disclaimers, strategic aspirations, and some reliance on favorable or unrealized items, while the excerpt truncation limits assessment of downside risks."
+}

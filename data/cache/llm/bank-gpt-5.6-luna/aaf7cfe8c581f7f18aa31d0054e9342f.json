@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "highly dependent on",
+    "immaterial acquisition",
+    "long-term value differentiation",
+    "attractive, effective and more environmentally responsible"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and promotional, with some quantified acquisition, capital expenditure, and cash-flow information but limited discussion of downside scenarios or sensitivity analysis. Repeated segment descriptions and broad claims about technology, market position, and product benefits contribute to moderate boilerplate and complexity. Financing activity indicates meaningful secured debt refinancing, but the excerpt does not provide enough detail to assess leverage or covenant risk."
+}

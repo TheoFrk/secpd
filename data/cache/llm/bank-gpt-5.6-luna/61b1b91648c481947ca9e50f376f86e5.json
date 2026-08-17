@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt regarding ability to continue as a going concern",
+    "no assurance additional capital will be available",
+    "best estimate of selling price",
+    "actual results may differ",
+    "numerous factors affecting capital access"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, highlighting substantial recurring losses, dependence on external financing, and explicit substantial doubt about going-concern status. Revenue concentration is extreme, with Sony accounting for 91% of 2016 revenue, while commercialization and future capital access remain uncertain. The accounting discussion is detailed but highly technical and includes significant estimation uncertainty, particularly for multi-element arrangements and percentage-of-completion contracts."
+}

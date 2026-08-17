@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "too early to determine",
+    "actual amounts and results could differ materially",
+    "significant judgments",
+    "subject to government action"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, reporting revenue, earnings, cash flow, client concentration characteristics, bank-failure exposure, and liquidity resources. Risk is acknowledged around financial-sector weakness, client losses, regulation, contract termination variability, and goodwill valuation, but the overall tone remains confident and opportunity-focused. Accounting estimates and forward-looking statements introduce moderate uncertainty, while the truncated text limits assessment of the full disclosure."
+}

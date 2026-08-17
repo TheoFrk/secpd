@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "non-GAAP comparability limitations",
+    "management believes",
+    "significant assumptions and estimates",
+    "related-party ownership disclosures"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting revenue, channel performance, seasonality, related-party relationships, and impairment-test headroom. Risk is moderate because retail revenue declined sharply, results are seasonally concentrated, and valuation conclusions depend on forecasted cash flows, royalty rates, discount rates, and other assumptions. Boilerplate cautionary language and non-GAAP limitations modestly reduce clarity but do not appear unusually evasive."
+}

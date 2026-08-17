@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "as needed",
+    "generally reflect",
+    "expected to continue"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, but uses long enumerations and recurring COVID-19 workforce disclosures. Risk tone is moderately negative due to declining mortgage originations, reduced secondary gains, investment losses, higher rates, and lower profitability, although the discussion remains factual rather than crisis-oriented."
+}

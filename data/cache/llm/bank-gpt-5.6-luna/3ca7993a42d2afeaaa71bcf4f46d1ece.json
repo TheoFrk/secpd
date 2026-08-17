@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.04,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we believe",
+    "likely continue to generate",
+    "approximately",
+    "somewhat stable",
+    "opportunistic in identifying undervalued assets"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful operating metrics, market shares, asset counts, dates, and transaction values. However, it relies substantially on management expectations and qualitative assurances regarding cash-flow consistency, recovery timing, asset values, and recession resistance, while acknowledging competitive pressure, market downturns, and exposure to changing distribution technology."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "boilerplate management objectives",
+    "future events cannot be determined with certainty",
+    "believe banks will provide necessary capital",
+    "truncated critical accounting section",
+    "inconsistent financial figures"
+  ],
+  "risk_summary": "The disclosure is generally quantitative but contains notable inconsistencies, including conflicting net income and cash-flow figures, and a truncated critical accounting policies section. Risk is elevated by declining revenue and profitability, rising general and administrative costs, demand repayment terms on the $5.0 million credit line, and reliance on continued bank support. Management acknowledges inflation and potential labor, fuel, and interest-rate pressures that may reduce future income."
+}

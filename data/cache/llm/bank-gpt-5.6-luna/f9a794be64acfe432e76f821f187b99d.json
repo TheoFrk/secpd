@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "management estimates and assumptions",
+    "judgment required for revenue allocation",
+    "forecasted demand and technological obsolescence"
+  ],
+  "risk_summary": "The excerpt is detailed and generally transparent about accounting policies, estimation uncertainty, and specific drivers of potential earnings impacts. Key risks include revenue-recognition timing, inventory obsolescence, warranty costs, customer credit losses, and dependence on forecast assumptions, although much of the introductory language is standard boilerplate."
+}

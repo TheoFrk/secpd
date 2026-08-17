@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may differ materially",
+    "not obligated to update",
+    "continued growth expectations",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating narrative supported by detailed revenue, margin, acquisition, and divestiture figures. Risk disclosure is largely standard forward-looking-statement boilerplate, while declining life sciences research sales, margin pressure, acquisition effects, and healthcare cost sensitivity remain relevant concerns."
+}

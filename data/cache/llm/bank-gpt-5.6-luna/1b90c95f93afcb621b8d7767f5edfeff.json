@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strong demand across our product portfolio",
+    "long-term outlook is influenced by",
+    "risks to doing business in foreign countries",
+    "typically have lower margins initially",
+    "when significant to the results"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including revenue growth, government exposure, contract values, backlog, and cash-flow data. Risk tone is moderately positive but acknowledges dependence on U.S. defense spending, foreign-market uncertainty, contract mix, and lower margins during new-program transitions. Extensive accounting and contract terminology increases complexity, while some outlook statements rely on broad qualitative assertions."
+}

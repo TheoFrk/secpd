@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "mainly and primarily",
+    "we believe",
+    "unable to predict",
+    "partially offset",
+    "broader de-risking strategy"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, highlighting stronger sales, margins, operating cash flow, and liquidity. Risks include weak Casegoods performance, restructuring-related write-downs, reliance on favorable operating trends, and uncertainty regarding future CDSOA distributions. Overall tone is moderately positive but includes routine qualifiers and some truncated context."
+}

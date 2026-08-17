@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "non-GAAP performance measures",
+    "we believe",
+    "we anticipate",
+    "uncertainty of sustainability"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive operating outlook, supported by quantified geographic, segment, and insurance-rate data. Risk disclosure is substantial but relies on standard forward-looking disclaimers, adjusted metrics, and qualitative language around economic uncertainty, market cycles, acquisition growth, and clean-energy investments."
+}

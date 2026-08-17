@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.72,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no obligation to update",
+    "VIE contractual arrangements",
+    "significant G&A expense increase",
+    "dense subsidiary definitions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail, but extensive boilerplate disclaimers and complex VIE and subsidiary structures reduce transparency. Risk tone is materially negative, with a sharp swing to a $136.8 million net loss, a 1,279.9% decline, major general and administrative expense increases, and high customer and geographic concentration. The truncated disclosure and inconsistent numbering further impair clarity."
+}

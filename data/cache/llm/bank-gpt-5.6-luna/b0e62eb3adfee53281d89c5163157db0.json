@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "timing of future cash outflows is uncertain",
+    "approximately",
+    "subject to market conditions",
+    "slight core sales decline",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies significant asbestos, environmental, restructuring, and operational risks. However, large long-term liabilities are excluded from contractual cash-flow tables because their timing is uncertain, while the outlook relies on acquisition benefits and assumed improvement after one-time provisions."
+}

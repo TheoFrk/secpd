@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could differ materially",
+    "assumes no obligation to update",
+    "estimated per-share impact",
+    "long list of risk factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenues, earnings, fleet capacity, utilization, contract mix, rate increases, acquisitions, and estimated weather impacts. Risk disclosure is substantially boilerplate in the forward-looking disclaimer and includes exposure to economic, weather, regulatory, competitive, fuel, interest-rate, and acquisition risks. Overall tone is moderately confident because operating demand, utilization, and pricing trends were reported as strong, despite identifiable weather and integration-related headwinds."
+}

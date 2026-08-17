@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.35,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may be significant",
+    "gross basis not updated",
+    "excluding client terminations",
+    "subject to customary approvals"
+  ],
+  "risk_summary": "The excerpt reports strong 2024 performance with substantial quantified improvements in revenue, EPS, margins, and operating leverage. However, it relies on standard forward-looking disclaimers and presents future servicing assets on a gross, non-updated basis that excludes known or potential reductions and terminations, creating some risk of optimistic framing."
+}

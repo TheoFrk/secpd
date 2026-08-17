@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict material outcomes",
+    "inherent uncertainties and unascertainable damages",
+    "early stages of proceedings",
+    "may result in adverse judgments",
+    "foreseeable cash requirements"
+  ],
+  "risk_summary": "The excerpt is largely standard, structured MD&A disclosure with meaningful quantitative detail on revenue changes and geographic performance. Risk is elevated by the MOVEit vulnerability, involving customer claims, government investigations, litigation, and potentially material but currently unquantifiable losses. Management provides liquidity assurance but uses substantial uncertainty language regarding cyber-related exposures and future acquisitions."
+}

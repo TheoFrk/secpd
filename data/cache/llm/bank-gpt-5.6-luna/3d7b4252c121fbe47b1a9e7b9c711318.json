@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "subject to investment market fluctuations",
+    "estimates could change",
+    "financial position could limit investments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, liquidity, capital expenditure, impairment, and debt information, but includes standard forward-looking disclaimers and estimate-dependent accounting language. Risk tone is moderately cautious due to client and industry concentration, biotech funding dependence, capital intensity, declining operating income, goodwill impairment, and secured debt obligations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty exists",
+    "no assurance",
+    "unable to determine or predict",
+    "expected to increase",
+    "may take further actions"
+  ],
+  "risk_summary": "The disclosure identifies meaningful risks from COVID-19, customer concentration, declining sales, intellectual-property costs, and a $4.3 million customer-related reserve, while providing substantial quantitative detail. Management maintains a generally reassuring liquidity and continuity outlook, but relies on uncertain forecasts and repeated forward-looking caveats regarding recovery and sales growth."
+}

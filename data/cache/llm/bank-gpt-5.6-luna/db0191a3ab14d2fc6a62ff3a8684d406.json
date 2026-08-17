@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to substantial risks and uncertainties",
+    "no assurance of consistent profitability",
+    "future liquidity and capital requirements",
+    "believes has the potential",
+    "actual results could differ from estimates"
+  ],
+  "risk_summary": "The disclosure is materially negative on liquidity and credit risk, explicitly stating substantial doubt about the company’s ability to continue as a going concern and a need for additional capital. It provides useful quantified cash balances, operating cash burn, debt obligations, and capital commitments, but is highly technical and includes some repetition, forward-looking uncertainty, and reliance on estimates."
+}

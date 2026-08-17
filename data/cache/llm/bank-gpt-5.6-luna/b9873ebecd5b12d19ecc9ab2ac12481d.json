@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "estimates of acquisition-date fair values",
+    "not comparable to previously reported",
+    "vary from time to time",
+    "we expect these efforts"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, acquisition, subscriber, revenue-mix, and tax information, but relies on standard forward-looking language and complex successor/predecessor accounting that limits comparability. Key risks include $9.369 billion of goodwill, affiliate cash-management dependence, declining legacy services, competitive broadband pressures, and unresolved collective-bargaining agreements."
+}

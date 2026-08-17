@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "estimates, judgments, and assumptions",
+    "no assurance of future financing",
+    "material adverse effect",
+    "gain on debt extinguishment",
+    "liquidity risk assessed as high"
+  ],
+  "risk_summary": "The disclosure is highly quantified but indicates significant financial risk, including dependence on approximately $6.5 million of funding, high liquidity risk, convertible debt activity, tax compliance exposure, and prior operating losses. Reported profitability is materially influenced by a $12.7 million debt-extinguishment gain rather than recurring operations."
+}

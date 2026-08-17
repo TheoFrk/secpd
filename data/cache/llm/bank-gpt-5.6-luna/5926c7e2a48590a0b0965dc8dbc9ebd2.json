@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.38,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive disclosure",
+    "external document reliance",
+    "boilerplate legal language"
+  ],
+  "risk_summary": "The excerpt provides no substantive discussion of financial condition, results, liquidity, or risks, instead relying entirely on an incorporated external report. This materially limits transparency and prevents assessment of operating and credit risk from the excerpt alone."
+}

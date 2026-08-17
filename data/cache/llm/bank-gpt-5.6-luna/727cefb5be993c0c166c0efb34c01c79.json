@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we intend to",
+    "subject to market conditions",
+    "beyond our control",
+    "no assurance"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on operating scale, liquidity, debt capacity, cash flow, covenants, and capital allocation, supporting relatively strong disclosure quality. Risk tone is generally confident, but reliance on future operating cash flows, debt capacity, favorable market conditions, acquisitions, and trust or insurance-funded arrangements creates execution, liquidity, regulatory, and interest-rate exposure."
+}

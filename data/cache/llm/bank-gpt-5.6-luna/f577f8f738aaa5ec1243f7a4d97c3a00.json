@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "well-positioned to respond",
+    "inherent uncertainty going forward",
+    "cannot predict the duration or scope",
+    "if necessary"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on sales, cash flow, currency effects, debt payments, and inflation impacts, but relies on optimistic positioning and forward-looking beliefs regarding growth and borrowing capacity. Key risks include commodity and transportation inflation, foreign exchange volatility, COVID-19 disruptions, demand sensitivity to price increases, and working-capital-driven cash flow deterioration."
+}

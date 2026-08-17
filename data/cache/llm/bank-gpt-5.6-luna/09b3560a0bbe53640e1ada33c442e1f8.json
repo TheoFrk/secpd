@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "sustainable and consistent earnings growth",
+    "limiting exposure to credit and interest rate risk",
+    "market disruption positively impacted growth",
+    "competitive local interest rate market",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with extensive year-over-year rate, volume, balance, and income data. Risk tone is mildly positive, although profitability declined in 2017 and the discussion notes prolonged low rates, competitive pricing, and sensitivity to tax and interest-rate changes. Some boilerplate strategy language and an incomplete/truncated presentation modestly reduce clarity."
+}

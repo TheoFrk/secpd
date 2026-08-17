@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "in an effort to",
+    "we expect",
+    "prudent deployment",
+    "significantly improved"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial operating and financial detail, reducing disclosure vagueness. The tone is strongly positive and strategy-oriented, but material risks include pension underfunding, labor negotiations, fuel-hedge volatility, foreign-exchange and emerging-market exposure, and reliance on projected cash flows and transaction approvals."
+}

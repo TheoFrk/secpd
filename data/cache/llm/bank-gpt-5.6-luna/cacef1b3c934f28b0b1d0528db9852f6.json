@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects sequential improvement",
+    "plans to mitigate these challenges",
+    "adjusted non-GAAP measures",
+    "competitive landscape and industry trends",
+    "special circumstances"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but presents an optimistic forward-looking narrative despite declining Retail sales, margin compression, operational issues, product recalls, and labor-market constraints. Extensive use of adjusted non-GAAP measures and broad mitigation plans may reduce comparability and obscure the full impact of underlying risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "actual results differ materially",
+    "no obligation to revise",
+    "refer to Note 13/15/16"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, including transaction values, subscriber counts, cost impacts, and operating drivers. Risk language is largely standardized safe-harbor boilerplate, while the overall tone is mildly confident and expansion-oriented rather than crisis-like. High complexity reflects dense telecommunications, accounting, financing, and segment-reporting terminology."
+}

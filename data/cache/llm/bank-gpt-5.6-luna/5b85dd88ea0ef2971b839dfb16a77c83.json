@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "likely fall slightly below",
+    "we believe",
+    "anticipate a significant increase",
+    "excluding unusual items",
+    "subject to a considerable degree of variability"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, but relies on forward-looking assumptions regarding Michigan employment, comparable-store sales, inflation, LIFO expense, and claims liabilities. The presentation has a mildly positive tone while acknowledging near-term earnings pressure, operational variability, and substantial estimation uncertainty. Adjusted EBITDA exclusions and unusual-item adjustments may make underlying performance less transparent."
+}

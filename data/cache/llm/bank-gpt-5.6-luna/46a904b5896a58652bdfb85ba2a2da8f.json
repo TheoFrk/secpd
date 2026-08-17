@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "as applicable",
+    "material adverse impact",
+    "discrete tax benefits",
+    "customer concentration"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and provides detailed year-over-year financial data, acquisition impacts, tax-rate reconciliations, and debt terms. Risk factors include substantial leverage, dependence on a small number of customers, foreign-currency exposure, and reliance on non-GAAP performance measures that exclude recurring or potentially material items. Overall tone is moderately constructive due to improved profitability, but the disclosure acknowledges meaningful concentration and liquidity risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.65,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "could differ materially",
+    "future working capital limitations",
+    "prospective FDA regulation"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative operating detail but is heavily supplemented by standardized forward-looking disclaimers and broad conditional risk language. Risk tone is materially negative, citing sustained operating losses, significant liquidity deterioration, store closures, inventory write-downs, impairments, competitive pressure, and potentially restrictive FDA regulation. The excerpt is truncated, limiting assessment of the full financial condition and mitigation discussion."
+}

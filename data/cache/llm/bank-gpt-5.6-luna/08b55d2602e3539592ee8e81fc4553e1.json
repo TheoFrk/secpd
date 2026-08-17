@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "partially offset by",
+    "significant judgment",
+    "more likely than not",
+    "see Note for more information"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, but reports materially weaker profitability, a sharp gross-margin decline, and prior-year operating cash outflow despite higher sales. Supply-chain disruption, inflation, inventory write-downs, restructuring, customer-demand weakness, and a full valuation allowance on deferred tax assets indicate elevated operating and earnings risk."
+}

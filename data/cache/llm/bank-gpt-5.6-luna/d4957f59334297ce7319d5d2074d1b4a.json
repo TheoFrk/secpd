@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot reliably estimate",
+    "many difficulties and uncertainties",
+    "high rate of failure",
+    "not individually material",
+    "rapid and severe decline"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on revenue, earnings, patent losses, and acquisition terms, but uses extensive forward-looking uncertainty language around R&D costs, approvals, and commercial success. Risk tone is moderately negative, driven by major patent expirations, generic competition, earnings declines, impairment and restructuring charges, and clinical pipeline uncertainty, despite a substantial late-stage pipeline and strategic acquisition."
+}

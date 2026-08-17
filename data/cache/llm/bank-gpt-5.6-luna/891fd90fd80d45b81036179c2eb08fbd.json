@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"expected to gradually increase\"",
+    "\"may continue to impact\"",
+    "non-GAAP adjustments",
+    "\"not aligned to our strategic priorities\"",
+    "dense cross-references"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting asset, loan, income, and non-core portfolio figures, but it contains substantial banking and regulatory jargon. Risk is presented as manageable, with identified exposure to macroeconomic conditions, interest rates, regulation, and legacy RBS aircraft leasing assets moved to runoff. Non-GAAP adjustments and repeated qualifications could complicate comparability with GAAP performance."
+}

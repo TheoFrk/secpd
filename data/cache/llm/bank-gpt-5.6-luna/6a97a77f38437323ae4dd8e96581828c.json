@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "may not be able to achieve",
+    "appropriately managing risk",
+    "could mitigate potential effects",
+    "cannot quantify the precise impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance data and identifies key insurance, investment, reserving and economic risks. Its tone is cautiously confident, but reliance on assumptions, management judgment and non-GAAP targets introduces uncertainty, particularly around reserve adequacy and future pricing and economic conditions."
+}

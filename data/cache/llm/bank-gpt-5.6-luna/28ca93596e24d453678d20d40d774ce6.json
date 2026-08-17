@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "not required to revise or update",
+    "including but not limited to",
+    "highly subjective assumptions and judgments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial performance data, including segment volumes, revenue, costs, and income changes. Risk disclosure is heavily standardized and emphasizes broad uncertainty, limited predictability, and no obligation to update forecasts, while pandemic-related tourism and economic weakness remain material concerns. Overall tone is cautiously positive due to strong operating results and favorable China demand, offset by meaningful macroeconomic and estimation risks."
+}

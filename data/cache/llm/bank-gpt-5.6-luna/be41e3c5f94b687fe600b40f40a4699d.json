@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.84,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurances",
+    "possible future effects",
+    "safe harbor for forward-looking statements",
+    "forced to dissolve or seek bankruptcy"
+  ],
+  "risk_summary": "The disclosure explicitly raises substantial doubt about the Company’s ability to continue as a going concern, identifies it as a shell corporation, and reports zero revenue with operating cash usage. Liquidity depends on an uncertain sale, merger, or acquisition transaction, with potential dissolution or bankruptcy if unsuccessful. The text contains duplicated accounting-policy language and broad forward-looking disclaimers, but the core financial distress is stated relatively clearly."
+}

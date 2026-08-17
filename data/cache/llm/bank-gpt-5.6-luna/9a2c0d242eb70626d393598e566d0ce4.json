@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "all figures are approximations",
+    "no assurance",
+    "material adverse effect",
+    "highly concentrated customers",
+    "prospectively/retrospectively accounting language"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but highlights significant customer and product concentration, declining sales, and likely discontinuation of offerings representing approximately 15% of gross product sales. Risk is partially softened by standard forward-looking and safe-harbor language, while the excerpt’s truncation leaves liquidity analysis incomplete."
+}

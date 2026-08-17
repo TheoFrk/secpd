@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "cannot currently predict",
+    "for an indefinite period",
+    "customary adjustments",
+    "expected to continue"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but contains substantial uncertainty disclosures regarding COVID-19, labor mandates, supply-chain disruptions, and inflation. Strategic and productivity language is somewhat boilerplate, while the overall tone is cautious rather than crisis-like."
+}

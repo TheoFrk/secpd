@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily",
+    "partly offset by",
+    "defined and discussed in Note",
+    "non-GAAP supplemental financial measure",
+    "subject to change in subsequent periods"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but uses substantial technical terminology, cross-references, and non-GAAP measures that increase interpretive complexity. Risk tone is moderately negative due to substantial net losses, impairments, production curtailments, depressed commodity prices, and uncertainty in reserve and tax-asset estimates."
+}

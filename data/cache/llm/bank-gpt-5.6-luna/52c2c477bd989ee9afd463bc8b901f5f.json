@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor disclaimers",
+    "actual results are likely to differ materially",
+    "no obligation to publicly update",
+    "non-GAAP measures and exclusions",
+    "not meaningful (NM) threshold"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes specific transaction values, dates, and performance definitions, but contains extensive boilerplate disclaimers and repeated non-GAAP measure caveats. Risk disclosure is balanced but emphasizes uncertainty around forecasts, market-sensitive assets, catastrophes, reinsurance, and insurance liabilities. The tone is mildly positive based on reported operational improvements, though the excerpt is truncated and lacks the underlying results tables."
+}

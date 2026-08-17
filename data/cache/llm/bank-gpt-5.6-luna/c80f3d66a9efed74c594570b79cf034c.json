@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "extent of impact remains uncertain",
+    "baseline scenario",
+    "non-GAAP measures and exclusions",
+    "rapidly changing economic environment"
+  ],
+  "risk_summary": "The disclosure is generally detailed and strongly quantified, including loan growth, margin expansion, deposit contraction, interest-rate changes, and macroeconomic scenarios. Risk tone is cautiously positive, but inflation, higher rates, supply-chain disruptions, geopolitical conflict, and deposit pressure create meaningful downside uncertainty. Extensive regulatory, non-GAAP, and forward-looking boilerplate moderately reduces transparency but does not appear overtly evasive."
+}

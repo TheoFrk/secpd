@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "do not expect a significant increase",
+    "expected cost to develop",
+    "approximately/estimated amounts",
+    "undetermined amount"
+  ],
+  "risk_summary": "The disclosure reports a material deterioration in company-wide results, including a substantial net loss, negative EBITDA, falling antimony prices, supply constraints, and abandonment of Mexican mining properties. Management presents a recovery plan centered on Puerto Blanco production, but expected volumes, recoveries, costs, and remediation obligations remain subject to operational and estimation risks."
+}

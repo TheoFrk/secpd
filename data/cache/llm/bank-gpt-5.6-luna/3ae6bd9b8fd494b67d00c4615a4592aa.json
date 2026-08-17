@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.27,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "does not anticipate significant recovery",
+    "adequate working capital",
+    "actual results may differ",
+    "believed to be reasonable",
+    "when, and if, the market rebounds"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but results show material declines in sales, operating income, and net income across all segments, with particularly severe weakness in marine products and seed operations. Liquidity appears strong, although cash declined due to share repurchases and inventory days increased materially. Management uses limited forward-looking and standard accounting caveats, while maintaining a confident view of near-term liquidity adequacy."
+}

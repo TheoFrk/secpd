@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "many factors not anticipated",
+    "non-GAAP adjusted measures",
+    "excluding certain non-GAAP adjustments",
+    "limitations associated with comparability"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with strong operating performance and a constructive outlook. Risk disclosure relies on standard forward-looking-statement caveats and extensive non-GAAP presentation, which may reduce comparability but is accompanied by reconciliations. Capital-intensive gasification projects, foreign currency exposure, project execution, and customer shutdowns remain material risk areas."
+}

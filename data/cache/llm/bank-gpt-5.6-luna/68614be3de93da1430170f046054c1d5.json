@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "primarily reflecting macroeconomic factors",
+    "inherently uncertain estimates",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is broadly quantitative and identifies material concentration, international, currency, semiconductor-cycle, pricing, supply-chain, and litigation-related risks. The tone is operationally stable to mildly positive, but reported profitability is significantly affected by a favorable legal settlement and cash usage includes substantial marketable-security purchases. The excerpt is lengthy and technical, with standard forward-looking and accounting-estimate caveats."
+}

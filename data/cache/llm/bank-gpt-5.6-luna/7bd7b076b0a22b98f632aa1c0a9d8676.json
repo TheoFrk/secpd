@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "excluding RCM segment and ongoing results",
+    "constant currency adjustments",
+    "non-GAAP revenue measure",
+    "goodwill impairment and earn-out adjustments"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains key revenue, segment, foreign-exchange, and impairment drivers, but relies on multiple adjusted measures and exclusions that complicate comparability. Risk tone is mildly negative because of revenue declines, weaker oil and gas/mining activity, federal weakness, and a significant goodwill impairment, partly offset by reported ongoing operating-income growth and expectations for stability or improvement."
+}

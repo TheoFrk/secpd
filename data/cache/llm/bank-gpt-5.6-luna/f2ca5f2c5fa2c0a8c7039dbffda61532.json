@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "subject to approval",
+    "estimates and assumptions",
+    "may differ materially"
+  ],
+  "risk_summary": "The excerpt is heavily legalistic and boilerplate-driven, with extensive reliance on estimates, regulatory approvals, market assumptions, and potential changes in recovery treatment. Although it provides meaningful quantitative detail on rate cases, derivatives, taxes, and capital projects, the disclosure emphasizes contingencies and limits accountability through standard forward-looking-statement disclaimers."
+}

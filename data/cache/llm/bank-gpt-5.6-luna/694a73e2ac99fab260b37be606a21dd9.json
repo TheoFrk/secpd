@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unfunded vested benefits currently not available",
+    "slow economy",
+    "may become subject to liabilities",
+    "intended to apply against future borrowings",
+    "continued section repetition"
+  ],
+  "risk_summary": "The excerpt is generally well quantified, but it discloses potentially material multi-employer pension exposure whose unfunded obligations and accumulated benefits are unavailable. Sales declined 3.8% due to a broadly stated economic explanation, while factoring and assessment-related obligations indicate moderate liquidity and contingent-liability risk."
+}

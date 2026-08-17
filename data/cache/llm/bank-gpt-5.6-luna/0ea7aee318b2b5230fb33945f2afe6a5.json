@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "actual results could differ",
+    "primarily attributable to",
+    "unfavorable currency impact",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively transparent, reporting revenue, order, regional, and currency impacts. It indicates meaningful operating deterioration, including 12% lower sales, 21% lower orders, and pronounced declines in Europe and Asia Pacific, while presenting these in a largely neutral explanatory tone. Foreign-currency exposure, international manufacturing concentration, and reliance on distributors are notable risk factors."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily reflected",
+    "partially offset by",
+    "what the Company defines as",
+    "discussed in more detail",
+    "excluding the impact"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides a generally strong operating profile, including improved earnings, underwriting margins, liquidity, and capital ratios. Risk factors include catastrophe and weather-related losses, reserve-development dependence, declining reinvestment yields, acquisition effects, and exposure-volume changes, though these are presented in a controlled and predominantly positive tone."
+}

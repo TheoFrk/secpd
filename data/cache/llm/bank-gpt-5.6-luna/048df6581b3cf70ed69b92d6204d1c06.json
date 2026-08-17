@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future economic changes cannot be predicted",
+    "could result in an increase",
+    "management considers appropriate and adequate",
+    "actual results could differ",
+    "significant change in the near term"
+  ],
+  "risk_summary": "The excerpt presents strong 2016 earnings and generally improving credit metrics, supported by substantial quantitative disclosures. Risk remains concentrated in management estimates for loan losses, securities impairment, and goodwill, with explicit sensitivity to economic and market conditions. A possible chronology inconsistency appears in the impaired-loan comparison, which modestly reduces disclosure reliability."
+}

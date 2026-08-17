@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "may be limited",
+    "not expected to increase",
+    "under pressure in the future",
+    "current internal operating forecast"
+  ],
+  "risk_summary": "The disclosure is largely specific and well quantified, but it documents significant deterioration, including declining sales and margins, operating losses, workforce reductions, goodwill impairment, and a substantial deferred tax valuation allowance. Forward-looking statements acknowledge continued margin pressure and limited government-segment growth, although some assumptions underlying forecasts and impairment valuations remain judgment-based."
+}

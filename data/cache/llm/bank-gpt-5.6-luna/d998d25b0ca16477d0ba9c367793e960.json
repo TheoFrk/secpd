@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.89,
+  "obfuscation_indicators": [
+    "unable to predict impact",
+    "fluid and changing rapidly",
+    "not independently assessed or verified",
+    "disclaim all responsibility",
+    "actual amounts could differ"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenue, metal prices, production exposure, and asset composition, but relies heavily on operator-provided estimates that management does not independently verify. COVID-19 disruptions, commodity-price sensitivity, reserve-estimation uncertainty, and potential impairment risk are acknowledged, while the overall tone remains moderately confident due to strong revenue growth."
+}

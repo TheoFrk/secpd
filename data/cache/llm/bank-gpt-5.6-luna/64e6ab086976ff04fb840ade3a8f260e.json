@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future volumes or sales",
+    "future revenues uncertain",
+    "forward-looking statements and risk factors",
+    "omitted results tables",
+    "contract renewal and balloon payment risk"
+  ],
+  "risk_summary": "The excerpt provides substantial historical financial detail, but repeatedly qualifies future growth, carbon-offset revenue, and replacement-program earnings as uncertain. Risk is heightened by declining recycling-only revenues, underperforming retail stores, competitive and commodity exposure, and a potential balloon payment if the revolving credit agreement is not renewed."
+}

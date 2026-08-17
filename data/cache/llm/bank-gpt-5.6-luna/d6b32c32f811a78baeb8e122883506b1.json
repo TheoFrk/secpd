@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "historically generated substantial earnings",
+    "risk for reach-forward losses",
+    "estimated production costs and revenues"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear year-over-year revenue, earnings, pension, tax, and backlog explanations. Risk is moderated by exposure to fixed-price contracts, long-cycle new-aircraft programs, pension obligations, supplier dependencies, and potential reach-forward losses, although the overall tone remains confident and growth-oriented."
+}

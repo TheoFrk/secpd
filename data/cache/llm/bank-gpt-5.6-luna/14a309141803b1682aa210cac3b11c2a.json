@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "inherently difficult to predict",
+    "adjusted earnings exclusions",
+    "non-GAAP performance measures",
+    "management accounting allocations"
+  ],
+  "risk_summary": "The excerpt is substantially quantified but emphasizes adjusted results and excludes numerous recurring or potentially material charges, including environmental, pension, impairment, restructuring, and expansion costs. Reported net income and operating cash flow declined, while environmental liabilities, pricing pressure, excess capacity, foreign exchange, and weaker demand present material risks."
+}

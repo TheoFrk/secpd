@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material difference disclaimer",
+    "non-GAAP measure emphasis",
+    "expected to improve performance",
+    "approximately 100 store closures",
+    "strategic priorities and shareholder value"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantified restructuring, store-count, and expense information, but relies heavily on forward-looking strategy language and non-GAAP measures. The tone acknowledges challenging consumer conditions, declining performance, store closures, impairments, and restructuring while presenting these actions as expected to support future growth."
+}

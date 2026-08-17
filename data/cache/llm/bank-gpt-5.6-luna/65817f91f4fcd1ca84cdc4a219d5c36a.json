@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "best estimate of future cash flows",
+    "assumptions may materially affect",
+    "not possible to forecast or predict",
+    "expected reimbursement from insurance carriers"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear discussion of sales, profitability, market drivers, sensitivities, and pension assumptions. Risk is moderated by housing cyclicality, commodity pricing exposure, labor constraints, impairment judgments, actuarial volatility, and hurricane-related operational disruption, while some forward-looking estimates remain uncertain."
+}

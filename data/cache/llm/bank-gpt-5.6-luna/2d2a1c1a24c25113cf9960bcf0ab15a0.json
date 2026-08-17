@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "significant estimates and assumptions",
+    "unknown how many grocery store licenses",
+    "may expire before fully utilized",
+    "based on management’s own analysis"
+  ],
+  "risk_summary": "The excerpt is relatively detailed and quantitatively discloses receivables, allowances, deferred tax assets, operating trends, and contractual risks. Material concerns include substantial former-franchisee receivables, uncertainty over grocery-store license attrition, potential tax-asset expirations, and dependence on franchise expansion. The tone is cautiously balanced, with some confidence in operating improvements but meaningful reliance on estimates and forward-looking assumptions."
+}

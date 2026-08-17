@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected/projected forecasts",
+    "pending government and regulatory approvals",
+    "adjusted non-GAAP measure",
+    "based on current forward strip prices",
+    "truncated and corrupted disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, with detailed production, liquidity, debt, spending, and reserve figures, but relies on forward-looking assumptions regarding commodity prices, project timing, approvals, and development scale. The tone is cautiously positive due to Guyana discoveries and liquidity coverage, despite persistent net losses, declining production, and significant capital requirements. Non-GAAP adjustments and portfolio-sale effects may complicate comparability of underlying performance."
+}

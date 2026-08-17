@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures not directly comparable",
+    "cannot predict if trend will continue",
+    "underlying business performance",
+    "partially offset by",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and explains currency effects, segment trends, margins, restructuring costs, and subsidy changes, but relies substantially on non-GAAP measures and contains repetitive methodological language. Risk tone is mildly negative due to European slowdown, declining performance in several markets, margin pressure, system implementation issues, and uncertainty beyond the first quarter of 2019."
+}

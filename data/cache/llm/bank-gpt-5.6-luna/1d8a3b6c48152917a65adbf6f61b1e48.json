@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.23,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "strategic alternatives",
+    "may include a sale or spin-off",
+    "periodically reviews its operations",
+    "estimated effects",
+    "large number of diverse businesses"
+  ],
+  "risk_summary": "The excerpt is generally transparent and data-rich, with quantified revenue, margin, segment, and transaction information. Complexity is high because of extensive segment structure, accounting terminology, and lengthy explanations of management metrics. The announced review of the Industrial Packaging segment and the company’s decentralized reporting model introduce moderate strategic and monitoring risk, but the overall tone remains operationally confident."
+}

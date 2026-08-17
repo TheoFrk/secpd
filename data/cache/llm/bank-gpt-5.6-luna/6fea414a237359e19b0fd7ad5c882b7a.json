@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management considers adequate",
+    "as needed",
+    "various qualitative factors",
+    "other risk factors",
+    "deemed to be better aligned"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on allowance methodology, impairment reviews, collateral valuation, governance, and quantified balance-sheet trends. However, reserve adequacy remains dependent on management judgment, economic conditions, collateral values, and qualitative adjustments, with limited direct quantification of sensitivity or potential loss exposure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "dependent upon factors discussed above",
+    "currently unknown capital requirements",
+    "may raise doubt as to ability to continue",
+    "substantial customer concentration"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, but relies on conditional and forward-looking language regarding margin expansion, cost pass-through, scaling, and capital needs. Key risks include declining cash, significant operating cash burn, customer concentration, manufacturing inefficiencies, commodity and wage inflation, and an explicit possibility that insufficient capital could raise going-concern doubts."
+}

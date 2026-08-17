@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "generally reduces the Company’s risk",
+    "reasonably likely to occur",
+    "continued pressure on our interest margin"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively supported, with detailed earnings, margin, asset-growth, acquisition, and loan portfolio data. Risk disclosure is partly boilerplate and relies on generalized mitigants such as diversification, collateral, and underwriting standards, while acknowledging persistent low-rate pressure on margins. Overall tone is cautiously confident rather than crisis-like, but the excerpt provides limited quantified downside sensitivity or stress analysis."
+}

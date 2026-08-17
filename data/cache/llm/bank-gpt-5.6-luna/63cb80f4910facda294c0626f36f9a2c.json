@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and inherent risks",
+    "known and unknown risks and uncertainties",
+    "other unknown or unpredictable factors",
+    "do not undertake or assume any obligation to update",
+    "materially differ from current expectations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, balance-sheet, acquisition, capital, and loan-loss information, supporting a generally stable and mildly confident tone. However, the extensive forward-looking disclaimer is highly boilerplate and emphasizes broad, unquantified uncertainties, while the higher 2019 loan-loss provision indicates some emerging credit-cost pressure."
+}

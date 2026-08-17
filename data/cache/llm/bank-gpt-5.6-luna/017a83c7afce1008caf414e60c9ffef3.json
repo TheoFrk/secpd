@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "not expected to have a material impact",
+    "primarily due to",
+    "may not be comparable",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but includes substantial standard non-GAAP and accounting-policy boilerplate. Results show meaningful pressure, including a 7.5% decline in gross profit, lower margins, and a 42.6% decrease in income from continuing operations, partly offset by strategic growth initiatives and acquisitions."
+}

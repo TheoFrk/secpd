@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements are not guarantees",
+    "risks and uncertainties are not exhaustive",
+    "beyond our control",
+    "disclaim any responsibility to update",
+    "not possible for management to predict all risk factors"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-statement disclaimers and broad language limiting management’s responsibility for prediction and updates. Although the operating overview includes useful quantified portfolio, acquisition, financing, and expense data, the discussion is dense and provides limited direct quantification of downside sensitivity, leverage exposure, or related-party risks."
+}

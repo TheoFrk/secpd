@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe we can fund",
+    "we expect to be able to finance",
+    "if needed",
+    "subject to the same variability",
+    "some of which are beyond our control"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains liquidity, debt balances, cash flows, and investment activity, but relies on management expectations regarding future operating cash flows and additional financing. Liquidity appears adequate at year-end, though the company depends on operating cash generation and financing capacity, including a credit facility maturing in May 2023. Revenue timing and transaction cash flows are described as highly variable, and significant estimates affect deferred taxes and potential impairment exposure."
+}

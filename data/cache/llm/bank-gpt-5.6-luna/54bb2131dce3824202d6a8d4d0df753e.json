@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no duty to update",
+    "substantial additional capital",
+    "no assurance of additional financing",
+    "going concern basis"
+  ],
+  "risk_summary": "The company reports severe liquidity stress, including $128,498 in cash, negative working capital, recurring operating losses, and negative operating cash flow. Management explicitly states that current resources are insufficient, substantial additional capital is required, financing is uncertain and unlikely in the near term, and operations may need to be curtailed. Despite some quantified historical improvements, the disclosure indicates material going-concern and refinancing risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "immaterial amount",
+    "seek recovery for our losses",
+    "except for",
+    "as described in more detail below"
+  ],
+  "risk_summary": "The disclosure is largely quantified and presents strong revenue and earnings growth, but it identifies material project losses totaling $47.3 million and a decline in operating margin. Risk detail is partially softened through attribution language and emphasis on expected recovery, while extensive segment descriptions add complexity and boilerplate."
+}

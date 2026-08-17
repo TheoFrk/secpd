@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no firm assurances",
+    "risks and uncertainties",
+    "not exhaustive",
+    "constant-currency non-GAAP presentation"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and specific, reporting revenue, margins, operating income, segment exposure, currency effects, and investment balances. Risk language is extensive but largely standardized, with broad contingencies and forward-looking disclaimers that limit predictive certainty. Results show continued growth but declining margins and operating income, alongside material customer, industry, currency, technology, execution, and impairment risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to regulatory review",
+    "expects a final rate order",
+    "could significantly affect",
+    "reconciling rate mechanisms",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed rate-case requests, approved increases, customer counts, revenues, and expense changes. Key risks relate to regulatory approval, rate recovery, infrastructure and storm costs, and the effect of regulatory treatment on operations and financial position. Overall tone is stable and mildly confident, supported by regulated cost recovery, although the excerpt is truncated and includes forward-looking regulatory expectations."
+}

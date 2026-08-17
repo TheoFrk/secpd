@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"seem likely\" and \"could well\" forecasts",
+    "complex restructuring and ownership description",
+    "non-voting revenue and profit interests",
+    "historical performance framing around non-cash gain",
+    "boilerplate MD&A cross-references"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, income, ownership interests, and restructuring, but uses complex legal and accounting language that limits accessibility. Operating income and net income declined, while results remain exposed to risk-averse investors, uncertain economic growth, and dependence on non-voting interests in EAM. The forward-looking outlook is cautiously optimistic but relies on hedged macroeconomic projections."
+}

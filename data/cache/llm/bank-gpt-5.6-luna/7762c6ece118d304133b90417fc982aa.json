@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "inherently subjective",
+    "other relevant factors",
+    "various factors",
+    "believes liquidity position is strong"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding balance-sheet changes, funding, liquidity, and net interest income, with a moderately confident tone. Key uncertainty centers on subjective allowance-for-loan-loss and tax estimates, whose assumptions and future cash flows may change materially. The truncated ending limits assessment of investment-portfolio risks and broader adverse trends."
+}

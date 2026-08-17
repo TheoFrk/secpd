@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted earnings exclusions",
+    "other adjustments may be made from time to time",
+    "primarily due to",
+    "partly offset by",
+    "non-qualifying hedges"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantitatively supported, but its extensive use of non-GAAP adjusted earnings and exclusions may soften reported volatility and impairments. Key risks include declining NEER earnings, a $342 million after-tax Spain solar impairment, derivative mark-to-market volatility, and reliance on regulatory cost recovery."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "actual results could differ materially",
+    "subject to significant risks and uncertainties",
+    "do not undertake any obligation to update",
+    "subject to ordinary dilution"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking and liability-limiting language, with repeated cautions that projections may not materialize and will not necessarily be updated. It also includes useful quantified disclosures on ownership, debt conversion, sales volumes, pricing, and customer growth, but the overall presentation is promotional and does not fully quantify execution, liquidity, or investee risks."
+}

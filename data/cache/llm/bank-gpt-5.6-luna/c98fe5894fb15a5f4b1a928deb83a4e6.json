@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "currently evaluating the impact",
+    "expects no material modifications",
+    "subject to risks, uncertainties and other factors",
+    "actual results may differ",
+    "complex tax rules"
+  ],
+  "risk_summary": "The excerpt is largely technical and boilerplate, with substantial accounting-standard discussion and limited company-specific forward-looking analysis. It quantifies cash flows and investments, but repeatedly relies on generic uncertainty language and does not clearly quantify potential impacts from tax estimates or new accounting standards. Overall tone is neutral to mildly confident, with no explicit crisis signal."
+}

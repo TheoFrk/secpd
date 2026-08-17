@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.65,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "no assurance that strategies will succeed",
+    "improving economic conditions",
+    "does not believe any credit troubles are imminent",
+    "historical performance does not guarantee future performance",
+    "non-GAAP financial measures have limitations"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, reporting income, funding costs, margins, provisions, and non-performing loan ratios. Risk is moderate: net interest income and margin declined, funding costs rose materially, and non-performing loans increased, although profitability improved due substantially to a one-time asset-sale gain. Forward-looking strategy language includes standard implementation disclaimers and relies on management judgments for credit-loss estimates."
+}

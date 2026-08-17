@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties include, but are not limited to",
+    "no assurance",
+    "limited visibility into future revenues",
+    "subjective decisions or assessments"
+  ],
+  "risk_summary": "The excerpt presents strong 2021 performance, substantial liquidity, and optimistic growth opportunities, supported by specific revenue, income, cash flow, and capital expenditure figures. However, the extensive boilerplate risk inventory and reliance on broad macroeconomic, competitive, regulatory, litigation, staffing, and cybersecurity contingencies limit forward visibility. Overall tone is confident but materially qualified by short-term contracts and limited revenue visibility."
+}

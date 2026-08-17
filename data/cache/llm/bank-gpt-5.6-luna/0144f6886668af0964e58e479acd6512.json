@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.59,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "not possible to predict all",
+    "impact not known at this time",
+    "subject to change"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on assets under management, flows, market appreciation, revenues, and expenses, supporting relatively strong transparency. However, the forward-looking section is highly boilerplate and repeatedly emphasizes uncertainty, non-reliance, and lack of prediction regarding regulatory and economic impacts. The operating outlook is cautiously positive but remains materially exposed to market conditions, asset flows, regulatory changes, and economic recovery risks."
+}

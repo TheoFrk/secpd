@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "subject to estimates and judgments",
+    "foreseeable future",
+    "refer to Note 1",
+    "potential recoveries"
+  ],
+  "risk_summary": "The disclosure presents severe and explicit financial distress, including Chapter 11 bankruptcy, rehabilitation proceedings, ratings withdrawals, inability to write new business, and highly unlikely dividend payments. Although the excerpt provides substantial quantified exposure and reserve detail, outcomes remain sensitive to subjective loss, valuation, recovery, and tax estimates."
+}

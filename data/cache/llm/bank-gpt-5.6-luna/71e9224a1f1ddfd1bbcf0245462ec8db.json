@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "materially different results",
+    "ultimate outcome is unknown",
+    "management must rely on estimates",
+    "believed adequate by management",
+    "judgement errors may occur"
+  ],
+  "risk_summary": "The disclosure is largely standard accounting-policy language and provides limited quantitative detail on allowance adequacy, credit quality, or potential loss exposure. It emphasizes substantial management judgment and acknowledges that future assessments could materially change the allowance, indicating moderate credit-risk uncertainty."
+}

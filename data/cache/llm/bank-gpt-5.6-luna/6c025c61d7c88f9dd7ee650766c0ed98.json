@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could impact future performance",
+    "expected to",
+    "primarily due to",
+    "additional discussion of factors",
+    "text truncated mid-sentence"
+  ],
+  "risk_summary": "The excerpt is generally specific and transparent, with extensive year-over-year financial and operating quantification and explanations of major variances. It uses conventional forward-looking qualifiers around capacity, demand, fuel prices, and future performance, while identifying competitive, operational, fuel-price, and weather-related risks. Overall tone is cautiously optimistic rather than crisis-like, although the excerpt is incomplete and omits some referenced tables and disclosures."
+}

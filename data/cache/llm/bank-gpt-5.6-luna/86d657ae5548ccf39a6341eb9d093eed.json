@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.94,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.36,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "page-range deferral"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and defers the entire MD&A discussion to another document. This limits standalone transparency and prevents assessment of liquidity, performance, or emerging risks from the excerpt alone."
+}

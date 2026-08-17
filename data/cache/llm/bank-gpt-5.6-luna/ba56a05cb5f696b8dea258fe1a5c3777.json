@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "uncertain times following the banking crisis",
+    "subject to adjustment",
+    "could have a material impact",
+    "see elsewhere in this report"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed disclosure of credit-loss modeling, goodwill exposure, funding costs, and year-over-year performance. Risk tone is moderately negative because earnings and net interest income declined, funding costs increased, deposits fell, and liquidity management required higher-cost borrowings. Extensive accounting caveats and cross-references add boilerplate and limit direct assessment of forward-looking loss sensitivity."
+}

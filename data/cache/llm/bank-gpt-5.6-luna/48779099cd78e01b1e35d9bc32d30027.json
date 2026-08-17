@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "should positively impact",
+    "adequate to cover",
+    "different assumptions",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The disclosure is relatively specific on projects, financing, occupancy, and capital costs, but relies on optimistic forward-looking assumptions regarding rents, economic conditions, leasing, and cash flow adequacy. Key risks include increased vacancies from aggressive rent increases, floating-rate debt, redevelopment execution, tenant fit-up costs, and impairment sensitivity to management projections."
+}

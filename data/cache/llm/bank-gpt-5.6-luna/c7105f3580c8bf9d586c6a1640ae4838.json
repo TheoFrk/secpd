@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "substantial risks and uncertainties",
+    "historical results not indicative",
+    "complex merger consideration",
+    "text truncated at liquidity section"
+  ],
+  "risk_summary": "The excerpt contains substantial historical, merger, debt, guarantee, derivative, impairment, and restructuring complexity, alongside a prior bankruptcy and declining revenue-related accounts receivable. Quantified liquidity and liability improvements are disclosed, but the section is heavily legalistic and includes broad forward-looking disclaimers that limit interpretability."
+}

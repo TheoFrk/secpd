@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "somewhat offset by",
+    "continued tight cost controls",
+    "challenging economic conditions",
+    "based upon a number of assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with clear year-over-year financial, regional, debt, and cash-flow disclosures. Risks include declining EMEA sales, margin compression, restructuring charges, foreign-exchange headwinds, municipal spending weakness, and assumption-dependent obligations, but leverage and liquidity appear manageable."
+}

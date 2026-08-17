@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management’s best estimates",
+    "actual results may differ",
+    "historically immaterial",
+    "qualitative assessment",
+    "projected cash flows"
+  ],
+  "risk_summary": "The excerpt is largely standard accounting-policy disclosure with substantial technical complexity and recurring boilerplate around estimates and impairment testing. It identifies judgment-sensitive areas and downside exposure from inventory write-downs, goodwill impairment, lower volumes and margins, and a significant legal settlement, but provides limited sensitivity analysis or quantified assumptions."
+}

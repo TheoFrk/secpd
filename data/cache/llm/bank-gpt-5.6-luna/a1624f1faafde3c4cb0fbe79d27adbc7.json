@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.14,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "estimated fair value",
+    "loss-share arrangement",
+    "nonoperating expenses",
+    "did not have a material impact",
+    "other-than-temporary impairment"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and generally transparent, but it contains repeated acquisition-accounting boilerplate and technical terminology. Risk tone is broadly neutral with mildly negative elements, including sharply higher expenses, impairment charges, litigation costs, FDIC assessments, and exposure to acquired loan portfolios."
+}

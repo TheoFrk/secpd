@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "could cause actual results to differ materially",
+    "not place undue reliance",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified growth in client assets, accounts, revenue, and profitability, producing a generally confident tone. Risk disclosure is largely standardized and broad, with limited specific quantification of downside exposures; performance remains sensitive to market valuations, interest rates, client activity, and one-time items."
+}

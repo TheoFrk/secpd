@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted earnings",
+    "expected to close",
+    "should keep growth buoyant",
+    "subject to regulatory approvals",
+    "ratings subject to revision"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent about sales, earnings, impairment, cash flow, capital allocation, debt, and liquidity. Risk tone is moderately confident, though the forward outlook relies on economic assumptions and includes transaction, ratings, funding-cost, and execution uncertainties."
+}

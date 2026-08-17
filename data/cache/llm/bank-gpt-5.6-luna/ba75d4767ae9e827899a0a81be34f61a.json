@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "without limitation",
+    "largely as a result of",
+    "adjusted basis excluding charges"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, but includes substantial standard forward-looking disclaimers and causal explanations using broad, non-specific language. Risk tone is moderately negative, reflecting declining attendance, recessionary pressure, adverse U.K. tax rulings, restructuring charges, and revenue contraction, although management describes mitigation efforts and provides detailed metrics."
+}

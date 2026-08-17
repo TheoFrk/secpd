@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "insurance claim unresolved",
+    "no assurance of reimbursement",
+    "anticipate substantially repaired",
+    "recoverability concerns",
+    "estimated fair value"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights unresolved insurance recovery, potential continuing rent concessions, and reliance on estimates for revenue and asset valuations. The hurricane damage and insurance timing create moderate operational and cash-flow uncertainty, partially offset by detailed property, debt, and transaction information."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.66,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "assume no obligation to update",
+    "cannot reasonably estimate the magnitude",
+    "expected to continue to have an adverse impact",
+    "going concern"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and acknowledges material uncertainty from COVID-19, including potential supply-chain disruption, impairment losses, and adverse effects on operations. It provides some quantified operating data, but the pandemic impact is explicitly not estimable and the going-concern basis heightens credit risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "substantial uncertainty",
+    "could change in future periods",
+    "not identified trends",
+    "limited impact thus far",
+    "historical results may not indicate future performance"
+  ],
+  "risk_summary": "The disclosure is generally constructive and includes meaningful financial quantification, but it relies on forward-looking qualifiers and provides limited detail on the potential severity and duration of COVID-19 effects. Customer commitment slowdowns, supply-chain disruptions, revenue-recognition timing, and uncertainty in accounting estimates represent moderate underlying risks."
+}

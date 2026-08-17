@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "as deemed necessary",
+    "not material",
+    "events and circumstances indicate",
+    "text truncated before impairment discussion"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial operational and segment data, but relies on standard judgment-based accounting disclosures around estimates, inventory impairment, and completion costs. The Washington, D.C. wind-down is a disclosed adverse development, while management’s overall tone is neutral to moderately confident. The excerpt is truncated during the inventory impairment discussion, limiting assessment of potentially material downside risks."
+}

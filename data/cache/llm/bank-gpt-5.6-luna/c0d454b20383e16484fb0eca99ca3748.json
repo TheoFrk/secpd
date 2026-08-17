@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily due to",
+    "in the process of determining the impact",
+    "relatively fixed nature",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but reports material deterioration in revenue, gross profit, net income, operating cash flow, and liquidity. Cash resources declined substantially, while a large special dividend and ongoing IT, restructuring, and product-discontinuation costs increased financial pressure. Some explanations rely on broad causal language and the excerpt is incomplete around financing activities."
+}

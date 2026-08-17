@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subjective judgments and estimates",
+    "may have a material impact",
+    "uncertain realizability of deferred tax assets",
+    "depend upon increased revenue"
+  ],
+  "risk_summary": "The disclosure is relatively specific and includes meaningful revenue, loss, liquidity, covenant, and credit-facility figures, but relies on standard forward-looking disclaimers and judgment-based estimates. Risk is elevated by persistent net losses, dependence on new-product growth, lower CSSP margins, expected tablet and mature-product declines, and uncertainty around deferred tax assets, although liquidity and covenant compliance appear adequate at the reporting date."
+}

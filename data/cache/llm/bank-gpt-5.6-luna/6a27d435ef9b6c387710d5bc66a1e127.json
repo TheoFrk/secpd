@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "no obligation to update",
+    "no current financing arrangements",
+    "anticipated patent-enforcement revenue",
+    "unable to raise additional capital"
+  ],
+  "risk_summary": "The company has no operating revenue, minimal cash of $44,421, ongoing losses, and relies on uncertain patent enforcement, asset sales, or external financing. Management explicitly states that no current financing sources exist and that failure to raise capital or generate revenue could prevent continued expansion and operations. The extensive forward-looking disclaimer is repetitive and limits reliance on projections."
+}

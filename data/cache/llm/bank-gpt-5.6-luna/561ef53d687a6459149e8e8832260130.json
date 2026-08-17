@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "generally provide significant value-added services",
+    "may be limited due to various factors",
+    "proportional performance",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily boilerplate, with substantial reliance on accounting judgments, estimates, and complex revenue-recognition rules. Quantified expense and interest trends provide useful specificity, but the liquidity discussion flags potential constraints on receivables financing and additional borrowing. Overall tone is operationally neutral but modestly risk-negative due to financing dependence and covenant/liquidity uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "we expect this growth to be partly offset",
+    "based on historical experience and judgment",
+    "future market conditions may cause",
+    "significant assumptions about future cash flows"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful operating metrics, installed-base data, and quantified estimate sensitivity, but relies heavily on cross-references, technical jargon, and forward-looking qualifiers. The tone is generally confident and growth-oriented, while acknowledging revenue-mix, rebate-estimation, market-condition, and intangible-valuation risks."
+}

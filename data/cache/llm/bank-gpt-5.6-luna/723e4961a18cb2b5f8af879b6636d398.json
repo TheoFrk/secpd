@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances",
+    "do not anticipate significant impact",
+    "several actions to mitigate",
+    "customer-specific limits",
+    "significant assumptions underlie"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity information, including segment sales, acquisitions, receivables sales, and share repurchases. Key risks include seasonality, inventory returns, tariff pass-through uncertainty, reliance on receivables financing, interest-rate exposure, and management estimates. The tone is cautiously positive but includes material hedging around tariffs, liquidity, and future operating performance."
+}

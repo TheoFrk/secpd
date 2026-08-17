@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "not indicative of future prospects",
+    "higher than expected policy obligations",
+    "unusually high sales",
+    "discontinued operations"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with clear segment metrics, year-over-year comparisons, and explanations of operational drivers. Key risks include declining life underwriting margins, adverse mortality experience, lower investment yields, delayed Medicare reimbursements, and weaker health net sales, although overall results and management tone remain moderately positive."
+}

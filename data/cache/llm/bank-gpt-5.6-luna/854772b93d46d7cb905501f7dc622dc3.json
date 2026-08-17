@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally treat",
+    "likely to remain volatile",
+    "could continue for several years",
+    "about two-thirds",
+    "special items"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, with detailed revenue recognition, cost classifications, and industry metrics. It highlights meaningful risks from currency volatility, excess capacity, pricing pressure, and competitive entry, although improved 2013 earnings provide a modestly positive tone. Long, technical sentences and recurring MD&A boilerplate reduce accessibility but do not appear strongly evasive."
+}

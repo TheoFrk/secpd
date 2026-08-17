@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.8,
+  "complexity_score": 0.2,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "repeated section title",
+    "table/navigation artifact",
+    "no substantive discussion",
+    "page-reference only"
+  ],
+  "risk_summary": "The excerpt is a navigational/table artifact that repeats the MD&A title and provides only a page range. It contains no financial, liquidity, operational, or risk disclosures, so underlying risk cannot be assessed from this text."
+}

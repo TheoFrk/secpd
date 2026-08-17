@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "reasonable under the circumstances",
+    "uncertain and unpredictable",
+    "may differ materially",
+    "force majeures remain in effect"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on goodwill and impairment methodologies, assumptions, and historical testing outcomes, but relies heavily on judgment-based estimates and forward-looking assumptions. Identified risks include potential impairment, inflation, supply-chain disruption, supplier force majeure events, and difficulty meeting customer demand, although management presents mitigation through pricing and cost-saving initiatives."
+}

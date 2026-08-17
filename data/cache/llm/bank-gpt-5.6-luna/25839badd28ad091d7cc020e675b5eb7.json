@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurances",
+    "transforming and expanding",
+    "raise additional funds",
+    "going concern uncertainty"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and broad, largely unquantified growth plans. Despite reporting $138.81 million in cash, the company has significant accumulated losses and explicitly identifies dependence on future revenue generation and additional financing to continue as a going concern."
+}

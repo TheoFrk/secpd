@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements safe-harbor boilerplate",
+    "no obligation to update",
+    "no assurance of additional funding",
+    "generic list of material adverse factors",
+    "gain on settlement of debt offsets interest expense"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating and liquidity data, but relies heavily on standard legal disclaimers and generic risk factors. Financial risk is significant: the company reports recurring net losses, negative operating cash flow, limited revenue, and insufficient cash to fund operations for the next twelve months, with continued dependence on uncertain debt or equity financing."
+}

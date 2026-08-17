@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to assumptions, risks, and uncertainties",
+    "no list of assumptions, risks, or uncertainties could be complete",
+    "may differ materially",
+    "beyond the Company’s control",
+    "does not undertake to update"
+  ],
+  "risk_summary": "The excerpt combines quantified operating improvements with extensive boilerplate forward-looking disclaimers and a broad, largely non-quantified list of contingent risks. Risk tone is cautiously neutral: management highlights revenue and net interest income growth but emphasizes uncertainty around rates, liquidity, regulation, technology, credit conditions, and the HTLF merger."
+}

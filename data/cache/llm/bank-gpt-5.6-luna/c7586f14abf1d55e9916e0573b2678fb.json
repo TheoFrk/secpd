@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "known and unknown risks",
+    "not possible to predict",
+    "inherently subjective",
+    "significant estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and emphasizes that actual results may differ materially, limiting predictive clarity. Credit-risk disclosures identify geographic concentration, subjective allowance estimates, acquired-loan cash-flow uncertainty, and potential future provisions, although selected operating figures are quantified."
+}

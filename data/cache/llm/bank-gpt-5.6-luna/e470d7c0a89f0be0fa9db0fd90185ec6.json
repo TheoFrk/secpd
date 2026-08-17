@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "estimated",
+    "provisional income tax expense",
+    "in excess of $140 billion",
+    "as is deemed necessary"
+  ],
+  "risk_summary": "The excerpt presents a predominantly confident growth narrative supported by detailed sales, profitability, customer, and operating metrics. Key uncertainties include provisional Tax Act effects, reliance on improving market demand, and ongoing branch closures or network changes, but no acute liquidity or operational distress is evident."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to",
+    "we believe",
+    "uncertain at this time",
+    "depending on the outcome",
+    "may differ materially"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including liquidity, capital expenditures, investments, proceeds, and historical results, but relies on forward-looking assumptions and conditional language. Risk tone is mixed: it emphasizes prolonged industry weakness, lower utilization, pricing pressure, Brexit uncertainty, and currency volatility, while highlighting liquidity, equity funding, and long-term strategic positioning."
+}

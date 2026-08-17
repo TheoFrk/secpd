@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous assumptions",
+    "risks and uncertainties",
+    "no obligation to update",
+    "significant management judgment"
+  ],
+  "risk_summary": "The excerpt is largely standard forward-looking and accounting-policy boilerplate, with extensive caveats and limited quantified sensitivity analysis. Credit-loss reserves and fair-value estimates rely materially on management judgment, borrower risk ratings, economic assumptions, and potentially changing market conditions. Operating performance and Hawaii economic indicators were strong in 2016, producing a moderately positive overall tone despite broad operational, regulatory, market, and credit risks."
+}

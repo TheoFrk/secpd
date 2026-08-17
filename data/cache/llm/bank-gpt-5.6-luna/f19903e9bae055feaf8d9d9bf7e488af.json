@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "could have a material adverse effect",
+    "variety of external factors",
+    "subject to risks and uncertainties",
+    "potential future financing arrangements"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on liability and asset concentrations, but emphasizes substantial actuarial, investment valuation, reinsurance, and recoverability uncertainty. Risk tone is mildly negative because adverse loss development, reinsurer failure, market volatility, or impairment could materially affect results, although liquidity concerns are framed as manageable."
+}

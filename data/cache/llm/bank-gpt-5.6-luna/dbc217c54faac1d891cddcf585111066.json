@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "many or all may be beyond control",
+    "reasonable collection efforts",
+    "based on certain assumptions and judgments",
+    "expects sufficient funding for next twelve months"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on receivables, inventory, revenue recognition, billings, and accrued obligations, but relies on management estimates and broad forward-looking disclaimers. Key risks include receivables collectability, inventory obsolescence, contract cost overruns, and dependence on operating cash flow and borrowing capacity, while management maintains a generally reassuring liquidity outlook."
+}

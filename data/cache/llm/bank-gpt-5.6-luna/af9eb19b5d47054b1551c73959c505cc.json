@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures excluding certain items",
+    "expects costs will be fully reimbursed",
+    "could become a smaller percentage",
+    "material impact on results",
+    "after excluding foreign currency and charges"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent about currency devaluation, inflation, geopolitical exposure, and the Russian exit, including specific percentages and losses. Risk presentation is moderated by management’s emphasis on mitigation, organic growth, and adjusted performance measures that exclude foreign exchange, mark-to-market, and restructuring effects. Reliance on non-GAAP metrics and forward-looking expectations may reduce comparability and potentially soften the apparent severity of operating pressures."
+}

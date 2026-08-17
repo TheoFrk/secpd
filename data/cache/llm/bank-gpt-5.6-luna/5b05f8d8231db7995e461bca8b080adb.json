@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot assure adequate production levels",
+    "future availability could be negatively impacted",
+    "limited number of sources",
+    "no material adverse impact",
+    "efforts to anticipate weather and environmental events"
+  ],
+  "risk_summary": "The disclosure quantifies several operating trends and historical impacts, including revenue changes, production shortfalls, and cost effects, but contains substantial boilerplate and forward-looking uncertainty around weather, water availability, supply chains, and production capacity. Risk tone is moderately balanced, with meaningful operational vulnerabilities offset by management’s statements that operations remained uninterrupted and no material COVID-19 impact had occurred as of the filing date."
+}

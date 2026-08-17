@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "difficult to predict",
+    "could affect the outcome",
+    "substantial progress",
+    "offset partially by"
+  ],
+  "risk_summary": "The excerpt combines quantified operating and tax information with extensive forward-looking disclaimers and broad, promotional descriptions of strategy and growth. Key risks include product competition, pricing pressure, regulatory uncertainty, pipeline execution, and a $7.3 billion estimated repatriation tax liability, although management presents overall performance and liquidity positively."
+}

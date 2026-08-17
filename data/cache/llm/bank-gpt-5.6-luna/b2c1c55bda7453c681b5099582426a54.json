@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "a number of factors",
+    "other factors",
+    "may occur in the future",
+    "could be increased",
+    "primarily attributable"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed methodology, assumptions, and year-over-year financial metrics, limiting concerns about evasiveness. However, the sharp increases in nonperforming assets, nonaccruing loans, restructured loans, FHLB advances, brokered deposits, and short-term funding indicate rising credit and liquidity risk despite improved earnings. The long, technical presentation and reliance on broad assumption-based language partially obscure forward-looking sensitivity."
+}

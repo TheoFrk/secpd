@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "subjective judgments and assumptions",
+    "customer fails to purchase",
+    "refinance indebtedness uncertainty"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on commodity exposure, hedging, credit availability, pricing arrangements, and accounting corrections, but includes standard broad disclaimers and some unresolved uncertainty. Corrected prior financial statements, derivative obligations, customer default exposure, and the approaching credit facility maturity indicate elevated financial and liquidity risk."
+}

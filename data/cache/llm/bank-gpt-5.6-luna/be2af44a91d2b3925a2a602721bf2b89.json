@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.63,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial progress",
+    "strong demand",
+    "as demand dictates",
+    "no guarantee that acquisition opportunities will continue",
+    "availability of capital markets"
+  ],
+  "risk_summary": "The excerpt is highly quantitative regarding portfolio size, occupancy, acquisitions, financing, and securities exposure, supporting relatively strong disclosure quality. Its tone is predominantly optimistic and promotional, while risks are addressed mainly through generic caveats concerning acquisition availability, capital access, and execution of occupancy improvements. Leverage, margin debt, unrealized securities losses, and dependence on capital markets represent notable credit considerations despite ample stated liquidity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unless otherwise indicated by the context",
+    "other non-significant items",
+    "certain other investing activities",
+    "tables not included",
+    "could adversely affect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and credit information, including revenue declines, expense reductions, improved operating ratio, and stable investment-grade ratings. Risk factors include volume weakness in coal, intermodal, chemicals, and automotive markets, along with potential higher financing costs if ratings fall below investment grade. The extensive terminology and omitted contractual-obligation tables limit evaluation of some underlying exposures."
+}

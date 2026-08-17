@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to various closing conditions",
+    "cannot be certain when or if",
+    "numerous conditions including regulatory approval",
+    "reasonably possible or remote",
+    "does not represent our maximum loss exposure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides clear segment-level drivers, but contains meaningful uncertainty around the BofI transaction, regulatory approval, capital constraints, and litigation contingencies. Risk tone is mildly negative due to declining pretax income and margins, transaction delays, and potentially unbounded legal exposure, although disclosures remain relatively specific."
+}

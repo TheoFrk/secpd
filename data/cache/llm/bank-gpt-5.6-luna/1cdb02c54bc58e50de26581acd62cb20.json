@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "could have the effect of",
+    "acceptable prices in condensed timeframes",
+    "customary for financings of this type",
+    "not necessarily indicative of future performance"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, detailing asset sales, debt repayments, liquidity, collateral, covenants, and interest costs. Liquidity improved through substantial real estate dispositions and debt reduction, but the company remains exposed to refinancing, asset-sale timing and pricing, cyclical real estate conditions, and limited cash availability."
+}

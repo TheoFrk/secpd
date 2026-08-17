@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future events rarely develop exactly as forecast",
+    "we believe sales will improve",
+    "may require additional financing",
+    "sufficient to support operating requirements",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt reports a 10% sales decline, loss of a major customer, reduced cash from $1.594 million to $471,000, and possible need for additional financing. Management provides quantified historical results but relies on optimistic, uncertain forecasts for sales recovery, margin improvement, and liquidity sufficiency."
+}

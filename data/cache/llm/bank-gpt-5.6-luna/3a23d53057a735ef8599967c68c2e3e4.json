@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we expect",
+    "subject to known and unknown risks",
+    "what appears to be",
+    "notwithstanding",
+    "related-party franchisees"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with revenue, comparable sales, cost changes, and contractual commitments disclosed. Risk tone is cautiously positive, but forward-looking expectations rely on increased traffic and pricing, while COVID-19 effects, a fire-related closure, rising costs, and related-party franchise relationships remain material risks. Repetition, lengthy constructions, and minor apparent year-reference inconsistencies reduce clarity."
+}

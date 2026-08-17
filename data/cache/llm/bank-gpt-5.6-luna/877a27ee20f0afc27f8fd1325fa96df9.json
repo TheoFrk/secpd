@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to uncertainties",
+    "not possible to predict",
+    "significant judgments",
+    "interrelated assumptions",
+    "no sensitivity analysis"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified reserve and goodwill balances, but relies heavily on management estimates for collectability, inventory valuation, environmental remediation, impairment, and goodwill. Environmental costs and valuation outcomes are explicitly uncertain, while the refusal to provide sensitivity analysis limits transparency. Operating commentary is modestly positive but acknowledges excess capacity, margin compression, and elevated expenses."
+}

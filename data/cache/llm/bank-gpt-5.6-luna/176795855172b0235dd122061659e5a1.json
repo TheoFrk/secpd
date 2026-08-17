@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to accurately predict",
+    "highly uncertain",
+    "no assurance",
+    "may continue to disrupt",
+    "outside our control"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding liquidity, cash flows, debt, and capital allocation. It highlights meaningful customer concentration, pandemic-related supply-chain and demand risks, and substantial uncertainty around future impacts, while maintaining a moderately confident liquidity and operational tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance",
+    "could have a material impact",
+    "as necessary",
+    "items excluded from non-GAAP measures",
+    "tables may not foot due to rounding"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, identifying Russia, inflation, supply-chain disruption, COVID-19, and margin pressure as material risks. Risk language is appropriately cautious, but extensive non-GAAP discussion and repeated reconciliation caveats may complicate assessment of underlying performance."
+}

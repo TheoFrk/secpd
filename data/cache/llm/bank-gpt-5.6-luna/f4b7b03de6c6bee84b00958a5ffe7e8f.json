@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measure exclusions",
+    "significant and unusual items",
+    "future cash-flow assumptions",
+    "not have a material impact",
+    "favorable persistency"
+  ],
+  "risk_summary": "The excerpt is predominantly quantitative and presents improving earnings, premiums, sales, investment income, and book value, producing a moderately confident tone. Key risks include reliance on non-GAAP measures, retrospective LDTI adjustments, reserve development and assumption changes, and forward-looking expectations regarding investment turnover and policy liabilities."
+}

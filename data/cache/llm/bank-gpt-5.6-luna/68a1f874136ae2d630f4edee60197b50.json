@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future volatility could adversely affect",
+    "actual results could differ",
+    "not significant enough to merit separate disclosure",
+    "based on the best information available",
+    "truncated bridge-loan disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with clear year-over-year operating and liquidity disclosures. Risks include inflation, commodity costs, raw-material availability, weaker snack-food volume, higher returns, healthcare costs, and estimation uncertainty, although management states that liquidity is sufficient for fiscal 2023. The truncated debt discussion limits assessment of the company’s complete financing position."
+}

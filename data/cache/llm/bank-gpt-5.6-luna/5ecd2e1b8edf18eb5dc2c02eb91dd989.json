@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "primarily due to",
+    "certain costs",
+    "transfer price typically in excess",
+    "additional allowances may be required"
+  ],
+  "risk_summary": "The excerpt is generally informative and quantitatively grounded, describing business segments, revenue mix, operating metrics, and accounting policies. Risk disclosures are conventional, with estimation uncertainty around collectability, foreign currency, transfer pricing, and tax items, but no crisis-like tone is evident."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measure emphasis",
+    "excluding significant and unusual items",
+    "many other variables",
+    "anticipated elevated COVID-19 deaths",
+    "positive signs in core operations"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides clear year-over-year metrics, but repeatedly emphasizes non-GAAP measures and excludes realized or unusual items from core performance. COVID-19 claims materially increased and underwriting margins declined, with forward claims estimates dependent on numerous uncertain variables. Overall tone is cautiously positive, supported by premium and sales growth despite elevated mortality risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "subject to change at discretion",
+    "other risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt presents improving operating performance, cash generation, liquidity, and segment profitability, with substantial quantitative detail. However, the extensive boilerplate disclaimer and broad, non-quantified risk enumeration highlight exposure to demand, commodity prices, operational disruptions, financing, regulatory matters, and natural-gas production declines. Liquidity is described positively, but the excerpt is truncated and does not provide a complete view of obligations or downside sensitivity."
+}

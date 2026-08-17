@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures emphasized",
+    "adjusted results exclude significant charges",
+    "partially offset by",
+    "items affecting comparability",
+    "not meaningful"
+  ],
+  "risk_summary": "The excerpt presents materially adverse performance, including revenue declines, a $451 million operating loss, a $1.28 billion net loss, lower Adjusted OIBDA, and substantial programming charges. Extensive use of adjusted measures and exclusions may soften the presentation of underlying results, although the filing provides quantified reconciliations and explanations. Ongoing weakness in linear advertising, streaming-related restructuring, content disruption from strikes, and strategic write-offs indicate elevated operating and execution risk."
+}

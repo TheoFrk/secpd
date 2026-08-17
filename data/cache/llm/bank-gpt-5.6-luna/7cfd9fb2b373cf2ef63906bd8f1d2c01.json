@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "significant judgments",
+    "alternative assumptions",
+    "more likely than not",
+    "future impairment charges"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative reconciliation and operating data, but relies on complex non-GAAP definitions and judgment-based valuation assumptions. It signals material credit risk through revenue deterioration, recurring operating losses, stockholders’ deficit, reorganization costs, and significant impairment charges, with potential for additional future impairments."
+}

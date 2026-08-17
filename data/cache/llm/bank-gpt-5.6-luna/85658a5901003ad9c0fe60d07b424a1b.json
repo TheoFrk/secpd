@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "we expect",
+    "partially offset",
+    "same store basis",
+    "critical estimates section truncated"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, detailing revenue and gross-profit mix, inventory levels, margin changes, interest costs, and operational impacts. Risk tone is moderately negative due to declining earnings and gross profit, rising financing costs, increased inventory, and expected further margin moderation, though the company presents these factors in a controlled and factual manner. Assessment is limited somewhat because the critical accounting estimates discussion is truncated and segment tables are incomplete."
+}

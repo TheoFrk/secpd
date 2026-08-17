@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.88,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "boilerplate cross-reference",
+    "financial details omitted"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, or risk information and instead cross-references another document. This limits standalone transparency and prevents assessment of operating or credit developments from the excerpt alone."
+}

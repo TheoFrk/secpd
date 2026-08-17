@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "other factors and trends",
+    "if circumstances warrant",
+    "reasonably could have used",
+    "subject to collectability or contractual limitations"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and quantitative operating data, but relies heavily on management judgment, assumptions, and broad qualitative factors in allowance, valuation, and impairment estimates. Credit and valuation risks are acknowledged without presenting sensitivity analyses or quantified downside scenarios, while the dense technical presentation reduces accessibility."
+}

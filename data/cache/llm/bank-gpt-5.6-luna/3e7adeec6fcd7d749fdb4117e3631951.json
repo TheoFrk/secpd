@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "other factors that could cause",
+    "reasonable and supportable forecasts",
+    "uncertainty regarding future conditions"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and a broad, largely unquantified catalog of potential risks, limiting visibility into future performance. Credit, funding, interest-rate, regulatory, real-estate, cyber, and macroeconomic exposures are material, although the discussion notes improved conditions and substantial pandemic support. The allowance methodology is detailed but depends significantly on management assumptions, forecasts, and qualitative adjustments."
+}

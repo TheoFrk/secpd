@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk-factor cross-reference",
+    "material breach of payment obligations",
+    "remaining payment stream",
+    "subject to conditions",
+    "non-GAAP measures not directly comparable"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified disclosures, including the approximately $19.3 million HPE termination obligation, equity issuance proceeds, debt terms, and conversion features. Credit risk is elevated due to a payment default, terminated operating agreement, weak GPU demand, ongoing reliance on equity financing, and high-cost debt. The disclosure is highly complex and includes substantial legal and boilerplate language that may impede assessment of the full exposure."
+}

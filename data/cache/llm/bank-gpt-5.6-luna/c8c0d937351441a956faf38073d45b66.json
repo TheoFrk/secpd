@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "could have a material adverse effect",
+    "subject to risks and uncertainties",
+    "among other things",
+    "potential future financing arrangements"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative exposure data, but relies heavily on actuarial assumptions, management estimates, and conditional language regarding reserves, impairments, reinsurance recoverability, and liquidity. Insurance reserve and investment valuation risks are material, while the truncated disclosure limits assessment of the company’s overall financial condition."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.34,
+  "confidence": 0.89,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "generally",
+    "principally reflecting",
+    "could differ from estimates",
+    "truncated and malformed disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial acquisition, accounting-policy, and quantitative disclosure, but contains dense jargon, boilerplate qualifiers, and an apparent truncation or formatting corruption. Key risks include impairment sensitivity, estimation uncertainty in receivables and contracts, acquisition-related leverage, and exposure to cyclical aerospace and defense markets; overall tone is moderately positive due to record net income and stated cost controls."
+}

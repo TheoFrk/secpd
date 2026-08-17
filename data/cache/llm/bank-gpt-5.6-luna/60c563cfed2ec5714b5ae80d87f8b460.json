@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "going concern qualification",
+    "no assurance of additional capital",
+    "modify business plan or cease operations",
+    "expense associated with obtaining debt",
+    "related-party loans"
+  ],
+  "risk_summary": "The company reports sharply worsening net losses, substantial debt-related financing costs, unpaid royalties, and reliance on external capital. The explicit going-concern qualification and uncertainty around future funding indicate material liquidity and business-continuity risk, despite significant revenue growth."
+}

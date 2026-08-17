@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "expected to substantially recover costs",
+    "non-U.S. GAAP measures",
+    "generally incur incremental costs",
+    "continued growth and improved profitability"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of sales, margins, cash flows, currency exposure, raw-material inflation, and capital spending. Risk tone is cautiously positive, but the outlook relies on expected pricing recovery, demand growth, restructuring benefits, and proprietary-product commercialization. Boilerplate forward-looking disclaimers and non-GAAP presentation modestly reduce transparency."
+}

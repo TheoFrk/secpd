@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective judgments and estimates",
+    "could adversely affect earnings",
+    "possible model failure",
+    "future changes in assessment",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure on loans, allowances, goodwill, and servicing rights. Risk is presented in measured, largely standard MD&A language, with material exposure to credit quality, impairment assumptions, interest rates, and mortgage prepayment models. The text is complex and partially boilerplate, while the truncated ending limits assessment of the full risk discussion."
+}

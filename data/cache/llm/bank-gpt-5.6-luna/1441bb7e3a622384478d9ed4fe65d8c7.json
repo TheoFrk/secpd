@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "difficult or impossible to anticipate",
+    "not possible to predict",
+    "may encounter difficulty",
+    "reasonably likely"
+  ],
+  "risk_summary": "The excerpt provides several quantified operating trends and attribution of year-over-year changes, but relies frequently on management beliefs, generalized macroeconomic discussion, and forward-looking uncertainty. Key risks include inflation, market volatility and unrealized investment losses, COVID-19 effects, reinsurance availability, lapses, and declining renewal premiums in certain markets."
+}

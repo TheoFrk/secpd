@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "estimated variable consideration",
+    "significant judgments and uncertainties",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes quantitative revenue, acquisition, and international-sales data, but relies heavily on standard MD&A caveats and qualitative causal explanations. Key risks include acquisition execution, foreign-exchange exposure, estimation uncertainty in revenue recognition and taxes, and weaker demand in wood-processing markets. Overall tone is cautiously positive, supported by demand growth in selected product lines despite segment declines and market pressures."
+}

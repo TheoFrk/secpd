@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ",
+    "unobservable inputs",
+    "subject to management estimates",
+    "discussion omits 2022 comparisons"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, including revenue growth, net loss, cash flows, debt obligations, and accounting assumptions. Risk is moderate due to the net loss, cybersecurity incident impacts, significant scheduled debt and interest payments, and reliance on uncertain yield, impairment, and contingent-consideration estimates. The omission of certain year-over-year comparisons reduces comparability but is explicitly disclosed."
+}

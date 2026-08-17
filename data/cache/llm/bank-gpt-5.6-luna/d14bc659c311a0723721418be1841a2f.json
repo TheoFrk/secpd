@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "strategic imperatives without details",
+    "cannot accurately measure",
+    "may change future product mix",
+    "could adversely affect",
+    "forward-looking statements boilerplate"
+  ],
+  "risk_summary": "The excerpt provides useful operating metrics and business descriptions, but includes substantial boilerplate and qualitative disclosures, including an apparently undeveloped strategic-imperatives section. Management expresses confidence in long-term growth while acknowledging inflation, competitive pressure, pandemic-related uncertainty, and estimation risk in insurance and lease-related obligations."
+}

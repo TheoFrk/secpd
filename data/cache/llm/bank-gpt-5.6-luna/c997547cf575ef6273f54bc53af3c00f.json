@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to significantly reduce",
+    "expected to capture high value",
+    "could negatively affect",
+    "if any",
+    "negative capital and negative operating results"
+  ],
+  "risk_summary": "The excerpt combines detailed operating descriptions with numerous forward-looking projections and promotional claims regarding future facilities, emissions reductions, tax credits, and market benefits. Liquidity risk is material, with volatile input and product prices, dependence on additional financing, potential difficulty raising capital, and references to negative capital and operating results. The excerpt is dense and partly boilerplate, while the truncation limits assessment of the full liquidity disclosure."
+}

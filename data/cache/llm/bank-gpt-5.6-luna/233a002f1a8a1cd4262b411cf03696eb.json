@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.63,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to",
+    "we believe",
+    "subject to a number of conditions",
+    "adequate liquidity",
+    "without significant new investment"
+  ],
+  "risk_summary": "The excerpt presents a confident growth and capital-allocation narrative supported by substantial operating and leverage metrics. However, it relies on forward-looking assumptions regarding housing, export demand, capacity utilization, debt issuance, separation execution, and dividend sustainability, with limited downside quantification."
+}

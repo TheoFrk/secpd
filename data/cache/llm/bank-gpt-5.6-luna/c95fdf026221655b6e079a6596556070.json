@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may make similar changes in the future",
+    "expected to create opportunities",
+    "could change, however",
+    "various events outside of our control",
+    "actual values may differ materially"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including subscriber counts, revenue decline, lease costs, debt balances, and quantified interest-rate sensitivity. Risk tone is moderately cautious, reflecting declining legacy voice demand, pandemic uncertainty, credit-loss increases, restructuring costs, affiliate exposure, and market-risk limitations, while management emphasizes ongoing mitigation efforts."
+}

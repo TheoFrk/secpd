@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and actual results could differ materially",
+    "assumptions believed to be reasonable",
+    "inherently uncertain and unpredictable",
+    "demand significantly above available capacity",
+    "could be required or could elect to seek additional funding"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, reporting detailed revenue, margins, earnings, liquidity, covenant compliance, and product-line performance. Key risks include supply constraints, capacity commitments, hiring pressure, uncertain tax positions, acquisition valuation assumptions, and potential impairment charges. The overall tone is positive due to record results and strong liquidity, but is moderated by standard forward-looking disclaimers and operational uncertainties."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "general uncertainty",
+    "we believe",
+    "we expect",
+    "barring any ... factors",
+    "limited downside risk"
+  ],
+  "risk_summary": "The disclosure is generally optimistic, supported by substantial market and operating metrics, but relies heavily on forward-looking expectations and macroeconomic assumptions. Key risks include consumer confidence, credit availability, fuel prices, political and international volatility, and high exposure to the RV market. The excerpt is lengthy and structurally complex, with some boilerplate and incomplete or corrupted text that reduces clarity."
+}

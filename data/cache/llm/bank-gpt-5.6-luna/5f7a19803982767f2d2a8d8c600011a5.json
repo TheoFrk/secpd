@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors discussed elsewhere",
+    "Adjusted EBITDA non-GAAP emphasis",
+    "primarily due to",
+    "sufficient to fund operations for at least 12 months"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but relies on standard forward-looking disclaimers and emphasizes Adjusted EBITDA despite declining net income and significant tax and restructuring charges. Liquidity appears adequate over the next 12 months, while foreign exchange exposure, operational restructuring, and potential business separation introduce moderate risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "actual results may differ materially",
+    "judgment and estimates",
+    "not readily apparent from other sources",
+    "immaterial variable consideration"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating outlook, supported by quantified revenue mix and expense figures, but includes standard forward-looking disclaimers and substantial reliance on management estimates. Revenue recognition and acquisition-related accounting involve significant judgment, while the truncated text limits assessment of downstream performance risks."
+}

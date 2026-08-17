@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "section heading only",
+    "cross-reference without analysis"
+  ],
+  "risk_summary": "The excerpt is purely an organizational heading and page reference, providing no substantive financial or risk disclosure. No meaningful assessment of the issuer’s condition or outlook can be made from this text alone."
+}

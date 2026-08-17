@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.32,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "repeated section title",
+    "no substantive disclosure",
+    "page-reference-only content"
+  ],
+  "risk_summary": "The excerpt is purely a navigational reference to the MD&A section and provides no financial, operational, or risk information. Its lack of substantive content prevents meaningful assessment of the issuer’s condition or risk trajectory."
+}

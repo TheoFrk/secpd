@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.49,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance can be given",
+    "no guarantee could be made",
+    "substantial amounts of capital",
+    "subject to uncertainty",
+    "expects to generate revenues"
+  ],
+  "risk_summary": "The disclosure provides detailed historical figures but relies heavily on boilerplate forward-looking disclaimers and uncommitted assumptions about future financing and revenue generation. Credit risk is elevated due to persistent net losses, substantial accrued interest and short-term debt, significant operating cash outflows, and dependence on additional financing. The reported improvement in net loss is materially supported by a one-time gain from debt settlement rather than sustainable operating performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.54,
+  "risk_sentiment": -0.86,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "anticipated sources of revenue",
+    "known and unknown risks",
+    "may be unable to expand operations"
+  ],
+  "risk_summary": "The company reports no operating revenue, a $511,382 net loss, and a decline in cash from $244,856 to $6,380 while acknowledging no current financing sources. Its anticipated revenue streams are speculative, and continued operations depend on raising capital, forming alliances, monetizing NFTs, or generating sufficient revenue. The extensive boilerplate risk disclaimer adds limited company-specific mitigation detail."
+}

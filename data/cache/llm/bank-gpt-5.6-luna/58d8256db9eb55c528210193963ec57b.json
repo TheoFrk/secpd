@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.03,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference to financial supplement",
+    "no substantive discussion in excerpt"
+  ],
+  "risk_summary": "The excerpt is a concise cross-reference and contains no substantive financial condition, operating results, or risk discussion. Assessment of underlying credit risk and disclosure quality is therefore limited to noting that the relevant analysis is located elsewhere."
+}

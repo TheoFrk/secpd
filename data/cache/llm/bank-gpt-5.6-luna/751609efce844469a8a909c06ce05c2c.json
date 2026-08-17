@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted net income excludes Tax Act impact",
+    "actual results could materially differ",
+    "among other factors",
+    "critical estimates and assumptions",
+    "truncated discussion of credit losses"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and presents generally positive operating and capital trends, including loan and deposit growth, despite a 29% reported net income decline driven by the Tax Act. Credit risk disclosures identify allowance methodology, impaired-loan criteria, and relevant risk factors, but rely on management estimates and broad qualitative judgments. The excerpt is truncated before completing several key discussions, limiting assessment of asset quality and loss provisioning."
+}

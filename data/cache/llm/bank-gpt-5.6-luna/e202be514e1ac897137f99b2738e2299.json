@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "certain projects",
+    "various projects",
+    "primarily due to",
+    "expected to",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed on revenue, earnings, cash flow, backlog, and tax impacts, but frequently attributes changes to broadly described projects and adjustments without identifying all underlying exposures. The tone is broadly optimistic, supported by backlog growth and infrastructure demand, while acknowledging project execution, litigation, tax, and completion-related risks."
+}

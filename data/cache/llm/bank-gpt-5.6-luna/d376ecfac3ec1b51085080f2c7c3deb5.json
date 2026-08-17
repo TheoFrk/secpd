@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "no assurances of additional financing",
+    "anticipated revenue from patent enforcement",
+    "materially different actual results",
+    "no obligation to update"
+  ],
+  "risk_summary": "The company reports no revenue, recurring liquidity constraints, minimal cash, substantial net losses, and dependence on additional financing or patent-related income. Although losses declined year over year and subsequent warrant proceeds provided cash, the patent portfolio had an imminent expiration date and operating viability remained highly uncertain."
+}

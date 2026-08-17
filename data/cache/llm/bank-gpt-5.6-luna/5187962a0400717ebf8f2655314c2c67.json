@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance of continued funding",
+    "entirely dependent on one funder",
+    "study will commence upon availability of funds",
+    "may be required to seek additional capital",
+    "cease operations if funding unavailable"
+  ],
+  "risk_summary": "The company has no significant revenue, recurring net losses, a stockholders’ deficit, and complete dependence on funding from Dr. Burzynski. Clinical-trial progress is contingent on funding, while regulatory setbacks and the withdrawal of a proposed Phase III trial increase execution risk. Although the disclosure is relatively specific and quantified, it clearly indicates substantial liquidity and going-concern vulnerability."
+}

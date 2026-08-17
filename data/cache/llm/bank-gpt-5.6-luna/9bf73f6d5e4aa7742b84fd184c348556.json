@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "uncertain if we will enter",
+    "materially decrease",
+    "subject to existing agreements",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and includes specific amounts, drivers, and timing, but it highlights material customer concentration risk tied to Buffalo Wild Wings, recurring losses, goodwill impairment, declining site and revenue metrics, and uncertain hardware demand. Repeated goodwill impairment discussion and extensive accounting boilerplate increase disclosure complexity without materially adding new risk information."
+}

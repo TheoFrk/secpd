@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "may require additional financing",
+    "no assurances can be given",
+    "actual results may differ",
+    "customer shipment dependence",
+    "repeated revenue recognition disclosure"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on licensing agreements, customer concentration, revenue timing, and financing, but highlights dependence on future customer commercialization and potential external funding. Liquidity risk is meaningful because continued operations may require financing if cash flow does not turn positive, with possible dilution or restrictive debt covenants."
+}

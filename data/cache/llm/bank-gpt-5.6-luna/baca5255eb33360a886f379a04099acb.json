@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "leading manufacturer and supplier",
+    "expect continued growth",
+    "primarily due to",
+    "customer destocking activities",
+    "cost reduction initiative"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and attributes declines to customer destocking, inflation, foreign exchange, and discontinued Russia-related volumes. Management maintains a cautiously positive outlook based on expected volume recovery, acquisitions, pricing pass-throughs, and $50 million of planned cost savings, although execution and demand-recovery risks remain."
+}

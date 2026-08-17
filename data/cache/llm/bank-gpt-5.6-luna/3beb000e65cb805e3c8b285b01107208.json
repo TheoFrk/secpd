@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.47,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of uncertainty",
+    "significantly adversely affected",
+    "could adversely impact",
+    "numerous steps",
+    "subjective or complex estimates"
+  ],
+  "risk_summary": "The excerpt presents a materially adverse COVID-19 risk outlook, emphasizing borrower distress, potential credit deterioration, margin compression, higher provisions, collateral declines, and adverse effects on capital and results. While some financial tables and accounting explanations are detailed, the disclosure provides limited quantitative estimates of exposure, expected losses, mitigation actions, or scenario severity."
+}

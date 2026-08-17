@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "highly subjective, complex and subject to variability",
+    "uncertainty in economic forecast",
+    "primarily due to",
+    "read in conjunction with"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides substantial detail on earnings, credit quality, capital, and liquidity, limiting overall evasiveness. Risk factors include declining net income, significant period-end deposit outflows, higher economic uncertainty, and pressure on mortgage banking revenue, although credit metrics and capitalization remain relatively strong."
+}

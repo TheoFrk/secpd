@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "many uncertainties",
+    "may prove to be incorrect",
+    "do not provide forward-looking estimates",
+    "significant additional research and development",
+    "if unable to raise additional capital"
+  ],
+  "risk_summary": "The company is clinical-stage, has generated no product revenue, and expects increasing and highly volatile research and development costs. It explicitly declines to estimate development costs and timelines, while highlighting substantial regulatory, clinical, funding, dilution, and execution risks. The disclosure is generally transparent about these risks but remains heavily caveated and lacks quantified forecasts in the excerpt."
+}

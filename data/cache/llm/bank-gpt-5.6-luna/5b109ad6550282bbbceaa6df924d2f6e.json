@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "exploring strategic alternatives",
+    "extent of impact will be determined",
+    "unless otherwise noted",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes quantified COVID-19 revenue and operating-income losses, a $1.48 billion acquisition, and segment developments. Risk remains elevated from continuing pandemic effects, potential disruption to clinical operations, acquisition financing and integration, and uncertainty surrounding the Financial Services segment’s strategic alternatives. Extensive definitions, cross-references, and forward-looking caveats add boilerplate and reduce readability but do not appear strongly evasive."
+}

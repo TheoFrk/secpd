@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes allowance is adequate",
+    "actual results could differ",
+    "subjective environmental factors",
+    "fair value estimates and judgment",
+    "material impact on ability to repay"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but relies on standard management-judgment and uncertainty language regarding loan-loss allowances, fair values, and collectability. Credit concentration and geographic real-estate exposure are meaningful risks, while reported profitability remained positive despite lower return metrics and several cost pressures."
+}

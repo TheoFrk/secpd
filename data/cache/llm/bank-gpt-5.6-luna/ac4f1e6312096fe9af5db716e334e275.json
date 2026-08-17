@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonable under the circumstances",
+    "probable recovery",
+    "various assumptions and estimates",
+    "may differ from estimates",
+    "dependent upon several factors"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and some quantified regulatory rate impacts, but relies heavily on conditional language and management estimates regarding environmental liabilities, regulatory asset recovery, actuarial assumptions, and impairment. Key downside risks include disallowance of regulatory costs, changes in regulations or market assumptions, litigation, insurance recoveries, and remediation outcomes."
+}

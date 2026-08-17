@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to the following",
+    "useful information",
+    "non-GAAP measures and limitations",
+    "significant portion of revenues",
+    "outcome cannot be predicted with certainty"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial information and explains major year-over-year changes, but relies repeatedly on generic attribution language and includes extensive boilerplate around Adjusted EBITDA. Risk signals include sharp revenue declines, customer concentration, prior-year impairments, forward loss reserves, and restructuring activity, although improved profitability and debt reduction create a cautiously improving tone."
+}

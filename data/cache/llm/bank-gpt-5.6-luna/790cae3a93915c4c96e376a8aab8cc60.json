@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance repayment transaction",
+    "may be paid up to",
+    "do not anticipate significant income",
+    "subject to shareholder approval",
+    "deferred interest payments"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, but contains material uncertainty around repayment of the $19.5 million NJV Loan Receivable and accumulated deferred interest. Recent property sales and acquisitions support activity levels, while persistent tax loss carryforwards, no cash dividends since 2010, and reliance on favorable transactions indicate moderate financial risk."
+}

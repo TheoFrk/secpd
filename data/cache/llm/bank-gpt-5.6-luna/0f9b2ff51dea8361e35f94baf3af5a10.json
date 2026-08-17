@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximate due to rounding",
+    "anticipated near-term headwinds",
+    "expected over time",
+    "excluding the impact of",
+    "constant currency basis"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, but it reports significant deterioration, including a $110.0 million goodwill impairment, $89.5 million trademark impairment, operating losses, higher interest expense, and COVID-19 pressures. Management uses some adjusted, constant-currency, and forward-looking measures that may soften comparability and uncertainty around recovery. Overall risk tone is materially negative despite confidence in the Education Services unit’s long-term potential."
+}

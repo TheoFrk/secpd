@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "inherent uncertainty",
+    "many other factors",
+    "qualitative information",
+    "actual results could differ significantly"
+  ],
+  "risk_summary": "The disclosure is generally detailed and transparent about reserve methodology, key assumptions, and sources of variability, but relies heavily on qualitative judgment and forward-looking uncertainty language. The company presents a confident operating track record, including 29 consecutive years of underwriting profitability, while acknowledging material reserve, catastrophe, legal, inflation, and claims-development risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "numerous assumptions, risks and uncertainties",
+    "actual results could differ materially",
+    "inherently subjective",
+    "cannot be reasonably estimated",
+    "safe harbor disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on credit-loss allowances, deposits, valuation issues, and acquisition effects, supporting relatively transparent disclosure. However, it relies heavily on standard forward-looking disclaimers and emphasizes subjective estimates, changing conditions, and valuation uncertainty. Risk tone is cautious and mildly negative rather than crisis-like."
+}

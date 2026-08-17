@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor cautionary language",
+    "numerous assumptions, risks and uncertainties",
+    "significant management judgment",
+    "actual results could differ materially",
+    "nonrecurring items excluded"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance, capital-raising, investment-loss, and earnings-guidance information, but relies heavily on standard forward-looking disclaimers and management assumptions. Key risks include significant realized investment losses, impairment judgments, foreign-exchange sensitivity, insurance-liability estimates, and refinancing obligations."
+}

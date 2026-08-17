@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.91,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance of project success",
+    "substantial doubt about going concern",
+    "believes Agreement is no longer in effect",
+    "may fluctuate from year-to-year",
+    "dependent on obtaining necessary capital"
+  ],
+  "risk_summary": "The company has no operations, minimal cash of $15,655 versus $4.07 million in payables and accrued expenses, continued expected losses, substantial going-concern doubt, debt defaults, and an involuntary bankruptcy petition. Its casino development depends on obtaining substantial financing and regulatory and operational milestones that remain uncertain. Reported 2015 income was materially supported by a noncash derivative-liability fair-value gain, while valuation assumptions create significant earnings volatility."
+}

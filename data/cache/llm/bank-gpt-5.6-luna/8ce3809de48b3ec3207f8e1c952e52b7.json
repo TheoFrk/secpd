@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "largely due to",
+    "some risk grade migration",
+    "strategic repositioning",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed performance, credit-quality, liquidity, and capital metrics. Risk tone is moderately confident, supported by low charge-offs, declining nonperforming assets, strong capital ratios, and deposit growth, though margin compression, higher potential problem loans, risk-grade migration, and securities losses remain notable concerns."
+}

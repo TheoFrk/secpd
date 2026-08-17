@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "minimal sales",
+    "may be suspended or terminated",
+    "N/M equals not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but relies repeatedly on causal qualifiers and offsetting explanations. Risk tone is mildly negative due to declining sales, segment losses, operational inefficiencies, increased legal costs, and ongoing litigation, although the presentation remains largely factual rather than crisis-oriented."
+}

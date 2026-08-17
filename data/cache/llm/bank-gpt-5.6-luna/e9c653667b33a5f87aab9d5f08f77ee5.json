@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could have a material adverse impact",
+    "ability to... will depend",
+    "typically offset only a portion",
+    "other factors",
+    "selective expansion"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively supported, but presents substantial exposure to automotive production cycles, customer concentration, pricing pressure, commodity volatility, supplier distress, and restructuring needs. Management describes mitigation strategies and improving production trends, though it acknowledges that these actions may only partially offset adverse effects."
+}

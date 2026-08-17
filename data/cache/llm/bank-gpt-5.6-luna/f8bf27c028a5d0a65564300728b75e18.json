@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and associated risks",
+    "subject to risks, uncertainties, and other factors",
+    "actual results may differ materially",
+    "inherently subjective",
+    "susceptible to significant change"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, especially regarding acquisition impacts, earnings, expenses, and credit-loss accounting. Risk disclosure is partly boilerplate and repeated, while allowance estimates rely heavily on management judgment and uncertain economic forecasts. Overall tone is mildly positive due to improved 2023 earnings, but it acknowledges material credit and forecast uncertainty."
+}

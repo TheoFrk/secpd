@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "acceptable return on capital",
+    "materially better or worse",
+    "less certain",
+    "intended to allow",
+    "within the confines of capital and infrastructure constraints"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and comparatively transparent about portfolio performance, funding sources, advance rates, and forecast uncertainty. Key risks include dependence on capital access, collection-rate forecasting, competitive pricing pressure, and greater uncertainty in newer loan vintages. The tone is cautiously positive, emphasizing growth and profitability while acknowledging sensitivity to credit performance and funding conditions."
+}

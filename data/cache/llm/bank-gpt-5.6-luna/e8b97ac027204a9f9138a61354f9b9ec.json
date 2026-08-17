@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance future growth",
+    "could offset impacts",
+    "expected to increase",
+    "currently assessing the impact",
+    "ongoing patent litigation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results, but relies on forward-looking and conditional language regarding growth, profitability, reimbursement pressure, and accounting adoption impacts. A major risk signal is the $57.3 million in net legal settlements, alongside payer, research-funding, competitive, and foreign-exchange pressures; the overall tone is mixed rather than crisis-like."
+}

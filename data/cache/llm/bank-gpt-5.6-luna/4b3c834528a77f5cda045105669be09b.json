@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "items affecting comparability",
+    "currently expects",
+    "intends to pursue",
+    "primarily attributable to",
+    "portfolio assumption"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed operating, pricing, production, liquidity, debt, and impairment data. Risk is moderate: debt and leverage increased, production is forecast to decline, results remain exposed to commodity prices and Russian portfolio assumptions, and several assets were impaired or divested. The overall tone is cautiously constructive, emphasizing strategic transformation and improved earnings while acknowledging operational and portfolio uncertainty."
+}

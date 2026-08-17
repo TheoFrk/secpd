@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "subject to revision",
+    "appears to be healthy",
+    "plus or minus a couple of points"
+  ],
+  "risk_summary": "The disclosure is largely precise and strongly quantified, describing substantial revenue, earnings, cash flow, margin, and investment figures. Its tone is confident and favorable, though extensive forward-looking safe-harbor language, forecast ranges, and references to uncertainty limit predictability. Key risks include technology transition costs, product and market acceptance, inventory conditions, and inherently risky non-marketable equity investments."
+}

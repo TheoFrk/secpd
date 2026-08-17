@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict or control",
+    "cannot determine with any degree of certainty",
+    "numerous assumptions and judgments",
+    "factors beyond our control",
+    "continued volatility"
+  ],
+  "risk_summary": "The disclosure identifies substantial exposure to commodity prices, reserve estimation, derivative counterparty risk, operational variability, and asset retirement obligations. It provides useful quantified cash flow and operating metrics, but relies heavily on generalized risk language and management assumptions, with limited sensitivity analysis or quantified downside scenarios. A date inconsistency and truncated text reduce disclosure quality and reliability."
+}

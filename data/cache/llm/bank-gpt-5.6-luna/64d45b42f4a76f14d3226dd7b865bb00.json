@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors",
+    "based on present conditions",
+    "does not assume obligation to update",
+    "truncated foreign-exchange disclosure"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, including segment-level sales, margins, pandemic impacts, and foreign-exchange effects. Risk tone is mixed: pandemic-related demand declines and market uncertainty are clearly acknowledged, while profitability, cost controls, and operating continuity are presented positively. The standard forward-looking disclaimer is broad and boilerplate but does not materially obscure the historical results."
+}

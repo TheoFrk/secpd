@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to certain limitations",
+    "in general, no principal payments",
+    "remaining proceeds for working capital",
+    "adjusted EBITDA",
+    "limited-purpose, bankruptcy-remote subsidiaries"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear explanations of sales, cost, refranchising, and ASC 606 impacts. Complexity is elevated by extensive accounting, securitization, and non-GAAP terminology, while the debt structure and leverage-linked payment provisions represent notable credit risks. Overall tone is factual and mildly constructive rather than crisis-like."
+}

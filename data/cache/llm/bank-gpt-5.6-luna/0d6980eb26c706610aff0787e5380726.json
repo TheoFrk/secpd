@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "adjusted diluted earnings per share",
+    "restructuring and other costs",
+    "anticipated sale",
+    "estimated fair values",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, with clear year-over-year operating metrics and restructuring amounts. Risk is elevated by recurring restructuring, asset impairments, underperforming businesses, facility closures, headcount reductions, foreign-exchange pressure, and an anticipated non-cash loss on sale, although improved operating income and margins provide a moderately balanced tone."
+}

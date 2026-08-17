@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "disclaims any obligation to update",
+    "other words of similar meaning",
+    "expected ultimate claims"
+  ],
+  "risk_summary": "The excerpt is generally confident and supported by extensive operating and financial quantification, including revenue, earnings, client, payroll, and employee metrics. Risk disclosure is largely standardized, emphasizing broad macroeconomic, regulatory, competitive, acquisition, insurance, and execution uncertainties without estimating their likelihood or financial impact. Fiscal 2010 performance deterioration and exposure to claims, reinsurance, interest rates, and acquisitions represent notable credit risks, although fiscal 2011 results indicate recovery."
+}

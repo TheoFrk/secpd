@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no obligation to update",
+    "non-GAAP adjusted EBITDA",
+    "discontinued operations recast",
+    "collapse in commodity prices"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking-statement disclaimers and emphasizes limitations of adjusted EBITDA, which may reduce transparency around performance and risk. However, it provides meaningful quantitative operating detail, including sales declines, foreign-exchange impacts, inventory write-downs, business exits, and commodity-price pressure. Overall, the risk tone is moderately negative but not crisis-like."
+}

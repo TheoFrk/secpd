@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "assumes no obligation to update",
+    "strategic mission language",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and risk-disclaimer language, along with broad strategic statements that are not directly measurable. However, it also provides meaningful operating metrics and specific disclosures, including declining Applebee's sales, franchisee bankruptcy, restaurant closures, and the effects of refranchising."
+}

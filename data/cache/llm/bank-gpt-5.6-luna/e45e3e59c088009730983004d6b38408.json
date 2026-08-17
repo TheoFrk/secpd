@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "may be utilized",
+    "could take a number of years",
+    "all projects are under development",
+    "subjective fair-value assumptions"
+  ],
+  "risk_summary": "The company is pre-revenue, loss-making, and dependent on repeated equity, convertible-note, and loan financing, creating substantial liquidity and dilution risk. Clinical development and regulatory outcomes remain uncertain despite removal of a prior FDA clinical hold, while derivative valuations and impairment assessments introduce earnings volatility and estimation risk."
+}

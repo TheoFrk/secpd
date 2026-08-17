@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.18,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "not possible to foresee all factors",
+    "additional sources of finance may be necessary",
+    "adequate liquidity for at least 12 months",
+    "subject to risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and balance-sheet information, including sales growth, debt, borrowing capacity, inventory, and interest expense. However, it includes extensive boilerplate risk-factor language and limited quantification of liquidity stress scenarios, while debt growth, reduced borrowing capacity, inventory expansion, and possible future financing needs indicate moderate credit risk despite improved earnings."
+}

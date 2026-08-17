@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "continues to pose a risk",
+    "significant uncertainty",
+    "we believe",
+    "from time to time",
+    "not expected to significantly impact"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively grounded, identifying key exposures including steel overcapacity, trade-duty circumvention, volatile scrap prices, margin timing effects, and interest-rate risk. Management presents a generally confident tone supported by diversification, liquidity, variable costs, and mitigation strategies, while acknowledging meaningful cyclical and market risks."
+}

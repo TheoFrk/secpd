@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "many factors not anticipated",
+    "cannot be reasonably estimated",
+    "non-GAAP adjustments",
+    "text truncated with omissions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, earnings, COVID-19, and financing data, supporting relatively transparent historical analysis. Risk disclosure is partly generalized through standard safe-harbor language and uncertainty around COVID-19 impacts, while the overall tone remains confident and emphasizes resilience, stable cash flow, and growth. The truncated passage limits assessment of potentially material subsequent disclosures."
+}

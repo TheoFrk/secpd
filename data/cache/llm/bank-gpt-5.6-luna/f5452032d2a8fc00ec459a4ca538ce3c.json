@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "forward-looking statements",
+    "subject to numerous assumptions, risks, and uncertainties",
+    "projected positive cash-flow",
+    "may be available on terms that are favorable or at all"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative detail on declining revenue, continuing losses, negative operating cash flow, minimal cash, and a substantial working-capital deficit. However, extensive forward-looking and cautionary boilerplate, reliance on projected positive cash flow, and limited discussion of concrete liquidity remedies create a materially adverse risk profile."
+}

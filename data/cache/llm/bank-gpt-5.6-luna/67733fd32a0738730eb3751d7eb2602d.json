@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "highly dependent on",
+    "significant management assumptions",
+    "not more likely than not",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial segment descriptions and quantified year-over-year sales data, but relies on broad assertions about reputation, market dependence, and future success. Key risks include commodity competition, customer launch timing, global dairy economics, raw-material costs, credit deterioration, and impairment assumptions. The overall tone is operationally confident but moderately qualified and exposed to external conditions."
+}

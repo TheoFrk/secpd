@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset",
+    "could cause actual results",
+    "no obligation to update",
+    "without limitation"
+  ],
+  "risk_summary": "The excerpt is comparatively transparent and well quantified, with detailed revenue, margin, expense, store-count, and same-store performance data. Results and operating trends are generally positive, although rising operating expenses, margin pressure in some categories, competitive intensity, fuel-price exposure, and reliance on renewable fuel credits represent meaningful risks. The forward-looking disclaimer is standard boilerplate and somewhat broad but does not materially obscure the historical performance discussion."
+}

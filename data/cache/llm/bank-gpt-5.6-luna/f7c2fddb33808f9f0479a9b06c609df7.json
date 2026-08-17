@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "estimates of future claim payments",
+    "most likely ultimate liability",
+    "additional information",
+    "hoped for results",
+    "various loss adjustment expenses"
+  ],
+  "risk_summary": "The excerpt is largely standardized insurance-industry background and accounting-policy explanation, with moderate quantification of expenses and policy runoff. Loss reserves depend on actuarial estimates and evolving claims information, while commercial auto performance was sufficiently poor to prompt discontinuation of new business and renewals."
+}

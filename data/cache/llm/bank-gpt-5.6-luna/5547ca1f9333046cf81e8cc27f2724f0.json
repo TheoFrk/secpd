@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be accurately predicted",
+    "we believe",
+    "intent on ensuring",
+    "high growth market opportunities",
+    "if no other means of financing are available"
+  ],
+  "risk_summary": "The excerpt combines highly promotional growth language with substantial uncertainty around COVID-19, supply-chain disruption, operating losses, and reliance on external capital. Liquidity disclosure is relatively specific through December 2022, but the stated risk of default or materially reduced operations if additional financing is unavailable indicates meaningful going-concern and funding risk."
+}

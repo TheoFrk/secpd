@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "amounts vary from time to time",
+    "actual returns could be substantially different",
+    "may be obligated to make substantial capital expenditures",
+    "categorization may change in the future"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and explains key year-over-year revenue and expense changes, but it contains substantial cross-references and standard forward-looking caveats. Risk tone is moderately negative due to declining revenue, lower operating cash flow, pension-return uncertainty, affiliate exposure, and potential CAF II capital requirements."
+}

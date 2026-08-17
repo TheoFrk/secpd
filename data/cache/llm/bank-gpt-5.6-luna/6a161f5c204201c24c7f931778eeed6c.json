@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to accurately estimate",
+    "when, if ever",
+    "may vary significantly",
+    "promising results in early clinical trials",
+    "terms reasonably acceptable to us"
+  ],
+  "risk_summary": "The excerpt presents a broad but predominantly early-stage oncology pipeline with substantial clinical, regulatory, partnering, timing, and financing uncertainty. Although it includes meaningful program details and historical R&D spending, it relies heavily on conditional language and non-quantifiable expectations regarding efficacy, commercialization, costs, and capital needs."
+}

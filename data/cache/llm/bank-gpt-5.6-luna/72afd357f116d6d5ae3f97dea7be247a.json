@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "primarily due to",
+    "due mainly to: partially offset by:",
+    "Venezuela results excluded",
+    "fair value deemed insignificant"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but relies on non-GAAP measures and repeated exclusion of Venezuela-related effects, which may obscure underlying performance. The negative risk tone reflects the $126.7 million deconsolidation loss, negative GAAP income, elevated interest expense, severe currency volatility, and political and economic uncertainty in Venezuela."
+}

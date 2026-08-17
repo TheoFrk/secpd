@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance production information is accurate",
+    "not independently verified",
+    "expected to",
+    "progressing",
+    "unable to perform drilling"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operational, exploration, budget, and production data, supporting relatively transparent disclosure. However, reliance on joint-venture operator data, extensive forward-looking expectations, permitting dependencies, adverse drilling conditions, and incomplete project certainty create meaningful execution and information-quality risks."
+}

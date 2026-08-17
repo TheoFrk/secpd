@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "ultimate impact cannot be reasonably estimated",
+    "additional impacts ... may arise",
+    "closely monitor and adapt",
+    "if necessary",
+    "not more likely than not"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on COVID-19 impacts, liquidity actions, deferred payroll taxes, and sensitivity estimates, reducing concerns about evasiveness. Risk remains elevated due to pandemic-related uncertainty, fluctuating restrictions, deferred obligations, franchise royalty pressure, and judgment-dependent goodwill valuation. The tone is measured and operationally resilient rather than crisis-like, but the excerpt is partly boilerplate and omits portions of key tables."
+}

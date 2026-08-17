@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "materially different financial condition",
+    "subjective and complex judgments",
+    "more-likely-than-not",
+    "among other things",
+    "could differ significantly"
+  ],
+  "risk_summary": "The excerpt is technically detailed but heavily reliant on standard accounting-policy boilerplate and management judgment, particularly for securities valuation, loan-loss allowances, collateral values, and deferred tax assets. It identifies meaningful estimation and market risks without quantifying their potential financial impact; the operating discussion is modestly positive, citing asset and revenue growth, but notes normalization and fee-related pressures."
+}

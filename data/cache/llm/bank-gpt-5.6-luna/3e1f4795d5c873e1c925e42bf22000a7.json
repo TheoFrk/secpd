@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "including, but not limited to",
+    "we believe",
+    "certain portion of our cash",
+    "forward-looking statements",
+    "results may differ materially"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year revenue, margin, and expense data, supporting relatively transparent performance analysis. Risk disclosures are largely standard boilerplate, while macroeconomic pressures, international exposure, rising costs, reduced margins, and unspecified cash investment levels create moderate risk. Overall tone is cautiously positive, emphasizing growth and profitability despite acknowledged external pressures."
+}

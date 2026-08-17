@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "various factors",
+    "if certain events occur",
+    "future period impairment charge",
+    "non-GAAP measures may differ"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, highlighting strong earnings growth, profitability, and capitalization while identifying loan-loss, securities impairment, goodwill, regulatory, and economic risks. Risk disclosure relies on standard judgment-based and conditional language, with repeated goodwill discussion and limited quantified sensitivity analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliations",
+    "not considered indicative",
+    "non-core and unallocated assets",
+    "methodology changes not adjusted",
+    "do not place undue reliance"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, margins, loan growth, funding costs, and capital metrics. Boilerplate non-GAAP caveats, non-core asset classifications, and changes in FTP and loan-to-deposit methodologies create some comparability and interpretive risk. Overall tone is positive, although rising deposit and borrowing costs and reliance on adjusted measures warrant monitoring."
+}

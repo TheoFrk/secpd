@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "estimates and assumptions",
+    "inherently uncertain",
+    "probable expectation of recovery",
+    "material effect on earnings"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative disclosure on regulatory, environmental, derivative, and investment matters, but relies on estimates and regulatory recovery assumptions. Risk tone is cautiously constructive, emphasizing growth while acknowledging uncertainty around remediation methods, recoveries, accounting treatment, and future results."
+}

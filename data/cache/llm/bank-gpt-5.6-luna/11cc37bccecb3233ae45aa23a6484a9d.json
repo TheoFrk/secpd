@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.55,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties cannot be predicted or quantified",
+    "do not place undue reliance",
+    "expressly disclaim any obligation",
+    "non-GAAP limitations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, liquidity, cash flow, and debt information, indicating strong current financial performance and a debt-free balance sheet. However, extensive boilerplate forward-looking language, broad disclaimers, and reliance on non-GAAP adjusted metrics introduce moderate disclosure and interpretive risk. Key exposures include fuel-price volatility, capital-intensive equipment needs, driver availability, freight demand, and limited protection from short-term cost increases."
+}

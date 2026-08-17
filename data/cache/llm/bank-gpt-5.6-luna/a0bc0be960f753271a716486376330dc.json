@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "materially differ",
+    "may need to raise additional capital",
+    "Adjusted EBITDA exclusions"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, citing a $3.7 million net loss, $2.6 million negative working capital, operating cash outflows, impairments, regulatory pressure, and heightened competition. It explicitly states that additional capital may be required and raises going-concern concerns, although operating results and liquidity data are reasonably quantified. Extensive forward-looking and non-GAAP boilerplate adds some interpretive complexity but is not unusually evasive."
+}

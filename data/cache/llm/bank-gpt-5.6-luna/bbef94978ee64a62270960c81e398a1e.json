@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "refer to information",
+    "no substantive detail"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and instead directs readers to another report. This limits transparency within the filing section and requires reliance on external or prior-period materials."
+}

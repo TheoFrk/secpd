@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "assumes COVID-19 conditions will improve",
+    "to the extent practicable",
+    "attractive markets and industries",
+    "significant aftermarket demand",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial operational, segment, acquisition, debt, restructuring, and liquidity detail, but the 2021 outlook relies on uncertain pandemic improvement and includes standard offsetting and forward-looking language. COVID-19 disruption, demand volatility, foreign exchange exposure, restructuring costs, and upcoming debt maturities remain material risks, although management presents stabilization and expected growth in a generally confident tone."
+}

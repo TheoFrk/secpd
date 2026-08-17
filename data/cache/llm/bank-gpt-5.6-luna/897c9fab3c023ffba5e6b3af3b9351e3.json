@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "we believe",
+    "subject to satisfaction of certain conditions",
+    "customary covenants and events of default",
+    "anecdotally we sense"
+  ],
+  "risk_summary": "The disclosure is highly quantified regarding portfolio activity, dispositions, liquidity, debt capacity, and covenant terms, supporting relatively strong transparency. The tone is generally confident and positive, but acknowledges exposure to employment and wage growth, new apartment supply, interest rates, moderating development capital, and competition. Some boilerplate disclaimers and broad qualitative assertions temper the otherwise detailed presentation."
+}

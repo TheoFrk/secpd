@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted with confidence",
+    "expected to refinance all loans",
+    "reasonable market terms",
+    "sufficient liquidity and capital resources",
+    "projected cash flow insufficient to retire debt"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but identifies meaningful liquidity risk, including negative operating cash flow, substantial 2022 maturities and principal payments, and reliance on refinancing and external capital. Management expresses confidence in refinancing and ongoing liquidity without providing detailed contingency scenarios or lender commitments, creating moderate execution risk."
+}

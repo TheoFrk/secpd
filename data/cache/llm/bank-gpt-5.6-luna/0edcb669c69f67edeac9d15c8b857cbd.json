@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due",
+    "partially offset",
+    "could be slightly higher",
+    "subject to future change",
+    "judgments and estimates"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, detailing production, pricing, cost, tax, derivative, and reserve changes. Key risks include commodity-price exposure, production declines, higher debt costs, derivative losses, and material estimation uncertainty, particularly because the company is a non-operator. Overall tone is cautiously positive but acknowledges operational and market volatility."
+}

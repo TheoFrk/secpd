@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to the terms and conditions",
+    "a number of factors",
+    "tend to include",
+    "may be used",
+    "approximately $2.1 billion"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, but includes standard boilerplate descriptions and some hedged explanations of revenue variability and commodity exposure. Risk is elevated by declining sales, goodwill and asset impairments, near-term note maturities, and substantial bridge financing tied to the Rexnord transaction, despite stated covenant compliance."
+}

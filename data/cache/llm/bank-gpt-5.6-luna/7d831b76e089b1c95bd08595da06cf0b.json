@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "no obligation to update",
+    "primarily attributed to",
+    "may be impacted by future changes",
+    "non-GAAP measures and comparability caveat"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but includes standard forward-looking disclaimers and non-GAAP presentation caveats. Earnings declined in 2019 while the provision for loan losses increased materially, although expansion, acquisitions, and new fee-generating initiatives create a broadly constructive tone."
+}

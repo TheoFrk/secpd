@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "among other things",
+    "actual results could differ significantly",
+    "not limited to",
+    "primarily due to",
+    "qualitative considerations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but highlights earnings pressure from rising expenses, funding costs, inflation, regulatory costs, and higher credit-loss provisions. Credit risk is acknowledged through increased ACL levels and qualitative reserves tied to unemployment and corporate bond yields, without indicating an acute deterioration in portfolio performance."
+}

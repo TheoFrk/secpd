@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.31,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "committed to helping",
+    "expected to open",
+    "approximately",
+    "as a result",
+    "information is incomplete"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, with clear segment definitions, ratio calculations, seasonality explanations, and transaction amounts. Risk is presented in a mostly neutral-to-positive tone, although acquisition accounting is incomplete and several strategic commitments and outcomes remain forward-looking. Dense healthcare, accounting, and regulatory terminology materially increases processing complexity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects revenues to increase",
+    "may cause volatility",
+    "not have a material effect",
+    "reasonably possible loss",
+    "more moderate pace"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, showing substantial revenue, earnings, cash-flow, and operating-metric detail. The tone is cautiously positive, but it acknowledges exposure to fuel prices, economic conditions, coal demand, rate litigation, and reduced liquidity. Forward-looking statements rely on moderate hedging and materiality qualifiers, though key exposures are accompanied by specific amounts or operational context."
+}

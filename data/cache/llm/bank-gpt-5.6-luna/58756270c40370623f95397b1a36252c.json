@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "continue to seek growth opportunities",
+    "we believe",
+    "anticipated growth",
+    "significant growth opportunities",
+    "adequate to provide sufficient working capital"
+  ],
+  "risk_summary": "The excerpt provides substantial operating detail and quantitative metrics, including customer counts, water volumes, cash flow, and capital expenditures. Risk discussion is present but generally framed as manageable, with limited quantification of downside from weather, construction conditions, rate approvals, acquisitions, or financing needs. Overall tone is confident and growth-oriented, though portions rely on optimistic projections and boilerplate strategic language."
+}

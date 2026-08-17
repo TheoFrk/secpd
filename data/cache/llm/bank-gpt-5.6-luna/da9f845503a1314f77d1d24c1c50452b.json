@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantially all of our revenue",
+    "we believe our payor diversity mitigates",
+    "predictable stream of revenue",
+    "qualitative analysis",
+    "contingent consideration based on defined thresholds"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear operating, payer, acquisition, liquidity, and facility metrics. Risk is moderated by payer concentration, reimbursement and seasonality exposure, acquisition-related obligations, and very low cash balances relative to receivables, although available revolving capacity provides liquidity support. The presentation is complex and includes some management-asserted mitigants that are not fully substantiated in this excerpt."
+}

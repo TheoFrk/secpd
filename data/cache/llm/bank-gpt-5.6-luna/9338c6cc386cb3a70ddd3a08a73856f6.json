@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offsetting",
+    "not considered meaningful",
+    "internal management reporting",
+    "expected expense pressure"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear segment definitions, year-over-year comparisons, and explanations of major drivers. Risk factors include declines in legacy voice, data, and video services, acquisition-related cost effects, debt-related interest and redemption costs, actuarial losses, and anticipated expense pressure from product and accounting changes. The tone is predominantly neutral and explanatory rather than crisis-like, but extensive technical and qualifying language increases interpretive complexity."
+}

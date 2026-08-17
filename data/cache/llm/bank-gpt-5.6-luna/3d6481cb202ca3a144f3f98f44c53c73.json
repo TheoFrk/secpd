@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "no assurance",
+    "prices likely to remain volatile",
+    "depending on a number of factors",
+    "uncertainty of generating taxable income"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well quantified, but includes standard forward-looking disclaimers and several material uncertainties around commodity prices, reserve replacement, regulation, and taxable income generation. Operating results are presented with positive production and revenue trends, though declining natural gas production and higher unit costs indicate underlying volatility."
+}

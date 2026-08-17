@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "may materially adversely impact earnings",
+    "all factors subject to change",
+    "based on limited loss classifications",
+    "current allowance deemed adequate"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed loan portfolio data, but relies heavily on boilerplate uncertainty language around loan-loss reserves, income taxes, and future outcomes. Credit risk is elevated by the large and growing commercial real estate and commercial loan concentrations, while management presents overall performance and profitability positively."
+}

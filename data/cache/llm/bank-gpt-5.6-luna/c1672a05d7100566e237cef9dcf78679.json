@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "highly unpredictable",
+    "could adversely affect",
+    "cannot predict how and the extent",
+    "continually monitoring",
+    "forward-looking information"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, geographic exposure, Russian assets, tariffs, inflation, acquisition cost, and capital expenditures. Risk disclosures rely heavily on broad contingency language covering geopolitical, supply-chain, inflationary, cyber, and pandemic risks, but generally identify specific channels and exposures. Overall tone is cautious and risk-aware rather than crisis-like."
+}

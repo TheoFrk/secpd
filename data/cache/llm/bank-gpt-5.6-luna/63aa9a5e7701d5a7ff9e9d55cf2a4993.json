@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties beyond our control",
+    "could differ materially",
+    "terms currently uncertain",
+    "adverse effects on revenues and earnings"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, reporting revenue, earnings, asset balances, accounting impacts, and identified client and market exposures. Risk tone is cautiously positive overall, but capital-market volatility, migration to lower-margin products, client losses, Brexit uncertainty, and accounting changes present meaningful downside risks."
+}

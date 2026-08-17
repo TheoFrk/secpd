@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "may not be able to reliably predict",
+    "could significantly affect",
+    "cannot guarantee",
+    "subject to a post-closing adjustment"
+  ],
+  "risk_summary": "The excerpt provides useful quantified acquisition, sales, and earnings data, but relies heavily on technical accounting language and conditional disclosures around revenue recognition, collectibility, warranties, and performance guarantees. Results declined materially in 2013, while customer cooperation, contract timing, currency movements, and bad-debt assumptions create meaningful execution and cash-flow risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management judgments and estimates",
+    "actual results could differ",
+    "probable and estimable",
+    "historically dependable estimates",
+    "ultimate resolution ... could result in a material effect"
+  ],
+  "risk_summary": "The excerpt highlights material estimation risk in percentage-of-completion revenue recognition, claims, contingencies, insurance reserves, and goodwill impairment, including a $53.4 million contract write-down and $12.7 million of unapproved claims and change orders. Although the company provides several quantitative disclosures and states that historical collections have approximated recognized revenue, outcomes remain sensitive to project costs, claim resolution, actuarial assumptions, and impairment inputs."
+}

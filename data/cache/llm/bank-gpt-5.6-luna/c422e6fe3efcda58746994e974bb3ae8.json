@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks and uncertainties",
+    "not possible for management to predict all such risk factors",
+    "subject to change",
+    "considerable amount of judgment",
+    "proactively manage our credit exposure"
+  ],
+  "risk_summary": "The disclosure presents substantial deterioration in demand, customer liquidity, capacity utilization, and credit exposure, including $262.7 million of customer-related charges, $150.6 million of restructuring charges, and a $5.9 billion goodwill impairment. Although risks are quantified in several areas, the forward-looking disclaimer and reliance on judgment-based estimates limit predictability regarding further losses and contingencies."
+}

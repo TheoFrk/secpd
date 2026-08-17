@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "difficult to forecast",
+    "no assurance",
+    "may have a material adverse effect",
+    "period-to-period comparisons not meaningful"
+  ],
+  "risk_summary": "The excerpt provides useful quantified liquidity and operating metrics, including cash, revenue growth, cost increases, and the absence of debt. However, the forward-looking discussion is heavily qualified and highlights substantial execution, demand, margin, liquidity, competitive, technology, and macroeconomic risks. Overall tone is cautiously positive due to reported growth and adequate liquidity, but future performance remains materially uncertain."
+}

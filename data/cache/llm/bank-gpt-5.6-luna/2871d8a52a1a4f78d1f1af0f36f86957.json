@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "partially offset",
+    "to a lesser extent",
+    "unless otherwise noted",
+    "not measurements determined in accordance with GAAP",
+    "53rd-week comparison effects"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear explanations of sales changes, costs, refranchising, commodity prices, and labor pressures. Risk tone is mixed but slightly constructive: company-operated sales and transactions declined, while margins benefited from pricing, product mix, and lower commodity costs. Extensive use of offsetting explanations and non-GAAP metrics requires careful reconciliation to reported results."
+}

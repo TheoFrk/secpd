@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "highly cyclical conditions",
+    "results can vary significantly",
+    "expected to remain healthy",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively supported, with detailed segment, backlog, order, and margin information. Risk tone is cautiously constructive but acknowledges substantial cyclicality, customer concentration by industry trends, excess solar capacity, cancellations, foreign-exchange effects, and expected gross-margin pressure."
+}

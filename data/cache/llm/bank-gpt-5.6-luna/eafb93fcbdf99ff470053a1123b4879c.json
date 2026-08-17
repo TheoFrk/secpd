@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future developments outside our control",
+    "highly uncertain and cannot be predicted",
+    "no guarantee of collection",
+    "undertake no duty to update",
+    "material adverse impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, costs, margins, acquisitions, and litigation, supporting relatively transparent disclosure. Risk tone is materially negative due to COVID-19 disruption, supply-chain effects, customer shutdowns, liquidity uncertainty, and potentially uncollectible litigation proceeds, although the discussion remains largely factual and measured."
+}

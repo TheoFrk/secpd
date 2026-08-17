@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective estimates and judgments",
+    "actual results could differ",
+    "should provide relatively stable revenue flows",
+    "primarily used to repay mortgages",
+    "including, but not limited to"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific regarding properties, debt, maturities, interest rates, and covenant compliance. Key risks include tenant payment dependence, leasing and occupancy exposure, leverage and covenant-triggered acceleration, interest-rate sensitivity, and judgmental accounting estimates. The tone is cautiously constructive but tempered by standard forward-looking and estimation caveats."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "could differ materially",
+    "assuming we maintain",
+    "may need to",
+    "reasonably possible"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear operational, financial, commodity-price, regulatory, impairment, and liquidity-related risks. Risk tone is balanced but cautious, with significant exposure to volatile natural gas prices, production replacement requirements, derivative losses, and potential funding constraints. Some forward-looking and boilerplate cautionary language limits precision regarding future outcomes."
+}

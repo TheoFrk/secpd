@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "approximately",
+    "primarily due to",
+    "partially offset by",
+    "excerpt truncated"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative supported by extensive quantified sales, margins, cash flow, acquisition, and restructuring data. Key risks include higher leverage from the Stellite acquisition and bond issuance, raw-material cost exposure, foreign-currency effects, and substantial goodwill, although these are described with limited downside analysis."
+}

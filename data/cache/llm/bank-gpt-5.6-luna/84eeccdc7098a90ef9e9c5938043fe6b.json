@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "many factors outside the Company’s control",
+    "reasonably determinable",
+    "subject to certain requirements and limitations",
+    "engaged in discussions attempting to resolve"
+  ],
+  "risk_summary": "The excerpt reflects severe financial distress, including Chapter 11 bankruptcy, liquidation-basis accounting, eroding sales, operational losses, and threatened liquidity. Although several amounts and accounting treatments are quantified, extensive legal disclaimers and conditional language limit predictability, while unresolved CEO engagement approval issues add governance risk."
+}

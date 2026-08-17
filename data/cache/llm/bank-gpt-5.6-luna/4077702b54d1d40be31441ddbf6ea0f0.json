@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "factors that could cause future results to vary",
+    "including but not limited to",
+    "assumes no obligation to update",
+    "other factors discussed elsewhere"
+  ],
+  "risk_summary": "The excerpt relies heavily on boilerplate forward-looking-statement disclaimers and broad, non-quantified risk factors, limiting transparency about the magnitude and probability of adverse outcomes. It identifies meaningful banking risks, including interest-margin compression, regulatory costs, credit and market conditions, but presents management’s growth and integration strategy with moderate confidence."
+}

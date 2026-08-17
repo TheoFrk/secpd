@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "inherently uncertain",
+    "actual results could differ materially",
+    "timing ... highly uncertain",
+    "reasonably possible"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes material quantitative information on acquisitions, valuation allowances, and unrecognized tax benefits. Risk is primarily concentrated in subjective accounting estimates, acquisition valuation, tax exposures, and uncertain examination outcomes, while the operating narrative remains generally confident due to reported strong demand and subscription growth."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.2,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "section heading only",
+    "missing substantive discussion",
+    "table delimiters"
+  ],
+  "risk_summary": "The excerpt contains only an MD&A section heading and table-format markers, with no substantive financial or risk disclosure. Credit risk cannot be meaningfully assessed from the provided text."
+}

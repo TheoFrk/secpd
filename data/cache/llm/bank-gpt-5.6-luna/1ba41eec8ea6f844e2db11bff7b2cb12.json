@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "full impact ... unknown and rapidly evolving",
+    "no assurances",
+    "significant uncertainties",
+    "may continue to have a significant adverse impact",
+    "cannot predict"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively identifies COVID-19-related credit exposures, criticized downgrades, loan concessions, and PPP balances. Risk tone is moderately negative because of substantial uncertainty regarding borrower performance, loan forgiveness, portfolio effects, and future economic conditions, although management emphasizes proactive mitigation and limited disruption to date."
+}

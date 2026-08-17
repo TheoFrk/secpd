@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "may change",
+    "estimated future sales",
+    "material effect",
+    "judged unlikely to be sold"
+  ],
+  "risk_summary": "The disclosure is predominantly confident and strongly quantified, highlighting revenue growth, margins, cash generation, and shareholder returns. Residual risk is concentrated in forward-looking judgments around deferred tax asset recoverability, inventory allowances, demand, obsolescence, and potential tax-law or market changes. The excerpt is truncated, which limits assessment of the full liquidity and risk discussion."
+}

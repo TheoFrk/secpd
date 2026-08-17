@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "more fully discussed below",
+    "typically expressed in terms of",
+    "mix of earnings"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed year-over-year drivers, supporting relatively strong disclosure quality. Risk tone is mildly positive due to revenue growth, lower interest expense, and restructuring progress, but is tempered by impairment, severance, arbitration, cost inflation, foreign-exchange exposure, and reliance on favorable tax jurisdictions."
+}

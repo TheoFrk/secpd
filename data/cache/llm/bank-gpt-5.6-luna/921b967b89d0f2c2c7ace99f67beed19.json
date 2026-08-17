@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "missing tables and truncated disclosures",
+    "forward-looking cautionary language",
+    "known and unknown risks and uncertainties",
+    "covenant defaults and waivers",
+    "liabilities retained after asset sale"
+  ],
+  "risk_summary": "The excerpt provides several useful quantitative operating and financing details, but the disclosure is weakened by omitted tables, truncated sections, and boilerplate forward-looking disclaimers. Credit risk is elevated by prior covenant breaches, retained recreational-vehicle warranty obligations, increased inventories, and exposure to financing and economic conditions, although covenant compliance was reported at the period end."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "dependent on project completion",
+    "estimated completion date",
+    "not intended to be a full discussion",
+    "not expected to have a significant effect",
+    "unrecognized cash consideration"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides useful segment, liquidity, receivables, and property information, with a mildly positive operating tone. Key risks include delayed or unavailable property title, construction-dependent settlement of receivables, unrecognized consideration, and reliance on cross-border operations. The passage also contains substantial boilerplate and dense, lengthy explanations that may reduce readability."
+}

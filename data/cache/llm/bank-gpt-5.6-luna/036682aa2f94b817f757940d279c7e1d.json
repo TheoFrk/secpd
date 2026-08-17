@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "actual results may differ significantly",
+    "expected to continue to experience",
+    "may result in significant quarterly fluctuations",
+    "not predictive of future revenue"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes substantial quantification, but relies on standard accounting-policy caveats and forward-looking uncertainty language. Key risks include a 20.3% product-revenue decline, reduced COVID-19-related demand, inflation, supply-chain disruption, foreign-exchange exposure, and judgment-sensitive inventory and credit-loss estimates. Management presents mitigation actions as generally successful, tempering the otherwise mildly negative risk tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"discussed below and again later\"",
+    "\"not meaningfully impacted\"",
+    "\"current recessionary environment\"",
+    "\"pathway to profit\"",
+    "missing referenced tables"
+  ],
+  "risk_summary": "The excerpt is generally transparent and provides substantial operational detail, quantified sales, store counts, personnel data, and explanations of inflation, deflation, currency, and cyclical exposure. Its risk tone is cautiously positive, emphasizing recovery and growth while acknowledging sensitivity to economic conditions, steel prices, energy costs, and older-store performance. Repetition, promotional language, and references to omitted tables modestly reduce disclosure clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to be operational",
+    "not expected to be material",
+    "we believe",
+    "significant judgments and assumptions",
+    "future cash flows"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed sales, margin, segment, acquisition, and LIFO impacts. Risks include commodity-price volatility, competitive pricing pressure, unfavorable weather, flood-prone facilities, and estimation uncertainty in impairment and tax assessments, but management presents these as manageable."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict duration or total magnitude",
+    "significant volatility",
+    "largely attributable to",
+    "not associated with current-period transactions",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but highlights material exposure to commodity-price volatility, derivative mark-to-market movements, inflation, liquidity requirements, and anticipated losses on business disposals. Management acknowledges that the duration and magnitude of macroeconomic effects cannot be predicted, while presenting mitigation through hedging, liquidity management, and transformation initiatives. The extensive derivative and non-GAAP explanations may reduce comparability and obscure underlying operating performance."
+}

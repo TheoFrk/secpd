@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.54,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be accurately predicted",
+    "unable to estimate the extent",
+    "could cause actual results to differ materially",
+    "other similar words that convey uncertainty",
+    "unpredictable or unknown factors"
+  ],
+  "risk_summary": "The disclosure presents operational continuity and strategic initiatives positively, but emphasizes substantial uncertainty from COVID-19, forecasting assumptions, impairment estimates, and other forward-looking risks. Quantification is present for selected items, but liquidity and potential downside impacts are not fully quantified, while extensive standard cautionary language limits transparency."
+}

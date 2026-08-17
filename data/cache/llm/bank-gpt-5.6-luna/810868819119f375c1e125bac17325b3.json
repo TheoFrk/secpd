@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "no assurance of financing",
+    "uncertainty cannot be estimated",
+    "possible forced dissolution",
+    "going-concern assumption"
+  ],
+  "risk_summary": "The company is a shell with zero revenue, discontinued operations, limited cash resources, recurring losses, and reliance on financing or a future merger or acquisition. Disclosure explicitly states that liquidity may not be maintained and the company could be forced to dissolve, although much of the risk discussion is repetitive legal boilerplate."
+}

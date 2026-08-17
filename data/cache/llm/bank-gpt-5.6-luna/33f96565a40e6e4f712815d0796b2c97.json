@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "unable to predict outcome or timing",
+    "non-GAAP core earnings",
+    "subject to regulatory approval"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and liability-limiting language, with outcomes and implementation timing deferred to regulatory decisions. It provides useful quantified financial and investment figures, but the presentation is highly technical and includes non-GAAP measures that may complicate comparability. Overall tone is cautiously optimistic, supported by growth and strategic investment plans, while acknowledging regulatory, execution, and adoption risks."
+}

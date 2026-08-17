@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "no assurance",
+    "could adversely affect",
+    "various valuation techniques",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified operating and financial data, but extensive boilerplate and conditional language frame substantial exposure to credit-market liquidity, tenant defaults, vacancies, valuation impairments, development overruns, and refinancing risk. Operating income improved, but net income declined 74.5%, while the disclosure emphasizes that adverse market conditions could materially affect liquidity, cash flow, and financial condition."
+}

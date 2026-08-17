@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results could differ materially",
+    "without limitation",
+    "outside our control",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, net interest income, loan growth, funding costs, and margin compression. However, extensive boilerplate forward-looking disclaimers and broad, non-quantified risk lists reduce specificity regarding future credit, liquidity, and earnings risks. Overall tone is mildly positive due to higher net income, tempered by declining margins and rising funding costs."
+}

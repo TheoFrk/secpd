@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "expect to generate revenue",
+    "expect that revenue will increase",
+    "dependent upon future contracts and financing",
+    "no assurance of additional funding",
+    "delay, scale back or eliminate operations"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but relies on optimistic commercialization assumptions and uncertain prospective contracts, licensing, and financing. Persistent losses, substantial operating cash burn, lack of credit lines, and possible dilution or inability to obtain funding indicate elevated liquidity and execution risk."
+}

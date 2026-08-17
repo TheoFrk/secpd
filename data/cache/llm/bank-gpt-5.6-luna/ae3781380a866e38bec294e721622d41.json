@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "likely continue to have a negative impact",
+    "for the foreseeable future",
+    "unless we are able to mitigate",
+    "may not be comparable",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity information, but emphasizes ongoing consumer, supply-chain, tariff, and freight pressures that have weakened sales and margins. Forward-looking mitigation language is conditional and does not quantify the potential financial impact of tariffs, disruption, or customer credit stress. The excerpt is dense and partially truncated, limiting assessment of debt covenant and liquidity details."
+}

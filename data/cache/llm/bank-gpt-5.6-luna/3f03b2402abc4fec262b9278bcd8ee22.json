@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "mostly due to",
+    "substantially reduced",
+    "ordinary fluctuations",
+    "believes ... sufficient",
+    "impact, if any"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights declining revenue, materially lower cash, high inventories, and negative operating cash flow. Liquidity appears supported by an undrawn credit facility and management’s assertion of sufficient resources, though the assessment depends on expected shipments and backlog conversion."
+}

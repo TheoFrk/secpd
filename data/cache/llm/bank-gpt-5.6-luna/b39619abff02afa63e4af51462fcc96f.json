@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance this loan will close",
+    "expects operations to stabilize",
+    "could result in foreclosure",
+    "uncertainty in the retail environment",
+    "leasing benchmarks waived"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, particularly regarding debt terms, maturities, collateral, leasing, and contingent guarantor exposure. Risk is elevated due to the pending Rotunda refinancing, potential default and foreclosure, floating-rate debt, and weakening retail occupancy and lease economics, although the overall tone remains balanced rather than crisis-like."
+}

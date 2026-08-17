@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "future impacts remain uncertain",
+    "management estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt combines quantified operational metrics with extensive boilerplate disclaimers and repeated uncertainty language. Business performance is presented positively, but exposure to commodity prices, pandemic effects, labor and supply constraints, impairment estimates, and uncertain tax positions creates meaningful downside risk."
+}

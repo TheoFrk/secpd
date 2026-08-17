@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "highly uncertain and cannot be predicted",
+    "cautiously optimistic",
+    "continued losses in the foreseeable future",
+    "more-likely-than-not tax realization"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and COVID-19 disclaimer language, with uncertainty around demand recovery, supply-chain timing, and future financial impacts. Management reports some quantified operational activity and cost controls, but acknowledges uneven demand and expects continued losses, including a valuation allowance on deferred tax assets."
+}

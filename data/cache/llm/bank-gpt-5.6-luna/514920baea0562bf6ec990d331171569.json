@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks include, but are not limited to",
+    "highly uncertain",
+    "beyond our control",
+    "management cannot predict",
+    "solid foundation for continued growth"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results with extensive boilerplate risk disclosures and optimistic, largely unquantified strategic claims. Key concerns include declining gross margin, supply-chain and cost pressures, potentially slowing consumer demand, acquisition execution risk, and substantial dependence on uncertain future conditions."
+}

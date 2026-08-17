@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management believes",
+    "reasonably assured",
+    "qualitative risk factors",
+    "future adjustments could be necessary",
+    "if circumstances or economic conditions differ substantially"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified operating metrics, but relies substantially on management judgment for loan-loss reserves, impairment, collateral values, and qualitative economic adjustments. It identifies meaningful downside risks from economic and employment deterioration, including higher nonperforming assets, charge-offs, provisions, and regulatory-required reserve additions. Overall tone is neutral to mildly confident, supported by improved efficiency and expense detail, but tempered by material credit-estimation uncertainty."
+}

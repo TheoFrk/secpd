@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual amounts could vary significantly",
+    "risks and uncertainties",
+    "anticipated benefits cannot be fully realized",
+    "not possible to identify all factors",
+    "non-recurring integration expenses"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, but relies substantially on standard forward-looking disclaimers and broad, non-specific risk-factor language. Key risks include declining legacy voice and access revenues, substantial acquisition and integration costs, regulatory uncertainty, credit-market access, dividend sustainability, and execution risk related to the pending Qwest acquisition."
+}

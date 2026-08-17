@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt as to ability to continue",
+    "dependent upon ability to generate sufficient revenues",
+    "no assurance",
+    "verbally represented",
+    "non-recurring charges"
+  ],
+  "risk_summary": "The disclosure explicitly identifies substantial doubt about going-concern status, driven by significant losses, operating cash outflows, accumulated deficit, high interest expense, lease-operator bankruptcy, and property closures. Although the excerpt is highly quantified, management relies on future profitability, refinancing or equity funding, facility openings, and uncertain lease negotiations to address liquidity and operating risks."
+}

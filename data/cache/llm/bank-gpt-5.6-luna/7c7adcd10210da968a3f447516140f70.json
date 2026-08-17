@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor disclaimer",
+    "may be beyond the Company's control",
+    "does not expect to materially change",
+    "based on certain assumptions and judgments",
+    "no specific reason for this fluctuation"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking and accounting-policy disclaimers, with substantial reliance on management estimates and assumptions. Quantified disclosures improve transparency, but the 25% backlog decline and lower sales-order activity indicate weakening demand and operating momentum. Management expresses confidence in liquidity and funding capacity for the next twelve months."
+}

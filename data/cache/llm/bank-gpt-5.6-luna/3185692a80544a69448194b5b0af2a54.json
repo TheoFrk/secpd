@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective determinations of management",
+    "unable to reliably forecast",
+    "underlying financial performance",
+    "subject to significant fluctuations",
+    "potential acquisitions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, geographic, segment, margin, tax, and sales information, but its presentation emphasizes adjusted non-GAAP performance and management targets. Key risks include declining GAAP net income, volatile raw material costs, weaker Protective Solutions and Display and Packaging results, recurring restructuring charges, and uncertainty around future adjustments."
+}

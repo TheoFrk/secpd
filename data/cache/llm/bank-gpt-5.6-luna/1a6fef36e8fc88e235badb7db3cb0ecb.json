@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and inherent uncertainties",
+    "risks include, but are not limited to",
+    "undertake no obligation to update",
+    "challenging market environment",
+    "non-GAAP organic sales adjustments"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures, including sales growth, restructuring costs, organic growth expectations, EPS guidance, debt terms, and covenant references. However, extensive legal boilerplate and broad, non-quantified risk lists dilute the assessment of specific downside exposure. Management’s tone is cautiously neutral, citing soft European markets, volatile Asian demand, low backlogs, and economic sensitivity while maintaining modest growth guidance."
+}

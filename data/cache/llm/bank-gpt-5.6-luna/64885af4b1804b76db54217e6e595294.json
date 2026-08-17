@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be accurately predicted",
+    "may decline",
+    "including but not limited to",
+    "we believe",
+    "full impacts cannot be reasonably estimated"
+  ],
+  "risk_summary": "The disclosure identifies meaningful exposure to COVID-19, supply-chain disruption, customer spending volatility, technology shifts, and concentration in industry demand, while providing some quantified liquidity and cash-flow information. Risk discussion relies substantially on broad contingencies, forward-looking caveats, and management assertions, limiting precision regarding the magnitude and timing of potential adverse effects."
+}

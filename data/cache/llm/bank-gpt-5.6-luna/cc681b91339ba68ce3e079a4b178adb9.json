@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to substantial uncertainty",
+    "primarily due to",
+    "certain other factors",
+    "non-GAAP financial information",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively supported, but its long, jargon-heavy presentation and extensive adjustment disclosures make underlying performance harder to interpret. The tone is broadly confident, reflecting revenue growth and shareholder returns, while acknowledging merger-related costs, disposition losses, and forward-looking uncertainty."
+}

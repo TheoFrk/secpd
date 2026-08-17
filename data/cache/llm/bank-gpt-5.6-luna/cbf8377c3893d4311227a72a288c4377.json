@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "actual results could differ materially",
+    "other risks and uncertainties",
+    "significant judgment and estimation",
+    "not expected to have a material impact"
+  ],
+  "risk_summary": "The excerpt is heavily compliance-oriented and relies on standard forward-looking-risk disclaimers rather than providing quantified sensitivities or scenario analysis. It identifies meaningful estimation risks in rebates, receivables, inventory, taxes, pensions, and goodwill, but reports limited historical variance and generally non-material expected effects."
+}

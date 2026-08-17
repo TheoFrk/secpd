@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-comparable items",
+    "underlying growth",
+    "qualified in their entirety",
+    "non-GAAP financial measure",
+    "comparability was impacted"
+  ],
+  "risk_summary": "The excerpt presents a generally favorable operating and cash-flow profile, supported by quantified revenue, margin, earnings, debt, and free-cash-flow metrics. It relies on extensive non-comparability adjustments and non-GAAP measures, which may complicate assessment of underlying performance, while advertising cyclicality, programming costs, and debt remain relevant risks."
+}

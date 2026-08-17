@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measurements",
+    "not material to the consolidated financial statements",
+    "management believes",
+    "could impact the estimated fair value",
+    "expected to drive incremental sales growth"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, but relies on adjusted non-GAAP measures and management assumptions around impairment, taxes, and growth. Operating performance weakened in 2024, with sales declines, lower operating earnings, higher expenses, litigation costs, and softer end markets, although pricing and strategic investments provide partial offsets."
+}

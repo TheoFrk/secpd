@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor and risk-factor cross-references",
+    "post-hoc subgroup analysis",
+    "may substantially improve overall survival",
+    "subject to risks and uncertainties",
+    "no obligation to update forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is highly detailed and includes substantial quantitative clinical-trial information, but the lead program previously failed its primary endpoint and current optimism relies heavily on retrospective subgroup analyses that are explicitly cautioned. Regulatory, clinical-development, and financing risks remain material, although the overall tone emphasizes continued development and potential strategic value."
+}

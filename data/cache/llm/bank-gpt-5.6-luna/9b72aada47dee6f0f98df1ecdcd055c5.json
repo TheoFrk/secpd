@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to continue",
+    "assuming availability of credit",
+    "overall economic uncertainty",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt presents a cautiously optimistic outlook supported by substantial market and segment-level quantification, including shipment, sales mix, and housing-start data. Material risks remain tied to macroeconomic conditions, consumer confidence, credit availability, fuel prices, foreclosures, and commodity costs, while several projections rely on assumptions and management beliefs."
+}

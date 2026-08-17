@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "not able to predict with certainty",
+    "may not prevent",
+    "material adverse effect",
+    "primarily due to",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear year-over-year performance, asset quality, capital, and funding metrics. Risk tone is mildly negative due to declining net income, higher credit-loss provisions, COVID-19 uncertainty, and interest-rate exposure, though capital and balance-sheet trends remain relatively stable."
+}

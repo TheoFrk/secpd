@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "actual results could differ",
+    "appropriate actions may ultimately be insufficient",
+    "substantial uncertainties",
+    "best estimate range"
+  ],
+  "risk_summary": "The disclosure is reasonably specific, with quantified sales growth, expenses, accruals, liabilities, and credit availability, but relies on standard forward-looking and accounting-estimate caveats. Key risks include COVID-19 disruption, foreign-exchange exposure, inventory demand assumptions, contingencies, product-liability cash-flow uncertainty, and deferred-tax recoverability. Overall tone is cautiously positive due to reported growth and available liquidity, tempered by material uncertainty language."
+}

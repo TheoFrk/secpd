@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "we believe",
+    "significant investments",
+    "not meaningful changes",
+    "omitted discussion of 2017"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, profitability, subscription, and cost trends. Risk tone is cautiously confident, supported by digital subscription growth but tempered by declining print advertising and subscription revenue, rising operating costs, and ongoing industry transformation. Repeated emphasis on adjusted non-GAAP measures may somewhat obscure GAAP cost and profitability pressures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "customer concentration",
+    "foreign exchange sensitivity",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, with detailed revenue, margin, customer concentration, geographic exposure, and cash-flow disclosures. Key risks include declining communications demand, substantial distributor concentration, 96% international sales, yen exposure, fixed production costs, and reliance on management estimates. The tone is cautious but not crisis-like, and some standard legal and accounting boilerplate reduces transparency marginally."
+}

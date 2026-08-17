@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "subjective non-GAAP measures",
+    "believes it has appropriate strategies",
+    "potential decreased demand"
+  ],
+  "risk_summary": "The disclosure is reasonably quantified regarding sales, raw-material costs, refinancing, and operating impacts, but relies on extensive forward-looking disclaimers and management expectations. Risk tone is mixed: it acknowledges material pressure from destocking, global competition, inflation, lower utilization, and leverage, while presenting refinancing and strategic initiatives as mitigating factors. Reliance on subjective non-GAAP measures and unconsolidated affiliate earnings warrants additional scrutiny."
+}

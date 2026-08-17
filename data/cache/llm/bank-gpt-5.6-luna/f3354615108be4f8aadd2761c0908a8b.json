@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "partially offset by",
+    "non-GAAP supplemental financial measure",
+    "derivative gains not designated as hedges",
+    "impairment charges"
+  ],
+  "risk_summary": "The excerpt is detailed and highly quantified, with relatively limited hedging or evasive language. It indicates meaningful earnings pressure from sharply lower realized commodity prices, higher operating expenses, impairments, and reliance on derivative gains, partially mitigated by production growth and midstream performance."
+}

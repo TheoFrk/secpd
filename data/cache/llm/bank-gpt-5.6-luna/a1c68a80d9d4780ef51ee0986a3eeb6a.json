@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.25,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "no obligation to update",
+    "management estimates and judgments",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt reports improving earnings and provides some quantified operating metrics, but much of the disclosure is dominated by boilerplate forward-looking disclaimers and generalized caveats. Key risk areas include subjective loan-loss reserves, fair-value measurements, and mortgage servicing rights valuations, all of which depend on uncertain assumptions and limited observable market data."
+}

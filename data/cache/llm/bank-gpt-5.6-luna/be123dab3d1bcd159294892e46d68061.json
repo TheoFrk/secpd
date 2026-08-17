@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Management believes",
+    "foreseeable future",
+    "cannot be guaranteed",
+    "if shortages were to occur",
+    "tenuous economic recovery"
+  ],
+  "risk_summary": "The disclosure is generally well quantified but uses recurring management-attribution and forward-looking qualifiers. Domestic revenue declined 34% and the segment shifted to an operating loss, with minimal MDC sales expected, while inventory and component-availability risks could disrupt production. Foreign growth and lower corporate expenses partially offset these concerns."
+}

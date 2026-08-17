@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty disclaimer",
+    "a number of risks, uncertainties and other factors",
+    "future growth profile",
+    "estimated terminal values and discount rates",
+    "excerpt terminates mid-sentence"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed regarding operations, locations, loan terms, fees, acquisitions, and impairment methodology, but includes standard broad cautionary language and relies on material assumptions for valuation. The business has significant exposure to consumer credit, regulatory changes, impairment risk, and discontinued operations, although the overall presentation is operationally confident rather than crisis-oriented."
+}

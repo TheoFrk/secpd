@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "subjective estimates and assumptions",
+    "economic conditions could worsen",
+    "incomplete/truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides quantified operating data and detailed allowance methodology, but relies heavily on standard forward-looking disclaimers and subjective assumptions regarding credit losses, collateral values, and economic conditions. It highlights meaningful downside risk from unemployment, real estate declines, university funding cuts, and a potentially weaker recovery, while noting some stabilization in asset quality."
+}

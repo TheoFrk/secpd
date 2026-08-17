@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive discussion",
+    "long entity enumeration",
+    "boilerplate referral"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, operating, liquidity, or risk information and merely redirects readers to separate filings. This limits credit-risk assessment and may obscure relevant details unless the referenced disclosures are reviewed."
+}

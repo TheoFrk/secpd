@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to:",
+    "some of these may continue",
+    "adjusted earnings and adjusted EPS",
+    "non-GAAP financial measures",
+    "regulatory balancing accounts"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified results, including a sharp 2018 earnings increase, but repeated incomplete “primarily due to” disclosures limit assessment of the underlying drivers. Significant segment volatility, including a $617 million loss in Sempra LNG & Midstream, is noted, while reliance on adjusted non-GAAP measures and regulatory balancing accounts warrants scrutiny."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP adjusted earnings",
+    "non-recurring income tax benefit",
+    "expected store closures",
+    "projected EBITDA margins"
+  ],
+  "risk_summary": "The disclosure is highly quantified and transparent about sales weakness, impairment, store closures, promotional pressure, and the substantial non-recurring tax benefit supporting reported earnings. The outlook is cautiously optimistic and provides detailed projections, but relies on execution of the DXL rollout, improving traffic, and favorable margin trends."
+}

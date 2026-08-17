@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to satisfaction of certain conditions",
+    "no obligation ... by any specified date or at all",
+    "in the judgment of the Board",
+    "non-GAAP financial measure",
+    "other items ... not reflective"
+  ],
+  "risk_summary": "The excerpt provides substantial transaction, operating, and financial detail, including quantified acquisition, divestiture, debt, earnings, and joint-venture information. Risk disclosure is materially hedged around the planned separation, with numerous conditions, discretionary Board judgments, and no guaranteed completion date. Overall tone is cautiously constructive but includes competitive, commodity-price, execution, and non-GAAP presentation risks."
+}

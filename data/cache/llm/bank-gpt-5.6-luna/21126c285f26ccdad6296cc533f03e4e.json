@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "significant judgments",
+    "alternative assumptions",
+    "actual results may differ",
+    "additional impairment charges"
+  ],
+  "risk_summary": "The excerpt is highly technical and includes substantial quantified detail, but relies on extensive non-GAAP framing and repeated caveats around estimates and assumptions. Risk tone is materially negative, reflecting major revenue declines, a $146.9 million net loss, substantial impairment charges, and potential for further impairments. Accounting valuations, pension assumptions, and deferred tax realizability introduce meaningful uncertainty."
+}

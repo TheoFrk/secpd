@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "reasonable and supportable forecasts",
+    "subject to varying interpretations",
+    "estimated uninsured deposits",
+    "preliminary purchase price allocation"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative information on credit-loss sensitivity, liquidity, deposits, capital, and uninsured funding. However, several critical estimates rely on management judgment, forecasts, qualitative adjustments, and potentially changing tax or acquisition assumptions. Overall tone is stable and moderately confident, with acknowledged but not acute credit and funding risks."
+}

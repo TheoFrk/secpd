@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "full impact ... unknown and cannot be reasonably estimated",
+    "best estimates and judgments",
+    "we dispute Mr. Kopple’s claims",
+    "management believes ... not entitled",
+    "ability to continue as a going concern"
+  ],
+  "risk_summary": "The excerpt presents severe financial and operating risk, including historically suspended operations, declining revenue, unresolved related-party debt claims, disputed warrants, and an auditor’s going-concern doubt. Although it provides several quantified operating figures, key exposures remain subject to management estimates and legal disputes, while future viability depends on raising capital and generating revenue."
+}

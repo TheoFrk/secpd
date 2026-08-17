@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "expected to",
+    "cannot predict the ultimate impact",
+    "generally offset",
+    "cautiously optimistic",
+    "mixed views"
+  ],
+  "risk_summary": "The excerpt presents a broadly confident outlook supported by quantified historical results, acquisitions, budgets, and market growth estimates. Risk disclosure is moderately hedged around macroeconomic conditions, defense budgets, trade tensions, pricing, and order timing, while much of the company and market discussion is boilerplate and forward-looking."
+}

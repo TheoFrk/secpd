@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "current expectations and uncertainties",
+    "reasonably assured",
+    "subjective assumptions",
+    "may not provide an accurate measure",
+    "future undiscounted net cash flows"
+  ],
+  "risk_summary": "The excerpt is largely technical and boilerplate, with some useful quantified expense changes but limited discussion of liquidity, funding needs, or forward operating risks. It highlights material estimation uncertainty in revenue recognition, impairment testing, investments, and stock-based compensation, alongside substantial increases in research and development spending."
+}

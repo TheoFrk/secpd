@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "based upon many factors",
+    "if...continues through 2019",
+    "contingent commissions",
+    "catastrophic weather events"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent regarding revenue trends, commission sources, and segment drivers, with a predominantly confident growth-oriented tone. Key risks include dependence on insurance pricing and exposure levels, acquisitions, contingent commissions, economic conditions, and weather-related claims activity. Extensive non-GAAP definitions and complex, nested explanations increase interpretive burden but do not appear overtly evasive."
+}

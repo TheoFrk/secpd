@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results could differ materially",
+    "ability to curtail or delay expenditures",
+    "reasonably assured",
+    "fair value and unrealized losses"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified valuation losses, investment impairments, debt extinguishment losses, and significant reliance on estimates. However, extensive accounting-policy boilerplate, conditional language, and reliance on management assumptions—particularly regarding going concern, revenue collectability, and future expenditures—limit transparency about downside outcomes."
+}

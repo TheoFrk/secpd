@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect sales to grow",
+    "more than ten percent",
+    "unforeseen challenges",
+    "foreseeable future",
+    "inherent uncertainty"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment sales, transaction values, earnings impacts, insurance limits, and warranty information. Risk tone is cautiously positive, but growth projections rely on qualitative drivers and broad estimates, while water-treatment losses, weak North American markets, acquisition execution, warranty costs, and litigation uncertainty remain material risks."
+}

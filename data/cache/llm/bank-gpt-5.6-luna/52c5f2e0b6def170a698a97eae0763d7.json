@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to future negotiations",
+    "estimates and assumptions",
+    "as needed",
+    "primarily due to",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is detailed and substantially quantified, with clear descriptions of assets, ownership interests, operating metrics, and major income drivers. Risk disclosure is somewhat dispersed through technical, highly nested language and includes uncertainty around regulatory cost recovery, provisional tax adjustments, impairments, commodity exposure, and actuarial assumptions. Overall tone is operationally confident but tempered by accounting and regulatory contingencies."
+}

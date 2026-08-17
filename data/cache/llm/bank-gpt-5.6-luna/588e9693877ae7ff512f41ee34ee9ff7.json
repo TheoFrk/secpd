@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance additional capital",
+    "expect to incur a significant loss",
+    "may have a material impact",
+    "unable to secure additional customers",
+    "various limitations and conditions"
+  ],
+  "risk_summary": "The company reports substantial historical losses, limited customer traction, immaterial royalty revenue, and continued dependence on external capital. It expects significant near-term losses and identifies material execution, commercialization, supply-chain, COVID-19, and financing risks, although several disclosures include useful quantitative details."
+}

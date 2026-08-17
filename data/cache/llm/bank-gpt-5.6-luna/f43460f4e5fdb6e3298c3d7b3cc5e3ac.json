@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "no assurances of success",
+    "currently shows indications of growth",
+    "plans under discussion",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure presents severe going-concern and credit risks, including no operating revenue since 1998, recurring losses, negative working capital of $300 million, and an unproven business still in the planning stage. Forward-looking plans to monetize data and pursue acquisitions are largely unquantified and hedged, while extensive safe-harbor language emphasizes uncertainty. The overall tone is materially negative despite limited optimism regarding reorganization and potential growth."
+}

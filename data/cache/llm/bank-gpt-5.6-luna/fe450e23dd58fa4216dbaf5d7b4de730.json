@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "actual results may differ materially",
+    "subject to significant uncertainty",
+    "significant judgment and estimates",
+    "quiet period and discretionary updates"
+  ],
+  "risk_summary": "The excerpt is relatively transparent, with extensive quantified operating, cash flow, investment, and debt data, but includes substantial standard forward-looking disclaimers and uncertainty around contingencies and estimates. Operating performance shows pressure in PC-related revenue, gross margin, and operating income, partly offset by data-center growth and strong cash generation. The Altera acquisition, elevated investment needs, technology-transition costs, and legal or warranty contingencies remain notable risks."
+}

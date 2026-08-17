@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "assumptions ... uncertain and unpredictable",
+    "primarily due to",
+    "estimated fair values",
+    "ample sensitivity ranges",
+    "higher outstanding borrowings"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear year-over-year operating, tax, acquisition, litigation, and debt impacts. Key risks include increased leverage and interest expense, prior demand weakness, acquisition integration, and material uncertainty in goodwill impairment assumptions. Overall tone is cautiously positive due to 2017 sales and margin improvement, but partially offset by financing and valuation risks."
+}

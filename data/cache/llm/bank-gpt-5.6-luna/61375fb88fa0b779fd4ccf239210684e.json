@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "subject to market conditions",
+    "expects to renew or replace",
+    "select high volume supply chain engagements",
+    "non-GAAP adjusted results"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed segment, regional, currency, margin, liquidity, and covenant information. Risk is evident from declining sales, ERP-related disruptions, weaker demand, and reliance on refinancing or renewal of the Program, although management emphasizes covenant compliance and available liquidity. Boilerplate and non-GAAP framing modestly reduce transparency but do not dominate the disclosure."
+}

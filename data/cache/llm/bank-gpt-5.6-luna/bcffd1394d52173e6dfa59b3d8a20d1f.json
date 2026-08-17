@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not representative of ongoing operations",
+    "cannot be estimated with certainty",
+    "primarily due to",
+    "certain other expenses",
+    "capacity constraints"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and generally transparent, but relies on non-GAAP segment measures and excludes substantial items deemed nonrecurring. Operating performance is pressured by lower volumes, cost inflation, foreign exchange effects, production constraints, restructuring charges, and unresolved asbestos liability uncertainty."
+}

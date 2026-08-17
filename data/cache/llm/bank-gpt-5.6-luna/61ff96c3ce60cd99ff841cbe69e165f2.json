@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "constant currency",
+    "may impact future results",
+    "acquisition accounting",
+    "truncated comparative data"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, with clear revenue, geographic, acquisition, and foreign-exchange impacts. Key risks include currency volatility, acquisition-related accounting distortions, potential additional debt, and reliance on future operating cash flows, while much of the outlook remains qualified by standard forward-looking language."
+}

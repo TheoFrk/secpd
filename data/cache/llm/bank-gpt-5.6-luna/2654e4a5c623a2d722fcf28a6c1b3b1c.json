@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot estimate the magnitude",
+    "significant impact",
+    "likely to be changes",
+    "uncertainties associated with duration and severity",
+    "primarily because"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, but highlights substantial pandemic-related uncertainty, structural newspaper-industry decline, delayed software implementations, and dependence on governmental customers. Fiscal 2022 results deteriorated sharply, including a $75.6 million net loss driven largely by marketable-securities losses, although the underlying segment revenue discussion is detailed."
+}

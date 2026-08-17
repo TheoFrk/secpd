@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "substantially all",
+    "potential ... limited",
+    "held for sale"
+  ],
+  "risk_summary": "The excerpt is relatively specific and quantitatively detailed, but includes standard forward-looking disclaimers and some broad qualifiers. Key risks include limited wireline growth, network replacement and capacity costs, cable-segment goodwill impairment, weak economic conditions, and subscriber losses."
+}

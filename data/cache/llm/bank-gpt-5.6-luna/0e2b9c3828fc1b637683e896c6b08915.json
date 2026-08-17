@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "does not undertake to update",
+    "cannot predict what legislation might be enacted",
+    "adversely affect our earnings and liquidity"
+  ],
+  "risk_summary": "The excerpt uses extensive standard cautionary and risk-management language, with broad qualitative descriptions of interest-rate, credit, liquidity, reputational, and regulatory risks. It also provides useful quantified operating, branch, trust-asset, and earnings information, but offers limited company-specific detail on risk exposures, stress scenarios, or potential loss magnitude. Overall tone is controlled and mildly confident rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and future adjustments",
+    "subject to market conditions and other constraints",
+    "expected to launch new underwriting programs",
+    "significant judgment and estimation uncertainty",
+    "COVID-19 impacted and adversely classified credits"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified exposure, transaction, and credit-status detail, but relies on non-GAAP measures, forward-looking expectations, and conditional language. Risk tone is moderately negative due to COVID-19-related credit deterioration, Puerto Rico exposure, distressed insured bonds, and the full valuation allowance on U.S. deferred tax assets, partially offset by active de-risking and loss-mitigation efforts."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and inherent uncertainties",
+    "factors that could cause actual results to differ",
+    "management’s best estimation",
+    "inherently uncertain and subjective judgments",
+    "non-observable inputs and valuation models"
+  ],
+  "risk_summary": "The excerpt uses extensive standardized forward-looking and accounting-estimate disclaimers, with several unenumerated risk factors and reliance on subjective assumptions. Reported performance and credit-quality metrics are generally positive and quantified, but allowance, fair-value, and goodwill estimates remain sensitive to economic, regulatory, and market conditions."
+}

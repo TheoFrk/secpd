@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results likely to differ materially",
+    "non-GAAP measures and exclusions",
+    "not comparable to competitors",
+    "not a substitute for GAAP measures"
+  ],
+  "risk_summary": "The excerpt is largely standardized MD&A framing and extensive definitions of non-GAAP metrics rather than direct operating-risk disclosure. It includes broad forward-looking disclaimers and numerous exclusions from core earnings, which may limit comparability with GAAP profitability, although the measures and methodology are generally explained. The tone is neutral to mildly confident, with no explicit crisis indicators in the excerpt."
+}

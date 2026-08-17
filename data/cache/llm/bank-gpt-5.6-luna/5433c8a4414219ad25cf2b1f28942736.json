@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict direction",
+    "may have a negative impact",
+    "dependent on retailer and consumer demand",
+    "majority of sales concentrated",
+    "continually discussing new licensing opportunities"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, customer concentration, licensing, store-count, borrowing, and covenant information, but also relies on standard forward-looking and hedging language regarding macroeconomic conditions and consumer demand. Key risks include high customer concentration, discretionary-spending sensitivity, fashion volatility, licensing dependence, acquisition execution, and seasonal borrowing needs; the overall tone is cautiously constructive rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.64,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximately",
+    "expect ... growth",
+    "adjusted earnings (non-GAAP)",
+    "discontinued operation",
+    "settlement income"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively supported, with strong historical sales, margin, and earnings performance. Forward-looking expectations for China, North American demand, and Lochinvar growth introduce moderate forecasting uncertainty, while restructuring costs, pension expense, acquisition-related debt, and reliance on non-GAAP adjustments are notable risk considerations."
+}

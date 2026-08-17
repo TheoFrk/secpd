@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "favorably impacted",
+    "unfavorably impacted",
+    "will be explained more thoroughly",
+    "truncated rate-volume discussion"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and generally transparent, showing improved 2024 earnings, loan and deposit growth, low non-performing loans, and a modest margin increase. Risks include rising funding costs, competitive local pricing, a holding-company loss, increased subordinated debt, and reliance on loan growth. The excerpt is technically dense and contains a truncated section that limits complete assessment of interest-rate sensitivity."
+}

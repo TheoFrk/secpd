@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "may be utilized",
+    "all projects are under development",
+    "until such time as CEL-SCI becomes profitable",
+    "fair value cannot be reliably measured"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, but highlights substantial development, regulatory, commercialization, and funding uncertainty. CEL-SCI has limited operating revenue, ongoing losses, and continued dependence on equity, debt, and other financing sources. The clinical trial is at final analysis, but the company remains blinded and cannot yet assess the outcome or timing of potential revenue."
+}

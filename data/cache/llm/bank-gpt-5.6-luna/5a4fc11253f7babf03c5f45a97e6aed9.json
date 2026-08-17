@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and substantial risks",
+    "could differ materially",
+    "qualitative Step 0 analysis",
+    "significant assumptions about future cash flows",
+    "concentration of credit risk"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking and impairment disclaimers, with substantial technical and product descriptions that may dilute focus on key risks. Quantified customer concentration, declining content performance, lower gross margins, and increased operating expenses indicate meaningful credit and execution risk. Impairment conclusions depend on highly judgmental assumptions regarding forecasts, discount rates, and terminal values."
+}

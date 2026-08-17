@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "possibly beyond",
+    "highly uncertain future developments",
+    "may differ from management estimates",
+    "noncancellable contractual obligations"
+  ],
+  "risk_summary": "The disclosure is materially negative, reporting a 30.5% decline in retail sales, a 32% same-store sales decline, sharply higher cost ratios, and a net loss. Liquidity was supported by liquidating short-term investments, using the revolving credit facility, suspending dividends, and cutting expenditures. COVID-19 outlook language is heavily qualified and emphasizes uncertainty around duration, severity, consumer behavior, and future restrictions, although the filing provides substantial quantitative detail."
+}

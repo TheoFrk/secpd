@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we seek to differentiate",
+    "we expect",
+    "may vary significantly",
+    "highly subjective assumptions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, strategy-oriented narrative supported by some operating metrics, including installed-base data and product-launch timing. Risk disclosure is partially qualified through reliance on expectations, estimates, subjective valuation assumptions, customer adoption, retention, and product mix, while the excerpt provides limited direct quantification of financial impacts."
+}

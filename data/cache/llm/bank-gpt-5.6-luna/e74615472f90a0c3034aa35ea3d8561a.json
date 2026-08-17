@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "immaterial at this time",
+    "does not view effects as material",
+    "primarily due to increased production and sales",
+    "historically believes no collection issues"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides useful detail on sales, customer concentration, market exposure, costs, and profitability. Risk tone is modestly positive, but meaningful exposure exists to government and military spending, customer concentration, distributor dependence, international markets, and tightening pricing margins. Several standard accounting-policy statements rely on subjective estimates and minimize potential impacts without quantifying sensitivity."
+}

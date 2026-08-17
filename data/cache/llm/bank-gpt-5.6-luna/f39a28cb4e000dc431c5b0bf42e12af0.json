@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "when available",
+    "estimated in good faith",
+    "non-GAAP measures",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is largely quantified and presents improving earnings, asset quality, capital ratios, and loan growth, supporting a moderately positive risk tone. Key uncertainty arises from acquisition-driven growth, allowance and fair-value estimates, and reliance on management judgment in credit-loss modeling. The excerpt is truncated and includes boilerplate non-GAAP language, limiting assessment of the full risk discussion."
+}

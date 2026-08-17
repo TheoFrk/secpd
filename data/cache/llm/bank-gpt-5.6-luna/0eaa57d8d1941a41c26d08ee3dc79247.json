@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and contingencies",
+    "qualitative estimates informed by experience",
+    "may or may not realize margin growth",
+    "largest-customer concentration",
+    "uncertainty regarding carryforward utilization"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified information, including revenue, reserves, capital commitments, customer sales, and tax carryforwards, but relies heavily on conditional projections and management assumptions. Key risks include customer concentration, extended payment cycles, obsolete inventory, inflation and margin pressure, long-term facility costs, and uncertainty over growth and tax-loss utilization. The tone is cautiously optimistic rather than crisis-like, though liquidity and execution risks are material."
+}

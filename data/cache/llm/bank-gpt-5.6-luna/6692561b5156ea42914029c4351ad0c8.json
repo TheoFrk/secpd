@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "amounts may not add due to rounding",
+    "positive impact of these factors",
+    "partially offset by",
+    "highly inflationary accounting"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed revenue, profit, currency, and segment drivers. Risk tone is mixed: reported results improved, but substantial foreign-exchange exposure, Venezuelan devaluation and inflation, security costs, labor pressures, and uneven segment performance remain material concerns. Repeated GAAP/non-GAAP presentations and omitted factor lists reduce clarity somewhat."
+}

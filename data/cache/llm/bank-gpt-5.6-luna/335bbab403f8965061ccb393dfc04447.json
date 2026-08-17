@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor and no obligation to update",
+    "extensive non-GAAP adjustments",
+    "underlying sales exclusions",
+    "management believes",
+    "items outside management's control"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and devotes substantial space to non-GAAP measures that exclude acquisitions, restructuring, amortization, impairments, and other items, which may complicate comparability with GAAP results. Operating results are presented with meaningful quantitative detail and an overall positive tone, although softness in China and certain automation and productivity markets indicates moderate underlying demand risk."
+}

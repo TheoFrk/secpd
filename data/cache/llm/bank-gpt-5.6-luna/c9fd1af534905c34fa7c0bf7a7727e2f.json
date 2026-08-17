@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "materially different",
+    "inherently uncertain and beyond our control",
+    "non-exhaustive list of risks",
+    "cannot be reliably estimated"
+  ],
+  "risk_summary": "The excerpt is dominated by extensive boilerplate forward-looking disclaimers and a broad, largely unquantified catalog of potential risks, especially concerning COVID-19, credit quality, liquidity, market conditions, cybersecurity, and regulation. Quantified operating data and balance-sheet metrics provide some specificity, but the overall disclosure tone is cautious and highlights material uncertainty."
+}

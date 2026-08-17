@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.34,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "suitable acquisition/merger candidate",
+    "no assurance",
+    "unlikely to have any revenue",
+    "maintaining public status"
+  ],
+  "risk_summary": "The company has no operating revenue, ongoing net losses, and depends on completing an uncertain acquisition or merger to generate revenue. Cash increased materially from a private placement, but the business remains a non-operating shell with limited disclosed commitments and substantial execution risk."
+}

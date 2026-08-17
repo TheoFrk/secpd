@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "no obligation to publicly release revisions",
+    "may fall below expectations",
+    "dependence upon key management"
+  ],
+  "risk_summary": "The excerpt provides meaningful revenue, expense, marketing-spend, pricing, and retention figures, but is heavily supplemented by boilerplate forward-looking disclaimers and broad, non-quantified risk language. Risk tone is moderately negative because of declining quarterly revenue, marketing inefficiency, customer attrition, capital-raising dependence, key-person exposure, and substantial interest expense, despite management’s stated cost-reduction initiatives."
+}

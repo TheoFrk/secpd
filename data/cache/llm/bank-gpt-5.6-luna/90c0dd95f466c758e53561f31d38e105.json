@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements may prove inaccurate",
+    "could differ materially",
+    "does not undertake to update",
+    "among other things",
+    "cannot predict what legislation might be enacted"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding earnings, interest income, portfolio balances, yields, and risk-management practices. Risk disclosure is broad and includes standard forward-looking disclaimers, cybersecurity/fraud exposure, credit, liquidity, reputational, regulatory, and interest-rate risks, but provides limited downside quantification or stress analysis."
+}

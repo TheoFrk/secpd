@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "may be subject to volatility",
+    "uncertainty that exists",
+    "not representative of ongoing operations",
+    "considerable management judgment",
+    "could have a material impact"
+  ],
+  "risk_summary": "The excerpt is largely standardized MD&A language with substantial definitions, cross-references, and non-GAAP adjustments that reduce clarity around underlying performance. It identifies inflation, supply-chain, geopolitical, impairment, and pension risks, while emphasizing strong liquidity and limited direct Russia-Ukraine exposure. Risk tone is cautious but not crisis-like, with material uncertainty concentrated in macroeconomic conditions and management estimates."
+}

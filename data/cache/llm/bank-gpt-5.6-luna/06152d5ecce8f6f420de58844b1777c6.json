@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may or may not be related",
+    "strategic options and opportunities",
+    "judgmental and highly sensitive assumptions",
+    "duplicated forfeiture-estimation disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on revenue, losses, cash flow, acquisition consideration, debt financing, and earnout obligations. Risk is elevated by the swing to a net loss, increased operating costs, acquisition-related leverage and cash usage, while strategic alternatives and extensive forward-looking caveats introduce uncertainty. The duplicated and truncated text modestly reduces disclosure clarity."
+}

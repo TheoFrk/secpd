@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may adversely impact in the future",
+    "currently acceptable terms",
+    "as market conditions permit",
+    "subject to revision or withdrawal",
+    "risk mitigated through monitoring"
+  ],
+  "risk_summary": "The disclosure is generally detailed and highly quantified, with strong occupancy, rent growth, liquidity capacity, and financing information. It acknowledges exposure to inflation, interest rates, supply-chain disruption, refinancing, development costs, and lease expirations, but frames these risks as manageable and largely prospective. Overall tone is cautiously confident rather than crisis-like."
+}

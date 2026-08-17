@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "unable to predict profitability",
+    "various factors",
+    "estimates of variable consideration",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The company reports substantial cumulative losses, only $2.5 million in cash, dependence on external financing, and uncertainty regarding future profitability. Revenue and rebate estimates introduce judgment and potential volatility, although operating losses improved materially and cash flows benefited from asset-sale proceeds. The excerpt is technically detailed but contains substantial legal boilerplate and is visibly truncated, limiting assessment of liquidity and other risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "attributable to acquisitions",
+    "more likely than not",
+    "offset in part by deferred tax benefit",
+    "ordinary course of business",
+    "non-cash charges"
+  ],
+  "risk_summary": "The excerpt is highly quantified but presents significant financial risk, including a $1.7 million net loss, a $12.9 million working-capital deficit, negative shareholders’ equity, substantial debt service, and restricted cash. Operating cash flow was positive, but it relied heavily on working-capital movements and non-cash adjustments, while acquisition-related debt and expenses materially weakened results."
+}

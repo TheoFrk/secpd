@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict ultimate outcome",
+    "reasonably possible",
+    "appropriate times in the future",
+    "subject to regulatory approval",
+    "additional losses will be recorded if"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified but involves substantial regulatory, legal, environmental, and asset-recovery uncertainty. Regulatory disallowances have already generated $14.4 million of pre-tax losses, with potential additional losses and a possible $151.1 million write-off if adverse outcomes occur. The tone is measured and partly constructive, but overall risk sentiment is negative due to unresolved appeals and dependence on regulator approvals."
+}

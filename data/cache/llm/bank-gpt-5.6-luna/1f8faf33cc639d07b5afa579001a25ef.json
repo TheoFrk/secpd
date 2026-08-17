@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subjective cash flow assumptions",
+    "could differ materially",
+    "no obligation to update",
+    "non-GAAP FFO qualifications"
+  ],
+  "risk_summary": "The excerpt is highly technical and disclaimer-heavy, with substantial reliance on subjective assumptions for fair values, lease economics, impairment testing, occupancy, rental rates, and capital requirements. It identifies potential material impairment and non-GAAP comparability risks, while reporting a modest FFO decline in 2019. Overall, the tone is cautious and largely boilerplate rather than crisis-like."
+}

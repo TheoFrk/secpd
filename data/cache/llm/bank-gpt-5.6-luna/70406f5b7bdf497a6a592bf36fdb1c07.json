@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "expects to continue",
+    "may materially impact",
+    "unforeseen circumstances",
+    "unknown retirement dates"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with store counts, revenue, fuel metrics, tax benefits, and insurance exposures disclosed. Risk tone is cautiously positive, emphasizing resilience while acknowledging persistent post-COVID traffic effects, fuel-price volatility, macroeconomic pressures, interest rates, geopolitical disruptions, and EV transition uncertainty. Some forward-looking and contingent language limits precision regarding future performance and obligations."
+}

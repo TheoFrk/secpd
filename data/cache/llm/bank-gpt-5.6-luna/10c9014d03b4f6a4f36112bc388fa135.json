@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "likely to continue to decline",
+    "expect a return to modest increases",
+    "modest growth opportunities",
+    "subject to change in economic conditions",
+    "contingent upon certain regulatory approvals"
+  ],
+  "risk_summary": "The excerpt provides substantial business, market, product, and acquisition detail, including some quantified revenue concentration and transaction values. Risk tone is mixed: growth opportunities and strengthening demand are presented alongside declining markets, pricing pressure, consolidation, regulatory dependencies, and exposure to elective procedures. The long, jargon-dense narrative and reliance on directional terms such as “modest” and “steady” reduce precision in portions of the disclosure."
+}

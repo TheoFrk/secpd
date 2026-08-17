@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "actual outcomes may differ materially",
+    "not likely within the next 12 months",
+    "ultimate outcome may result in substantially greater payments"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance, quantified sales and cash-flow metrics, and a generally confident strategic tone. However, substantial boilerplate forward-looking language, product exclusivity losses, pricing and regulatory pressures, and potentially material unresolved tax liabilities create meaningful downside risk. The tax dispute is particularly significant, with potential additional taxes and penalties exceeding accrued amounts, although the company contests the claims."
+}

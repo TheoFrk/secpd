@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "could cause materially different results",
+    "no obligation to update",
+    "expectations concerning capital availability"
+  ],
+  "risk_summary": "The excerpt contains substantial legal boilerplate and broad, non-quantified uncertainty language, particularly around COVID-19, capital markets, development outcomes, rents, and occupancy. It also provides useful quantitative disclosures on portfolio scale, capitalization costs, debt maturities, and available credit capacity. Overall tone is cautiously neutral, with liquidity and refinancing risks acknowledged but presented as manageable."
+}

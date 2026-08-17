@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and material-difference disclaimer",
+    "non-GAAP adjusted measures",
+    "promotional strategy language",
+    "early-stage initiatives and expected benefits",
+    "management judgments and estimates"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but presents declining profitability, margins, EBITDA, and inventory turnover within strongly positive strategic and promotional framing. Reliance on adjusted non-GAAP measures, forward-looking initiatives, and management estimates introduces moderate interpretive and execution risk."
+}

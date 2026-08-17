@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "inherent uncertainties",
+    "management’s judgment",
+    "anticipated future cash flows"
+  ],
+  "risk_summary": "The excerpt is largely precise and well quantified, documenting strong revenue, gross profit, and operating income growth, primarily driven by acquisitions. Risk disclosure is mainly standard boilerplate and accounting-estimate language concerning impairment, taxes, and future assumptions, with limited discussion of downside scenarios."
+}

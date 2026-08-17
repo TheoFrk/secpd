@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "modest growth",
+    "pricing remains a challenge",
+    "significant judgment and expertise",
+    "subject to audit"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent, reporting segment revenues, margins, backlog, order trends, debt, interest expense, and tax rates. Risk tone is cautiously positive, supported by revenue and backlog growth, but tempered by competitive pricing pressure, commodity costs, higher interest expense, economic sensitivity, and reliance on acquisitions. Boilerplate disclosures and extensive accounting-policy language add complexity but do not appear strongly evasive."
+}

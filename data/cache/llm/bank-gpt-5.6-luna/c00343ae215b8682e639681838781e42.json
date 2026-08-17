@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to the net effects of",
+    "generally began to stabilize",
+    "based on current economic conditions",
+    "partially offset by",
+    "missing table and truncated text"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but relies frequently on causal qualifiers and broad explanations. Risk is elevated by the reported net loss, weaker CompX sales, sharply lower Kronos volumes, and Kronos's higher cost of sales and unabsorbed fixed production costs, although management expects improved 2024 earnings."
+}

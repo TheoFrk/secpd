@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "leading innovation and global leadership claims",
+    "timing and actual number will depend",
+    "may be amended, suspended, or discontinued",
+    "subject to adjustment and sole discretion"
+  ],
+  "risk_summary": "The excerpt is generally positive and provides substantial quantified operating, acquisition, cash flow, patent, and customer metrics. Risk disclosure is partly boilerplate and promotional, while the lengthy legal and acquisition descriptions increase complexity and may obscure key exposure areas. No immediate liquidity or operating crisis is evident, although execution, acquisition integration, regulatory, and market-adoption risks remain."
+}

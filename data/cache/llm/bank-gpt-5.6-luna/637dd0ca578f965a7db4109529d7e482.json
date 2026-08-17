@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "new risk factors emerge from time to time",
+    "not required to revise or update",
+    "could cause actual results to differ materially",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The disclosure is broadly balanced and includes substantial quantified operating, earnings, capital expenditure, and COVID-19 impact estimates. However, extensive standard forward-looking disclaimers, materiality language, and reliance on incorporated risk factors limit specificity regarding downside scenarios and sensitivities."
+}

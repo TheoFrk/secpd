@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.23,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "materially differ",
+    "significant judgment required",
+    "inherent risks and uncertainties",
+    "not possible to predict"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but includes extensive standard forward-looking disclaimers and uncertainty language. Key risks include declining revenue and gross margin, significant contract cost overruns, customer and backlog concentration, impairment exposure, and reliance on uncertain future orders."
+}

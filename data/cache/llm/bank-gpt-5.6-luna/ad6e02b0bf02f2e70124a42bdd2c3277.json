@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.26,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "possibly materially",
+    "non-U.S. GAAP measures",
+    "cross-references to risk factors",
+    "omitted prior-year discussion"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding earnings, investment gains, capital, repurchases, and equity impacts, with a moderately positive operating tone. Key risks include market volatility, credit losses, foreign-currency losses, demographic pressures, insurance discount-rate sensitivity, and reliance on adjusted measures. Boilerplate disclaimers, extensive cross-references, and omission of certain 2021 discussion modestly reduce disclosure clarity."
+}

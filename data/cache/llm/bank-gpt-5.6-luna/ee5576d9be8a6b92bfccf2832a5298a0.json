@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "strong capital levels",
+    "disciplined approach",
+    "satisfactory financial return",
+    "primarily impacted by loss exposure",
+    "non-GAAP operating measures"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but uses favorable qualitative descriptors and relies on non-GAAP measures that may soften the presentation of weaker 2024 earnings. Key risks include a 19.8% decline in net income, net interest margin compression, reduced core-deposit mix, and credit-loss exposure in commercial portfolios. The excerpt is truncated and omits referenced tables, limiting assessment of asset-quality and liquidity metrics."
+}

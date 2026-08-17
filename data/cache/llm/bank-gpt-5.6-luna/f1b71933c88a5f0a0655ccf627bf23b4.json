@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "management believes",
+    "meaningful measure of current period performance",
+    "economic offset",
+    "subject to market conditions and other considerations"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but relies on adjusted earnings and extensive derivative, regulatory, and non-GAAP explanations that complicate interpretation. Net income declined materially due to weaker NEER and Corporate and Other results, although FPL growth, renewable investment, and approximately $8.5 billion of liquidity support a moderately stable risk tone."
+}

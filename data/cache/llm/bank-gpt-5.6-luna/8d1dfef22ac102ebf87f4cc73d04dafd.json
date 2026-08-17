@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding special charges",
+    "we believe",
+    "best-in-class claims",
+    "estimated fair value",
+    "strategic initiatives"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial operating, cash flow, leverage, and performance data, supporting relatively strong disclosure quality. The tone is broadly confident and improvement-oriented, though it emphasizes adjusted results excluding charges and includes forward-looking aspirational claims. Identified risks include competitive pressure, guarantee-related exposure, debt refinancing, interest-rate hedges, and contractual obligations."
+}

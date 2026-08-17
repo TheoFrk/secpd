@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subject to significant risks and uncertainties",
+    "other factors affecting operations",
+    "no obligation to update",
+    "management believes well-positioned"
+  ],
+  "risk_summary": "The excerpt presents quantified improvements in earnings, capital, and liquidity, supporting a moderately positive risk tone. However, extensive legal safe-harbor language, broad catch-all risk factors, and reliance on generalized statements about controls and future performance limit specificity. Liquidity appears favorable based on approximately $444 million of available FHLB borrowing capacity, though portfolio, reserve, deposit, and integration risks remain material."
+}

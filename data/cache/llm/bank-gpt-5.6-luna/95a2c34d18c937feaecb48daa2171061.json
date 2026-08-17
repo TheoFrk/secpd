@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results may differ significantly",
+    "subjective variables",
+    "potential bad debt",
+    "may not be effective"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative operating results and segment detail, but includes extensive standard disclaimers and relies on broad, largely unquantified risk descriptions. Key exposures include fuel-price volatility, customer credit losses, hedging counterparty risk, macroeconomic weakness, and acquisition-related cost increases."
+}

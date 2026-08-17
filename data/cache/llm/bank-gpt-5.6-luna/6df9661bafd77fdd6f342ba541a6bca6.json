@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "intends to pursue acquisitions",
+    "may also seek businesses",
+    "variety of acquisition opportunities",
+    "more-likely-than-not realizable",
+    "subject to limitations"
+  ],
+  "risk_summary": "The excerpt is information-dense and highly complex, with substantial boilerplate describing numerous subsidiaries, segments, strategies, and contingencies. It includes meaningful quantified disclosures, but relies frequently on forward-looking language and broad acquisition objectives, while tax valuation allowances and carryforward limitations indicate potential earnings and cash-tax uncertainty."
+}

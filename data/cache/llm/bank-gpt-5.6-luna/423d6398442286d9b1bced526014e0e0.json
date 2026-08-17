@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally short-term in nature",
+    "some financial instruments",
+    "subject to certain terms and conditions",
+    "some or all of these may result",
+    "less-liquid and distressed securities"
+  ],
+  "risk_summary": "The disclosure is relatively precise and highly quantified, but contains substantial technical accounting and fair-value terminology. Material risks include Level 3 valuation uncertainty, Auction Rate Securities obligations and settlements, adverse legal awards, and ongoing regulatory investigations. The tone is factual rather than crisis-like, though the identified contingent liabilities and enforcement exposure are negative."
+}

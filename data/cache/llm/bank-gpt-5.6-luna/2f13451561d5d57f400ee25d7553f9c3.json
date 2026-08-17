@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "may not be exhaustive",
+    "cannot predict new risk factors",
+    "judgmentally adjusting methods and assumptions"
+  ],
+  "risk_summary": "The excerpt contains substantial standard legal disclaimer language and broad uncertainty statements that limit predictive accountability. However, reserve estimates, durations, loss development, and credit-loss allowances are meaningfully quantified, providing useful risk transparency. The tone is cautious and technically dense rather than crisis-like, with notable sensitivity to inflation, reserve assumptions, and modeled economic scenarios."
+}

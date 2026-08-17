@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance of successful transaction",
+    "limited financial resources",
+    "going concern funding uncertainty",
+    "repeated acquisition-strategy language",
+    "forward-looking risk disclaimers"
+  ],
+  "risk_summary": "The company is a non-operating shell with no revenues, recurring losses, limited cash, and a working-capital deficit including related-party debt. Its ability to continue as a going concern and complete an acquisition depends on obtaining additional financing, with management providing no assurance that these plans will succeed. The disclosure is quantitatively informative on recent losses and liquidity but relies heavily on repeated boilerplate and broad contingencies regarding its acquisition strategy."
+}

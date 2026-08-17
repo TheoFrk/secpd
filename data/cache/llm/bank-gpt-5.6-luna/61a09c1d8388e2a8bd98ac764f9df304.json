@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "could differ materially",
+    "including but not limited to",
+    "customer demand remains robust",
+    "we do not believe there to be a material liquidity risk"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, including revenue exposure, backlog, debt, interest, purchase obligations, and government funding levels, but relies on standard forward-looking disclaimers and optimistic strategic language. Key risks include U.S. budget uncertainty, continuing resolutions, sequestration, debt-ceiling instability, geopolitical tensions, macroeconomic pressures, and substantial debt and purchase commitments. Overall tone is cautiously confident rather than crisis-like, with management characterizing liquidity risk as limited."
+}

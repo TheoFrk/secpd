@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "believed to be reasonable",
+    "significant judgments",
+    "triggering events",
+    "internal forecasts"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantified, but relies on management judgments regarding reserves, impairment testing, discounted cash flows, WACC, and terminal values. Risk indicators include declining operating cash flow, lower demand, customer collectability issues, inventory write-downs, and increased acquisition-related borrowing. Overall tone is neutral to mildly negative rather than crisis-like."
+}

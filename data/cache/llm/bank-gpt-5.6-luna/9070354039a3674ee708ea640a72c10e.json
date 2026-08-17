@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "estimates, assumptions, and judgments",
+    "could reflect different estimates",
+    "subject to revision",
+    "inherently results in volatility",
+    "adequate forward earnings potential"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively detailed, but includes standard accounting-uncertainty language around fair values, loan-loss allowances, and purchased loans. Risk tone is moderately negative because net income and net interest income declined materially, loan volumes contracted, and reliance shifted toward lower-yielding investment securities, although credit metrics and expenses reportedly improved."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "including but not limited to",
+    "no obligation to revise",
+    "assumptions believed reasonable"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and extensive disclosure of risks, assumptions, and estimation uncertainty. Key quantified items include customer concentration, revenue variability, acquisition funding, and cash flows, but the acquisition benefits and future performance claims remain largely qualitative."
+}

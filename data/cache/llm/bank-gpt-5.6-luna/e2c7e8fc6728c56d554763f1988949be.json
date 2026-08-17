@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "various assumptions",
+    "significant estimates and assumptions",
+    "may differ materially",
+    "undertakes no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosure on revenue declines, segment performance, pension expectations, and impairment testing, but is heavily qualified by standard forward-looking language and reliance on estimates. Negative indicators include a 15% revenue decline, multiple loss-making segments, and material dependence on projected cash flows and valuation assumptions, although cost reductions partially offset the pressure."
+}

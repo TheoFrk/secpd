@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "may be significant",
+    "not limited to these factors",
+    "future market factors beyond control",
+    "subjectively adjusted"
+  ],
+  "risk_summary": "The excerpt reports strong, well-quantified earnings, asset growth, and improved profitability, producing a generally positive tone. However, the allowance-for-loan-loss discussion relies heavily on management judgment, broad economic factors, and unallocated reserves, creating uncertainty around credit-loss adequacy. The critical accounting policy language is lengthy and partly boilerplate, with limited quantification of portfolio concentrations, criticized loans, or reserve sensitivity."
+}

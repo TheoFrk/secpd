@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to result in exposure",
+    "management believes",
+    "new win performance (net of losses)",
+    "combined sales presentation",
+    "partially offset by cost savings"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively supported, but contains promotional framing around the Frutarom acquisition and relies on broad claims regarding growth, customer reach, and synergies. Acquisition financing involved substantial debt and equity issuance, while margin pressure, input-cost inflation, supply disruption, and integration-related costs indicate elevated execution and leverage risks."
+}

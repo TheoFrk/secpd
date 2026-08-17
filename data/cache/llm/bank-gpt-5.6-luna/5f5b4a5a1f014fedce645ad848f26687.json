@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "estimates, assumptions, and judgments",
+    "could reflect different estimates",
+    "subject to revision as new information becomes available",
+    "primarily due to",
+    "Management's evaluation"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but includes standard accounting-risk caveats around loan-loss allowances, fair values, and contingencies. Credit quality improved and nonperforming assets declined, although earnings fell, net interest margin remained pressured, and results included material tax and loss-contingency adjustments."
+}

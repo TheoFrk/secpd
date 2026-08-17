@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "acceptable commercial and financing arrangements",
+    "various stages of development",
+    "one or more of the following",
+    "subject to specified circumstances",
+    "expected nominal production capacity"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on assets, ownership, liquidity, restricted cash, capacity, and distributions. Risk is moderated by project-development and financing dependencies, complex intercompany structures, and uncertainty around future investment decisions and commercial arrangements. Overall tone is operationally confident but materially reliant on contingent financing and execution assumptions."
+}

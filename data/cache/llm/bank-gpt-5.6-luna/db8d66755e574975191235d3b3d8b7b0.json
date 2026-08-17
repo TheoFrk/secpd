@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "if conditions deteriorate in the future",
+    "we are hopeful",
+    "anticipates improving costs",
+    "believe Hallador Power will double EBITDA",
+    "covenant relief to maintain liquidity"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, reserve, reclamation, and capex information, but includes material uncertainty around COVID-19 impacts, supply costs, regulatory approvals, the Merom acquisition, and projected EBITDA growth. The March 2022 covenant amendment for liquidity relief is a notable credit-risk signal, while reliance on forward-looking expectations limits certainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot be predicted at this time",
+    "beyond the Company’s control",
+    "no forward-looking statement can be guaranteed",
+    "expected to be forgiven",
+    "does not anticipate any material impact"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies clear operating risks, including COVID-19-related revenue declines, a net loss, increased expenses, and reliance on equity financing and PPP proceeds. Management presents liquidity as adequate for the next 12 months, but several forward-looking assurances remain dependent on uncertain pandemic developments and anticipated loan forgiveness."
+}

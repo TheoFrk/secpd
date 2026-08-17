@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "excluding acquisitions and currency effects",
+    "provisional tax expense estimate",
+    "reorganized reportable segments",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and well quantified, with clear attribution of sales, cost, margin, acquisition, and currency impacts. Risk is mixed: reported growth was acquisition-driven while organic sales and gross profit declined, expenses and interest costs increased, and the excerpt is incomplete and includes standard forward-looking disclaimer language."
+}

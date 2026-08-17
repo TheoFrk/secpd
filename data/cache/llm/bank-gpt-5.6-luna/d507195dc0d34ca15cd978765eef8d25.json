@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "among others",
+    "inherently uncertain",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and risk-factor boilerplate, with broad unquantified exposures spanning demand, supply chain, cybersecurity, regulation, and litigation. It also provides meaningful quantified disclosure on pandemic impacts, liquidity, leverage, capital actions, and workforce reductions, supporting a generally controlled but cautious tone. Overall risk is elevated by pandemic uncertainty, supplier concentration, inventory vulnerability, and dependence on consumer demand and credit availability."
+}

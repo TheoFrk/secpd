@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "lower than expected European sales",
+    "challenging economic environment",
+    "primarily attributable to",
+    "transition service agreement",
+    "truncated contractual obligations table"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed revenue, margin, expense, cash flow, debt, and acquisition information. Risk is moderated by reliance on acquired Honeywell revenue, weaker European Product Identification sales, foreign exchange exposure, increased debt-related expense, and incomplete presentation of contractual obligations in the excerpt. Overall tone is cautiously positive, emphasizing strong growth and profitability despite operational and macroeconomic challenges."
+}

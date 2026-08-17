@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be reasonably predicted",
+    "estimates, assumptions, and judgments",
+    "could materially affect operating results",
+    "numerous evolving factors and future developments",
+    "fully taxable equivalent basis"
+  ],
+  "risk_summary": "The excerpt reports improved earnings and provides substantial quantitative and methodological detail, but contains considerable standard accounting and regulatory boilerplate. Key risk disclosure centers on subjective credit-loss estimates, interest-rate and inflation impacts, and uncertainty related to geopolitical and pandemic developments."
+}

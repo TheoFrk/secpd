@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could have a material adverse impact",
+    "expected to provide sufficient liquidity",
+    "primarily due to",
+    "none of which we believe may have a material effect",
+    "selectively pruning non-core business"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear year-over-year explanations of revenue, margin, cash flow, debt, and tax changes. Key risks include significant Boeing customer concentration, Boeing regulatory and labor disruptions, reliance on operating cash flow and credit facilities, and use of qualified forward-looking language regarding liquidity and adverse impacts."
+}

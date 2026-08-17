@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "cannot provide assurance",
+    "difficult to predict",
+    "subject to numerous factors",
+    "doubt about ability to continue as a going concern"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and repeated reliance on uncertain future events, regulatory outcomes, partnerships, and financing. Risk is materially elevated due to sustained operating losses, expected negative cash flows, dependence on additional funding, and explicit doubt regarding continuation as a going concern beyond the third quarter of 2019."
+}

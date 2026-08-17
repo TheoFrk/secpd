@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "inherently uncertain",
+    "we expect",
+    "significant judgment required"
+  ],
+  "risk_summary": "The excerpt presents strong revenue and net income growth with substantial quantitative detail and a generally confident tone. Key risks include foreign exchange exposure, platform transition dependence, uncertain game popularity, and subjective royalty-rate and revenue forecasts. Boilerplate framing and extensive qualifying language somewhat limit transparency around forward-looking assumptions."
+}

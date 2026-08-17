@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "currently anticipated cash requirements",
+    "may not be available on favorable terms",
+    "no assurance ... meaningful time frame",
+    "highly uncertain and cannot be predicted"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively supported, including cash flow, liquidity, revenue, and expense data. Risk tone is cautiously positive but includes meaningful uncertainty around customer demand, forecasting, discretionary spending, financing availability, execution of growth plans, and COVID-19 impacts."
+}

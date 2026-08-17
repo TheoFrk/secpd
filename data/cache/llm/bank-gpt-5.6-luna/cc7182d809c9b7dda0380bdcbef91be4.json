@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expected to be",
+    "organic basis",
+    "acquisition-related revenue"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified GAAP and non-GAAP results, segment trends, and specific charges, supporting relatively transparent disclosure. However, frequent offsetting explanations, reliance on organic/non-GAAP measures, optimistic projections, and omitted or truncated analysis reduce clarity. Material risks include declining North American performance, Venezuela currency and accounting effects, acquisition integration, and the bankruptcy of the Belgian subsidiary."
+}

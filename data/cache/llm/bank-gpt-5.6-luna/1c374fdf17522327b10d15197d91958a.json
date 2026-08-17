@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment",
+    "actual results could materially differ",
+    "various valuation techniques",
+    "current and projected operating cash flows",
+    "not indicative of future operations"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified sensitivity examples, but relies substantially on management judgment regarding collectability, fair values, useful lives, impairment, and projected cash flows. Risks appear material but are presented in standard accounting-policy language with a generally neutral tone; the excerpt is truncated before the impairment discussion is completed."
+}

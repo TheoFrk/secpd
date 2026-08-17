@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could materially affect",
+    "inherent level of uncertainty",
+    "do not currently believe",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and identifies key drivers, but profitability deteriorated materially as costs, compensation, severance, and interest expense increased faster than revenue. It acknowledges exposure to inflation, customer demand, major-customer loss, and impairment assumptions, while using standard forward-looking qualifiers and omitting the end of an outlook passage."
+}

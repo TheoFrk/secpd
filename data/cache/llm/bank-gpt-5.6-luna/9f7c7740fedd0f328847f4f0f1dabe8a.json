@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to state with certainty",
+    "believed to be reasonable",
+    "inherently subject to uncertainty",
+    "qualitative factors",
+    "estimated future net servicing income"
+  ],
+  "risk_summary": "The excerpt uses standard MD&A and critical-accounting-policy language, with substantial reliance on management estimates for loan losses, securities impairment, mortgage servicing rights, and goodwill. It provides meaningful quantitative loan and capital data, but the excerpt emphasizes qualitative judgments and is truncated before full risk details are presented. Overall tone is neutral to mildly confident, with embedded sensitivity to credit, valuation, interest-rate, and prepayment assumptions."
+}

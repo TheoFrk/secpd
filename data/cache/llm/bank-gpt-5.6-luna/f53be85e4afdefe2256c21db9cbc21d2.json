@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "could cause actual results to differ",
+    "many factors beyond our control",
+    "estimates of contract profitability"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including segment revenue, margins, contract mix, and historical comparisons. Risk exposure remains moderate due to revenue decline, cyclical demand, fixed-price contract execution, cost-estimation uncertainty, pricing pressure, and project timing variability. The tone is cautiously constructive, emphasizing operational strengths while relying on standard forward-looking disclaimers."
+}

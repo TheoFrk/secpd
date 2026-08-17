@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "impact currently unknown",
+    "depend on duration and implementation",
+    "we believe these metrics provide useful information",
+    "may not be completely comparable",
+    "long-term outlook influenced by"
+  ],
+  "risk_summary": "The disclosure identifies meaningful exposure to supply-chain constraints, inflation, geopolitical events, foreign exchange, and U.S. government funding uncertainty, while quantifying key revenue concentration and current appropriations timing. Risk descriptions are generally specific, but several potential impacts remain unquantified and are framed conditionally. Overall tone is cautiously confident, supported by strong demand and reported performance."
+}

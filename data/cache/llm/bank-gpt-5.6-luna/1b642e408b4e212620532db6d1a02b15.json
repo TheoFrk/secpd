@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance",
+    "risks and uncertainties",
+    "including but not limited to",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The excerpt presents strong occupancy, leasing, development, and financing metrics, supporting a generally positive operating tone. However, it relies heavily on standard forward-looking disclaimers and broad risk-factor language, with material exposure to real estate demand, tenant concentration, financing, development execution, tax, cyber, and pandemic risks."
+}

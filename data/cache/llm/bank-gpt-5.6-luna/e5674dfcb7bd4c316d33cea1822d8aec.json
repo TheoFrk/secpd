@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently subjective estimates",
+    "may be susceptible to significant change",
+    "more likely than not",
+    "other-than-temporary impairment",
+    "non-GAAP measurements"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes substantial quantitative information, but relies heavily on judgment-based accounting language and extensive regulatory boilerplate. Credit risk is elevated by higher loan-loss provisions, a commercial loan charge-off, and an OREO write-down, although reported asset and loan growth and improved net interest margin temper the overall negative tone."
+}

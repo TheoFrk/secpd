@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to variation due to a number of factors",
+    "no assurance that actual results will not differ",
+    "numerous factors beyond its control",
+    "non-U.S. GAAP measures",
+    "probability-weighted future cash flows"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, including provisional sales exposures and reconciliations, but relies heavily on standard accounting and mining-industry uncertainty disclosures. Key risks include commodity-price volatility, reserve-estimate sensitivity, impairment judgments, foreign exchange, operating costs, and non-GAAP cost metrics."
+}

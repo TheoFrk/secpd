@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "assumptions, judgments and estimates",
+    "reasonably assured",
+    "subject to several items",
+    "timing of which is uncertain"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear revenue, earnings, tax, cash-flow, and investment details. Key risks relate to fixed-price project estimates, collectability and contract losses, customer concentration, tax impacts, and contingent property purchases, but the overall operating tone remains confident."
+}

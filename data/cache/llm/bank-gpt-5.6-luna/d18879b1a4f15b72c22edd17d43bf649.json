@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance",
+    "highly dependent on successfully",
+    "absent the sale or refinancing",
+    "substantial doubt about going concern",
+    "customary covenants and events of default"
+  ],
+  "risk_summary": "The disclosure is relatively quantified but presents significant liquidity and refinancing risk, including near-term maturities, limited cash, covenant dependence, and mandatory repayments. Continued operation depends heavily on selling real estate at acceptable prices or refinancing, with explicit substantial doubt about going concern and insufficient liquidity if covenants are breached."
+}

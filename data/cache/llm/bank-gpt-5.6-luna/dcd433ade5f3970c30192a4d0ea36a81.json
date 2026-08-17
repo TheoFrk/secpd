@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "strategic slogans",
+    "forward-looking safe harbor",
+    "without limitation risk list",
+    "materially differ"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and segment information, but presents performance favorably through extensive non-GAAP adjustments that exclude impairment and restructuring charges. Canada’s significant sales decline, Cromwell impairments, margin pressure, and broad operational, legal, supply-chain, and macroeconomic risk disclosures indicate meaningful execution and downside risks. The overall tone remains moderately confident, supported by U.S. growth and cost-control claims."
+}

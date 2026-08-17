@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "may differ materially",
+    "uncertain",
+    "cautiously optimistic",
+    "further actions deemed necessary or appropriate"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operational, revenue, cash-flow, and liquidity information, but relies on standard forward-looking disclaimers and broad uncertainty language around COVID-19 and supply constraints. Risk tone is cautiously positive, while reliance on single or limited suppliers, semiconductor capacity shortages, and potential renewed disruption remain material concerns."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to a number of risks and uncertainties",
+    "Actual results may vary",
+    "beyond management’s control",
+    "timing and results ... currently unknown",
+    "could impact results of operations"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and regulatory boilerplate, with limited discussion of quantified forward-looking risks or management actions. It identifies meaningful sensitivity to real estate volume, interest rates, regulation, investment performance, and mortgage-market changes, producing a cautious but not crisis-like tone."
+}

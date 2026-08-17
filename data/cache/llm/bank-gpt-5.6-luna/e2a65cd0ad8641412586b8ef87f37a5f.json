@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "we believe",
+    "if we determine",
+    "mitigation plans and cost-reduction efforts"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but uses recurring attribution language and contains a truncated backlog discussion. Key risks include 787 production challenges, schedule delays, supplier and customer impacts, expected zero margin on initial deliveries, potential additional charges, pension obligations, and increased debt expense."
+}

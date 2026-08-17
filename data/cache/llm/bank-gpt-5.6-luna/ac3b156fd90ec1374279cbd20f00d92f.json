@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "unknown duration",
+    "potential for further new virus variants",
+    "we cannot be sure",
+    "at least the next 12 months"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including sales changes, store counts, cost pressures, liquidity, and supply-chain finance balances. Risk tone is cautiously positive but highlights material uncertainty from COVID-19, inflation, freight and wage costs, supply-chain congestion, and reliance on stimulus-supported demand. Liquidity is presented as adequate for at least 12 months, though several forward-looking assumptions remain uncertain."
+}

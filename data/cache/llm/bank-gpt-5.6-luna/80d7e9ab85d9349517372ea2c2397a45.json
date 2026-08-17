@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "legalistic boilerplate"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and instead incorporates the relevant MD&A by reference. Assessment of underlying risks requires review of the referenced Annual Report section."
+}

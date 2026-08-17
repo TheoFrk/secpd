@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "include, but are not limited to",
+    "additional information throughout this report",
+    "non-GAAP core earnings measure",
+    "truncated discussion of third-party recoveries"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers, cross-references, and non-GAAP earnings definitions, which reduce direct clarity about risk exposure. It does provide some quantified operating and regulatory information, but significant matters—including San Onofre litigation, regulatory uncertainty, and third-party recoveries—remain unresolved or incompletely presented in the excerpt."
+}

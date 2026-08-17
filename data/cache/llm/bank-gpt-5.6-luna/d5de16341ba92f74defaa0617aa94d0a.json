@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance that agreements will be entered",
+    "anticipated closings",
+    "appears promising",
+    "may differ materially",
+    "subjective factors"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, covering sales, costs, pension charges, covenants, and a proposed expansion. Risk is presented in a balanced but mildly confident tone, with uncertainty concentrated around the proposed transaction and actuarial assumptions. The long, technical structure and recurring explanatory disclosures modestly reduce readability but do not indicate severe evasion."
+}

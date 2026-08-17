@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot assure financing availability",
+    "if efforts are unsuccessful",
+    "substantial doubt about going concern",
+    "materially and adversely impact"
+  ],
+  "risk_summary": "The excerpt contains substantial liquidity and solvency risk, including insufficient existing liquidity, dependence on additional financing, and an explicit substantial doubt regarding the Company’s ability to continue as a going concern. Patent monetization and litigation outcomes are uncertain, while legal and enforcement costs may exceed recoveries. Disclosure is detailed on transactions but relies heavily on legal boilerplate and conditional language for future performance."
+}

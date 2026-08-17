@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may differ materially",
+    "significant judgment required",
+    "not possible to predict",
+    "quarter-to-quarter fluctuations"
+  ],
+  "risk_summary": "The disclosure is materially quantified and provides useful customer, segment, backlog, revenue, margin, and market information, but it includes substantial standard forward-looking disclaimers and uncertainty around EV demand, silicon carbide overcapacity, contract estimates, and impairment outcomes. Customer and backlog concentration, long production cycles, and potential future contract losses or impairments represent notable credit risks. Overall tone is cautiously constructive rather than crisis-like, supported by revenue growth and improved gross margin despite identified market and exe…"
+}

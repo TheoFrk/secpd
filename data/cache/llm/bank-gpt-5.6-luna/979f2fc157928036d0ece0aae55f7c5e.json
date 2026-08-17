@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "currently do not expect",
+    "may equal or exceed",
+    "may increase slightly",
+    "potential sale",
+    "estimated net realizable value"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, particularly regarding fiscal-year changes, segment performance, and the estimated contribution of the additional operating week. Risk disclosure is moderately positive but includes seasonality, timing effects, uncertain future interest expense, and contingent gains or losses from asset dispositions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.67,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expect to continue",
+    "favorable sales growth momentum",
+    "best-in-class content",
+    "not a warranty or guarantee"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and liquidity narrative, supported by quantified growth in sales, margins, income, cash, and working capital. Risk disclosure is limited in this portion and relies on forward-looking, promotional language regarding growth, investments, acquisitions, and customer demand. The discussion is moderately complex and includes standard MD&A cross-references, but is not materially evasive."
+}

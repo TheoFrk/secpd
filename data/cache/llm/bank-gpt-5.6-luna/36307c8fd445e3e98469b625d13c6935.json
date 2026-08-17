@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance that this will continue",
+    "we anticipate",
+    "unknown timing of government RFQs",
+    "black swan events"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified regarding sales, geographic exposure, COVID-related revenue, capacity, pricing, and planned capital expenditures. However, it relies substantially on projections and optimistic assumptions about pandemic demand, recovery, stockpiling, raw-material availability, and market expansion, while acknowledging material downside risks from demand normalization, recession, supply shortages, and sector weakness."
+}

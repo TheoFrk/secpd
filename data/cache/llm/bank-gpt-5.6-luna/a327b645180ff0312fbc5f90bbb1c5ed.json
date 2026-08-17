@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "restated consolidated financial statements",
+    "unapproved change orders",
+    "unresolved contract modifications and/or affirmative claims",
+    "probable and estimable",
+    "actual amounts could differ"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantitative information, but the restatement and reliance on management estimates indicate elevated reporting and execution risk. Unresolved claims, project cost overruns, delays, lower productivity, adverse weather, and an unfavorable court ruling create uncertainty around revenue recognition and margins."
+}

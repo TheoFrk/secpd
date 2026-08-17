@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "probable future obligations",
+    "recovery is possible",
+    "various assumptions and valuation methodologies",
+    "actual costs may differ"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes several quantified program costs, investments, and rate recoveries, but relies heavily on estimates, actuarial assumptions, regulatory approvals, and contingent recoverability. Key downside risks include disallowance of regulatory assets, environmental remediation cost overruns, litigation, insurance or third-party recovery shortfalls, and changes in actuarial or valuation assumptions."
+}

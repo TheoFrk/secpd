@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results may differ",
+    "such other factors as deserve current recognition",
+    "more-likely-than-not",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified net interest metrics, but relies heavily on standard accounting-policy boilerplate and management estimates. Key credit, valuation, impairment, and PCI-loan outcomes are subject to judgment and assumptions, with limited adverse-scenario quantification in the provided text."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP “base” measures",
+    "certain other items, if any",
+    "expected growth drivers",
+    "achieving these goals will be difficult",
+    "temporary operating issues"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantitative, with detailed geographic, segment, margin, cash flow, pension, tax, and outlook disclosures. Risk tone is cautious, citing weak economic recovery, recession exposure, commodity and labor cost pressure, pension deficits, and execution challenges, although the company reports record sales, improved cash flow, and targeted margin gains. Reliance on adjusted non-GAAP measures and forward-looking targets creates some comparability and execution risk."
+}

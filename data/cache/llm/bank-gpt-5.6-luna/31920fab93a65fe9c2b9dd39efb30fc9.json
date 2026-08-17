@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "we expect",
+    "material to our business",
+    "significant portion"
+  ],
+  "risk_summary": "The excerpt presents strong quantified revenue, margin, earnings, and cash metrics, with a generally constructive operating tone. Key risks include reliance on live services and concentrated franchises, intense competition, talent retention costs, digital-sales estimates, and a decline in operating cash flow. Some forward-looking and qualitative language limits precision regarding future performance and business concentration."
+}

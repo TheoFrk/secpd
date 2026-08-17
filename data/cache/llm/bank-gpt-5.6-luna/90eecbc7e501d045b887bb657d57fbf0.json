@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.68,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "adjusting for one-time items",
+    "primarily due to",
+    "reclassified prior-year data",
+    "certain other investing activities"
+  ],
+  "risk_summary": "The excerpt presents strongly positive operating and cash-flow trends, with substantial revenue, operating income, margin, and adjusted free-cash-flow improvements. Comparability is complicated by restructuring charges, tax reform benefits, accounting reclassifications, and reliance on non-GAAP adjustments. Operating risks include coal competition from natural gas, volume declines in selected markets, regulatory obligations, and customer or lane rationalization."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results to differ from management's estimates",
+    "a variety of factors",
+    "subject to approval",
+    "other events could cause",
+    "no assets allocated to Corporate"
+  ],
+  "risk_summary": "The excerpt is primarily a detailed business and segment description with substantial quantified operating metrics, but includes standard cautionary language around estimates, macroeconomic conditions, collectability, and future capital allocation. Risk tone is neutral to mildly confident, with no clear indication of acute financial distress in the provided text."
+}

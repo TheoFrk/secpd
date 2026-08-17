@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be reasonably or reliably estimated",
+    "focused on ongoing improvement",
+    "no significant risk-rating downgrades",
+    "deemed adequate by the Company",
+    "truncated loan modification disclosure"
+  ],
+  "risk_summary": "The excerpt presents strong 2020 earnings, liquidity, capital, and credit-quality trends with substantial quantitative support. COVID-19 introduces material uncertainty, particularly regarding future operating results, loan modifications, hospitality exposure, and reserve adequacy, while several conclusions rely on management judgment. The abrupt truncation and transition into prior-year results reduce disclosure coherence."
+}

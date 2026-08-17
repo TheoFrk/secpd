@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.55,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective estimates and approximations",
+    "actual results could differ",
+    "as necessary",
+    "hopeful that sales will continue",
+    "when the opportunity arises"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, showing strong profitability, liquidity, and sales growth. Key risks include exposure to housing-market fluctuations, reliance on investment income, inventory-obsolescence judgments, and related-party arrangements. Management uses a notably optimistic tone regarding future sales, product launches, and acquisitions without providing detailed forecasts."
+}

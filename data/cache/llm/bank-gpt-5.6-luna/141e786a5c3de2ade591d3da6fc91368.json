@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.96,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.34,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "forward-looking statements",
+    "no substantive discussion",
+    "external page references"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and directs readers to another report and specified pages. This limits transparency and prevents assessment of current operating results, liquidity, or material risks from the excerpt alone."
+}

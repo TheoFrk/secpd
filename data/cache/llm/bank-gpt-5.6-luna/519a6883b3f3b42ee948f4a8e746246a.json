@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to be positive",
+    "we believe",
+    "modest sales growth",
+    "reasonable in light of",
+    "may have a material impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including sales, margins, debt leverage, tax benefits, and pension sensitivities. It acknowledges persistent macroeconomic and demand pressures but uses moderately optimistic forward-looking language regarding sales, profitability, and margins. Pension assumptions and limited visibility around 2012 demand remain notable risk areas."
+}

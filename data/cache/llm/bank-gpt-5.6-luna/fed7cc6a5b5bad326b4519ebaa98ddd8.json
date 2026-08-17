@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance risk list is complete",
+    "management undertakes no obligation to update",
+    "customary conditions and approvals",
+    "does not anticipate significant constraints"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking and legal disclaimer language, including broad, non-exhaustive risk factors and repeated uncertainty qualifiers. It provides meaningful transaction and balance-sheet metrics, but pandemic impacts, merger execution risks, and operational assumptions are partly described in generalized terms. Overall tone is cautiously confident rather than crisis-like."
+}

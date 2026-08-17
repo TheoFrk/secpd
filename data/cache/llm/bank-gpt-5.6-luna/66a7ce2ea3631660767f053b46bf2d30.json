@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to significant change",
+    "materially different than originally reported",
+    "qualitative factors",
+    "does not assume any duty to update"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure, particularly on deposits, funding, loan-loss methodology, and securities valuation. However, reliance on subjective estimates, qualitative adjustments, and broad safe-h harbor disclaimers creates meaningful uncertainty around credit-loss and impairment outcomes. Overall tone is cautious and largely neutral, with some positive operating indicators such as lower funding costs and increased deposits."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgments and estimates",
+    "subject to uncertainties",
+    "not possible to predict",
+    "interrelated assumptions",
+    "no sensitivity analysis"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on reserves, goodwill, and contractual obligations, but relies heavily on standard accounting-policy boilerplate and management estimates. Environmental remediation costs, impairment testing, and goodwill valuations carry meaningful uncertainty, with management declining to provide individual sensitivity analysis. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

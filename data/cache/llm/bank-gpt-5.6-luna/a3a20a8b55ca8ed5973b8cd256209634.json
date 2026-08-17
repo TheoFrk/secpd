@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to variable industry conditions",
+    "other factors",
+    "considerable extent",
+    "could have a material impact",
+    "uncertainties not within our control"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A overview language, emphasizing strategy and market opportunities while providing limited quantitative detail in the supplied section. It acknowledges material exposure to cyclical semiconductor demand, technological shifts, export restrictions involving China, and tax-estimation uncertainty, producing a mildly positive but qualified risk tone."
+}

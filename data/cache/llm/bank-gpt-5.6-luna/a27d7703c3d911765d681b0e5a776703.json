@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may prove to be inaccurate",
+    "susceptible to significant judgment and change",
+    "additional provisions could be required",
+    "less frequently"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly regarding COVID-19 credit-loss provisions, PPP exposure, loan growth, and declining profitability. Key credit-loss estimates rely on subjective assumptions and macroeconomic forecasts, creating potential for future provision increases and adverse earnings effects. The overall tone is moderately negative due to the sharp decline in net income and pandemic-related credit risk, despite stable liquidity and deposit growth."
+}

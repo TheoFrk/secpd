@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may have a material effect",
+    "we do not believe backlog is useful",
+    "future profitability assessments",
+    "require judgments and estimates",
+    "considering the above-mentioned risk factors"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear year-over-year revenue, order, backlog, margin, and geographic data. Key risks include foreign-exchange exposure, softer Asian markets, pricing pressure, acquisition integration, and judgment-sensitive asset valuations, but the overall operating tone is stable to mildly positive."
+}

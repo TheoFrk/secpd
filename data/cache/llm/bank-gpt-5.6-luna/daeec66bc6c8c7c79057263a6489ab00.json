@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "continued poor results could result",
+    "estimates and assumptions",
+    "future taxable income",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively supported, but uses recurring causal qualifiers and forward-looking assumptions. Risk tone is moderately negative, reflecting declining revenues and volumes, weak economic conditions, goodwill impairment exposure, and uncertainty around deferred tax asset realization."
+}

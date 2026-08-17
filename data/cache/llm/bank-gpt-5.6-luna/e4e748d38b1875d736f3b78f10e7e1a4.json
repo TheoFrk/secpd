@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expect to realize benefits",
+    "strategic initiatives",
+    "opportunistic stock purchases",
+    "multi-year project",
+    "discontinued operations"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and strongly quantified, with detailed segment, cash flow, capital spending, share repurchase, and contractual obligation information. Risk tone is broadly confident, though expected benefits from supply-chain initiatives and growth programs are forward-looking and not fully quantified. Discontinued operations and substantial capital allocation commitments warrant monitoring but do not indicate a crisis tone."
+}

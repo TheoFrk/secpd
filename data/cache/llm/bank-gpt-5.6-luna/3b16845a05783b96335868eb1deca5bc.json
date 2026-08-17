@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "positive outlook and growth claims",
+    "active pipeline of opportunities",
+    "long sales cycles and ramp-up periods",
+    "critical issues and strategic initiatives",
+    "non-GAAP adjusted earnings"
+  ],
+  "risk_summary": "The excerpt presents strong revenue, earnings, bookings, and backlog growth with a confident outlook, but relies substantially on promotional strategy language and forward-looking claims. Debt increased materially following acquisitions, while margin pressure, long sales cycles, ERP implementation, and acquisition-related amortization represent notable execution and financial risks."
+}

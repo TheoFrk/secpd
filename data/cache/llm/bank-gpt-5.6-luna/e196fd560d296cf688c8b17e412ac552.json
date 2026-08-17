@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management’s best estimate",
+    "believed to be reasonable",
+    "actual results may differ",
+    "currently evaluating the impact",
+    "projected future revenues"
+  ],
+  "risk_summary": "The excerpt is generally constructive, highlighting revenue growth, improved productivity, and expanded commercial focus, while also documenting material estimation uncertainty around receivables, inventory reserves, effective interest rates, and future accounting impacts. Disclosure is fairly detailed and quantitative, but dense accounting language and forward-looking assumptions may obscure sensitivity to adverse conditions."
+}

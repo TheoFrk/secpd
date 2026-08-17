@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "may not be available on acceptable terms",
+    "if ... not able to continue",
+    "potentially important advancement",
+    "numerous factors including"
+  ],
+  "risk_summary": "The disclosure is unusually explicit about going-concern risk, sustained losses, negative operating cash flow, limited liquidity, and dependence on substantial additional financing. Although it provides quantified cash balances and burn rates, it also relies on conditional, forward-looking language around fundraising, regulatory approvals, commercialization, and profitability. The risk tone is strongly negative despite promotional descriptions of market opportunity and product potential."
+}

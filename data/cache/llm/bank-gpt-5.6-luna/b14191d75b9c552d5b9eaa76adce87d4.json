@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant estimates and judgment",
+    "could be materially different",
+    "when available",
+    "estimated in good faith",
+    "losses not covered by FDIC sharing"
+  ],
+  "risk_summary": "The excerpt is largely quantified and transparent, but relies on standard accounting-policy caveats around fair values, loan-loss allowances, purchased loans, and acquisition estimates. Credit risk is evident from higher loan-loss provisions, net losses, and exposure to assumptions regarding collateral values and FDIC loss-sharing coverage, although the overall tone is factual rather than crisis-like."
+}

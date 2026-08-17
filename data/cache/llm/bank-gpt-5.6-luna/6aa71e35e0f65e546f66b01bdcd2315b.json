@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.51,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements may prove inaccurate",
+    "risks and uncertainties",
+    "does not undertake to update",
+    "cannot predict",
+    "appropriately mitigated"
+  ],
+  "risk_summary": "The excerpt uses extensive standard cautionary and risk-management language, including broad disclaimers and limited specificity regarding potential adverse outcomes. Operating results and portfolio metrics are substantially quantified and presented with a generally positive performance tone, though the discussion highlights exposure to interest-rate, credit, liquidity, regulatory, and reputational risks."
+}

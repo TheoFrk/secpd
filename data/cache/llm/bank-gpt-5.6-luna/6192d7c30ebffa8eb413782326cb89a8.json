@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "risks and uncertainties",
+    "including but not limited to",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and a broad, largely non-quantified catalog of macroeconomic, liquidity, credit, regulatory, technology, litigation, and operational risks. It provides some useful quantified deposit and funding trends, but the risk discussion is highly boilerplate and makes limited assessment of likelihood, magnitude, or mitigating actions."
+}

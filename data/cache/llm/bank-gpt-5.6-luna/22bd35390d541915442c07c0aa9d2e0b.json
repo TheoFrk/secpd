@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "excluding restructuring and impairment charges",
+    "expected to slow",
+    "timing ... has not been determined",
+    "cannot predict the timing"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with clear reconciliations and explanations of year-over-year changes. Key risks include the $139 million Cromwell impairment, weaker Canada performance, elevated leverage despite declining debt capitalization, and uncertain timing of benefit and tax-related cash payments. Management maintains a moderately positive tone, emphasizing sales growth, market-share gains, and operating leverage while relying partly on adjusted metrics."
+}

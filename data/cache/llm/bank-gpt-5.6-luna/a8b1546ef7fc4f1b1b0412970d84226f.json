@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.45,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "we do not know what effect, if any",
+    "depending on market conditions",
+    "may not be meaningful or indicative"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and detailed, reporting AUM, inflows, revenue, earnings, fees, and expense changes. Risk language is largely standard forward-looking and competitive-market boilerplate, with uncertainty around market volatility, product competition, seasonality, and strategic investment outcomes. Overall tone is confident and growth-oriented, but performance remains sensitive to market sentiment and asset flows."
+}

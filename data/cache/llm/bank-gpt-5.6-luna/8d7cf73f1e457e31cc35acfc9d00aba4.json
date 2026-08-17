@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "we believe",
+    "may not foot or cross foot",
+    "estimated undiscounted future cash flows"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, highlighting higher net income, operating cash flow, sales growth at IHOP, and debt reduction through refinancing. Risk factors include higher interest expense, reliance on an income tax benefit, asset impairments, discontinued initiatives, and non-GAAP system-wide sales measures. Overall tone is cautiously positive, but increased financing costs and restaurant-level performance variability remain material concerns."
+}

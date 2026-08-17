@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "currently expect",
+    "may vary from these estimates",
+    "not reasonably likely to have a material effect",
+    "dependent upon many factors",
+    "primarily caused by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with detailed explanations of earnings, weather effects, customer losses, capital plans, pension funding, and contractual obligations. Key risks include weather sensitivity, industrial customer concentration and switching, regulatory and environmental cost uncertainty, market volatility in benefit trusts, and substantial long-term obligations. The overall tone is moderately confident, though some forward-looking statements rely on broad assumptions and boilerplate materiality assessments."
+}

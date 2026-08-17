@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "subject to adjustment",
+    "if events and circumstances exist",
+    "expectations for macroeconomic changes",
+    "presented elsewhere in this report"
+  ],
+  "risk_summary": "The excerpt is generally specific and transparent, with extensive quantitative disclosure on earnings, assets, funding costs, credit-loss methodology, and goodwill. Risk is moderate: profitability and earning assets declined, funding costs rose materially, and results depend on economic forecasts and significant accounting estimates. The tone is factual and mildly cautious rather than crisis-like."
+}

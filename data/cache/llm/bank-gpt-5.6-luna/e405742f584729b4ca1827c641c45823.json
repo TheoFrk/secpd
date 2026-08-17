@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "may not be able to reliably predict",
+    "cannot guarantee",
+    "significant change in liquidity",
+    "material adverse impact"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, particularly regarding sales growth, geographic exposure, acquisition cost, and currency risks. It contains substantial technical accounting language and standard forward-looking caveats around revenue recognition, receivables, warranty costs, and customer-dependent performance obligations. Overall tone is cautiously positive, reflecting improved industry conditions and strong growth while acknowledging potentially material estimation and execution risks."
+}

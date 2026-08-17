@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "certain items",
+    "internal estimates"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate and contains substantial legal disclaimers, non-GAAP definitions, and references to estimates and excluded items. It provides some meaningful quantified information on divestitures, Venezuela, margins, and sales impacts, but the truncated presentation and reliance on adjusted metrics limit transparency. Overall tone is moderately confident, tempered by competitive, foreign-exchange, market-estimation, and portfolio-transition risks."
+}

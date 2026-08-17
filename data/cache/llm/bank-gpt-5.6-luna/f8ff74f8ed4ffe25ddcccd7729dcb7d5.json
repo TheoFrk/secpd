@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may be significantly affected",
+    "unpredictable funding, deployment and technology decisions",
+    "not indicative of a trend or future performance",
+    "subject to customary closing conditions",
+    "management judgment and assumptions"
+  ],
+  "risk_summary": "The excerpt is technically detailed but highly complex and includes material uncertainty around contract volatility, government funding, termination rights, estimates, and acquisition approvals. The tone is broadly neutral, balancing strategic positioning with substantial reliance on judgment and external decisions."
+}

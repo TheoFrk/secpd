@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "beyond our control",
+    "could differ materially",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking statement disclaimers and a broad, non-quantified list of operational, contractual, leverage, legal, cybersecurity, and geopolitical risks. Reported fiscal 2021 results are comparatively precise and positive, including 0.8% revenue growth and 65.0% growth in operating income, but the disclosure emphasizes substantial uncertainty and limits reliance on projections."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "meaningful increase",
+    "significant optimization opportunities",
+    "non-GAAP measure",
+    "special items exclusions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but presents an optimistic outlook that relies on expectations for pricing, synergies, optimization, and cash flow. Key risks include lower volumes, severe weather, input-cost inflation, maintenance downtime, foreign-exchange exposure, and substantial special-item losses. Extensive non-GAAP emphasis and exclusions may make underlying performance less transparent without the referenced reconciliations."
+}

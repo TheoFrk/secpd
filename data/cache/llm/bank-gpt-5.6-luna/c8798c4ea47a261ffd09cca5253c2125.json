@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subjective and complex judgments",
+    "may recognize impairment",
+    "little risk of impairment",
+    "except as required by law, we do not undertake to update"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on debt, availability, covenants, letters of credit, and capital leases, but relies heavily on standard forward-looking disclaimers and judgment-based accounting language. Key risks include leverage, refinancing and interest-rate exposure, goodwill and intangible-asset impairment, self-insurance estimates, tax uncertainty, and possible changes in vendor return policies."
+}

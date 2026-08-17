@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant variables assumed",
+    "actual amounts incurred may exceed",
+    "not able to reasonably estimate",
+    "variety of factors",
+    "could be impacted by future changes"
+  ],
+  "risk_summary": "The disclosure is reasonably detailed and includes quantified reserves and estimates, but highlights material uncertainty around tax-compliance liabilities, remediation costs, interest rates, and international collections. Risk tone is moderately negative because actual liabilities may exceed reserves and certain future expenses cannot be estimated."
+}

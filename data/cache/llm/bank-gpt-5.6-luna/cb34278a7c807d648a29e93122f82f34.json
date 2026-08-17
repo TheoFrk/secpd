@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not possible to predict or identify all potential risks",
+    "partial list",
+    "believe ... would be able",
+    "could change in the future",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is heavily boilerplate in its forward-looking disclaimer language but provides substantial quantitative detail on liquidity, debt maturities, taxes, capital expenditures, and transaction costs. Risk tone is mildly negative because operating cash flow declined, debt maturities and integration expenses are material, and adequacy of financing depends on assumptions and lender commitments."
+}

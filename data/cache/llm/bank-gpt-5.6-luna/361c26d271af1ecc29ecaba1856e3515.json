@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "well positioned",
+    "minimize the impact",
+    "do not affect guidance",
+    "items outside management’s control",
+    "non-GAAP measure comparability"
+  ],
+  "risk_summary": "The excerpt provides relatively precise 2012 guidance with quantified sales, margin, and EPS ranges, supporting a moderately confident outlook. However, Thailand flood-related supply disruption is described without quantified exposure or estimated financial impact, while management asserts that guidance remains unaffected. The extensive non-GAAP discussion is largely regulatory boilerplate and may emphasize adjusted performance over GAAP results."
+}

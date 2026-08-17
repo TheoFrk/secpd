@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to assumptions, risks and uncertainties",
+    "many factors beyond our control",
+    "no assurances can be given",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The excerpt provides useful quantified liquidity and working-capital information, but relies heavily on standard forward-looking disclaimers and generalized risk factors. Management expresses cautious confidence that cash flow and resources will support operations and debt service for the next 12 months, while acknowledging execution, contract acquisition, customer spending, and forecast risks."
+}

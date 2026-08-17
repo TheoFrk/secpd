@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally comprised of average daily balances",
+    "assumptions believed to be reasonable",
+    "actual results may differ",
+    "redemptions at the discretion of the FHLB",
+    "non-GAAP measures provide additional clarity"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed year-over-year net interest income, yield, funding-cost, and loan-balance data. Risk disclosures are largely standard, but reliance on estimates, purchased-loan accretion, declining yields, and discretionary FHLB stock redemptions represent relevant credit and liquidity considerations. The tone is neutral to modestly confident rather than crisis-oriented."
+}

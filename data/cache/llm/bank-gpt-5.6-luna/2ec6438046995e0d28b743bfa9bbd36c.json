@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "risks and uncertainties",
+    "undertakes no obligation to update",
+    "current offering consists of:",
+    "strategic plan and objectives (blank)"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified historical operating results, revenue drivers, deferred revenue balances, and segment detail, but relies heavily on boilerplate forward-looking-risk language and includes incomplete or templated sections. The risk tone is cautiously positive due to strong reported growth and profitability, offset by dependence on GEHC, acquisition-related performance, regulatory and reimbursement risks, competitive pressures, and execution uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future adjustments could be necessary",
+    "if circumstances or economic conditions differ",
+    "best information available",
+    "uncertainty continued to cloud the environment",
+    "regulators could require additions"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, detailing net interest income, funding, loan growth, allowance levels, and investment valuation changes. Risk tone is mildly positive due to earnings and balance-sheet growth, but it acknowledges credit, interest-rate, unrealized-loss, and regulatory allowance risks. Some standard management caveats rely on conditional language and assumptions regarding loan quality and economic conditions."
+}

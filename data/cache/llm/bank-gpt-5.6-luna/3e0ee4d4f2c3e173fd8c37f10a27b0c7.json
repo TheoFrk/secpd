@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "various risks and uncertainties",
+    "assumptions could prove inaccurate",
+    "no obligation to update",
+    "subjective estimates and judgments"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking language and broad, non-quantified risk disclaimers, particularly around credit, liquidity, regulation, technology, and macroeconomic conditions. The accounting discussion is technically detailed, while the operating results provide useful quantification, including lower charge-offs and provision expense. Overall tone is cautious and mildly negative rather than crisis-like."
+}

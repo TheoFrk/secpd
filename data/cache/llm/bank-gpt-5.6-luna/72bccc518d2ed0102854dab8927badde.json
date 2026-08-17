@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe ... positive outlook",
+    "as constraints present themselves",
+    "operational headwinds",
+    "material adverse effect",
+    "significantly increased backlog"
+  ],
+  "risk_summary": "The disclosure is generally data-rich and provides quantified revenue, margin, delivery, expense, tax, and backlog information. Risk tone is cautiously optimistic, but it acknowledges weak industry conditions, inflation and discount pressure, operational challenges in Towables, and uncertainty around labor, components, and pricing power. The excerpt is complex and includes some forward-looking, qualified assertions, while missing referenced tables and ending abruptly."
+}

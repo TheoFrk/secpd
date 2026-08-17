@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "situation remains fluid",
+    "including but not limited to",
+    "adverse financial and economic impacts",
+    "forward-looking statements disclaimer"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified regarding portfolio size, transactions, debt, rates, and operating performance. Risk tone is mixed: management reports no material COVID-19 impact in 2021 and emphasizes financial stability, but highlights substantial uncertainty around future pandemic effects, rent collections, capital access, dividends, asset values, and economic conditions."
+}

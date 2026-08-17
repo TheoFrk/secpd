@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "inherently uncertain and beyond our control",
+    "there can be no assurance",
+    "could have a significant negative impact",
+    "considerable management judgment"
+  ],
+  "risk_summary": "The excerpt presents a generally improving financial and credit profile, supported by profitability, reduced nonperforming assets, loan growth, and terminated regulatory enforcement actions. However, it highlights material sensitivity to Hawaii’s concentrated real estate and tourism economies, with significant reliance on assumptions and management judgment in credit, repurchase-reserve, and servicing-right valuations. Risk disclosures are partly boilerplate but include quantified historical improvements and explicit downside scenarios."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cautiously optimistic",
+    "influenced by many factors",
+    "may increase as a percent of sales",
+    "primarily attributable to",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed segment, sales, cost, and store-count disclosures. Risk is moderate: commodity inflation, wage pressure, minimum-wage exposure, construction disruption, and lease-related fixed costs are evident, although sales growth and expansion support a mildly positive tone. The excerpt is lengthy and includes substantial accounting boilerplate, and its truncation limits assessment of the full cost discussion."
+}

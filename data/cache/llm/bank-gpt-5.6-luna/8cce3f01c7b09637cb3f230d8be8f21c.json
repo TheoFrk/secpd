@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "disciplined approach",
+    "strong overall asset quality metrics",
+    "satisfactory financial return",
+    "certain noncore items",
+    "missing outlook assumptions"
+  ],
+  "risk_summary": "The disclosure is generally quantified and presents a confident growth, capital, funding, and asset-quality narrative. However, it relies on favorable qualitative descriptors, emphasizes non-GAAP measures, and provides limited detail on downside scenarios, credit concentrations, and the omitted 2016 outlook assumptions. The excerpt also contains truncated references to tables and risk disclosures, limiting assessment of underlying exposures."
+}

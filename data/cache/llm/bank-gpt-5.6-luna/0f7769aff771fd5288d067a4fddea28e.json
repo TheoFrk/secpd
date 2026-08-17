@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "many or all of which may be beyond the Company's control",
+    "management believes",
+    "based on certain assumptions and judgments",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt combines substantial boilerplate forward-looking-statement disclaimers with detailed quantitative disclosures on receivables, inventory, contract accounting, liabilities, and liquidity. Key risks include estimation uncertainty, inventory obsolescence, percentage-of-completion revenue recognition, rising accounts payable and accrued commissions, and reliance on sufficient operating cash flow and borrowing capacity. Overall tone is cautiously confident, but the apparent truncation limits completeness of the assessment."
+}

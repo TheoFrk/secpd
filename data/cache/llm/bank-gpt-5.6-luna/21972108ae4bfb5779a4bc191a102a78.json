@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not able to predict future impact",
+    "if sales or cash collections are reduced",
+    "may require additional financing",
+    "no guarantees financing can be obtained",
+    "COVID-19 impact repeated"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, but repeatedly emphasizes uncertainty around COVID-19, supply-chain effects, future revenue, gross profit, and financing availability. Operating expenses exceeded gross profit and operating cash use increased, although the company reported substantial working capital, improved revenue, and repayment of its debt facility."
+}

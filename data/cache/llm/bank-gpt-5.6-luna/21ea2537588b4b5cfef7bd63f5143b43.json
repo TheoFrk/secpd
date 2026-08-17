@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.55,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "management believes",
+    "judgment and uncertainties",
+    "projected future cash flows",
+    "well-positioned"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, showing robust sales, earnings, operating cash flow, and shareholder returns. Key risks include inflation, rising interest rates, supply-chain execution, Canadian restructuring, and impairment estimates dependent on management assumptions. The tone is confident but includes limited acknowledgment of macroeconomic uncertainty."
+}

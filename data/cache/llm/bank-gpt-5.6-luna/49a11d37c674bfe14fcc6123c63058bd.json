@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "economic uncertainty",
+    "subject to [truncation]",
+    "significant estimates and assumptions",
+    "if practicable",
+    "judgmental in nature"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting revenue, margin, expense, liquidity, and segment trends. Risk is centered on cyclical demand, weakening second-half client volumes, labor-market conditions, and judgment-dependent fair-value and impairment estimates, but the company reports no debt and substantial liquidity."
+}

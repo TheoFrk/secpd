@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.02,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to important factors",
+    "including, without limitation",
+    "does not assume any duty to update",
+    "inherently subjective",
+    "may include, but are not limited to"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains extensive standard forward-looking disclaimers and regulatory risk enumeration. Credit-loss estimates rely on subjective assumptions, macroeconomic forecasts, forecast horizons, and reversion periods, creating potential volatility in reported allowances and earnings. Quantified non-GAAP measures provide some specificity, but the excerpt is truncated and offers limited direct assessment of current credit deterioration."
+}

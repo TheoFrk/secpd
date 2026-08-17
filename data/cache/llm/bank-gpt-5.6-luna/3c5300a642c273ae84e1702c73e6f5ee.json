@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various external factors",
+    "including, but not limited to",
+    "currently anticipated to occur",
+    "modest investments",
+    "partially offset"
+  ],
+  "risk_summary": "The excerpt is generally factual and quantitatively grounded, but extensive boilerplate, omitted tables, and broad qualifiers limit risk transparency. It identifies exposure to regulatory decisions, weather, sales volumes, fuel and purchased-power costs, transmission expenses, asset-sale losses, and rate freezes. Overall tone is neutral to mildly confident despite acknowledging earnings pressure and operating volatility."
+}

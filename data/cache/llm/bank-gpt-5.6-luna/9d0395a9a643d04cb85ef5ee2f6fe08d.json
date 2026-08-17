@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties not exclusive",
+    "no obligation to update",
+    "expected to generate additional growth opportunities",
+    "does not expect adoption to impact"
+  ],
+  "risk_summary": "The excerpt presents a generally positive liquidity and growth outlook, supported by quantified cash flow, working capital, and foreign cash balances. However, extensive forward-looking disclaimers, broad uncapped risk language, acquisition dependence, international underperformance, and exposure to agricultural, government-spending, financing, and weather conditions introduce material uncertainty."
+}

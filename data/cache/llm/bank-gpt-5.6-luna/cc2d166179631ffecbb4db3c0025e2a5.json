@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor language",
+    "actual results may differ materially",
+    "numerous uncertainties",
+    "cannot reasonably estimate future economic trends",
+    "risks are manageable"
+  ],
+  "risk_summary": "The disclosure is materially quantified regarding sales, margins, COVID-19 effects, supply disruption costs, debt repayment, and contractual obligations. However, extensive boilerplate forward-looking language and broad uncertainty disclaimers limit visibility into the magnitude and timing of pandemic, demand, supply-chain, and liquidity risks. Management maintains a generally controlled outlook, but the tone is tempered by declining gross margin and significant external uncertainties."
+}

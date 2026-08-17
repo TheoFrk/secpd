@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "actual results could differ materially",
+    "do not undertake any obligation to update",
+    "amending and restating financial statements",
+    "not comparable to previously filed data"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking statement disclaimers that limit reliance on projections and provide limited quantified forward-looking information. The restatement of multiple annual and quarterly periods is a material financial reporting risk and reduces comparability with prior filings. Acquisition-related earnouts, expanding expenses, and integration demands add execution and cost uncertainty despite generally promotional business descriptions."
+}

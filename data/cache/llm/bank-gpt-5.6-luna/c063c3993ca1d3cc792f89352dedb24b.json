@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "inherent uncertainties",
+    "material adverse impact",
+    "among other things",
+    "considerable uncertainty"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on earnings, impairments, investment losses, and capital structure, but relies heavily on standard uncertainty language around estimates, reserves, valuations, and litigation. Risk tone is mixed: reported results improved materially, while significant exposure remains to commodity prices, investment impairment, insurance reserving, reinsurer solvency, and regulated subsidiary distributions."
+}

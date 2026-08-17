@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.15,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking information disclaimer",
+    "all amounts and percentages are approximate",
+    "little visibility into ordering habits",
+    "large and unpredictable variations in demand",
+    "best estimates and judgments"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and specific, but highlights declining demand, unpredictable customer orders, labor volatility, acquisition integration effects, and reliance on estimates. Standard forward-looking disclaimers and approximate figures modestly limit precision, while management presents cost reductions and facility transitions with a cautiously constructive tone."
+}

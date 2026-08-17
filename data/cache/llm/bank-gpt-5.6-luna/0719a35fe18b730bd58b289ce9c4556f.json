@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot quantify precise impact",
+    "considerable judgment",
+    "range of reasonable IBNR reserves",
+    "could prove better or worse",
+    "well positioned to withstand short-term fluctuations"
+  ],
+  "risk_summary": "The disclosure is generally informative and quantitatively supported, with clear discussion of investment performance, capital metrics and underwriting results. Key risks center on reserve adequacy, actuarial judgment, market valuation volatility and the limited ability to quantify impacts prospectively. Management maintains a moderately confident tone while acknowledging material uncertainty in loss estimates and investment outcomes."
+}

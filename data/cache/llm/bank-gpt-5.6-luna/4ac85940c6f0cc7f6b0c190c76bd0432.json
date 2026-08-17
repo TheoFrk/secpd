@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks and uncertainties",
+    "undertakes no obligation to update",
+    "certain competitive advantages",
+    "estimates based on historical experience and other known factors",
+    "decline in operating results and debt rating downgrade"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting disclosure, with substantial quantified information on seasonality, restructuring, ownership, losses, and impairment charges. Risk factors include inflation, changing consumer and retailer purchasing patterns, supply-chain and cost pressures, and deterioration in the Vasconia investment, although the tone is primarily descriptive rather than crisis-like."
+}

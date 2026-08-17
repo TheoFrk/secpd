@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "primarily due to",
+    "adjusted for currencies and acquisitions",
+    "limited forward visibility",
+    "comparability items omitted"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides segment-level growth, margin, cash flow, and working-capital data, but relies on non-GAAP adjustments and partially unspecified comparability items. Risk is moderate: strong consolidated and components growth is offset by a sharp decline in GAAP net income, lower margins, flat ECS performance, and rising working capital as a percentage of sales."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding VIE impacts",
+    "primarily due to",
+    "no assurance",
+    "qualitative approach",
+    "ongoing negotiation"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified, but highlights declining operating income, higher food and payroll costs, weather and flood disruptions, restaurant closures, and weak Connecticut sales. VIE consolidation and repeated exclusions complicate comparability, while the truncated excerpt limits assessment of taxes and liquidity."
+}

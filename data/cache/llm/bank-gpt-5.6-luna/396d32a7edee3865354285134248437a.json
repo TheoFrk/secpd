@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "fragile global economic conditions",
+    "cannot guarantee sustained sales revenues",
+    "actual results may differ materially",
+    "among other factors"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides useful segment, revenue, margin, backlog, inventory, and customer-concentration data. Risk tone is mixed: strong domestic growth and improved profitability are offset by a substantial decline in foreign sales, dependence on industrial automation demand, market competition, component availability, and potential inventory risk. Repeated use of management attribution and standard forward-looking disclaimers modestly reduces specificity around causal explanations and outlook."
+}

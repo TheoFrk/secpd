@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "estimates may differ",
+    "subject to many variables",
+    "not able to obtain all information",
+    "anticipated offering in 2013"
+  ],
+  "risk_summary": "The excerpt is technically detailed but heavily reliant on standard forward-looking disclaimers and management estimates, particularly for revenue recognition, contracts, bad debt, inventory, and investments. Key risks include contract-cost overruns, customer nonpayment or cancellations, excess inventory, volatile investments, and dependence on uncertain new product markets."
+}

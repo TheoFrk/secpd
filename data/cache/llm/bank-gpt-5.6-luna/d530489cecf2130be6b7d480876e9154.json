@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "post-hoc data analysis",
+    "may substantially improve overall survival",
+    "if successful",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative clinical-trial detail, but presents encouraging post-hoc subgroup findings after the pivotal HEAT Study failed its primary endpoint. Repeated safe-h harbor language, conditional commercialization statements, and reliance on future trial success highlight significant regulatory, clinical, and financing risk."
+}

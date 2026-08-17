@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximately",
+    "expects to",
+    "subject to",
+    "historical trends, adjusted for current changes",
+    "certain markets/products"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, covering segment performance, debt, rebates, taxes, and the AbbVie separation. Key risks include a product recall, emerging-market and currency pressures, rebates and estimation uncertainty, and substantial international exposure, but the overall tone remains constructive and forward-looking."
+}

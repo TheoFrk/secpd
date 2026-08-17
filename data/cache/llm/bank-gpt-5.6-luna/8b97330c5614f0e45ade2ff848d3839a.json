@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "assumptions could be inaccurate",
+    "many factors beyond control",
+    "significant management assumptions and estimates",
+    "qualitative factors and other external factors"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, with substantial quantified discussion of the allowance methodology and a $1.3 million impact from extending the loss look-back period. Risk disclosure relies on broad forward-looking disclaimers and management assumptions, particularly around loan losses, economic conditions, liquidity, and the proposed acquisition. Overall tone is mildly confident due to reported strong asset quality and positive net interest income trends, but uncertainty is clearly acknowledged."
+}

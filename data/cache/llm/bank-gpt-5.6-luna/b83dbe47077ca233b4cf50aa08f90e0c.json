@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subject to various risks and uncertainties",
+    "no assurance",
+    "future assumptions and estimates",
+    "potential impairment charge"
+  ],
+  "risk_summary": "The excerpt presents severe liquidity and going-concern risk, including insufficient cash for the next 12 months, defaults on notes and debentures, pension funding obligations, and dependence on obtaining additional liquidity. Disclosure is relatively specific and quantified, but substantial uncertainty remains around funding, valuation assumptions, and potential adverse creditor actions."
+}

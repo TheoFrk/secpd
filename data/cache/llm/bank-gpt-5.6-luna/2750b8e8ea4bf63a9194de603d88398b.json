@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-US GAAP measures",
+    "no assurance results will be achieved",
+    "plan may continue to evolve",
+    "certain other items",
+    "exclusive of certain items"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on sales, earnings, cash flow, restructuring targets, costs, and workforce reductions. Risk is centered on execution of the restructuring plan, reliance on adjusted non-US GAAP measures, and uncertainty around achieving projected savings, margins, and growth. Overall tone is cautiously positive but moderated by explicit forward-looking caveats and significant one-time charges."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "could cause actual results to differ materially",
+    "no assurance of success",
+    "scaled disclosures",
+    "supply chain challenges"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding sales, margins, working capital, and segment performance, with an overall positive operating tone. Key risks include supply-chain disruptions, foreign-exchange effects, inventory and receivables growth, reliance on economic recovery, and potentially reduced disclosure under smaller reporting company status. Liquidity commentary is reassuring but relies partly on expected future operating cash flow and potential debt-market access."
+}

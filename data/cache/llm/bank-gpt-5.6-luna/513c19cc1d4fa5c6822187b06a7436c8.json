@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "cannot reasonably be estimated",
+    "highly subjective in nature",
+    "variety of factors beyond our control",
+    "different methodologies or assumptions"
+  ],
+  "risk_summary": "The excerpt provides useful business and performance context with several quantified metrics, but its critical-estimate disclosures rely heavily on broad caveats and subjective assumptions. Loan-loss adequacy, fair values, investment impairments, and other estimates are identified as material sources of potential volatility, with limited quantified sensitivity in the excerpt."
+}

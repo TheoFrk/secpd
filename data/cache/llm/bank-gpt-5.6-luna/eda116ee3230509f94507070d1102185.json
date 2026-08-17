@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various other assumptions",
+    "subject to customer acceptance",
+    "future product demand",
+    "reasonable estimates"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively supported, with strong reported growth, order momentum, and detailed accounting-policy discussion. Key risks arise from semiconductor cyclicality, customer acceptance and payment contingencies, inventory-demand estimates, tax provisional amounts, and foreign-exchange exposure. The overall tone is optimistic but includes standard forward-looking and estimation-related caveats."
+}

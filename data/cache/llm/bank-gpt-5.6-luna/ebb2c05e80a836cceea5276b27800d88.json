@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "best information available",
+    "may or may not differ",
+    "events and circumstances indicate",
+    "expected revenues and net profits not material"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes meaningful quantitative information, including revenue trends, geographic exposure, pension obligations, and sensitivity analysis. Key risks arise from COVID-19-related procedure variability, acquisition-related valuation assumptions, goodwill and intangible-asset impairment judgments, and pension estimates. Overall tone is cautiously positive, supported by revenue growth and no identified impairment, but tempered by material uncertainty and reliance on management estimates."
+}

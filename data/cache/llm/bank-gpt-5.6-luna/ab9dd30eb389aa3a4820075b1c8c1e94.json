@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "materially lower levels",
+    "subject to finalization and downward negotiation",
+    "not obligated to purchase",
+    "unpredictable funding, deployment and technology decisions",
+    "expect future sales to materially decline"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on contract values, funding, sales mix, margins, and restructuring charges, but repeatedly emphasizes uncertainty around government contracts and a material decline in MTS/BFT-1 revenues. Risk is concentrated in customer concentration, IDIQ non-guaranteed volumes, program transition to BFT-2, contract termination rights, and pricing finalization. The tone is moderately negative despite an expectation of improved gross margin percentage."
+}

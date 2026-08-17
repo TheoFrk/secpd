@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance additional capital",
+    "significant loss expected",
+    "cannot be certain commercialization",
+    "estimates may differ",
+    "capital requirements remain high"
+  ],
+  "risk_summary": "The excerpt presents substantial liquidity and execution risk, including recurring losses, expected future losses, dependence on external financing, and uncertainty regarding commercialization and market adoption. Disclosures are generally specific and quantify key items, but portions rely on standard accounting-policy language and broad assumptions about future capital needs and customer adoption."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "primarily due to",
+    "other factors",
+    "stable credit quality",
+    "refer to additional information"
+  ],
+  "risk_summary": "The excerpt presents a generally favorable performance narrative, supported by quantified growth in net income, loans, deposits, and operating metrics. Key risks include declining net interest margin, rising funding costs, higher net charge-offs, and reliance on non-GAAP measures, although credit quality and non-performing assets are described positively."
+}

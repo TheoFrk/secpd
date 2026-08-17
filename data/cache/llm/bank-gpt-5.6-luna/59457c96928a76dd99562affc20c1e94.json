@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "believe/expected/anticipated",
+    "no assurance of financial goals",
+    "competitive advantage claims"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative disclosure on liquidity, restructuring, deferred revenue, and share repurchases with extensive optimistic strategy and competitive-positioning language. It acknowledges execution challenges, restructuring costs, economic sensitivity, and uncertainty around achieving financial goals, while relying heavily on standardized forward-looking-statement disclaimers."
+}

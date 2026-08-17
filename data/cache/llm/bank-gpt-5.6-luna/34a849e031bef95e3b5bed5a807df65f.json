@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown factors",
+    "cautionary statements",
+    "amongst other short-term relief programs",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, including asset, deposit, loan, PPP, and loan-deferral amounts. Risk is presented primarily through standard forward-looking disclaimers and discussion of COVID-19, credit-loss methodology, and borrower deferrals, while the overall tone remains operationally stable rather than crisis-like. The excerpt is truncated, limiting assessment of the complete credit-risk discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.15,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP constant currency measures",
+    "provisional tax estimate",
+    "unfavorable sales mix",
+    "higher average debt outstanding"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with limited vagueness beyond standard forward-looking and non-GAAP disclosures. Sales and operating leverage improved, but earnings and gross margin declined, while tax charges, input costs, unfavorable mix, currency exposure, and higher debt represent notable risks."
+}

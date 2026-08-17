@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "excluding these items",
+    "certain other tax provisions",
+    "post-closing adjustments",
+    "estimated present value of tax benefits"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitatively supported, with clear revenue, margin, cash flow, acquisition, and tax data. Risk is moderated by increased borrowings and interest expense, working-capital investment, acquisition-related adjustments, and reliance on numerous excluded or non-recurring items in presenting comparability."
+}

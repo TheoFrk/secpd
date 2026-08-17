@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "continuing operations basis",
+    "primarily due to",
+    "to the extent rates remain",
+    "challenging interest rate environment",
+    "significant charges"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear discussion of revenue drivers, market conditions, fee waivers, litigation reserves, and other charges. Risk tone is mildly positive overall due to record client assets and strong profitability, but constrained by low interest rates, revenue pressure, litigation exposure, and prior investment-related losses."
+}

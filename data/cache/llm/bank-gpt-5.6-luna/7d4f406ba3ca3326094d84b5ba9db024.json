@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "assumptions, risks, and uncertainties",
+    "not necessarily indicative of future results",
+    "does not undertake to update",
+    "unparalleled customer experience"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, capital, acquisition, and earnings information, supporting relatively strong disclosure specificity. However, it contains extensive boilerplate forward-looking disclaimers and repeated strategic language, while declining net income and EPS indicate moderate underlying performance pressure despite growth in net interest income and capital."
+}

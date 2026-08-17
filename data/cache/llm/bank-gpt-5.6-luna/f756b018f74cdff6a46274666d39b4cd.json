@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "not representative of ongoing operations",
+    "reportable segment totals",
+    "partially offset by",
+    "permanent footprint adjustments",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides regional operating drivers, but relies on adjusted/non-GAAP measures and repeatedly excludes items deemed nonrepresentative of ongoing operations. Risk is mixed: sales and shipment volumes declined, particularly in Europe and Asia Pacific, while pricing, cost reductions, and lower interest expense improved profitability and cash generation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe-haven disclaimer",
+    "numerous assumptions, risks and uncertainties",
+    "highly uncertain and subjective estimates",
+    "non-GAAP supplemental measures",
+    "excess subordination limitations"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on acquisition scale, loan-loss reserves, sensitivity impacts, and impairment analysis, but relies heavily on standard legal disclaimers and management judgment language. Key credit and valuation estimates are explicitly described as subjective and sensitive to changing economic conditions, collateral values, cash flows, and structural features."
+}

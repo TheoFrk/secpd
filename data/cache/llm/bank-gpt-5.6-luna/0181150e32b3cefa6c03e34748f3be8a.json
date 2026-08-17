@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "continued uncertainty in the global macroeconomic environment",
+    "we believe ... will continue",
+    "there can be no assurance",
+    "subject to judgments and significant estimates",
+    "significant negative impact on asset quality and credit losses"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly regarding Hawaii economic conditions, real estate trends, and allowance balances. Risk is concentrated in Hawaii real estate and macroeconomic conditions, with explicit acknowledgment that deterioration could materially impair asset quality and credit losses. The tone is cautiously positive but includes substantial forward-looking uncertainty and estimation risk."
+}

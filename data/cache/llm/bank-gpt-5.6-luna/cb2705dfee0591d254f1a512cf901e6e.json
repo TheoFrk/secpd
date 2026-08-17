@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks, uncertainties and assumptions",
+    "no obligation to update",
+    "many factors beyond our control",
+    "contract cost estimates"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, including segment revenues, margins, contract types, and year-over-year results. Risk exposure arises from fixed-price contracts, percentage-of-completion estimates, project timing, labor and commodity costs, cyclical demand, and customer financial conditions. Overall tone is confident and performance-oriented, although standard disclaimers and broad risk-factor references limit forward-looking certainty."
+}

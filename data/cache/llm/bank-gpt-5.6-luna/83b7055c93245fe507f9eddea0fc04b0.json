@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "inherently subject to risks and uncertainties",
+    "other developments or changes in our business that we do not expect",
+    "unobservable inputs and significant judgment",
+    "material changes to fair value measurements"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy disclosure, with substantial quantified information on credit losses, fair values, FDIC protections, and clawback liabilities. Risk tone is cautious, highlighting merger execution, COVID-19, borrower repayment, collateral values, regulatory actions, and subjective estimates, but it does not indicate an immediate crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "difficult to predict",
+    "beyond the control of Bancorp",
+    "management believes",
+    "adequate to absorb probable losses"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and positive operating picture, citing asset and deposit growth, higher net income, and record diluted EPS. Risk disclosure is broad and largely boilerplate, emphasizing economic, regulatory, interest-rate, liquidity, real-estate, credit, and estimation risks without quantifying potential impacts. Loan-loss allowances and income-tax estimates are identified as material judgment areas that could adversely affect results if assumptions prove inaccurate."
+}

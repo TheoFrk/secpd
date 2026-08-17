@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including, but not limited to",
+    "no assurance estimates will not change",
+    "management believes impairments were temporary",
+    "subjective factors and economic conditions"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and presents improving earnings, strong liquidity, and favorable asset quality, producing a mildly confident risk tone. However, extensive forward-looking disclaimers and reliance on judgment-based estimates—particularly loan-loss reserves and securities impairment—leave meaningful exposure to changing economic conditions and model assumptions."
+}

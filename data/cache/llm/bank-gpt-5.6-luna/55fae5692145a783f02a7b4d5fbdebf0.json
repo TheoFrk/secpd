@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties, and other factors",
+    "actual results may differ materially",
+    "inherently subjective",
+    "susceptible to significant change",
+    "judgmentally adjusted for economic factors"
+  ],
+  "risk_summary": "The excerpt presents strong, improving performance with record earnings, sustained double-digit returns, and quantified growth in key revenue measures. Credit risk disclosures appropriately acknowledge the subjective nature of loan-loss estimates, economic sensitivity, and reliance on management judgment, but provide limited stress-case quantification."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimates of future claim payments",
+    "most likely ultimate liability",
+    "subject to change",
+    "contingent ceding commissions",
+    "catastrophe losses outside quota share"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and reasonably specific, including business mix, premium concentration, reinsurance mechanics, and selected quantified loss amounts. Key risks arise from actuarial reserve uncertainty, catastrophe exposure, and contingent reinsurance commissions that depend on future loss experience. The tone is neutral to mildly confident, but the excerpt is truncated and contains substantial explanatory boilerplate."
+}

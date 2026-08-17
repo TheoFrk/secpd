@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual losses could differ significantly",
+    "inherently uncertain",
+    "materially different financial condition",
+    "factors beyond the Company’s control",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The disclosure is relatively precise and data-rich, with detailed year-over-year financial metrics and reconciliations. Risk is moderated by improved profitability and asset quality, but the bank remains exposed to loan losses, economic conditions, OREO costs, and subjective accounting estimates."
+}

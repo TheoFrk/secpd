@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high single-digit rate of growth",
+    "management believes",
+    "non-GAAP financial measures",
+    "not assuming further rate increases",
+    "wholesale funding reliance"
+  ],
+  "risk_summary": "The excerpt presents a generally confident performance narrative supported by extensive quantified results, including earnings growth, improved credit quality, and stronger margins. Disclosure is materially repetitive around the benefits and limitations of non-GAAP measures, while forward-looking claims such as high single-digit PPNR growth remain relatively broad. Increased competition, loan growth exceeding deposit growth, and greater reliance on wholesale funding are the principal identified risks."
+}

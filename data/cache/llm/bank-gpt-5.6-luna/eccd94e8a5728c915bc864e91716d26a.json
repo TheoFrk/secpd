@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future operations and financial results is uncertain",
+    "actual results may differ",
+    "reasonable and supportable forecasts",
+    "significant judgments and uncertainties",
+    "subject to adjustment"
+  ],
+  "risk_summary": "The excerpt is highly technical and provides substantial quantitative detail on PPP exposure, credit-loss provisions, CECL adoption, and interest-earning assets. Risk disclosure is cautious, emphasizing uncertainty around COVID-19, economic forecasts, borrower stress, interest rates, and accounting estimates, but it is not crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "does not undertake any obligation to update",
+    "foreseeable future cash requirements",
+    "potential impairment loss"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, acquisitions, foreign-exchange effects, investments, and goodwill balances. Risk disclosures rely partly on standard safe-harbor language and identify exposure to acquisitions, currency movements, funding and regulatory outcomes, and potential impairment. Overall tone is stable to mildly positive, with no indication of an immediate liquidity or operating crisis."
+}

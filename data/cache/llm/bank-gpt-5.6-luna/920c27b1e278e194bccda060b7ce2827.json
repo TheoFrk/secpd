@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects ... between",
+    "$70 million or less",
+    "qualitative and quantitative factors",
+    "other factors which could affect",
+    "rounded numbers for disclosure purposes"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with clear year-over-year comparisons and 2021 guidance. Credit risk is elevated, evidenced by the sharp increase in provision for credit losses and exposure to CRE, construction lending, and pandemic-sensitive conditions, although management presents specific portfolio controls and a cautiously constructive outlook."
+}

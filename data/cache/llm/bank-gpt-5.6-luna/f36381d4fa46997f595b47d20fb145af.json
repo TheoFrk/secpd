@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "no assurance of clinical success",
+    "unobservable inputs",
+    "milestones if and when achieved"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative disclosures, but extensive forward-looking disclaimers and contingent language limit visibility into execution and commercialization outcomes. The clinical-stage business model, reliance on grants and government contracts, potential milestone payments, and unproven products indicate elevated operating and funding risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "situation remains fluid and uncertain",
+    "subject to variable industry conditions",
+    "may continue to adversely impact",
+    "global economic and market conditions"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook supported by strong semiconductor demand and growth initiatives, but acknowledges material cyclicality, technology-transition risk, pandemic uncertainty, and persistent supply-chain constraints. Much of the opening pandemic-response and MD&A framework is boilerplate, while the operational discussion includes useful quantified cash-flow and investment disclosures."
+}

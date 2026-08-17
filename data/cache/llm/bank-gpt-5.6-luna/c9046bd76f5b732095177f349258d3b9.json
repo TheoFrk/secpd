@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to uncertainty",
+    "future results may or may not be achieved",
+    "could result in additional impairment charges",
+    "best estimates and assumptions",
+    "adequate level of liquidity"
+  ],
+  "risk_summary": "The disclosure is relatively precise and quantitatively detailed, including impairment sensitivities, pension assumptions, debt balances, and liquidity. Risk is elevated by substantial debt, significant impairment charges, dependence on revenue forecasts, and sensitivity to discount and royalty rates, although management presents near-term liquidity as adequate."
+}

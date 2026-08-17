@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "include, but are not limited to",
+    "not possible to fully eliminate exposure",
+    "insurance subject to exceptions and exclusions",
+    "management deems unusual or non-recurring"
+  ],
+  "risk_summary": "The excerpt presents substantial cybersecurity, interest-rate, credit-loss, and insurance-coverage risks, but emphasizes controls, preparedness, and mitigation. Disclosure is detailed in some operational areas and quantifies cybersecurity costs and PPP exposure, yet relies heavily on standard cautionary language and leaves at least one risk-factor sentence incomplete."
+}

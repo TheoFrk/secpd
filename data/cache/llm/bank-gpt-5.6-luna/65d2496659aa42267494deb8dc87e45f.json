@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects",
+    "primarily driven by",
+    "business model reset",
+    "non-GAAP measure",
+    "estimated indicators"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear sales, profitability, tax, debt, leverage, and capital expenditure figures. Risk factors include declining margins and operating earnings, higher debt used partly to fund share repurchases, clean-energy investment losses, and execution uncertainty in Canada and digital initiatives. The overall tone is cautiously confident, supported by positive guidance and strong liquidity framing."
+}

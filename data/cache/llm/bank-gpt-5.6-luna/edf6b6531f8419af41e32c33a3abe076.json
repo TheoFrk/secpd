@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.34,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "refer to information",
+    "no substantive discussion",
+    "boilerplate cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead defers entirely to a prior annual report. This materially limits transparency and prevents assessment of current-period performance, liquidity, or emerging risks."
+}

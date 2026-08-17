@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "organic growth exclusions",
+    "partially offset",
+    "estimated loss",
+    "other items not allocated to segments"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and provides detailed explanations of revenue and operating-profit changes, with a moderately constructive tone reflecting recovery from COVID-19 impacts. Risk areas include acquisition-related leverage and integration effects, security and insurance exposure, currency volatility, restructuring costs, and a potential Chile antitrust fine. Reliance on non-GAAP and organic-growth measures may reduce comparability with reported GAAP performance."
+}

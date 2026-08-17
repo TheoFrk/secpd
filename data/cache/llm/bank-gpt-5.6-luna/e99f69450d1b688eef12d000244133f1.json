@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could cause actual results to differ materially",
+    "as warranted",
+    "potential deferral of incremental expenses",
+    "non-GAAP measure disclaimer"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including COVID-19 impacts, project timelines, capacity additions, and projected gross margins. Risk tone is moderately constructive, emphasizing essential-business continuity and growth initiatives, while acknowledging pandemic, demand, regulatory, weather, commodity, and execution risks. Boilerplate disclaimers and reliance on regulatory approvals create some uncertainty but do not materially obscure the discussion."
+}

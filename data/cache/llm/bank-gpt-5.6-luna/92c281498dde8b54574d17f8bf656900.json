@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "within expectations",
+    "favorable credit conditions",
+    "expected to bring inflation closer",
+    "non-GAAP measures",
+    "unallocated assets and liabilities"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting asset balances, credit metrics, capital transactions, and macroeconomic conditions. Risk tone is moderately confident, supported by improving charge-offs and nonperforming loans, but some qualitative language and reliance on non-GAAP measures reduce precision. The excerpt also contains duplicated headings and repeated RBS transaction details, indicating modest boilerplate or editing redundancy."
+}

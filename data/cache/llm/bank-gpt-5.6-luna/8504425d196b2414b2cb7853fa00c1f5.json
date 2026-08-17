@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.62,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance financing available",
+    "materially adversely affected",
+    "discontinued operations",
+    "additional capital required"
+  ],
+  "risk_summary": "The company has discontinued operations, minimal cash of $203,000, negative working capital, no financing activity in 2020, and explicitly states that existing funds are insufficient for the next twelve months. Funding and liquidity risk is significant because additional capital may be unavailable or obtainable only on unacceptable terms, although the excerpt provides several useful quantitative disclosures."
+}

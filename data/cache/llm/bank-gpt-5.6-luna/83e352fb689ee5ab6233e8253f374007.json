@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.72,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "partially attributable",
+    "we believe",
+    "actual results could differ",
+    "in the process of scaling",
+    "until such time that we believe"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative with substantial quantified revenue growth, e-commerce momentum, cash generation, and shareholder returns. Disclosure is generally specific, but recurring descriptions of strategic initiatives and qualified attribution language somewhat dilute clarity. Key underlying risks include inventory obsolescence and shrinkage estimates, demand uncertainty, execution of growth initiatives, and comparability effects from the additional fiscal week and accounting adoption."
+}

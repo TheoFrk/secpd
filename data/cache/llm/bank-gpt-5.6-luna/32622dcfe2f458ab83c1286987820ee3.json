@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may be affected by",
+    "including, but not limited to",
+    "somewhat successful",
+    "actual results may ultimately differ",
+    "material adverse impacts"
+  ],
+  "risk_summary": "The disclosure is generally detailed and provides useful quantitative information on acquisitions, geographic revenue exposure, inflation, currency effects, and customer concentration. Risk tone is mildly positive but acknowledges meaningful exposure to macroeconomic volatility, supply-chain shortages, COVID-related disruption, foreign exchange, acquisition valuation assumptions, and reduced future orders from Sema4. Some risks are described broadly through standard conditional language rather than quantified sensitivity analysis."
+}

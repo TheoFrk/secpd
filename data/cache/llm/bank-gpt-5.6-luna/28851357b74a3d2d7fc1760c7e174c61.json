@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects IND filing",
+    "absent a clinical hold",
+    "could be substantially delayed",
+    "believe that",
+    "not applicable"
+  ],
+  "risk_summary": "The excerpt presents a largely preclinical biotechnology platform with significant execution, regulatory, clinical, and funding risks, despite citing extensive prior testing and a targeted LADR 7 timeline. Forward-looking claims rely on expectations and contain material contingencies, while the fragmented excerpt limits visibility into broader liquidity and operating risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including, but not limited to",
+    "primarily related to",
+    "we anticipate",
+    "management judgment and uncertainty"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides useful year-over-year drivers, but relies on standard forward-looking disclaimers and qualitative explanations for several expense changes. Key risks include ongoing average selling price erosion, semiconductor cyclicality, product-development complexity, tax uncertainty, and customer/market concentration, although operating performance is presented in a broadly favorable tone."
+}

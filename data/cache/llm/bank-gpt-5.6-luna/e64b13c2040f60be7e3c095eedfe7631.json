@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "goals when this work is complete",
+    "and/or pursue co-development",
+    "we believe",
+    "may contain substantial amounts",
+    "presume, but have not yet confirmed"
+  ],
+  "risk_summary": "The excerpt presents an early-stage biotechnology company dependent on clinical development, regulatory approvals, collaborations, and ongoing financing, with no clear evidence of commercial revenue generation. It uses extensive technical and promotional detail alongside conditional language and unverified assertions regarding competing materials and future opportunities. Financing relies substantially on convertible notes, indicating meaningful liquidity and execution risk."
+}

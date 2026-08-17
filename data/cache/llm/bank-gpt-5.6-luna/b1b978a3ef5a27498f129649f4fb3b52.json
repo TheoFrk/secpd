@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including but not limited to",
+    "no obligation to revise",
+    "high customer concentration",
+    "subject to significant variability"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and complex disclosures, but also provides useful quantified information on expenses, bad debt, customer concentration, and revenue volatility. Risk tone is moderately negative because of concentrated and variable demand, supplier dependence, significant receivable provisioning, and prior SEC investigation costs, although the investigation is described as concluded."
+}

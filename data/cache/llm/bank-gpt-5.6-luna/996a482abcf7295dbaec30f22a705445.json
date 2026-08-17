@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.66,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "could differ materially",
+    "undertake no obligation to update",
+    "plans currently being explored",
+    "subject to other risks"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and legally hedged, with limited discussion of actionable operating risks despite material exposure to customer concentration, convertible debt, derivative valuation, and potential dilution. Quantified accounting balances and transaction terms provide some specificity, but extensive disclaimers and unexplained assumptions reduce transparency."
+}

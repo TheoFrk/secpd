@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to a number of risks and uncertainties",
+    "Actual results may vary",
+    "could continue to affect",
+    "beyond management’s control",
+    "not reported separately"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue mix, premiums, and segment performance, but relies extensively on standard forward-looking-risk language. Key exposures include real estate and refinancing cyclicality, interest-rate volatility, regulatory changes, COVID-19 effects, operating leverage, and investment-portfolio risk."
+}

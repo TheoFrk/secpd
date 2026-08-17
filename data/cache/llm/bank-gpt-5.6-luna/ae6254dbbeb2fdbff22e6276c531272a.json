@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "variety of risks",
+    "among other things",
+    "appropriate level",
+    "changing business and economic conditions",
+    "additional information elsewhere"
+  ],
+  "risk_summary": "The excerpt presents a generally confident performance narrative, supported by quantified results, acquisition details, and portfolio metrics. Risk disclosures are broad and largely boilerplate, emphasizing numerous external, regulatory, market, credit, and operational uncertainties without consistently quantifying potential impacts. Investment securities disclosures provide more specific risk information, including rate-driven valuation pressure, transfers to held-to-maturity, and allowance levels."
+}

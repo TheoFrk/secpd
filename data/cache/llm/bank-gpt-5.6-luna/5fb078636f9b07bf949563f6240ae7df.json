@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately measure full impact",
+    "cannot predict whether practices will change favorably",
+    "subject to risks and uncertainties",
+    "no obligation to publicly revise or update",
+    "undue reliance on forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial operating detail and quantitative metrics, including store counts, margins, expenses, insurance deductibles, and claims assumptions. Risk is moderate rather than crisis-like, with pressure from competition, commodity volatility, pharmacy industry changes, labor and healthcare costs, and self-insurance exposures. Repeated limitations on measuring inflation effects and standard forward-looking statement disclaimers modestly reduce transparency around future performance."
+}

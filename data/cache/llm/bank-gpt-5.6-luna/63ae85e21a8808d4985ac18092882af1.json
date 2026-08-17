@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "various judgmental estimates and assumptions",
+    "expected to increase",
+    "likely to grow",
+    "should be relatively flat",
+    "key factors influencing our business"
+  ],
+  "risk_summary": "The excerpt is information-dense but omits several referenced tables and quantitative outlook details, limiting assessment of operating trends and liquidity. Multiple impairments, operating losses, plant closures, market disruption, and reliance on assumptions indicate material historical and forward-looking risk, although the tone is generally factual rather than crisis-like."
+}

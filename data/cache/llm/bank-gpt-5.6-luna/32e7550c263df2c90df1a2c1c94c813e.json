@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.47,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may be required to obtain more working capital",
+    "cannot be certain that additional funding will be available",
+    "if it is to occur at all",
+    "no assurance of sufficient future cash flows",
+    "management estimates"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights a pre-revenue business, substantial operating cash burn, recurring net losses, and dependence on future financing or commercialization. Liquidity is stated as sufficient for at least twelve months, but management expressly warns that funding may be unavailable or dilutive and that failure to obtain capital could materially harm operations."
+}

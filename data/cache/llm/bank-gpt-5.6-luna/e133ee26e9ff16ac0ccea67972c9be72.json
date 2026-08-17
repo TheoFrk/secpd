@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP financial measures",
+    "underlying performance",
+    "comprehensive ERM program",
+    "may experience significant credit losses",
+    "as outlined in the table above"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure regarding balance-sheet repositioning, including $94.0 million of pre-tax losses on securities and mortgage loans, but relies heavily on boilerplate ERM language and non-GAAP measures. The transactions indicate material interest-rate, liquidity, and credit-related pressures, although management frames them as deliberate optimization actions supporting future growth and capital generation."
+}

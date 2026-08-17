@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "numerous assumptions, risks and uncertainties",
+    "unable to fully assess or predict",
+    "factors currently unknown and/or beyond our control",
+    "no obligation to publicly update"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on PPP activity and fair-value exposures, but contains extensive boilerplate and historical pandemic chronology. COVID-19 is described as materially disruptive, with significant uncertainty regarding future economic conditions and the company’s operating impact, although management states that systems, controls, and resources remain adequate."
+}

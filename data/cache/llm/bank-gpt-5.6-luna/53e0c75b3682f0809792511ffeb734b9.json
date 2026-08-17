@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "expressly disclaim any obligation to update",
+    "various factors",
+    "unanticipated costs and disruptions"
+  ],
+  "risk_summary": "The disclosure is generally constructive and supported by quantified revenue, backlog, recurring-revenue, and customer-turnover metrics. However, the extensive forward-looking disclaimer and broad enumerated risk factors rely on standardized, non-quantified language, limiting assessment of the magnitude and likelihood of individual risks."
+}

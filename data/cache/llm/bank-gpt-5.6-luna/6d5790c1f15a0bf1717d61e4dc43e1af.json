@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "we expect over time",
+    "various other assumptions",
+    "primarily related to",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, including customer counts, shipment volumes, revenue mix, expense ratios, and explicit estimation policies. Risk remains elevated due to reliance on licensing royalties, customer concentration in printers, unprofitable cost structure, dependence on forecasts and estimates, and an anticipated shift toward sensor-module revenue. The truncated text limits assessment of later-period performance and material adverse disclosures."
+}

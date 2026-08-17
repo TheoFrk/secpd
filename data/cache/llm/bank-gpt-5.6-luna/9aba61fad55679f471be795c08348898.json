@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be accurately predicted",
+    "may need additional liquidity",
+    "including but not limited to",
+    "ongoing evolution and resulting impacts",
+    "various potential actions"
+  ],
+  "risk_summary": "The excerpt discloses material pandemic-related, cybersecurity, operational, supply-chain, and liquidity risks, with substantial reliance on uncertain future developments. It provides some quantification, including the $2.4 million cybersecurity cost and $1.5 billion revolving facility, but much of the discussion is repetitive and heavily qualified. Management expresses conditional confidence in liquidity adequacy while acknowledging potential deterioration in sales, cash flow, and capital access."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "incomplete forward-looking statement",
+    "factors beyond our control",
+    "may, but are not required to",
+    "dependent on our relationship",
+    "boilerplate market-risk enumeration"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial detail, including revenue, costs, utilization, margins, and EBITDA, supporting a generally transparent disclosure. Risk is elevated by dependence on Genesis and LEH for working capital, volatile refining margins, external market factors, and incomplete passages that omit potentially important strategy and relationship details. Results improved materially year over year, producing a mildly positive but qualified risk tone."
+}

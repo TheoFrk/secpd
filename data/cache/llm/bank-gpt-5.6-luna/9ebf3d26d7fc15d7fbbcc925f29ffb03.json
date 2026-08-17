@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "most likely expected to decline slightly",
+    "approximately",
+    "certain adjustments",
+    "not part of our core operating results",
+    "subject to adjustment and continuously updated"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, but includes substantial quantified information on acquisitions, segment performance, cash flows, and capacity expansion. Risk tone is moderately confident, tempered by anticipated industry shipment declines, rising inflation and interest rates, production-cost pressure, ERP cost growth, and reliance on adjusted EBITDA measures."
+}

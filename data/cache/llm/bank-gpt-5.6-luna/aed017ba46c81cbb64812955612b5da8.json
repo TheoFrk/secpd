@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "non-GAAP financial measures",
+    "subject to risks and uncertainties",
+    "promotional management language"
+  ],
+  "risk_summary": "The disclosure presents a confident, growth-oriented tone supported by several quantified operating and liquidity metrics. Risk discussion is broad and largely boilerplate, with extensive forward-looking disclaimers and limited quantification of potential downside impacts. Liquidity and client-funds obligations appear substantial but are described as supported by corresponding held funds and operating cash flows."
+}

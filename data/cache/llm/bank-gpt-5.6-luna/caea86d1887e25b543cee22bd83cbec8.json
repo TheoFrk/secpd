@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "not possible to predict all factors",
+    "undertake no obligation to update",
+    "aspire to lead markets"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and limited specificity regarding potential adverse outcomes, although it provides useful quantified market, debt, and contractual-obligation data. Risk tone is mixed: commercial construction markets are contracting sharply and remain cyclical, but management expresses confidence in pricing, cost control, liquidity, and market-share gains."
+}

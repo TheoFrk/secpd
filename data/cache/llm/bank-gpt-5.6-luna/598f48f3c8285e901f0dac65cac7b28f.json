@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "many factors outside our control",
+    "cannot accurately predict or control",
+    "expect prices to remain volatile",
+    "may adjust our capital program",
+    "borrowing base may be decreased"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified liquidity, borrowing, cash flow, and expense data, but relies heavily on standard industry risk language and includes a truncated credit-facility discussion. Key risks are commodity-price volatility, reserve-estimation uncertainty, derivative counterparty exposure, and potential borrowing-base reductions, although management presents a moderately confident liquidity outlook."
+}

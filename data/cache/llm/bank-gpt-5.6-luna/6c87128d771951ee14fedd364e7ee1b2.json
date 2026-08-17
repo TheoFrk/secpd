@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "fixed-fee contract concentration",
+    "engine maintenance event timing",
+    "directly reimbursed expenses",
+    "comparability of operating income"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, including revenue concentration, fleet size, contract structure, and year-over-year expense changes. Key risks include dependence on major airline partners, limited exposure to favorable pricing trends under fixed-fee arrangements, and earnings volatility from the timing of engine maintenance events. The tone is cautiously positive because the company returned to profitability, although repeated technical explanations partially obscure the underlying operating drivers."
+}

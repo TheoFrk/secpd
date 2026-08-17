@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unless and until",
+    "cannot be assured",
+    "no material commitments",
+    "not aware of any other trends",
+    "substantial portion of cash balances"
+  ],
+  "risk_summary": "The company reports declining oil and gas revenue, recurring operating cash outflows, likely net losses, limited liquidity sources, and dependence on future investments or asset sales. Disclosure is relatively candid and well quantified, but includes boilerplate materiality qualifiers and a highly convoluted liquidity sentence."
+}

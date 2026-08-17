@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.3,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "offset in part by",
+    "assuming we do not enter into",
+    "we believe is necessary",
+    "see Note 4 for additional information"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, highlighting strong revenue, earnings, liquidity, and fuel-cost improvements. Key risks include substantial secured debt, elevated labor costs, covenant requirements, full exposure to fuel-price volatility, and weakening cargo demand. The tone is cautiously positive but acknowledges meaningful financial and operating sensitivities."
+}

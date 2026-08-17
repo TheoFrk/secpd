@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance actual results",
+    "non-GAAP adjusted earnings",
+    "management accounting allocations",
+    "results not necessarily comparable"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and earnings data, but relies on extensive forward-looking disclaimers and adjusted non-GAAP measures that may downplay costs and comparability limitations. Key risks include pulp mill performance issues, severe weather, maintenance outages, geopolitical weakness in Russia and Ukraine, competitive pressure, and operational disruptions. Overall tone is cautiously positive, supported by improved growth-business results but tempered by meaningful execution and market risks."
+}

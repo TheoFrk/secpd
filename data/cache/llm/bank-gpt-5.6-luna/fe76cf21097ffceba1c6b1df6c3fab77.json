@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "materially differ",
+    "risks and uncertainties",
+    "many factors outside our control",
+    "may potentially have a negative impact"
+  ],
+  "risk_summary": "The excerpt identifies meaningful exposure to higher interest rates, inflation, labor shortages, tenant reimbursement pressure, lease-renewal uncertainty, and concentration in UHS, which contributes 41% of consolidated revenue. Risk disclosures are partly quantified, but extensive boilerplate and broad conditional language limit visibility into the magnitude and timing of adverse outcomes."
+}

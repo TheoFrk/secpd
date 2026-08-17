@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "does not undertake any obligation",
+    "related-party relationships",
+    "contingently liable",
+    "impairment evaluation assumptions"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding cash flows, working capital, impairments, and operating drivers, supporting a mildly positive risk tone. Key risks include extensive overlapping ownership and management relationships, contingent liability exposure, dependence on oil and gas prices, and judgment-sensitive impairment and reserve estimates."
+}

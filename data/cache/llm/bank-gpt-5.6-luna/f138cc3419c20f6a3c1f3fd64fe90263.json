@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "no assurance expectations will be achieved",
+    "may be adversely affected",
+    "eventually lead to",
+    "incomplete colon-ended disclosures"
+  ],
+  "risk_summary": "The excerpt provides useful quantified tenant and property concentrations, but relies heavily on standard forward-looking disclaimers and conditional expectations regarding federal defense spending, sequestration, occupancy, and rental rates. Concentration in government-related tenants and strategic properties creates material exposure to budgetary decisions, while several truncated passages limit transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "actual results could differ materially",
+    "significant risks and uncertainties",
+    "remarkable reduction",
+    "percentage comparisons omitted"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by repetitive forward-looking-statement disclaimers and promotional, largely unquantified descriptions of product capabilities and market position. Quantified risks include substantial customer concentration, with one customer representing 46% of 2012 revenue, declining gross margin, and increased long-term lease obligations. Overall tone is cautiously promotional rather than crisis-like, but disclosure quality is weakened by extensive boilerplate and limited operational detail."
+}

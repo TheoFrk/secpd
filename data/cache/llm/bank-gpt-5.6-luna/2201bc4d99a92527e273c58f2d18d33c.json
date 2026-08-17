@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "limited visibility beyond first quarter",
+    "historically weak demand",
+    "may have a material impact",
+    "no projects scheduled",
+    "non-GAAP EBITDA caveats"
+  ],
+  "risk_summary": "The disclosure is materially negative, citing a sharp revenue decline, historically weak demand, low crew utilization, limited forward visibility, and no scheduled projects for much of 2022. It provides useful quantified historical results, but relies on extensive forward-looking caveats and includes substantial boilerplate and non-GAAP limitations."
+}

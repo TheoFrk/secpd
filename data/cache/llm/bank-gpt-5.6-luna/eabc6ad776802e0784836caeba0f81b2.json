@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "primarily due to",
+    "other items not allocated to segments",
+    "potential fine",
+    "organic growth definition"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively reconciles revenue, cost, operating profit, currency, acquisition, and allowance impacts. Key risks include inflationary pressure, foreign-exchange losses, higher borrowing costs and interest rates, doubtful-account estimate changes, acquisition-related charges, and a potential antitrust fine. The tone remains moderately confident but relies on non-GAAP measures and exclusions that may reduce comparability."
+}

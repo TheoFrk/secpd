@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily reflecting",
+    "partially offset by",
+    "expects approximately",
+    "excluding amounts management does not consider part of core operating results",
+    "if revenue or profitability were to fall below forecasted levels"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including segment results, restructuring charges, projected savings, and impairment sensitivities. Risk is moderate: sales and certain segment results declined, Project Fortify requires execution, and forecasts depend on achieving revenue and profitability targets. The overall tone is cautiously positive, emphasizing margin improvement and cost savings while relying materially on non-GAAP measures and forward-looking assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management's judgment and estimates",
+    "actual results may differ",
+    "could result in material differences",
+    "reasonably possible that changes could occur",
+    "Level 3 unobservable inputs"
+  ],
+  "risk_summary": "The excerpt is heavily technical and boilerplate, with substantial reliance on management assumptions for valuation, collectibility, impairment, and contingencies. It identifies potential material deviations in fair values and asset carrying amounts but provides limited quantitative sensitivity analysis. Operating performance commentary indicates declining revenue, an increased operating loss, and costs that did not decrease proportionately."
+}

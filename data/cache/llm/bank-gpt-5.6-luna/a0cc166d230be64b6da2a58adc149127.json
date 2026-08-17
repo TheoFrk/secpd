@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance expectations will prove correct",
+    "numerous factors beyond our control",
+    "FDA Warning Letter remediation",
+    "actual results may differ significantly"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified operating targets, sales trends, remediation spending, financing terms, and covenant status, but is heavily supplemented by standard forward-looking disclaimers and broad uncertainty language. Risk tone is mildly negative due to FDA quality-system remediation, regulatory dependencies, currency pressure, and expected investments exceeding near-term revenue and gross-margin expansion, although management presents a generally confident growth strategy."
+}

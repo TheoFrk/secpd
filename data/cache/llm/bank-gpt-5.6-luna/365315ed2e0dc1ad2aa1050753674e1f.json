@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measure limitations",
+    "primarily due to the following",
+    "expected to increase operating efficiencies",
+    "diversified over a number of programs",
+    "tax benefit distorting effective rate"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides useful year-over-year detail, but it highlights declining net income, lower gross margin, increased restructuring charges, and customer concentration. Extensive non-GAAP caveats and omitted tables or explanations in the excerpt reduce transparency around underlying performance drivers. The tax benefit materially improves reported results and may not be recurring."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "expect this to continue",
+    "could be less than half",
+    "reasonably possible loss",
+    "subject to approval and appeal",
+    "market-based approach to pricing"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent regarding revenue, volume, fuel surcharge, coal, capital spending, and litigation matters. Risks include declining coal demand, exposure to lower fuel surcharge revenue, network capacity and service challenges, regulatory approvals, and unresolved appeals, although management presents an overall confident operating outlook."
+}

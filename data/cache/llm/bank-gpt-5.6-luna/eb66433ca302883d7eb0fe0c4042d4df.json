@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "excluding non-GAAP items",
+    "customary closing conditions",
+    "expects to",
+    "actual results may differ",
+    "not recorded estimated costs"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, reporting sales, margins, cash flow, acquisition costs, tax liabilities, and operating trends. Risk is moderated by declining gross margins, substantial combination-related expenses, tax obligations, execution and regulatory-approval uncertainty, and reliance on adjusted non-GAAP metrics. Management maintains a confident outlook, but several forward-looking assumptions and unrecorded future combination costs remain uncertain."
+}

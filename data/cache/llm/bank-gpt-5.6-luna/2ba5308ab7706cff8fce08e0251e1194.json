@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no assurance",
+    "other risks and uncertainties",
+    "actual results might differ materially",
+    "no obligation to publicly update"
+  ],
+  "risk_summary": "The disclosure is generally informative and includes useful customer-concentration, liquidity, covenant, inventory, and pandemic details, but relies heavily on standard forward-looking disclaimers and broad, unquantified risk categories. Key risks include customer concentration, custom inventory exposure, fixed-cost operating leverage, pandemic-related demand volatility, commodity inflation, and covenant history, though current liquidity appears adequate with no LOC borrowings."
+}

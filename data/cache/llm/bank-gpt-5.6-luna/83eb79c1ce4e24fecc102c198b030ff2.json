@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "considerable judgment",
+    "other factors",
+    "primarily due to a combination of the following"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, loan growth, funding costs, and profitability, supporting a generally stable-to-positive operating tone. Credit risk disclosure relies materially on management judgment and broad economic, collateral, concentration, and underwriting factors, with limited quantified sensitivity or scenario analysis in the excerpt."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "historically immaterial",
+    "management’s best estimates",
+    "more likely than not",
+    "substantially in excess",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantified, but relies on standard accounting-policy boilerplate and management assumptions for inventory valuation, goodwill impairment, and fair-value estimates. Risk indicators include lower volumes and margins, competitive pricing pressure, impairment exposure, currency headwinds, and higher liability and restructuring charges, though the tone is not crisis-like."
+}

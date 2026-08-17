@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "significant estimates and judgments",
+    "not completed the entire assessment",
+    "does not believe",
+    "future expected NOL utilization"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes several quantified tax balances, but relies on standard disclaimers and management estimates regarding tax assets, future taxable income, and accounting-standard impacts. Key uncertainties include valuation allowances, NOL utilization, and incomplete assessment of revenue guidance, although the overall tone is neutral to mildly confident."
+}

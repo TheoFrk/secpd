@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may continue to include, but are not limited to",
+    "could adversely affect",
+    "significant challenges",
+    "aim to deliver",
+    "reasonable estimates cannot be made"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on profitability, cash flow, margins, capital expenditures, and debt, but highlights material exposure to inflation, commodity and energy volatility, labor shortages, geopolitical disruption, disease, and COVID-19 effects. Risk descriptions rely regularly on broad conditional language and include extensive pandemic-related boilerplate, limiting precision regarding potential financial magnitude and timing."
+}

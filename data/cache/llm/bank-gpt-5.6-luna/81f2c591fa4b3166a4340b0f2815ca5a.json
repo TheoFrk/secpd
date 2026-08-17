@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "management judgment and assumptions",
+    "inherent uncertainties",
+    "more-likely-than-not threshold"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and data-rich, reporting strong sales and operating income growth with detailed margin, expense, tax, and acquisition figures. Risk disclosure is largely standard boilerplate, while goodwill impairment and tax positions depend on management estimates, projected cash flows, and uncertain future conditions. Overall tone is favorable, though acquisition-related costs, leverage-related interest expense, foreign exchange losses, and valuation uncertainty warrant monitoring."
+}

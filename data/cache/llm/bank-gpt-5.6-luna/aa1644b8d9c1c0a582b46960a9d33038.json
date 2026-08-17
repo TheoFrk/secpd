@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.15,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "management judgment and estimates",
+    "continued uncertainty regarding the pandemic",
+    "ultimate losses may vary",
+    "reasonable and supportable forecasts",
+    "regulatory agencies may require additions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on credit-loss provisions, charge-offs, and allowance ratios, but the ACL remains sensitive to management assumptions, economic forecasts, collateral valuations, and regulatory review. COVID-19 uncertainty and the possibility of further ACL increases represent the primary identified credit risks."
+}

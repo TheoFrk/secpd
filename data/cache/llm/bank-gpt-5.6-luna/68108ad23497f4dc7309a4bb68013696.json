@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "various factors",
+    "adequately funded for the foreseeable future",
+    "primarily due to",
+    "materially differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear segment, margin, liquidity, foreign-exchange, and earnings data. Risk is mixed: overall profitability and liquidity improved, but Fueling Systems and Distribution experienced meaningful declines, while currency losses, interest rates, destocking, and permitting delays remain adverse factors. The forward-looking section relies on broad standard disclaimers rather than quantified downside scenarios."
+}

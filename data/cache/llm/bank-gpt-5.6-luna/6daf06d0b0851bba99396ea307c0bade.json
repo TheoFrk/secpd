@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "cannot currently determine",
+    "non-GAAP measure",
+    "significant amount of pass-through fees"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, but includes standard forward-looking disclaimers and non-GAAP presentation that may complicate comparability. Key risks include suspended Libya operations, Western European restructuring, cyclical demand, acquisition integration, and materially higher interest expense from acquisition-related borrowings. Overall tone is cautiously positive, supported by revenue and net income growth, but offset by operational and leverage-related pressures."
+}

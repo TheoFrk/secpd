@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ",
+    "subjective critical estimate",
+    "similar expressions",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue, customer receivable concentrations, reserves, and seasonality, but relies on standard hedging and forward-looking disclaimers. Credit risks include economic sensitivity, customer concentration, collection exposure, inventory estimation risk, and potentially material returns and allowances. A likely period-label inconsistency in the net income discussion and the abrupt insertion of prospectus boilerplate reduce disclosure clarity."
+}

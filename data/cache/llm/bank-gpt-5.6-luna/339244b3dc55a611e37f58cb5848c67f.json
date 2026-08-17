@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not representative of ongoing operations",
+    "certain retained corporate costs",
+    "estimated indemnity payments",
+    "expected to be filed",
+    "sufficient to meet obligations"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent, detailing segment performance, volume, pricing, currency, cost, debt, and litigation impacts. Risk is elevated by declining consolidated sales and operating profit, significant nonrecurring charges, asbestos liabilities, pension and tax charges, and weak Asia Pacific performance. Use of non-GAAP segment measures and exclusion of items deemed nonrepresentative may complicate assessment of recurring profitability."
+}

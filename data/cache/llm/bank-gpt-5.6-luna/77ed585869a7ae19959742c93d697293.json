@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "severity and duration cannot be predicted",
+    "near-term liquidity needs",
+    "recurring operating losses",
+    "reduced borrowing capacity",
+    "various credit facilities"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on liquidity, debt capacity, cash balances, payroll deferrals, impairments, and financing amendments. Risk tone is materially negative because the company reports recurring operating losses, increasing working-capital needs, reduced borrowing capacity, and reliance on recent financing transactions, although it describes actions intended to improve liquidity and operations."
+}

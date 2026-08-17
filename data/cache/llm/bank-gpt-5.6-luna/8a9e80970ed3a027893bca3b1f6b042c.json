@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"substantially lower\" performance",
+    "\"remained strong\" liquidity",
+    "\"management believes\" collectibility",
+    "future \"accretive acquisition\" funding",
+    "promotional \"leverage stockholder value\""
+  ],
+  "risk_summary": "The disclosure is highly quantified and identifies a material 19% sales decline, lower cash and working capital, increased aged receivables, and reduced asset productivity. Management presents liquidity and margins as resilient, but relies on optimistic assertions regarding receivable collection, future acquisitions, and profitability leverage."
+}

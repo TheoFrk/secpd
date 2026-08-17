@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "provisional estimates",
+    "expected to be financed",
+    "significant complexity",
+    "excluding these items"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and generally transparent, with strong liquidity, no bank debt, improving margins, and increased backlog supporting a positive risk tone. However, management emphasizes adjusted non-GAAP results and excludes impairment and pension charges, while tax estimates and dividend expectations remain subject to change. Identified operating softness in agriculture and oil and gas markets presents moderate downside risk."
+}

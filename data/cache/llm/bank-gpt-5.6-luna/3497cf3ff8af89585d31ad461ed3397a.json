@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate",
+    "many uncertainties",
+    "ultimate extent ... is uncertain",
+    "could exist for an extended period",
+    "subjective judgments"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and clearly attributes revenue, cost, liquidity, and operating impacts to COVID-19, including debt issuance, cost reductions, facility closures, and lower demand. Risk remains elevated because demand had not returned to pre-pandemic levels and management could not estimate the timing or duration of recovery. The discussion is complex and includes standard uncertainty language, but it is not strongly evasive."
+}

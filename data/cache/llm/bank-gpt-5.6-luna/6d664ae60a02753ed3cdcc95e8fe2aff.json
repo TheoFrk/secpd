@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "may be utilized",
+    "dependent on a number of factors",
+    "if required",
+    "unanticipated expenditures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative information on earnings, lending support, capital expenditures, debt maturities, and liquidity needs, but relies on forecasts and conditional language regarding recovery and financing. The tone is cautiously confident, emphasizing operational resilience and strategic funding capacity while acknowledging COVID-19, credit quality, construction-cost, and refinancing risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "omitted discussion of earliest year",
+    "believed to be reasonable",
+    "actual results may differ",
+    "assumes interest rates remain unchanged",
+    "capital expenditure year inconsistency"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, with clear segment, pricing, volume, margin, acquisition, and cash requirement information. Risk is elevated by raw-material price volatility, declining Industrial volumes, LIFO impacts, debt obligations, and reliance on estimates, though operating results and liquidity commentary remain broadly positive. A likely fiscal-year inconsistency in reported capital expenditures reduces disclosure quality."
+}

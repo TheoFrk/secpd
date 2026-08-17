@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "ultimate impact currently is uncertain",
+    "could result in a significant decline",
+    "subject to market conditions and other factors",
+    "cannot at this time predict the eventual impact",
+    "truncated and corrupted disclosure"
+  ],
+  "risk_summary": "The excerpt is largely precise and well quantified, with clear attribution of AUM changes, revenues, expenses, and operating income. Risk tone is mildly negative due to market depreciation, net outflows, MiFID II pressure, AXA-related uncertainty, and relocation execution risk, although profitability improved. The excerpt is structurally complex and partially corrupted, which reduces readability and may obscure context."
+}

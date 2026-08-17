@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot assure",
+    "foreseeable future",
+    "materially differ",
+    "subject to seasonal or general economic conditions"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on debt, liquidity, credit capacity, acquisitions, and operating exposures, but includes extensive standard forward-looking disclaimer language. Risk tone is cautiously positive, emphasizing a strong balance sheet and sufficient liquidity while acknowledging fuel, labor, insurance, capacity, regulatory, customer, and economic risks."
+}

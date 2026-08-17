@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "impact not fully known",
+    "unable to predict additional consequences",
+    "if estimates or assumptions change",
+    "may be required to record impairment charges",
+    "current economic credit conditions"
+  ],
+  "risk_summary": "The disclosure is generally quantified and specific, including revenue, income, expenses, tax assets, capital expenditures, liquidity resources, and credit facility terms. Risk is moderated by reported profitability and positive cash flows, but declining operating income, reimbursement pressure, credit-market exposure, uncertain pandemic effects, and judgment-dependent asset recoverability remain material concerns."
+}

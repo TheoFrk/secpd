@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "many of which are beyond our control",
+    "could differ materially",
+    "no obligation to update",
+    "other additional risks and factors"
+  ],
+  "risk_summary": "The excerpt contains extensive legal safe-h harbor language and a broad, largely non-quantified catalog of potential risks, including leverage, contract, liability, pension, cybersecurity, and divestiture exposures. It also provides some concrete disclosure, including the pension deficit reduction and remaining share-repurchase authorization, but the risk section is highly boilerplate and difficult to prioritize."
+}

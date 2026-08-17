@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "to a lesser extent",
+    "offset in part",
+    "currently forecasted rates",
+    "strategic growth investments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, margins, acquisition prices, tax effects, and segment performance. Risk tone is strongly positive, although attribution language and references to forecasts, acquisitions, tax planning, and unfavorable mix introduce moderate uncertainty. High sentence complexity and repeated MD&A headers modestly reduce readability."
+}

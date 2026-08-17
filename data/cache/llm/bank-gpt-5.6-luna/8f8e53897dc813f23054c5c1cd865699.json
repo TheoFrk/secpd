@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "primarily due to",
+    "estimates and assumptions",
+    "may have a material effect",
+    "qualitative assessments"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful segment, revenue, margin, expense, acquisition, and receivables detail. Risk is present through declining adjusted EPS, international operating losses, competitive and utilization pressures, litigation exposure, customer-credit risk, and reliance on valuation estimates, while non-GAAP exclusions and extensive technical disclosures somewhat soften comparability."
+}

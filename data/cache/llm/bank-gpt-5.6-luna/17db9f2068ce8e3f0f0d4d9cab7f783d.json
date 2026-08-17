@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "necessarily estimates reflecting best judgment",
+    "no assurance that loan losses will not exceed",
+    "management considers it more likely than not",
+    "various factors could cause results to differ materially",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt provides useful organizational and selected performance details, but relies substantially on boilerplate forward-looking disclaimers and management judgments. Key credit risks center on allowance adequacy, collateral valuations, OREO fair values, deferred tax asset realization, and adverse changes in economic or borrower conditions."
+}

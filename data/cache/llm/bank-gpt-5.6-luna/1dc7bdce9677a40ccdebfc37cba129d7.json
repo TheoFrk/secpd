@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.47,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including but not limited to",
+    "could differ materially",
+    "various factors and estimates",
+    "mitigation actions such as suspending dividends"
+  ],
+  "risk_summary": "The excerpt reports a material deterioration in operating performance, including a $10 million goodwill impairment, an operating loss, lower profitability, and several negative same-store sales trends. It identifies labor, rent, insurance, inflation, staffing, supply-chain, weather, and macroeconomic risks, while relying on broad conditional language regarding future impacts and mitigation actions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict future prices",
+    "to the extent",
+    "from time to time",
+    "we believe",
+    "forward-looking statements involve risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on production, pricing, capital spending, liquidity, and debt covenants, supporting relatively transparent disclosure. Risk exposure remains meaningful due to commodity-price volatility, reserve replacement requirements, capital funding needs, and covenant constraints, although management presents a generally controlled and confident outlook."
+}

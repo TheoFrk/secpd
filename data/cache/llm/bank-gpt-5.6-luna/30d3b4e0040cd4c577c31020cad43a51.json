@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "low-double digit rate",
+    "mid-single digit rate",
+    "reasonably likely",
+    "to the extent possible",
+    "variety of opportunities and challenges"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, but reports significant declines in sales and earnings driven by reduced COVID-19 demand, weaker biotechnology activity, and deterioration in China’s funding environment. Boilerplate risk framing and broad qualitative ranges limit precision in some areas, while the acquisition and separation transactions add execution and integration considerations."
+}

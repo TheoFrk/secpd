@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe we are positioned",
+    "may adjust the budget",
+    "other factors",
+    "complex dynamics of supply and demand",
+    "partially mitigated by hedging"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, including production, pricing, earnings, cash flow, capital spending, liquidity, and debt metrics. Risk tone is cautiously positive but acknowledges material commodity-price volatility, lower realized prices, earnings deterioration, and dependence on hedging and operational execution. Forward-looking statements use moderate hedging and provide limited sensitivity analysis regarding commodity prices and downside scenarios."
+}

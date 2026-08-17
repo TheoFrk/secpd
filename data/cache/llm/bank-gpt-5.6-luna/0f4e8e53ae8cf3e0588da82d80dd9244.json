@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking expectations",
+    "economic forecasts suggest",
+    "actual results may differ",
+    "unable to reliably estimate timing",
+    "substantially completed initiatives"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting strong sales, earnings, cash flow, and capital returns. Risk tone is confident, though it relies on forecasts and expectations for industry growth, profitability improvements, and future technology initiatives. Some uncertainty remains around economic conditions, execution of strategic programs, and the timing of uncertain tax-position settlements."
+}

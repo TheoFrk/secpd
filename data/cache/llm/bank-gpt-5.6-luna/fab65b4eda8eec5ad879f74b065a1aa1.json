@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-cash tax benefit",
+    "expect to deliver profitable growth",
+    "sporadic customer demand",
+    "product mix",
+    "truncated impairment disclosure"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, highlighting revenue, backlog, cash, debt, segment performance, and tax effects. Reported earnings are materially supported by a non-cash tax benefit, while defense demand is described as sporadic and commercial growth is modest. An apparent reversal or inconsistency in the gross-margin comparison and the truncated excerpt reduce clarity."
+}

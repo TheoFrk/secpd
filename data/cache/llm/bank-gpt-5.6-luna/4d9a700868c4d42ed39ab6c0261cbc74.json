@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "could further materially and adversely affect",
+    "primarily due to",
+    "subject to, among other things",
+    "excluding the impact of",
+    "non-GAAP core income measure"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial segment-level detail, but its presentation is lengthy and technically complex. Material risks are concentrated in Diamond Offshore’s depressed market, cold-stacked and potentially scrapped rigs, impairment exposure, and CNA reserve and catastrophe-loss volatility. Overall tone is mixed: operating results improved, while forward-looking offshore drilling commentary remains distinctly negative."
+}

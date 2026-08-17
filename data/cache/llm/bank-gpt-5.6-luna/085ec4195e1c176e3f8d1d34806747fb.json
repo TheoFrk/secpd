@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance",
+    "risks and uncertainties",
+    "we believe",
+    "concentration of revenue"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but contains extensive standard forward-looking disclaimers and relies on management expectations regarding defense spending, leasing demand, and government contracting. Key risks include substantial tenant and geographic concentration, budget and sequestration uncertainty, occupancy exposure, and dependence on government-related demand. The tone is cautiously constructive, citing improved occupancy, deleveraging-related metrics, and an expected normalization of federal contracting, while acknowledging meaningful operating constraints."
+}

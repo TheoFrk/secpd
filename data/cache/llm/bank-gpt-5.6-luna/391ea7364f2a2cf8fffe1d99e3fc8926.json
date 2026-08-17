@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "ultimate effect currently uncertain",
+    "may result in increased costs",
+    "could make it impracticable",
+    "beyond our control and volatile"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, reserve, production, pricing, investment, and debt information, limiting overall vagueness. Risk disclosures are largely conventional but identify meaningful exposure to commodity-price volatility, regulatory changes, operator dependence, drilling outcomes, and prior operating losses; the overall tone is cautiously growth-oriented rather than crisis-like."
+}

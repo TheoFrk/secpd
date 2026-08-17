@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "subject to certain milestones",
+    "we do not expect",
+    "may result in",
+    "truncated contractual disclosure"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but reflects substantial operating risk, including recurring large net losses, significant cash usage, reliance on equity financing, and sizable licensing obligations. Disclosure is moderately vague where expense drivers and contractual terms are omitted or truncated, while accounting and liquidity information is otherwise specific."
+}

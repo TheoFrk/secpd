@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "reasonably possible estimates will change",
+    "subjective estimates",
+    "not have a material adverse effect",
+    "does not believe significant impact"
+  ],
+  "risk_summary": "The disclosure is heavily technical and boilerplate, with substantial reliance on estimates, valuation models, historical experience, and management judgments. It identifies competition, market uncertainty, derivative valuation risk, litigation, and financing activity, but provides limited sensitivity analysis or quantified downside exposure. Management’s tone is generally reassuring while acknowledging that estimates and external conditions could materially change outcomes."
+}

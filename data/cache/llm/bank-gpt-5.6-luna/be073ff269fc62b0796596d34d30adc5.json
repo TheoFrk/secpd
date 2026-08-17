@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "reliance on adjusted non-GAAP metrics",
+    "periodic fair-value volatility",
+    "CAH impairment charges",
+    "short-term funding rollover risk",
+    "subject to market conditions"
+  ],
+  "risk_summary": "The disclosure is highly quantified and transparent about the fiscal-year loss, derivative losses, impairment charges, leverage deterioration, and funding needs. Risk is elevated because adjusted debt-to-equity exceeded the stated 6.00-to-1 goal and the institution relies on continued market access and rollover of short-term funding, although management expresses confidence in liquidity and covenant compliance."
+}

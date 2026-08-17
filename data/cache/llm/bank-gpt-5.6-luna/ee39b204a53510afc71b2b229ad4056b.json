@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may materially differ",
+    "we believe",
+    "as appropriate",
+    "could differ materially",
+    "expect continued improvement"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed operating metrics, segment information, and year-over-year comparisons. Risk tone is cautiously positive, but it acknowledges depressed housing and employment conditions, supply-chain disruptions, below-pre-recession demand, and potential margin pressure from improving vehicle supply. Standard forward-looking qualifiers and accounting-estimate disclaimers introduce moderate uncertainty."
+}

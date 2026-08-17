@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "outside of our control",
+    "cannot accurately predict",
+    "may increase or decrease",
+    "expected to be funded",
+    "economically recoverable"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed production, pricing, cash flow, capital spending, acquisitions, and impairment data. Risk tone is moderately negative because of commodity-price volatility, a $771 million impairment, declining realized prices, and potential liquidity and reserve-recovery pressure, although production growth and stated liquidity provide offsets."
+}

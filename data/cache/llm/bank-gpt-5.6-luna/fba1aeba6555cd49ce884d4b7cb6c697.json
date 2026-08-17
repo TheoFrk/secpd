@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believes ... sufficient",
+    "into the foreseeable future",
+    "primarily attributable to",
+    "partially offset",
+    "reasonably reliable estimate cannot be made"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively reconciles sales, pricing, volume, currency, costs, debt, and liquidity changes. Risk factors include declining gross margins, restructuring costs, higher raw-material prices, segment weakness, and customer-order timing, but these are balanced by debt reduction, covenant compliance, and stated borrowing capacity. Some boilerplate and broad forward-looking language modestly limit transparency."
+}

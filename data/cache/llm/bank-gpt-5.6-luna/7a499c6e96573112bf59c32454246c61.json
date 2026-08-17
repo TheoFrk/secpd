@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP and adjusted measures",
+    "constant currency presentation",
+    "long-term growth expectations",
+    "special charges exclusions",
+    "acquisition-dependent growth"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong operating cash flow, cost savings, and explicit investment commitments. Risk tone is moderately positive, but reported EPS declined materially and the growth outlook relies partly on acquisitions, restructuring savings, and adjusted or constant-currency measures."
+}

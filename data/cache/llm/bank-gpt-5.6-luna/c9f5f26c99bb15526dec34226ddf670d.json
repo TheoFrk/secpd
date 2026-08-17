@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.31,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "estimates and assumptions",
+    "outside the normal course",
+    "does not necessarily result",
+    "no obligation to revise"
+  ],
+  "risk_summary": "The excerpt is generally confident and information-rich, with substantial quantified operating scale and business descriptions. Risk disclosure is largely standardized, emphasizing estimation uncertainty, non-GAAP presentation, forward-looking statement limitations, and potential divergence from actual results. The excerpt provides limited direct discussion of adverse trends or quantified downside exposure, partly because the supplied text is incomplete."
+}

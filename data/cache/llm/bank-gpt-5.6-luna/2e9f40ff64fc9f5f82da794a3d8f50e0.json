@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.93,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.42,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "generic MD&A description"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, or risk analysis and delegates the entire MD&A discussion to another document. This materially limits standalone assessment of operating performance and financial condition."
+}

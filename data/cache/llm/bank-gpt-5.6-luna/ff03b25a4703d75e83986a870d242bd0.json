@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to issue",
+    "may seek recovery",
+    "evaluating potential impacts",
+    "should ultimately be upheld",
+    "subject to regulatory approval"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of earnings drivers, regulatory proceedings, capital investment, and customer concentration risks. Risk tone is cautiously constructive, but outcomes related to FERC rate complaints, the Clean Power Plan, Noranda’s bankruptcy, and recovery of lost revenues remain uncertain and rely on regulatory or legislative action."
+}

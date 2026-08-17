@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may be required to",
+    "no assurance",
+    "material adverse effect",
+    "events beyond our control",
+    "covenant breach/default"
+  ],
+  "risk_summary": "The excerpt presents substantial downside risks involving trust-fund replenishment, surety-bond replacement, covenant compliance, litigation, competition, insurance counterparties, and mortality trends. Although it provides useful quantified exposures of $14.6 million and approximately $184.7 million, much of the disclosure relies on broad conditional and boilerplate language without probability estimates or detailed sensitivity analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently subject to a degree of uncertainty",
+    "believed to be reasonable under the circumstances",
+    "unable to state with certainty",
+    "qualitative factors",
+    "actual results could differ from estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified balance-sheet and loan-growth data, but relies heavily on standard MD&A boilerplate and management judgment regarding loan-loss allowances, impairment, goodwill, and pension assumptions. Credit exposure is concentrated in real-estate-secured lending, while the overall tone is stable to mildly positive and does not indicate an immediate crisis."
+}

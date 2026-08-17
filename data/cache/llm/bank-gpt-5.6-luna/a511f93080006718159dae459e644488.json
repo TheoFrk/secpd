@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "approximately",
+    "could differ materially",
+    "industry-leading solutions",
+    "non-discretionary in nature"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides meaningful detail on revenue, cash flow, acquisitions, debt, and segment activities. Risk tone is cautiously positive, emphasizing recurring revenue and resilience while acknowledging regulatory pressure, cautious customer spending, acquisition variability, and estimation uncertainty. Some promotional and boilerplate language moderates the precision of the risk presentation."
+}

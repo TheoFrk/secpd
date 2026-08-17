@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "we believe",
+    "attempt to mitigate",
+    "market volatility",
+    "other factors individually immaterial"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitative, detailing operating scale, financial results, commodity exposure, derivatives, acquisition performance, and debt terms. Risk disclosures are conventional but include meaningful exposure to feed-price volatility, chicken-price declines, currency risk, acquisition losses, and debt obligations. Overall tone is confident and growth-oriented, tempered by standard uncertainty language and a truncated presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "actual results could differ",
+    "high degree of subjectivity",
+    "more likely than not",
+    "estimated future credit losses"
+  ],
+  "risk_summary": "The excerpt is highly technical and complex, with extensive accounting-policy and regulatory terminology that may limit accessibility. It acknowledges material estimation uncertainty, subjective impairment assessments, credit-loss risk, and deferred CECL capital effects, but provides limited entity-specific quantified sensitivity or downside analysis."
+}

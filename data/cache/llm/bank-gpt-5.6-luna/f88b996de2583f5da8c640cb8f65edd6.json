@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact remains uncertain",
+    "cannot be predicted",
+    "could adversely impact",
+    "continually discussing new licensing opportunities",
+    "goal of becoming profitable"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A framing and business-description language, with some quantified ownership, timing, and sales information but limited financial detail in the provided portion. Risk disclosures appropriately identify COVID-19, supply-chain, consumer-demand, competitive, and execution uncertainties, while emphasizing improved results and growth objectives."
+}

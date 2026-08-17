@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "not construed as exhaustive",
+    "no firm assurances",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, including revenue, margins, end-market exposure, and acquisition effects, but is preceded by extensive standard forward-looking language and broad, non-quantified risk disclaimers. The risk tone is moderately balanced: growth in logistics and semiconductors is offset by automotive weakness, margin compression, pricing pressure, macroeconomic exposure, and numerous operational and compliance risks."
+}

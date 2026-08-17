@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "uncertain future impact",
+    "non-GAAP financial measures",
+    "capital-intensive business"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes substantial operating and cash-flow quantification, but contains standard forward-looking disclaimers and some uncertainty around COVID-19 and future investments. Its risk tone is broadly neutral to mildly confident, while the capital-intensive business model, spectrum spending, debt activity, and technology investment create material financial exposure."
+}

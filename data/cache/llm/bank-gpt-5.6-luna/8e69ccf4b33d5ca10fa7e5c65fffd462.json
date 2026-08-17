@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we believe",
+    "as is deemed necessary",
+    "to a lesser degree",
+    "normal churn",
+    "growth-centric organization"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, providing detailed operating metrics, sales drivers, margins, headcount, and location changes. Risk tone is moderately positive but acknowledges weakening demand, declining gross and operating margins, and substantial branch closures. Some explanatory language is promotional and relies on management beliefs or broad strategic framing."
+}

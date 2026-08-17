@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "we believe should support",
+    "estimated future taxable income",
+    "could be materially impacted",
+    "actual loss differs from estimate"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but reports declining franchise sales, lower earnings and EBITDA, and rising operating costs. Performance depends on franchisee health, commodity prices, store expansion, tax assumptions, and estimated contingencies, with some forward-looking and judgment-based language limiting certainty."
+}

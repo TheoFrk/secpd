@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may be attributable to",
+    "primarily attributable to",
+    "substantially unchanged",
+    "relatively lower margins",
+    "reasonable level"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear operating, inventory, profitability, and cash-related metrics. Risk tone is mildly negative because sales, gross profit, operating income, and net income declined, while competitive discounting and lower production volumes pressured margins. Some causal explanations remain qualified and the excerpt contains standard non-GAAP and regulatory boilerplate."
+}

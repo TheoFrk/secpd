@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "\"we believe\" performance claims",
+    "\"well positioned to withstand\" fluctuations",
+    "considerable judgment",
+    "cannot quantify the precise impact",
+    "ultimate loss experience could prove better or worse"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides clear performance targets, historical comparisons, capital metrics and investment results. Risk disclosure is concentrated in insurance reserve estimation, where management emphasizes judgment, model uncertainty and inability to quantify factor impacts precisely. Overall tone is confident and shareholder-oriented, but partially tempered by underwriting and reserve uncertainty."
+}

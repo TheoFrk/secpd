@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expected operating costs to exceed gross revenues",
+    "based on current reserves and net cash flow estimates",
+    "primarily due to",
+    "more likely than not recognition threshold",
+    "Index to Financial Statements"
+  ],
+  "risk_summary": "The disclosure is materially quantified and identifies significant deterioration in pipeline throughput, production, quarterly revenue, and the uneconomic outlook for U.S. Gulf of Mexico properties. Reported annual net income is heavily supported by a one-time gain on the pipeline sale, while the business faces reserve depletion, permitting constraints, impairments, and higher lease operating costs. Boilerplate accounting-policy discussion and the truncated excerpt modestly limit clarity but do not appear deliberately evasive."
+}

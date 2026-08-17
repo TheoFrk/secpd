@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "difficult to accurately predict",
+    "may be significantly affected",
+    "unpredictable funding and deployment decisions",
+    "not indicative of a trend or future performance",
+    "potentially may award"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, but highlights substantial customer and contract concentration, including expected material declines after the BFT-1 and MTS programs wind down. Revenue and profitability are exposed to government funding, termination, deployment, and technology decisions, with significant period-to-period volatility. The tone is cautionary and risk-focused rather than crisis-like."
+}

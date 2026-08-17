@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "considerable management judgment",
+    "actual results could differ",
+    "greater degree of uncertainty",
+    "not always provide reasons"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative disclosures, but repeatedly emphasizes estimation uncertainty, customer deductions, collectability, impairment assumptions, and forward-looking statement limitations. Risk tone is cautious rather than crisis-like, with no explicit evidence of immediate financial distress."
+}

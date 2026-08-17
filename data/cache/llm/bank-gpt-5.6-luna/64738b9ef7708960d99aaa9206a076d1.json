@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "risks and uncertainties",
+    "beyond the company's control",
+    "cannot reasonably estimate",
+    "customary closing conditions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides specific restructuring, separation, sales, and profitability figures, but includes extensive forward-looking disclaimers and some unquantified future charges. Risk is moderate: sales declined, restructuring and separation costs are significant, and performance depends on currency, portfolio changes, and execution, although management presents a confident growth and cost-savings outlook."
+}

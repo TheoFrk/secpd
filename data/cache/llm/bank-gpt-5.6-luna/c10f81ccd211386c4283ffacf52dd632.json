@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "disclaim any obligation to update",
+    "substantial doubt about going concern",
+    "not easily defined on our balance sheet",
+    "seek short-term capital arrangements"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating and liquidity data but discloses substantial going-concern risk, recurring losses, low cash, working-capital deficits, and reliance on related-party and new debt financing. Management offsets these concerns with broad growth, synergy, and technology-asset claims that are only partly quantified and include significant forward-looking caveats. High financing costs, operational cash-flow pressure, and potential OTC market delisting create material credit and liquidity risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "beyond the Company’s control",
+    "does not undertake any obligation",
+    "factors could cause actual results to differ materially",
+    "subject to assumptions subject to change"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative, supported by quantified earnings growth, margin expansion, loan growth, and improved credit quality. Risk disclosure is largely standardized and emphasizes broad uncertainties, uncontrollable factors, and non-updating obligations without quantifying their potential impact. Credit risk remains relevant given $109 million of non-performing assets and continued exposure to economic, interest-rate, competitive, and regulatory conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could be adversely affected",
+    "plan to continue",
+    "expected future results",
+    "continuing decline in check usage"
+  ],
+  "risk_summary": "The excerpt combines substantial operating detail and quantified cost savings with extensive boilerplate forward-looking-statement disclaimers. The business faces structural volume declines in checks and forms, acquisition and execution risks, and reliance on projected cost reductions and growth initiatives, but management presents a cautiously constructive operating outlook."
+}

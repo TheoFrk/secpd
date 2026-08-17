@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "known and unknown risks, uncertainties",
+    "among others",
+    "other unknown or unpredictable factors",
+    "do not undertake or assume any obligation to update",
+    "expressly qualified in their entirety"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and acquisition information, but is preceded by extensive standardized forward-looking-statement disclaimers that broadly limit reliance on projections. Business risks are described at a general level, while loan portfolio sensitivity, market conditions, and acquisition integration represent material exposures."
+}

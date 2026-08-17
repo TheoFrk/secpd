@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain and very difficult to predict",
+    "could differ materially",
+    "including but not limited to",
+    "continue to monitor",
+    "future developments"
+  ],
+  "risk_summary": "The excerpt is substantially boilerplate and relies on broad forward-looking disclaimers, particularly regarding COVID-19, supply-chain continuity, customer spending, and cyclical semiconductor demand. It provides some concrete financial figures and operational actions, but key downside impacts and probabilities remain largely unquantified. Overall tone is cautiously resilient, offset by meaningful uncertainty around pandemic and market conditions."
+}

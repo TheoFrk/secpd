@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "conditions remain volatile and uncertain",
+    "may be masked by governmental stimulus",
+    "unusual, non-recurring items",
+    "non-GAAP performance measures",
+    "Actual results could materially differ"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and presents stable asset-quality metrics, low charge-offs, and improving diluted EPS. However, COVID-19-related borrower relief and government stimulus may mask underlying credit deterioration, while extensive non-GAAP adjustments and critical-estimate caveats reduce comparability and visibility into normalized performance."
+}

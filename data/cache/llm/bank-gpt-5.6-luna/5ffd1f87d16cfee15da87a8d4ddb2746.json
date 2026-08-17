@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "hypothetical changes in assumptions",
+    "not intended to be comprehensive",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, but includes extensive boilerplate cautionary language and relies on judgment-based accounting estimates. Risk is elevated by worsening operating losses, declining Healthcare Services revenue, and sensitivity to assumptions, although Pharmacy revenue and debt-related interest expense improved."
+}

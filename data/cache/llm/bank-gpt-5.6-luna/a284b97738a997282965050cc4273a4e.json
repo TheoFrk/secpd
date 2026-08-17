@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP performance measure",
+    "no assurance favorable terms",
+    "may be required to refinance",
+    "historically more stable markets",
+    "discontinued operations reclassification"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including revenue concentration, cash flows, capital expenditures, debt repayment, and dividend obligations. Key risks include dependence on advertising revenue, exposure to technological disruption and economic cycles, concentrated market revenue, and the possibility that operating cash flow may not cover debt service. Management presents a cautiously constructive outlook but relies on non-GAAP metrics and includes meaningful financing contingencies."
+}

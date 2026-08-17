@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not exhaustive",
+    "risks and uncertainties",
+    "reasonable estimates",
+    "based on estimates and assumptions",
+    "not possible to predict"
+  ],
+  "risk_summary": "The excerpt contains extensive standard safe-h harbor language and broad, non-quantified risk factors, limiting forward-looking accountability. Accounting disclosures provide meaningful process detail but rely heavily on management estimates for contract costs, inventory valuation, deferred tax assets, and anticipated losses. Overall tone is cautious and legally defensive rather than crisis-like."
+}

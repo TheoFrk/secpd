@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may differ materially",
+    "including but not limited to",
+    "subjective and/or complex judgments",
+    "factors outside of our control"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and legal-risk disclaimers, with numerous potential adverse scenarios spanning credit, liquidity, regulatory, litigation, cyber, and pandemic risks. Some disclosures are quantified, particularly deposit balances and borrowing changes, but the excerpt is lengthy, highly qualified, and partly truncated, limiting assessment of the underlying financial outlook."
+}

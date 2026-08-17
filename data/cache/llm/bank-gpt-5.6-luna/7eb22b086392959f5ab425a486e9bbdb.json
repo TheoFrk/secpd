@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to interpretation",
+    "estimated contractual allowances",
+    "historical collection experience",
+    "reasonable likely change",
+    "text truncated"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantified, including reserve sensitivity, debt availability, covenant compliance, and acquisition consideration. Key risks involve estimation uncertainty in contractual allowances, collectibility, reimbursement interpretation, and impairment testing, but management presents these as controlled and historically immaterial."
+}

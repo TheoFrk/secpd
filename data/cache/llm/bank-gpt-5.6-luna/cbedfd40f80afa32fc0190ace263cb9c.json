@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "depends in part on",
+    "significant judgments",
+    "ultimate resolution may take extended periods"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but much of the overview relies on standard forward-looking and conditional language. Revenue declined materially despite growth in digital services, while results benefited from specific cost reductions and a strategic investment gain; tax assets and uncertain tax positions introduce additional estimation risk."
+}

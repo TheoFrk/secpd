@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not necessarily indicative of future operations",
+    "best efforts to arrange financing",
+    "currently evaluating",
+    "as may be required",
+    "text truncated"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial detail but contains standard forward-looking disclaimers and some vague financing language. Risk is materially elevated due to substantial doubt about going-concern viability, continuing losses and negative operating cash flows, minimal cash, accumulated deficit, and dependence on additional financing."
+}

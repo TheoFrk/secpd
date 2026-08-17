@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "when and if offered",
+    "estimated future operating cash flows",
+    "significant judgment",
+    "could have a material impact"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and data-rich, with detailed portfolio, leverage, liquidity, covenant, and revenue disclosures. Risk tone is cautiously positive, though it acknowledges refinancing and capital-market access uncertainty, interest-rate exposure, valuation assumptions, and potential material impairment losses."
+}

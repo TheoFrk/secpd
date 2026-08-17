@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "best estimate of effective interest rate",
+    "highly subjective assumptions",
+    "revenue growth lags expense increases",
+    "full valuation allowance",
+    "secured by substantially all assets"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but contains substantial technical complexity and judgment-dependent estimates. Key risks include expense growth outpacing near-term revenue, reliance on projected revenues for debt accounting, a full deferred-tax valuation allowance, and debt secured by substantially all assets."
+}

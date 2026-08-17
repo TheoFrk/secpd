@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "believe we are well positioned",
+    "changing technologies and evolving standards",
+    "non-GAAP measures exclude certain items"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue, capital expenditures, backlog, debt repayments, and cash impacts, but relies heavily on broad scenario-based risk language and management beliefs regarding technology transitions and future demand. Key risks include semiconductor cyclicality, design-release volatility, high fixed costs, technological substitution, capacity underutilization, and potential impairment charges. The overall tone is cautiously confident, supported by investment and positioning claims, while acknowledging substantial industry and execution uncertain…"
+}

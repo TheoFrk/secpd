@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot estimate with certainty",
+    "significant adverse effects",
+    "expect to remain in compliance",
+    "designed to create long-term shareholder value",
+    "non-GAAP measure not comparable"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative regarding the 2020 sales decline, margin deterioration, leverage measures, and covenant status, but pandemic duration, severity, and future financial impact remain uncertain. Management presents multiple strategic targets and expects covenant compliance, although these forward-looking plans carry execution and consumer-demand risks."
+}

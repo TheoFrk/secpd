@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance expectations will be achieved",
+    "we undertake no obligation to update",
+    "estimates and assumptions",
+    "textual omissions and truncated disclosures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, but extensive forward-looking disclaimers and reliance on subjective estimates limit transparency regarding future performance. Occupancy declined overall, one government-targeted property has leased more slowly than expected, and impairment valuations depend on uncertain cash-flow, market, and capitalization-rate assumptions."
+}

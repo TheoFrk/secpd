@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "fund operations through ongoing asset liquidation",
+    "accessing new financing from related parties",
+    "for the foreseeable future",
+    "transactions vary considerably in magnitude and timing",
+    "subject to the same variability"
+  ],
+  "risk_summary": "The disclosure is generally well quantified and provides detailed year-over-year cash flow and debt information, but liquidity depends heavily on asset liquidation proceeds and related-party financing. A working capital deficit, contingent obligations, variable transaction timing, and inventory valuation risk indicate meaningful financial pressure despite improved operating cash flow."
+}

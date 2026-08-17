@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "designed to",
+    "contingent upon achievement of milestones",
+    "continued to improve"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on revenue, margins, losses, debt reduction, contractual arrangements, and strategic transactions. Risk remains material due to persistent operating losses, a sharp gross-margin decline, reliance on wafer-supply arrangements, competitive pressures, and milestone-dependent IP payments, although the tone emphasizes operational progress and improved liquidity."
+}

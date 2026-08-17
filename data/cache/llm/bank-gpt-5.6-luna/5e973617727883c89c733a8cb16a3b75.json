@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "various other assumptions",
+    "believed to be reasonable",
+    "not necessarily coincide",
+    "none deemed critical",
+    "discussion excluded from this report"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well quantified, including sales, margins, operating metrics, and capital allocation information. Risk tone is mildly negative because of housing weakness, inflation, declining traffic, consumer spending shifts, and prior supply-chain disruption, but management presents these as manageable operating headwinds. Some boilerplate and broad forward-looking language reduces specificity around execution risks and accounting judgments."
+}

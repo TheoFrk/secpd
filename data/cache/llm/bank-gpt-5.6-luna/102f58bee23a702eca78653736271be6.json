@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP constant currency",
+    "uncertainty related to adverse global economic conditions",
+    "we believe",
+    "where necessary",
+    "held for sale reclassification"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear sales, margin, earnings, currency, segment, and debt disclosures. Risk tone is moderately positive, though management uses standard cautionary language regarding macroeconomic conditions, inflation, financial-market volatility, and customer and supplier health. Reliance on constant-currency and adjusted measures, plus the held-for-sale reclassification, warrants reconciliation to GAAP results and further review."
+}

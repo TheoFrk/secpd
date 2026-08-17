@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "include, but are not limited to",
+    "not possible to fully eliminate exposure",
+    "somewhat mitigate",
+    "unusual or non-recurring"
+  ],
+  "risk_summary": "The disclosure is broadly balanced and includes useful quantitative detail on cybersecurity spending, interest-rate effects, deposit pressure, asset quality, and non-GAAP measures. However, substantial boilerplate forward-looking language, omitted tables, and qualifiers around insurance coverage and problem-asset exposure limit transparency. The tone is cautiously constructive, supported by reported performance and improved asset-quality indicators, but acknowledges material cyber, market, liquidity, and credit risks."
+}

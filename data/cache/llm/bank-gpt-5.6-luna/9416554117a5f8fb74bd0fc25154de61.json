@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "limited sources of liquidity",
+    "anticipated future demand",
+    "no guarantee of successful financing",
+    "promotional product claims"
+  ],
+  "risk_summary": "The excerpt provides several useful quantitative disclosures, including revenue, deferred revenue, receivable allowances, and planned R&D spending, but relies heavily on boilerplate forward-looking language and broad promotional descriptions. Liquidity is explicitly limited, and planned hiring and expansion depend on generating sufficient revenue and obtaining financing, creating meaningful execution and funding risk."
+}

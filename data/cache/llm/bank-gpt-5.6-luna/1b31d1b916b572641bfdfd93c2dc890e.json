@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "no assurance expectations will prove correct",
+    "inherent limitations in forecasting",
+    "estimates could differ significantly",
+    "adjustments could be significant"
+  ],
+  "risk_summary": "The excerpt presents strong historical growth, profitability, and favorable market expectations, supported by substantial quantitative operating data. However, it relies on forward-looking forecasts and subjective contract, impairment, and goodwill estimates, with extensive safe-harbor caveats and some potentially material uncertainty around project costs and future demand."
+}

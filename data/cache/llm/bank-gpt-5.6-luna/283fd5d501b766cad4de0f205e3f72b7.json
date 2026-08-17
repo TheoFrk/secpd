@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "exact amount can only be measured upon monetization",
+    "dependent on a final judicial ruling",
+    "approximations to the nearest $100,000",
+    "change in fair value of derivative financial instruments",
+    "primarily due to the fact that"
+  ],
+  "risk_summary": "The disclosure is highly quantified but presents material uncertainty around monetization of recovered cargo, pending litigation, derivative valuations, and operating cash outflows. Revenue and operating activity declined sharply year over year, while the narrative contains duplicated passages and complex project-cost offsets that reduce readability."
+}

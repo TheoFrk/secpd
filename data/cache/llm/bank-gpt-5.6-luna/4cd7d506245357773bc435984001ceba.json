@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "significantly affected",
+    "could, but may not",
+    "somewhat temporary",
+    "a bit of supply/demand disparity"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of earnings drivers, commodity prices, volumes, and segment results. Key risks include substantial exposure to oil and natural-gas price volatility, North American gas oversupply, refining and retail margin pressure, impairments, foreign exchange effects, and higher operating costs. Overall tone is mildly positive based on improved 2012 earnings, but it acknowledges meaningful sensitivity to adverse market conditions."
+}

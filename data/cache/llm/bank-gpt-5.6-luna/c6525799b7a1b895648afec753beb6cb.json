@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "focused on our customer",
+    "progress on our initiatives",
+    "critical to our future growth",
+    "cannot be certain",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is generally transparent and data-rich, with detailed revenue, growth, channel, brand, and cash figures. The tone is strongly positive and growth-oriented, though it includes limited quantified discussion of downside risks and relies on broad strategic language. Key uncertainty relates to inflation, inventory valuation assumptions, future expansion, and potential divergence between estimates and actual results."
+}

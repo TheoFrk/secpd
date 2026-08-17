@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous assumptions, risks and uncertainties",
+    "including, but not limited to",
+    "modest probability of a mild to moderate economic downturn",
+    "other factors, all of which change over time",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified, reporting strong earnings, loan growth, asset quality, and capital metrics. Risk discussion is broad and substantially boilerplate, emphasizing interest-rate, regulatory, economic, credit, and acquisition uncertainties without detailed scenario quantification. Overall tone is cautiously positive, though rising rates, expense pressure, and potential economic deterioration remain relevant credit risks."
+}

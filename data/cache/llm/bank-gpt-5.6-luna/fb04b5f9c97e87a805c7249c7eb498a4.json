@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties beyond our control",
+    "no obligation to update",
+    "assumptions could materially impact results",
+    "additional financing may be required"
+  ],
+  "risk_summary": "The disclosure contains substantial standard forward-looking and accounting-policy boilerplate, with reliance on uncertain assumptions and licensee commercialization. Liquidity risk is material: the company has not generated sufficient licensee revenue to fund operations and may require financing on uncertain terms. The outlook is cautious rather than crisis-like, supported by a stated cash runway but qualified by significant execution and funding dependencies."
+}

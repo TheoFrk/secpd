@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "frequent 'we believe' statements",
+    "'ownable' and 'winnable' categories",
+    "forward-looking expectations",
+    "customer persona framing",
+    "incomplete and omitted tables"
+  ],
+  "risk_summary": "The excerpt provides useful quantified disclosures on expenses, debt, interest costs, cash flow pressure, inventory purchases, and tariff exposure, but much of the strategy discussion is repetitive and promotional. Risk is partially softened by extensive belief-based language and customer-centric branding terminology, while lower-than-expected sales, increased borrowings, variable-rate exposure, and higher inventory investment indicate moderate financial pressure."
+}

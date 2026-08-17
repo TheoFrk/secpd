@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary note",
+    "estimates and judgments",
+    "subject to many variables",
+    "typically and may",
+    "revenue subject to adjustment"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantification of equity issuances, but relies heavily on accounting estimates, contract-cost assumptions, and probability assessments that could cause revenue and profit adjustments. The tone is generally neutral, with moderate financing and execution risk rather than an overt crisis signal."
+}

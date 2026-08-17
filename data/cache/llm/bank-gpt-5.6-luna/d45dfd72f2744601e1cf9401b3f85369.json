@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "currently anticipated cash requirements",
+    "may have a material adverse effect",
+    "no assurance",
+    "difficult to forecast"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative liquidity and operating data, including cash balances, cash flow, revenue changes, and expense drivers. However, it relies heavily on standard forward-looking risk language regarding economic conditions, forecasting limitations, vendor dependencies, financing availability, and expansion-related resource strain. Overall tone is mildly positive due to cash generation, no long-term debt, and revenue growth, but material execution and liquidity risks remain."
+}

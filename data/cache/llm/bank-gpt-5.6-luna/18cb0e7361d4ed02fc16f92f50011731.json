@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could differ materially",
+    "including but not limited to",
+    "subject to customer acceptance",
+    "permanently reinvested outside the United States"
+  ],
+  "risk_summary": "The excerpt is generally confident and growth-oriented, supported by substantial quantitative disclosure on revenue, shipments, backlog, cash, and operating cash flow. Standard forward-looking disclaimers, semiconductor cyclicality, customer concentration by region, acceptance-based revenue timing, impairment estimates, and offshore cash tax exposure represent meaningful risks. Overall disclosure quality is relatively strong, though portions rely on boilerplate cautionary language and management expectations."
+}

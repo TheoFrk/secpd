@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance funds will continue",
+    "ameliorated any substantial doubt issues",
+    "expected to provide liquidity",
+    "off-balance-sheet guaranteed value"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but presents significant financial distress, including recurring net losses, a $191,474 cash balance, a 0.36 current ratio, sharply reduced working capital, and dependence on equity financing. Management acknowledges substantial funding uncertainty while asserting that acquisitions, investments, and service growth have alleviated going-concern concerns. Liquidity support remains contingent on future financing and profitability, with additional exposure from the Apeiron share-price guarantee."
+}

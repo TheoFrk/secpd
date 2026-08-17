@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "nearly all key financial metrics",
+    "intrinsic operating results",
+    "non-GAAP measures",
+    "opportunistically repurchased",
+    "backlog not necessarily indicative"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail but balances weaker demand, below-expectation revenue, macroeconomic exposure, and cost reductions with optimistic management framing. Reliance on adjusted non-GAAP measures and broad qualifiers may soften the presentation of underlying operating weakness and future demand uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "financial statements should not be relied on",
+    "non-binding letter of intent",
+    "may result in further divestiture",
+    "unable to raise needed additional funds",
+    "sufficient cash balances to continue as a going concern"
+  ],
+  "risk_summary": "The excerpt discloses a material accounting restatement involving warrants, unamended prior filings, discontinued operations, major business contraction, and strategic uncertainty. Liquidity risk is significant: management acknowledges inadequate capital, probable future fundraising needs, potential inability to raise funds, and possible cessation or dissolution despite a twelve-month going-concern assertion."
+}

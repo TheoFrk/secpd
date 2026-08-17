@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.67,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "repeated cross-references",
+    "significant judgment and estimates",
+    "non-GAAP measure disclaimers",
+    "boilerplate accounting-policy language",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and presents improving earnings, loan growth, capital, and asset quality metrics in a generally confident tone. Disclosure is nevertheless repetitive and relies heavily on cross-references, while accounting estimates and non-GAAP measures introduce interpretation limitations. Growth was supported partly by increased deposits and borrowings, representing a moderate funding and credit-risk consideration."
+}

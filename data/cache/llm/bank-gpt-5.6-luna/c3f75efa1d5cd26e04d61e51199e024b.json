@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "anticipate and expect future revenue",
+    "unable to determine with certainty",
+    "estimated insurance reimbursement deductions",
+    "estimated denials of claims",
+    "contractual adjustments by insurers"
+  ],
+  "risk_summary": "The excerpt presents strong revenue and order growth with improving profitability, but relies on optimistic expansion expectations and continued sales-force hiring. Material uncertainty exists around insurer reimbursement policies, claim denials, collectability estimates, and the resulting rental-versus-sales mix and gross margins. The truncated and partially boilerplate accounting discussion limits assessment of some underlying risks."
+}

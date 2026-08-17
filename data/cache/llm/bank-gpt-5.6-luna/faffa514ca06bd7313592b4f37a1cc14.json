@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "excluding acquisition-related costs",
+    "material impact on parts of our business",
+    "some of which we expect to continue"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including acquisition consideration, sales, earnings, and EPS figures. Risk tone is mixed: reported performance is strong, but COVID-19 disruption, supply-chain volatility, financing for acquisitions, and reliance on adjusted non-GAAP measures introduce material risks. Repeated non-GAAP caveats and exclusion of acquisition, restructuring, and other charges may reduce comparability with GAAP results."
+}

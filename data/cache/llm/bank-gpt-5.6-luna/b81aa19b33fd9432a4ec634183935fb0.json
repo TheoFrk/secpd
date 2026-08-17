@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.26,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective estimates",
+    "actual results could differ",
+    "other factors and trends",
+    "highly subjective assumptions",
+    "non-core items and exclusions"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantified results, but relies substantially on management estimates for loan losses, acquired-loan cash flows, goodwill, compensation, and taxes. Credit risk is evident from specific impairments, charge-offs, fraud-related losses, and purchased-credit-impaired loan provisions, although reported earnings and fee income trends are positive. Exclusion of non-core items and the truncated discussion limit assessment of underlying recurring profitability."
+}

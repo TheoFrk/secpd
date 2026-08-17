@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to cancellation or delay",
+    "not necessarily representative of actual sales",
+    "expected to ship primarily",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with revenue, backlog, margins, segment performance, and customer concentration disclosed. Key risks include cyclical and volatile end markets, Chinese pricing competition, dependence on large turnkey orders, revenue-recognition timing, and one customer representing 49% of backlog. The tone is cautiously positive because of strong growth and backlog expansion, but substantial execution and concentration risks are acknowledged."
+}

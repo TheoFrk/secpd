@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "can vary significantly",
+    "other factors",
+    "subject to variable industry conditions",
+    "continued development of new capabilities"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes specific financial amounts and year-over-year drivers, but relies frequently on broad causal phrases and forward-looking, conditional language. Risk tone is mildly negative due to weaker memory, display, and overall semiconductor systems demand, while the company remains strategically confident and operationally controlled."
+}

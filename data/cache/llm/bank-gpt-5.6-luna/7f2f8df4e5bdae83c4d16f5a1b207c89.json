@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to risks and uncertainties",
+    "disclaims any obligation to update",
+    "underlying business model",
+    "adjusted non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally confident and highlights recurring revenue, liquidity, and strategic growth, but it acknowledges weaker bookings, declining revenue retention, legacy-platform client losses, and restructuring charges. Risk factors are broad and largely boilerplate, while extensive emphasis on adjusted measures and management-positive framing may obscure underlying performance pressures."
+}

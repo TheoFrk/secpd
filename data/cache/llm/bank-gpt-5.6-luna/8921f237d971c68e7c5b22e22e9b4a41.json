@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "strong growth",
+    "non-GAAP measures",
+    "safe harbor statement",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, revenue, margin, cash flow, deferred revenue, and tax information, supporting relatively transparent disclosure. However, promotional claims, reliance on non-GAAP measures, and limited context around the unusually high effective tax rate and small pre-tax profit temper the positive tone. The business shows improving operating performance but retains sensitivity to subscription-model execution, foreign exchange, and profitability volatility."
+}

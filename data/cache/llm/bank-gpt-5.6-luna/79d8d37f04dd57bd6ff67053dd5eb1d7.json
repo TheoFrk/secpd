@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "well-defined credit, investment, interest-rate and liquidity guidelines",
+    "strives to maintain",
+    "based upon and driven by a variety of assumptions",
+    "could negatively impact",
+    "expected maturities may differ"
+  ],
+  "risk_summary": "The excerpt is largely standard, detailed MD&A boilerplate with useful quantitative disclosures on earnings, assets, tax-equivalent adjustments, and securities losses. Risk discussion acknowledges credit, interest-rate, economic, real-estate, liquidity, and assumption-related risks, but provides limited sensitivity analysis or specific downside estimates. Overall tone is cautiously positive, supported by modest earnings growth and emphasis on controls."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "factors that could cause future results to vary",
+    "assumptions about highly uncertain matters",
+    "no obligation to update",
+    "other factors discussed elsewhere"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating information, but its extensive safe-harbor language and broad, non-ranked risk-factor list limit specificity regarding downside exposure. Key risks include interest-rate and yield-curve pressure, funding costs, regulatory changes, credit-loss estimation uncertainty, and dependence on subsidiary dividends. Management maintains a cautiously confident growth posture while acknowledging material sensitivity to economic and market conditions."
+}

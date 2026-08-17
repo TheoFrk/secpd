@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and material adverse effects",
+    "subject to availability of adequate financing",
+    "possibility that markets may not develop",
+    "substantial political and regulatory efforts",
+    "multiple potential revenue streams"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and numerous contingent business opportunities, with limited quantified evidence of commercialization or funding sufficiency. It identifies meaningful risks including financing dependence, customer and market adoption uncertainty, regulatory delays, competition, and an existing loan default. The tone is cautiously negative on execution and liquidity despite optimistic claims regarding technology performance and future revenue streams."
+}

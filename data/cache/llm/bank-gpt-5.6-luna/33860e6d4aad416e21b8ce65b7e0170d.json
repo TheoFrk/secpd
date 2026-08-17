@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "anticipate significant increase",
+    "near to intermediate term",
+    "if any",
+    "all else equal",
+    "sensitivity to discount rates"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed sensitivity ranges for LDTI adoption, but relies on forward-looking estimates and complex technical explanations. The projected decline in shareholders’ equity, discount-rate sensitivity, and 42% decline in reported book value per share indicate material balance-sheet risk, partly offset by improving operating metrics and lower COVID-19 claims."
+}

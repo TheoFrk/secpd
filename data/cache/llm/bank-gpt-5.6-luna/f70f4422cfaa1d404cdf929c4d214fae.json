@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "provided that the business environment does not significantly deteriorate",
+    "there can be no assurance",
+    "impact continues to evolve",
+    "may cause a decline",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and presents strong revenue, profitability, backlog, cash flow, and liquidity metrics. It acknowledges meaningful risks from supply-chain delays, inflation, interest rates, labor shortages, working-capital needs, customer cancellations, and financing availability, but frames them as manageable and contingent rather than imminent."
+}

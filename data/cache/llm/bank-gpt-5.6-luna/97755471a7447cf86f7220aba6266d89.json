@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not an exhaustive list",
+    "materially different",
+    "inherently uncertain",
+    "do not undertake any obligation to update"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results and balance-sheet metrics with extensive forward-looking disclaimers and a broad, largely non-quantified risk inventory. Performance tone is modestly positive, but dependence on assumptions, BNPP relationships, separation costs, liquidity, interest rates, cybersecurity, and regulatory factors creates meaningful uncertainty."
+}

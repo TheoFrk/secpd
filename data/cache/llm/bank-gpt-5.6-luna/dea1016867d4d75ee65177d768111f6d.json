@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could be affected by uncertainties and risks",
+    "may be subject to volatility",
+    "certain factors, including those discussed",
+    "considerable management judgment",
+    "non-U.S. GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate, with extensive definitions and broad caveats rather than detailed quantified risk analysis. It identifies geopolitical conflict, inflation, supply-chain constraints, raw-material costs, impairment assumptions, and reliance on non-GAAP measures as relevant risks, but reports no current material Russia-Ukraine impact and no goodwill impairment."
+}

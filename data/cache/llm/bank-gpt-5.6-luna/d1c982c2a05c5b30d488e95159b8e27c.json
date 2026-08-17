@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "we believe",
+    "many factors beyond our control",
+    "not indicative of future periods",
+    "non-GAAP comparability disclaimer"
+  ],
+  "risk_summary": "The excerpt is generally confident and performance-oriented, with substantial quantified revenue, income, segment, and contract-mix information. Risk disclosure relies partly on standard boilerplate and broad descriptions of margin volatility, project estimates, fixed-price contracts, labor constraints, and external conditions, while the excerpt is truncated and does not provide a complete risk assessment."
+}

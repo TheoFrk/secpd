@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "the Company believes",
+    "in due course",
+    "awaiting governmental approval",
+    "oral notification",
+    "possibility that the factory could be repurposed"
+  ],
+  "risk_summary": "The excerpt identifies substantial regulatory, environmental, permitting, relocation, and operational-continuity risks, including prior shutdowns and unresolved approvals for certain facilities. Although it provides many dates and operational milestones, several outcomes remain dependent on governmental action and are described with qualified, non-quantified language. The truncated disclosure also limits assessment of the full financial impact, including asset impairment and deferred-tax judgments."
+}

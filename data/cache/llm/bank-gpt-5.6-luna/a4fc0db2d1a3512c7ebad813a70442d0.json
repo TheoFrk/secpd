@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.27,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "\"we believe\" market and demographic claims",
+    "non-GAAP operating measures",
+    "exclusion of CIE impacts",
+    "significant market sensitivity",
+    "hedge-accounting terminology"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantitative information, but presents a strongly favorable strategic narrative alongside extensive technical accounting language. Key risks include material sensitivity to equity, credit, interest-rate and investment-market movements, as well as valuation changes in guarantees, DAC/DSIC and derivatives. Repeated reliance on adjusted operating measures and assertions that CIE exposure is unchanged may reduce comparability with GAAP results."
+}

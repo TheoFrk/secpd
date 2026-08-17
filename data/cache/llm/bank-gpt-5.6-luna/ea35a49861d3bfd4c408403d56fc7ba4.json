@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "timing and type cannot be ascertained",
+    "unable to generate sufficient cash",
+    "accounting inconsistency in net loss comparison"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, citing substantial net losses, a working-capital deficit, impaired receivables, negative financing cash flow, and insufficient cash generation to fund operations. It relies on broad forward-looking disclaimers and includes an apparent year-over-year net-loss labeling error, reducing clarity and reliability."
+}

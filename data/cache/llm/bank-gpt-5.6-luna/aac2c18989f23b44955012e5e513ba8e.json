@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally expect steady to improved performance",
+    "currently anticipate asset sales",
+    "currently intend to repay",
+    "expect additional capital requirements",
+    "table and excerpt truncation"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and provides useful operating, financing, and maturity disclosures, but relies on forward-looking language regarding performance, asset sales, and refinancing. Key risks include $160 million of scheduled mortgage maturities, dependence on property sales and credit-facility borrowings, and a disclosed real estate impairment charge. The presentation is dense and partly difficult to interpret because tables appear fragmented or omitted."
+}

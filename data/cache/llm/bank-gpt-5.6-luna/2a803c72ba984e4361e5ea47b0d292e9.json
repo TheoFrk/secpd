@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-binding term sheet",
+    "no assurance",
+    "subject to definitive agreements",
+    "significant value",
+    "favorable pricing signals"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on impairment, production, contracted power volumes, and pricing, but offsets these with optimistic projections and conditional statements regarding the proposed data-center transaction. Key risks include a $215.1 million coal-asset impairment, declining coal demand, spot-market exposure, commodity-price volatility, and uncertainty over completing the prospective agreement."
+}

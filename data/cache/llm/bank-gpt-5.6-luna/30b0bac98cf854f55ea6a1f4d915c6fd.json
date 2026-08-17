@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks include but are not limited to",
+    "no obligation to update",
+    "not possible to determine materiality",
+    "non-GAAP measure limitations"
+  ],
+  "risk_summary": "The excerpt presents strong fiscal 2015 performance with quantified revenue, operating income, and net income growth, producing a moderately positive tone. However, extensive boilerplate disclaimers, broad unranked risk lists, non-GAAP emphasis, and uncertainty around goodwill impairment reduce transparency regarding specific downside exposure."
+}

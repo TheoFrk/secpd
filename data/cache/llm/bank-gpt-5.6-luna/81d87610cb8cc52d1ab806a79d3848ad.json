@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant factors impacting",
+    "subject to review and approval",
+    "not reasonably likely to have a material effect",
+    "we expect",
+    "tables and details omitted"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and confident utility-business outlook, supported by quantified earnings, margins, operating income, and tax rates. Key risks include regulatory recovery uncertainty, pension and OPEB asset volatility, weather-driven demand changes, transmission-affiliate regulatory decisions, and off-balance-sheet commodity-related instruments. The provided text omits several referenced tables and detailed drivers, limiting full assessment of underlying performance and exposures."
+}

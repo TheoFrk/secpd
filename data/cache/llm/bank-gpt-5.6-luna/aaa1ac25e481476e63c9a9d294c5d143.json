@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could have an adverse impact",
+    "timing, scope and effectiveness",
+    "significantly reduced demand",
+    "various factors and uncertainties",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt presents a detailed business and product overview with some quantified financial effects, but contains substantial boilerplate and extensive conditional COVID-19 risk language. Key risks include declining COVID-19 assay demand, renewed disruptions, healthcare-system effects, workforce impacts, and estimation uncertainty in contingent consideration and intangible assets. Overall tone is balanced and operationally resilient, but moderately cautious regarding post-pandemic normalization."
+}

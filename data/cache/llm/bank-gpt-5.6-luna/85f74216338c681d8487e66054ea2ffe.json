@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "based on beliefs and assumptions",
+    "may be materially different",
+    "best estimate of future cash flows",
+    "if actual results are not consistent",
+    "see Note 14 / Item 3"
+  ],
+  "risk_summary": "The excerpt is materially quantified and transparent about sharp declines in sales, EBITDA, profitability, and impairment charges, indicating significant cyclical and commodity-price risk. Risk is partly softened by optimistic long-term demand commentary and extensive forward-looking caveats. Accounting estimates, asset valuations, pension assumptions, and liquidity disclosures introduce meaningful uncertainty, though the language is largely standard MD&A boilerplate."
+}

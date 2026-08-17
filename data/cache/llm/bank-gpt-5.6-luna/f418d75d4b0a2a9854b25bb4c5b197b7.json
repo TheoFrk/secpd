@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "problem assets",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt uses extensive legal and non-GAAP boilerplate, which limits direct assessment of forward risks and performance comparability. Risk tone is cautiously positive, citing improved earnings, capital levels, and reduced problem assets, but residual problem assets, interest-rate sensitivity, and planned regulatory approval for TARP preferred-stock redemption remain material risks."
+}

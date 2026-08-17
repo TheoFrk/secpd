@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimated online service period",
+    "significant judgment is required",
+    "inherently subjective",
+    "future revenue projections",
+    "inherent difficulty in predicting popularity"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively reconciles revenue changes, losses, impairment, tax valuation allowances, and operating cash flow. Risk tone is materially negative, reflecting sharply increased losses, near-zero operating cash generation, economic weakness, slower console-market growth, and substantial estimation uncertainty in revenue deferral and royalty accounting."
+}

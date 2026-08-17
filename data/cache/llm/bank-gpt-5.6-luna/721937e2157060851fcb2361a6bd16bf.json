@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "depends significantly on",
+    "we cannot predict whether or when",
+    "substantial costs and expenses",
+    "if one or both receive regulatory approval",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and operational detail, including product sales, headcount, development programs, collaboration funding, and regulatory timelines. However, financial performance remains highly dependent on successful commercialization and regulatory approvals, with continued losses, negative operating cash flow, clinical holds, and significant future spending explicitly identified. The tone is factual and cautiously risk-aware rather than crisis-like."
+}

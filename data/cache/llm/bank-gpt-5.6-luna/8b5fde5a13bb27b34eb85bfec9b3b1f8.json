@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty disclaimer",
+    "non-GAAP measures and adjusted losses",
+    "anticipated store growth and earnings guidance",
+    "comparable sales methodology limitations",
+    "free cash flow before DXL capital expenditures"
+  ],
+  "risk_summary": "The disclosure is relatively quantified and transparent, but emphasizes non-GAAP performance metrics and includes standard forward-looking disclaimers that may soften interpretation of uncertainty. Underlying risks include recurring net losses, negative free cash flow, substantial secured borrowings, and continued dependence on the DXL store-conversion strategy despite improving sales and EBITDA."
+}

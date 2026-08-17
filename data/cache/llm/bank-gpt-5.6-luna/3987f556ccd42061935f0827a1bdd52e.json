@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "ability to successfully manage",
+    "without limitation",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is dominated by standardized legal disclaimers and broad, non-quantified risk categories, limiting insight into the magnitude or probability of specific risks. The risk profile spans macroeconomic, supply chain, regulatory, technology, geopolitical, and execution exposures, while the limited operating data presented is comparatively positive."
+}

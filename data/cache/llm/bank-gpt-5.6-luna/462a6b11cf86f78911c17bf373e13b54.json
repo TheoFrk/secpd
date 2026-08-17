@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects to fall and return to normal",
+    "management is hopeful",
+    "one-time expenses",
+    "always room for improvement",
+    "subjective estimates and approximations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but highlights declining operating income, weaker liquidity and receivables aging, with earnings materially supported by investment income. Key uncertainties include acquisition integration, production and software setbacks, inventory obsolescence judgments, marketable-securities exposure, and related-party arrangements."
+}

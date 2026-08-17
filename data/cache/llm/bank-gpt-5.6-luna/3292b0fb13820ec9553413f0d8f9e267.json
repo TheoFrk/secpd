@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incomplete \"During 2017, we:\" lists",
+    "excluding special items",
+    "we believe",
+    "we expect",
+    "fully exposed to fluctuations"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but repeats results and relies partly on strategic, promotional language and non-GAAP measures. Profitability declined materially year over year, while higher fuel and labor costs, lack of fuel hedging, and exposure to economic and operational disruptions present notable risks. Liquidity is substantial, but the excerpt is truncated and omits the supporting transaction details referenced."
+}

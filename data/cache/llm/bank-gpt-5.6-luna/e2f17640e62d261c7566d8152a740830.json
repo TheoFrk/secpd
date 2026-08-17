@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.91,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "highly unlikely",
+    "foreseeable future",
+    "subject to estimates and judgments",
+    "may differ from these estimates",
+    "negligible impact"
+  ],
+  "risk_summary": "The excerpt describes severe credit and operating distress, including Chapter 11 bankruptcy, rehabilitation proceedings, withdrawn ratings, inability to write new business, and materially restricted liquidity and dividends. Although the disclosure is highly detailed and references specific legal and accounting frameworks, reserve estimates and program impacts remain dependent on subjective assumptions and uncertain recoveries."
+}

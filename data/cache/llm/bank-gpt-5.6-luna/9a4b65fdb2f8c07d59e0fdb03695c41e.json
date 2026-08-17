@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "expected to come down",
+    "we believe",
+    "confident in our ability",
+    "more challenging environment"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantified sales, earnings, liquidity, inventory, and pension information. Risk is moderated by supply-chain normalization and strong operating performance, but inventory buildup, promotional pressure, inflation, recession exposure, consumer softness, and substantial revolver borrowing remain relevant concerns."
+}

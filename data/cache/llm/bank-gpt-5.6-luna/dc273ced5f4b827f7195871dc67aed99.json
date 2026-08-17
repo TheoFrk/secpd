@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.26,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict the impact",
+    "cannot assure that high production levels will continue",
+    "efforts cannot be guaranteed",
+    "may result in the decline of margins",
+    "future availability could be negatively impacted"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and reports revenue and earnings growth, but highlights material operational vulnerabilities, including biological production variability, equipment failure, contamination, water availability, energy costs, and competitive pricing pressure. Customer concentration and reliance on future taxable income are disclosed, while several forward-looking risks remain subject to uncertainty and management estimates."
+}

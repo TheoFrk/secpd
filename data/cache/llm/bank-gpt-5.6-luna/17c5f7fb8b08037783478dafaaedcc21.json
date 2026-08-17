@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "unable to predict future impact",
+    "outside of our control",
+    "have not independently assessed or verified",
+    "disclaim all responsibility",
+    "actual amounts could differ"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes substantial transaction-specific amounts, production percentages, and payment terms. Risk exposure remains tied to metal-price volatility, COVID-19 effects, operator forecasts, and reliance on unverified third-party production and reserve estimates. Boilerplate disclaimers and uncertainty language limit the reliability of forward-looking operational information."
+}

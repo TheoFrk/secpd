@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "items affecting comparability",
+    "primarily reflecting",
+    "not comparable to similarly titled measures",
+    "dense cross-references"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides specific explanations for substantial declines in operating income, net earnings, and EPS, including streaming investment, linear-network weakness, restructuring, litigation, and geopolitical charges. Extensive emphasis on adjusted non-GAAP measures and exclusion of recurring or material charges may soften the presentation of underlying risk, although GAAP reconciliations and limitations are disclosed."
+}

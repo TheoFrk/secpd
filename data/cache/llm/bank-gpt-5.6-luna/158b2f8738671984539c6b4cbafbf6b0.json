@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "management estimates and assumptions",
+    "future additions may be necessary",
+    "other factors not expected"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and liability-limiting language, with material reliance on management estimates for loan losses, fair values, and FDIC loss-share exposures. Credit risks are acknowledged but generally described qualitatively, while the operating and macroeconomic discussion has a mildly positive tone and includes some useful quantitative information."
+}

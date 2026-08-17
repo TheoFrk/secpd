@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP measure limitations",
+    "we believe",
+    "full valuation allowance",
+    "credit facility covenant references"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed operating variance explanations, but relies on some attributional language and extensive non-GAAP and legal disclosures. Risk factors include significant debt restructuring, covenant considerations, a full valuation allowance on deferred tax assets, and limitations on NOL utilization, despite a mildly positive operating tone."
+}

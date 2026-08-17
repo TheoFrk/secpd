@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to significant positive and negative changes",
+    "slowly liquidating that investment",
+    "it is possible that",
+    "management believes sufficient through next 12 months"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with strong 2014 revenue and net-income growth but largely flat operating income. Key risks include declining cash and working capital, reliance on investment gains, volatility in the Rudolph equity holding, and multiple management estimates subject to change. Liquidity is presented as adequate for at least 12 months, though the support is somewhat boilerplate and depends partly on operating cash generation and liquid securities."
+}

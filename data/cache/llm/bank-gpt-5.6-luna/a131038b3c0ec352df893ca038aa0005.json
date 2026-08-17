@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to customary exceptions and conditions",
+    "we believe",
+    "expect to",
+    "actual results could differ",
+    "tables and figures omitted"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding revenues, unit volumes, dealer inventory, acquisition financing, and operating costs, with a moderately optimistic tone. Key risks include dependence on continued RV demand, labor shortages, dealer inventory growth, acquisition execution and leverage, inflation pass-through, and reliance on estimates. Assessment is limited by truncated text and omitted tables that likely contain important supporting detail."
+}

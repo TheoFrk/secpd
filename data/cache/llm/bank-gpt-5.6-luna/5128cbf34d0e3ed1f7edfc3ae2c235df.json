@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believes it is well-positioned",
+    "not expected to have a significant impact",
+    "uncertain of the potential growth",
+    "could temporarily disrupt operations",
+    "not have a material adverse effect"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and product-positioning narrative, supported by several concrete sales, acquisition, and market figures. Key risks include technology-transition uncertainty, supplier concentration, commodity and foreign-currency exposure, and reliance on management estimates and forward-looking assessments. Disclosure is fairly detailed but uses standard materiality and expectation qualifiers that limit precision regarding downside magnitude."
+}

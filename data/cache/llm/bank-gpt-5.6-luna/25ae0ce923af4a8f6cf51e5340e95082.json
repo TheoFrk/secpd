@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"we believe\" claims",
+    "conditional FDA approval path",
+    "multiple possible study uses",
+    "promotional efficacy framing",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial clinical-program detail and several quantified operating metrics, but relies on conditional language and management expectations regarding trial outcomes, FDA requirements, and approval prospects. The tone is cautiously optimistic yet materially exposed to clinical, regulatory, recurrence, and commercialization risks."
+}

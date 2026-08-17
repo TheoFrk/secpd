@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximately/as much as",
+    "below optimal levels",
+    "unprecedented level of orders",
+    "not a direct correlation",
+    "excerpted and truncated tables"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitatively supported, with strong 2013 growth, expanding margins, and high operating income. Risks include demand seasonality, reliance on independent distributors, inventories below desired fulfillment levels, elevated product-liability costs, and potential earnings sensitivity to changing demand. Some language is moderately hedged and the excerpt contains repetitive historical comparisons and incomplete table content."
+}

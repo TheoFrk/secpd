@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unpredictable funding and technology decisions",
+    "may be significantly affected",
+    "estimates reviewed and revised periodically",
+    "could materially impact",
+    "not obligated to purchase"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational and revenue detail, including customer concentration, contract structures, and quantified segment and government sales. However, it highlights substantial estimation uncertainty, government funding and termination risk, contract-margin volatility, and dependence on long-term government programs. The tone is cautiously negative on forward visibility despite management’s historical claims of accurate estimation and contract performance."
+}

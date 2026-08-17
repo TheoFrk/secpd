@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "outlook is uncertain",
+    "continued strong demand",
+    "likely due to",
+    "possible COVID-19 shutdowns",
+    "various other assumptions"
+  ],
+  "risk_summary": "The disclosure is relatively specific and transparent about strong demand, supply-chain disruptions, shipping constraints, product shortages, back orders, and margin pressure. Fiscal 2022 outlook risk is elevated because higher logistics and manufacturing costs may precede price increases, while continued China-related disruptions could delay revenue and product launches."
+}

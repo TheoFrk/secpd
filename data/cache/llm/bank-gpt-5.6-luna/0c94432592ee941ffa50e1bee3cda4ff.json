@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate of future impact",
+    "forecasted collection rates",
+    "significantly better/worse than initial estimates",
+    "materially impact earnings",
+    "statistical pricing model"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains key drivers, including credit-loss provisions, forecast revisions, and COVID-19 impacts. However, earnings remain sensitive to modeled collection rates, loan performance, and changes in forecasted cash flows, with material uncertainty acknowledged."
+}

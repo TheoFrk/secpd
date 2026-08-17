@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "cannot be determined with precision",
+    "beyond our control",
+    "may differ materially"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating outlook supported by substantial revenue, margin, retention, liquidity, and cash-flow metrics. Risk disclosure is largely standard boilerplate, emphasizing broad uncertainties, estimation limitations, and non-update obligations for forward-looking statements. The truncated and malformed financial table reduces clarity but does not materially alter the predominantly positive tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "including but not limited to",
+    "did not have a significant impact",
+    "not expected to have a significant impact",
+    "reasonably likely to occur"
+  ],
+  "risk_summary": "The excerpt is generally detailed and provides quantified drivers for changes in noninterest income, but contains standard forward-looking disclaimers and repeated assertions that accounting changes had no significant impact. Key risks include credit-loss estimation, financial-instrument valuation, interest-rate sensitivity, mortgage-market weakness, and regulatory pressure on debit-card fees."
+}

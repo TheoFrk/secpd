@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "future loan losses can be extremely difficult to estimate",
+    "management believes",
+    "best estimate of probable loan loss liabilities",
+    "may be required to reimburse",
+    "mitigates these risks by diversifying"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational volumes and quantified reserve balances, but relies on estimates and generalized risk-mitigation language for mortgage indemnification, recourse, regulatory, and insurance risks. Mortgage originations and revenues declined, while indemnification liabilities increased, indicating moderate credit and earnings sensitivity despite reported profitability improvements."
+}

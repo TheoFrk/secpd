@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "materially differ",
+    "no assurance",
+    "high customer concentration",
+    "may become more concentrated"
+  ],
+  "risk_summary": "The excerpt contains extensive repetitive forward-looking disclaimer language that limits reliance on projections and emphasizes uncertainty. Operational risks include concentrated customers and suppliers, volatile demand, pricing pressure, rising China-based sourcing costs, and potential margin compression, although liquidity appears relatively strong with no debt and $5.6 million of cash."
+}

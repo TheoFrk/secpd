@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot assure assumptions",
+    "material adverse impact",
+    "could result in impairment",
+    "continued economic uncertainty"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and segment detail, but includes extensive boilerplate forward-looking disclaimers and conditional language. Key risks include weak profitability, customer and government-spending concentration, macroeconomic uncertainty, and potential goodwill or asset impairment if growth assumptions are not achieved."
+}

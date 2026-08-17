@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "uncertainty as to future profitability",
+    "potential for follow-on business",
+    "one-customer backlog concentration"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating data, but includes extensive boilerplate disclaimers and promotional descriptions that dilute risk-focused analysis. Key concerns are a 46.8% decline in orders, backlog falling to $6.1 million, 65.6% of backlog concentrated with one customer, lower gross margins, and dependence on follow-on business."
+}

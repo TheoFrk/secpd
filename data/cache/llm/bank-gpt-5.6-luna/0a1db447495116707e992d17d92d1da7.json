@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot assure efforts will be successful",
+    "including without limitation",
+    "may adversely affect",
+    "continuing uncertainty",
+    "subject us to risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial product, regulatory, reimbursement, geographic, and revenue detail, including several quantified impacts. Risk tone is moderately negative because it highlights acquisition-related indebtedness, reimbursement uncertainty, macroeconomic pressure, regulatory exposure, and declining product demand, although much of the section is descriptive and operational."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to certain risks and uncertainties",
+    "including but not limited to",
+    "for the foreseeable future",
+    "underlying assumptions prove incorrect",
+    "qualitative factors which could affect fair values"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail, but its forward-looking disclaimer relies on broad, standard risk-factor language and extensive assumptions. Risk exposure is moderate, with customer consolidation, margin and payment-term pressure, product returns, ScanTech exit costs, impairment risk, and dependence on new-product development highlighted. Revenue growth and market tailwinds temper the overall negative tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to certain risks and uncertainties",
+    "could differ materially",
+    "high degree of judgment and complexity",
+    "best ongoing estimates",
+    "other risks described from time to time"
+  ],
+  "risk_summary": "The excerpt is heavily legalistic and boilerplate, relying on broad forward-looking disclaimers and extensive lists of contingencies rather than quantified sensitivities. It highlights material risks from credit losses, valuations, funding, interest rates, regulation, litigation, and integration, while providing limited entity-specific probability or impact estimates. Overall tone is cautious and moderately negative, though not crisis-like."
+}

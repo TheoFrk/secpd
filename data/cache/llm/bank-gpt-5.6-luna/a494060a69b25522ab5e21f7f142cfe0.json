@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significant risks and uncertainties",
+    "no obligation to update",
+    "unmet medical need",
+    "success-oriented milestones"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking-statement disclaimers and highlights material uncertainty around drug development, regulatory outcomes, government funding, and milestone payments. Financial and accounting disclosures are generally specific, but the dense technical language and truncated passage limit assessment of liquidity and operating risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "highly uncertain and cannot be predicted",
+    "expected to result in lower sales, lower liquidity and higher leverage",
+    "in the process of negotiating resolutions",
+    "subject to borrowing base formulas"
+  ],
+  "risk_summary": "The disclosure is materially risk-focused, highlighting coronavirus-related store closures, supply-chain disruption, customer payment-term extensions, expected lower sales and liquidity, and higher leverage. It provides useful quantitative detail on customer concentration, cash, revolver capacity, and borrowings, but the pandemic outlook and liquidity impact remain highly uncertain. Customer concentration and financially stressed retail partners create meaningful counterparty and receivables risk."
+}

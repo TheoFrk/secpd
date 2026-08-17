@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking rate assumptions",
+    "continue to focus on",
+    "actively monitoring and restructuring",
+    "not indicative of a significant change",
+    "other relevant factors"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, reporting earnings, margins, credit losses, securities, and rate exposure with year-over-year comparisons. Risk tone is mildly positive, but it acknowledges liability sensitivity, potential net interest income pressure from declining rates, and ongoing loan-loss and asset-quality risks. Some boilerplate and management-intention language limits specificity regarding the timing and magnitude of mitigation actions."
+}

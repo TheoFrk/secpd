@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "known and unknown risks, uncertainties and other factors",
+    "significant estimates and judgments",
+    "more likely than not",
+    "does not believe there have been any events",
+    "will continue to assess assumptions"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimers and repeated descriptions of judgment-based tax and accounting estimates. It provides useful quantified NOL and valuation allowance information, but reliance on unupdated Section 382 analysis and uncertain future utilization creates moderate tax-reporting risk."
+}

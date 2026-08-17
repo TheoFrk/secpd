@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not quantifiable",
+    "forward-looking statements",
+    "non-GAAP financial measures",
+    "immaterial errors",
+    "continuing operations unless otherwise noted"
+  ],
+  "risk_summary": "The excerpt is largely procedural and accounting-focused, with substantial boilerplate and complex cross-referencing. Risk signals include COVID-related enrollment impacts that management says are not quantifiable, a revenue-recognition revision, discontinued operations, ongoing litigation costs, and expected integration expenses. Disclosures are generally transparent and specific, but the lack of quantification for certain effects limits assessment precision."
+}

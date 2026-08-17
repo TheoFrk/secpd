@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "well-defined credit and liquidity guidelines",
+    "based upon a variety of assumptions",
+    "could negatively impact",
+    "strives to maintain",
+    "expected maturities may differ"
+  ],
+  "risk_summary": "The excerpt is generally confident and provides substantial quantitative detail on earnings, securities, yields, and unrealized losses. Risk discussion is largely high-level and relies on generalized statements about policies, controls, assumptions, and potential economic impacts rather than quantifying sensitivities or downside scenarios."
+}

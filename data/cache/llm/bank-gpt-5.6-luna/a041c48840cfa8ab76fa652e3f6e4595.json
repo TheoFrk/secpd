@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.75,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "no assurance",
+    "estimated time period",
+    "planned cost savings",
+    "FDA repeat observations"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including revenue mix, acquisitions, restructuring costs, goodwill, liquidity and share repurchases. Risk tone is moderately negative due to extensive management turnover, ongoing restructuring, FDA warning-letter history and repeat inspection observations, although management expresses confidence in liquidity and remediation efforts. Key uncertainties involve achieving planned cost savings, completing consolidation on schedule and avoiding further regulatory actions."
+}

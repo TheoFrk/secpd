@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future trend",
+    "no assurances can be provided",
+    "among other things",
+    "subject to certain limitations",
+    "changes in mix of services"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes substantial operating and financial quantification, but contains customary boilerplate and forward-looking caveats. Key risks include declining international case volumes, foreign-exchange exposure, restructuring and transition costs, acquisition integration, and uncertainty around achieving expected cost savings."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "potentially transformative medicines",
+    "if approved",
+    "significant commercial potential",
+    "over $13 billion in future milestone payments",
+    "positive top-line data"
+  ],
+  "risk_summary": "The excerpt uses a strongly promotional and optimistic tone, emphasizing pipeline potential, partnerships, milestones, and market opportunities while acknowledging approval and development uncertainty. Several claims are conditional or difficult to validate, and projected milestone and commercial revenues are not probability-adjusted. The text is technically dense and includes substantial forward-looking and risk-disclaimer language."
+}

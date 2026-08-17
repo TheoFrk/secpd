@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "estimates and judgments",
+    "subject to many variables",
+    "may differ from these estimates",
+    "realization is considered probable",
+    "other-than-temporary decline"
+  ],
+  "risk_summary": "The disclosure is largely standard critical-accounting-policy language, with substantial reliance on management estimates for revenue recognition, contract costs, inventory, receivables, investments, and taxes. It identifies meaningful downside risks, including potential revenue overstatement, excess inventory, customer credit deterioration, and investment impairments, while providing some quantified liquidity information. Overall tone is cautious and neutral-to-negative rather than crisis-like."
+}

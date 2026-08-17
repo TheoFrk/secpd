@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "partially offset by",
+    "most of these events have been resolved",
+    "expect to receive full recovery",
+    "strategic initiatives",
+    "NM — Not meaningful"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and provides detailed operational and financial drivers, but it presents adverse developments within an optimistic strategic narrative. Key risks include declining operating margins and generation KPIs, drought-related weakness, unplanned outages, reliability issues, substantial goodwill impairments, foreign-exchange losses, and significant leverage. Some explanations rely on broad mitigation or recovery assertions without fully quantifying timing or residual exposure."
+}

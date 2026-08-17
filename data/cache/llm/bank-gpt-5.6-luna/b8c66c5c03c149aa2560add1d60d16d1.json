@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "one-time matters",
+    "adequate liquidity and strong liquidity",
+    "subject to variations"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed trend, balance-sheet, credit-quality, and interest-rate data. Risk is moderate: profitability declined, deposit funding costs increased, noninterest-bearing deposits fell, and unrealized securities losses remained material, although nonperforming assets and borrowings improved. Boilerplate forward-looking disclaimers and adjusted-income exclusions modestly reduce clarity but do not dominate the disclosure."
+}

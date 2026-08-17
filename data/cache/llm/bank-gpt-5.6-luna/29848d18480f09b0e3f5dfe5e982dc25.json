@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "assumptions, judgments and estimates",
+    "could differ materially",
+    "not yet been completed",
+    "best-estimated selling price",
+    "other factors"
+  ],
+  "risk_summary": "The excerpt provides useful acquisition amounts and selected revenue drivers, but relies heavily on standard accounting-policy boilerplate and qualitative estimates. Key risks relate to revenue recognition, valuation judgments, returns, royalties, and incomplete purchase accounting, with potential for material period-to-period impacts. Overall tone is operationally confident but moderated by recurring caveats about estimation uncertainty."
+}

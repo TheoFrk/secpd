@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "customary closing conditions",
+    "primarily driven by",
+    "strong financial position"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, but includes standard forward-looking disclaimers and reliance on non-GAAP measures. Operating performance shows modest revenue and bookings declines, restructuring activity, lower volumes, and increased interest expense, partly offset by margin expansion, improved operating cash flow, and asserted liquidity strength."
+}

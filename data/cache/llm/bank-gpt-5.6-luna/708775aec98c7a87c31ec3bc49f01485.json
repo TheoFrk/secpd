@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subjective estimates and judgments",
+    "inherent but undetected losses",
+    "other risks and uncertainties",
+    "qualitative risk factors"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimers and emphasizes that allowance-for-loan-loss estimates depend heavily on subjective judgments, changing economic conditions, and incomplete historical data. Quantitative performance metrics and some credit thresholds are provided, but the discussion is dense, repetitive, and partly non-specific regarding the magnitude of potential adverse outcomes. Overall tone is cautiously neutral, with meaningful credit and model-estimation risk rather than an overt crisis signal."
+}

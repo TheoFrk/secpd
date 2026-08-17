@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding Connecticut operations",
+    "primarily driven by",
+    "partially offset by",
+    "expect continuing declines",
+    "integration-related costs"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, but comparisons are complicated by the Connecticut Acquisition and Verizon Transaction, with repeated use of adjusted or excluded figures. Risk signals include declining legacy revenue, customer losses, rising churn, expected declines in voice and access revenues, and substantial acquisition-related debt and costs. Liquidity, operating cash flow, broadband growth, and regulatory subsidies provide offsetting support."
+}

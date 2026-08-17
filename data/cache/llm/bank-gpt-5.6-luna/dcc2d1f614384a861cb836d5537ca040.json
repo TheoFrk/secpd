@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "offset in part by",
+    "strategic growth investments",
+    "productivity improvements",
+    "provisional and may change"
+  ],
+  "risk_summary": "The excerpt is predominantly quantitative and presents strong revenue, operating income, and segment growth, supporting a generally positive risk tone. Key risks include substantial acquisition-related debt, amortization and integration effects, reliance on productivity improvements and tax planning, and provisional tax estimates that may change."
+}

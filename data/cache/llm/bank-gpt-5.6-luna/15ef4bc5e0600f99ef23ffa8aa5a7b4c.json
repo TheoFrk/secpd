@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "qualitative risk factors",
+    "other pertinent factors",
+    "more-likely-than-not",
+    "estimated market value declines"
+  ],
+  "risk_summary": "The excerpt provides a detailed methodology and some quantified financial information, but relies substantially on management judgment, qualitative adjustments, and unobservable valuation inputs. Credit and impairment risk is present, including a $150 thousand goodwill impairment and potential for higher loan-loss allowances under adverse conditions, while management states that the allowance is adequate."
+}

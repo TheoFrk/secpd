@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "impact cannot be predicted",
+    "to some extent",
+    "may continue to experience",
+    "approximately",
+    "partially offset"
+  ],
+  "risk_summary": "The disclosure presents significant operating and financial pressure, including a $439.5 million net loss, lower volumes, impairments, restructuring costs, geopolitical exposure, and volatile input prices. Management provides quantified restructuring savings and investment plans and asserts adequate liquidity, but several major downside impacts remain uncertain and are described with broad forward-looking language."
+}

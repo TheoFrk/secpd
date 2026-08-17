@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict ultimate impact",
+    "fluid and continues to evolve",
+    "possible additional restrictions",
+    "sustainability cannot be predicted",
+    "non-GAAP measure may not be comparable"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, highlighting strong demand growth, substantial backlog expansion, improved margins, debt-free status, and significant liquidity. Key uncertainties relate to COVID-19, potential restrictions, demand sustainability, supply and production constraints, and reliance on firearm demand driven partly by social and political conditions. The excerpt contains some boilerplate uncertainty language and appears truncated or internally inconsistent in its later results discussion."
+}

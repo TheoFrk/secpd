@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.37,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "highly subjective assumptions",
+    "actual claims may vary significantly",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on sales concentration, seasonality, equity investments, impairment charges, and accounting estimates. Risk disclosure is partly boilerplate, particularly the forward-looking disclaimer, while exposure remains evident from the Vasconia loss and $5.0 million fair-value reduction and from estimation uncertainty in healthcare claims, taxes, and option valuation."
+}

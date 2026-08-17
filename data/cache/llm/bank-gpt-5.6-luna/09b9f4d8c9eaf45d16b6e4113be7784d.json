@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "no assurance / may not",
+    "substantial doubt about going concern",
+    "uncertain financing availability",
+    "stock-based compensation surge"
+  ],
+  "risk_summary": "The company reports no revenue, sharply increased operating expenses and net losses, reduced cash, negative working capital, and a going-concern qualification. Liquidity depends on uncertain additional equity or debt financing, while substantial expenses appear driven by stock-based compensation and other write-offs."
+}

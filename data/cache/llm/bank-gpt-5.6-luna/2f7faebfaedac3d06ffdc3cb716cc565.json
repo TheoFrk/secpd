@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "we believe",
+    "cannot predict",
+    "challenging macroeconomic environment",
+    "continue to be well positioned",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is generally specific and data-rich, with extensive quantified sales, margin, store-count, borrowing, and macroeconomic information. Risk tone is cautiously positive, but management repeatedly relies on belief statements and emphasizes uncertainty around gas prices, consumer behavior, and the duration of favorable vehicle-aging trends. Non-GAAP measures and lengthy forward-looking explanations modestly increase interpretive complexity."
+}

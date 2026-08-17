@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "risks and uncertainties beyond control",
+    "many factors could affect actual results",
+    "among other things",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified historical results, debt terms, cash flows, restructuring costs, and segment drivers, supporting relatively good disclosure precision. However, the extensive forward-looking disclaimer language and reliance on broad, non-exhaustive risk categories introduce moderate vagueness. Operating performance and cash generation are presented positively, but weaker markets, currency effects, project losses, pension contributions, and demand uncertainty indicate meaningful ongoing risk."
+}

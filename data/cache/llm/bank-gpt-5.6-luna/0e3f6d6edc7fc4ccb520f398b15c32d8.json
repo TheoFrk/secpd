@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable",
+    "currently expects",
+    "precise revenue impact ... not determinable",
+    "expected to",
+    "see Note ... for further information"
+  ],
+  "risk_summary": "The excerpt presents strong profitability, revenue growth, shareholder returns, and fleet modernization, creating a generally confident tone. Disclosure is highly quantified, but relies on accounting adjustments, non-GAAP measures, forward-looking expectations, and a complex reservation-system implementation that introduce execution and comparability risks."
+}

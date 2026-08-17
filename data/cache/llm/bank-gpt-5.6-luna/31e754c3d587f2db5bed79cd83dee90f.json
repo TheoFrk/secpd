@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "full extent and impact uncertain",
+    "cannot be predicted at this time",
+    "significant assumptions and estimates",
+    "adjusted as deemed appropriate"
+  ],
+  "risk_summary": "The disclosure is generally constructive and well quantified, showing strong sales, margin, operating earnings, and EPS growth. Risk language appropriately identifies inflation, macroeconomic volatility, foreign exchange, impairment assumptions, and legal contingencies, but relies on standard uncertainty formulations and adjusted measures that may reduce comparability."
+}

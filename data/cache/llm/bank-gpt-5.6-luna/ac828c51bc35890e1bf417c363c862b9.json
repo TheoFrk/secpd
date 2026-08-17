@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "not material or significant",
+    "assumptions deemed reasonable",
+    "could differ from estimates",
+    "if events or changes in circumstances",
+    "sufficient for at least the next twelve months"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding acquisitions, cash flow, debt, and accounting impacts, but relies on management estimates for receivables, inventory, contract profitability, goodwill, and fair values. Risk tone is mildly positive, supported by reported cash generation and substantial credit availability, while the truncated disclosure and dependence on forward-looking assumptions limit transparency."
+}

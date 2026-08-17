@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot predict case volumes",
+    "among other things",
+    "generally",
+    "often",
+    "subject to certain limitations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on segment performance, costs, staffing, and reporting changes, but includes extensive boilerplate business descriptions and generalized industry commentary. Demand and revenue visibility are limited by unpredictable claim volumes, catastrophe activity, client outsourcing decisions, and insurance underwriting cycles. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

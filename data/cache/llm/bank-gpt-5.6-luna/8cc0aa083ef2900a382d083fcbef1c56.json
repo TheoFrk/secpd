@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted earnings per share",
+    "excluding acquisitions and foreign currency translation",
+    "about/approximately",
+    "customary affirmative and negative covenants",
+    "adequately funded"
+  ],
+  "risk_summary": "The disclosure is generally transparent and highly quantified, with detailed regional, operating, covenant, and liquidity information. Risk tone is moderately positive, although it relies on adjusted metrics and excludes acquisition and currency effects in portions of the performance discussion. Financial-market volatility and regional political uncertainty are acknowledged, but management states liquidity and covenant compliance remain sound."
+}

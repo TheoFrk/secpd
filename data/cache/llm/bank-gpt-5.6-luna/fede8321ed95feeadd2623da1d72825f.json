@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "sufficient capital resources",
+    "expect investments to increase",
+    "may draw funds",
+    "subject to standard approvals"
+  ],
+  "risk_summary": "The disclosure is relatively precise and highly quantified, but presents meaningful liquidity and execution risks from negative operating cash flow, a roughly $20 million facility investment, increased borrowings, and declining product sales. Management expresses confidence in covenant compliance and funding availability, while relying on projected operating cash generation, debt availability, regulatory approvals, and future product performance."
+}

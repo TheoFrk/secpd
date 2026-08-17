@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "including but not limited to",
+    "continuing industry consolidation",
+    "uncertainty regarding timing of investment decisions",
+    "adequate liquidity based on current plan"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative but presents meaningful operating risks, including a 12% revenue decline, customer concentration, legacy-product obsolescence, technology transitions, restructuring, and weak customer investment. Liquidity is described as adequate for the next twelve months, but this conclusion depends on current plans and is offset by low operating cash generation and continued execution risk in CableOS and SaaS transitions."
+}

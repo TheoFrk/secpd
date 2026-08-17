@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on all relevant facts and circumstances",
+    "in general",
+    "rarely present any risk of loss",
+    "qualitative analysis",
+    "highly subjective assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and some quantitative operating information, but relies heavily on management estimates for contract costs, claims, incentive fees, VIE consolidation, equity compensation, and pension obligations. These estimates create material uncertainty around reported margins, revenue recognition, asset values, and future expenses, although the overall tone is technical and neutral rather than crisis-like."
+}

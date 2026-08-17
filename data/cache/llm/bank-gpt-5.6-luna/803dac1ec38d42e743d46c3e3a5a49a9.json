@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and significant risks",
+    "could cause actual results to differ materially",
+    "not reasonably estimable",
+    "management judgment and experience",
+    "periodic reforecasting and shock analysis"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on fee income and describes specific allowance, impairment, and interest-rate-risk methodologies, but relies heavily on standard forward-looking disclaimers and management judgment. Risk tone is moderately negative, citing recession effects, unemployment, declining real estate values, possible loan delinquencies, foreclosures, and sensitivity to economic conditions. Disclosure complexity is high because of lengthy accounting-policy descriptions, technical terminology, and nested valuation assumptions."
+}

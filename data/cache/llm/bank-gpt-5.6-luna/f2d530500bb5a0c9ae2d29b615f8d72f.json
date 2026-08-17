@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.34,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to separate filing"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and redirects readers to another filing. This materially limits transparency in the quoted section, although it does not itself indicate a positive or negative risk trend."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may arise that we are not aware of currently",
+    "continue or increase in future periods",
+    "high degree of judgment",
+    "reasonably expect inflation",
+    "subject to estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but contains substantial standard MD&A structure and recurring forward-looking caveats. Key risks include inflation, labor and supply-chain pressures, consumer demand sensitivity, and judgment-dependent impairment and lease estimates."
+}

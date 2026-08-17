@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.3,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could differ from estimates",
+    "principally reflects",
+    "not material",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, particularly regarding acquisitions, margins, tax effects, and accounting policies. Risk is primarily linked to acquisition financing, contingent consideration, contract cost estimates, receivables collectibility, and inventory write-down assumptions, though management presents operating performance positively. The text appears technically complex and includes an incomplete/truncated section that limits transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "future conditions and assumptions",
+    "unpredictable or unknown factors",
+    "contract asset value recognized as sales",
+    "tax valuation allowance reversal"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed operating, backlog, liquidity, debt, and covenant information. Tone is modestly positive due to improved sales, margins, operating income, and liquidity, but declining total backlog, variable customer ordering, financing constraints, and reliance on tax judgments present meaningful risks."
+}

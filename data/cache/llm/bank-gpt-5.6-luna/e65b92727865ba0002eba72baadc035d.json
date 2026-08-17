@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not indicative of a general weakness",
+    "inherently complex",
+    "significant and highly subjective estimates",
+    "future additions to the ACL may be necessary",
+    "substantial portion concentrated in Market Area"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with stable asset-quality metrics and clear explanations of earnings and deposit trends. Key risks include deposit attrition, geographic and borrower concentration, securities repositioning losses, and the inherently judgmental nature of expected credit-loss estimates. Management uses reassuring language to characterize isolated credit deterioration, but acknowledges that future ACL increases may be required."
+}

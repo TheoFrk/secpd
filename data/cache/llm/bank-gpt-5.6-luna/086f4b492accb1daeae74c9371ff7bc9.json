@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainty",
+    "primarily due to",
+    "best information available",
+    "historical experience and internal business plans"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but includes substantial boilerplate risk disclaimers and reliance on estimates for recalls, impairment, valuation, and future cash flows. Operating performance weakened materially in 2021, with gross profit down 24%, earnings from continuing operations down 45%, labor and input-cost pressures, product recall effects, inventory write-downs, and impairment of notes receivable. The absence of debt and adequate liquidity provide some mitigation, but operational and execution risks remain elevated."
+}

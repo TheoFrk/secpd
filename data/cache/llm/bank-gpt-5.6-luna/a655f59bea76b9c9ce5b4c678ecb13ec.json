@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future events cannot be predicted with certainty",
+    "actual results could differ from those estimates",
+    "if warranted",
+    "may not be fully recoverable",
+    "a number of factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, margins, segment mix, and operating income with year-over-year comparisons. Risk is moderated by exposure to economic and discretionary spending cycles, price discounting, vendor rebates, outsourced services, and judgment-based accounting estimates, but the overall tone remains cautiously positive due to reported growth and margin improvement."
+}

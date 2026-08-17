@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance / may not",
+    "substantial doubt about going concern",
+    "attempt to raise capital",
+    "past due obligations",
+    "unanticipated events"
+  ],
+  "risk_summary": "The excerpt presents severe financial distress, including zero revenue, substantial operating losses, negative working capital, significant past-due obligations, and a going-concern qualification. Liquidity depends on uncertain capital raising or debt financing, with explicit acknowledgment that funding may be unavailable or unfavorable. Quantitative disclosure is relatively specific, but extensive legal cautionary language and forward-looking qualifiers add boilerplate and limit clarity about recovery prospects."
+}

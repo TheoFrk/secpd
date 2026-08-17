@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "expected to generate",
+    "estimated annual gross margin",
+    "non-GAAP measure",
+    "could cause actual results to differ materially"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with substantial disclosure of project economics, rate impacts, and year-over-year drivers. Risk is moderated by reliance on estimates and forward-looking gross-margin projections, regulatory outcomes, weather effects, and non-GAAP measures. Overall tone is cautiously positive, emphasizing growth initiatives despite a 2018 net income decline."
+}

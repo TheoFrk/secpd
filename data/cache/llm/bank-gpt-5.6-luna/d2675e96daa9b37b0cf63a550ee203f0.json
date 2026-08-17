@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we expect",
+    "we believe",
+    "when possible",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt presents a predominantly positive operating outlook supported by record bookings, backlog, acquisitions, and quantified segment trends. It acknowledges material risks from supply-chain constraints, labor availability, inflation, tariffs, currency fluctuations, COVID-19 uncertainty, and tax-estimation judgments, but mitigation language is partly qualified and forward-looking. Disclosure is generally detailed and quantified, though lengthy, boilerplate-heavy, and reliant on estimates and expectations."
+}

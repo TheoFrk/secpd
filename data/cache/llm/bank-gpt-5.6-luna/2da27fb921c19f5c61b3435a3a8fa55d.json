@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict outcome",
+    "potential impacts",
+    "appropriate measures",
+    "future proposed regulations",
+    "currently in discussions"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing dates, ownership percentages, capacity factors, payment amounts, and regulatory milestones. However, it highlights material uncertainty around environmental regulation, litigation, arbitration, contractual payments, and regulatory cost recovery, often without quantifying potential financial impacts."
+}

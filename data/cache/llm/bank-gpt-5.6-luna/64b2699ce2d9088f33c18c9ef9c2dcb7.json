@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to be funded",
+    "potentially make new investments",
+    "actual results could differ",
+    "material adverse effect",
+    "estimated undiscounted future cash flows"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including portfolio composition, customer concentration, revenue trends, and impairment methodology. Key risks include dependence on government reimbursement, tenant and borrower financial condition, healthcare liability costs, valuation judgments, and planned debt-funded investment. Management uses moderate forward-looking and estimation-related qualifiers, but the overall tone is cautiously constructive rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to estimate ultimate financial impacts",
+    "situation is evolving",
+    "may continue to impact",
+    "cannot predict the outcome",
+    "material adverse impact"
+  ],
+  "risk_summary": "The disclosure is generally detailed and operationally specific, but highlights substantial uncertainty from COVID-19 disruptions, geopolitical and trade conditions, currency exposure, and a targeted cyber-attack. The cyber incident is particularly adverse because systems were broadly shut down, operations were limited, and direct and indirect financial impacts could not yet be quantified."
+}

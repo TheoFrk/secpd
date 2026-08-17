@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "could cause actual results to differ materially",
+    "include, but are not limited to",
+    "reasonable levels",
+    "most recent available appraisal or evaluation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on interest-rate effects, loan-loss methodology, collateral valuation, and economic exposures, supporting relatively strong disclosure quality. Risk tone is cautious and highlights recession, unemployment, funding, delinquency, foreclosure, valuation, and interest-rate risks, but does not indicate an immediate crisis. Boilerplate forward-looking disclaimers and reliance on management judgments introduce moderate uncertainty."
+}

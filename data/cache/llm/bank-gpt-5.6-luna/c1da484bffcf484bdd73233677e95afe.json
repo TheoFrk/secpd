@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "various other factors",
+    "as deemed necessary",
+    "not material",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is technically detailed and provides extensive accounting-policy explanations, but relies on standard estimates, assumptions, and materiality qualifiers. Key risks include inventory impairment, cost-to-complete estimates, sales incentives, backlog conversion, and exposure to changing economic conditions, with limited quantification in the provided portion."
+}

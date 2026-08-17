@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally follow the volume of transactions",
+    "timing of customer funds",
+    "balance sheet remains strong",
+    "partially offset by",
+    "cyber attack experienced by a client"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies material pressures, including a freight recession, a $100 million cyber-related balance loss, deposit migration and decline, and $7.8 million of bad debt expense. Management uses a generally confident tone and emphasizes strong capital, liquidity and credit quality, but some explanations rely on broad or non-specific drivers such as timing of customer funds."
+}

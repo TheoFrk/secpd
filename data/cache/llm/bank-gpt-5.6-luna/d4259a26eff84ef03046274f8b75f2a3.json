@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly subjective assumptions",
+    "reasonable and supportable forecasts",
+    "other qualitative adjustments",
+    "actual results could differ",
+    "certain conditions occur"
+  ],
+  "risk_summary": "The excerpt is technically detailed and references specific accounting standards, but relies heavily on management judgment, forecasts, qualitative adjustments, and impairment assumptions. Credit and valuation risks are acknowledged, particularly around lifetime expected losses, goodwill, taxes, and changing economic conditions, without providing the underlying quantitative sensitivities in the excerpt."
+}

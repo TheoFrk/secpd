@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "future results will be unaffected",
+    "backlog may not be indicative",
+    "beyond our control",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but includes extensive non-GAAP disclaimers and some generic qualification language. Risk tone is moderately negative, driven by declining revenue, lower margins, forward-loss reserves, major goodwill and intangible impairments, customer/program concentration, and defense-spending exposure."
+}

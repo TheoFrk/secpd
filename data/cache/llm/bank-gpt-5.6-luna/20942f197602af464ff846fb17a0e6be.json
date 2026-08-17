@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.37,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be predicted",
+    "cannot be known",
+    "significant judgment",
+    "complex and subject to many variables",
+    "unknown period of time"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative, supported by quantified revenue increases, but contains substantial boilerplate and extensive accounting-policy language. Key risks arise from judgment-intensive contract estimates, potential cumulative catch-up adjustments, government budget uncertainty, continuing resolutions, and unresolved COVID-19 effects. The disclosure is technically detailed but difficult to parse and only partially quantifies the potential financial impact of these uncertainties."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "new risks emerge from time to time",
+    "we believe",
+    "estimated discounted cash flows"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, restructuring charges, customer-credit losses, impairment, geographic exposure, and liquidity-related risks. However, extensive boilerplate disclaimers and reliance on qualitative outlook language limit forward-looking specificity. Overall tone is cautious and moderately negative due to prior macroeconomic deterioration, customer distress, major goodwill impairment, and restructuring, although it notes improving demand and margins."
+}

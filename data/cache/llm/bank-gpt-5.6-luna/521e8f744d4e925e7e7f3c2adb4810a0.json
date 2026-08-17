@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "extent and duration cannot be predicted",
+    "could have an adverse impact",
+    "explore all options",
+    "subject to change",
+    "highly sensitive to assumptions"
+  ],
+  "risk_summary": "The disclosure presents strong earnings, cash generation, liquidity, and investment capacity, but highlights material exposure to inflation, energy costs, supply-chain disruption, pandemic effects, and fluctuating demand. Several forward-looking statements rely on uncertain assumptions and provide limited quantified sensitivity around these risks, particularly for natural gas costs and impairment estimates."
+}

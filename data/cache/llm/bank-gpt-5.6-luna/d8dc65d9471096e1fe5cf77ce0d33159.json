@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "business is in an even stronger position",
+    "strong growth",
+    "modest contributor",
+    "metrics remain strong",
+    "expected to increase in 2023"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed revenue, volume, credit-loss, and delinquency trends, limiting overall vagueness. The tone is predominantly confident and promotional, although rising delinquencies, net write-offs, and provisions for credit losses indicate emerging credit-cycle pressure. Dense financial terminology, long sentences, extensive product descriptions, and partially truncated text reduce accessibility."
+}

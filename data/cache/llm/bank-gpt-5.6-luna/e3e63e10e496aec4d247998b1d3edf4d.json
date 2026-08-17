@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "may differ materially",
+    "volatile and uncertain macroeconomic conditions",
+    "sustained period of market weakness",
+    "expect a continued recovery, albeit a slow recovery"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including fleet size, backlog, debt repayments, cash flows, and expected capital expenditures, but relies on standard forward-looking disclaimers and optimistic assumptions about a slow offshore market recovery. Key risks include oil-price volatility, weak utilization and rates, customer spending constraints, regional macroeconomic uncertainty, and debt obligations. Liquidity is presented as adequate through cash, operating cash flow, and revolver availability, though the excerpt is truncated and does not provide a complete assessment of commitments…"
+}

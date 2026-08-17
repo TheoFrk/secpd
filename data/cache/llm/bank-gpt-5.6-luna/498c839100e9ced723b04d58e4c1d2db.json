@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally attributed to",
+    "should continue to recover",
+    "some general concern",
+    "most appropriate strategies",
+    "minimal repurchase activity"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, particularly regarding credit-cost reductions, non-performing assets, charge-offs, earnings, and mortgage repurchase exposure. Risk tone is cautiously positive due to improving credit quality and economic conditions, although lower earnings, uncertain global conditions, and potential commercial real estate oversupply remain risks. Dense financial jargon and extended macroeconomic discussion increase complexity but do not appear materially evasive."
+}

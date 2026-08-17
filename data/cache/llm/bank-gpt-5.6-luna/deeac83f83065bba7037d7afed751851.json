@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "Non-GAAP exclusions",
+    "Fixed currency presentation",
+    "Discontinued operations recast",
+    "Special gains and charges",
+    "Forward-looking statement disclaimers"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and transparent about COVID-19-driven declines in sales, operating income, EPS, and cash flow, while noting leverage increased modestly. Risk presentation is balanced by emphasis on strong liquidity, investment-grade ratings, cash generation, and dividend continuity. Comparability is complicated by the ChampionX separation, segment reorganization, fixed-currency measures, and extensive adjusted metrics."
+}

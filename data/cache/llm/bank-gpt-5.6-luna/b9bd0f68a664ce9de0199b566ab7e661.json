@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "may adversely impact",
+    "including but not limited to",
+    "highly subjective and complex judgments",
+    "other risk factors"
+  ],
+  "risk_summary": "The excerpt is dominated by broad, largely unquantified forward-looking risk disclosures covering macroeconomic, regulatory, credit, liquidity, operational, technology, and acquisition risks. Its extensive boilerplate and repeated conditional language provide limited insight into likelihood, magnitude, timing, or current risk exposure, although the tone is cautionary rather than indicative of an immediate crisis."
+}

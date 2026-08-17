@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurances can be provided",
+    "similar expressions",
+    "other unforecastable market- or transaction-driven items",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on property holdings, investments, dispositions, and non-GAAP measures, but relies heavily on standard forward-looking disclaimers and qualitative descriptions of market attractiveness. Risk is moderated by asset sales, investment concentration, and reliance on adjusted performance metrics, although the tone remains operationally confident rather than crisis-like."
+}

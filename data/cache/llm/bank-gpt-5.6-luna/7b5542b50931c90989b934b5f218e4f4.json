@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.91,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "impossible to predict",
+    "may adversely impact",
+    "including but not limited to",
+    "extensive enumerated risk factors"
+  ],
+  "risk_summary": "The excerpt is dominated by boilerplate forward-looking disclaimers and a lengthy, highly nested list of potential risks, limiting prioritization and specificity. Quantitative operating disclosures are more precise, showing net interest margin compression and a substantial increase in provision for credit losses to $26.3 million, while net charge-offs remained low."
+}

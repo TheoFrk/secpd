@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management’s best estimate",
+    "outcomes of which are uncertain",
+    "when market observable data is not available",
+    "subjective and may involve substantial judgment",
+    "generally increases or declines"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on fair-value exposure, unobservable inputs, loan trends, and acquisition-related credit exposure. However, significant estimates and model-based valuations, particularly for loan losses and Level 3 mortgage servicing rights, introduce material uncertainty and reliance on management judgment. Overall tone is controlled and cautiously positive rather than crisis-like."
+}

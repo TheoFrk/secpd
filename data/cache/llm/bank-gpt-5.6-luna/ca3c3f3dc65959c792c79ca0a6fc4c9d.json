@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.56,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "significant judgment and estimates",
+    "cannot provide assurance",
+    "potential adjustments",
+    "unprecedented assertions about taxation"
+  ],
+  "risk_summary": "The disclosure is generally transparent and includes specific accounting judgments, revenue-recognition conclusions, and quantified operating cash flow. Risks mainly relate to estimation uncertainty, tax examinations and regulatory changes, but the overall tone is confident and growth-oriented rather than distressed."
+}

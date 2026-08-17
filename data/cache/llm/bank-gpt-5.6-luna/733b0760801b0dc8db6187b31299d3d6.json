@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.86,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.34,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information required ... included",
+    "page-range cross-reference",
+    "no substantive MD&A disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, operating, or risk information and redirects the reader to another section of the annual report. This limits standalone assessment and may obscure material trends unless the referenced pages are reviewed."
+}

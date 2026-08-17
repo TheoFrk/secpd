@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "various strategic alternatives",
+    "maximum value",
+    "beyond our ability to predict or control"
+  ],
+  "risk_summary": "The disclosure is heavily qualified by standard forward-looking language and presents material risks tied to liquidity, portfolio-company losses, valuation uncertainty, limited control, and monetization outcomes. Quantified cash flows, repurchases, funding, and commitments provide useful specificity, but the strategic outlook remains uncertain and dependent on transactions that may not occur."
+}

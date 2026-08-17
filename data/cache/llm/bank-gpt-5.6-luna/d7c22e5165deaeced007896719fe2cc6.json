@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally and typically",
+    "cannot predict future impact",
+    "subject to underwriting cycle",
+    "highly competitive market",
+    "provided that we maintain market share"
+  ],
+  "risk_summary": "The excerpt provides useful segment, revenue, volume, and currency quantification, but relies substantially on generalized conditional language regarding market cycles, claim referrals, competition, and future demand. Risk tone is mildly positive due to reported net income and revenue growth, tempered by exposure to volatile claims volumes, weather events, currency movements, pricing pressure, and client outsourcing decisions."
+}

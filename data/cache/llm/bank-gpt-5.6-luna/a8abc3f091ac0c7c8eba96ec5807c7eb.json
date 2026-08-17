@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "actual results could differ materially",
+    "management’s best estimate",
+    "inherently subjective estimates"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate risk disclaimers and emphasizes substantial uncertainty around loan-loss allowances, asset valuations, acquisitions, funding, regulation, and economic conditions. Quantified deposit changes provide useful specificity, but the disclosure relies heavily on broad contingencies and management estimates, including potentially material adverse impacts on earnings and liquidity."
+}

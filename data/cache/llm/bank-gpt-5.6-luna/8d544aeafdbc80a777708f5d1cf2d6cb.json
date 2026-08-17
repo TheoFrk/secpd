@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "actual results could differ materially",
+    "no obligation to update",
+    "estimates believed reasonable",
+    "plans currently being explored"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on broad forward-looking disclaimers, limiting visibility into specific downside scenarios. Material risks include a history of losses, significant customer concentration with USF, potential dilution and complex derivative accounting, and reliance on unquantified estimates. Some exposures are quantified, but management provides limited analysis of liquidity, customer dependency, or the likelihood of planned initiatives succeeding."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to significant uncertainty",
+    "cannot reasonably predict the outcome",
+    "if any",
+    "could be significant",
+    "not have a material adverse effect"
+  ],
+  "risk_summary": "The disclosure is generally detailed, with quantified sales, acquisition, workforce, and earnings guidance, but relies on standard uncertainty language for litigation, regulatory actions, contingencies, and contractual obligations. Management presents a moderately confident outlook, forecasting organic sales growth, margin improvement, and EPS of $5.19 to $5.59, while acknowledging commodity, demand, currency, seasonal, and legal risks."
+}

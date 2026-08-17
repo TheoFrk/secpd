@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted with confidence",
+    "potential equity and debt offerings",
+    "expected to be refinanced at reasonable terms",
+    "should alleviate any substantial doubt",
+    "failure to do so could negatively impact future operations"
+  ],
+  "risk_summary": "The disclosure is materially quantified but presents meaningful liquidity risk, including historical working-capital shortages, negative operating and financing cash flows, reliance on refinancing and potential securities offerings, and limited cash balances. Management expresses confidence in continued operations and positive future cash flows, but these conclusions depend on refinancing, reimbursement increases, asset operations, and an expected tax credit that had not yet been received."
+}

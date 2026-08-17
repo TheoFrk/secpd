@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance sales will return to normal",
+    "forward-looking statements and assumptions",
+    "strategic personnel additions",
+    "NASDAQ deficiency and compliance extensions",
+    "truncated revenue recognition discussion"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on sales, financing, losses, warrants, and listing compliance, but presents meaningful operating and liquidity risks from COVID-19, recurring net losses, low equity, and reliance on equity financing. The duplicated NASDAQ language and incomplete revenue-recognition passage reduce clarity, while optimistic product claims are not consistently supported by quantified performance data."
+}

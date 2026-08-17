@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subjective estimates and judgments",
+    "could differ materially",
+    "other risks and uncertainties",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate around forward-looking statements and emphasizes that estimates, particularly the allowance for credit losses, are highly judgmental and may change materially. It provides meaningful quantitative portfolio and funding data, but the omitted/truncated passage limits assessment of potential provisions and actual credit deterioration. Overall tone is cautious and risk-aware rather than crisis-like."
+}

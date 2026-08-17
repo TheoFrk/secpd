@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management's judgment and estimates",
+    "actual results may differ",
+    "could result in material differences",
+    "reasonably possible adverse changes",
+    "repeated ASC 820 definitions"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard accounting-policy boilerplate and qualitative management judgments, with limited sensitivity analysis or quantified exposure for allowances, impairment, and Level 2/3 valuation assumptions. Liquidity improved through common-stock issuance, but the reported net loss, ongoing cash operating needs, and reliance on external financing indicate continuing funding risk."
+}

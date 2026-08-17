@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently imprecise",
+    "under different assumptions or conditions",
+    "subject to error and differences of interpretation",
+    "certain events",
+    "may not exceed the Full Cost Ceiling"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative disclosures, but highlights material estimation uncertainty around reserves, impairment, commodity prices, and operator-provided data. Cash flow was negative from operations and investing activities, with financing supported partly by equity issuance, indicating modest liquidity and funding risk."
+}

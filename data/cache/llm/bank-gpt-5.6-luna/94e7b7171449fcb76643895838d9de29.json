@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "partially offset by",
+    "very uncertain and difficult environment",
+    "defensive stance",
+    "estimated fair value"
+  ],
+  "risk_summary": "The excerpt clearly quantifies substantial deterioration, including an 11% sales decline, a 9% comparable-store sales decline, a $521 million operating-income reduction, and a $215 million La Senza impairment. Risk tone is materially negative, reflecting recessionary pressure, weaker traffic, promotions, margin compression, and impairment risk, although management emphasizes conservative actions and brand positioning. Several causal explanations are incomplete or boilerplate, particularly where extracted text ends with headings such as “primarily driven by” and “partially offset by.”"
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP efficiency ratio exclusions",
+    "based on management’s analysis",
+    "attractive markets",
+    "factors beyond the Company’s control",
+    "truncated supporting table"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting meaningful improvements in earnings, margins, asset balances, and expenses. Risk discussion is limited but acknowledges sensitivity to economic conditions, asset quality, charge-offs, and loan-loss provisions. Non-GAAP adjustments and some promotional language modestly reduce comparability and neutrality."
+}

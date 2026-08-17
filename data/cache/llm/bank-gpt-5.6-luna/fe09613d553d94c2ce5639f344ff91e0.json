@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "known and unknown risks and uncertainties",
+    "no obligation to update",
+    "ability to obtain financing",
+    "potential bankruptcies and downturns"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking-statement disclaimers and a broad, largely non-quantified list of contingencies, which limits predictive clarity. However, it also provides meaningful quantitative detail on portfolio size, capital raising, transactions, litigation, impairments, and debt exposure. The overall risk tone is moderately negative, reflecting financing, tenant, operator, litigation, impairment, and reimbursement risks, without indicating an immediate crisis."
+}

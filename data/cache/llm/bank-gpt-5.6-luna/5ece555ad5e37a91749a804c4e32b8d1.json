@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "timing, extent and impact ... uncertain",
+    "could be adversely affected",
+    "may not be sufficient",
+    "material portion of profitability"
+  ],
+  "risk_summary": "The disclosure presents generally strong operating performance but identifies meaningful exposure to NATO-related government sales, geopolitical and troop-deployment changes, fuel-price volatility, weather, coronavirus-related demand declines, and customer credit deterioration. Risk descriptions are largely qualitative and rely on broad conditional language, with limited quantification of potential financial impact. The excerpt also incorporates prior-period discussion by reference and contains some boilerplate forward-looking-risk language."
+}

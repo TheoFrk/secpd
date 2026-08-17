@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future pandemic impacts depend on severity and longevity",
+    "subject to regulatory approval",
+    "no deadline to issue a ruling",
+    "potential impacts and alternatives",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively informative, but contains substantial regulatory, operational, pandemic, financing, and environmental uncertainty. Risk disclosures are detailed yet rely on contingencies and pending agency or court actions, with the excerpt ending mid-discussion and therefore limiting completeness."
+}

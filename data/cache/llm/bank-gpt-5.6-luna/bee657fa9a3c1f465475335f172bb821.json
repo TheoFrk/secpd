@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve significant risks and uncertainties",
+    "may experience significant fluctuations",
+    "we believe",
+    "subjective or complex estimates",
+    "could cause actual results to differ materially"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, reporting sales, earnings, cash flow, debt repayment, repurchases, product counts, and operating metrics. Risk exposure includes demand and order volatility, supplier execution, acquisitions, vehicle-use trends, inventory and rebate estimates, and purchase-accounting judgments. Overall tone is constructive and growth-oriented, while standard forward-looking and estimation caveats temper confidence."
+}

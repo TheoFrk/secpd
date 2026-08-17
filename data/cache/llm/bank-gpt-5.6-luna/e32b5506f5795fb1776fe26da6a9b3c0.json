@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "various assumptions believed reasonable",
+    "probable recovery from customers",
+    "actual costs may differ",
+    "dependent upon several factors",
+    "future regulatory determinations"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified exposures, including the $240–$280 million SRL construction estimate and customer growth metrics. However, outcomes depend materially on regulatory approvals, cost recovery, actuarial assumptions, litigation, environmental remediation, and other uncertain estimates, with limited quantified sensitivity in the provided text. Overall tone is neutral to mildly confident because management emphasizes probable recovery and expected growth while acknowledging potential earnings charges if assumptions or regulatory decisions change."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.86,
+  "obfuscation_indicators": [
+    "reasonable assurance",
+    "designed to provide",
+    "defined in Rules 13a-15(f) and 15d-15(f)",
+    "in accordance with accounting principles",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is largely standardized internal-control boilerplate and provides no company-specific assessment, deficiencies, or quantified risk information. The phrase “reasonable assurance” inherently limits the strength of the control representation, while the truncated text prevents a complete evaluation."
+}

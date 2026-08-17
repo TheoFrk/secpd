@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "risks and uncertainties not exclusive",
+    "no obligation to update",
+    "could differ materially",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt combines quantified 2023 results and covenant compliance with extensive forward-looking and safe-harbor language that limits reliance on projections. Business outlook is cautiously positive, but demand sensitivity to agriculture, government spending, inflation, financing, climate, and acquisition execution creates meaningful uncertainty."
+}

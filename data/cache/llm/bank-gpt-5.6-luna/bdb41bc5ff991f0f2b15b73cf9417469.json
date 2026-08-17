@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "currently available information",
+    "cannot assure",
+    "unless otherwise required",
+    "unanticipated events"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantitative metrics, but includes extensive standard forward-looking-statement disclaimers and several non-quantified contingencies. Key risks include freight demand and pricing volatility, driver and third-party capacity shortages, fuel costs, self-insured claims, regulatory changes, customer failures, and substantial equipment funding needs."
+}

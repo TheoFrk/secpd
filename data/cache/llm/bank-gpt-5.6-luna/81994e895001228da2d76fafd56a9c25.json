@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "may not be able to execute our business plan",
+    "cannot assure financing will be available",
+    "net income driven by Bitcoin price decline",
+    "going concern assumption"
+  ],
+  "risk_summary": "The company has minimal operating history, only one Bitcoin-backed loan, substantial exposure to collateral volatility, and negative operating cash flow of $1.49 million. Reported net income was primarily driven by a fair value adjustment from declining Bitcoin prices rather than recurring operations, while continued operations depend on additional capital and successful execution of an unproven business plan."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "immaterial impact",
+    "primarily due to",
+    "we believe",
+    "strong increases",
+    "adjusted measures"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative supported by detailed sales, margin, tax, and earnings figures. Some causal explanations rely on qualified language and adjusted measures, while foreign exchange, weather, markdowns, and expansion execution remain relevant risk factors."
+}

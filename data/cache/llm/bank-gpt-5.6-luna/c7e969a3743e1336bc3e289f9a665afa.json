@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "believe existing cash will be sufficient",
+    "may be required to obtain more working capital",
+    "funding may not be available on acceptable terms",
+    "projections may differ from actual results"
+  ],
+  "risk_summary": "The disclosure is highly quantified and explains major year-over-year changes, but liquidity risk remains significant due to operating cash burn, dependence on financing, and explicit uncertainty regarding future funding. Management states that substantial doubt has been alleviated, yet continued operations depend on projections and access to potentially dilutive or unavailable capital."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "for an undetermined period of time",
+    "we believe positioned well",
+    "expect growth opportunities",
+    "subject to working capital adjustment"
+  ],
+  "risk_summary": "The excerpt combines specific acquisition costs, contingent consideration, and PPE sales with broadly positive, forward-looking growth assertions. Key risks include COVID-19 uncertainty, declining PPE demand, dependence on customer activity, acquisition integration, and debt acceleration upon default. The disclosure is moderately boilerplate and hedged, though generally balanced rather than crisis-like."
+}

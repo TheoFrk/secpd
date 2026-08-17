@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unable to estimate with certainty",
+    "additional funding may be unavailable",
+    "if approved ... commercial launch",
+    "risks and uncertainties beyond control"
+  ],
+  "risk_summary": "The excerpt is heavily precautionary and relies on extensive forward-looking-risk boilerplate, with limited quantified detail on clinical, regulatory, liquidity, and financing exposures. The company acknowledges substantial uncertainty around SUSTOL approval, development costs, commercialization, contractual obligations, and its ability to obtain funding."
+}

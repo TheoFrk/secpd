@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "acceptable alternative methods",
+    "reasonable",
+    "could change at any time",
+    "short-term forecasting",
+    "specified thresholds"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly for receivables, inventory reserves, warranty costs, percentage-of-completion revenue, taxes, and goodwill impairment. Key risks arise from management estimates, changing economic conditions, tax uncertainty, project cost estimates, and subordinated convertible debt terms, although the overall tone is stable and confident. The excerpt is highly technical and includes substantial boilerplate and a truncated transition that limits assessment of operating results."
+}

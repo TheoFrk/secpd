@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.25,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "expected to achieve",
+    "based on current forward strip prices",
+    "may take any of the following steps",
+    "items affecting comparability"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantitatively specific, but uses forward-looking assumptions around commodity prices, production, project timing, and liquidity. Risk tone is moderately negative due to COVID-19 impacts, a substantial net loss, impairments, and commodity-price volatility, although liquidity and major growth projects are presented with confidence."
+}

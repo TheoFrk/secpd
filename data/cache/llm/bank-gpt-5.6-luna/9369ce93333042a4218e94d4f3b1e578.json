@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "actual results could differ materially",
+    "based on available evidence",
+    "judgment regarding assumptions and estimates",
+    "softening in the seismic market"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, costs, margins, crew counts, and transaction ownership, but includes standard broad forward-looking disclaimers and estimate-related caveats. Operating risk is evident from declining revenue, weaker seismic demand, adverse weather, reduced or idled crews, and high cost of services. Overall tone is factual and moderately cautious rather than crisis-like."
+}

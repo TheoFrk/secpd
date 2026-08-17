@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "no assurances can be given",
+    "for the foreseeable future",
+    "contract delay and budgetary funding issues",
+    "additional capital is required"
+  ],
+  "risk_summary": "The excerpt is highly technical and repetitive, with extensive accounting-policy detail that can obscure the underlying business and liquidity risks. It discloses working-capital deterioration, contract delays, government funding uncertainty, collateral and customer-payment risks, and reliance on additional affiliated or investor financing. Management expresses confidence in near-term borrowing capacity but qualifies potential future funding with substantial uncertainty."
+}

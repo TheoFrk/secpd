@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "no obligation to update",
+    "actual results may differ significantly",
+    "appropriate and customary assumptions",
+    "cyclical demand fluctuations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and technical detail on revenue recognition, acquisitions, restructuring, pension accounting, and interest costs. Risk disclosure is balanced but includes material exposure to cyclical semiconductor demand, estimation uncertainty, contingent consideration, and standard forward-looking-statement disclaimers; the truncated text limits assessment of the full risk picture."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results may differ materially",
+    "highly uncertain estimates and assumptions",
+    "among other things",
+    "fair value of net assets acquired and goodwill"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, particularly regarding acquisitions, repurchases, CECL adoption, and income drivers. Risk is present through standard forward-looking disclaimers and material estimation uncertainty around credit losses, valuations, and goodwill, but the overall tone remains operationally stable and mildly confident."
+}

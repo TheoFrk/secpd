@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to leverage",
+    "depends on",
+    "may be reduced",
+    "not expected to increase significantly",
+    "expected to be between"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed segment sales, year-over-year changes, acquisition effects, leverage-related interest expense, and impairment history. Key risks include cyclical aerospace demand, dependence on government funding and aircraft production rates, competitive bidding, acquisition integration, and increased debt. The tone is cautiously optimistic but acknowledges meaningful market and execution uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "non-GAAP reconciliations",
+    "management estimates and assumptions",
+    "anticipated future taxable income",
+    "risk-adjusted earnout projections"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on segment mix, geography, accounting impacts, and projected clean-energy earnings, supporting relatively transparent disclosure. However, material reliance on forecasts, tax-credit assumptions, non-GAAP metrics, acquisition earnout projections, and standard forward-looking disclaimers introduces estimation and comparability risk. Overall tone is cautiously confident rather than crisis-like, with risks framed as manageable operational and market variables."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may differ materially",
+    "risks and uncertainties",
+    "no obligation to update",
+    "likely to be extended"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broadly enumerated risks, limiting specificity about potential adverse outcomes. Pandemic-related exposure is material, but the disclosure provides useful quantitative information on loan deferrals, PPP lending, portfolio composition, and commercial real estate concentration. The tone is cautious and moderately negative, balanced by management’s assertion that operational and control challenges had not been identified."
+}

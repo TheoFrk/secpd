@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "timing largely out of our hands",
+    "could potentially lead to substantial",
+    "other unforeseen circumstances",
+    "truncated litigation disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data and year-over-year comparisons, but relies on broad forward-looking language and unquantified expectations regarding new orders, product adoption, and future revenues. Risk is elevated by pandemic-related supply and labor disruptions, customer concentration, dependence on government and defense programs, and substantial adverse litigation damages. Overall tone is cautiously optimistic on growth and profitability but materially tempered by execution and legal uncertainties."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "material impact",
+    "subjective judgments and estimates",
+    "significant unanticipated changes in demand",
+    "limited CSSP engagements"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights declining revenue, a substantial net loss, lower CSSP margins, dependence on new product growth, and anticipated mature-product declines. Significant exposure exists to demand forecasting, inventory obsolescence, customer concentration, and execution risk during the transition to CSSPs. Boilerplate forward-looking disclaimers and repeated material-impact qualifiers temper the otherwise fairly transparent discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial amounts of capital",
+    "believes it will be able to secure",
+    "derecognition of other liabilities",
+    "convertible notes with steep discounts"
+  ],
+  "risk_summary": "The company reports worsening operating and net losses, minimal cash, substantial financing needs, and reliance on loans, equity issuance, and potentially dilutive convertible notes. Its forward-looking plans are broad and heavily qualified, with limited evidence supporting the ability to fund acquisitions and planned operations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "known and unknown risks",
+    "expect that sales will increase",
+    "primarily due to",
+    "material impact of inflation"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, with detailed revenue comparisons, unit counts, and comparable-store metrics. Risk tone is mildly positive due to revenue growth and expansion, but inflation and rising food, fuel, and labor costs are identified as materially pressuring results. Repetitive segment discussion and standard forward-looking disclaimers add some boilerplate and uncertainty."
+}

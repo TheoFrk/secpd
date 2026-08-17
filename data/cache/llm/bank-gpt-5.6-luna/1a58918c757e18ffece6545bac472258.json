@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "should allow us to",
+    "expected improvements",
+    "increasingly volatile power market",
+    "episodic cash generation"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on liquidity, financing, outages, production restructuring, and expected capital savings, but relies heavily on optimistic forward-looking assumptions about power prices, margins, capacity revenue, and industrial demand. Key risks include plant reliability, commodity-price volatility, episodic cash generation, dilution, leverage, and execution of the transition to an integrated power producer."
+}

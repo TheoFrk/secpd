@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict with certainty",
+    "subject to litigation",
+    "highly subjective assumptions",
+    "significant impact on bottom line",
+    "position shareholder value"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, costs, losses, debt-related items, warrants, and customer operations, but includes material uncertainty around regulatory litigation and highly subjective warrant valuations. Despite strong revenue growth and positive operating cash flow claims, the company reported a larger net loss, significant warrant-liability losses, customer utilization volatility, and reliance on favorable future tax-asset realization."
+}

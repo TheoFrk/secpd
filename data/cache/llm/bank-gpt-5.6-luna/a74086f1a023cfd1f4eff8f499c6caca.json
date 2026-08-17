@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact remains highly uncertain",
+    "severity or duration",
+    "may require several years",
+    "could be more likely",
+    "as further described above"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and liquidity detail, including revenue trends, cash, and revolver availability, but repeatedly relies on uncertainty language regarding COVID-19’s duration and financial effects. Negative signals include international revenue declines, recession exposure, potential impairment and restructuring charges, and references to a prior cybersecurity incident. Overall tone is cautious and risk-aware rather than crisis-like."
+}

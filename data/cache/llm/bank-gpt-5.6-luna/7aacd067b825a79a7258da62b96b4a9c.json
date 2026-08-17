@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures not directly comparable",
+    "items not indicative of ongoing operations",
+    "cannot predict exact timing or amounts",
+    "economic results exclude unrealized adjustments",
+    "believes provides greater transparency"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and strongly positive operating narrative, supported by quantified performance improvements, profitability, and strategic targets. Risk is partly obscured by extensive reliance on non-GAAP and economic measures, exclusion of acquisition and derivative-related costs, and limited comparability across companies. Ongoing AirTran integration charges, fuel-hedge accounting volatility, and forward-looking expense expectations remain material uncertainties."
+}

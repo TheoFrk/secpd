@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "not material to the consolidated financial statements",
+    "management judgment and assumptions",
+    "favorable changes in currency translation rates",
+    "future taxable income levels"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitative, with positive operating performance and improved margins, but sales weakness in construction markets, China-related conditions, currency effects, and economic sensitivity remain relevant risks. Use of adjusted measures and repeated materiality qualifiers may reduce visibility into unusual items, while impairment and tax estimates depend on significant management assumptions."
+}

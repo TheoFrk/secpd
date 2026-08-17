@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherently imprecise estimates",
+    "actual results may differ",
+    "subject to error and differences of interpretation",
+    "future development costs",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is highly technical and includes substantial quantified acquisition, cash flow, reserve, and accounting information, but relies on estimates and industry-specific assumptions. Key risks include reserve uncertainty, commodity-price sensitivity, full-cost ceiling impairment, joint-interest reporting errors, and execution risk from acquisitions and idle-well workovers. Overall tone is cautiously growth-oriented rather than crisis-like."
+}

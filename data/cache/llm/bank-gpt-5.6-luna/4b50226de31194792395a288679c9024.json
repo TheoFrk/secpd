@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unforeseen uncertainties and risks",
+    "may differ materially",
+    "strong strategic fit",
+    "difficulty in determining timing"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail and identifies key exposures including market volatility, currency movements, acquisitions, restructuring, pension costs, tax positions, and long-term contract estimates. Risk language is largely standard boilerplate, with some reliance on broad qualifiers and management judgment, but the overall tone remains cautiously confident and reports covenant compliance."
+}

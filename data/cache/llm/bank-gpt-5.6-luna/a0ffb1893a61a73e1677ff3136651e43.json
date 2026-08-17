@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonably possible",
+    "cannot predict",
+    "subject to further action",
+    "no required time frame",
+    "cross-appeals"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantifies regulatory disallowances, potential write-offs, and appeal-related exposures. Risk is primarily driven by uncertain regulatory outcomes, including possible additional pre-tax losses and a potential $155.6 million write-off, although management presents the appeals as reasonably likely to succeed."
+}

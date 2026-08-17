@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "uncertain timing of recovery",
+    "cannot accurately estimate impact",
+    "no assurance efforts will be successful",
+    "may continue to disrupt",
+    "foreseeable future"
+  ],
+  "risk_summary": "The excerpt identifies material concentration, supply-chain, currency, demand, and geopolitical risks, including quantified unfulfilled demand of approximately $20 million and substantial foreign-currency exposure in Robotics. Risk disclosures rely on repeated conditional language and acknowledge that impacts and recovery timing cannot be accurately predicted, although management presents mitigation efforts and a generally stable operating outlook."
+}

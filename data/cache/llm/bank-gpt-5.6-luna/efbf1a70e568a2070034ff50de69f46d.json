@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "no assurance",
+    "not meaningful",
+    "tables omitted or truncated"
+  ],
+  "risk_summary": "The disclosure is generally data-rich, providing segment revenue, income, margins, mix, and year-over-year changes, with an overall positive operating trend. Risk discussion is limited and largely boilerplate, relying on standard forward-looking disclaimers and a brief acknowledgment that customer-base and margin sustainability are not assured. The excerpt is complex and repetitive, and the truncated tables limit complete assessment of underlying drivers and exposures."
+}

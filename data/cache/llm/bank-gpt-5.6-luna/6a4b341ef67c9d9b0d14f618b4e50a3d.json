@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no firm assurances",
+    "not construed as exhaustive",
+    "disclaims any obligation",
+    "constant-currency non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt presents strong 2013 revenue and earnings growth with substantial quantitative detail, but includes extensive standard forward-looking disclaimers and a broad, non-exhaustive risk list. Key exposures include cyclical end markets, customer and supplier concentration, foreign exchange, product obsolescence, execution risks, litigation, impairment, tax liabilities, and cybersecurity disruptions."
+}

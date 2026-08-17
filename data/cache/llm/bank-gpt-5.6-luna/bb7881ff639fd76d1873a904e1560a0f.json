@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP EBITDA and EBIT measures",
+    "ongoing operations exclusions",
+    "primarily due to",
+    "pass-through lag and cost mismatches",
+    "goodwill impairment and plant shutdown items"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with segment results, margins, cash-related metrics, and year-over-year drivers provided. Risk tone is cautiously positive because profitability and EBITDA improved materially, but low net income, goodwill impairments, restructuring items, cost pass-through effects, and dependence on temporary customer restocking indicate continuing earnings risk."
+}

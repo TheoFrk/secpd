@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we believe",
+    "can be impacted by several factors",
+    "including but not limited to",
+    "other key metrics",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, reporting revenue, earnings, EBITDA, operating cash flow, and liquidity figures, while acknowledging segment-specific pressure from lower oil pricing, volatility, regulation, competition, and variable-rate debt. Risk is moderated by positive operating cash flow, improved adjusted free cash flow, diversified operations, and stated access to revolving credit, although reliance on non-GAAP measures and broad lists of potential drivers warrants monitoring."
+}

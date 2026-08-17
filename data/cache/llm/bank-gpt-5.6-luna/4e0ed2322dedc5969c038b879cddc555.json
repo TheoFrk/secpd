@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "we expect",
+    "we believe",
+    "non-GAAP adjusted results",
+    "optimistic that we will reach agreement"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, including integration progress, earnings changes, cost drivers, capital returns, and revenue targets. The tone is predominantly confident and promotional, but risks include declining pretax income, higher fuel and operating costs, ongoing labor negotiations, merger execution, and aviation-related loss. Forward-looking expectations and adjusted non-GAAP measures warrant attention when assessing downside exposure."
+}

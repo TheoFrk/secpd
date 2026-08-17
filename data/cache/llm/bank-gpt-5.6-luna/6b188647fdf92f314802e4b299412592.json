@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "factors currently unable to identify or quantify",
+    "decline any obligation to update",
+    "sufficient liquidity for the next 12 months",
+    "additional debt financing and/or capital"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year operating and liquidity data, but includes extensive standard forward-looking disclaimers and acknowledges risks that may be unidentified or unquantified. Financial risk remains elevated due to operating losses, reliance on debt financing, customer budget limitations, prior liquidity dependence on a revolver, and potential dilution from future financing. Reported net income was modest and significantly influenced by gains on asset and business sales rather than core operating performance."
+}

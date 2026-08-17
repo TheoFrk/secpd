@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "we believe",
+    "future operating cash flows will be sufficient",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified revenue, earnings, EBITDA, and cash-flow growth, with a generally confident operating and liquidity outlook. Risk disclosure is broad and largely boilerplate, emphasizing macroeconomic, commodity, regulatory, weather, competition, integration, and interest-rate sensitivities without quantifying their potential impact. Reliance on Adjusted EBITDA and adjusted free cash flow adds some comparability and disclosure risk despite referenced reconciliations."
+}

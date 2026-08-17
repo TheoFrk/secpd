@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance of financing",
+    "substantial doubt about going concern",
+    "forward-looking statement disclaimer",
+    "nonrecurring tax liability gain",
+    "unquantifiable penalties"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and solvency risk, including exhausted cash, a $13.6 million working capital deficit, $105.0 million accumulated deficit, substantial payroll-tax liabilities, and explicit going-concern doubt. Reported net income was driven largely by a $2.26 million gain from expired payroll-tax liabilities rather than recurring operations, while future financing and customer orders remain uncertain. Extensive boilerplate and forward-looking disclaimers somewhat dilute the otherwise clearly negative risk profile."
+}

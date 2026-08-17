@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "management estimates and judgments",
+    "actual results may differ materially",
+    "qualitative impairment assessment",
+    "truncated disclosure and cross-references"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily reliant on standard caveats, estimates, assumptions, and cross-references rather than providing quantified sensitivity analysis. Key risks include inventory obsolescence, asset and goodwill impairment, legal contingencies, tax realization, lease obligations, and purchase commitments, although the company reports covenant compliance and no outstanding revolver borrowings."
+}

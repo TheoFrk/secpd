@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance of additional capital",
+    "backlog not assurance of sales or profit",
+    "highly cyclical and volatile industry",
+    "evaluating business continuity and resiliency"
+  ],
+  "risk_summary": "The disclosure is generally substantive and includes quantified revenue, cash flow, backlog concentration, and liquidity data, but it also contains standard forward-looking disclaimers and limitations on backlog visibility. Risk tone is moderately cautious due to declining revenue, cyclical demand, order volatility, customer concentration, project cancellation, and reliance on future capital availability. Liquidity appears adequate for at least twelve months based on management’s representation, though the excerpt does not provide complete financial tables or detailed downside scenarios."
+}

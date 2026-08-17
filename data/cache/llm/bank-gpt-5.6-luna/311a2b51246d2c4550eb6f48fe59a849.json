@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily attributable to",
+    "partially offset by",
+    "intended to help us drive",
+    "sufficient to provide necessary capital resources"
+  ],
+  "risk_summary": "The disclosure is generally transparent and strongly quantified, reporting sales, earnings, margins, working capital, cash flows, and segment performance. The tone is moderately confident, although weak organic growth, declining residential and international sales, seasonality, currency exposure, and reliance on financing arrangements present identifiable risks. Boilerplate forward-looking language and repeated explanations of results modestly reduce precision but do not appear materially evasive."
+}

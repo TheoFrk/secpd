@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "well-positioned",
+    "no assurance",
+    "attempt to mitigate",
+    "strategically located"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides meaningful detail on operations, commodity derivatives, acquisition funding, borrowings, and profitability. Risk tone is generally confident and favorable, but promotional claims and hedged language obscure uncertainty around commodity prices, demand, competition, and acquisition-related leverage. The excerpt is truncated, limiting assessment of the complete risk discussion."
+}

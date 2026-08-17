@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.37,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may/could/expect hedging",
+    "no obligation to update",
+    "uncertain COVID-19 effects",
+    "repeated strategic messaging"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward forward-looking, promotional, and boilerplate language, with extensive reliance on qualifiers and legal disclaimers. It identifies meaningful execution, integration, business-model transition, macroeconomic, and COVID-19 risks, but provides limited quantified downside analysis in the supplied section. Overall tone is cautiously optimistic rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "beyond the Company’s control",
+    "materially from anticipated or projected",
+    "considerable judgment and estimation uncertainty",
+    "qualitative evaluation requiring managerial judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial data and identifies key estimation risks, particularly allowance for credit losses, acquired-loan fair values, and goodwill impairment. However, extensive boilerplate disclaimers and reliance on subjective forecasts and management judgment reduce transparency around downside sensitivity. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

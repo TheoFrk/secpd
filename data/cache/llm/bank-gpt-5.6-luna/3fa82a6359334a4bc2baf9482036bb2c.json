@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "orders subject to cancellation or delay",
+    "not necessarily representative of actual sales",
+    "significant judgment and uncertainties",
+    "could result in further write-downs"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, with detailed revenue, backlog, margin, and acquisition data, but includes standard forward-looking and accounting-discretionary caveats. Risk tone is mixed: strong growth and acquisition benefits are offset by cyclical end markets, historical solar supply-demand imbalance, customer concentration, backlog uncertainty, revenue-timing sensitivity, and potential inventory write-downs."
+}

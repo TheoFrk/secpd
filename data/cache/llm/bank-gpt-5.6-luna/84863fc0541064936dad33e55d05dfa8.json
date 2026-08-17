@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "no assurance can be given",
+    "subject to risks and assumptions",
+    "inability to issue additional shares"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate forward-looking disclaimers and repeats materiality warnings, limiting specificity about future performance. It identifies substantial risks, including COVID-related disruption, customer attrition, financing constraints, litigation, covenant compliance, and delayed ERC receipts, although it also cites quantified revenue and working-capital impacts and expresses cautious optimism about recovery."
+}

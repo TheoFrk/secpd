@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "future operations not indicative",
+    "pursuing deleveraging efforts over time",
+    "subjective assessments",
+    "actual results could materially differ",
+    "additional impairment charges"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on portfolio scale, transactions, earnings, gains, and impairment charges, but relies on broad strategic language and judgment-based estimates. Key risks include potential additional impairments, asset valuation uncertainty, collectability, leverage reduction execution, and dependence on assumptions about useful lives and market conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "generally",
+    "principally reflects",
+    "inherently uncertain",
+    "could differ from estimates",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is information-dense and largely factual, with extensive acquisition and accounting-policy boilerplate. It identifies estimation risk in revenue recognition, receivables, inventory, taxes, and contract profitability, but provides limited quantified sensitivity analysis. The tone is modestly positive due to reported record net income and claims that inflationary effects were generally minimized."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "reasonable likelihood",
+    "subject to change",
+    "could be material",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt provides several quantified sensitivity analyses and detailed accounting-policy explanations, supporting relatively transparent disclosure. However, it relies extensively on standardized estimates-and-assumptions language and highlights potential material adverse effects from sales returns, doubtful accounts, inventory obsolescence, and impairment risks. Overall tone is neutral to mildly negative, with operational and estimation risks acknowledged but generally characterized as manageable."
+}

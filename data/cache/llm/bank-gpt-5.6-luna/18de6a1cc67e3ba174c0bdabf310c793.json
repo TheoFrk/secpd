@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "non-U.S. GAAP adjustments",
+    "permanently reinvested foreign earnings",
+    "impracticable to estimate tax costs",
+    "cannot predict pandemic impact"
+  ],
+  "risk_summary": "The excerpt presents strong operations, liquidity, and continued facility activity, with quantified working-capital and debt information supporting a generally confident tone. Risk disclosure relies substantially on standard forward-looking and COVID-19 uncertainty language, while adjusted measures and indefinite reinvestment assertions introduce comparability and potential tax-liability opacity."
+}

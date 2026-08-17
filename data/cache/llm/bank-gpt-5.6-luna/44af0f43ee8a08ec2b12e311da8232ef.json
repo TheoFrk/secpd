@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could adversely affect",
+    "subject to market conditions",
+    "to date, no material adverse impact",
+    "as appropriate",
+    "if these efforts are not effective"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, covering customer credit exposure, commodity costs, capital commitments, transition expenses, acquisitions, and tax impacts. Risk tone is cautious but not crisis-like, with meaningful reliance on conditional language regarding economic deterioration, pricing pressure, customer payment ability, and cost pass-through. The excerpt is moderately complex due to lengthy sentences, extensive business detail, and accounting and financing terminology."
+}

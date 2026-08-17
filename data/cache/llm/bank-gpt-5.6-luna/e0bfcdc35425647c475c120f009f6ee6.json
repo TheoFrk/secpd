@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to numerous assumptions, risks and uncertainties",
+    "including, but not limited to",
+    "actual results may differ materially",
+    "balances can fluctuate widely",
+    "does not have a material effect"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and supports a positive risk tone, citing higher earnings, strong liquidity, low charge-offs, and stable asset quality. However, extensive forward-looking disclaimer language is boilerplate, and the provision increase, slight deterioration in nonperforming assets, acquisition execution, and substantial goodwill introduce notable risks."
+}

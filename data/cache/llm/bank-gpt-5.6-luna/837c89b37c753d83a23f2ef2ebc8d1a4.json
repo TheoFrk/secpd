@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.22,
+  "risk_sentiment": 0.02,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to external pages",
+    "boilerplate section heading",
+    "no substantive financial detail"
+  ],
+  "risk_summary": "The excerpt is purely a cross-reference and provides no quantitative information about financial condition, operating results, or risks. Its boilerplate structure limits standalone transparency and prevents meaningful assessment of underlying credit risk."
+}

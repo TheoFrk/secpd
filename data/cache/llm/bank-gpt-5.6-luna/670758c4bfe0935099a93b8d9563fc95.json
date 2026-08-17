@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various other factors",
+    "deemed necessary",
+    "actual results could differ",
+    "not material",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is largely technical, GAAP-oriented disclosure with substantial quantified operational detail, but it relies on standard estimation caveats and materiality assertions. Key risk areas include inventory impairment, construction-cost estimates, sales incentives, guarantees, and exposure to housing-market conditions, although the tone is generally controlled rather than crisis-like."
+}

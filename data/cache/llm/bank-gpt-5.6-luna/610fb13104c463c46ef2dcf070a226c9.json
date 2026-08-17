@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "highly uncertain estimates and assumptions",
+    "material impact on financial statements",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively detailed, with substantial discussion of acquisitions, repurchases, CECL adoption, and expense trends. Risk disclosure is mostly standard and boilerplate, while the $141.92 million goodwill component of the TB&T acquisition and reliance on uncertain credit-loss estimates represent notable risk areas."
+}

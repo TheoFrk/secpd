@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.23,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP organic sales adjustments",
+    "approximately 5% growth projection",
+    "expected EPS range",
+    "ample capacity assertion",
+    "extensive platform and product listings"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial operational and segment detail, with a generally confident outlook supported by revenue, margin, cash flow, and acquisition figures. Risk disclosure is present mainly through macroeconomic, foreign-exchange, acquisition, and restructuring references, but management emphasizes positive trends and capacity. Non-GAAP measures and adjusted results require reconciliation and may make underlying performance less directly comparable."
+}

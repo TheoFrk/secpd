@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "should be read in conjunction with",
+    "we expect this growth to be partly offset",
+    "based on historical experience and apply judgment",
+    "does not meet quantitative or qualitative thresholds",
+    "most predictive approach"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including installed-base trends, revenue mix, segment definitions, and sensitivity to rebate estimates. Risk tone is cautiously positive, though reliance on forecasts, customer commitments, allocation judgments, and variable consideration creates execution and revenue-recognition risk. Dense technical accounting language and extensive cross-referencing reduce accessibility but do not appear strongly evasive."
+}

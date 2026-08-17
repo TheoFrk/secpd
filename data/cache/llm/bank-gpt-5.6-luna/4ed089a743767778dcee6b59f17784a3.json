@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "historically has been able to",
+    "attempt to ensure the success",
+    "believed to be reasonable",
+    "cautionary statement",
+    "except for lease commitments"
+  ],
+  "risk_summary": "The excerpt is generally constructive and provides substantial quantified sales and operating metrics, with no evident crisis language. However, it contains considerable standard MD&A boilerplate, relies on broad forward-looking or judgment-based statements, and is truncated before completing the discussion of estimates and risks."
+}

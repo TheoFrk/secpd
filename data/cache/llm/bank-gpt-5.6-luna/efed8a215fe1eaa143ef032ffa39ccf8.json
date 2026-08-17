@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict with certainty",
+    "could extend uncertainty",
+    "expect our business to grow substantially",
+    "primarily due to",
+    "non-GAAP measure limitations"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but presents significant operating deterioration, including a sharp revenue decline, lower gross margin, and increased net loss. Regulatory uncertainty surrounding MATS and customer plant closures or lower utilization create material business risks, while the stated growth outlook is comparatively unsupported. Extensive legal and non-GAAP boilerplate adds complexity and partially tempers the clarity of the risk presentation."
+}

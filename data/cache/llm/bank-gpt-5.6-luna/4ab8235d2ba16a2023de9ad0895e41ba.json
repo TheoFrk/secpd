@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "timing may be subject to change",
+    "primarily due to",
+    "labor availability constraints",
+    "inconsistent liquidity unit disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantified and operationally specific, but highlights meaningful pressure from pilot availability constraints, lower fleet utilization, declining revenue and sharply lower net income. Liquidity appears adequate based on the stated figures, although the reported \"$835.2 billion\" cash balance is likely a material unit error and warrants verification."
+}

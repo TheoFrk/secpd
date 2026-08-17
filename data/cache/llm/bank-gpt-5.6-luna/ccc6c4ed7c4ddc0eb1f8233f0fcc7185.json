@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "challenging market conditions",
+    "significant judgment",
+    "preliminary assessment"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, clearly documenting substantial revenue, pricing, gross-margin, and utilization deterioration in 2019. Key risks include memory-market supply-demand imbalance, customer inventory corrections, CPU shortages, IMFT underutilization, and reliance on assumptions for contingencies and impairment assessments. The tone is factual but materially risk-negative, with some mitigating operational execution and cost-reduction claims."
+}

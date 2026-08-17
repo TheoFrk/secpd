@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance that goals will be achieved",
+    "appropriate level determined using accounting estimates",
+    "results would vary",
+    "rate ramp analysis",
+    "Cautionary Statement Regarding Forward Looking Statements"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, reporting earnings, balance-sheet growth, asset quality, capital ratios, and interest-rate exposures. The tone is generally positive and confident, although risks include rising nonaccrual and past-due loans, reliance on brokered deposits, and a liability-sensitive repricing gap. Forward-looking goals and model-based rate analysis include standard limitations and uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "generally and typically",
+    "estimated life of the contract",
+    "management’s estimate of realizability",
+    "no assurance appropriate opportunities",
+    "difficult to predict future results"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful quantitative liquidity and impairment information, but relies frequently on broad qualifiers and management estimates. Liquidity and operating cash flow trends are presented positively, while investment valuation, revenue-recognition judgments, and future operating uncertainty remain material risks."
+}

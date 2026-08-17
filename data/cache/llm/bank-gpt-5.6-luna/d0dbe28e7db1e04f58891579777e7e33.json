@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted net earnings",
+    "excluding acquisition-related costs",
+    "subject to refinement",
+    "inherently uncertain",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding sales growth, segment performance, acquisitions, currency effects, and margins. Risk is moderated by strong reported growth, but GAAP earnings declines, reliance on acquisitions and non-GAAP adjustments, foreign-currency pressure, delayed orders, and uncertain fair-value assumptions present meaningful credit-relevant considerations."
+}

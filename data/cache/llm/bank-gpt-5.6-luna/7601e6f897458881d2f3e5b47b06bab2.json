@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurances on future orders",
+    "could adversely affect",
+    "customary adjustments and closing conditions",
+    "forward-looking statements and risks",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on government exposure, budgets, acquisitions, impairment charges, and operating performance, but relies on standard forward-looking disclaimers and conditional language regarding demand, costs, supply chains, and transaction closures. Risk tone is mixed: strategic demand and acquisition opportunities are presented positively, while customer concentration, budget sensitivity, inflation, fixed-price contract exposure, goodwill impairments, and execution risks remain material."
+}

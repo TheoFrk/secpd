@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "largely due to",
+    "primarily due to",
+    "expected to",
+    "net of",
+    "unfavorable impact"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, detailing revenue drivers, restructuring charges, tax effects, cash flow, debt, and segment performance. Risk factors include declining margins in selected segments, substantial restructuring and acquisition-related charges, lower Finance receivables, and increased debt, although the overall tone remains cautiously constructive due to cash generation and strategic investment."
+}

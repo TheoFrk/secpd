@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "actual results may differ materially",
+    "highly subjective assumptions",
+    "no obligation to update",
+    "fair value and recoverability estimates"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and forward-looking-statement boilerplate, with extensive legal qualifications that dilute the specific risk discussion. It identifies material estimation risk in property valuation, lease assumptions, impairment testing, and an $82.4 million financing receivable, but reports no current impairment indicators. Overall, the tone is cautious and risk-aware rather than crisis-like."
+}

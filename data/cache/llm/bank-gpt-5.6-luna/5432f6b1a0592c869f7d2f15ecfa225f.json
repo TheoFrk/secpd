@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance estimates will be achieved",
+    "not independently assessed or verified",
+    "estimates and assumptions",
+    "could have a material and adverse effect",
+    "other relevant information"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, but relies heavily on third-party operator estimates and unverified reserve, production, and recovery assumptions. Commodity-price volatility, potential production shortfalls, and impairment risk are clearly acknowledged, producing a mildly cautious risk tone."
+}

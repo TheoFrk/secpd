@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks, uncertainties and other factors",
+    "generally less than 30 days",
+    "typically charge a fee",
+    "results of ... acquired stores consolidated"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively detailed, covering store counts, loan sizes, terms, fees, margins, acquisitions, and allowance percentages. It presents strong growth and expansion, but the business carries elevated consumer-credit, regulatory, underwriting, inventory-valuation, and integration risks. The forward-looking disclaimer and recurring qualifiers modestly temper an otherwise positive operating tone."
+}

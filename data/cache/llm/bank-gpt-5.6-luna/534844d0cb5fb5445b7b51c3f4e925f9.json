@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "certain risks and uncertainties",
+    "management’s discretion",
+    "not limited to",
+    "expected cash flows",
+    "unless otherwise noted"
+  ],
+  "risk_summary": "The excerpt is technically dense and includes substantial boilerplate, but it provides extensive quantified acquisition, funding, loan, and income details. Risk is presented in a generally routine and moderately confident tone, with uncertainty concentrated in accounting estimates, expected cash flows, and forward-looking statements."
+}

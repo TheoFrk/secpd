@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "potential improvement",
+    "conditions are uncertain",
+    "could impact recoverability",
+    "most remaining charges"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, including operating declines, restructuring charges, workforce reductions, expected savings, and impairment sensitivity. Risk tone is moderately negative due to broad capital-spending declines, pricing pressure, currency effects, deferred customer spending, and deterioration in reporting-unit performance. Management offsets this with operational initiatives and quantified targets, but relies on forecasts and conditional language regarding recovery and asset recoverability."
+}

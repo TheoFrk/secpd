@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management’s judgment and estimates",
+    "actual results could differ significantly",
+    "variety of factors",
+    "subjective and qualitative factors",
+    "designed to mitigate risks"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on earnings, portfolio composition, repricing exposure, bookings, securities, and residual values. However, it relies heavily on management judgment and broad caveats regarding credit losses, fair value, residual realizability, taxes, and interest-rate sensitivity, with limited quantified downside scenarios. Overall tone is neutral to mildly confident, while highlighting material exposure to credit, market, and estimation risk."
+}

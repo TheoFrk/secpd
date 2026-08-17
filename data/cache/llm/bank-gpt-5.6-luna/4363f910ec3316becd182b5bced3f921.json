@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "reasonably likely",
+    "certain operating expenses allocated",
+    "cash flows may fluctuate",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides useful quantified metrics, but includes substantial boilerplate and extensive product-segment descriptions that dilute focus on financial risk. Revenue declined 13%, gross margin compressed, operating cash flow fell by $63.3 million, and results included a $59.8 million business-sale loss and $43.2 million of restructuring expense. Liquidity is described in general terms, with sensitivity to working capital, capital expenditures, debt payments, and other factors."
+}

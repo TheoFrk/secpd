@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "based on information available to management",
+    "when management believes",
+    "more likely than not",
+    "material effect on financial condition"
+  ],
+  "risk_summary": "The excerpt is highly technical and largely precise, with extensive accounting-policy detail and quantified balance-sheet and yield information. Credit and valuation risk remain dependent on subjective management judgments, estimated cash flows, collateral values, and impairment assessments, while key loss outcomes are not quantified in the provided section."
+}

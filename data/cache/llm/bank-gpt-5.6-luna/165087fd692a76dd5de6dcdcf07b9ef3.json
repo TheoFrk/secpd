@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "uncertain macroeconomic environment",
+    "expected to",
+    "largely offset",
+    "well positioned"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and favorable performance narrative, supported by extensive quantitative disclosures on earnings, cash flow, debt, and operating drivers. Key risks include declining pricing and volumes, pulp and export price pressure, foreign exchange exposure, maintenance costs, inflation, and macroeconomic uncertainty. Forward-looking statements rely on management expectations and contain moderate hedging, while repeated non-GAAP emphasis may frame results more favorably than GAAP measures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to change",
+    "significant unanticipated changes in demand",
+    "material impact",
+    "continually evaluate our liquidity needs"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but presents meaningful operating and financial risks, including a $12.3 million net loss, dependence on new CSSP products and limited customer engagements, declining mature-product revenue, and potential inventory obsolescence. Liquidity appears constrained but currently supported by covenant compliance and available financing. Extensive technical jargon, qualifications, and boilerplate risk language reduce readability and may obscure the underlying execution and demand risks."
+}

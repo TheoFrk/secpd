@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to significant fluctuations",
+    "complex, uncertain and subject to change",
+    "may affect",
+    "success ... may be influenced",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is comparatively transparent and well quantified, particularly regarding AUM changes, market appreciation, acquisitions, inflows, and outflows. It uses standard forward-looking and regulatory boilerplate, while acknowledging meaningful exposure to market conditions, regulatory complexity, uncertainty, and substantial long-term outflows at Western Asset Management. Overall tone is cautiously constructive rather than crisis-like, supported by positive markets and AUM growth but moderated by reliance on market appreciation and acquisition-driven expansion."
+}

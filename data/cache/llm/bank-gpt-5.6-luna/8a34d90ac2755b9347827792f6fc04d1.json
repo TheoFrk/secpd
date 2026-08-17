@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance funding available",
+    "may be required to supplement cash",
+    "actively seeking acquisition candidates",
+    "no commitments for financing",
+    "revenue contingent on acquisition"
+  ],
+  "risk_summary": "The registrant has no operations or revenue and depends on affiliate or director funding to meet filing and operating obligations. Its acquisition strategy requires additional financing for which there are no commitments, creating substantial liquidity and execution risk."
+}

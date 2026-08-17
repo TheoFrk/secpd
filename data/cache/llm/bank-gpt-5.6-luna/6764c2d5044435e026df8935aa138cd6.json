@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes allowance is adequate",
+    "actual results could differ",
+    "reasonable and supportable forecasts",
+    "no intent to sell at a loss",
+    "potential weaknesses"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantitatively supported, but relies substantially on management judgment, forecasts, qualitative overlays, and assumptions that could materially affect credit-loss and valuation estimates. Net income declined and the company reports a sizable unrealized securities loss, although it presents portfolio diversification, reserve stability, and no current impairment concerns as mitigating factors."
+}

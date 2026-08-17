@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect growth to be partly offset",
+    "best estimates",
+    "there can be no assurance",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational detail and quantified installed-base data, but relies heavily on forward-looking strategic claims and management assumptions. Key disclosed risks involve execution of product upgrades, customer utilization, competitive differentiation, and goodwill valuation based on forecasted cash flows, growth rates, and discount rates."
+}

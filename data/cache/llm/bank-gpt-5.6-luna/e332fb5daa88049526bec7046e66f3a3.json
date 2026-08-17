@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "including but not limited to",
+    "variety of factors",
+    "believe ... superior",
+    "may fluctuate in future periods"
+  ],
+  "risk_summary": "The excerpt provides some useful quantitative disclosures, including cash balances and cash-flow changes, but relies heavily on standard forward-looking disclaimers and broad lists of potential macroeconomic, supply-chain, demand, and execution risks. Management uses confident promotional language regarding CableOS and growth prospects, while operating cash flow declined and future liquidity and demand remain sensitive to uncertain conditions."
+}

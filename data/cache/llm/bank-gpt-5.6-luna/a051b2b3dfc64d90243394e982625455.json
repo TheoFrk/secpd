@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "not undertaking any obligation to update",
+    "magnitude of the impact will be influenced by various factors",
+    "may adversely impact",
+    "for the possible effects of such changes"
+  ],
+  "risk_summary": "The excerpt presents strong 2021 financial performance with substantial improvements in net income and incurred losses, while explicitly identifying COVID-19, housing conditions, interest rates, competition, pricing pressure, and credit risk as potential adverse factors. Disclosure is generally quantified and informative, but includes standard forward-looking disclaimers and conditional language that limit reliance on projections."
+}

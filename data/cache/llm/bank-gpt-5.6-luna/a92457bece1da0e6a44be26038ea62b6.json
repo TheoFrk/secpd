@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.56,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "anticipated deliveries may be subject to change",
+    "significant reductions to flight schedules",
+    "uncertain due to ExpressJet ceasing operations",
+    "partially offset by",
+    "forward-looking statements and uncertainties"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains the COVID-19-driven deterioration, including a 28.4% revenue decline, net loss, reduced flight activity, deferred revenue, and increased credit-loss reserves. Risk is elevated due to pandemic-related demand weakness, airline-partner concentration, fleet-utilization uncertainty, and counterparty credit exposure, although the excerpt provides reasonably specific operating metrics and causal explanations."
+}

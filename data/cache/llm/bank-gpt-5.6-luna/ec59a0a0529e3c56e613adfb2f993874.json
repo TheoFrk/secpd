@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "at this time",
+    "we currently anticipate",
+    "could have an adverse impact",
+    "pending a recovery",
+    "greater than we anticipated"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with quantified revenue changes, debt capacity, impairment charges, and segment impacts. Risk is concentrated in Aviation, including reduced demand, delayed receivables, higher bad debt expense, covenant sensitivity, and potential further impairment, although management emphasizes liquidity and resilience in Fleet and Federal and Defense."
+}

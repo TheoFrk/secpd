@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "beliefs and assumptions believed reasonable",
+    "additional allowances may be required",
+    "management currently evaluating impact"
+  ],
+  "risk_summary": "The excerpt is largely standardized MD&A, accounting-policy, and safe-harbor language rather than a quantified discussion of operating or financial risks. It identifies estimation uncertainty around receivables, inventory, revenue recognition, and stock-based compensation, but provides limited sensitivity analysis or numerical exposure. The tone is neutral to mildly confident, with material risks qualified through broad boilerplate disclosures."
+}

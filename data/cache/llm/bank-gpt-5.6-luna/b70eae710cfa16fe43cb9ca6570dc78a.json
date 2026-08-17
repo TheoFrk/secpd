@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "outside of our control",
+    "could continue to create pricing pressure",
+    "ongoing uncertainties",
+    "highly volatile and subject to wide fluctuation"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, particularly regarding egg prices, feed costs, production mix, cash flow, and debt. It highlights substantial exposure to commodity volatility, oversupply, seasonality, avian influenza, weather, and trade uncertainties, with a mildly negative risk tone. Boilerplate cross-references and extensive operational detail modestly increase complexity but do not appear materially evasive."
+}

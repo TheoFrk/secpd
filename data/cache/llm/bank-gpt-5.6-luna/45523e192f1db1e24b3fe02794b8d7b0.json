@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "estimated distributor inventories",
+    "organic change",
+    "non-comparable periods",
+    "supply chain disruptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed definitions and reconciliations for non-GAAP measures. However, extensive adjustments for acquisitions, divestitures, foreign exchange, impairments, foundation contributions, and distributor inventories can complicate comparability and may present performance more favorably. The operating tone is moderately positive, though supply chain disruptions, foreign exchange effects, and brand impairment represent notable risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "may be necessary in the future",
+    "could materially affect",
+    "not been discovered or asserted",
+    "beyond those presently anticipated"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantified operating and financial metrics. Risk language is concentrated in standard environmental, seasonality, and competitive-pressure contingencies, including potentially substantial unquantified remediation costs and liabilities."
+}

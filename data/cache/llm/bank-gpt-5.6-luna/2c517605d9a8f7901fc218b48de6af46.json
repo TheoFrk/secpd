@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted operating income",
+    "net of divestitures",
+    "productivity improvements",
+    "customary closing conditions",
+    "favorable effects of currency translation"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, but relies on adjusted metrics and extensive acquisition, divestiture, tax-credit, and currency explanations that complicate interpretation. Key risks include foreign-exchange headwinds, integration and financing demands from acquisitions, and dependence on discrete tax benefits and restructuring-related items."
+}

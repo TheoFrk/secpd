@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "partially offset by",
+    "management believes",
+    "expects to access",
+    "excluding exploration expenses"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed reconciliations, but uses layered causal language and offsets that can obscure the relative importance of adverse factors. Key risks include lower commodity prices, declining consolidated income, higher interest and depletion expense, significant debt issuance, exploratory impairment, and dependence on drilling results and reserve estimates."
+}

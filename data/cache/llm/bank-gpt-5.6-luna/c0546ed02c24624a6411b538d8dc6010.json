@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "acceptable alternative methods",
+    "others might reach different conclusions",
+    "could change at any time",
+    "qualitative assessment",
+    "future outlook"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including receivable allowances, inventory reserves, tax rates, contract revenue, debt, and covenant thresholds. Key risks include estimation uncertainty, increased leverage, goodwill impairment sensitivity, tax rule changes, and significant unfinished project-based revenue. The overall tone is measured and generally confident, although the excerpt is truncated and relies on standard accounting-risk language."
+}

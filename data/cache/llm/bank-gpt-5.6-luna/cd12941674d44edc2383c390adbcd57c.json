@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective assumptions and estimates",
+    "as necessary",
+    "to the extent probable",
+    "expected results",
+    "controlling financial interest"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative sensitivity disclosures, particularly for pension assumptions, but relies on management estimates and judgment in revenue recognition, incentive fees, joint ventures, and valuation. The tone is largely neutral and procedural rather than crisis-like, with embedded risks related to contract profitability, audits, claims, variable consideration, and actuarial assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "impact is uncertain",
+    "may significantly decrease our profits",
+    "cannot be certain",
+    "various factors, including but not limited to",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with quantified sales mix, savings, debt issuance, interest, tax, and profitability data, but contains substantial standard forward-looking caveats. Risk exposure is meaningful due to COVID-19 uncertainty, China-centered sourcing, logistics costs, cybersecurity vulnerabilities, and debt refinancing, although the tone is modestly improved by the return to profitability and reported cost savings."
+}

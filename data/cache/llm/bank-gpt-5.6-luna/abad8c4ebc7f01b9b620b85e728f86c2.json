@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of continued operations",
+    "dependent on additional capital",
+    "interim capital financing",
+    "gains on debt forgiveness",
+    "no formal lending commitments"
+  ],
+  "risk_summary": "The company has no operating revenue, negative operating cash flow, minimal cash, and relies on equity issuance, related-party financing, debt forgiveness, and asset or litigation proceeds. Reported 2013 income is largely nonrecurring and non-operational, while management explicitly states that additional capital is required and continued operations are not assured."
+}

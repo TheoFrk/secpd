@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could materially and adversely affect",
+    "expect",
+    "appropriate changes",
+    "largely revert to pre-pandemic levels",
+    "subject to significant fluctuations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on liquidity, debt maturities, geographic exposure, and pandemic effects, supporting relatively transparent disclosure. It nevertheless relies on forward-looking expectations and broad contingencies regarding demand recovery, supply chains, pricing pressure, and potential restrictions. Liquidity appears adequate, but pandemic-related earnings pressure and industrial-market weakness remain material risks."
+}

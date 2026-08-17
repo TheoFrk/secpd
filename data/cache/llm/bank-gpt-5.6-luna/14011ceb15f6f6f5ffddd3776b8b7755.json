@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "significant judgment and projections",
+    "could fall below carrying value"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, including revenue growth, margin changes, segment performance, and impairment sensitivity. However, extensive boilerplate disclaimers and qualitative explanations reduce clarity, while declining margins, volume weakness, competition, claims exposure, and limited tradename impairment headroom indicate moderate risk."
+}

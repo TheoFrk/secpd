@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "may be utilized",
+    "required to raise additional capital",
+    "uncertain regulatory approval",
+    "enough capital for more than twelve months"
+  ],
+  "risk_summary": "The company has no established product revenue, recurring operating losses, substantial clinical-development costs, and ongoing dependence on equity, convertible debt, loans, and grants. Clinical and regulatory outcomes remain uncertain, and additional capital or long-term financing is required to continue operations despite management's claim of funding beyond twelve months."
+}

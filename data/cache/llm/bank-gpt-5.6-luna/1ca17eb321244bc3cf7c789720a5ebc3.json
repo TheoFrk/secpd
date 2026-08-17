@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict when or if",
+    "material year-to-year fluctuations",
+    "inherent risks",
+    "partially offset by",
+    "additional information"
+  ],
+  "risk_summary": "The disclosure is highly quantified and explains the primary drivers of weaker 2014 results, including catastrophe losses, lower premiums, and a software write-off. Catastrophe exposure remains a material source of earnings and financial-position volatility, although reinsurance, geographic diversification, and underwriting actions provide mitigation. Overall tone is analytically balanced but moderately negative due to the substantial decline in net income and elevated catastrophe losses."
+}

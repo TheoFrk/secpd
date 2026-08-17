@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.15,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "section index reference",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt is a navigational heading rather than substantive financial or risk disclosure. It provides no quantification, outlook, or discussion of adverse conditions, so risk cannot be meaningfully assessed from this text alone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "many factors could cause",
+    "no obligation to update",
+    "profitably grow the balance sheet",
+    "minimizing risk of asset impairment"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and broad, largely unquantified strategic assertions, which reduce disclosure specificity. It presents a generally confident and promotional tone while acknowledging exposure to interest rates, competition, economic conditions, credit quality, and margin pressure; the accompanying financial table provides some quantitative detail."
+}

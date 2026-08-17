@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "may not be able to obtain future financing",
+    "cannot assure additional funding",
+    "subject to FDA review and agreement",
+    "we believe / management anticipates"
+  ],
+  "risk_summary": "The disclosure identifies substantial going-concern risk, limited funding sources, approximately $1.0 million of contractual obligations in 2025, and no committed additional financing. Failure to raise capital could materially impair operations, delay or eliminate development programs, or require asset liquidation, with potential dilution and restrictive debt covenants. Historical development claims are detailed, but future regulatory and commercial outcomes remain uncertain and rely on conditional expectations."
+}

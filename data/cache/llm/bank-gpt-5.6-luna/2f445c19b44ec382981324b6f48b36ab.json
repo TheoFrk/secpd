@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "government approval pending",
+    "oral notification",
+    "may be required",
+    "expected to be delivered",
+    "plans to proceed"
+  ],
+  "risk_summary": "The disclosure describes significant regulatory, environmental, permitting, relocation, and production-interruption risks, including facilities that remain unable to operate and approvals that are still pending. Recovery claims rely substantially on governmental actions, estimates, and forward-looking plans rather than quantified timelines or financial impacts. Operational resumption at some facilities provides partial mitigation, but regulatory dependence remains material."
+}

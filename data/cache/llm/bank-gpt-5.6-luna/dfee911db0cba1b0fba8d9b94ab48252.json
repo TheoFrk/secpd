@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "actual results may differ",
+    "more likely than not",
+    "possible an additional valuation allowance",
+    "long-term prospects remain intact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including sales, debt reduction, deferred tax assets, and valuation allowances, but relies on complex accounting judgments and forward-looking optimism. Key risks include semiconductor cyclicality, COVID-19 and trade-related disruptions, customer spending volatility, cumulative losses, and potential changes in deferred tax asset valuation allowances."
+}

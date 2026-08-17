@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "long liquidity caveat sentence",
+    "reasonably likely to result",
+    "unless the Company invests",
+    "unanticipated ARO and environmental expense",
+    "no material impact conclusion"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified but indicates significant liquidity and profitability risk, including recurring operating cash outflows, limited liquidity sources, potential acceleration of related-party liabilities, and likely net losses. A substantial investment or asset sale may be needed to improve cash flow, while outcomes remain sensitive to oil and gas prices, interest rates, and unforeseen obligations."
+}

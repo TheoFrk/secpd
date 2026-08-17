@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.86,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.38,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to separate section",
+    "contained under the caption",
+    "page-reference deferral",
+    "HTML/table markup artifacts"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion and defers the analysis to another section of the filing. Its boilerplate cross-reference limits transparency in this excerpt, but the text itself conveys no explicit positive or negative risk outlook."
+}

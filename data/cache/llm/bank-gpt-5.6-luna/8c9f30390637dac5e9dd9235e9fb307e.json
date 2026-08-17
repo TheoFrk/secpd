@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "non-GAAP financial measures",
+    "management's evaluation of qualitative factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, margins, capital ratios, loan balances, and allowance metrics. Key risks include expected net interest margin compression, dependence on loan growth and yields, and judgment-based loan-loss assumptions, while strong capitalization and improved earnings support a moderately confident tone."
+}

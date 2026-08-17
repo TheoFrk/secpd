@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP constant currency measures",
+    "primarily due to",
+    "volatility of orders",
+    "lost distribution and category declines",
+    "repeated table introductions"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed segment, product, currency, and year-over-year disclosures. It identifies meaningful risks in homecare product declines, lost distribution, competition, category weakness, promotional volatility, and customer concentration, but presents the overall business in a mildly confident tone."
+}

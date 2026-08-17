@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "historically high non-performing assets",
+    "future performance will depend on many factors",
+    "acceptable level of interest rate risk",
+    "slowing loan demand",
+    "one-time gains and charges"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but it highlights material credit stress, including $271 million of non-performing assets, elevated real estate exposures, and a 7% loan contraction. Earnings improvement was substantially driven by a $39.9 million reduction in loan-loss provision and included one-time items, while net interest margin declined materially. Capital and liquidity trends are presented positively, though asset mix shifts toward securities and dependence on market conditions introduce ongoing risk."
+}

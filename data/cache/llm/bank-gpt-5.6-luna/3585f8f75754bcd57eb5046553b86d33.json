@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "cannot assure",
+    "unable to predict",
+    "unless otherwise required",
+    "subject to seasonal or economic conditions"
+  ],
+  "risk_summary": "The excerpt provides meaningful operating metrics and cost drivers, including revenue mix, fleet age, tire costs, and fuel recovery, but contains substantial standard forward-looking disclaimers. Key risks include driver and capacity shortages, fuel and equipment inflation, self-insured claims, regulatory changes, customer failures, and uncertainty around tire availability and pricing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "expect that we will continue",
+    "if such allocation does not meet our expectations",
+    "would be adversely affected",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally specific and financially grounded, but contains extensive product-description boilerplate and uses recurring qualifiers such as “primarily” and “partially offset.” Key risks include a 21.7% product-revenue decline, lower COVID-19 assay demand, supply-chain and semiconductor dependence, and significant impairment charges."
+}

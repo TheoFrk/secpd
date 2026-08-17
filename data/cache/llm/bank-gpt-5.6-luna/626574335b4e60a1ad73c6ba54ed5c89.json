@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "mainly due to",
+    "actual results may differ materially",
+    "inherent uncertainty involved",
+    "currently evaluating the impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantified year-over-year results and explanations of major drivers. Risk tone is predominantly positive due to record sales, profit, and income, though it notes customer concentration-related volume pressure, acquisition integration costs, cost variability, and estimation uncertainty. The excerpt is moderately complex and contains standard forward-looking and accounting-policy caveats."
+}

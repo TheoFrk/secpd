@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expected to",
+    "industry conditions in general",
+    "uncertainty expected to continue"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, with detailed industry metrics, segment impacts, and year-over-year changes. Risk tone is cautiously constructive, but the outlook remains exposed to weak housing demand, global pulp weakness, currency volatility, unemployment, and commodity-price pressure. Repeated causal and offsetting language somewhat limits clarity regarding the relative magnitude of individual drivers."
+}

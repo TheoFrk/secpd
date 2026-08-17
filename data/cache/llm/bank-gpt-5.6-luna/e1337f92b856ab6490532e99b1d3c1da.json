@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "liquidity plan if executed successfully",
+    "potential equity offerings",
+    "no assurance successfully implemented",
+    "forward-looking statement disclaimer"
+  ],
+  "risk_summary": "The disclosure explicitly identifies substantial doubt about the company’s ability to continue as a going concern, supported by a $2.8 million net loss, $1.6 million operating cash outflow, $6.0 million working-capital deficit, and cash declining to $62,310. Management’s proposed remedies depend on cost reductions, improved sales, related-party loans, and potential equity offerings, none of which are assured. The excerpt contains substantial boilerplate and complex organizational and revenue-recognition descriptions that may obscure the severity of the liquidity risk."
+}

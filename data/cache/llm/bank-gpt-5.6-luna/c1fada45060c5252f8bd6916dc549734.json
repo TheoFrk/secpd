@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "potential exists",
+    "look forward to improved results",
+    "key client concentration",
+    "contract funding documentation"
+  ],
+  "risk_summary": "The excerpt presents a generally optimistic outlook based on acquisitions, improved supply-chain performance, and expected government contract activity. Key risks include dependence on USPS and government customers, contract funding and renewals, declining Federal Services revenue, and fixed costs that cannot adjust as quickly as revenue declines. Disclosure is moderately detailed but contains substantial business-description boilerplate and forward-looking, hedged assertions."
+}

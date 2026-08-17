@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to changing budget priorities",
+    "revenue potential can be significant",
+    "estimated potential contract value",
+    "based on estimated average unit cost",
+    "anticipated share of IDIQ contracts"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, identifying substantial dependence on U.S. government and defense spending, contract estimates, backlog changes, and accounting judgments. The tone is cautiously positive, emphasizing revenue growth, margin expansion, and cost reductions while acknowledging budget, international, execution, and estimation risks. Complexity is high because of dense accounting, contract, and program terminology, with some forward-looking language that limits precision."
+}

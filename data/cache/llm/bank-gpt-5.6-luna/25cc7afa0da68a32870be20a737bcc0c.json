@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "program may be suspended or terminated at any time",
+    "various forms of injunctive relief",
+    "primarily due to",
+    "favorable currency impact",
+    "minimal net sales"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with clear year-over-year segment, margin, expense, tax, and legal-cost disclosures. Key risks include prolonged litigation, business closures and exit costs, foreign exchange exposure, increased debt levels, prior-year revenue declines, and reliance on favorable tax credits and a government grant. Overall tone is moderately positive for fiscal 2017 results but tempered by operational and legal uncertainties."
+}

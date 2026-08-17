@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "non-GAAP financial measures",
+    "transaction-related gains",
+    "excluding Symetra"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides substantial operating, investment, capital-return, and claims-paying data, supporting relatively strong disclosure quality. Results and tone are positive, but reported earnings and book-value growth rely heavily on large transaction gains, while BAM has continuing operating losses and material surplus-note exposure. Standard forward-looking disclaimers, non-GAAP measures, and selective exclusions modestly reduce transparency."
+}

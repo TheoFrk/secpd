@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "including but not limited to",
+    "no obligation to publicly update",
+    "actual results may differ materially",
+    "management’s best estimate"
+  ],
+  "risk_summary": "The excerpt presents strong fiscal 2011 performance with substantial revenue, operating income, liquidity, and debt improvements. However, the disclosure relies heavily on standard forward-looking safe-harbor language and broad, non-quantified risk categories, while critical accounting estimates introduce judgment around revenue timing, collectability, and incentive compensation."
+}

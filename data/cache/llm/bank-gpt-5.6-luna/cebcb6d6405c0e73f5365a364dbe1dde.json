@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "actual results could differ",
+    "future economic changes cannot be predicted",
+    "additional losses may be recorded",
+    "material effect on assets and net income"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including earnings, margin, provision, charge-offs, and nonperforming-loan trends. It highlights material sensitivity to loan-loss estimates, securities impairment, goodwill valuation, economic conditions, and collateral assumptions, while acknowledging potential for additional losses. Overall tone is cautious but mildly positive because credit-quality indicators improved despite declining profitability and margins."
+}

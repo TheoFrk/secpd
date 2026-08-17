@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "items not representative of ongoing operations",
+    "primarily due to",
+    "certain retained corporate costs",
+    "non-GAAP measure",
+    "believes it will remain in compliance"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed explanations of sales, volume, currency, operating profit, impairment, restructuring, and financing effects. Risk is elevated due to a large swing to a loss, declining segment profitability, goodwill impairment, restructuring charges, weak demand, and reliance on revolver borrowings, although management states that covenant compliance is expected to continue."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may cause actual results to differ materially",
+    "no obligation to update",
+    "reasonable and supportable forecasts",
+    "subject to exception and approval"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes several quantified impacts, but relies on standard forward-looking disclaimers and estimation language around CECL, credit losses, and economic conditions. Credit risk is acknowledged, particularly for construction, commercial real estate, and interest-rate-sensitive loans, while management emphasizes diversification, monitoring, and underwriting controls."
+}

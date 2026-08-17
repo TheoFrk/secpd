@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.25,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot accurately predict",
+    "many factors outside of our control",
+    "expect to be in compliance",
+    "may decrease borrowing base",
+    "truncated financing disclosure"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but emphasizes substantial exposure to commodity-price volatility, reserve revisions, and potential borrowing-base reductions. Liquidity appears pressured by declining operating cash flow and reliance on revolver borrowings, although management presents mitigation plans and covenant compliance."
+}

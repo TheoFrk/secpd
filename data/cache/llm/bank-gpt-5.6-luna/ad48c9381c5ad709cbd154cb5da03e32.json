@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "unable to predict without unreasonable efforts",
+    "forward-looking statement disclaimer",
+    "subject to risks and uncertainties",
+    "constant currency adjustments"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook, with quantified 2017 sales, tax-rate, and restructuring-charge expectations. However, extensive non-GAAP adjustments, forward-looking disclaimers, and reliance on uncertain market, currency, acquisition, and efficiency assumptions reduce transparency regarding underlying performance and downside risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimates and judgments",
+    "typically and generally",
+    "probable significant reversal",
+    "depending on the contract",
+    "variable consideration"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes significant accounting-policy explanations and quantitative debt, restructuring, and transaction-cost figures. Key risk areas are management estimates in percentage-of-completion revenue recognition, variable consideration, claims, and joint ventures, with some reliance on broad qualifiers. The tone is predominantly neutral and explanatory, but elevated debt from the CH2M acquisition and material restructuring costs indicate moderate financial risk."
+}

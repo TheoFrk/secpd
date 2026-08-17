@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may materially and adversely affect",
+    "management estimated valuation allowance",
+    "minimal additional capital requirements",
+    "truncated liquidity discussion"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively describes segment performance, sales drivers, liquidity, and inventory reserves. Risks include declining direct, school/library, national-chain, and fundraising sales, dependence on consultant recruitment and retention, foreign sourcing lead times, and management-estimated inventory valuation allowances. The tone is mildly confident, but the truncated liquidity section and reliance on generalized growth assertions limit completeness."
+}

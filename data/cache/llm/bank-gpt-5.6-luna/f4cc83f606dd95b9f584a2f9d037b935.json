@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor",
+    "cannot guarantee future results",
+    "no duty to update",
+    "strong long-term outlook",
+    "managed through carefully maintaining inventory"
+  ],
+  "risk_summary": "The excerpt combines specific metrics, such as a 6% revenue decline and 4% bookings increase, with extensive forward-looking disclaimers and broad, largely unquantified macroeconomic and operational risks. The tone is cautiously optimistic, emphasizing resilience, recovery, backlog, and long-term automotive growth while acknowledging liquidity, supply-chain, currency, inflation, and cyclical-demand risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including but not limited to",
+    "could differ materially",
+    "favorable end market dynamics",
+    "actual results could differ from estimates"
+  ],
+  "risk_summary": "The disclosure is broadly confident, emphasizing strong demand, favorable semiconductor trends, and fiscal 2021 revenue growth. Key risks include customer concentration, export restrictions affecting China, supply-chain constraints, pandemic-related disruptions, and dependence on customer capital spending. Quantification is present for selected revenue changes but much of the risk discussion remains standardized and qualitative."
+}

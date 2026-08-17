@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "about",
+    "overall slowdown of the economic environment",
+    "partially attributable to",
+    "does not anticipate a material impact"
+  ],
+  "risk_summary": "The excerpt is largely transparent and well-quantified, with detailed segment, geographic, acquisition, currency, margin, and operating-income data. Risk tone is generally positive due to strong sales and earnings growth, though it notes margin compression, seasonal exposure, international declines, Brazil and Asia-Pacific weakness, and acquisition-related effects. Some causal explanations rely on broad qualifiers and boilerplate forward-looking accounting language."
+}

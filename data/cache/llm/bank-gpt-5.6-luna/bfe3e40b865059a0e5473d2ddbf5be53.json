@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "cannot guarantee future results",
+    "actual results may differ significantly",
+    "does not intend to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking statement disclaimers and broad hedging, which limit the specificity of risk disclosure. However, it also provides substantial quantified detail on ownership, investments, contract terms, pricing, project capacity, and payment obligations. The tone is cautious and legally defensive rather than indicative of an immediate crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurances",
+    "sufficient cash forecast",
+    "ability to raise additional funds",
+    "systems currently not producing electricity"
+  ],
+  "risk_summary": "The disclosure contains substantial boilerplate forward-looking language and repeated strategic plans, with limited quantified support for the proposed energy-storage transition. Credit risk is elevated by accumulated losses, inactive power-generation systems, delayed resumption of operations, and dependence on future financing, despite management’s assertion of sufficient liquidity for the next 12 months."
+}

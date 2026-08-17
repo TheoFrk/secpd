@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance that this will be the case",
+    "cannot be determined",
+    "certain initiatives",
+    "variety of factors",
+    "repeated financing disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, margins, cash flows, debt terms, and financing capacity. However, liquidity depends on costly receivables-based financing and potential additional funding, with management expressly noting that support and alternative financing are not assured. Repeated financing language and a truncated, structurally inconsistent passage reduce clarity."
+}

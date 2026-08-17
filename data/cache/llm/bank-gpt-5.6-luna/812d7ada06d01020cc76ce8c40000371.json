@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "deemed collectible",
+    "if ... continues to increase",
+    "unable to determine the impact",
+    "future cash flows",
+    "may be required in the future"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but relies on standard accounting-policy language and conditional assumptions around collectibility, impairment, and commodity costs. Primary risks are margin pressure from higher beef and hot-dog costs and uncertainty regarding the effectiveness of purchase commitments and price increases."
+}

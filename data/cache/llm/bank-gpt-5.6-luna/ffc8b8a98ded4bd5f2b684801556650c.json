@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "for the foreseeable future",
+    "may continue to take",
+    "could differ significantly",
+    "customary working capital adjustment"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, but relies on standard materiality qualifiers and forward-looking expectations regarding demand, regulation, supply constraints, currency, and accounting estimates. Key risks include customer concentration, cyclical robotics weakness, foreign-exchange exposure, regulatory changes, estimation uncertainty, and substantial capital allocation commitments."
+}

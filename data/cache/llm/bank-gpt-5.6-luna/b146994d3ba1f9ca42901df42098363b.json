@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to change",
+    "may be exposed to material adjustments",
+    "management estimates and judgments",
+    "reasonable likelihood",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt is detailed and includes sensitivity estimates for revenue returns, variable consideration, and inventory reserves, but relies heavily on standard accounting-policy boilerplate and management assumptions. Key risks include estimation error in customer incentives, returns, inventory obsolescence, lease classification, and significant non-GAAP adjustments related to the Topgolf merger. Overall tone is neutral to mildly confident, with risks framed as contingent rather than immediate."
+}

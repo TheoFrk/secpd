@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other factors beyond control",
+    "no obligation to update",
+    "reasonable expectations may differ"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative and procedural detail on securities, valuation, and loan-loss estimation, but its forward-looking section relies heavily on broad boilerplate risk disclaimers. Key exposures include interest-rate volatility, credit losses, market-value declines, economic deterioration, and COVID-19-related effects, without presenting scenario-specific quantified impacts in this passage."
+}

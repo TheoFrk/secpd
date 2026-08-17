@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainty",
+    "could cause results to differ materially",
+    "primarily reflecting",
+    "variety of miscellaneous expense categories",
+    "best information available"
+  ],
+  "risk_summary": "The disclosure is largely precise and quantitatively supported, but includes extensive standard safe-harbor language and broad risk-factor lists. Operating performance weakened, with declines in sales, gross profit, pretax earnings, and discontinued-operation income, particularly in the Defense segment. Key exposures include customer concentration, contract and government funding dependence, cost inflation, operational inefficiency, impairment risk, and potential claims."
+}

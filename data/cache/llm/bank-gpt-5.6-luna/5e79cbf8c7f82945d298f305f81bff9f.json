@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "we believe",
+    "for the foreseeable future",
+    "significant judgment",
+    "actual results could differ"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including operating metrics, acquisition funding, liquidity, and contract activity. Risk tone is cautiously positive, but management relies on forward-looking expectations regarding housing demand, consumer confidence, valuation allowances, and future profitability. Dense legal, accounting, and joint-venture language increases interpretive complexity."
+}

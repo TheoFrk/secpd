@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "may use",
+    "depends on",
+    "not necessarily indicative",
+    "customer mix"
+  ],
+  "risk_summary": "The excerpt is generally specific and data-driven, with quantified orders, backlog, sales, customer concentration, and segment performance. Risk is framed as cyclical and dependent on semiconductor/display demand, technological transitions, customer investment timing, cancellations, and delivery changes. The tone is cautiously optimistic, though portions rely on standard forward-looking and market-dependency language."
+}

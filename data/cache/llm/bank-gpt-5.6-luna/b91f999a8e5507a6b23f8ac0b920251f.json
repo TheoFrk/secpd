@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "difficult to forecast",
+    "not clear what demand will be",
+    "expects sales to continue to increase",
+    "believes financial resources will be sufficient",
+    "not aware of circumstances or events"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear sales, margin, debt, dividend, and restructuring figures. Risk tone is mildly positive but acknowledges uncertain demand, regional sales declines, dependence on aerospace program qualification, and substantial shareholder distributions relative to debt. Liquidity is presented as adequate, although the forward-looking sufficiency statement is not accompanied by sensitivity analysis or quantified stress scenarios."
+}

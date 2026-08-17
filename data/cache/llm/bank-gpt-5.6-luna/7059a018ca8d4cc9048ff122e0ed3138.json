@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "could have a material impact",
+    "beyond our control",
+    "other economic conditions",
+    "most subjective or complex judgments"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful quantitative results, but relies heavily on standard critical-estimate language and does not quantify sensitivities for ALLL, MSR, or OREO valuations. Operating performance and asset quality are presented positively, while credit, collateral-recovery, prepayment, and valuation risks remain material and potentially volatile."
+}

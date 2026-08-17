@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could have significant implications",
+    "for additional information",
+    "as long as applicable rules are clear",
+    "has not yet acted",
+    "aimed at maintaining reliability"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with clear explanations of revenue, cost, regulatory, and operational drivers. Risk tone is cautiously positive, but regulatory proceedings, capacity-market uncertainty, nuclear outage exposure, and reliance on favorable rate and market outcomes remain material risks. Dense cross-referencing and extensive corporate-structure language reduce readability but do not appear strongly evasive."
+}

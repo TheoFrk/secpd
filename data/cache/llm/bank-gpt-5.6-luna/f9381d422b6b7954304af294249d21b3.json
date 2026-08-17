@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "offset in part by",
+    "management’s assumptions",
+    "estimated future periods",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including revenue, net income, cash flow, debt, and acquisition figures. Risk is mixed: net income declined 42% and cash decreased, although operating cash flow improved substantially and liabilities declined. Extensive boilerplate, reliance on management estimates, and the truncated excerpt limit full assessment of liquidity and impairment risks."
+}

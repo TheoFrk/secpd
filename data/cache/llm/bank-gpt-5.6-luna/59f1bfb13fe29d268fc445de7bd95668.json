@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "non-GAAP financial measures",
+    "constant currency and organic growth",
+    "acquisition-related adjustments",
+    "contingent tax liabilities"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating profile, supported by detailed revenue, margin, cash flow, and balance-sheet figures, with strong growth attributed partly to acquisitions. Key risks include acquisition integration and accounting effects, foreign-currency exposure, declining mobile-device and aerospace demand, pension funding uncertainty, and contingent tax liabilities. The disclosure is quantitatively detailed but uses substantial boilerplate and non-GAAP measures that may complicate comparability."
+}

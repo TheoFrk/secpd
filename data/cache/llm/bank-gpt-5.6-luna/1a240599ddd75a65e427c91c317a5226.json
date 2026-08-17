@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to determine actual impacts",
+    "cannot predict timing or outcome",
+    "potential effects of these changes",
+    "subject to certain adjustments",
+    "regulatory approvals"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantified operational, capital, and financial information, but several material regulatory, environmental, litigation, and asset-recovery outcomes remain uncertain. Risk tone is cautiously negative to neutral, reflecting exposure to changing emissions rules, coal-plant viability, rate-case appeals, and unresolved legal matters."
+}

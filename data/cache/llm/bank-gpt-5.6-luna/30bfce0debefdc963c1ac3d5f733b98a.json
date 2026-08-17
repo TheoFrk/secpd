@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor disclaimer",
+    "cannot be predicted with certainty",
+    "no assurance",
+    "expected to be significant over the long term",
+    "limited disclosure of debt repurchases"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on losses, charges, liquidity, debt maturities, and cash resources, but relies heavily on broad forward-looking disclaimers and unquantified long-term uncertainties. Risk tone is cautiously negative due to pandemic effects, energy-sector dependence, prior impairments, and uncertain emissions-transition costs, partly offset by improved results and stated liquidity adequacy."
+}

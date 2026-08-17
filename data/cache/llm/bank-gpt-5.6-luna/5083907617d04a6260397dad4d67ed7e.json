@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "material adverse impact",
+    "cannot be reasonably estimated",
+    "expected to provide sufficient liquidity",
+    "residual effects and other events"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue, earnings, EBITDA, cash flow, acquisition, financing, and liquidity information, but presents substantial boilerplate discussion of non-GAAP limitations and exclusions. Risk tone is moderately cautious due to aerospace ramp delays, Boeing oversight, supply-chain and macroeconomic pressures, while management asserts adequate liquidity and continued growth plans."
+}

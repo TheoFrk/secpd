@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "leading manufacturer claims",
+    "we expect to continue",
+    "may pursue further acquisitions",
+    "significant competitive pricing pressure",
+    "excluding any impact from pending acquisitions"
+  ],
+  "risk_summary": "The excerpt is relatively detailed and quantitative, including market shares, capital spending, indebtedness, liquidity, seasonal working-capital needs, and debt maturities. Risk tone is cautiously positive, emphasizing market leadership, cost pass-throughs, liquidity availability, and acquisition-driven growth, while acknowledging competition, seasonality, harvest variability, facility closures, and substantial leverage. Forward-looking claims and broad acquisition language introduce moderate uncertainty."
+}

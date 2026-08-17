@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties cannot be predicted or quantified",
+    "not able to pass through all fuel price increases",
+    "cannot currently predict if this trend will continue",
+    "no guaranteed commitments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating, fuel, capital expenditure, acquisition, and financing information, but is lengthy and includes extensive boilerplate forward-looking disclaimer language. Key risks include freight-rate pressure, driver retention, fuel costs, integration of GTI, substantial capital expenditures, and reliance on uncertain trailer-sale proceeds. The overall tone is cautiously confident, balancing operational strengths and growth prospects against material industry and execution uncertainties."
+}

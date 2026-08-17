@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.78,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "many factors could cause actual results to differ",
+    "no intent to update",
+    "difficult to estimate contingencies",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure identifies severe fundamental risks: patent technology is no longer enforceable, licensing revenue has ceased, and the company may need to pursue a new business, liquidate, or seek bankruptcy protection. Although transaction terms and accounting policies are detailed, extensive legal and forward-looking disclaimers limit predictability and signal substantial uncertainty."
+}

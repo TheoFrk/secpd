@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "may affect future revenues",
+    "actual results may differ",
+    "all of which are described below",
+    "state-of-the-art fiber-rich network"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including revenue, income, acquisition, grant, and access-line figures. It acknowledges ongoing structural pressure from declining voice and switched-access revenues, competition, rate pressure, and credit-collection risk, while emphasizing broadband growth and acquisition-related offsets. Some forward-looking and promotional language, along with standard accounting-estimate caveats, limits precision regarding future performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "subject to known and unknown risks",
+    "assuming positive regulatory outcomes",
+    "significant judgements and estimates",
+    "rich innovative pipeline"
+  ],
+  "risk_summary": "The excerpt is relatively detailed and quantitatively supported, but includes substantial forward-looking language, regulatory dependencies, revenue declines, and reliance on partnered funding. Optimistic descriptions of pipeline potential partially offset these risks, while accounting estimates and allocation judgments introduce uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may differ materially",
+    "primarily due to",
+    "significantly impacted",
+    "further discussed below",
+    "routine operating activities"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear year-over-year sales, profit, cost, tax, pension, and liquidity impacts. Risk tone is mildly negative because net income and gross profit declined, cash decreased, and freight, packaging, litigation, ERP, and pension-related outflows increased, although operating performance and segment explanations remain relatively confident."
+}

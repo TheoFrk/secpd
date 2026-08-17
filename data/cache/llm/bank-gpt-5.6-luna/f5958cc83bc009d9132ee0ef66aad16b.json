@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "There can be no assurances",
+    "vary greatly",
+    "not significant enough to pose substantial risk",
+    "estimated loss exposure",
+    "judgments and interpretations"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively informative, with clear discussion of operating drivers, interest-rate sensitivity, loan quality, nonaccrual loans, and foreclosed assets. Risk tone is mildly positive, but credit risks remain evident through weak borrower financial positions, liquidation activity, allowance-estimation uncertainty, and dependence on interest rates and transaction volumes."
+}

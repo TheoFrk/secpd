@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significantly better/worse than initial estimates",
+    "designed to maximize economic profit",
+    "best estimate of future impact",
+    "statistical pricing model",
+    "Consumer Loans performing differently from historical loans"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, but highlights material deterioration in 2022 consumer-loan performance, lower forecasted collection rates, and increased credit-loss provisions. Forecast uncertainty remains meaningful because expected cash flows depend on statistical models, evolving performance data, and subjective adjustments, although the filing states that variance risk declines as loans season."
+}

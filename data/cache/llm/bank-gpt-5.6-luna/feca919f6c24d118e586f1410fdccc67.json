@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "mid-single digit percentage",
+    "low-teens percentage",
+    "timing and extent",
+    "partially offset",
+    "certain items"
+  ],
+  "risk_summary": "The excerpt is generally confident and strongly quantified, highlighting sales, earnings, cash generation, and shareholder returns. Key risks include production issues, market demand variability, pricing pressure, foreign-exchange exposure, and reliance on non-GAAP core performance measures. Outlook language includes broad ranges and conditional statements, while some drivers and reconciling items are omitted or truncated in the excerpt."
+}

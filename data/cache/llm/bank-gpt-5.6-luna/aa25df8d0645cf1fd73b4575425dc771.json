@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.63,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of future financing",
+    "substantial doubt about going concern",
+    "could cause actual results to differ materially",
+    "intend to commercialize in the future"
+  ],
+  "risk_summary": "The company is pre-revenue, loss-making, cash-burning, and explicitly dependent on additional financing, with auditors expressing substantial doubt about its ability to continue as a going concern. Although liquidity and financing proceeds are quantified, commercialization, clinical validation, regulatory approval, and future fundraising remain uncertain and may be delayed or discontinued."
+}

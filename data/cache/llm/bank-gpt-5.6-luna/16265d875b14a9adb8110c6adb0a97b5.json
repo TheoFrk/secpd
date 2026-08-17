@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measurements",
+    "significant judgments, estimates and assumptions",
+    "other relevant factors",
+    "concentrated in these investment sectors",
+    "not all companies may use the same calculation method"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, particularly regarding the fraudulent loan participation, charge-offs, reserves, and remaining off-balance-sheet exposure. Credit risk is evident from the $9.3 million participation-related net charge-off, bankruptcy proceedings, and concentration in mortgage-backed securities and municipal bonds, although management presents the overall outlook in a controlled and measured tone."
+}

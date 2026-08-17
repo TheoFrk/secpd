@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "highly subjective assumptions",
+    "actual results could differ",
+    "if circumstances warrant",
+    "other qualitative adjustments",
+    "reasonable and supportable forecasts"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified operating changes, but relies substantially on management judgment, forecasts, valuation assumptions, and broad qualitative adjustments. Risk tone is generally neutral and explanatory, with modestly negative indicators from declining mortgage lending income and securities-sale gains, partially offset by growth in selected fee categories."
+}

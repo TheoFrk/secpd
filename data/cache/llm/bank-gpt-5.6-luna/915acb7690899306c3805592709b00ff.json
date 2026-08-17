@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could further negatively affect",
+    "including, but not limited to",
+    "we believe",
+    "positioned well to continue growing",
+    "forward-looking statements involving risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt reports improved 2024 revenue, margins, net income, and EBITDA with quantified segment-level drivers. It also presents broad geopolitical, inflation, interest-rate, supply-chain, customer-credit, borrowing, and impairment risks, many described contingently without quantified sensitivity analysis. Overall tone is cautiously optimistic but materially qualified by extensive forward-looking risk language."
+}

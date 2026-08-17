@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "substantial risks and uncertainties",
+    "could differ materially",
+    "variety of factors",
+    "not necessarily indicative"
+  ],
+  "risk_summary": "The excerpt is primarily boilerplate forward-looking-statement language and a detailed business overview, with limited quantitative information about current financial condition or operating performance. Risk is acknowledged through standard disclaimers, while the business description uses generally positive, promotional language without providing enough results data to assess underlying credit risk."
+}

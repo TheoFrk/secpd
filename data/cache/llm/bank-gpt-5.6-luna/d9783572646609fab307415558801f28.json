@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "intend to finance our activities through:",
+    "primarily attributable to the following:",
+    "may need to obtain additional financing",
+    "cannot assume financing will be available",
+    "customary closing conditions"
+  ],
+  "risk_summary": "The company reports no operating revenue, substantial operating and net losses, significant cash usage, and dependence on future financing during a major transition into financial services. Disclosure is partly quantified but contains incomplete sections and broad conditional language that obscure the intended financing sources and drivers of losses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "various other factors",
+    "believed to be reasonable",
+    "best estimated selling price",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy language, with substantial quantitative detail on revenue mix, expenses, restructuring, and legal settlement. Key risks include semiconductor cyclicality, reliance on customer capital spending, management estimates, and revenue allocation judgments, while the overall tone remains cautiously constructive. The truncation limits assessment of potentially material additional disclosures."
+}

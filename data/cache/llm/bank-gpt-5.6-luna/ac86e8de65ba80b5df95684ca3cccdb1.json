@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot assure adequate production levels",
+    "variability cannot be fully anticipated",
+    "higher than normal inventory levels",
+    "favorable weather conditions",
+    "future availability could be negatively impacted"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and identifies material operational risks, including a 35.6% revenue decline, lower demand, customer inventory buildup, inflationary cost pressure, weather dependence, and potential water constraints. Risk tone is moderately negative, although management presents mitigation efforts such as recycling water, improving production efficiency, and using alternative contractors."
+}

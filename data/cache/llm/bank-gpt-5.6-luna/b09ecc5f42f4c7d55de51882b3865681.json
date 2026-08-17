@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "about/approximately",
+    "subject to indemnification provisions",
+    "actual results may differ",
+    "not readily apparent from other sources"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, margins, cash, debt, acquisitions, restructuring, and segment performance. Key risks include a substantial decline in California vapor-recovery sales, ongoing patent and regulatory litigation, restructuring costs, and estimation uncertainty in receivables and inventory reserves. Overall tone is moderately positive but tempered by legal, operational, and market risks."
+}

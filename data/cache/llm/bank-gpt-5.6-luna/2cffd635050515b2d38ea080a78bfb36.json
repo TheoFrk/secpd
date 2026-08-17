@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unpredictable and beyond our control",
+    "we expect",
+    "adjusted non-GAAP measures",
+    "not meaningful",
+    "well-positioned"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed discussion of revenue, profitability, capital, liquidity, acquisitions, and credit-loss provisions. Risk is moderated by exposure to market conditions, declining client cash balances, macroeconomic uncertainty, and reliance on interest-rate benefits, while adjusted non-GAAP measures may present a more favorable view of performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.55,
+  "risk_sentiment": -0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of additional capital",
+    "going concern qualification",
+    "adjustments accordingly",
+    "great sales potential",
+    "continue operations as proposed"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified but contains promotional and forward-looking language around product opportunities and funding prospects. Liquidity risk is significant, given recurring operating cash burn, current liabilities exceeding current assets, substantial net losses, and an auditor's going-concern qualification. Reduced losses, lower interest expense, and improved cash balances provide some mitigating context but do not eliminate dependence on additional financing."
+}

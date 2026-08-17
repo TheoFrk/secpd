@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance financing available",
+    "depending on operating results",
+    "various factors outside our control",
+    "potential future growth opportunities",
+    "meaningful positive impact yet to be realized"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, particularly regarding acquisitions, cash balances, operating facilities, industry shipments, and cash flow. Risk tone is cautiously negative because industry volumes remain historically low, financing constraints persist, and future liquidity may depend on operating results and access to financing. Management remains broadly confident in long-term growth, synergies, and liquidity sufficiency, but relies on forward-looking assumptions and conditional language."
+}

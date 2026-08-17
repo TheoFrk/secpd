@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ materially",
+    "strategic alternatives not disclosed",
+    "potentially necessary safety database",
+    "high-potential therapeutic applications"
+  ],
+  "risk_summary": "The excerpt combines specific clinical and regulatory milestones with substantial forward-looking, promotional language about product potential, partnerships, and value creation. Key risks include non-significant primary efficacy results, possible additional safety requirements, dependence on future Phase 3 trials and approvals, COVID-19 trial disruption, and limited disclosure regarding strategic alternatives."
+}

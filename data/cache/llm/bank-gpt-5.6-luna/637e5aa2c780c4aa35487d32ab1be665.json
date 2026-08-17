@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "other factors may in the future",
+    "could cause actual results to differ materially",
+    "undertake no obligation to update",
+    "seasonal business and competitive conditions"
+  ],
+  "risk_summary": "The disclosure is comparatively precise and data-rich, with extensive quantified operating, margin, store-count, and earnings information. Risk tone is mildly positive overall, although it notes weaker agricultural conditions, declining prepared-food margins, pricing pressure, seasonality, competition, and reliance on favorable tax effects. The forward-looking section contains standard broad liability-limiting language that reduces specificity regarding potential adverse outcomes."
+}

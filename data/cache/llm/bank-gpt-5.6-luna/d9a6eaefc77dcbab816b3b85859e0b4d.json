@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and substantial risks",
+    "could differ materially",
+    "qualified in its entirety",
+    "historical results not necessarily indicative",
+    "extensive transaction and merger detail"
+  ],
+  "risk_summary": "The excerpt combines substantial quantified merger, debt-guarantee, warrant, and restructuring disclosures with extensive historical and legal boilerplate. Risk tone is moderately negative due to prior Chapter 11 proceedings, guaranteed debt, declining market capitalization, revenue pressure, and goodwill and intangible-asset impairments. The dense chronological and transactional detail may obscure the most material current credit risks."
+}

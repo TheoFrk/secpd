@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors discussed elsewhere",
+    "primarily due to",
+    "non-GAAP organic measures",
+    "text truncated mid-disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified segment and foreign-exchange detail, but relies on standard forward-looking disclaimers, non-GAAP metrics, and broad causal explanations. Key risks include declining segment operating income in GES, foreign-exchange and visitation exposure, higher debt-related interest expense, and a $15.5 million multi-employer pension withdrawal charge."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant estimates and judgment",
+    "could reflect different estimates",
+    "estimated in good faith",
+    "subject to revision",
+    "losses not covered by FDIC"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and generally transparent, but relies substantially on management estimates for loan valuations, fair values, impairment, and acquired-loan accounting. Earnings declined year over year, with lower net interest income, lower noninterest income, higher expenses, and litigation accruals, indicating modestly adverse operating momentum. FDIC loss-sharing mitigates some credit risk, though uncovered portfolio losses and valuation sensitivity remain relevant concerns."
+}

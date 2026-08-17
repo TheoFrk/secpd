@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks are not exhaustive",
+    "not possible to predict all risk factors",
+    "not possible to assess the effect",
+    "disclaim any obligation to update",
+    "excluded items are unpredictable"
+  ],
+  "risk_summary": "The excerpt combines detailed insurance-sector terminology and some quantified operational information with extensive forward-looking safe-harbor and limitation language. Risk disclosure is broad but largely non-quantified, emphasizing unpredictable market, interest-rate, equity, hedging, and modeling risks while maintaining a moderately constructive management tone."
+}

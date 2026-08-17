@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "cannot be reasonably predicted",
+    "forward-looking statements",
+    "risks and uncertainties",
+    "various developments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure, including revenue decline, widening losses, margin contraction, and COVID-19 impacts. Risk tone is materially negative due to deteriorating profitability and uncertainty around recovery, although the company reports limited operational disruption and specific liquidity and cost-control actions."
+}

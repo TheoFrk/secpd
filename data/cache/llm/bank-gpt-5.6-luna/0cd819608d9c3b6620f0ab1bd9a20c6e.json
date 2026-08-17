@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "could have a material adverse effect",
+    "for the foreseeable future",
+    "among other factors",
+    "scaled disclosure obligations"
+  ],
+  "risk_summary": "The excerpt provides useful quantified exposure percentages and identifies material insurance, reserving, reinsurance, investment, liquidity, and COVID-19 risks, but relies heavily on estimates, assumptions, and conditional language. Risk transparency is reduced by extensive technical detail, broad caveats, and the omission of the contractual-obligations table under scaled reporting accommodations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "management judgment, assumptions and estimates",
+    "not material individually and in the aggregate",
+    "excluding these expenses",
+    "qualitative assessment"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, showing sales, earnings, margins, guidance, segment performance, and specific unusual expenses. Risk is moderate rather than acute, with softer macroeconomic indicators, international restructuring, impairments, contract dispute costs, and reliance on management estimates partially offset by positive operating trends and reaffirmed guidance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "one-time costs",
+    "partially offset",
+    "remains confident",
+    "forecast uncertainty"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent about acquisition effects, operating declines, restructuring costs, leverage facilities, and weaker end-market conditions. However, extensive non-GAAP adjustments and repeated attribution to one-time items may soften the presentation of deteriorating reported earnings, while coronavirus and Boeing-related uncertainty materially impair 2020 forecasting visibility."
+}

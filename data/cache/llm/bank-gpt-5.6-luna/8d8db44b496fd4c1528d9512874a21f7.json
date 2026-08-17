@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may differ significantly",
+    "include, but are not limited to",
+    "primarily due to",
+    "no obligation to revise or update"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and provides detailed product, segment, financing, and tax information, with a generally confident growth-oriented tone. Risk disclosure relies heavily on standard forward-looking-statement disclaimers and broad causal qualifiers, while downside exposure includes declining iPad and iPod sales, increased debt, foreign-exchange expenses, and reliance on future product launches."
+}

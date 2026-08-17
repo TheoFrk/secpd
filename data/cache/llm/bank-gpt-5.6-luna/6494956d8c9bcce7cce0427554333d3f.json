@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "largely eliminated",
+    "generally intended to",
+    "may have an adverse effect",
+    "substantially reduced",
+    "at least the next 12 months"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and well quantified, detailing shipment volumes, contract exposures, hedge coverage, and the $3.8 million annual cost impact per $1.00/MMBtu change in natural gas prices. Risk is framed as largely mitigated through hedging and pass-through mechanisms, but residual metal, currency, energy, and derivative-related exposure remains, particularly beyond 2011."
+}

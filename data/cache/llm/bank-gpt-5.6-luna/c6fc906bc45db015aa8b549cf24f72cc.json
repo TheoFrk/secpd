@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.67,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "believe ... successful",
+    "commercially reasonable terms",
+    "should we be unable to continue as a going concern",
+    "highly complex and inherently uncertain",
+    "continued growth and success"
+  ],
+  "risk_summary": "The disclosure contains quantified operating results but signals material financial distress, including a 13% revenue decline, inventory loss provisions, pricing pressure, and the need to refinance a revolving credit facility or obtain equity financing. The explicit going-concern uncertainty indicates elevated liquidity and refinancing risk, despite optimistic descriptions of strategic execution."
+}

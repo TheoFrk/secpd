@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "forward-looking statements",
+    "non-GAAP measures",
+    "subject to regulatory approvals",
+    "did not fit within FHN's risk profile"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, covering acquisitions, divestitures, branch transactions, accounting changes, and interest-income drivers. Risk is presented in a measured, mildly positive tone, though transaction completion depends on regulatory, shareholder, and other closing conditions, and the excerpt provides limited discussion of adverse scenarios."
+}

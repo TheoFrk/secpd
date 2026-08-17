@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "beyond our ability to control or predict",
+    "no obligation to publish revised statements",
+    "among other things",
+    "unanticipated events"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, including segment-level revenue, margin, expense, liquidity, and capital expenditure data. Risk tone is moderately negative because the pandemic caused substantial annual revenue and earnings declines, while fourth-quarter recovery and restored dividends provide some confidence. Forward-looking language appropriately highlights material exposure to automotive demand, raw materials, labor costs, supply disruptions, and customer concentration."
+}

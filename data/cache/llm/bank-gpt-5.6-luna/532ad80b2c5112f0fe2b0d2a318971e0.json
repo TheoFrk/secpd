@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurances",
+    "for the foreseeable future",
+    "various factors beyond our control",
+    "appropriate steps to improve"
+  ],
+  "risk_summary": "The disclosure identifies substantial liquidity and going-concern risks, including reliance on related-party advances, month-to-month crude supply, potential covenant defaults, arbitration exposure, and dependence on a single refinery. Although results are quantified and revenue increased, gross margin declined and operational disruptions could impair payment capacity. Forward-looking caveats and broad uncertainty language materially temper management’s limited confidence in financial stability."
+}

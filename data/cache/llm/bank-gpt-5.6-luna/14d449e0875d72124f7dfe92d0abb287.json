@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may materially impact",
+    "subject to significant uncertainties",
+    "actual results may differ",
+    "unable to make reasonably reliable estimates",
+    "inherently uncertain and unpredictable"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies meaningful risks, including litigation accruals, higher interest expense, macroeconomic volatility, foreign exchange exposure, and $1.346 billion of excluded long-term tax liabilities. However, extensive boilerplate uncertainty language and the truncated contractual-obligations passage limit clarity regarding timing and magnitude of some exposures. Overall tone is neutral to mildly negative rather than crisis-like."
+}

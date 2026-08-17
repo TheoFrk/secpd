@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including, without limitation",
+    "we believe",
+    "seek to",
+    "minimizing risk"
+  ],
+  "risk_summary": "The excerpt presents a strongly confident and promotional assessment of financial strength, growth prospects, capital, liquidity, and risk management, with limited quantified discussion in the provided portion. It relies heavily on boilerplate forward-looking disclaimers and broad aspirational language, while acknowledging interest-rate, competitive, economic, credit, and technology-related risks without materially sizing their potential impact."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "highly dependent on",
+    "management believes",
+    "more likely than not",
+    "significant management assumptions",
+    "well in excess of carrying value"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes substantial segment-level sales quantification and operational explanations, with a moderately positive tone reflecting revenue growth. Risk disclosures rely on conditional language around customer launches, commodity markets, dairy economics, competition, raw-material costs, and impairment assumptions. Goodwill conclusions are based on qualitative testing and management estimates, creating some valuation and downside-risk uncertainty."
+}

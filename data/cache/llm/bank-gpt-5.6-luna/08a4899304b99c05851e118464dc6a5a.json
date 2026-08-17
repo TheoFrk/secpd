@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to:",
+    "could materially harm",
+    "not assured",
+    "difficult to predict",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure presents substantial year-over-year improvement in revenue, gross profit, EBITDA, and operating cash flow, but remains exposed to antimony price and supply volatility, operating downtime, and dependence on external financing. Liquidity is described as sufficient for the next 12 months, while acknowledging that capital access is not assured and that strategic plans or assets may need to be curtailed or sold if funding is unavailable. Several causal explanations are incomplete or generic, including sections ending with “primarily due to:” and an apparent excerpt truncation."
+}

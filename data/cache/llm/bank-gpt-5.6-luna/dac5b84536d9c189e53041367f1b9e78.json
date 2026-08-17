@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "no assurances",
+    "subject to risks and uncertainties",
+    "full impact depends on future developments",
+    "disclaims any obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance data and identifies supply-chain, tariff, pandemic, credit-loss, and restructuring risks. However, extensive forward-looking disclaimers, conditional language, and reliance on uncertain future developments limit visibility into potential downside, particularly beyond 2022 and after the temporary EU tariff agreement expires."
+}

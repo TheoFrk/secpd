@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "difficult to predict with precision",
+    "uncertainties inherent in the estimation process",
+    "non-GAAP measure not comparable"
+  ],
+  "risk_summary": "The excerpt is broadly confident and reports quantified revenue, acquisition, tax, interest, and earnings data, with positive operating performance. However, standard forward-looking disclaimers, extensive estimation caveats, non-GAAP presentation, acquisition-related accounting complexity, and percentage-of-completion revenue recognition create moderate disclosure and execution risk."
+}

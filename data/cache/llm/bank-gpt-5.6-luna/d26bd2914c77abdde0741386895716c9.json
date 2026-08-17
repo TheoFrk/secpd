@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "unless and until",
+    "no material commitments",
+    "no other trends, events, or uncertainties",
+    "reasonably likely",
+    "unanticipated expenses"
+  ],
+  "risk_summary": "The company has negative operating cash flow, limited liquidity sources, substantial deferred related-party salary obligations, and no current plans for investments needed to improve cash generation. Management explicitly expects continued revenue shortfalls and net losses at current production and commodity-price levels, indicating elevated going-concern and liquidity risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "no assurance",
+    "limited market visibility",
+    "uncertainties in tax interpretation",
+    "estimated contract costs could be significant"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operational and cash-flow detail, but relies on standard forward-looking disclaimers and contains uncertainty around market conditions, tax effects, and contract estimates. Risk tone is materially negative, driven by expected 2018 net loss, lower operating income, declining offshore activity, and customer spending and pricing pressure."
+}

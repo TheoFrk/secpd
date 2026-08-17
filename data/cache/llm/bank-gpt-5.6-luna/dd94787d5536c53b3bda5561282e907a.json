@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "believe ... will not have a material effect",
+    "expect revenues to increase",
+    "relatively flat",
+    "continued weak demand",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with strong liquidity and operating cash flow disclosures. Risk is elevated in coal volumes, pricing, export demand, regulatory rate cases, taxes, and fuel-surcharge exposure, although management presents a moderately confident outlook and expects liquidity to remain sufficient."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "a number of factors",
+    "tend to",
+    "variety of factors",
+    "subject to terms and conditions",
+    "broad customer bases"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and uses standard MD&A boilerplate, with some quantified sales, debt, interest-rate, and covenant information. It signals acquisition-related financing and exposure to commodity prices, cyclicality, customer demand, and foreign exchange, but presents these risks in a generally controlled tone and states that financial covenants were satisfied."
+}

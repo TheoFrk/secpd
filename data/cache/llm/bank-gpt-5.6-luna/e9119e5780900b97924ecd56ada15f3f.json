@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "no assurance",
+    "among others",
+    "could cause results to differ",
+    "adjusted earnings exclusions"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative data on earnings, cash flow, acquisitions, leverage, and environmental obligations, but contains extensive standard forward-looking-risk language and broad contingencies. Financial performance weakened materially due to higher raw material and energy costs, while pandemic, supply-chain, geopolitical, customer, regulatory, and integration risks remain significant. Liquidity appears adequate based on operating cash flow, available credit, and leverage of 3.8x versus a 5.25x covenant limit."
+}

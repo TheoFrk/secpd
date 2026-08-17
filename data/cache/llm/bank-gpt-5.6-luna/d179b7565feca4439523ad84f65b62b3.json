@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.82,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "substantial doubt about going concern",
+    "uncertainty related to warrant obligations"
+  ],
+  "risk_summary": "The excerpt contains substantial liquidity and solvency concerns, including a $36.3 million net loss, $17.2 million negative working capital, potential inability to satisfy warrant obligations, and substantial doubt about continued viability. Risk disclosure is heavily padded with repeated forward-looking-statement disclaimers and broad caveats, although key distress metrics are quantified."
+}

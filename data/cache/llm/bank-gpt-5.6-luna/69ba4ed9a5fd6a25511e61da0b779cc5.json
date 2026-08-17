@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.81,
+  "risk_sentiment": 0.04,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally",
+    "to the extent probable",
+    "qualitative approach",
+    "best estimate",
+    "subject to audit and adjustment"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed accounting methodologies, contract-risk mechanics, joint-venture exposures, and pension assumptions. Risk tone is neutral, with meaningful uncertainty arising from percentage-of-completion estimates, incentive fees, audits, guarantees, joint and several liability, VIE judgments, and actuarial assumptions. The truncated pension sensitivity disclosure limits assessment of the full magnitude of certain exposures."
+}

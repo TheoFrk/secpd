@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks, uncertainties, and other factors",
+    "no obligation to update",
+    "adequate allowance assertion",
+    "subject to economic conditions"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, with detailed year-over-year metrics and explanations of changes. Risk tone is mildly negative due to declining net interest income, margins, and non-interest income, while credit-loss disclosures acknowledge potential deterioration under adverse economic conditions. The extensive boilerplate cautionary language moderately reduces transparency but does not appear unusually evasive."
+}

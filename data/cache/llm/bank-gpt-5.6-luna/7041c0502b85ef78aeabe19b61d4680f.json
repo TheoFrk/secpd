@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to numerous assumptions, risks and uncertainties",
+    "including, but not limited to",
+    "actual results may differ materially",
+    "among other things",
+    "did not have a material effect"
+  ],
+  "risk_summary": "The excerpt presents strong, improving profitability, capital, liquidity, and asset-quality metrics with extensive quantitative disclosure. Risk language is largely standardized and generic, while isolated nonrecurring gains, interest-rate sensitivity, oil-and-gas loan downgrades, and deferred-tax-asset write-downs warrant attention. OCR corruption and a truncated passage modestly reduce clarity."
+}

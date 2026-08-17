@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "repeated forward-looking disclaimer",
+    "subjective allowance estimates",
+    "future market factors beyond control",
+    "judgmentally adjusted",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt presents a strong, improving operating profile with record earnings, sustained double-digit returns on equity, and quantified revenue and expense drivers. Credit-risk disclosure is moderately subjective because loan-loss adequacy depends on significant estimates, changing economic conditions, collateral values, and management judgment. Repeated forward-looking disclaimers and reliance on incorporated risk disclosures reduce clarity, although the section provides meaningful quantitative detail."
+}

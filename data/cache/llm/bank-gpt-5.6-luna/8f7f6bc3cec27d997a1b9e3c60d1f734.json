@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "premature to assess the impact",
+    "it is possible that the effect could be significant",
+    "subject to change",
+    "internally developed models",
+    "judgment, assumptions and estimates"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of economic, regulatory, revenue, credit-loss, and valuation risks. Some uncertainty remains around pending regulation, client behavior, and model-based estimates, while strategic language is conventional and mildly promotional."
+}

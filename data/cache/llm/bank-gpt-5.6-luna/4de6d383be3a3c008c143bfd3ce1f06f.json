@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "longer-term challenges",
+    "other factors",
+    "see further discussion",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally quantified and detailed, reporting cash flow, debt reduction, impairments, regulatory liabilities, operating metrics, and project capacity. Risk tone is mixed: operational improvements and capital actions are offset by hydrological exposure, regulatory uncertainty, significant goodwill impairments, and weaker market conditions. Dense cross-references, specialized terminology, and repeated positive framing modestly reduce accessibility but do not appear strongly evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.26,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "mainly due to",
+    "subject to change",
+    "we believe estimates are reasonable",
+    "may not be recoverable",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting segment sales, orders, backlog, expenses, and EBIT drivers. Risk tone is moderately positive due to revenue and backlog growth, but includes margin erosion, inflation, restructuring costs, acquisition effects, and impairment-estimate sensitivity. The excerpt is lengthy and technically dense, with some standard hedging around forecasts and asset valuation assumptions."
+}

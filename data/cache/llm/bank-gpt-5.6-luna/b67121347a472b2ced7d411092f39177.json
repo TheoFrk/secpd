@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of financing",
+    "continue operations",
+    "materially adversely affected",
+    "related-party promissory notes"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure but indicates severe liquidity and going-concern risk, including no revenue, negative working capital of approximately $1.553 million, limited cash, unavailable credit capacity, and dependence on additional financing. Financing is uncertain, while debt includes significant related-party promissory notes at 11% interest. The tone is strongly negative despite conventional forward-looking and risk disclaimers."
+}

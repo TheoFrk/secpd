@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance",
+    "actual results may vary materially",
+    "no obligation to update",
+    "non-GAAP adjusted EBITDA"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and emphasizes uncertainty without quantifying many potential adverse outcomes. Operational disclosures are relatively specific and include useful segment, transaction, liquidity, and performance metrics, but reliance on adjusted EBITDA and extensive exclusions may obscure underlying earnings quality. The overall tone is cautious and moderately risk-aware rather than crisis-like."
+}

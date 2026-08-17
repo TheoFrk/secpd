@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to many uncertainties and challenges",
+    "outcomes of which are uncertain",
+    "management’s best estimate",
+    "highly dependent on estimates, assumptions and judgments",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is predominantly confident and performance-focused, supported by extensive quantitative disclosures on earnings, capital, credit costs, deposits, and asset growth. Some uncertainty remains around credit-loss estimates, fair values, economic conditions, and other management judgments, but these risks are described in standard accounting-policy language rather than as immediate distress signals."
+}

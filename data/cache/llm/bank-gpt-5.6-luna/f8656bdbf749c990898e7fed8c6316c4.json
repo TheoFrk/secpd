@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of refinancing",
+    "future developments cannot be predicted",
+    "working capital funding by Affiliates",
+    "secured loan agreements in default",
+    "filing bankruptcy or ceasing operations"
+  ],
+  "risk_summary": "The disclosure is relatively quantified but presents severe liquidity and solvency risks, including minimal cash, operating cash outflow, debt defaults, dependence on affiliates, and potential inability to fund operations. Repeated forward-looking caveats and broad uncertainty language partially obscure the immediacy and magnitude of these risks, although the possibility of asset sales, bankruptcy, or cessation of operations is explicitly stated."
+}

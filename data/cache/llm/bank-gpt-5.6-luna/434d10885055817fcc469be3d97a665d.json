@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "estimates, assumptions and judgments",
+    "more likely than not",
+    "future expected NOL utilization",
+    "truncated impairment discussion"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy disclosure, with substantial technical jargon and boilerplate forward-looking disclaimers. It provides useful quantitative details on NOLs, valuation allowances, and anticipated lease liabilities, but relies on management estimates and includes a truncated impairment discussion that limits completeness."
+}

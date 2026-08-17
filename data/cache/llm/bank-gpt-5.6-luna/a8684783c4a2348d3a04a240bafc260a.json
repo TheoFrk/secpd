@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "cannot predict with accuracy",
+    "no assurance",
+    "among other things",
+    "expect ... challenging lease environment"
+  ],
+  "risk_summary": "The disclosure is materially quantified, but extensive forward-looking disclaimers and broad risk-factor language make the outlook cautious and partly non-specific. Key risks include tenant concentration, government and defense-spending dependence, declining occupancy, unleased development space, financing conditions, and planned property dispositions."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "see the section entitled",
+    "filed as an exhibit",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and redirects readers to another report. Its boilerplate cross-reference limits standalone transparency and prevents assessment of the company’s underlying condition from this text alone."
+}

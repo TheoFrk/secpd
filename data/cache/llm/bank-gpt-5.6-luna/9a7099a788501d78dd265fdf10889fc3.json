@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "economic slowdown",
+    "excluding acquisitions",
+    "materially adversely affected"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, with detailed year-over-year revenue, margin, expense, and acquisition impacts. Risk tone is moderately negative due to recession-driven demand declines, reduced capital spending, acquisition-related costs, and facility-consolidation charges, although operating profitability remained substantial. Repeated acquisition adjustments and extensive legal risk disclaimers add some boilerplate and reduce clarity without materially obscuring the financial trends."
+}

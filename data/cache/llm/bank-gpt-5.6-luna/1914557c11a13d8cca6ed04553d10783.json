@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe",
+    "anticipate",
+    "expected to",
+    "key drivers",
+    "customer-first mentality"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, expenses, borrowings, taxes, seasonality, and comparable-store performance, but also relies on forward-looking strategy claims and repeated belief-based language. Risk is moderate: results are seasonally concentrated, prior-year sales declined, and execution of the new operating strategy remains uncertain, although reduced borrowings and positive strategic framing temper the tone."
+}

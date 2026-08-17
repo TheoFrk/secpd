@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "various factors, including, but not limited to",
+    "until we can find a partner",
+    "until we have secured sufficient financial resources",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The company has no recurring revenue, substantial accumulated losses, and expects continued significant spending before any products are commercialized. Advancement of key clinical programs is explicitly dependent on obtaining partners or sufficient financing, indicating meaningful liquidity and execution risk. Quantitative expense and cash-flow disclosures are relatively detailed, although the excerpt includes boilerplate forward-looking disclaimers and a truncated passage."
+}

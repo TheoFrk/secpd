@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "many uncertainties and contingencies",
+    "cannot guarantee future performance",
+    "does not undertake to update",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt is dominated by standard legal and forward-looking-statement boilerplate, with extensive qualifications and broad risk categories but limited entity-specific quantification. Non-GAAP measures are reconciled and quantified, although their presentation may emphasize adjusted performance over GAAP results. The overall tone is cautious rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures emphasized",
+    "forward-looking risks and uncertainties",
+    "primarily driven by",
+    "significantly elevated backlog",
+    "expected cost savings"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting sales, margins, earnings, liquidity, backlog, and segment trends. Risk factors include declining Professional segment sales, margin compression, elevated inventory and backlog, and reliance on a multi-year productivity initiative, although liquidity is described as strong. Repeated non-GAAP framing and forward-looking language modestly reduce clarity around underlying performance and execution risk."
+}

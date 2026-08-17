@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-single digit growth",
+    "mid-teens",
+    "adjusted results excluding acquisition-related costs",
+    "future acquisitions and product mix",
+    "probability weighted contingent payments"
+  ],
+  "risk_summary": "The excerpt presents a generally strong operating profile, with double-digit sales growth, broad-based organic expansion, and improved adjusted earnings. Transparency is reasonably high because key drivers and percentages are quantified, though reliance on non-GAAP measures, acquisition adjustments, broad growth ranges, and valuation assumptions introduces comparability and estimation risk."
+}

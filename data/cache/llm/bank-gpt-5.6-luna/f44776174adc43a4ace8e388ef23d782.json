@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances",
+    "expected to continue",
+    "cautiously optimistic",
+    "most recent estimates",
+    "strong bipartisan support"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on inflation, GDP, defense budgets, capital expenditures, acquisitions, debt, and liquidity, supporting relatively strong disclosure quality. Risk tone is moderately confident but qualified by supply-chain disruption, inflation, recession risk, geopolitical uncertainty, and reliance on projected defense spending. Promotional descriptions of competitive positioning and repeated forward-looking expectations introduce some boilerplate and uncertainty."
+}

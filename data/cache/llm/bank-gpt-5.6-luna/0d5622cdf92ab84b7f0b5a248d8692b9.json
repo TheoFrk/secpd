@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "certain risks and uncertainties",
+    "actual results could meaningfully differ",
+    "non-GAAP measures",
+    "underlying core performance",
+    "subject to customary closing conditions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including earnings, margins, acquisition values, and operating metrics. Risk disclosure relies partly on standard forward-looking and accounting-estimate caveats, while extensive non-GAAP measures and adjustments may complicate comparability with GAAP results. Overall tone is cautiously positive, reflecting stable performance and expansion plans, with sensitivity to interest rates, credit losses, COVID-19 effects, and regulatory approvals."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurances",
+    "other unforeseen circumstances",
+    "expected to generate",
+    "currently evaluating impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and liquidity information, but relies on optimistic projections and broad risk-factor language for future performance. Key risks include a sharply reduced backlog, weak commercial sales, below-historical gross margins, litigation exposure, warrant valuation losses, and dependence on government programs and new products."
+}

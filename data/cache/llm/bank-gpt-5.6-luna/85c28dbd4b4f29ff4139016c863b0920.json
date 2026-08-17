@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future loan losses difficult to estimate",
+    "total amount of potential claims difficult to determine",
+    "best estimate of probable loan loss liabilities",
+    "reserve is reasonable based on available information",
+    "risk that future loan losses may exceed reserve"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating data and reserve balances, but relies on management estimates for mortgage repurchase, indemnification, and future loan losses. Litigation and potential claims are acknowledged, though their scope is described as difficult to determine and may exceed recorded reserves. Overall tone is operationally confident but tempered by moderate credit and contingent-liability risk."
+}

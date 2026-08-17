@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "should not materially affect",
+    "inherently unpredictable",
+    "actual results may differ",
+    "significant judgments and assumptions"
+  ],
+  "risk_summary": "The disclosure identifies meaningful estimation risks in contract revenue recognition, claims, insurance reserves, goodwill impairment, and liquidity, with some useful quantification such as unapproved change orders and reserve sensitivity. Its tone is cautiously reassuring but relies heavily on management judgment, materiality qualifiers, and forward-looking uncertainty, while the excerpt is truncated and omits potentially relevant detail."
+}

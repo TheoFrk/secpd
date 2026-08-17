@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "various risks, uncertainties and other factors",
+    "inherently subjective",
+    "high degree of judgment",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is dominated by standardized forward-looking disclaimers and broad, non-quantified risk lists, limiting its usefulness for assessing the magnitude and timing of risks. It identifies meaningful banking risks, including credit losses, interest-rate sensitivity, goodwill impairment, acquisitions, and macroeconomic deterioration, while emphasizing substantial estimation uncertainty in the allowance for loan losses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "expect this portion to continue to grow",
+    "inherently subjective",
+    "development risk"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, losses, cash flow, deferred revenue, and operating drivers, reducing overall vagueness. Risk remains elevated from declining revenue, recurring net losses, reliance on hit titles, shorter sales cycles, used-game competition, royalty-estimation uncertainty, and product development risk, although digital growth and improved cash generation moderate the tone."
+}

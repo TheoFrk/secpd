@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "full financial effects cannot be reasonably estimated",
+    "material adverse impact",
+    "future developments",
+    "management’s best estimate",
+    "continual estimation process"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including revenue declines, impairment charges, liquidity actions, and COVID-19-related costs. Risk is elevated due to the pandemic-driven revenue and earnings deterioration, increased debt-related costs, impairment, and uncertainty around recovery and tax asset realization. Some standard forward-looking language limits precision regarding the duration and ultimate magnitude of risks."
+}

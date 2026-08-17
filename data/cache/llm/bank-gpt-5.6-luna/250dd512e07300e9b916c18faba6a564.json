@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "many beyond the Company’s control",
+    "factors could cause actual results to differ materially",
+    "does not undertake any obligation to update",
+    "truncated financial disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful detail on earnings, loan composition, credit quality, funding, and capital, but includes extensive standard forward-looking disclaimers and generic risk framing. Risk tone is mildly negative because of the goodwill impairment, declining loan demand, reduced net interest margin, substantial non-performing assets, and elevated construction-loan exposure, although improving credit metrics and strong capitalization provide offsets."
+}

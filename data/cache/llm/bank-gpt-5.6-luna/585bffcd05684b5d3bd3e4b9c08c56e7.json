@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "subject to regulatory approval",
+    "no assurance historical correlation will continue",
+    "market volatility and competition"
+  ],
+  "risk_summary": "The excerpt is broadly quantitative and transparent regarding AUM, flows, revenues, fees, and market conditions. Key risks include substantial AUM and flow volatility, intensifying fee competition, reliance on major products, acquisition execution and regulatory approval, and uncertainty around historical correlations."
+}

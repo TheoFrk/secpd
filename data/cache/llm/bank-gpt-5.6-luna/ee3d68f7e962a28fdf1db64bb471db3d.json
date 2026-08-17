@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "risks and uncertainties include, but are not limited to",
+    "cannot be reliably predicted",
+    "limited visibility into future revenues",
+    "possibility that",
+    "future developments ... uncertain"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosures on revenue, earnings, segment trends, headcount, and capital expenditures, but is heavily supplemented by broad, largely boilerplate forward-looking risk language. COVID-19, macroeconomic weakness, short-term contracts, competition, litigation, cybersecurity, regulatory exposure, and limited revenue visibility indicate meaningful operating risk, partially offset by management’s confident positioning and cost controls."
+}

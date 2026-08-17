@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "continues to monitor",
+    "as it considers prudent",
+    "if believed prudent",
+    "signs of improvement",
+    "calling efforts were emphasized"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent regarding earnings, margins, deposits, securities, and loan balances, with generally stable-to-positive operating results. Risk disclosure is somewhat boilerplate and limited in this portion, relying on broad monitoring language and providing little detail on emerging credit-quality concerns, liquidity stress, or downside scenarios."
+}

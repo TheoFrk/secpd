@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "may be incorrect",
+    "could be greater or less",
+    "limited market activity",
+    "subject to investigations"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantitative information, but relies on management judgments and subjective valuation assumptions for Level 3 assets, legal reserves, and goodwill impairment. Ongoing regulatory investigations, adverse awards, ARS purchase commitments, and illiquid securities create meaningful legal, valuation, and liquidity risks."
+}

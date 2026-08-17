@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "designed to address multiple industries",
+    "we believe it presents a clear potential for substantial growth",
+    "expected future investments to grow new units",
+    "assumptions based on expectations",
+    "no impairment charges"
+  ],
+  "risk_summary": "The excerpt is highly promotional and product-focused, with substantial regulatory and technical jargon but limited financial performance, liquidity, and operating-risk detail. It identifies concentration risk from cash balances exceeding FDIC insurance limits and relies on subjective growth, demand, and discount-rate assumptions in impairment testing. Overall tone is confident, though the disclosure provides limited evidence to substantiate growth claims."
+}

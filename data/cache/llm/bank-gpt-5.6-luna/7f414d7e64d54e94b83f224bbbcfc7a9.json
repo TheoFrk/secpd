@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot assure funds will be available",
+    "substantial doubt about ability to continue as a going concern",
+    "future growth if it occurs",
+    "among others",
+    "may differ markedly from current expectations"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified detail but signals severe financial risk, including a $14.9 million loss, a $3.9 million working-capital deficit, reliance on debt and equity financing, and substantial doubt about going-concern viability. Management presents expansion and cost-control plans, but repeatedly qualifies their feasibility and acknowledges that financing may be unavailable or insufficient. High share issuance, debt settlements, derivative liabilities, and operational/regulatory uncertainties further weaken the risk profile."
+}

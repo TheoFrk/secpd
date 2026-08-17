@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may differ materially",
+    "no assurance",
+    "management estimates and assumptions",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate in its forward-looking disclaimer but provides relatively detailed accounting and allowance methodologies. Key risks arise from judgment-based estimates, loan-loss adequacy, economic conditions, fair-value volatility, and potentially different ultimate outcomes."
+}

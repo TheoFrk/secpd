@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous alternative judgments",
+    "most reasonable value",
+    "could impact earnings",
+    "economic uncertainty",
+    "may require us to increase the allowance"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial and performance data, supporting relatively transparent disclosure. However, the critical-accounting-estimates section relies on broad judgment-based caveats around loan losses, pensions, and securities impairments, leaving sensitivity to adverse conditions only partially quantified. Overall tone is confident and positive, tempered by meaningful credit, market, and estimation risks."
+}

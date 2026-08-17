@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.12,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "partially offset by",
+    "primarily reflected",
+    "modestly exceeded earned pricing",
+    "favorable prior year reserve development",
+    "realigned reportable business segments"
+  ],
+  "risk_summary": "The excerpt is highly quantified and comparatively transparent, with clear year-over-year drivers and insurance performance metrics. Risk is elevated by sharply higher catastrophe losses, declining net income, weaker underlying underwriting margins, and reserve development benefits that may not recur, although liquidity, capitalization, and operating cash flow remain substantial."
+}

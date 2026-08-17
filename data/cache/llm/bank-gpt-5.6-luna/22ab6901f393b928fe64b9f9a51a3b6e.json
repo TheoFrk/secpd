@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "typically",
+    "may have benefited",
+    "significant management judgments",
+    "customer-specific limits",
+    "primarily"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with explicit sales, cash flow, acquisition, working-capital, and restructuring figures. Key risks include seasonality, weather-sensitive demand, warranty and overstock returns, customer allowances, inventory requirements, acquisition integration, and reliance on revolving credit. The tone is cautiously positive but acknowledges material operational and liquidity variability."
+}

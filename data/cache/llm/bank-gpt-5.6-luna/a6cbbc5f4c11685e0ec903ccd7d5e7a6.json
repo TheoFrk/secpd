@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to a number of risks and uncertainties",
+    "Actual results may vary",
+    "likely to fluctuate",
+    "factors beyond management’s control",
+    "would likely impact results"
+  ],
+  "risk_summary": "The excerpt provides substantial business, regulatory, market, and investment context with several quantitative disclosures, but relies on broad forward-looking qualifiers and does not quantify the potential impact of many identified risks. Risk tone is balanced and generally stable rather than crisis-like, with meaningful exposure to real-estate cycles, interest rates, regulation, operating leverage, and investment performance."
+}

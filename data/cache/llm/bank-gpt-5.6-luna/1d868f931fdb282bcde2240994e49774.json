@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "actual results may differ materially",
+    "no obligation to update",
+    "among other things",
+    "do not anticipate significant liquidity constraints"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, reporting segment trends, cash flows, capital expenditures, profitability, and liquidity. Risk tone is moderately positive, supported by improved results, no long-term debt, and stated liquidity adequacy, while standard forward-looking disclaimers and broad risk-factor references limit certainty. Key risks include demand and capacity conditions, driver availability, fuel prices, weather, capital intensity, and weaker Intermodal performance."
+}

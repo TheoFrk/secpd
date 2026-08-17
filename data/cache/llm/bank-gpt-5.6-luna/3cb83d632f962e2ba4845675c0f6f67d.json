@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements may prove inaccurate",
+    "risks and uncertainties",
+    "cannot predict",
+    "among other things",
+    "ever increasing information theft"
+  ],
+  "risk_summary": "The excerpt presents improving earnings and detailed operational metrics, supporting a moderately positive tone. However, extensive forward-looking disclaimers and generic descriptions of interest-rate, credit, liquidity, regulatory, and reputational risks limit transparency regarding quantified exposures and potential downside severity."
+}

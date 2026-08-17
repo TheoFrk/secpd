@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "depending on various factors",
+    "could materially affect",
+    "significant fluctuations",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, but includes standard forward-looking disclaimers and broad uncertainty language. Key risks include ERP implementation disruption, customer attrition, declining distributor counts, foreign-exchange exposure, and an unusually high effective tax rate of 528.8%."
+}

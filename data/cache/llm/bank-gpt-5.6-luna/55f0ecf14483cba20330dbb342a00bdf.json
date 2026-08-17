@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP constant-currency measures",
+    "various factors",
+    "backlog not indicative of future results",
+    "debt covenant restrictions"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantified year-over-year sales, earnings, margin, backlog, commodity, and debt information. Risk tone is mildly negative because revenue and earnings declined amid foreign-exchange pressure, weak end markets, and lower fixed-cost absorption, although management presents mitigation efforts and liquidity details. Boilerplate forward-looking language and non-GAAP measures modestly reduce clarity but do not appear materially evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to be adequate",
+    "primarily driven by",
+    "partially offset by",
+    "current earnings generation",
+    "historical information and assumptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, clearly identifying a 13.0% sales decline, a 59.4% operating-income decline, and substantial COVID-19-related impairment and restructuring charges. Liquidity commentary is confident, citing $117.8 million of cash and $450 million of borrowing capacity, but relies on forward-looking assumptions regarding future operations, earnings generation, covenant compliance, and actuarial estimates."
+}

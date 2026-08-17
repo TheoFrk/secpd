@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.77,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "amounts not necessarily predictive",
+    "among other things",
+    "potentially occur",
+    "subject to certain collateral-obligation ratios",
+    "covenant waivers and amendments"
+  ],
+  "risk_summary": "The disclosure identifies meaningful credit risk through repeated covenant breaches, operating losses, facility closures, and reliance on lender waivers, although the company reported compliance at year-end and subsequently refinanced on more favorable terms. Risk quantification is incomplete because several referenced tables and covenant restrictions are truncated or omitted, and projected cost savings are explicitly described as uncertain."
+}

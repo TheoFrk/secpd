@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may have a material adverse effect",
+    "it is uncertain",
+    "could be materially adversely affected",
+    "expected to propose",
+    "we cannot guarantee"
+  ],
+  "risk_summary": "The excerpt identifies substantial strategic, regulatory, capital, ratings, and GSE-related risks, including potential reductions in mortgage insurance demand and constraints on writing new business. Quantitative disclosures on premiums, defaults, reserves, and Australian exposure improve specificity, but extensive contingencies, cross-references, and legal disclaimers make outcomes difficult to assess."
+}

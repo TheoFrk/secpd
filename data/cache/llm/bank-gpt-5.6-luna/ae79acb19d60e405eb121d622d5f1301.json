@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no obligation to publicly revise or update",
+    "considerable management judgment",
+    "greater degree of uncertainty",
+    "assumptions consistent with internal planning"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on receivables, bad debt, goodwill, insurance liabilities, and liquidity-related commitments, but relies heavily on standard forward-looking disclaimers and judgment-based assumptions. Key risks include customer concentration and defaults, uncertain customer deductions and revenue offsets, impairment sensitivity, and self-insurance claims. Overall tone is operationally stable and mildly confident, while acknowledging material estimation uncertainty."
+}

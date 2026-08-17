@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance",
+    "risk factors may not be exhaustive",
+    "numerous assumptions",
+    "tables truncated/incomplete"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and repeated uncertainty language, limiting interpretability of forward-looking information. Reserving disclosures provide useful quantitative balances and methodology, but emphasize substantial actuarial judgment and potential variability in loss and loss expense reserves. The incomplete sensitivity table prevents a full assessment of reserve downside exposure."
+}

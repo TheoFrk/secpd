@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "no assurance",
+    "may have a material adverse effect",
+    "could potentially be forced to sell assets",
+    "anticipated restart of the plant"
+  ],
+  "risk_summary": "The disclosure explicitly identifies severe liquidity and going-concern risk, including a $21.2 million operating loss, $290,603 in cash, $51.0 million of negative working capital, loan defaults, and potential bankruptcy or asset sales. Management relies on uncertain operating improvements and additional debt or equity financing, while repeatedly noting that these outcomes are not assured."
+}

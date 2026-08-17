@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.93,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "unless successful in obtaining additional liquidity",
+    "potential notice of default",
+    "could require disposition of assets",
+    "critical estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure is highly adverse, explicitly identifying insufficient liquidity, missed debt payments, pension funding obligations, potential defaults, and substantial doubt about the Company’s ability to continue as a going concern. Although the discussion provides meaningful quantified amounts and sensitivities, legal and accounting terminology and extensive conditional phrasing make the presentation complex."
+}

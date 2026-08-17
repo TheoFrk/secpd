@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact cannot be reasonably estimated",
+    "duration and impact on customer demand",
+    "primarily due to",
+    "where noted",
+    "currently expected to be temporary"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding fiscal 2019 performance, liquidity, debt, and nonrecurring gains. Risk tone is moderately negative because comparable sales and earnings declined and COVID-19 caused store closures, significant operational disruption, and withdrawal of guidance. COVID-19 duration and financial impact remain unquantified, creating elevated forecasting uncertainty."
+}

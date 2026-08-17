@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to risks and uncertainties",
+    "if necessary",
+    "cannot assure successful capital access",
+    "unobservable inputs and subjectivity"
+  ],
+  "risk_summary": "The company reports substantial cumulative losses, declining revenue, significant net losses, high accrued interest, and an explicit going-concern warning from auditors. Liquidity depends on additional capital and related-party financing, while debt conversion terms and derivative valuations create dilution and financial-statement volatility risks."
+}

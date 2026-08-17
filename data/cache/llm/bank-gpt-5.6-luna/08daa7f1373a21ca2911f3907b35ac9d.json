@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot reliably estimate",
+    "not reproducible nor validated",
+    "high rate of failure",
+    "NM - not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including revenue, margins, charges, tax rates, pipeline stages, and specific development outcomes. Risk tone is moderately cautious due to extensive R&D failure, regulatory, patent, cost-estimation, and Venezuelan crisis disclosures, although 2016 operating performance improved. Some boilerplate warnings and broad inability-to-estimate language limit transparency regarding project-level economics and future returns."
+}

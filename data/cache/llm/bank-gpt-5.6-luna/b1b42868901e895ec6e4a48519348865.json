@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "other risks and uncertainties",
+    "no such list should be considered complete",
+    "unable to currently identify",
+    "no assurance"
+  ],
+  "risk_summary": "The excerpt is dominated by highly standardized forward-looking-statement disclaimers and an extensive, broadly framed list of potential risks, limiting specificity about probability and financial impact. The later MD&A content provides some quantified restructuring and impairment charges, but comparability is complicated by common-control transactions, discontinued operations, and pro forma adjustments."
+}

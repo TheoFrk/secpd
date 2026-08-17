@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "numerous assumptions and risks",
+    "could differ materially",
+    "no obligation to update",
+    "significant management judgment",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and accounting-policy boilerplate, with broad unquantified risk categories and extensive reliance on management judgment. Credit-loss reserves, fair-value estimates, liquidity, capital, regulatory changes, and market conditions are material risk areas, although the disclosure provides some useful quantitative fair-value detail. Overall tone is cautious rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "qualitative assessment",
+    "more likely than not",
+    "could differ from reported revenue",
+    "varying interpretations",
+    "subject to change over time"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantification, particularly regarding customer concentration, goodwill, sales-tax accruals, and lease balances. However, substantial reliance on management estimates, qualitative impairment assessments, variable consideration, and potentially changing tax interpretations creates material uncertainty. Overall tone is operationally confident but tempered by accounting, customer concentration, and tax-compliance risks."
+}

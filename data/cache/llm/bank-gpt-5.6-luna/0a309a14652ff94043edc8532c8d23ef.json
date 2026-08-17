@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate with certainty",
+    "expected to continue",
+    "well positioned for long-term growth",
+    "actively monitor impacts",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, but uses forward-looking and non-specific language around COVID-19 duration, severity, and financial effects. Risk tone is moderately negative due to pandemic-related under-absorption, closures, margin pressure, and receivables impairment, tempered by management's confidence in operational continuity and long-term positioning."
+}

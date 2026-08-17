@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor boilerplate",
+    "risks and uncertainties beyond our control",
+    "cannot be quantified",
+    "no assurance additional financing",
+    "insufficient revenue to fund operations"
+  ],
+  "risk_summary": "The disclosure includes quantified historical results but relies heavily on standard forward-looking disclaimers and broad, unquantified risk language. The company acknowledges dependence on licensee commercialization, royalty timing, uncertain estimates, and potential future financing, while stating that current revenues have not been sufficient to fund operations."
+}

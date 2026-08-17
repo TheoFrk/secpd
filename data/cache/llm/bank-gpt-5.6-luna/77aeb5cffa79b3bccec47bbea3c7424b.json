@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "year-to-year comparisons omitted",
+    "primarily reflecting",
+    "partially offset by",
+    "not material",
+    "one-time tax benefit"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and generally transparent, reporting key profitability, leverage, liquidity, catastrophe, reserve, and investment metrics. Risk is present through materially higher catastrophe losses, automobile and surety losses, banking-sector disruption, and unrealized investment losses, but operating performance and cash generation remain solid. Some causal explanations rely on recurring qualifiers and the omission of 2022–2021 comparisons limits trend visibility."
+}

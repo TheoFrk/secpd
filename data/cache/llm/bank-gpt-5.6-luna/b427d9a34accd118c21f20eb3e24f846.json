@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future net cash flows expected",
+    "reasonably assured",
+    "more likely than not",
+    "if any",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, describing revenue drivers, asset sales, debt repayments, credit terms, and cash flows. Risk remains from reliance on management estimates for impairment, workers’ compensation liabilities, tax-asset realization, and investment results, while operating income declined year over year. The liquidity discussion is incomplete in the excerpt, limiting assessment of borrowing capacity and covenant risk."
+}

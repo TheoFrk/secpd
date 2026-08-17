@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "cannot guarantee future results",
+    "may differ materially",
+    "including but not limited to",
+    "no assurance that payments will be approved"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and project information, but its risk disclosure relies heavily on broad boilerplate lists of contingencies and repeated forward-looking-statement disclaimers. Key exposures include weather and disease, water and regulatory uncertainty, financing and covenant constraints, debt service capacity, commodity volatility, and dependence on anticipated cost savings and government funding."
+}

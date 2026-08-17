@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantially different",
+    "beneficial conversion",
+    "restrictive provisions",
+    "waiving certain rights",
+    "textual truncation"
+  ],
+  "risk_summary": "The excerpt is generally precise and heavily quantified, but contains dense accounting terminology and repeated descriptions of debt amendments that reduce readability. Risk tone is moderately negative due to the clinical-stage status, dependence on regulatory approvals, patent expiration concerns, operating losses, and debt restructuring activity."
+}

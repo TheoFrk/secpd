@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot be quantified or predicted with specificity",
+    "appropriate actions to mitigate",
+    "numerous evolving factors",
+    "known or unknown risks and uncertainties",
+    "materially different from what we currently anticipate"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking disclaimers and repeated pandemic, macroeconomic, supply-chain, regulatory, tax, and impairment uncertainties, with limited quantification of potential downside. Liquidity is quantified at approximately $1.1 billion and management presents the business as resilient, but acquisition integration and evolving operating conditions remain material risks."
+}

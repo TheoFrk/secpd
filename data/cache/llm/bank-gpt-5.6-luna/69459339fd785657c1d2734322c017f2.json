@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking information involves risks and uncertainties",
+    "not presently aware or currently consider immaterial",
+    "extent and duration of COVID-19 pandemic",
+    "may not be indicative of future results",
+    "could impact this estimate"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, but contains extensive standard forward-looking-risk disclaimers and uncertainty regarding COVID-19, industrial demand, regulatory recoveries, and customer shutdowns. Operating performance weakened in regulated operations, while clean-energy earnings improved; the overall tone is cautious and mixed rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "restatement of previously reported financial statements",
+    "adjusted non-GAAP measures",
+    "primarily due to",
+    "expected and anticipated",
+    "uneven by geography and end-use market"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on the restatement, restructuring, pension settlements, environmental charges, and tax impacts, supporting relatively transparent disclosure. Risk remains elevated due to the financial restatement, significant historical pension and restructuring charges, environmental liabilities, raw-material inflation, and uneven demand trends. The forward outlook is cautiously confident but relies on expectations, pricing actions, and favorable operating assumptions."
+}

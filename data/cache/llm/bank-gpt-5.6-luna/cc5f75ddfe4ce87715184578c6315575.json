@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance of outside capital",
+    "subject to adequate financing",
+    "specific factors listed without detail",
+    "cross-references to notes and sections",
+    "truncated or missing tables"
+  ],
+  "risk_summary": "The excerpt provides several quantified operating trends and seasonality disclosures, but relies heavily on cross-references and includes incomplete sections where specific revenue drivers are not shown. Key risks include dependence on external financing, seasonal revenue concentration, weather sensitivity, geographic redeployment, and discontinued operations involving assets held for sale."
+}

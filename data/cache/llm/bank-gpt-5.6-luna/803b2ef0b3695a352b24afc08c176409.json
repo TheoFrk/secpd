@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expect to continue",
+    "potential to generate sales increases",
+    "sufficient to fund our operations",
+    "no material trends or uncertainties"
+  ],
+  "risk_summary": "The disclosure provides useful revenue, customer concentration, acquisition, capital expenditure, and purchase-order commitment figures, but relies heavily on optimistic expectations regarding product adoption, pipeline conversion, and profitability. Ongoing operating losses, dependence on a few customers, competitive pressure, and potential need for additional financing represent meaningful credit risks. The assertion that no material trends or uncertainties exist appears somewhat inconsistent with the acknowledged liquidity and execution risks."
+}

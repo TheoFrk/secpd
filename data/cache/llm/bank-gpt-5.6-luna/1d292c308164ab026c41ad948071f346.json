@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.25,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.47,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unprecedented uncertainty",
+    "unable to forecast the full impact",
+    "extended or further closures may be required",
+    "material adverse impact",
+    "unknown duration and severity"
+  ],
+  "risk_summary": "The excerpt provides substantial historical operating detail and quantified performance metrics, but COVID-19 creates significant near-term uncertainty regarding store closures, consumer demand, liquidity, and fiscal 2020 results. Management explicitly expects a material adverse impact and has drawn $800 million on its revolving credit facility, while repeatedly acknowledging that the duration and severity of disruption cannot be forecast."
+}

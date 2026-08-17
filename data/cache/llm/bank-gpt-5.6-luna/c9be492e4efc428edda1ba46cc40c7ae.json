@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "typically experience some seasonality",
+    "we believe payor diversity mitigates",
+    "qualitative analysis",
+    "proven ability",
+    "does not represent a strategic shift"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, including procedure volumes, revenue, payer mix, liquidity, borrowing capacity, acquisitions, and debt-related costs. Key risks include reimbursement exposure, seasonality, high patient deductibles, acquisition integration, contingent consideration, and substantial interest expense, although the tone emphasizes operational scale and available liquidity. The excerpt is technically complex and contains some standard management assertions and qualitative consolidation judgments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not undertake any obligation to update",
+    "beyond our control",
+    "management’s best estimate",
+    "considerable subjective judgment"
+  ],
+  "risk_summary": "The excerpt reports strong, quantified earnings growth and provides substantial operating detail, producing a generally positive risk tone. However, extensive forward-looking disclaimer language and reliance on subjective loan-loss estimates introduce moderate uncertainty, particularly regarding allowance adequacy and economic, interest-rate, and regulatory conditions."
+}

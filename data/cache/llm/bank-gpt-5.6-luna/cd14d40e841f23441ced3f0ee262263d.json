@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-binding letter of intent",
+    "no assurance transactions will be consummated",
+    "depending on availability of suitable transactions",
+    "expected to complete",
+    "significant estimates and assumptions"
+  ],
+  "risk_summary": "The company is development-stage and relies heavily on speculative acquisitions, projected synergies, and future financing, with limited quantified operating performance in the excerpt. Multiple non-binding agreements and conditional plans create significant execution, funding, valuation, and integration risk. Extensive accounting-policy boilerplate and missing text further reduce disclosure clarity."
+}

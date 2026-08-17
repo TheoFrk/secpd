@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "positive outlook and growth claims",
+    "active pipeline of opportunities",
+    "expected to drive growth",
+    "historical experience assumptions",
+    "truncated inventory discussion"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive growth and operating-efficiency narrative, supported by quantified sales, earnings, warranty, acquisition, and debt figures. However, it relies substantially on promotional strategy language and forward-looking expectations, while key assumptions around inventory valuation, supply-chain pressure, and future performance are only partly quantified in the provided text."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "approximately $90-95 million",
+    "we expect",
+    "we anticipate announcing",
+    "changes in customer mix",
+    "evolving markets"
+  ],
+  "risk_summary": "The excerpt is largely quantified and provides clear year-over-year explanations for sales, margins, expenses, cash flows, and capital expenditures. Risk tone is cautiously positive, supported by revenue growth and liquidity, but moderated by declining gross margin, customer concentration, end-market volatility, disengagements, and substantial planned capital spending."
+}

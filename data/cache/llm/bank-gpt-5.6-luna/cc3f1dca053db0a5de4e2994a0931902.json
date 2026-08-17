@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "certain non-cash and/or non-recurring items",
+    "primarily reflected",
+    "partially offset by",
+    "expected to continue to impact",
+    "cost-reduction initiatives"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and identifies COVID-19 disruption, customer delays, inflation, commodity costs, pricing pressure, and margin risks. Overall tone is cautiously positive because sales increased across segments and cost reductions improved operating performance, although reliance on adjusted EBITDA and numerous exclusions warrants scrutiny."
+}

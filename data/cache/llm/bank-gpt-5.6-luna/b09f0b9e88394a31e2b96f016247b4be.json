@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to general economic and market conditions",
+    "could limit our growth",
+    "expected to put continuing pressure",
+    "estimated annual installments",
+    "best judgment and significant estimates"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative regarding liquidity, regulatory capital, transaction consideration, and payment obligations, but includes substantial boilerplate around market and competitive risks. Risk tone is mildly negative due to revenue pressure, prior settlement costs, discontinued operations, and dependence on forecasted earnings for purchase-price payments. Complex transaction descriptions and Level 3 valuation assumptions increase interpretive and estimation risk."
+}

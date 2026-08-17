@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad array of engineered components",
+    "expects wholesale and retail volumes to more closely align",
+    "significant opportunities",
+    "many factors that can impact actual spending",
+    "primarily funded by cash generated from operations"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but it contains repeated business descriptions and some forward-looking, non-specific assertions. Key risks include declining RV demand, inventory normalization, industry cyclicality, acquisition spending, and reliance on borrowings to fund investments."
+}

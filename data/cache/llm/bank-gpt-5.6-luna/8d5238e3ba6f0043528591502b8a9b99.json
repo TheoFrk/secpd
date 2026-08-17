@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"strong financial performance\"",
+    "\"actively monitor\"",
+    "\"prudently worked\"",
+    "non-GAAP measures",
+    "excluding PPP loans"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, especially regarding earnings, asset quality, loan growth, PPP exposure, and net interest margin. Its tone is confident and favorable, though positive descriptors and selective exclusion of PPP effects may soften attention to declining net interest margin, lower earnings, and emerging BaaS execution risks."
+}

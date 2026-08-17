@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "most likely expected to decline",
+    "subject to adjustment and continuously updated",
+    "other adjustments",
+    "not considered part of core operating results",
+    "partially offset by anticipated growth"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and transaction detail, but relies on non-GAAP measures and broad qualitative explanations that may obscure underlying performance. Industry wholesale shipments are contracting, 2020 shipments are forecast to decline, and motorhome Adjusted EBITDA fell 37.2%, while Towable performance remained strong. The planned Newmar acquisition and associated financing introduce execution and leverage risk."
+}

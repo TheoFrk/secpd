@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "remains unknown",
+    "cannot reliably estimate",
+    "various other assumptions",
+    "believed to be reasonable"
+  ],
+  "risk_summary": "The excerpt presents substantial operating and financial risks from low and volatile oil prices, COVID-19 disruption, reduced customer spending, contract cancellations, lower utilization and rates, supply-chain constraints, and potential impairment. Although it identifies specific assets and industry drivers, many forward-looking impacts remain uncertain and rely on assumptions regarding market recovery, demand, cash flows, and asset values."
+}

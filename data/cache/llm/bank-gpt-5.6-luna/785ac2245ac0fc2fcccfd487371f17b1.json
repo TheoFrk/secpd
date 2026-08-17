@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to court approval",
+    "no assurance",
+    "may include",
+    "preliminarily target completion",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt is relatively precise and highly quantified, clearly disclosing a substantial 2024 net loss, securities restructuring loss, litigation settlement, fraud loss, and BaaS wind-down. Risk tone is moderately negative, although management frames the securities restructuring and business exits as strategic actions and provides detailed financial impacts. Some standard forward-looking caveats and repeated transaction descriptions reduce clarity but do not appear materially evasive."
+}

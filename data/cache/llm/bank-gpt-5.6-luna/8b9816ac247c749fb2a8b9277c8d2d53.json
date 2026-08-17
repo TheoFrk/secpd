@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "provisional tax amounts",
+    "various assumptions and judgment",
+    "not evaluated in isolation"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including sales declines, margin changes, capital expenditures, dividends, and provisional tax impacts. Risk tone is mildly cautious due to weaker traffic, declining comparable-store sales, consumer and housing-market headwinds, and reliance on assumptions for health-care accruals and tax accounting. Management remains moderately confident regarding 2018 margins and sales drivers, but the outlook is contingent on improving consumer spending and housing conditions."
+}

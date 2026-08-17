@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "material adverse impact",
+    "potentially attractive returns",
+    "somewhat higher volume",
+    "missing reconciliation tables"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, but presents weaker continuing-operations earnings, elevated effective tax rates, restructuring charges, and customer concentration risk. Repeated emphasis on adjusted results and exclusions may soften the reported deterioration, while truncated tables and text limit full assessment of leverage and segment performance."
+}

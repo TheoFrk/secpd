@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and similar expressions",
+    "actual results could differ materially",
+    "assume no obligation to update",
+    "believe customers would continue without disruption",
+    "strategic marketing language"
+  ],
+  "risk_summary": "The excerpt combines quantified transition metrics and distributor concentration data with extensive forward-looking, hedged, and legally protective language. Autodesk presents the subscription transition and product expansion confidently, but acknowledges exposure to market conditions, acquisitions, channel changes, accounting standards, and execution risk."
+}

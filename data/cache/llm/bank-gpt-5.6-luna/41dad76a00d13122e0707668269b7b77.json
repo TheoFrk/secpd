@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may lead to",
+    "primarily due to",
+    "partially offset by",
+    "refer to Note",
+    "including cancellable option periods"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear explanations of revenue, cost, debt, lease, and contractual-obligation drivers. Key risks include inflation, labor and staffing pressures, supply-chain disruptions, lower guest traffic, and the need to refinance the $350 million notes maturing in October 2024. The tone is moderately confident but acknowledges meaningful operating and liquidity sensitivities."
+}

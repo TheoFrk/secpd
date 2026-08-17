@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.43,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-run-rate items",
+    "mid-single-digit growth",
+    "cautiously optimistic",
+    "competitive price pressure",
+    "may not recur in future periods"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively supported, including capital spending, shareholder returns, shipment expectations, and liquidity-related amounts. The tone is cautiously positive but acknowledges material risks from aerospace destocking, automotive production, metal-cost inflation, pricing pressure, and operational disruption at Trentwood. Extensive definitions of non-GAAP measures and non-run-rate items add boilerplate and may complicate interpretation of underlying performance."
+}

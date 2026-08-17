@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment required",
+    "various assumptions",
+    "could affect profitability",
+    "best estimate of standalone selling price",
+    "subject to many variables"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified revenue, cost, and margin changes, but relies heavily on standard ASC 606 boilerplate and management judgments around contract estimates. Declining gross margin and dependence on evolving cost-to-completion estimates indicate moderate earnings and contract-profitability risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cross-references to other filings",
+    "potentially unauthorized access",
+    "continued softness in technology/semiconductor markets",
+    "rising supplier, transportation and labor costs",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear disclosure of acquisitions, financing, segment performance, margin changes, and cost pressures. Risk factors include increased leverage and acquisition funding needs, demand weakness in technology and semiconductor markets, inflationary cost pressures, inventory write-offs, and ongoing cyber-incident litigation. The tone is operationally confident but moderately tempered by these exposures and the excerpt's extensive boilerplate cross-referencing."
+}

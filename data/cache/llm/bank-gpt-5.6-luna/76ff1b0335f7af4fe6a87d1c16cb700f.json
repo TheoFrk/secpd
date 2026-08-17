@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "potential benefits",
+    "suggests the potential",
+    "outcomes not within complete control",
+    "estimates may vary"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified clinical, dosimetry, and trial information, supporting relatively strong disclosure quality. Risk remains elevated due to early-stage clinical development, limited patient samples, ongoing FDA alignment, uncertain efficacy and safety outcomes, and reliance on estimates and investigator-reported findings. The overall tone is cautiously optimistic rather than crisis-like, with repeated qualifications around potential outcomes and future development."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to assumptions, risks, and uncertainties",
+    "no list of assumptions, risks, or uncertainties could be complete",
+    "does not undertake to update",
+    "not necessarily indicative of future results",
+    "favorable volume and rate variances"
+  ],
+  "risk_summary": "The excerpt presents a largely positive operating narrative, supported by detailed revenue, earnings, margin, capital, and balance-sheet metrics. Risk disclosure is dominated by standardized forward-looking-statement disclaimers and broad caveats, while specific downside scenarios are not meaningfully quantified. Repetition and technical banking terminology reduce clarity but do not indicate an immediate crisis tone."
+}

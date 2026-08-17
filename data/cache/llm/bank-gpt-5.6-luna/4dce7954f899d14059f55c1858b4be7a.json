@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.55,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and inherent uncertainty",
+    "no assurance actual results will not differ materially",
+    "adjusted non-GAAP performance measures",
+    "customary compliance covenants",
+    "could incur additional costs"
+  ],
+  "risk_summary": "The excerpt is quantitatively informative but contains substantial standard forward-looking disclaimers and extensive lists of potential adverse factors. The risk tone is negative, reflecting continuing losses, operating cash outflows, restructuring and impairment charges, supply-chain and geopolitical exposure, and meaningful debt covenant sensitivity, although the company reports covenant compliance and provides 2024 capital expenditure guidance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no obligation to update",
+    "non-GAAP measures",
+    "items outside management’s control",
+    "reasonable assurance"
+  ],
+  "risk_summary": "The excerpt contains substantial legal and non-GAAP boilerplate that may limit comparability and emphasizes exclusions from GAAP results. Operating disclosures are otherwise fairly quantified, but they describe material sales declines, oil-and-gas weakness, unfavorable mix, and acquisition-related margin dilution, partially offset by cost actions and a cautiously positive 2018 outlook."
+}

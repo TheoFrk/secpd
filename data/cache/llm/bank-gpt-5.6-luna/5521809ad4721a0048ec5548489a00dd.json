@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "we believe",
+    "well positioned for sustainable long-term growth",
+    "under different assumptions or conditions",
+    "regional economic and geopolitical concerns"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong sales, cash flow, and restructuring targets. Risk tone is moderately positive, but it relies on forward-looking expectations and highlights exposure to economic weakness, currency movements, acquisitions, restructuring execution, and accounting estimates."
+}

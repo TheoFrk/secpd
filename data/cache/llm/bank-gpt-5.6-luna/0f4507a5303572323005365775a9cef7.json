@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "disciplined loan growth",
+    "stable asset quality",
+    "deposit balance reductions",
+    "primarily impacted by loss exposure"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, but emphasizes favorable management characterizations and non-GAAP measures alongside a 9.2% decline in net income. Key risk signals include core deposit outflows, increased borrowings, stock repurchases, and credit-loss exposure in commercial portfolios, although reported nonperforming assets remained broadly stable."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "broad range of applications",
+    "largest customer concentration"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, including revenue, margins, customer concentration, expenses, and operating income. However, extensive boilerplate disclaimers and promotional descriptions dilute the risk discussion, while reliance on a dominant aerospace customer and uncertainty regarding profitability, financing, and expansion represent material risks. Overall tone is moderately positive due to strong growth and improved profitability, but not fully confident."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "but not limited to",
+    "anticipated benefits may not materialize",
+    "uncertain outlook"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate risk disclaimers and broad, non-quantified contingencies, particularly around macroeconomic conditions, acquisitions, operations, litigation, debt, and demand. It also provides meaningful quantitative disclosure on restructuring charges, savings, sales, and operating income, but the overall risk profile is mixed with substantial execution and market uncertainty."
+}

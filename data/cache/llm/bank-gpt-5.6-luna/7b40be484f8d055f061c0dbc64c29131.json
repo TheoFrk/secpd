@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance of future customer sales",
+    "significant customer turnover",
+    "cautiously optimistic outlook",
+    "risks associated with economic environment",
+    "management's estimate of selling price"
+  ],
+  "risk_summary": "The disclosure is relatively precise and strongly quantified regarding historical revenue, segment performance, customer concentration, and currency effects. Forward-looking commentary is cautious, highlighting weak expected Systems demand, uncertain royalty revenue, customer concentration, economic sensitivity, and reliance on management estimates for revenue allocation."
+}

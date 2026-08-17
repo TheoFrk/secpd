@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "plans to",
+    "if approved",
+    "may delay or derail",
+    "no guarantees",
+    "reasonably possible estimates materially different"
+  ],
+  "risk_summary": "The excerpt presents product-development and market-expansion opportunities but relies substantially on future plans, regulatory approvals, and uncertain commercialization outcomes. Material risks include concentrated customers, volatile public-sector ordering, tender uncertainty, operating losses in acquired assets, and potentially significant tax-estimate variability."
+}

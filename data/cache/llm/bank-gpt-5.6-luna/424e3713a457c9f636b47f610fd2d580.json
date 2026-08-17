@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "planned development and acquisition",
+    "currently expects",
+    "continue to evaluate additional opportunities",
+    "proposed settlement",
+    "future financial condition or results"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, growth-oriented strategy supported by substantial quantified investment and rate-base information. However, many future initiatives and regulatory outcomes are framed as plans or expectations, while the excerpt omits the referenced tables and detailed financial results, limiting assessment of execution, funding, and downside risks."
+}

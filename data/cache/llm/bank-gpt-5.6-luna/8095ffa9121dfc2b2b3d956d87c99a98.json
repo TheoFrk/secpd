@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "based on management’s estimate",
+    "various other assumptions",
+    "actual results may differ",
+    "if market conditions are less favorable",
+    "unable to reasonably estimate timing"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified thresholds, reserves, and obligations, but relies substantially on standard accounting-policy boilerplate and management estimates. Key risks include customer concentration, collectability, inventory obsolescence, warranty costs, impairment judgments, and uncertain timing of tax-related payments."
+}

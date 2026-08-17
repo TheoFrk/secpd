@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "favorable macro industry trends",
+    "mission and strategy language",
+    "customer contract non-performance"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, including segment sales declines, gross profit changes, cash flows, debt proceeds, repurchases, and expected 2025 capital expenditures. Risk tone is moderately negative because American whiskey trends softened, inventories were elevated, customer contract non-performance pressured brown goods, and consolidated sales declined 16%. Boilerplate forward-looking disclaimers and broad strategic language partially reduce specificity around future performance and liquidity risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "approximately and low-single digits",
+    "pro forma amounts not necessarily indicative",
+    "excluding certain charges and impacts",
+    "future effective tax rates may be materially impacted",
+    "Non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed reconciliations, acquisition impacts, and outlook ranges, supporting relatively strong disclosure quality. Risk is moderated by reliance on adjusted measures, pro forma assumptions, exclusions, and broad forward-looking qualifiers, particularly around tax rates and market growth. Overall tone is cautiously confident rather than crisis-like."
+}

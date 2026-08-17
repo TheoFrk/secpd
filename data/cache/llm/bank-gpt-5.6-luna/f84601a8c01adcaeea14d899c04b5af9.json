@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties and assumptions",
+    "other unknown effects",
+    "very modest improvement",
+    "partially offset by",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is materially quantified and identifies specific operating, market, liquidity, and acquisition-related drivers, but uses substantial boilerplate and forward-looking caveats. Risk tone is cautiously constructive: contractual portfolio strength and acquisitions are presented positively, while weak rental and used-vehicle markets, freight conditions, cost pressures, and interest rates remain meaningful risks."
+}

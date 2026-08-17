@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurances",
+    "additional guidance and clarification",
+    "cannot predict the results",
+    "could adversely affect",
+    "not individually reportable"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but contains substantial regulatory and reimbursement uncertainty related to health care reform, Medicare Star Ratings, premium restrictions, and potential legislative changes. Risk tone is cautious and moderately negative in the regulatory discussion, while operating and segment disclosures remain relatively precise."
+}

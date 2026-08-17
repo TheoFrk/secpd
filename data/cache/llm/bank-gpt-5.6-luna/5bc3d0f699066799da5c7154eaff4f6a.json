@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "challenging interest rate environment",
+    "disciplined loan growth",
+    "strong credit quality",
+    "may be volatile due to macroeconomic factors"
+  ],
+  "risk_summary": "The excerpt presents a predominantly confident and growth-oriented tone, supported by extensive quantified operating and credit metrics. Risk disclosure is partly standardized and relies on broad references to macroeconomic conditions, credit migration, CECL assumptions, and future charge-offs rather than detailed scenario-based quantification. Acquisition-related adjustments and non-GAAP measures may make underlying performance comparisons less transparent."
+}

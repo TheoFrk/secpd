@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks, uncertainties and other factors",
+    "could significantly affect",
+    "not intended to be a comprehensive list",
+    "hypothetical changes in material assumptions"
+  ],
+  "risk_summary": "The excerpt is heavily reliant on standard forward-looking and accounting-estimate disclaimers, with limited quantified detail in the provided text. It highlights material sensitivity to assumptions and possible adverse effects but does not indicate an immediate crisis. Operational disclosures are specific in places, including hospital closure, asset sale, and segment composition."
+}

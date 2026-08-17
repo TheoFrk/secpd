@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to borrowing base requirements",
+    "advances are at the discretion of the lender",
+    "believe the reserve is adequate",
+    "could adversely impact",
+    "no valuation allowance was deemed necessary"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear revenue, backlog, profitability, cash flow, and borrowing figures. Risk is mildly negative because backlog and operating cash flow declined, industrial and medical demand weakened, and liquidity is subject to lender discretion and financial covenants. Critical-estimate language is largely standard boilerplate and provides limited sensitivity analysis around reserves and deferred tax assets."
+}

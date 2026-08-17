@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.15,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "among other things",
+    "various factors",
+    "many factors beyond our control",
+    "not meant to be exhaustive"
+  ],
+  "risk_summary": "The excerpt provides meaningful historical financial and liquidity quantification, including improved sales, cash, working capital, and operating cash flow. However, the risk discussion is heavily boilerplate and broad, with limited quantification of exposures related to distributors, regulation, manufacturing, demand, and customer credit. Overall tone is mildly positive on recent performance but materially tempered by extensive uncertainty language."
+}

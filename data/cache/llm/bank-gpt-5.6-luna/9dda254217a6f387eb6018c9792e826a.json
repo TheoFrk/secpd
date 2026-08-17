@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "uncertain and difficult to predict",
+    "not currently possible to ascertain or predict",
+    "may be adversely affected",
+    "difficult to predict timing and costs",
+    "subject to extensive governmental regulation"
+  ],
+  "risk_summary": "The disclosure presents strong regulatory and commercial progress with substantial quantified collaboration and expense information, supporting a moderately positive tone. However, COVID-19 impacts, clinical-trial execution, regulatory uncertainty, patient recruitment, adverse effects, and development-cost variability remain material risks, often described through broad conditional language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "higher growth and operating margin businesses",
+    "expect to focus",
+    "likely will continue to divest",
+    "could have differing impact",
+    "standard playbook of tools and processes"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative segment information, including sales and operating-income declines, acquisition effects, foreign exchange impacts, and COVID-19 exposure. However, substantial strategy and management-system boilerplate, forward-looking generalities, and limited quantified outlook detail reduce transparency regarding future performance and execution risk. Overall tone is cautiously constructive but tempered by material pandemic, demand, cost, and portfolio risks."
+}

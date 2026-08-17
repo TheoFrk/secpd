@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "may not reoccur",
+    "based significantly on",
+    "subject to uncertainties",
+    "substantially all",
+    "normal business activities"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, particularly regarding regulated rate increases, debt terms, customers, and capital funding. Forward-looking performance depends on weather, timely rate relief, cost control, and customer growth, with some uncertainty around cost increases and revenue sustainability. The tone is cautiously constructive rather than crisis-like, and the company states it is compliant with mortgage covenants."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be guaranteed",
+    "highly uncertain and cannot be predicted",
+    "beyond the Company’s control",
+    "expects to meet cash flow needs",
+    "qualitative goodwill impairment analysis"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but contains standard forward-looking disclaimers and uncertainty language that limits predictive value. Credit risk is elevated by widening operating losses, substantial cash consumption, and a $6.7 million cash decline, although revenue growth and management’s stated 12-month liquidity expectation provide some offset."
+}

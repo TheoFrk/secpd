@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset",
+    "if the U.S. dollar remains",
+    "adjusting for the impact",
+    "did not recur"
+  ],
+  "risk_summary": "The excerpt is predominantly quantified and transparent, with detailed revenue, margin, debt, interest-rate, tax, impairment, and foreign-exchange disclosures. Risk tone is generally confident and favorable, although acquisition-related leverage, currency exposure, higher expenses, and dependence on favorable mix and organic growth are noted. Some causal explanations rely on recurring qualifiers and dense comparisons that modestly reduce clarity."
+}

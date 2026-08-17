@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and inherent risks",
+    "many of these risks are beyond the Company’s control",
+    "not possible to predict all factors",
+    "results may not be directly comparable",
+    "fully reconciling basis"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but includes substantial standard forward-looking-risk disclaimers and comparability caveats. Earnings declined modestly year over year, with exposure to regulatory refunds, weather variability, operating costs, integration effects, and higher interest expense. Overall tone is neutral to slightly cautious rather than crisis-like."
+}

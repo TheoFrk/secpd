@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected closing date",
+    "earnout payments",
+    "cannot estimate with certainty",
+    "non-GAAP measures",
+    "significant judgment and estimates"
+  ],
+  "risk_summary": "The disclosure presents strong 2022 operating performance with quantified sales, earnings, store acquisitions, and profitability growth, producing a generally positive tone. However, it relies on forward-looking language around the asset sale, earnouts, COVID-19 effects, labor shortages, demand volatility, tax positions, and reserve estimates, with several material uncertainties left unresolved. Non-GAAP adjustments and the omitted earliest-year comparison modestly reduce transparency."
+}

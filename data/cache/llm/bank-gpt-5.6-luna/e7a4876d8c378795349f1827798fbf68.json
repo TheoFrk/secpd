@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximately",
+    "cannot predict when and whether",
+    "expects to",
+    "including but not limited to",
+    "subject to regulatory approval"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, describing regulated operations, capital spending, rate filings, debt funding, and covenant compliance. Key uncertainties relate to regulatory approval and timing of rate relief, contract renewals, tax-rate adjustments, and execution of planned borrowings. Overall tone is stable and moderately confident, with no explicit indication of financial distress."
+}

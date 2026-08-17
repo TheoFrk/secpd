@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "expected to",
+    "potential to",
+    "pre-clinical development stage"
+  ],
+  "risk_summary": "The company is pre-revenue, loss-making, and dependent on additional financing, with explicit risks of dilution, restrictive debt covenants, spending reductions, and suspension of research programs. Product descriptions are highly promotional and rely extensively on expected or potential capabilities that remain pre-clinical and unvalidated commercially. Cash flow data is quantified, but the excerpt provides limited detail on liquidity runway, funding needs, or milestones."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could be affected by uncertainties and risks",
+    "not indicative of future performance",
+    "non-GAAP financial measures",
+    "subject to requisite approvals"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment, currency, sales, cash flow, and investment disclosures. Risk tone is moderately positive, emphasizing expected long-term revenue and margin improvement, while standard forward-looking and non-GAAP caveats limit certainty. Key disclosed risks include foreign-exchange exposure, regulatory-driven demand reductions, substantial capital spending, pension contributions, customer concentration or dependence, and execution of expansion projects."
+}

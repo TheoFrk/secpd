@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "current expectations and projections",
+    "various factors beyond our control",
+    "financial position could limit investments"
+  ],
+  "risk_summary": "The excerpt combines specific operating and liquidity metrics with substantial standard forward-looking disclaimer language and generalized strategic claims. The company reports improved profitability, cash generation, and debt reduction, but remains exposed to client and industry concentration, capital-intensive operations, financing constraints, and dependence on pharmaceutical R&D spending."
+}

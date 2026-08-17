@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "unable to predict without unreasonable efforts",
+    "forward-looking risk boilerplate",
+    "excluding unusual adjustments",
+    "truncated financial discussion"
+  ],
+  "risk_summary": "The excerpt presents a generally positive outlook and quantified free-cash-flow and growth targets, but reported net earnings declined sharply due in part to pension settlement costs. Extensive non-GAAP adjustments, forward-looking disclaimers, and exclusions may reduce comparability with GAAP results. The excerpt is highly complex and appears incomplete, limiting assessment of underlying operating trends."
+}

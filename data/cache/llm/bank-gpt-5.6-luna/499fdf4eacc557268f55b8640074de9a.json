@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "material adverse effect",
+    "in the event",
+    "well-positioned to manage challenges",
+    "continue to monitor developments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating data, but repeatedly emphasizes uncertainty around commodity prices, COVID-19 disruptions, liquidity, financing capacity, impairments, and debt covenants. Management presents mitigation measures and a resilient outlook, although the overall risk tone is moderately negative given lower prices, reduced production, and sharply lower net income."
+}

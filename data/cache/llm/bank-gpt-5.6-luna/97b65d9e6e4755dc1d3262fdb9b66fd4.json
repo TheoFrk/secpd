@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "higher degree of judgment and complexity",
+    "could differ significantly",
+    "as appropriate",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and accounting information, including revenue growth, operating cash flow, net loss, and preservation-cost write-downs. However, extensive technical accounting language and repeated estimates, assumptions, and caveats indicate meaningful valuation, yield, impairment, tax-recovery, and integration risks. Overall tone is cautiously positive on growth but tempered by losses, acquisition-related costs, and estimation uncertainty."
+}

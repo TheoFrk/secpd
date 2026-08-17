@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "significant management estimates",
+    "imprecise risk associated",
+    "certain inherent, but undetected, losses",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, highlighting improving asset quality, deposit growth, and positive operating objectives. Key risks remain tied to subjective loan-loss, goodwill, tax, and interest-rate assumptions, including potentially undetected losses and sensitivity to economic conditions. The overall tone is cautiously confident rather than crisis-like."
+}

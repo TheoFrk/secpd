@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to a number of risks and uncertainties",
+    "could impact the Company",
+    "beyond management’s control",
+    "including, but not limited to",
+    "future fluctuations"
+  ],
+  "risk_summary": "The excerpt provides substantial business-model and market context with some useful quantitative disclosures, including segment revenue concentration, interest income, and Federal Reserve rate ranges. Risk discussion is broad and partly boilerplate, emphasizing macroeconomic, regulatory, interest-rate, inflation, geopolitical, and real-estate-cycle exposures without quantifying likely financial impacts. Overall tone is cautious and mildly negative rather than crisis-like."
+}

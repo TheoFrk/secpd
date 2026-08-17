@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.68,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no guarantee of sufficient funding",
+    "anticipated revenues, if any",
+    "risks beyond our control",
+    "$20 million to $80 million or more"
+  ],
+  "risk_summary": "The company reports no significant revenue, substantial dependence on future capital raising, and anticipated funding needs far exceeding recent securities proceeds. Extensive boilerplate disclaimers and repeated contingencies emphasize uncertainty around financing, project execution, regulatory approvals, markets, management depth, and pandemic-related effects. Promotional projections regarding projects and technology are largely unquantified and remain dependent on letters of intent and other uncertain developments."
+}

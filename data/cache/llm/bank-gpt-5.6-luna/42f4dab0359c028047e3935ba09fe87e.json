@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "various factors",
+    "other risks",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt presents strong growth, recurring revenue expansion, acquisition activity, and a substantial backlog, producing a generally positive business tone. Risk disclosure is broad and largely boilerplate, with limited quantification of potential impacts from cybersecurity, acquisitions, client delays, competition, and regulatory exposure. The forward-looking disclaimer and refusal to update statements reduce accountability for forecast accuracy."
+}

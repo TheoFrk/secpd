@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance of successful implementation",
+    "including, but not limited to",
+    "management believes are critical",
+    "estimates, assumptions and judgments",
+    "increase in criticized loans"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting earnings, loan growth, margins, non-performing loans, charge-offs, and expense changes. Risk tone is moderately positive, although it acknowledges increased criticized loans, dependence on commercial lending and deposits, execution uncertainty, and the inherent subjectivity of accounting estimates. The excerpt is lengthy and partially repetitive, with some boilerplate strategy and cautionary language."
+}

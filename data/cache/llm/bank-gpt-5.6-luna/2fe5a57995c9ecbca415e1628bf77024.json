@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "do not believe",
+    "may increase",
+    "likely to be prompted",
+    "actual amount will depend",
+    "subject to relevant factors"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively supported, but uses conditional language around drilling activity, pricing, capital expenditures, dividends, and buybacks. Key risks include declining revenue and earnings, competitive pricing pressure, depressed natural-gas activity, excess pressure-pumping capacity, and expired customer contracts. Liquidity appears adequate, with lower borrowings and operating cash flow sufficient to fund reduced capital expenditures."
+}

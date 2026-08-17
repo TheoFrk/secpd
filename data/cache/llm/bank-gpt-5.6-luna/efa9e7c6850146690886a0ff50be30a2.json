@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.81,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "uncertainty surrounding claim approval",
+    "expect to have access to capital",
+    "sufficient cash for next 12 months",
+    "significant judgments in estimated costs",
+    "bill-and-hold revenue recognition"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and well quantified, but highlights material pressure from a 34.7% agricultural revenue decline, consolidated revenue contraction, and reliance on financing and an unrecognized ERC receivable. Liquidity is presented positively, although future capital access, contract estimates, inventory values, and ERC proceeds remain key uncertainties."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "considerable judgment",
+    "believed to be reasonable",
+    "other external factors",
+    "more likely than not",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and critical-accounting-policy boilerplate, but it identifies meaningful judgment and uncertainty in credit-loss allowances, investment impairments, taxes, and goodwill. It provides useful quantitative operating data, though the disclosure is dense and relies substantially on management estimates and broad conditional risk language."
+}

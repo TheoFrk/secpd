@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results may differ materially",
+    "macroeconomic challenges",
+    "non-GAAP measures excluding significant amounts",
+    "strategic initiatives and cost optimization"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful quantification of restructuring charges, seasonality, leverage-based interest margins, and macroeconomic exposures. However, substantial boilerplate disclaimers and non-GAAP framing may limit transparency regarding underlying performance, while elevated rates, tariffs, demand uncertainty, restructuring, and high-cost debt indicate moderate credit risk."
+}

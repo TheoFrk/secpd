@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.05,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "prior annual report reference",
+    "results and liquidity not presented"
+  ],
+  "risk_summary": "The excerpt provides no substantive analysis of operations, liquidity, or capital resources and instead redirects readers to a prior annual report. This limits transparency and may obscure current-period developments, although the language itself is neutral rather than overtly negative."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may have an adverse effect",
+    "cannot be certain additional financing available",
+    "significant uncertainty",
+    "valuation allowance on deferred tax assets"
+  ],
+  "risk_summary": "The excerpt presents material regulatory, demand, operating-loss, cash-flow, and financing risks, despite citing substantial cash and available credit facilities. Disclosure is generally specific and quantified, but extensive boilerplate disclaimers and conditional language limit certainty regarding recovery, future demand, and funding needs."
+}

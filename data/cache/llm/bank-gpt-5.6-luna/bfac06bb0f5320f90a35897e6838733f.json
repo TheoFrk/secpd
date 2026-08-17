@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "may never successfully derive significant product revenues",
+    "expect NIH will provide support",
+    "cannot predict level of support",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but highlights substantial development-stage and funding risks, including no regulatory approvals, recurring losses, limited cash, and dependence on NIH grants and equity financing. Future trial support, grant availability, commercialization, and revenue generation remain uncertain."
+}

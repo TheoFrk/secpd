@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "management-defined non-GAAP measure",
+    "items not representative of ongoing operations",
+    "retained corporate costs",
+    "excludes certain items",
+    "truncated and internally inconsistent excerpt"
+  ],
+  "risk_summary": "The disclosure is generally detailed and highly quantified, with clear regional revenue and operating-profit bridges. However, reliance on management-defined exclusions and non-GAAP segment measures can obscure recurring profitability, while the earnings decline, pension charges, debt-related costs, foreign-exchange exposure, and higher debt levels indicate moderate risk. The excerpt is unusually complex and appears truncated or spliced, reducing interpretive clarity."
+}

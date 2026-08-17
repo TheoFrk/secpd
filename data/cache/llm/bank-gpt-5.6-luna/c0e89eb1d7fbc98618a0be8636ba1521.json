@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "numerous assumptions, risks and uncertainties",
+    "undue reliance should not be placed",
+    "undertakes no obligation to update",
+    "non-GAAP comparability limitation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on the acquisition, allowance for credit losses, and loan maturity and rate exposure. However, extensive legal disclaimers, management judgment language, and non-GAAP caveats create moderate boilerplate and uncertainty, while the overall tone remains neutral to mildly confident rather than crisis-oriented."
+}

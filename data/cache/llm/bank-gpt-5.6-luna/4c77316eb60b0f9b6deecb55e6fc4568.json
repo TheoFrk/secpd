@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "extent of its economic impact continues to evolve",
+    "primarily due to",
+    "if the impact ... is not offset",
+    "actual net realizable values could be different"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but presents substantial downside risk from COVID-19, weakening demand, margin compression, liquidity management needs, and termination of the Texas Instruments distribution agreement. Risk disclosures rely on conditional and forward-looking language around duration, mitigation effectiveness, customer credit losses, inventory valuation, and future taxable income."
+}

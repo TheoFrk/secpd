@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.45,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "expect to enter into a new agreement",
+    "subject to certain constraints",
+    "significant management judgment",
+    "valuation allowance and uncertain tax position"
+  ],
+  "risk_summary": "The excerpt reports a material deterioration from operating income and net income in 2014 to an operating loss and $2.8 million net loss in 2015, driven by lower revenue, reduced U.S. Air Force business, Asian weakness, and a $1.3 million deferred tax asset valuation allowance. Liquidity discussion is incomplete in the excerpt, while recovery depends partly on an anticipated replacement Air Force contract that had not yet been awarded."
+}

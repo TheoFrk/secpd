@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.63,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could adversely affect",
+    "may be unable to",
+    "as appropriate",
+    "judgments and methodologies materially impact",
+    "other-than-temporary impairment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on the portfolio, geographic exposure, development pipeline, and operating model, but its forward-looking risk discussion relies heavily on conditional and generalized language. Key risks include refinancing and credit-market access, property and investment valuation impairment, tenant demand and credit quality, leasing performance, and development execution, with limited quantified sensitivity or downside estimates."
+}

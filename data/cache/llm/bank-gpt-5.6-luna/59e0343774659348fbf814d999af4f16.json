@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "beyond our ability to predict or control",
+    "no obligation to update",
+    "maximum value for holdings"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and broad, largely non-quantified risk factors, including liquidity constraints, valuation volatility, partner-company losses, and limited control. It also reports impairment charges and reliance on uncertain fair-value and equity-method estimates, indicating elevated portfolio and valuation risk despite a neutral strategic overview."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "largely offset",
+    "significantly influenced by temperatures",
+    "other significant discrete items",
+    "not meaningful variance"
+  ],
+  "risk_summary": "The excerpt presents strong, record results with substantial quantitative disclosure, but performance is materially influenced by weather, tax-law changes, acquisitions, and derivative valuation effects. Repeated emphasis on adjusted measures and exclusions may reduce comparability with GAAP results, while extensive technical language increases interpretive complexity."
+}

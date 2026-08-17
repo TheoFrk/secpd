@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "significant risks and uncertainties",
+    "cannot yet be reasonably or accurately estimated",
+    "not possible to fully eliminate exposure",
+    "management cannot predict timing and level",
+    "including but not limited to"
+  ],
+  "risk_summary": "The disclosure identifies material operational, credit, economic, cybersecurity, litigation, insurance, and interest-rate risks, with quantified cyber-theft amounts but unresolved total financial exposure. The tone is predominantly cautionary and includes substantial forward-looking-statement boilerplate and technical accounting language. The excerpt is partially truncated and contains formatting corruption, limiting assessment of the complete risk picture."
+}

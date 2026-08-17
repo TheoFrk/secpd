@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "reasonable and supportable forecasts",
+    "as deemed necessary",
+    "actual results could differ significantly",
+    "qualitative adjustments"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively supported, particularly regarding credit-loss assumptions, sensitivity impacts, liquidity, and capital resources. Residual risk arises from reliance on management judgment, economic forecasts, qualitative adjustments, and potentially significant changes in estimates. Overall tone is cautiously stable and mildly confident, with pandemic and credit-estimation risks acknowledged."
+}

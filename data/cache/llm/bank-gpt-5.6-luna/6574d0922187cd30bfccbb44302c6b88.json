@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance actual results will not differ",
+    "assumptions regarding future commodity prices",
+    "material adjustments",
+    "operational excellence",
+    "events or changes in circumstances"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative production, pricing, cost, cash flow, acquisition, and financing data, but relies on forward-looking strategic language and extensive estimates tied to commodity prices, reserves, costs, and impairment testing. Operating results are mixed, with lower silver production and realized metal prices partly offset by higher gold production, while financing benefited from a $300 million senior-notes issuance."
+}

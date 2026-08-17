@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "we believe we are well positioned",
+    "foreseeable future",
+    "continually evaluate alternatives"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including backlog ranges, capital expenditures, liquidity, borrowing capacity, and lease obligations. It identifies meaningful cyclical, technological, capacity-utilization, capital-intensity, and geographic cash risks, while maintaining a moderately confident outlook. Some forward-looking language relies on broad qualifiers and recurring risk-factor formulations, and the excerpt is truncated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous unknown factors",
+    "beyond the Company’s control",
+    "full valuation allowance",
+    "unaudited comparative periods"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, but highlights recurring losses, elevated operating and development expenses, margin compression, and a significant deferred-tax valuation allowance. Extensive forward-looking disclaimers and repeated tax-accounting language add boilerplate and modestly reduce transparency, while the lower annual loss and modest revenue growth provide limited offsetting positives."
+}

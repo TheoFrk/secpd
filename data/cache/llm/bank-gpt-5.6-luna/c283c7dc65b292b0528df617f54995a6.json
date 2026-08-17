@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "does not undertake any obligation",
+    "could cause actual results to differ materially",
+    "related-party common ownership",
+    "contingently liable indemnity agreement"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified regarding cash flows, working capital, and operating changes. Key risks include extensive related-party relationships, lack of control over an equity-method partnership, contingent indemnity exposure, and reliance on oil and gas prices, production, and lease bonuses. The tone is operationally stable but moderated by standard liability disclaimers and commodity-related uncertainty."
+}

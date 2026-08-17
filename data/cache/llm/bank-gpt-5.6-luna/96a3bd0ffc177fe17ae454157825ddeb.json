@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "unable to predict without unreasonable efforts",
+    "non-GAAP exclusions",
+    "other unusual adjustments",
+    "truncated environmental risk disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and provides useful detail on sales, margins, acquisitions, debt, inflation, and restructuring. However, extensive boilerplate, non-GAAP adjustments, and reliance on broad categories of unpredictable items somewhat reduce transparency. Risk tone is mildly positive overall, tempered by supply-chain disruption, cost inflation, increased debt, restructuring charges, and environmental compliance costs."
+}

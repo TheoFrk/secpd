@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.32,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "including but not limited to",
+    "subject to customary closing conditions"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward legal boilerplate and extensive uncertainty disclaimers, with limited direct assessment of probability or financial magnitude for many risks. It identifies material execution, financing, regulatory, litigation, market, and separation risks, including a potential $12.7 billion note redemption obligation. Quantified operating data appears later but is fragmented by complex transaction-related presentation changes."
+}

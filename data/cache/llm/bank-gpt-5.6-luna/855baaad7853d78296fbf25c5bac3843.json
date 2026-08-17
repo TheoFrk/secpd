@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "forward-looking statements",
+    "page references only"
+  ],
+  "risk_summary": "The excerpt provides essentially no financial or risk information directly, instead incorporating the MD&A by reference to another report. This limits transparency and requires review of the cited pages to assess liquidity, performance, and risk exposures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "best information available",
+    "future economic conditions differ substantially",
+    "management’s evaluation and judgment",
+    "most likely rate scenario",
+    "not as meaningful"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified goodwill, impairment, and interest-rate sensitivity information, but relies heavily on management estimates, assumptions, and valuation judgments. Key downside risks include potential future loan-loss allowance adjustments, acquisition-related valuation uncertainty, goodwill impairment, and model sensitivity to economic and interest-rate assumptions."
+}

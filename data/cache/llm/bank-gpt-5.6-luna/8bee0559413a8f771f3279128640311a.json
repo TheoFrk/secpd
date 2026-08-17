@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.08,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "Omitted pursuant to instruction",
+    "Incorporated herein by reference",
+    "No substantive MD&A provided",
+    "Information deferred to annual reports"
+  ],
+  "risk_summary": "The excerpt provides no substantive operational or financial analysis and instead omits or defers the required discussion to prior annual reports. This limits transparency and requires review of referenced documents to assess current-period risks."
+}

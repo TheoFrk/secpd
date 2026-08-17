@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "new risks emerge from time to time",
+    "not possible for management to predict all",
+    "strategically positioned for future growth",
+    "portfolio realignment and restructuring"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, expenses, geographic exposure, capacity, restructuring accruals, and other income, but is embedded in extensive boilerplate and promotional language. Key risks include customer concentration or distress, order cancellations, demand volatility, capacity utilization, labor costs, short product life cycles, and restructuring, while fiscal-year sales were essentially flat."
+}

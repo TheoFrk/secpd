@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to variability",
+    "actual results could differ significantly",
+    "poised for continued improvement",
+    "uncertainty exists",
+    "significant judgments and may be volatile"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including energy-market, interest-rate, earnings, and allowance information. Key risks include prolonged energy weakness, uncertain policy outcomes, volatile collateral values, and substantial management judgment in loan-loss estimates, although management presents the outlook as broadly stable to improving."
+}

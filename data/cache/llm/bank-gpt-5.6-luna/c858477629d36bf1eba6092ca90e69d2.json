@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of financing",
+    "dependent upon obtaining financing",
+    "substantial doubt going concern",
+    "could result in delays"
+  ],
+  "risk_summary": "The company has no operating revenue, substantial recurring losses, and explicitly depends on additional equity financing, with auditors expressing substantial doubt about going-concern viability. Failure or delay in financing could postpone clinical and regulatory milestones or require discontinuation of operations, while further equity issuance would dilute existing shareholders. Disclosure is materially quantified but includes extensive standard forward-looking disclaimers and conditional language."
+}

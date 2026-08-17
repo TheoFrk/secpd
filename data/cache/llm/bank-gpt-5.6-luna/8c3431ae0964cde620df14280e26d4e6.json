@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "little visibility into ordering habits",
+    "large and unpredictable variations in demand",
+    "cannot reasonably estimate future cash settlement",
+    "general uncertainty surrounding tariffs and trade policy",
+    "all amounts and percentages are approximate"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with segment, product, cost, liquidity, and working-capital information. Key risks include demand volatility, supply constraints, wage and material cost inflation, foreign-exchange exposure, tariffs, and unsettled tax liabilities. The tone is cautiously positive regarding growth, but the excerpt contains meaningful operational and forecasting uncertainty."
+}

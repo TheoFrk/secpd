@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "primarily due to",
+    "challenging global market conditions"
+  ],
+  "risk_summary": "The excerpt presents materially adverse operating trends, including a 37.4% sales decline, sharply lower gross profit, elevated ME&A expenses as a percentage of sales, restructuring, and pressure from oil and gas market weakness. Disclosure is generally data-rich and causal, but includes standard forward-looking disclaimers and some broad explanations; the truncated liquidity section limits assessment of funding and covenant risk."
+}

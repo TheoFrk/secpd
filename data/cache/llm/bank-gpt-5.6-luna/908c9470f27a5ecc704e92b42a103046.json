@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "no obligation to update",
+    "may change in the future",
+    "primarily due to",
+    "qualified by information elsewhere"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, reporting key income, premium, investment, delinquency, loss-reserve, and insurance-in-force metrics. Risk tone is measured and mildly positive, emphasizing favorable housing fundamentals, credit quality, and reserve development while acknowledging pressure from higher rates, home prices, reduced new insurance written, competition, and potential loss volatility. Boilerplate forward-looking disclaimers and extensive technical terminology modestly reduce accessibility but do not appear materially evasive."
+}

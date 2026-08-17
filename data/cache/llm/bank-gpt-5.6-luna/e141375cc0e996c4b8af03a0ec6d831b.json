@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may persist for an extended period",
+    "unknown impacts",
+    "still remain uncertain",
+    "inherently uncertain and unpredictable",
+    "unable to make reasonably reliable estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance, liquidity, capital return, and debt information, supporting relatively strong disclosure precision. Risk discussion relies on broad macroeconomic caveats and extensive accounting-estimate uncertainty, including $1.419 billion of long-term income taxes excluded from contractual obligations due to uncertain settlement timing. Overall tone is cautiously confident but acknowledges potentially material adverse impacts from economic, geopolitical, tax, litigation, and valuation uncertainties."
+}

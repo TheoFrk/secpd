@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "improving economic conditions",
+    "many markets we serve",
+    "not expected to have a material impact",
+    "actual results will inevitably differ",
+    "anticipated given higher sales volume"
+  ],
+  "risk_summary": "The excerpt presents materially improved sales, profitability, and liquidity with substantial quantitative detail and a generally confident tone. Risk disclosure is largely standard and acknowledges estimation uncertainty, customer collections, demand dependence, and working-capital variability, but relies at times on broad causal explanations and forward-looking assurances."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "other risks and uncertainties",
+    "variety of factors",
+    "no assurance"
+  ],
+  "risk_summary": "The excerpt reports strong, quantified revenue and income growth, largely attributable to acquisitions, increased client activity, and higher interest rates. However, performance is highly sensitive to market conditions and includes substantial boilerplate risk disclosures, while legal, regulatory, liquidity, systems, integration, and contingent-liability exposures remain subject to uncertainty."
+}

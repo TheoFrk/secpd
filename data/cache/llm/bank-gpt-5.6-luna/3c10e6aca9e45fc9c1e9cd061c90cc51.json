@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "trend is likely to persist",
+    "proactive in managing liquidity",
+    "asset quality continues to remain strong",
+    "largely due to",
+    "low impact on customer retention"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear discussion of earnings, loan growth, deposit movements, funding sources, credit losses, and CECL adoption. Key risks include higher deposit and borrowing costs, reliance on brokered deposits and BTFP/FHLB funding, and potential liquidity pressure, although management presents asset quality and liquidity as strong. Some forward-looking and reassuring language is not supported by detailed sensitivity analysis."
+}

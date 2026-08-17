@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "cannot assure assumptions will prove correct",
+    "not undertaking to update",
+    "general uncertainty in defense spending",
+    "significant unobservable inputs"
+  ],
+  "risk_summary": "The excerpt presents improving revenue and continuing-operations profitability, with detailed segment, revenue, and margin figures supporting a moderately positive tone. Risk disclosure is substantially boilerplate and relies on broad, non-quantified contingencies, particularly around customer concentration, government spending, competition, and macroeconomic conditions. Acquisition accounting and contingent consideration involve material Level 3 estimates that could produce earnings volatility."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "estimates of future claim payments",
+    "most likely ultimate liability",
+    "we expect underwriting profitability to improve",
+    "several years to settle",
+    "based on historical claims experience"
+  ],
+  "risk_summary": "The excerpt is generally detailed and includes substantial operational and financial quantification, but reserve adequacy and future underwriting performance depend on inherently uncertain actuarial estimates. Risk is concentrated in claims development, reinsurance dependence, investment results, and commercial automobile loss ratios. The tone is cautiously positive, highlighting premium and net income growth and corrective underwriting actions."
+}

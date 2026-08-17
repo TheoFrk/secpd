@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "could differ materially",
+    "no obligation to update",
+    "various factors"
+  ],
+  "risk_summary": "The excerpt relies substantially on standard forward-looking-statement disclaimers and broad, non-quantified risk categories, including cybersecurity, acquisition integration, regulation, competition, and execution risks. However, the operating discussion provides useful metrics such as organic revenue growth, recurring revenue mix, customer turnover, employee count, and acquisition consideration, supporting a generally confident but qualified tone."
+}

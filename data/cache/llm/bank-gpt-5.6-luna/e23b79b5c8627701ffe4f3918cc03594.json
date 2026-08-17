@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "subject to final approval",
+    "for the foreseeable future",
+    "do not expect to reach",
+    "primarily attributable to"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with revenue, contract, investment, rig-count, and margin information. Risk tone is moderately negative because of the sharp oil-price decline, falling North American drilling activity, fixed-cost exposure, anticipated workforce reductions, and expected margin pressure, partially offset by international awards and expansion plans."
+}

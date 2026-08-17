@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective assessments and estimates",
+    "actual results could materially differ",
+    "unobservable rates within a reasonable range",
+    "various risks and uncertainties",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative sensitivity analyses and investment commitments, but relies heavily on management judgment regarding collectability, asset valuations, impairment, useful lives, and market assumptions. Risk tone is balanced but acknowledges material exposure to tenant defaults, inflation, rising interest rates, and valuation uncertainty; the truncated passage limits assessment of liquidity and joint-venture risks."
+}

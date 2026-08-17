@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures and exclusions",
+    "subjective determinations of management",
+    "unable to reliably forecast",
+    "forward-looking statements disclaimer",
+    "recurring restructuring charges"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, but emphasizes adjusted non-GAAP metrics that exclude recurring and potentially material costs. Operating performance improved despite volume declines, while manufacturing weakness, tariffs, trade uncertainty, competitive pressure, and demand deterioration present moderate underlying risks."
+}

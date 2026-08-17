@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "currently unable to identify or quantify",
+    "no assurance can be given",
+    "sufficient liquidity for the next 12 months",
+    "going concern assessment"
+  ],
+  "risk_summary": "The disclosure quantifies significant deterioration, including a $7.7 million continuing-operations loss, $5.2 million negative working capital, and $15.1 million of impairment charges. Liquidity depends on additional debt or equity financing, creating dilution and execution risk, although management asserts the company can continue as a going concern for the next 12 months. Extensive forward-looking and liability-limiting language reduces the specificity of certain risk disclosures."
+}

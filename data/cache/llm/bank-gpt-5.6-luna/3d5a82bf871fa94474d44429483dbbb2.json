@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "constant currency adjustments",
+    "management believes",
+    "expected to offset",
+    "projected net change"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and presents strong liquidity, debt repayment, cash generation, and operating performance, producing a confident risk tone. Potentially obscuring factors include extensive emphasis on non-GAAP and constant-currency measures, reliance on favorable FX and tax effects, and optimistic projections regarding future expense offsets."
+}

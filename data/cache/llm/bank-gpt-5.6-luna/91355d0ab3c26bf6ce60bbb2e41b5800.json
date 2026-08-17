@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks, uncertainties and assumptions",
+    "may differ materially",
+    "believe insurance was appropriate and adequate",
+    "judgments and estimates"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and liability-limitation language, with reliance on estimates and assumptions. Quantified disclosures address restructuring and Thailand flood impacts, but operational risks include demand volatility, capacity utilization, supply-chain exposure, material costs, and potential revisions to restructuring liabilities. Overall tone is cautiously confident but tempered by significant uncertainty and adverse-event disclosures."
+}

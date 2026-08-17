@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "numerous assumptions, risks and uncertainties",
+    "undue reliance should not be placed",
+    "undertakes no obligation to update",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and non-GAAP disclaimers that limit accountability and emphasize uncertainty, but it also provides specific loan balances, growth rates, maturities, and interest-rate breakdowns. Risk tone is broadly neutral to mildly confident, with operational streamlining presented positively and credit-estimation subjectivity acknowledged."
+}

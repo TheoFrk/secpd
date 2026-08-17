@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A provided",
+    "deferred disclosure",
+    "annual report cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and redirects readers to an annual report filed separately as an exhibit. This limits transparency in the presented section, although the cross-reference is explicit and legally specific."
+}

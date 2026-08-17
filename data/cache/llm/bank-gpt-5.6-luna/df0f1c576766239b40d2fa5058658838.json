@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"ideal agent\" and \"superior triplet\"",
+    "\"excellent safety profile\"",
+    "\"robust clinical activity\"",
+    "selective efficacy disclosures",
+    "forward-looking disclaimer and non-update language"
+  ],
+  "risk_summary": "The excerpt uses detailed clinical percentages and development milestones but presents highly favorable, selectively framed results from early-stage trials, with limited context on sample sizes, comparators, durability, or statistical significance. Promotional claims about potential approval, standard-of-care status, and commercial opportunity are heavily dependent on assumptions, while funding constraints and the paused luxeptinib program indicate material development and liquidity risk."
+}

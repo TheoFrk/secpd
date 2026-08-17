@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant economic uncertainty",
+    "may be adversely affected",
+    "if we determine under GAAP",
+    "amount to be funded ... not definitively determined",
+    "cautionary note regarding forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is relatively candid and includes meaningful quantitative detail on lease expirations, variable-rate debt, tenant support, and the distressed Vue property. Key risks include tenant nonpayment, potential additional funding needs, impairment or sale losses, dividend sustainability, and adverse effects from interest-rate and economic volatility. Some risk discussion relies on standardized forward-looking language and omits the underlying tables and portions of the liquidity discussion."
+}

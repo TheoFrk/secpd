@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict timing",
+    "nor reasonably estimate the impact",
+    "if ... determined",
+    "estimated total costs",
+    "actual amounts could differ"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and accounting detail, but relies heavily on estimates and contains material uncertainty regarding the YRC project, including unresolved responsibility for potentially substantial corrective work. The company explicitly warns that adverse resolution could materially affect future results, liquidity, and cash flows."
+}

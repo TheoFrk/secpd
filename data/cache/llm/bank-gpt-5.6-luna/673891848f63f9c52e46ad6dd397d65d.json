@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results could differ materially",
+    "management’s best estimate",
+    "qualitative adjustments",
+    "non-GAAP measures have inherent limitations"
+  ],
+  "risk_summary": "The excerpt presents strong 2022 earnings, loan growth, and capital-related performance with substantial quantitative disclosure. Risk discussion is largely standardized and precautionary, relying on broad caveats around forecasts, credit-loss estimates, and non-GAAP measures rather than identifying acute current stress. Extensive regulatory, COVID-19, and accounting terminology increases complexity and boilerplate density."
+}

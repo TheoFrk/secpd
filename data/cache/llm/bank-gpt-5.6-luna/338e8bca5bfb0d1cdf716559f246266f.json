@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not able to predict market interest rate fluctuations with certainty",
+    "may not prevent ... material adverse effect",
+    "marked success",
+    "better than expected",
+    "prudent underwriting standards"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding earnings, balance-sheet growth, acquisitions, and capital, with a moderately positive management tone. Key risks include declining net interest margin, interest-rate sensitivity, reliance on loan growth, and a lower Tier 1 capital ratio despite increased assets. Promotional assertions about acquisition execution and underwriting are less substantiated than the financial metrics."
+}

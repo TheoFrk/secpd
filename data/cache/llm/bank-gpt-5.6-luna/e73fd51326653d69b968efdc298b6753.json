@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and associated risks",
+    "actual results could differ materially",
+    "unclear when constraints will be lifted",
+    "material weaknesses not remediated",
+    "significant escalation or expansion"
+  ],
+  "risk_summary": "The disclosure is relatively specific, quantifying sales declines, losses, impairment charges, cash flow, geographic exposure, and restricted Russian cash. Risk tone is materially negative due to the large net loss, unremediated internal-control weaknesses, supply-chain constraints, geopolitical exposure, and ongoing uncertainty, although the discussion remains largely standard MD&A language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results could differ materially",
+    "primarily driven by",
+    "partially offset by",
+    "best available information estimates"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, with revenue, expense, segment, and discontinued-operations drivers identified. Risk is moderate rather than crisis-like, reflecting declining RLEC activity, start-up costs, COVID-related expenses, discontinued Wireless operations, and reliance on estimates and forward-looking disclosures."
+}

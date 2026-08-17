@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects revenues to increase moderately",
+    "other regulatory actions and weather patterns could impact results",
+    "largely determined by market returns and discount rates",
+    "modest increase",
+    "could cause future required contributions to increase substantially"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear year-over-year revenue, expense, tax, customer, and profitability data. Risk factors include limited geographic diversity, weather-driven consumption, regulatory dependence, rising depreciation and costs, pension sensitivity to discount rates and asset performance, and uncertain market returns. Overall tone is cautiously positive, emphasizing stable profitability and controlled expenses while relying on surcharges, rate increases, acquisitions, and favorable operating conditions."
+}

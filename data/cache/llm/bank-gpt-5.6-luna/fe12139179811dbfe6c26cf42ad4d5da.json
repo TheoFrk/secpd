@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not obligated to update",
+    "continued growth",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt presents a generally confident recovery and growth narrative supported by extensive quantified sales and margin data. Risk disclosure is largely standardized, while some outlook statements rely on optimistic, non-specific language and emphasize potential growth despite continued budget and credit pressures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant uncertainties",
+    "actual amounts incurred may exceed",
+    "may be materially adversely affected",
+    "based on a variety of factors",
+    "could be impacted by future changes"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantification of the tax/remediation exposure, including a $14.4 million reserve and a probability-weighted range of $7.5 million to $44.8 million, but acknowledges that actual costs could exceed the stated range. Key risks include policy tax noncompliance, restated financial data, low interest rates, foreign regulatory and economic exposure, and uncertainty in premium trends. Overall tone is cautiously negative regarding unresolved liabilities, despite confident descriptions of operating strategy and controls."
+}

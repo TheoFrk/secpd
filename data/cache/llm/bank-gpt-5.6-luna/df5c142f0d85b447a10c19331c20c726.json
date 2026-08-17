@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "future economic changes cannot be predicted",
+    "adverse change in expected cash flows",
+    "management considers appropriate and adequate",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed discussion of loan-loss, securities-impairment, and goodwill estimates. Risk is moderated but present: net income, net interest income, margins, and non-interest income declined, while allowance coverage of nonperforming loans remained relatively low at 78%. Management highlights sensitivity to economic conditions, borrower credit quality, collateral values, and market liquidity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally 80% or less",
+    "attempts to maintain",
+    "may experience some decline",
+    "subject to adverse conditions",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is largely specific and supported by substantial balance, lending-limit, and interest-rate data. It identifies material credit, commercial real estate, deposit pricing, and wholesale funding risks, including potential margin compression and higher funding costs, but provides limited quantified downside sensitivity in the excerpt."
+}

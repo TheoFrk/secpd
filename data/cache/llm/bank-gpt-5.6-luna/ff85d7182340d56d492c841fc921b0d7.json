@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "ample on-balance-sheet liquidity",
+    "anticipates that deposit expense will continue to lag",
+    "current economic environment",
+    "estimated cash flow from securities",
+    "repeated CECL disclosure"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, detailing loan growth, deposit costs, liquidity, securities losses, and anticipated CECL impacts. Risk tone is cautiously stable, though rising funding costs, deposit competition, rapid loan growth, and expected reserve increases indicate emerging credit and liquidity pressures."
+}

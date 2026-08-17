@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance of PPP forgiveness",
+    "adverse effect on liquidity and cash",
+    "expected eligibility",
+    "sufficient liquidity for next 12 months"
+  ],
+  "risk_summary": "The disclosure is largely precise and well quantified, but reflects material deterioration in sales, gross margin, and net losses, driven primarily by COVID-19 and declining rehabilitation product demand. Liquidity improved through equity issuance, PPP borrowing, and positive operating cash flow, though continued pandemic effects and reliance on financing remain risks. The outlook uses confident strategic language but provides limited quantitative support for anticipated profitability or acquisition plans."
+}

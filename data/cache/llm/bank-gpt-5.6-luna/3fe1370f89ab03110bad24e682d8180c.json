@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "expected to improve",
+    "significant operational and supply chain constraints",
+    "materially lower cost structure",
+    "full benefits of demand backdrop"
+  ],
+  "risk_summary": "The excerpt presents strong earnings, cash flow, debt reduction, and balance-sheet metrics, but also highlights substantial supply-chain, labor, inflation, maintenance, and facility-incident risks. Forward-looking expectations are generally optimistic but rely on repeated qualifiers and uncertain operational improvements. Disclosure is relatively quantitative, though dense and partly boilerplate, with the excerpt ending mid-sentence."
+}

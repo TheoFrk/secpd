@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to quantify possible effects",
+    "cannot be certain",
+    "if mitigation is unsuccessful",
+    "could differ materially",
+    "may adversely impact"
+  ],
+  "risk_summary": "The disclosure is relatively specific about declining sales, extreme customer concentration, China-only manufacturing, tariff exposure, supply-chain disruption, and uncertainty around collecting the legal judgment. Risk language is partly boilerplate and relies on conditional statements, particularly where tariff and demand impacts cannot be quantified."
+}

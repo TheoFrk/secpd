@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "as needed",
+    "no assurance",
+    "if additional financing is delayed",
+    "plans described above",
+    "could be forced to cease operations"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively transparent, but contains substantial going-concern risk: no revenue, increasing losses, significant operating cash burn, and dependence on future financing. Management explicitly acknowledges substantial doubt about continuity and the possibility of delayed development or discontinued operations if funding is unavailable."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "assuming moderate economic growth",
+    "expect/anticipate forward-looking claims",
+    "comparable earnings exclusions",
+    "negative free cash flow",
+    "repeated MD&A headers and boilerplate"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, with clear segment, revenue, cash flow, debt, and leverage data. Risk is moderated by negative free cash flow, rising debt-to-equity ratios, pension-related costs, and reliance on optimistic 2015 assumptions, while management maintains a generally confident outlook."
+}

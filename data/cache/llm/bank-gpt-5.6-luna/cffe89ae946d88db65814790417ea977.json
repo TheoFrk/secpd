@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to many variables",
+    "reasonably estimated",
+    "realization is considered probable",
+    "in certain circumstances",
+    "formal contract documents"
+  ],
+  "risk_summary": "The disclosure is highly technical and substantially quantified, but relies on significant management estimates for contract revenue, costs, award fees, claims, and loss provisions. Concentration in U.S. government and DoD contracts, contract-accounting judgment, potential unformalized work, and the sharp decline in cash balances represent notable credit risks. The tone is generally neutral and procedural rather than crisis-like, though the excerpt is truncated and omits potentially relevant context."
+}

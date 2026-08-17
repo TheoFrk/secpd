@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best information available",
+    "adequate allowance",
+    "future adjustments could be necessary",
+    "if circumstances or economic conditions differ",
+    "actively managed to reduce risk"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed year-over-year balances, yields, provisions, charge-offs, and portfolio changes. Risk tone is cautiously positive, emphasizing loan growth, low charge-offs, and reduced market risk, while acknowledging potential deterioration from economic weakness, borrower information delays, and regulatory review. Some allowance adequacy language relies on management judgment and conditional scenarios rather than quantified stress impacts."
+}

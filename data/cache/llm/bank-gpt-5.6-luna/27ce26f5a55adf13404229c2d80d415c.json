@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "typically funded by borrowing",
+    "may vary significantly",
+    "significant management judgments and estimates",
+    "current forecast estimate",
+    "ongoing efforts to improve operating efficiencies"
+  ],
+  "risk_summary": "The excerpt is detailed and includes useful quantitative disclosure, particularly regarding tax impacts and restructuring programs, but contains substantial industry and strategy boilerplate. Risk is presented in a generally neutral-to-confident tone, with exposure to seasonality, inventory returns, working-capital borrowing, estimation uncertainty, and execution risk from facility relocations."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "omitted pursuant to Instruction I(2)(a)",
+    "material under annual reports",
+    "no standalone analysis"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion and relies almost entirely on incorporation by reference. This limits transparency in the presented filing section, although the language is primarily procedural and boilerplate rather than explicitly adverse."
+}

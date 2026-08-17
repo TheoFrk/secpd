@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other factors beyond control",
+    "assumptions could produce different results",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, asset-quality, and performance data, including improving non-performing assets and chargeoffs. However, extensive boilerplate disclaimers and reliance on management estimates create moderate uncertainty around forward-looking results, loan-loss allowances, goodwill, servicing-right valuations, and securities impairment."
+}

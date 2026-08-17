@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "expect ... to increase",
+    "material to our business",
+    "significant portion of revenue"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with multi-year revenue, margin, cash flow, and operating expense data. Risk exposure is concentrated in live services, a limited number of popular franchises, intense competition, talent retention, and reliance on estimated digital-sales data. Overall tone is moderately confident, though forward-looking expectations and qualitative descriptions introduce some uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "other words of similar meaning",
+    "underlying business model",
+    "adjusted results excluding certain items"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and positive operating narrative, supported by substantial quantitative disclosures on revenue, margins, cash, debt, and restructuring charges. Risk discussion is broad and largely boilerplate, with meaningful exposure to client retention, legacy platform losses, regulatory changes, cybersecurity, competition, foreign currency, and execution of service-alignment initiatives. Extensive non-GAAP adjustments and forward-looking language modestly reduce transparency, although the disclosure is not overtly evasive."
+}

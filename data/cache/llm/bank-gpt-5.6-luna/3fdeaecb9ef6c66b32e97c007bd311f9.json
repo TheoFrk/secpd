@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "softer demand associated with current economic environment",
+    "highly inflationary environment in Venezuela",
+    "restrictive exchange controls",
+    "may require access to capital markets"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes quantified sales, charges, and Venezuela-related impacts, but contains substantial standard MD&A boilerplate and lengthy technical descriptions. Risk tone is moderately negative due to declining volumes, oil and gas weakness, foreign-exchange pressure, Venezuelan deconsolidation, and potential reliance on capital markets for major acquisitions. Liquidity commentary is cautiously confident but relies on management expectations about future operating cash flow and financing access."
+}

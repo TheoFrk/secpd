@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Adjusted EBITDA exclusions",
+    "believe will provide long-term value",
+    "potential to be expanded",
+    "projected cash flows and discount rate",
+    "boilerplate cross-references"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, describing investments, operating metrics, transactions, impairment charges, and debt terms. The tone is confident and growth-oriented, but risks include substantial capital deployment, gaming-market competition, inflation sensitivity, impairment exposure, and reliance on non-GAAP Adjusted EBITDA. Complexity is elevated by extensive accounting, segment-reporting, and debt-instrument terminology."
+}

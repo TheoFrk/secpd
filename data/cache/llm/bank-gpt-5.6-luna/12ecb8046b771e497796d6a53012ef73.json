@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.86,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "unless successful in obtaining additional liquidity",
+    "potential default notices",
+    "actual results may differ",
+    "safe harbor forward-looking statements"
+  ],
+  "risk_summary": "The disclosure presents severe, explicitly quantified liquidity and solvency risks, including insufficient liquidity for the next 12 months, defaults on notes and debentures, pension funding obligations, and substantial doubt regarding going-concern status. Although the accounting and sensitivity disclosures are relatively specific, extensive forward-looking and safe-harbor language limits certainty around remediation and future outcomes."
+}

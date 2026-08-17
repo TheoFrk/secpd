@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "well positioned to withstand short-term fluctuations",
+    "considerable judgment",
+    "cannot quantify the precise impact"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding growth, investment gains, capital structure and the value creation ratio, but presents a favorable performance narrative that relies partly on volatile fair-value investment gains. Reserve adequacy is subject to substantial actuarial judgment, uncertainty and potentially material future earnings impacts. Forward-looking statements and qualitative claims about positioning and expected benefits introduce moderate disclosure uncertainty."
+}

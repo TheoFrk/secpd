@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "detailed discussion not included herein",
+    "subject to a degree of uncertainty",
+    "construction related defects",
+    "all of which was capitalized",
+    "Actual results could differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but the excerpt omits the year-over-year discussion and much of the liquidity analysis. Risk is mildly negative due to construction defects, rising debt-related capitalized interest, operating losses, joint-venture losses, and reliance on development execution despite reported progress at 77 Greenwich."
+}

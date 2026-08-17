@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "not possible to accurately predict",
+    "including but not limited to",
+    "materially affect",
+    "closely monitoring"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, credit-quality, liquidity, and balance-sheet data, supporting relatively transparent assessment of current performance. However, extensive forward-looking and COVID-19 boilerplate emphasizes broad, largely unquantified risks, while the 2021 credit-loss benefit and stimulus-related balances may not be sustainable. Overall tone is cautiously positive, reflecting improved earnings and credit metrics but meaningful interest-rate, regulatory, economic, and pandemic uncertainty."
+}

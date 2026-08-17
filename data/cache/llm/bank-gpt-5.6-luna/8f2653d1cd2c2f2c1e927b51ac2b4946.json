@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict, quantify, or guaranty",
+    "could affect future",
+    "outcomes notwithstanding",
+    "long-run evaluation framing",
+    "discretionary investment gains"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative operating metrics and segment-specific information, but relies on extensive long-term framing and conditional language regarding COVID-19, claims experience, investment valuations, and future results. The tone is cautiously confident, emphasizing financial strength while acknowledging material pandemic, credit, market, and underwriting uncertainties."
+}

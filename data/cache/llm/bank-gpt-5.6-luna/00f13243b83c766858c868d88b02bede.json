@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "inherently subject to significant uncertainties",
+    "many factors including",
+    "cannot guarantee future performance",
+    "does not undertake obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, highlighting strong growth, acquisitions, record earnings, and improved non-performing assets. Key risks include the anticipated $17–$20 million annual pre-tax impact from the Durbin Amendment, acquisition integration, deposit competition, loan quality, and regulatory burden. The extensive forward-looking disclaimer and reliance on broad risk-factor references create moderate boilerplate and uncertainty, but the overall tone remains cautiously positive."
+}

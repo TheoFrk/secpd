@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to risks and uncertainties",
+    "no obligation to update",
+    "post-hoc subgroup analysis",
+    "if necessary / subject to successful trial"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative clinical-trial detail, but relies heavily on forward-looking claims, retrospective subgroup evidence, and conditional approval expectations. Key risks include clinical efficacy uncertainty, reliance on a single lead candidate, and potential divergence between interim or modeled results and final trial outcomes."
+}

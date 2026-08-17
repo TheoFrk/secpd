@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "known and unknown risks and uncertainties",
+    "we anticipate",
+    "expected general increase in costs",
+    "related-party franchise ownership"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively detailed, with clear year-over-year revenue, margin, and expense comparisons. Risk is moderate because operating costs, food prices, labor costs, and package-store margins are expected to deteriorate or rise, although revenue trends are positive. Boilerplate forward-looking disclaimers and complex consolidation and related-party structures modestly reduce transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various factors including, but not limited to",
+    "actual results could differ",
+    "not anticipated to have any impact",
+    "normal operations",
+    "currency fluctuations"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative results but relies heavily on boilerplate and repeatedly attributes changes to currency fluctuations without detailed operational analysis. Material risk signals include a substantial working-capital deficit, negative operating cash flow, doubtful realization of net operating losses, concentrated credit exposure, and the resignation of the independent auditors. The auditor transition and limited explanation of underlying drivers warrant heightened diligence."
+}

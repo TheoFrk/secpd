@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "may differ materially",
+    "could affect patient access",
+    "expect trend to continue",
+    "currently assessing potential impact"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating outlook, supported by record sales, FDA clearance, regulatory closure, and international expansion. However, it contains material exposure to reimbursement changes, patient-access disruptions, new competing drugs, regulatory uncertainty, and future market assumptions. Disclosure is reasonably specific on recent performance but relies substantially on forward-looking expectations and unquantified potential impacts."
+}

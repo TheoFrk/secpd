@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to risks and uncertainties",
+    "reasonable possibility of material changes",
+    "estimates may vary from final settlements",
+    "no assurance"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, revenue, asset, and accounting information, but its forward-looking disclaimer language is highly boilerplate and limits reliance on projections. Key risk areas include payer collectability, Medicare and Medicaid settlement adjustments, regulatory changes, and complex accounting estimates that could materially change results."
+}

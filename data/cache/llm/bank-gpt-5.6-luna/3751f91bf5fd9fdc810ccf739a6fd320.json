@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "may differ materially",
+    "expected to yield",
+    "will improve over time",
+    "ability to successfully manage costs"
+  ],
+  "risk_summary": "The disclosure is relatively quantified regarding sales, margins, acquisition impacts, and operating costs, but relies on forward-looking expectations that margins will recover as integrations and facilities mature. Key risks include declining margins, acquisition and integration execution, cyclical demand, consumer credit conditions, foreign currency, raw-material inflation, and supply disruptions."
+}

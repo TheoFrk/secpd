@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may significantly affect",
+    "from time to time",
+    "as needed",
+    "subject to seasonal fluctuations",
+    "other general corporate purposes"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified regarding operations, customers, assets, revenue, regulation, and financing. Risk is framed as manageable through regulated cost recovery and revenue-decoupling mechanisms, although regulatory decisions, seasonality, weather, capital needs, and financing requirements remain material uncertainties."
+}

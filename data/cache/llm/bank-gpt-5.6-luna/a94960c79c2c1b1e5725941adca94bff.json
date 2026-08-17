@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.3,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "current expectations",
+    "may take advantage of opportunities",
+    "other circumstances",
+    "overall market conditions",
+    "missing summary tables"
+  ],
+  "risk_summary": "The excerpt presents liquidity as sufficient and describes a diversified operating structure, with several tax and nonrecurring items quantified. However, liquidity planning relies on broad contingencies and unspecified future capital-market actions, while the extracted segment-results tables are absent, limiting assessment of operating trends and downside risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may differ materially",
+    "see risk factors",
+    "non-GAAP financial measures",
+    "estimated future rescissions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, reporting earnings, losses, reserves, insurance-in-force, new insurance written, and portfolio trends. Risk tone is moderately positive due to improved profitability and favorable loss development, but the business remains exposed to interest rates, home prices, delinquencies, claims estimates, competition, and reinsurance effects. Boilerplate disclaimers and technical insurance terminology modestly reduce transparency but do not appear overtly evasive."
+}

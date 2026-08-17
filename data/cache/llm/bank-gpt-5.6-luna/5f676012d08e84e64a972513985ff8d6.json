@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "estimated tax rate",
+    "significant judgment",
+    "could result in additional cash consideration",
+    "further facts and circumstances"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, showing improved revenue, margins, operating income, and reduced interest expense. Risk is moderated by extensive non-GAAP adjustments, divestitures, tax-estimate uncertainty, inventory valuation judgments, and potentially changing litigation liabilities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "may cause actual results to differ materially",
+    "uncertain macroeconomic conditions",
+    "non-GAAP constant currency presentation",
+    "temporary higher expense levels"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantified, but emphasizes significant execution risk from restructuring, divestitures, delayed customer purchasing, adverse macroeconomic conditions, and foreign-exchange volatility. Management presents liquidity as sufficient for at least twelve months, although this outlook depends on operating cash generation, credit availability, divestiture proceeds, and planned share repurchases."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "non-GAAP measures",
+    "non-recurring costs excluded",
+    "subject to regulatory approval",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt presents strong growth following the FCG acquisition and provides substantial quantitative operating and regulatory detail. However, reliance on adjusted non-GAAP measures, exclusion of acquisition-related costs, extensive forward-looking disclaimers, and pending rate-case approvals introduce comparability and execution risks. The overall tone is moderately positive but qualified by regulatory uncertainty and acquisition integration exposure."
+}

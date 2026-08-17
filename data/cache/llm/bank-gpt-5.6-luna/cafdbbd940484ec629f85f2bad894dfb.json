@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "expected to",
+    "we anticipate",
+    "appropriate price actions",
+    "cautionary statements and significant risks"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent regarding historical performance, margins, cash flow, dealer inventories, and selected forecast assumptions. Risk tone is cautiously positive, but outlook language relies on conditional expectations and highlights exposure to supply-chain disruption, inflation, currency movements, interest rates, regional weakness, and customer capital discipline."
+}

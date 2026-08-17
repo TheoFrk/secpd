@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "among other things",
+    "may become material",
+    "there can be no assurance",
+    "to the extent",
+    "not necessarily on a one-for-one basis"
+  ],
+  "risk_summary": "The excerpt provides meaningful business segmentation and some quantified revenue information, but relies on extensive conditional language around hedging effectiveness, pass-through capacity, currency, commodity, regulatory, and counterparty risks. The disclosure is technically detailed yet highly complex and includes a reported continuing-operations loss, with risk exposure only partially mitigated by contracts and hedges."
+}

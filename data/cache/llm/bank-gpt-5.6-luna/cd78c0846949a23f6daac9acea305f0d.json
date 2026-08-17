@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous assumptions and risks",
+    "including but not limited to",
+    "actual results may differ materially",
+    "reasonable and supportable forecasts",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking disclaimer language and a broad, non-quantified list of macroeconomic, credit, regulatory, operational, and litigation risks. Credit-loss estimates rely materially on subjective management judgments and uncertain forecasts, although the accompanying financial tables provide useful quantitative detail."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unforeseen uncertainties and risks",
+    "no obligation to update",
+    "anticipated benefits",
+    "assumptions and best judgment"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and a broad, largely non-quantified catalogue of potential risks. The operating discussion is moderately confident and includes some quantified acquisition, currency, divestiture, and cost impacts, but the excerpt is truncated and contains substantial technical and boilerplate language."
+}

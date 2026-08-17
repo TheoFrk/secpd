@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.65,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "significant estimates and assumptions",
+    "could have a material impact",
+    "subjective and/or complex judgments",
+    "if actual results change"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, showing improved sales, margins, and operating income despite COVID-19 disruptions. Key risks include industry cyclicality, commodity and labor costs, acquisition-related leverage, and uncertainty in fair-value, impairment, and useful-life estimates."
+}

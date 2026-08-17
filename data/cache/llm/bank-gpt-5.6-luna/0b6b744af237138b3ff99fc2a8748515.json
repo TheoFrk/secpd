@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cross-reference to annual report",
+    "no substantive discussion"
+  ],
+  "risk_summary": "This excerpt provides no substantive financial or risk analysis and instead directs readers to another section of the annual report. The disclosure is procedurally precise but offers limited standalone transparency."
+}

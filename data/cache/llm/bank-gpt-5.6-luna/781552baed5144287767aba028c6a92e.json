@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "inherently uncertain and beyond our control",
+    "non-exhaustive risk-factor list",
+    "cannot be reliably estimated"
+  ],
+  "risk_summary": "The excerpt is dominated by standard forward-looking-statement disclaimers and an extensive, largely unquantified list of potential risks. COVID-19, credit quality, liquidity, market concentration, cybersecurity, regulatory, and operational risks are acknowledged, while capital adequacy and liquidity are presented as currently sound. Overall tone is cautious and defensive rather than crisis-like, with limited quantified scenario analysis."
+}

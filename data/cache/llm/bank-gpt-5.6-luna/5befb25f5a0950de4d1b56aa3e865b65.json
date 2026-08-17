@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "currency-neutral measures",
+    "more than half",
+    "significant amount of savings",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, with reconciliations and detailed explanations of restructuring, mark-to-market items, debt redemption, acquisitions, and segment performance. Risk is mixed: U.S. Snacks experienced material sales and reported operating-profit declines, while management emphasizes productivity savings and expects continued margin expansion. Extensive use of non-GAAP and currency-neutral measures may soften the presentation of underlying volatility and comparability issues."
+}

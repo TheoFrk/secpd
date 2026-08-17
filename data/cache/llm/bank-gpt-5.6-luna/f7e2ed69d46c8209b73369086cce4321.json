@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "no obligation to update",
+    "inherently uncertain estimates",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standardized forward-looking disclaimers and broad, largely unquantified risk factors. It identifies meaningful exposure to credit losses, valuation assumptions, regulatory changes, market liquidity, and integration risks, while providing some precise historical financial data. Overall tone is cautious and legally defensive rather than crisis-like."
+}

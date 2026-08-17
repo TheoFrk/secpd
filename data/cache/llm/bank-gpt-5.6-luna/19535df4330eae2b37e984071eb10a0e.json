@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "factors or events ... not possible to predict",
+    "non-GAAP adjusted operating profit",
+    "covenant add-back provisions"
+  ],
+  "risk_summary": "The excerpt presents materially adverse operating trends, including declining sales volumes, market-share losses, reduced profitability, customer concentration, credit losses, and limited covenant headroom. Disclosure is substantially quantified, but extensive forward-looking disclaimers and complex covenant and adjustment language reduce transparency around downside risk."
+}

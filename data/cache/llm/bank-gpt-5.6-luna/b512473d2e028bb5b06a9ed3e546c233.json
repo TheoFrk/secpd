@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "factors beyond the Company's control",
+    "among other things",
+    "believes ... reasonable assumptions",
+    "not particularly strong"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, tax, cash flow, pricing, and segment detail, supporting relatively transparent analysis. However, extensive forward-looking boilerplate, broad catch-all risk language, and repeated year-over-year explanations dilute the risk assessment. Operating performance and cash flow improved, but competitive pricing, market weakness, currency effects, tax normalization, and raw-material exposure remain relevant risks."
+}

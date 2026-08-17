@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "about",
+    "foreseeable future",
+    "various factors",
+    "does not assume any obligation to update"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively detailed, showing strong revenue, operating income, and net income growth. Key risks include margin pressure from supply disruptions and freight costs, foreign-exchange losses, higher debt and interest rates, inflationary conditions, and acquisition integration. Liquidity is described as adequate, but the forward-looking risk discussion is broad and largely boilerplate."
+}

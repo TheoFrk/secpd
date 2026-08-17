@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "could cause actual results to differ",
+    "factors may not be exhaustive",
+    "beyond the Company's ability to control or predict",
+    "other risk factors listed from time to time"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-risk disclaimers and a broad, largely non-quantified list of external and operational risks. It provides useful specificity on leverage covenants, liquidity sources, and the delayed Rail divestiture, but the overall risk profile remains elevated due to indebtedness, covenant sensitivity, environmental obligations, market volatility, and execution uncertainty. Management maintains a positive outlook, though this is qualified by numerous macroeconomic and business risks."
+}

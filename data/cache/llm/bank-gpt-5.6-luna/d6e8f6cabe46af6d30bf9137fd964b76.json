@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "partially offset by",
+    "may differ from our estimates",
+    "among other things",
+    "not comparable to similarly titled measures"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, but describes material deterioration in sales, same-store performance, gross margin, profitability, and store impairment indicators. Risk tone is negative, although explanations are specific and largely factual; remaining uncertainty is concentrated in tax estimates and comparability of non-GAAP retail metrics."
+}

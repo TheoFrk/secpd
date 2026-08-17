@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.82,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "Management’s Plans to Mitigate and Alleviate Conditions or Events",
+    "may differ materially",
+    "assumptions ... reasonable under the circumstances",
+    "assessing the impact"
+  ],
+  "risk_summary": "The disclosure presents severe financial stress, including a going-concern warning, a $45 million working-capital deficit, $1.7 million of cash, recurring losses, negative equity, declining revenue, and significant impairment expense. Although many operating and liquidity figures are quantified, the excerpt provides little detail on management’s mitigation plans and contains incomplete-looking going-concern sections."
+}

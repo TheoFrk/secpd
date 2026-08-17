@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to determine duration and completion costs",
+    "if, when, and to what extent",
+    "no assurance we will be successful",
+    "substantial doubt about ability to continue",
+    "subject to certain exceptions"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on expenses, financing, cash, and accumulated losses, but explicitly identifies substantial doubt regarding going-concern status. Liquidity depends on obtaining additional financing and completing planned financings, with no assurance of success; restricted cash also materially limits available liquidity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant amount of judgment",
+    "assumptions we believe to be reasonable",
+    "actual cash flow amounts may differ",
+    "to a lesser extent",
+    "certain impairment indicators"
+  ],
+  "risk_summary": "The excerpt presents strong, highly quantified operating performance, cash flow, margins, and shareholder returns, supporting a confident overall tone. Key risks include the wind-down of legacy wireless products, restructuring activity, acquisition-related amortization, tax-rate dependencies, and judgment-sensitive impairment testing. Disclosure is generally specific, though some forward-looking accounting assumptions and qualitative explanations remain non-quantified."
+}

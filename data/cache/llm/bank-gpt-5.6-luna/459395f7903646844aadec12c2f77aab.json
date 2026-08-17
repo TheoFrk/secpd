@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "cannot predict with certainty",
+    "ultimately implemented",
+    "subject to additional environmental review"
+  ],
+  "risk_summary": "The excerpt combines quantified operational and project details with substantial dependence on permits, financing, contracts, and successful implementation of the Water Project. Its tone is strategically optimistic but tempered by explicit uncertainty regarding future cash flow, working capital, regulatory approvals, and project timing."
+}

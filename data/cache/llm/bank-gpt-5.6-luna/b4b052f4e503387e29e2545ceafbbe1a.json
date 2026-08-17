@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that goals will be achieved",
+    "do not expect significant losses",
+    "may remain elevated",
+    "estimated earnings sensitivity",
+    "appropriate level determined using accounting estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear year-over-year operating and balance-sheet metrics. Credit risk is rising modestly, reflected in higher nonperforming and delinquent loans, although management describes monitoring processes and does not anticipate significant losses. Overall tone is cautiously positive, supported by record earnings and capital growth but moderated by asset-quality and interest-rate sensitivity risks."
+}

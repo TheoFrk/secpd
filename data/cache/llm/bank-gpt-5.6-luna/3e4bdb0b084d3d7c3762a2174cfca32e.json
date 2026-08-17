@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "many risks and uncertainties",
+    "do not undertake any obligation to update",
+    "improved economic outlook",
+    "critical accounting judgments and assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed trends in earnings, assets, loans, deposits, credit quality, capital, and liquidity. Risk tone is cautiously positive, supported by declining nonperforming loans and strong capital, but acquisitions, margin compression, substantial off-balance-sheet commitments, and broad macroeconomic uncertainties remain relevant. Boilerplate forward-looking disclaimers and reliance on management assumptions modestly limit risk specificity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "many risks and uncertainties",
+    "does not undertake any obligation to update",
+    "not clear when or how",
+    "does not expect significant changes"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on deferrals, PPP exposure, capital, liquidity, earnings, and loan balances, supporting relatively strong transparency. Risk tone is cautiously constructive, but COVID-19 uncertainty, potentially elevated credit losses, impairment risk, and extensive forward-looking disclaimers limit assurance. Formatting corruption and long boilerplate passages reduce readability and may obscure key trends."
+}

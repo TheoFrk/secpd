@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "subject to variability",
+    "largely driven by",
+    "economic uncertainty",
+    "primarily based on"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, with detailed performance, credit-quality, capital, and balance-sheet metrics, reducing concerns about evasiveness. Risk tone is cautiously positive: credit metrics and capital improved, but margin compression, lower loan and fee revenues, market uncertainty, inflation, and reliance on economic assumptions remain material risks."
+}

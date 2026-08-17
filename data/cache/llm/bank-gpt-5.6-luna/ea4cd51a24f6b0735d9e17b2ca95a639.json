@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "not obligated to publicly update",
+    "contingent consideration obligations",
+    "credit availability and liquidity risk"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides detailed revenue, margin, acquisition, amortization, pension, and contingent-consideration data, supporting relatively transparent disclosure. Its tone is broadly positive regarding growth and financial strength, but substantial boilerplate disclaimers and discussion of credit-market, liquidity, pension, environmental, and acquisition-related exposures indicate meaningful downside risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "standard forward-looking disclaimer",
+    "without limitation",
+    "non-GAAP adjusted results",
+    "pro forma reporting",
+    "special items excluded"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative disclosure with broad, largely boilerplate risk-factor language and extensive reliance on adjusted and pro forma measures. Risk tone is moderately negative, supported by severe prior impairment charges, declining newspaper trends, soft economic conditions, financing risks, and continued exposure to structural media disruption."
+}

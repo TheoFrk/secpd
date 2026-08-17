@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "assumptions could prove inaccurate",
+    "do not unduly rely",
+    "non-GAAP measures",
+    "daily liquidity could vary significantly"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies key pressures, including declining net income, higher credit-loss provisions, margin compression, increased funding costs, reduced primary liquidity, and unrealized securities losses. Risk tone is cautiously neutral because management presents liquidity and asset-quality mitigants, but extensive safe-harbor and non-GAAP boilerplate limits forward-looking certainty."
+}

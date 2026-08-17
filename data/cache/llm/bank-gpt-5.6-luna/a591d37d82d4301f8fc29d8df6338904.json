@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "partially offset by",
+    "primarily due to",
+    "to a lesser extent",
+    "see segment analysis",
+    "certain unallocated expenses"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but describes materially weaker performance, including a shift to a pre-tax loss, declining sales, COVID-related disruptions, cost inflation, labor shortages, and operating inefficiencies. Repeated attribution to external disruptions and offsetting pricing actions somewhat softens the adverse risk presentation, although the overall tone remains negative."
+}

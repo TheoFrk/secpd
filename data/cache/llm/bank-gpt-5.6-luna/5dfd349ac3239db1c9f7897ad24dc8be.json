@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to accurately predict",
+    "highly uncertain",
+    "no assurance",
+    "future developments",
+    "outside our control"
+  ],
+  "risk_summary": "The disclosure identifies meaningful concentration, pandemic, supply-chain, demand, and inventory risks, while providing several quantified impacts and liquidity details. Management maintains a cautiously confident tone regarding cash sufficiency and operational resilience, but relies heavily on broad uncertainty and forward-looking caveats around COVID-19 and future demand."
+}

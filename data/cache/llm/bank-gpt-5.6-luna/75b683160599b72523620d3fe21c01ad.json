@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "additional supplemental perspectives",
+    "may differ from other companies",
+    "not a substitute for GAAP",
+    "unusual items that may obscure trends",
+    "tables may not sum due to rounding"
+  ],
+  "risk_summary": "The excerpt is largely introductory and boilerplate, with limited quantified information on performance, liquidity, asset quality, or emerging risks. Extensive non-GAAP qualifications and repeated comparability disclaimers may reduce transparency, although the tone is neutral to mildly confident rather than crisis-like."
+}

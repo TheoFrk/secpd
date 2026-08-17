@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "undertake no obligation to update",
+    "up to 10 percent",
+    "range of $250 million to $350 million"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial segment-level detail, but it describes significant pressure from declining mail volumes, weak demand, delayed capital spending, and revenue declines. Risk tone is moderately negative, partly offset by cost reductions, positive operating cash flow, debt reduction, and quantified transformation benefits. Boilerplate forward-looking language and reliance on ranges and conditional projections introduce limited but noticeable uncertainty."
+}

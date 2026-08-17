@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.45,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "as appropriate",
+    "uncertain market environment",
+    "unable to reasonably estimate",
+    "may differ significantly"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, highlighting operational resilience, liquidity, acquisitions, and segment performance. Risk factors include pandemic-related demand pressure, shale and elective-procedure weakness, uncertain tax positions, acquisition integration, and reliance on management assumptions. Overall tone is cautiously confident, though some explanations rely on broad causal language and forward-looking expectations."
+}

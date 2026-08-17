@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.56,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "could have a positive impact",
+    "likely to have a negative impact",
+    "non-GAAP measure disclaimer",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed operating metrics, revenue drivers, and expense explanations. Tone is favorable, highlighting record-low operating ratios, pricing gains, productivity, and volume growth, although commodity exposure, weather, fuel prices, coal declines, and network constraints introduce moderate operating risk. Some standard non-GAAP caveats and repeated offsetting-factor language modestly reduce transparency."
+}

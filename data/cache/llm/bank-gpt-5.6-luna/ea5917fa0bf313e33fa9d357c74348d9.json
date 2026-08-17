@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "shell company status",
+    "reactivation contingent on success",
+    "expects to team with major contractors",
+    "significant estimates and assumptions",
+    "dividends in arrears"
+  ],
+  "risk_summary": "The company has suspended its prior operations and remains a shell company, while its proposed defense and commercial laser activities are largely prospective, unquantified, and dependent on future partnerships. Material risks include lack of demonstrated revenues, significant accounting estimates, and accrued preferred-stock dividends with an increased dividend rate and potential change-of-control obligation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "other uncertainties",
+    "not a complete statement of all potential risks",
+    "could differ materially",
+    "reasonably possible variation"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative disclosure with extensive boilerplate warnings and broad, largely non-quantified risk factors. Reported net income fell sharply, with exposure to catastrophe losses, reserve estimation uncertainty, regulatory constraints, investment volatility, and geographic concentration in California and automobile insurance."
+}

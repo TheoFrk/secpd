@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "as funding becomes available",
+    "potentially allow",
+    "plans for advancement",
+    "not a guarantee of future performance"
+  ],
+  "risk_summary": "The excerpt is heavily legalistic and forward-looking, with limited current operating or liquidity quantification and substantial reliance on preclinical evidence and conditional development plans. It presents an optimistic platform narrative, but repeated caveats and funding-dependent milestones indicate significant development, execution, financing, and clinical risk."
+}

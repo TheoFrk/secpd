@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "no assurance expectations will be achieved",
+    "assumes no obligation to update",
+    "other risks associated with development and acquisition"
+  ],
+  "risk_summary": "The excerpt is broadly constructive, supported by quantified leasing, occupancy, development, financing, and capital metrics. Risk disclosure relies heavily on standard forward-looking-statement disclaimers and broad catch-all language, while key exposures include tenant defaults, lease rollover, interest rates, financing availability, development execution, and property-market conditions."
+}

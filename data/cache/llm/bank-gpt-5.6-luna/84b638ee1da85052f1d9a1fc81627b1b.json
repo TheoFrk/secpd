@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks and uncertainties",
+    "expressly disclaim any obligation to update",
+    "not construed as exhaustive",
+    "management estimates of future cash flows"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate safe-h harbor language and repeated disclaimers that limit reliance on projections and updates. Operating disclosures are partly quantified, including vacancy and rent changes, and indicate recovery from pandemic-related weakness, but governance concentration, director turnover, refinancing dependence, and impairment-estimation risks remain material."
+}

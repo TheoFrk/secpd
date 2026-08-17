@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future events rarely develop exactly as forecast",
+    "best estimates routinely require adjustment",
+    "not have significant impact",
+    "no material contractual obligations",
+    "sufficient to support ... next twelve months"
+  ],
+  "risk_summary": "The excerpt is largely standard accounting-policy and recent-pronouncement boilerplate, with limited company-specific discussion of sensitivities or quantified downside exposure. Liquidity disclosures are moderately reassuring, citing increased cash and expected sufficiency for the next twelve months, but reliance on estimates, customer credit, inventory demand, deferred tax realizability, and future operating cash flow remains material."
+}

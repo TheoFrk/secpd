@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "customary conditions",
+    "management believes reasonable",
+    "actual results could differ",
+    "subjective estimates",
+    "event of default"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, with clear disclosure of property metrics, financing transactions, covenants, and impairment charges. Key risks include tenant payment dependence, valuation and collectability estimates, variable-rate debt, and potential acceleration upon covenant breach, although the company reports compliance at year-end. Apparent duplicated passages and truncated text reduce disclosure clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on assumptions management believes reasonable",
+    "may materially differ",
+    "not believe there is a reasonable likelihood",
+    "subject to change",
+    "at an ap […]"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes quantitative sensitivity analyses for key accounting estimates, reducing outright evasiveness. However, substantial reliance on management judgments, forecasts, and historical trends creates estimation risk, while declining international sales and softer market conditions add modestly negative operating risk tone."
+}

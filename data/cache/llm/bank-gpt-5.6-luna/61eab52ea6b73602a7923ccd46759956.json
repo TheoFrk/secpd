@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to regulatory change",
+    "could expose us to potential compliance actions",
+    "primarily attributable to",
+    "including but not limited to",
+    "if factors change and different assumptions are used"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding revenue, margins, expenses, and regulatory milestones, with a cautiously positive operating tone. Key risks include FDA scrutiny of the Section 361 product category, potential compliance actions affecting commercial availability, and estimation sensitivity in stock-based compensation."
+}

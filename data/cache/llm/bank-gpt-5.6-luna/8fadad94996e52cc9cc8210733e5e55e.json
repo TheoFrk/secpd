@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "if risks or uncertainties materialize",
+    "among others",
+    "ability to realize benefits",
+    "no obligation to publicly revise"
+  ],
+  "risk_summary": "The excerpt is dominated by lengthy, largely standardized forward-looking disclaimers and an extensive list of contingent risks, with limited quantification of potential financial impact or likelihood. It identifies meaningful regulatory, competitive, operational, technology, litigation, execution, and liquidity-related uncertainties, while presenting expansion initiatives with profitability and timing dependent on future approvals and execution."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "including, but not limited to",
+    "backlog is not necessarily representative",
+    "subject to cancellation or delay",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but includes substantial standard legal disclaimers and complex revenue-recognition explanations. Key risks include cyclical and structurally imbalanced solar markets, customer concentration, order cancellations or delays, margin volatility, acquisition integration effects, and delayed revenue recognition. The tone is cautiously negative on industry conditions but not crisis-like, with reported growth and improved overall margins."
+}

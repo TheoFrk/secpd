@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.71,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "actual results could differ materially",
+    "no obligation to update",
+    "subjective accounting estimates",
+    "risks and uncertainties without quantification"
+  ],
+  "risk_summary": "The excerpt contains extensive forward-looking disclaimer language and numerous broad, largely unquantified risk factors, including pandemic effects, supply-chain disruptions, labor shortages, inflation, inventory, and customer-credit risks. Accounting estimates rely on management judgment, although the company reports historically negligible receivable write-offs and adequate liquidity for at least twelve months. The overall tone is cautious and legally defensive rather than crisis-like."
+}

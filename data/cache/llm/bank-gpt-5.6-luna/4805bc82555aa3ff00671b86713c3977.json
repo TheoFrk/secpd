@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not yet determinable",
+    "robust clinical activity",
+    "favorable safety profile",
+    "preclinical studies suggest"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate forward-looking disclaimers and promotional clinical language, with some outcomes quantified but limited context on statistical significance, comparators, durability, and development failure risk. Financial results show a sizable $41.8 million net loss, while future milestone and royalty obligations remain timing-uncertain. Overall tone is cautiously optimistic and development-focused rather than crisis-like, but the company remains exposed to significant clinical, regulatory, funding, and commercialization risks."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A disclosure",
+    "cross-reference to exhibit"
+  ],
+  "risk_summary": "The excerpt contains only a procedural cross-reference and provides no substantive information about financial condition, operating results, liquidity, or risks. This limits direct assessment of credit risk and shifts relevant disclosure to an incorporated exhibit."
+}

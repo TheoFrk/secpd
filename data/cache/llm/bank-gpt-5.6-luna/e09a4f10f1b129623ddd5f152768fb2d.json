@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial judgment",
+    "no assurance",
+    "could materially impact",
+    "uncertain when or if",
+    "estimated future cash flows"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful quantified sensitivities, but relies heavily on management estimates for reserves, impairments, fair values, and future cash flows. It highlights potential write-downs and uncertainty around development and future sales, indicating moderate underlying risk without a crisis-like tone."
+}

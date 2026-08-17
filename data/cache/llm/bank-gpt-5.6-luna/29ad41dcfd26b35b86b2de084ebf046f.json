@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "management assumptions",
+    "Level 3 inputs",
+    "estimated future cash flows"
+  ],
+  "risk_summary": "The excerpt presents strong operating momentum, including 23% sales growth, improved gross margins, and expense leverage, supporting a generally confident tone. Risk disclosure is substantially boilerplate, while impairment and warranty estimates rely on management assumptions and uncertain future cash flows. The truncated ending limits assessment of liquidity, downside scenarios, and the full risk discussion."
+}

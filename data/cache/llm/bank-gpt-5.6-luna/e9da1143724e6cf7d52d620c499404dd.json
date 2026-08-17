@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "subjective or complex judgments",
+    "we believe",
+    "varying results",
+    "changing mix between periods"
+  ],
+  "risk_summary": "The disclosure is predominantly positive and supported by substantial operating and financing metrics, including revenue, backlog, community growth, debt maturities, and liquidity actions. Key risks include housing-market sensitivity, geographic variation, inventory impairment exposure, reliance on estimates, and limited comparability caused by changing product and community mix. Overall, the tone is confident but includes standard forward-looking and accounting-estimate caveats."
+}

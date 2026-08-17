@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "largely due to",
+    "primarily due to",
+    "timing and general market climate",
+    "if any",
+    "reasonably likely"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, with clear discussion of liquidity, covenants, cash flows, and credit availability. Key risks include negative operating cash flow driven by inventory and receivables growth, reliance on a credit facility nearing expiration, bank overdraft usage, and exposure to short-term securities and short positions."
+}

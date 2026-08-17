@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"well positioned\" growth claims",
+    "inherent uncertainty going forward",
+    "strategically well-positioned",
+    "non-GAAP currency impact",
+    "long, boilerplate MD&A framing"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on sales, currency effects, cash flows, acquisitions, capital expenditures, and debt, supporting relatively low vagueness. Risk tone is cautiously positive but acknowledges global economic uncertainty, market concentration, currency headwinds, increased leverage, and significant acquisition and investment cash uses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no firm assurances",
+    "not exhaustive",
+    "limited visibility",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified revenue, margin, market, geographic, and expense detail, supporting relatively strong disclosure quality. Risk tone is moderately positive due to revenue and earnings growth, but meaningful exposure remains to semiconductor cyclicality, currency movements, customer concentration, Japan-related weakness, and limited visibility into future orders. The extensive forward-looking disclaimer and generic risk list are somewhat boilerplate but not materially evasive."
+}

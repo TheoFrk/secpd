@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and disclaimer",
+    "no assurance that this will be the case",
+    "we believe",
+    "strategic focus remains on diversifying",
+    "marketing-oriented Modern Alpha claims"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, including AUM, net outflows, revenues, fee rates, and segment results, but relies substantially on forward-looking language and broad strategic assertions. Key risks include significant historical outflows from two major ETFs, concentration in certain markets and products, fee compression, competitive pressure, and dependence on uncertain diversification benefits from the ETFS acquisition."
+}

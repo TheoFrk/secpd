@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "no obligation to update",
+    "could differ materially",
+    "significant judgment and estimates",
+    "ultimate collectability cannot be assured"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking disclaimers and broad qualitative caveats, with limited current-period quantification beyond portfolio percentages. It highlights material exposure to loan losses, economic conditions, collateral valuations, prepayments, and servicing-right assumptions, while acknowledging that estimates may change materially."
+}

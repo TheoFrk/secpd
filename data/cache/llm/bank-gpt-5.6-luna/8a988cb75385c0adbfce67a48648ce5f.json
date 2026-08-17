@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to improve",
+    "significant declines",
+    "unfavorable industry market conditions",
+    "estimated resolution",
+    "lower than in recent years"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, but describes substantial cyclicality, reduced drilling demand, margin pressure, workforce reductions, impairments, litigation charges, and currency losses. Management presents some recovery prospects tied to improving rig counts and international contracts, though these remain dependent on volatile commodity markets."
+}

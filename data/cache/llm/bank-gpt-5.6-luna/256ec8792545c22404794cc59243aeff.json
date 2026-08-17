@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "currently evaluating impact",
+    "may require additional financing",
+    "sufficient for next twelve months",
+    "no material impact expected"
+  ],
+  "risk_summary": "The excerpt provides detailed accounting policies and some quantified cash-flow information, but relies heavily on boilerplate uncertainty language and gives limited sensitivity analysis for key estimates. Liquidity appears constrained, with only $132,000 in cash and a $500,000 related-party loan supporting positive financing cash flow, while management acknowledges potential future financing needs. The overall tone is cautiously reassuring but carries meaningful going-concern and execution risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "if approved",
+    "we expect",
+    "could affect our ability",
+    "as appropriate",
+    "attempt to mitigate these risks"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, profitability, liquidity, debt, acquisition funding, and cash flow metrics. The tone is broadly confident due to strong growth and pipeline execution, but it acknowledges meaningful risks from regulatory approvals, pricing pressure, patent expirations, foreign exchange, macroeconomic conditions, and acquisition-related leverage."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not probable of collection",
+    "does not know when or if",
+    "subject to certain limitations",
+    "in the Company’s opinion",
+    "contingent rent may be significantly less"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but highlights material operating and collection risks, including Metropark rent arrears, lease termination, environmental remediation costs, and a disputed payment claim. Liquidity appears adequate historically, yet future revenue and cash recovery remain uncertain and dependent on tenant recovery, negotiations, and mediation."
+}

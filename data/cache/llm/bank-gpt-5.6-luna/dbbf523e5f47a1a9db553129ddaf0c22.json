@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "cannot be predicted with certainty",
+    "subjective judgments and estimates",
+    "reasonable and supportable forecasts",
+    "qualified in its entirety"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on assets, loans, nonperforming assets, interest rates, and credit-loss methodology, limiting overall vagueness. Risk tone is cautious, highlighting margin compression, deposit pricing pressure, inflation, recession indicators, potential credit deterioration, and reliance on management estimates, but reported growth and low nonperforming assets provide some mitigating context."
+}

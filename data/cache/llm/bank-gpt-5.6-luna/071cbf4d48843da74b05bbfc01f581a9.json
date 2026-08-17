@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.55,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "the Company believes",
+    "based on current actuarial calculations",
+    "when considered appropriate",
+    "a broad range of applications"
+  ],
+  "risk_summary": "The disclosure is detailed and strongly quantified, with clear segment, geographic, margin, cash flow, and pension information. Risk tone is generally confident, supported by growth, cash generation, and margin expansion, although it notes market-specific declines, currency headwinds, acquisitions, and actuarial uncertainty."
+}

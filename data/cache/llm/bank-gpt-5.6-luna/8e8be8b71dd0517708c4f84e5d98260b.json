@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "believe these business exits allow",
+    "excluding the impact of business exits",
+    "non-GAAP measures not comparable",
+    "secular declines and inflationary pressures"
+  ],
+  "risk_summary": "The disclosure provides several useful quantified metrics, including revenue, net income, adjusted EBITDA, margin, debt reduction, and cost reductions. However, it contains substantial boilerplate, promotional framing, reliance on non-GAAP measures, and frequent exclusion of business-exit impacts. Risk tone is cautiously constructive, but revenue declines, inflation, higher bad debt expense, and pressure in legacy segments remain material concerns."
+}

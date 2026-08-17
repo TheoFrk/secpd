@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.87,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks",
+    "inherently uncertain estimates",
+    "model overlays",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and extensively qualifies projections, limiting reliance on forward-looking statements. Credit-risk disclosures identify meaningful uncertainty in allowance estimates, economic forecasts, model limitations, and borrower performance, although the later expense and tax discussion is relatively precise and quantified."
+}

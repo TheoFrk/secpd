@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict if or when profitable",
+    "future cash requirements expected to be financed",
+    "actual results may differ materially",
+    "going concern qualification",
+    "probability-weighted estimates"
+  ],
+  "risk_summary": "The company reports significant liquidity and viability risk, including only $2.3 million in cash, a $241.3 million accumulated deficit, reliance on external financing, and a going-concern qualification. Revenue recognition and rebate estimates involve material uncertainty, while profitability and future financing availability remain unpredictable."
+}

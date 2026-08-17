@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cautiously optimistic outlook",
+    "much will depend upon",
+    "assuming a more optimistic view",
+    "actual results may vary",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed segment, geographic, customer, and margin drivers. Risk tone is cautiously positive but relies on forward-looking assumptions regarding royalty revenue, defense-market conditions, and private-sector growth. The text is lengthy and repetitive, and some outlook statements are hedged rather than supported by firm order commitments."
+}

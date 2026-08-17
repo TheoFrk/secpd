@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "current expectations, estimates, plans and projections",
+    "risks and uncertainties",
+    "lower restructuring, exit and impairment charges",
+    "valuation allowance balances could be reversed"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed segment, earnings, restructuring, impairment, and tax information, but relies on standard forward-looking disclaimers and non-GAAP adjustments. Risk is mixed: management presents improving earnings and revenue expectations, while weak marine markets, business exits, asset impairments, restructuring needs, and uncertain deferred-tax-asset recoverability remain material concerns."
+}

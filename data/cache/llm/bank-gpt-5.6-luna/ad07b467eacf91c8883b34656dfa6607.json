@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "inherent risks and uncertainties",
+    "difficult to predict",
+    "variety of factors beyond our control",
+    "expected benefits of acquisition"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on the CIT merger, ACL scenarios, recorded reserves, and interest-rate data, supporting relatively strong transparency. However, extensive boilerplate disclaimers and broad uncertainty language limit insight into the probability and magnitude of adverse outcomes, particularly for acquisition integration and credit losses. Overall tone is neutral to mildly confident, with material sensitivity to economic forecasts, regulatory actions, and merger-related impacts."
+}

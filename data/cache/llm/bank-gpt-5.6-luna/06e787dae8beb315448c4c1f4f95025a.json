@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance of loss protection",
+    "may pursue other opportunities",
+    "significantly diminish",
+    "more-likely-than-not unrealizable"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantified loan delinquency, allowance, ownership, and EBITDA figures, supporting relatively transparent disclosure. However, it contains extensive boilerplate, complex multi-segment descriptions, and material uncertainty around Salus loan recoveries, energy leverage reduction, insurance investment spreads, and deferred tax asset realizability."
+}

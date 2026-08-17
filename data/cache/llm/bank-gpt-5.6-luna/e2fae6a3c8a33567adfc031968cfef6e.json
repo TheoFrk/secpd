@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot accurately predict future prices",
+    "with any degree of certainty",
+    "we believe we have adequate liquidity",
+    "forward-looking statements involve risks and uncertainties",
+    "outside of our control"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on earnings, production, capital spending, hedging, liquidity, and fair-value measurements, but relies on standard forward-looking caveats and qualitative assurances regarding funding and strategy. Key risks include commodity-price volatility, dependence on derivative settlements, declining earnings, and potential reliance on borrowings under the credit facility."
+}

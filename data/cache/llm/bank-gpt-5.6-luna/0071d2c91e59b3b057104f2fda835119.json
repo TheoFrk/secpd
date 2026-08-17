@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "assumes no obligation to update",
+    "favorable circumstances",
+    "economically offset",
+    "non-GAAP sales data"
+  ],
+  "risk_summary": "The excerpt presents improved income, revenue, and gross profit, but includes adverse trends in Applebee's same-restaurant sales, customer traffic, effective restaurants, and rental and financing revenue. Comparability is affected by the nonrecurring $30 million advertising-fund contribution and temporary operation of 69 acquired restaurants. Risk disclosure is substantially boilerplate, while some performance claims rely on non-GAAP system-wide sales and management judgment."
+}

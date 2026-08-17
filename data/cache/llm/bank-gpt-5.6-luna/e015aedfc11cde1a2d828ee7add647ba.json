@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain, continuously evolving",
+    "cannot be predicted",
+    "may not be indicative of future results",
+    "future developments",
+    "closely monitoring supplier ability"
+  ],
+  "risk_summary": "The disclosure identifies substantial pandemic, hospital demand, supply-chain, inflation, labor, and customer-access risks, with quantified impacts limited largely to the $4.8 million forgiven PPP loan. It provides some operational detail but relies heavily on boilerplate uncertainty language and broad contingencies, while the excerpt is incomplete and does not permit a full assessment of financial magnitude or liquidity risk."
+}

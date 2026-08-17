@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot reasonably predict expected price increases",
+    "unusual rate of inflation",
+    "meaningful price inflation",
+    "partially offset",
+    "duplicated PPP loan disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, but highlights elevated food, packaging, wage, and labor-supply pressures that management cannot confidently pass through to customers without potentially harming traffic. Revenue growth and same-store sales are positive, while the absence of facility borrowings and letters of credit is favorable; however, margin pressure and the truncated disclosure limit a complete assessment."
+}

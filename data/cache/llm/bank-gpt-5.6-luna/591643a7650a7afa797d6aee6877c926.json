@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subjective judgments associated with estimates",
+    "no assurance that loan losses will not exceed",
+    "could differ significantly",
+    "various factors could cause results to differ materially",
+    "not expected to increase at a significant level"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes some quantified balances, locations, staffing, and tax assets, but key credit and valuation exposures rely heavily on management judgment and forward-looking disclaimers. Loan-loss adequacy, OREO valuations, deferred tax asset recoverability, and future non-interest income remain material areas of uncertainty, with potential downside from deterioration in credit, collateral values, or market conditions."
+}

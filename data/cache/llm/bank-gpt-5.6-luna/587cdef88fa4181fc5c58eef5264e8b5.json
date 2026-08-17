@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "extremely difficult to estimate",
+    "significant uncertainties",
+    "no demand has been made",
+    "not able to estimate a range",
+    "possible defenses"
+  ],
+  "risk_summary": "The disclosure is generally data-rich and provides detailed operating volumes, financial amounts, and accounting explanations. However, the ongoing DOJ/HUD investigation involving approximately 45,900 FHA-insured loans and $7.9 billion of original principal balance presents material contingent liability risk, with no reserve recorded because potential losses cannot be estimated. Mortgage loan loss exposure and reliance on estimates remain notable credit risks."
+}

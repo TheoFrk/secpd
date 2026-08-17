@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "does not undertake to update",
+    "among other things",
+    "cannot predict what legislation might be enacted"
+  ],
+  "risk_summary": "The excerpt uses substantial standard cautionary and risk-management boilerplate, with limited quantification of exposures beyond operational and performance metrics. It identifies fraud, credit, liquidity, interest-rate, regulatory, reputational, and customer-information risks, but generally describes controls and potential impacts at a high level. Reported 2019 results were positive, producing a mildly confident overall tone despite meaningful generic risk disclosures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "extensive non-GAAP adjustments",
+    "management believes",
+    "items outside management’s control"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and technically dense, with substantial emphasis on safe-harbor language and numerous non-GAAP measures that may reduce comparability with GAAP results and peers. Operating results presented are generally favorable, including margin expansion and recovery in several markets, but the disclosure provides limited context on the magnitude and persistence of underlying risks in the excerpt."
+}

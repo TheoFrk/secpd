@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties beyond control",
+    "no obligation to update",
+    "ability to achieve initiatives",
+    "statutory and regulatory limitations"
+  ],
+  "risk_summary": "The disclosure identifies numerous operational, macroeconomic, tax, acquisition, supply-chain, and debt-servicing risks, but relies substantially on standardized forward-looking language and broad contingencies. Results were pressured by lower volumes and demand, although pricing, productivity, and transformation initiatives partially offset these effects. Liquidity and debt-service capacity are presented positively but remain dependent on subsidiary cash transfers and available borrowing capacity."
+}

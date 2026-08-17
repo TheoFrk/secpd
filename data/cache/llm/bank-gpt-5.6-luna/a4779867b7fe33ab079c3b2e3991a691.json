@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the effect",
+    "may be unable to fully mitigate",
+    "known or unknown risks and uncertainties",
+    "could also affect demand",
+    "not indicative of future results"
+  ],
+  "risk_summary": "The excerpt provides broad qualitative discussion of macroeconomic, cyclical, weather, customer, regulatory, and project-execution risks, but offers limited quantification of their potential financial impact. Its tone is balanced, combining extensive cautionary language with optimistic claims about backlog and market opportunities. Dense cross-referencing and boilerplate forward-looking disclaimers reduce specificity."
+}

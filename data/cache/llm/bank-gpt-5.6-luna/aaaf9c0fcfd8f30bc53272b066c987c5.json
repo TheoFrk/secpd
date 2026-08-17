@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "beyond the Company’s control",
+    "do not undertake revisions",
+    "considerable judgment and estimation uncertainty",
+    "qualitative evaluation requiring managerial discretion"
+  ],
+  "risk_summary": "The excerpt is quantitatively supported by detailed interest-rate and balance-sheet tables, but contains substantial boilerplate disclaimers and repeated references to uncertainty in credit-loss, fair-value, goodwill, and forecasting estimates. The tone is broadly neutral, with no explicit crisis indicators, although reliance on managerial judgment and macroeconomic assumptions creates material estimation risk."
+}

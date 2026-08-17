@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"first-in-class\" drugs",
+    "\"encouraging\" therapeutic activity",
+    "\"significant unmet medical needs\"",
+    "\"substantial patent estate\"",
+    "\"potential to earn more than $3.5 billion\""
+  ],
+  "risk_summary": "The excerpt uses a strongly promotional and confident tone, emphasizing platform leadership, clinical successes, partnerships, and future milestone potential. It provides useful quantitative figures for pipeline size, expenditures, licensing proceeds, and milestone opportunities, but relies heavily on forward-looking claims and favorable descriptors while offering limited discussion of trial failures, approval risk, safety limitations, or commercialization uncertainty."
+}

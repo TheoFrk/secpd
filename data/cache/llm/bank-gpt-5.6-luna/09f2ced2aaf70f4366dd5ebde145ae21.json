@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significantly fluctuate",
+    "currently known potential plans",
+    "continually looking for ways",
+    "in most cases, lesser developed",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful segment-level asset, liquidity, cash flow, and capital expenditure figures. It highlights substantial exposure to commodity prices, foreign political and economic conditions, currency movements, working-capital volatility, and highly inflationary accounting, but presents liquidity as adequate for the next twelve months. Risk tone is balanced but somewhat cautious due to repeated emphasis on potentially significant fluctuations and uncertainty."
+}

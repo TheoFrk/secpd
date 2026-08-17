@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance of revenue or profitability",
+    "potentially broad disease applications",
+    "significant judgment and estimates",
+    "additional funding or collaborations required"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative detail on cash, clinical enrollment, trial design, and development status, but is heavily qualified by forward-looking disclaimers and promotional descriptions of platform potential. Key risks include no product revenue, continuing operating losses, dependence on regulatory approval and external funding, third-party manufacturing reliance, and substantial clinical and commercialization uncertainty."
+}

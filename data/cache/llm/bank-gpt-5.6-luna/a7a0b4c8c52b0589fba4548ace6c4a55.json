@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due",
+    "largely due",
+    "partially offset by",
+    "stable economic forecast",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is highly quantified and comparatively transparent, with detailed year-over-year metrics, capital ratios, credit-loss data, and funding trends. Risk factors include deposit contraction, higher loan-to-deposit leverage, increased potential problem loans, commercial real estate pressure, market volatility, and higher operating costs, although profitability and regulatory capital remain solid. Some attribution relies on broad qualifiers and the excerpt contains boilerplate and formatting corruption."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "does not expect a material impact",
+    "appropriate contingency plans",
+    "may negatively impact our business",
+    "qualitative assessment of factors"
+  ],
+  "risk_summary": "The disclosure is moderately optimistic but identifies meaningful exposure to federal budget negotiations, continuing resolutions, shutdown risk, set-aside rules, and CMOP contract recompete outcomes. It provides useful quantitative information, including 98% federal revenue concentration, $395.9 million of revenue, and approximately $140.0 million from CMOP contracts, but relies substantially on standard forward-looking disclaimers and qualitative assurances."
+}

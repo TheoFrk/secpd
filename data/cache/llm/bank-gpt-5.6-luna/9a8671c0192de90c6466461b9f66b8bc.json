@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot determine the long-term impact",
+    "could be an adverse material financial impact",
+    "current thinking by the Fed",
+    "perhaps prompting investors",
+    "primarily attributable to"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly regarding AUM, fees, market movements, expenses, and taxes. It identifies material sensitivity to market volatility, investor flows, concentrated exposure to airlines and niche commodities, COVID-19, inflation, and geopolitical conditions, but relies on qualified macroeconomic projections and includes some repeated boilerplate language."
+}

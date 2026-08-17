@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "probable recovery",
+    "may differ from estimates",
+    "various assumptions and estimates",
+    "dependent upon several factors"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantified regulatory and capital expenditure information, but relies on judgment-based estimates and contingent recovery assumptions. Key downside risks include regulatory disallowance, environmental cost overruns, litigation, actuarial changes, and uncertainty in acquisition valuations. Overall tone is neutral to mildly confident, supported by the regulated cost-recovery framework but tempered by material estimation uncertainty."
+}

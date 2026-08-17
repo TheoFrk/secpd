@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may not prevent material adverse effect",
+    "subject to customary closing conditions",
+    "expected to close",
+    "cannot predict interest rate fluctuations",
+    "primarily attributable to"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting capital, earnings, balance-sheet, acquisition, and interest-rate metrics. It presents improving profitability, capital quality, and loan growth, but acknowledges exposure to interest-rate movements, regulatory approvals, credit-loss provisions, and market conditions."
+}

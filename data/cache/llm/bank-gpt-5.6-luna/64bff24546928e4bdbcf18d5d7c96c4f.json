@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "estimates and assumptions",
+    "among other things",
+    "not material",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but relies on management estimates for revenue, construction costs, inventory valuation, warranty liabilities, and impairment assessments. Margins declined on an adjusted basis due to higher construction and lot costs, while operating volume and revenue improved. The excerpt is truncated, limiting assessment of the full risk discussion."
+}

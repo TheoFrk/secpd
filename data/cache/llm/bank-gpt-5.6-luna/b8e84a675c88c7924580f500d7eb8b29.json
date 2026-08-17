@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "estimates and judgments",
+    "when we deem it necessary",
+    "working capital deficit",
+    "inconsistent year comparison"
+  ],
+  "risk_summary": "The excerpt is highly boilerplate and technically dense, with extensive accounting-policy language that limits transparency about underlying business risks. Reported revenue, operating cash flow, and net income improved, and debt was repaid, but the company still has a substantial working-capital deficit and declining cash. A notable presentation error compares 2024 G&A expenses with 2024 rather than 2023, which reduces disclosure reliability."
+}

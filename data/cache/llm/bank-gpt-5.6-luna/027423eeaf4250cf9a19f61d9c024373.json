@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to various risks and uncertainties",
+    "could cause actual results to differ materially",
+    "no obligation to update",
+    "estimates and assumptions inherently subject to high uncertainty"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and uses broad forward-looking disclaimers that limit reliance on projections and identify numerous potential risks without quantifying their likelihood or potential impact. It does provide some specific operating metrics and identifies ACL and goodwill valuation as critical estimates, but the discussion is highly complex and partially truncated."
+}

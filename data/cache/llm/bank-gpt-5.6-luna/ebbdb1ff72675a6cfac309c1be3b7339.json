@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "aspirational growth language",
+    "non-GAAP adjustments",
+    "broad risk diversification claims",
+    "ongoing tax guidance uncertainty",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally confident and highly quantified, but contains substantial strategic boilerplate and aspirational language about growth, efficiency, and market leadership. Reliance on non-GAAP measures and numerous comparability adjustments may complicate interpretation of underlying performance, while geographic exposure and tax matters introduce moderate risk."
+}

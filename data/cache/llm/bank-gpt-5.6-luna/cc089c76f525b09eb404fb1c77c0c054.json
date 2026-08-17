@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "actual results could differ",
+    "significant number of new communities",
+    "constantly changing mix"
+  ],
+  "risk_summary": "The excerpt presents a generally favorable outlook supported by detailed operating metrics, revenue, backlog, orders, margins, and tax data. Key risks include rising land and construction costs, weather-related margin pressure, elevated taxes, changing product mix, and subjective real-estate impairment and cost-allocation estimates. The disclosure is relatively quantified but uses standard forward-looking and accounting-estimate caveats."
+}

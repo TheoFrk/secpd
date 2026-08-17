@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant risk and expense",
+    "among other factors",
+    "cannot predict whether or when",
+    "depends significantly on continued success",
+    "truncated or corrupted disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides meaningful product, revenue, collaboration, and accounting detail, but includes standard forward-looking uncertainty language and dependence on EYLEA commercialization. Key risks include regulatory approval, clinical development failures, competitive obsolescence, fluctuating operating results, collaborator reliance, and estimation uncertainty in revenue deductions and inventory. The apparent text corruption and omitted tables reduce disclosure completeness and reviewability."
+}

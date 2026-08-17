@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "primarily due to",
+    "significant judgment is involved",
+    "may change as further facts",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, showing improved margins and operating income, but relies on non-GAAP adjustments and recurring management estimates. Key uncertainty areas include tax valuation allowances, inventory realizability, litigation exposures, and insurance recoveries. The overall tone is moderately confident, with standard cautionary language rather than crisis-level risk signaling."
+}

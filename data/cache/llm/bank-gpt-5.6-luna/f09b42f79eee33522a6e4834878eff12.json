@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to significant risks and uncertainties",
+    "various factors beyond our control",
+    "not a complete set of all potential risks",
+    "we believe/strive/expect"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and moderately confident operating outlook, supported by quantified earnings, income, loan-loss provision, and market-share data. Risk disclosure relies heavily on standard forward-looking-statement disclaimers and broad, non-exhaustive uncertainty language, while strategic objectives and expected benefits are less specifically quantified."
+}

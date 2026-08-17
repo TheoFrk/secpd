@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "could differ materially",
+    "high degree of judgment and complexity",
+    "best ongoing estimates",
+    "does not undertake any obligation"
+  ],
+  "risk_summary": "The excerpt contains extensive forward-looking and regulatory boilerplate, with frequent qualifiers and broad contingencies that limit precision. Credit and valuation risks are material because allowance levels, acquired-loan cash flows, collateral values, and foreclosed-asset realizations depend on highly judgmental estimates and could require future provisions or impairments. The tone is cautious but not crisis-like, and the discussion provides some useful quantitative detail on rate changes and methodology."
+}

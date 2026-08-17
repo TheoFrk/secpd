@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "numerous variables and continued uncertainties",
+    "there can be no assurance",
+    "may take further actions",
+    "customary closing conditions",
+    "alternative assumptions or inability to meet projections"
+  ],
+  "risk_summary": "The disclosure is relatively data-rich and reports substantial revenue and operating-income improvement, but performance depends partly on volatile COVID-19, PPE demand, inflation, transportation costs, and glove pricing. Management uses standard uncertainty language around pandemic impacts, future growth sustainability, the Apria acquisition, and goodwill impairment assumptions. Overall tone is cautiously positive rather than crisis-like."
+}

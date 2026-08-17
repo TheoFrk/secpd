@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "offset in part by",
+    "if any",
+    "could be quickly monetized",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed variance explanations, but it indicates material financial risk through operating losses, limited cash interest coverage, substantial deferred tax valuation allowances, and reliance on uncertain shipwreck recoveries. The company anticipates continued net losses and depends on project monetization and non-cash financing effects to support liquidity."
+}

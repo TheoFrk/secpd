@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high-single digit increase",
+    "low-teens decreases",
+    "significant growth",
+    "assumptions about future demand",
+    "if actual market conditions differ"
+  ],
+  "risk_summary": "The disclosure is generally precise and highly quantified, with clear attribution of revenue, margin, expense, tax, and debt changes. Risk tone is mildly negative due to declining revenue in prior periods, margin compression, higher operating expenses, debt-related interest increases, inventory valuation uncertainty, and demand or competitive pressures. Some operating trends and valuation assumptions rely on broad descriptors and forward-looking estimates."
+}

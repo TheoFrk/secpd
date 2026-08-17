@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "subject to a number of contingencies",
+    "pipeline for the future",
+    "intentional design to solve complex challenges",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating metrics and revenue, cost, capacity, and miner deployment data, but also relies on forward-looking plans involving cryptocurrency expansion, future financing, and a contingent sale. Exposure to cryptocurrency volatility, execution risk, capital requirements, and accounting estimates is evident, while the truncated discussion may omit additional adverse developments."
+}

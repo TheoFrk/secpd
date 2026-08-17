@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "there can be no assurance",
+    "uncertainty related to",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but includes substantial forward-looking language and standard risk disclaimers around permitting, safety, regulation, COVID-19, production timing, and commodity prices. The tone is mildly confident overall, although declining gross profit, inflationary cost pressure, lower metal prices, and operational uncertainty indicate meaningful risk."
+}

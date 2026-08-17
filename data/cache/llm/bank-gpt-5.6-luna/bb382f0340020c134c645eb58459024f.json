@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of additional capital",
+    "longer study durations and extensions",
+    "warrant fair-value revaluation",
+    "incomplete disclosure/truncated text"
+  ],
+  "risk_summary": "The excerpt is substantially quantified but reflects meaningful operating deterioration, including a 23.3% revenue decline, negative POS gross margins, lower TOS margins, and sharply higher R&D spending. Liquidity appears adequate only through the first quarter of fiscal 2017, while the company acknowledges uncertainty regarding its ability to raise additional capital and has relied on insider convertible notes and equity financing. The tone is cautious and financially pressured rather than crisis-like."
+}

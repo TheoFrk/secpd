@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "we believe",
+    "challenging macroeconomic environment",
+    "non-GAAP financial measures",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt presents strong, well-quantified operating and earnings performance, with improving sales, margins, and net income. Principal risks include recessionary conditions, unemployment, gas-price volatility, weather effects, higher borrowings, and uncertainty around the durability of favorable vehicle-aging trends. Disclosure is generally specific, although forward-looking statements rely on repeated beliefs and uncertainty qualifiers, and the excerpt contains a truncated section and non-GAAP measures requiring reconciliation."
+}

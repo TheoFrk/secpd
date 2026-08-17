@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "estimates of future claim payments",
+    "most likely ultimate liability",
+    "anticipated growth",
+    "distorts net underwriting expense",
+    "98.5% concentration in New York"
+  ],
+  "risk_summary": "The disclosure is generally specific and provides useful quantitative operating data, but it relies on actuarial estimates and acknowledges uncertainty in loss reserves and claim severity. Risk is elevated by geographic concentration in New York, increased large-fire claim frequency and severity, expansion-related expense lags, and reliance on reinsurance."
+}

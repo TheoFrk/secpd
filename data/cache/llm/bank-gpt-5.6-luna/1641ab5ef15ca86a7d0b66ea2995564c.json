@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance that financing will become available",
+    "anticipated sources of revenue",
+    "known and unknown risks",
+    "no obligation to update",
+    "unable to raise additional capital"
+  ],
+  "risk_summary": "The company has no revenue, recurring losses, declining cash, and relies on uncertain financing, asset sales, and patent enforcement to fund operations. The extensive forward-looking disclaimer language is repetitive and emphasizes substantial uncertainty without providing a clear path to sustainable cash generation."
+}

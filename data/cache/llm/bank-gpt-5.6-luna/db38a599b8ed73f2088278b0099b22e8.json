@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "largely due to",
+    "primarily driven by",
+    "challenging conditions",
+    "partially offsetting",
+    "unfavorable mix effects"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and explains major declines in sales, operating income, margins, orders, and backlog. Risk tone is moderately negative, reflecting industrial-market weakness, oil and gas exposure, unfavorable product mix, acquisition costs, and reduced backlog, although the disclosure provides substantial attribution and mitigation context."
+}

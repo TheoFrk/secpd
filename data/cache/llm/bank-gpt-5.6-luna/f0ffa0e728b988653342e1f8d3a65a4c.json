@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expected to continue",
+    "could have a material adverse effect",
+    "if recognized"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but presents meaningful deterioration, including a larger pretax loss, declining revenues, concentrated public-notice exposure, and substantial losses in Journal Technologies. Forward-looking language highlights expected declines and potential regulatory and adjudication risks, while the excerpt’s truncation and repeated accounting detail modestly reduce clarity."
+}

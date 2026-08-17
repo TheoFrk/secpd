@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "solid earnings growth",
+    "robust contractual revenue growth",
+    "strength of our sales pipeline",
+    "modestly improved outlook",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, with revenue, cash flow, leverage, fleet investment, and earnings forecasts disclosed. The outlook is confident but includes material risks from negative free cash flow, rising leverage, used-vehicle losses, higher maintenance costs, and reliance on tax benefits. Repeated section headers and extensive segment terminology increase density but do not appear materially evasive."
+}

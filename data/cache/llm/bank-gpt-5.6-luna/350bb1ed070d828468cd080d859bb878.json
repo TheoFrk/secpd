@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt exists around ability to continue as a going concern",
+    "requires additional funding",
+    "subject to, among other factors, market conditions",
+    "uncertainty related to future cash flows",
+    "highly volatile asset"
+  ],
+  "risk_summary": "The excerpt contains a serious liquidity and going-concern warning, including restricted cash, dependence on future operating cash flow, and a need for additional financing despite subsequent debt repayment. Risk disclosure is partly offset by promotional claims regarding bitcoin and strategic growth, with substantial legal, market, and execution risks. The dense transaction history and conditional language make the overall disclosure complex, although key financial distress indicators are explicitly stated."
+}

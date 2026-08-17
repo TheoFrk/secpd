@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "material adverse effect",
+    "cannot predict future",
+    "various factors",
+    "inherent uncertainties"
+  ],
+  "risk_summary": "The excerpt provides useful operational scale and revenue, asset, and facility counts, but is dominated by boilerplate forward-looking disclaimers and broad, non-quantified contingencies. It identifies meaningful exposure to labor and inflationary costs, interest rates, reimbursement constraints, physician expenses, insurance claims, and potential impairment, indicating moderate downside risk."
+}

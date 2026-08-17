@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance",
+    "may be necessary in the future",
+    "challenging operating environment",
+    "could materially affect",
+    "not identified all environmental liabilities"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, with clear year-over-year revenue, margin, expense, and earnings disclosures. Risk tone is mildly negative due to declining net earnings, margin compression, elevated costs, competitive pressures, and environmental liabilities, although operating performance remains substantial. The environmental and regulatory discussion relies on broad contingency language and does not quantify potential future exposures."
+}

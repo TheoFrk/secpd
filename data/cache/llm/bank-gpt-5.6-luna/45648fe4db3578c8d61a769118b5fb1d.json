@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.91,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.34,
+  "risk_sentiment": -0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A provided",
+    "duplicated wording",
+    "cross-reference to separate report"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial condition or results discussion and instead defers entirely to a separately filed annual report. This limits transparency within the filing excerpt, although it does not itself indicate a crisis-level risk tone."
+}

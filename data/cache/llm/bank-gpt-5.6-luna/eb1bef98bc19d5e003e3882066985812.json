@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "without limitation",
+    "other external developments",
+    "estimates, assumptions and judgments",
+    "truncated reasonable and supportable amounts"
+  ],
+  "risk_summary": "The excerpt is heavily structured around standard MD&A, safe-harbor, regulatory, and accounting-policy boilerplate, with substantial technical complexity. It identifies meaningful exposure to credit losses, economic conditions, interest rates, liquidity, regulatory actions, cybersecurity, and valuation uncertainty, but provides limited quantified sensitivity analysis in the excerpt. The tone is neutral to mildly confident, supported by quantified CECL and capital-related amounts but tempered by broad forward-looking disclaimers."
+}

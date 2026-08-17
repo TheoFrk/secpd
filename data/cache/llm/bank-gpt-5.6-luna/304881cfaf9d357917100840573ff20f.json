@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance improvement will continue",
+    "ultimate impact not determined",
+    "primarily attributable to",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, net interest income, margins, securities gains, and impairment charges, but includes standard forward-looking disclaimers and some unresolved regulatory and economic impacts. Risk tone is mildly negative because of weak real estate, high unemployment, credit-cycle concerns, declining net interest income, and securities impairments, partially offset by solid capital and expected efficiency improvements."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "actual results will inevitably differ",
+    "conditions warrant",
+    "underlying operations",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, reporting sales, earnings, backlog, cost pressures, pension assumptions, and expected contributions. Key risks include supply-chain disruption, labor shortages, elevated material and freight costs, customer credit losses, impairment judgments, and pension sensitivity. Non-GAAP adjustments and extensive accounting-estimate language may reduce comparability and emphasize adjusted performance."
+}

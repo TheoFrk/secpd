@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive disclosure",
+    "filed as Exhibit 13"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and directs readers to another filing section. This limits transparency within the presented text, although the cross-reference itself is procedurally clear."
+}

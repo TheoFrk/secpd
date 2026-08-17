@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "omission of earliest fiscal year",
+    "no assurances",
+    "subject to normal competitive conditions",
+    "could have a material impact",
+    "NM for large valuation loss"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but omits discussion for the earliest year and relies on standard forward-looking qualifications. It identifies meaningful risks from inflation, consumer spending, supply-chain disruption, climate events, execution of expansion projects, and a substantial unrealized securities loss."
+}

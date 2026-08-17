@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance that current prices will continue",
+    "a number of factors could impact",
+    "significant uncertainty",
+    "may materially and adversely affect",
+    "estimates may change in the future"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosures on liquidity, debt, hedging, COVID-19 costs, and operating risks, but relies extensively on standard cautionary language and repeated cross-references. Key risks include metal-price volatility, substantial leverage, permitting and environmental liabilities, reserve uncertainty, and pandemic-related disruption."
+}

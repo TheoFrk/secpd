@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "considerable judgment",
+    "actual results may differ",
+    "other external factors",
+    "more likely than not",
+    "environmental factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified balance-sheet and interest-rate data, but its critical accounting policy discussion relies heavily on broad management judgments and standard forward-looking caveats. Credit risk is acknowledged through potential deterioration in asset quality, delinquencies, defaults, and loan-loss provisions, without indicating an immediate crisis."
+}

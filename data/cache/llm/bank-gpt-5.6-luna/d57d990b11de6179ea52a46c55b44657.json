@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "several influencing factors",
+    "other factors",
+    "certain actions and formulated plans",
+    "not expected to have a significant effect",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides detailed year-over-year balance-sheet movements, but includes boilerplate uncertainty language and limited specificity on the magnitude of forward risks. Revenue declined modestly, receivables collection days increased, and inventory days rose, while debt and total liabilities decreased. Semiconductor concentration above 99.9% and exposure to demand volatility, short lead times, and customer forecasting limitations remain material risks."
+}

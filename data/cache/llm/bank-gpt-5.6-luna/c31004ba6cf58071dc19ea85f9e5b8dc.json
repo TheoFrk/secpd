@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot guarantee future results",
+    "expected to be adequate",
+    "additional financing may not be available",
+    "proven revenue generating"
+  ],
+  "risk_summary": "The excerpt provides useful revenue, cost, gross margin, and product-line figures, but relies heavily on standard forward-looking disclaimers and optimistic growth assertions. Liquidity and financing risk are material: the company expects continued leverage, further capital raises or borrowings, possible dilution, and uncertainty regarding funding availability. The disclosure is moderately complex and partly promotional, with some claims such as customer-generated revenue estimates not directly tied to reported company revenue."
+}

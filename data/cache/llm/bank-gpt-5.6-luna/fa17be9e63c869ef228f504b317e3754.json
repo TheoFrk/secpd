@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects revenue to fluctuate",
+    "no assurance of realizing NOLs",
+    "provided we generate sufficient future earnings",
+    "more-likely-than-not criterion",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but the company reports substantially worsening net losses, declining subscription revenue and site counts, lower-margin equipment sales, software impairments, and higher interest expense. Liquidity depends partly on equity financing, while substantial tax assets may not be realizable and the excerpt omits part of the liquidity discussion."
+}

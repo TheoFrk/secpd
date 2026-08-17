@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks, uncertainties and assumptions",
+    "do not undertake any obligation to update",
+    "not exclusive risk-factor list",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt uses extensive standardized forward-looking disclaimer language and broad risk qualifiers, which reduces specificity regarding future performance. Operating disclosures are otherwise reasonably quantified, with positive earnings and lower charge-offs, although nonperforming assets increased materially and the excerpt is truncated around key net-interest-income data."
+}

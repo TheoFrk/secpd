@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "foreseeable future",
+    "primarily as a result",
+    "reliability of information disclaimer",
+    "significant impairment charges"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed explanations of production, costs, impairments, and guidance, limiting overall vagueness. Risk is moderately negative due to substantial impairment charges, prior-year losses, commodity-price declines, asset claim relinquishments, and reliance on joint-venture data, although improved production and lower unit costs provide offsetting positives."
+}

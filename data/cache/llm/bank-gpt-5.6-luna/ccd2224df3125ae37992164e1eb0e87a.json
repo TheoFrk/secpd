@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "assumptions, judgments and estimates",
+    "could differ materially",
+    "inherently subjective",
+    "other immaterial business acquisitions",
+    "best-estimated selling price (BESP)"
+  ],
+  "risk_summary": "The excerpt provides meaningful acquisition amounts and revenue drivers, but relies heavily on complex accounting frameworks and subjective estimates for revenue allocation, royalties, returns, rebates, and channel inventory. The tone is broadly stable and growth-oriented, though repeated material-misstatement caveats indicate meaningful reporting and forecasting risk."
+}

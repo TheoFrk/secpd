@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors",
+    "strategic acquisitions",
+    "credit agreement amendment and waiver",
+    "remaining outstanding principal balance"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, but includes substantial boilerplate disclaimers and highly complex financing language. Risk signals include declining hardware revenue, product quality issues, restructuring, acquisition-related obligations, and amended debt repayment terms, although the tone remains largely factual rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "no assurance that future developments",
+    "various factors, including but not limited to",
+    "not possible to provide meaningful sensitivity analysis",
+    "ultimate liability may be more or less"
+  ],
+  "risk_summary": "The disclosure is highly risk-focused and includes substantial boilerplate, broad contingencies, and limited quantification of potential adverse outcomes. Reported 2018 losses, large realized investment losses, catastrophe losses, and substantial reserve uncertainty indicate meaningful earnings and capital volatility. Quantified reserve and cash-flow data provide useful specificity, but management emphasizes that adverse development and unexpected losses cannot be reliably estimated."
+}

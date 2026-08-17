@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "factors that could cause future results to vary",
+    "including, but not limited to",
+    "no obligation to update",
+    "other factors discussed elsewhere"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimer language and broadly enumerated risk factors, which limits specificity regarding downside scenarios. However, the operating overview, acquisitions, subordinated debt terms, and interest-rate data are materially quantified, indicating generally adequate disclosure. Risk tone is cautious and regulatory-focused but not crisis-like, with an underlying emphasis on expansion and earnings generation."
+}

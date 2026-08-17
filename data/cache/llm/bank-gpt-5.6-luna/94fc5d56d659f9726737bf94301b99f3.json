@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we plan to continue",
+    "subject to changes in",
+    "no assurance that",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and liquidity outlook, supported by customer counts, usage volumes, cash flow, capital expenditures, and anticipated obligations. Key risks include weather sensitivity, construction and economic conditions, substantial planned capital investment, reliance on financing availability, and potential acquisition funding needs. The excerpt is partially truncated and contains substantial strategic boilerplate, limiting assessment of the full risk picture."
+}

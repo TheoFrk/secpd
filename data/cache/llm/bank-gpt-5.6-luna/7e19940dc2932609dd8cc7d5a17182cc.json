@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "information can be found elsewhere",
+    "no financial detail",
+    "boilerplate cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive liquidity, results, or risk discussion and redirects readers to another document. This limits transparency and requires review of the referenced annual report to assess financial condition."
+}

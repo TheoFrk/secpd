@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "estimate is imprecise and not necessarily reliable",
+    "best information available",
+    "could as much as double",
+    "subject to collective bargaining and capital market conditions",
+    "not a direct obligation or liability"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance with extensive quantified sales, earnings, market-share, and repurchase data, producing a generally confident tone. However, the estimated $3.0 billion pre-tax multi-employer pension underfunding is material, explicitly uncertain, and could lead to substantially higher future contributions or withdrawal liabilities."
+}

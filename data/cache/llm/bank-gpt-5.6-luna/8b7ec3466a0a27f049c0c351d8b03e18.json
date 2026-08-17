@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "may experience supply chain challenges",
+    "not expected to recover",
+    "could be adversely impacted",
+    "depending upon the length and severity"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational detail, including facility utilization, staffing levels, seasonality, backlog, and supplier exposure, but COVID-19 creates substantial uncertainty around school reopenings, demand, labor availability, and supply chains. Management uses repeated conditional language and does not quantify the potential financial impact, limiting downside visibility despite generally measured and operationally confident messaging."
+}

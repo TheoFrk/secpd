@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could materially differ",
+    "subjective assessments",
+    "opportunistic investments",
+    "could be material",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure provides substantial portfolio, transaction, accounting, and impairment detail, but relies heavily on management estimates and forward-looking qualifications regarding valuation, collectability, useful lives, and future strategy. Key risks include potentially material impairment charges, joint venture and real estate valuation uncertainty, tenant credit exposure, leverage reduction execution, and references to SEC and DOJ investigations."
+}

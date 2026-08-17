@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad strategic assertions",
+    "future results may be affected",
+    "two-month reporting lag",
+    "truncated disclosure",
+    "impairment assumption changes"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding store counts, acquisitions, segment structure, and operating results. Risk factors include seasonality, international reporting lags, economic sensitivity, and a $66 million goodwill and tradename impairment tied to reduced revenue-growth expectations. The tone is cautiously constructive but includes substantial boilerplate and strategic optimism."
+}

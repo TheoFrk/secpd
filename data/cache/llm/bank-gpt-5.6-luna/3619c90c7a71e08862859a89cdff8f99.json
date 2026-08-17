@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain",
+    "could be significant",
+    "actual results may differ",
+    "best information available",
+    "reasonable and supportable forecasts"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on PPP lending, payment deferments, credit-loss provisions, and interest-rate exposures. Risk tone is cautious due to COVID-19 uncertainty and potential further credit-loss provisions, but the discussion is generally specific and transparent. Technical accounting terminology and lengthy cross-references materially increase complexity."
+}

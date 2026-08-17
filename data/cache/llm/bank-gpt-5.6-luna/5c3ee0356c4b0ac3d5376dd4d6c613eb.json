@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.48,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary note",
+    "we believe",
+    "expected to continue",
+    "strong financial position",
+    "adjusted non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, with detailed revenue, cost, capacity, and profitability metrics. Risk tone is positive but acknowledges competitive capacity, declining unit revenues, fuel uncertainty, litigation, pension charges, and reliance on adjusted non-GAAP results. Forward-looking expectations and promotional language introduce moderate optimism and execution risk."
+}

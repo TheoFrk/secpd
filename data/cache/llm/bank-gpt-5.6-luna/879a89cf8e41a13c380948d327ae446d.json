@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict the impact",
+    "potentially mitigate",
+    "certain jurisdictions",
+    "challenging environment",
+    "future impact cannot currently be reasonably estimated"
+  ],
+  "risk_summary": "The excerpt presents a broadly confident strategic and operating narrative, supported by several quantified performance measures, but includes extensive boilerplate and repeated monitoring/mitigation language. Material uncertainties relate to regulatory and tax changes, macroeconomic and political instability, commodity prices, foreign exchange, retail disruption, and mixed segment performance."
+}

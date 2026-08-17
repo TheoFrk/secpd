@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt over ability to continue as a going concern",
+    "plans expected to generate sufficient cashflow",
+    "no guarantee these plans will be successful",
+    "other financing sources",
+    "items raise substantial doubt"
+  ],
+  "risk_summary": "The excerpt discloses substantial going-concern risk driven by recurring operating losses, short-term debt maturities, uncertainty regarding bank support, and missed minimum purchase and payment requirements with a key supplier. Management’s proposed mitigation depends on selling property, reducing inventory, securing financing, and rebuilding Brand Partner activity, but these actions are not guaranteed and are presented with limited quantified support."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.27,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "significant uncertainty",
+    "cannot predict",
+    "beyond our control",
+    "could adversely affect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on commodity prices, liquidity, debt, acquisitions, production, and asset retirement obligations, but also contains extensive forward-looking qualifications. Key risks include metal-price volatility, credit-market access, acquisition integration, permitting uncertainty, the Lucky Friday strike, and dependence on future ore availability. Overall tone is cautiously negative on operating and financing risks despite management’s stated strategic confidence."
+}

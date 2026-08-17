@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "lower than anticipated sales",
+    "could be affected in the future",
+    "actual results could differ",
+    "significant management judgments",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting sales, margins, cash flow, debt, repurchases, and expense drivers. Risk tone is mixed but mildly constructive: weaker-than-expected sales and heavier markdowns pressured gross profit, while liquidity, cash generation, and debt maturities appear manageable. The provided text is truncated and contains incomplete or duplicated passages, limiting assessment of the full disclosure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.63,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "may not be available",
+    "no assurance",
+    "material adverse effect",
+    "difficult to forecast"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative detail on revenue, cash generation, liquidity, costs, and deferred revenue, with a generally stable operating profile and no debt. However, it relies heavily on boilerplate risk language regarding macroeconomic conditions, acquisitions, technology, forecasting, customer retention, and financing availability. Liquidity appears adequate for anticipated needs, but the company lacks committed credit facilities and could require capital for strategic initiatives or suffer quickly from revenue shortfalls."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could potentially prolong and intensify",
+    "not aware of any current matter",
+    "primarily due to",
+    "certain other factors",
+    "system-wide sales not included in financial statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on locations, revenue declines, salon sales, lease liabilities, and COVID-19 impacts, but includes repetitive definitions and standard boilerplate. Risk tone is moderately negative due to pandemic-related disruption, a 38% revenue decline, business exits, and restructuring, partially offset by the asset-light transition and quantified mitigation actions."
+}

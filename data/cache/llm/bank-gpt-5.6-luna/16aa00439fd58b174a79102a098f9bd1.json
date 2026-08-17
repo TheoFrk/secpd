@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "duplicated regulatory discussion",
+    "broad forward-looking expectations",
+    "industry-wide decline language",
+    "dense regulatory acronyms",
+    "boilerplate operational claims"
+  ],
+  "risk_summary": "The disclosure is generally quantified and provides specific regulatory support amounts, revenue trends, access-line losses, and capital obligations. Risk is present from declining voice and switched-access revenues, competitive pressure, broadband build-out requirements, and reliance on subsidy programs, but management presents these as offset by broadband growth and operational initiatives. The excerpt contains substantial repetition and dense regulatory terminology that reduce readability."
+}

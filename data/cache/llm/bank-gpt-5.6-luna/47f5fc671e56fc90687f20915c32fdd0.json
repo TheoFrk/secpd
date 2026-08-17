@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "not significant enough to pose substantial risk",
+    "asset quality remained strong",
+    "varies greatly",
+    "not expected to have a material impact",
+    "management intends to accomplish"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes meaningful operating metrics, revenue changes, transaction volumes, and loan-risk methodology. Risk tone is moderately positive, though exposure to interest rates, economic conditions, loan quality, collateral values, and management estimates is acknowledged. Some conclusions rely on broad qualitative assertions and materiality language rather than quantified sensitivity or downside analysis."
+}

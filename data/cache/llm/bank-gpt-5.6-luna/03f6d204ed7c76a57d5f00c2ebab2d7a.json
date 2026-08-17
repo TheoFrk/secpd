@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could be adversely impacted",
+    "depending on ... other factors",
+    "non-GAAP financial measures",
+    "contingent consideration not probable"
+  ],
+  "risk_summary": "The excerpt presents strong growth, earnings, liquidity, and shareholder-return metrics, producing an overall confident tone. Key risks include inflation, supply-chain disruption, COVID-19 effects, acquisition funding, inventory buildup, and reliance on conditional language around future dividends and repurchases. Disclosure is generally specific and quantified, though standard forward-looking disclaimers and non-GAAP measures introduce some interpretive complexity."
+}

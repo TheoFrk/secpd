@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may materially differ",
+    "we believe",
+    "more likely than not",
+    "actual outcomes could differ materially",
+    "various other assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, providing detailed operating metrics, segment information, inventory balances, and earnings impacts. Risk is moderate rather than crisis-like, with notable sensitivity to vehicle oversupply, margin compression, credit conditions, impairment assumptions, and uncertain tax outcomes. Some standard forward-looking and estimation language limits precision regarding future performance."
+}

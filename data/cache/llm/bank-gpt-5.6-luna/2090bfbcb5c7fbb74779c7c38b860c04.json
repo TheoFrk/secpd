@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "substantially unchanged",
+    "expected to be delivered",
+    "certain contracts contain partial order cancellation provisions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, but contains substantial recurring MD&A boilerplate and frequent attribution to broad factors such as lower volumes, product mix, and market conditions. Risk tone is moderately negative, reflecting significant revenue and operating profit declines, weak demand, industry oversupply, reduced backlog, and workforce reductions."
+}

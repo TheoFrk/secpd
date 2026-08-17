@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "forward-looking statements and uncertainties",
+    "management judgment in estimates",
+    "broad exclusion of recurring items",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantified, including acquisition terms, earnings changes, credit-loss provisions, and litigation accruals. Risk tone is mildly negative due to declining profitability, higher credit-loss provisions, litigation expense, and reliance on subjective valuation and accounting estimates. Extensive non-GAAP adjustments and dense boilerplate reduce transparency regarding underlying performance."
+}

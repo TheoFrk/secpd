@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking commodity price assumptions",
+    "non-GAAP adjusted metrics",
+    "noncontrolling interest presentation",
+    "repeated section headers",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with strong operating cash flow, liquidity, debt reduction, and reserve replacement disclosed. However, results remain highly exposed to volatile oil and gas prices, commodity hedging effects, and impairment risk; reported continuing-operations income was only $48.8 million after substantial impairment charges. Some discussion relies on favorable supply-demand assumptions and extensive non-GAAP and NCI adjustments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP core income exclusions",
+    "reliance on subsidiary distributions",
+    "boilerplate legal and covenant caveats",
+    "complex insurance reserve terminology",
+    "discussion truncated mid-sentence"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent about segment drivers, including a $151 million premium deficiency charge and subsidiary dividend constraints. Risk is moderated by dependence on subsidiary cash flows, insurance reserve development, investment results, and volatile drilling and pipeline markets. Dense definitions and non-GAAP presentation may make underlying performance harder to assess, despite an overall constructive tone."
+}

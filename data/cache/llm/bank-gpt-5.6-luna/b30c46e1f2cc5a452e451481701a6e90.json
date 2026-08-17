@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management judgment",
+    "best estimate of future market and operating conditions",
+    "unobservable inputs",
+    "other-than-temporary decline",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes substantial portfolio, transaction, and capital expenditure quantification, but relies on standard judgment-based and forward-looking valuation language. Key risks relate to impairment testing, fair-value assumptions, capitalization decisions, and unconsolidated joint ventures, with an overall neutral-to-mildly positive tone."
+}

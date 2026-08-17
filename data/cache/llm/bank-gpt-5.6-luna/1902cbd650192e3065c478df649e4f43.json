@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "subjective estimates and assumptions",
+    "material change caveat",
+    "mission and vision language"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding fiscal 2017 operating performance, with positive growth and margin trends. Risk disclosure is largely standardized, while critical accounting estimates and potential material impacts are acknowledged without extensive sensitivity quantification."
+}

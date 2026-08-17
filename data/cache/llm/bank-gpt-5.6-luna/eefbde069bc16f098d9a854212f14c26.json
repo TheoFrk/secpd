@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "does not undertake any obligation",
+    "could cause actual results to differ",
+    "related-party common ownership",
+    "truncated projected activity disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed year-over-year cash flow, investment, and operating metrics. Risk concerns include declining oil and gas sales, reduced operating cash flow, substantial investing outflows, reliance on internally generated liquidity, and related-party governance exposures. The forward-looking disclaimer is boilerplate, and the truncated outlook limits assessment of projected funding capacity."
+}

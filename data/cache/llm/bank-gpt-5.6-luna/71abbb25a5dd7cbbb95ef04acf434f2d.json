@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "management’s assumptions",
+    "significant capital investment",
+    "strong reputation",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is detailed and includes acquisition prices and segment descriptions, but contains substantial promotional language and standard forward-looking and accounting-estimate caveats. Risk tone is moderately positive, while exposure to market conditions, demand estimates, impairment judgments, and regulatory requirements is acknowledged without extensive quantification."
+}

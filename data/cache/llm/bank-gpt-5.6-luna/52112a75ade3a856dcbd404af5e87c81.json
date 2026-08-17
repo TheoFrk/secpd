@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.88,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "substantial doubt as to ability to continue as a going concern",
+    "cannot make any assurances",
+    "subject to significant risks and uncertainties",
+    "dependent upon future capital offerings",
+    "forward-looking statements and assumptions"
+  ],
+  "risk_summary": "The Company has no operating revenue, minimal cash, recurring losses, liabilities substantially exceeding assets, and explicitly acknowledges substantial doubt about its ability to continue as a going concern. Operations depend on additional financing from private placements, related parties, and restricted stock issuance, with no assurance that funding will be secured."
+}

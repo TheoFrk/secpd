@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "selective risk selection",
+    "carefully manage concentrations",
+    "we believe",
+    "generally",
+    "other-than-temporary impairment criteria"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, historically strong underwriting profile supported by a 20-year 87.3 combined ratio and diversified operations. It identifies meaningful exposure to catastrophe losses, reserve development, inflation, competitive pricing, economic deterioration, and investment impairment, but provides limited current-period quantitative sensitivity or loss estimates. Disclosure is detailed but lengthy and somewhat boilerplate-heavy, with reliance on broad risk-management assertions."
+}

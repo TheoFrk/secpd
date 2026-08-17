@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.9,
+  "risk_sentiment": -0.55,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties beyond our control",
+    "within the expected time frame, on the expected terms or at all",
+    "expressly disclaims any obligation to update",
+    "other additional risks and factors"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a long, repetitive enumeration of contingencies, which limits interpretability of future prospects. Underlying risk tone is materially negative, citing high leverage, contract and backlog uncertainty, cybersecurity, legal and geopolitical exposures, while the financial table shows a sharp decline in operating income and a substantial impairment charge."
+}

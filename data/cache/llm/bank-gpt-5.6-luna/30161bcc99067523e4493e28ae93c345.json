@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "favorably impacted",
+    "unfavorably impacted",
+    "as well as others",
+    "will be explained more thoroughly"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides detailed year-over-year drivers, reducing concerns about evasiveness. Risk tone is mildly negative because net income, net interest income, net interest margin, and non-interest income declined, while deposit and borrowing costs increased, although asset quality metrics improved materially."
+}

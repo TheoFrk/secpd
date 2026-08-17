@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future legislation",
+    "may have a material adverse effect",
+    "no assurance of successful execution",
+    "among other things",
+    "unsettled nature of initiatives"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear membership, revenue, expense, and ratio metrics. It highlights material exposure to health-care reform, Medicare rate reductions, network-transition requirements, medical-cost inflation, and adverse utilization trends, while using standard forward-looking disclaimers. Overall tone is cautiously constructive because of reported growth and planned cost reductions, but execution and regulatory risks remain significant."
+}

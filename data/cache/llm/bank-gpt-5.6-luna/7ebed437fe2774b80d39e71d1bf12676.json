@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "highly dependent on the external environment",
+    "if those assumptions prove to be inaccurate",
+    "patterns can be used to make projections",
+    "unless ... identifies reasons or factors",
+    "random as well as systematic influences"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified historical performance and explicit targets, supporting a generally confident tone. However, future value creation depends on external pricing, economic, market-valuation and actuarial assumptions, with substantial insurance-reserve estimation uncertainty. The truncated ending limits assessment of the full risk disclosure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "confident in our outlook",
+    "underlying market growth",
+    "long-term, sustainable growth",
+    "non-GAAP measures",
+    "geopolitical environment remains uncertain"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting revenue, margins, restructuring costs, debt covenant thresholds, and substantial covenant headroom. Risk tone is cautiously optimistic, acknowledging trade tensions, geopolitical uncertainty, foreign-exchange exposure, and dependence on industrial activity while emphasizing diversification and execution. Extensive segment descriptions and non-GAAP adjustments add complexity and may obscure comparability, but do not appear materially evasive."
+}

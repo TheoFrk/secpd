@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "excluding acquisitions and restructuring items",
+    "future cash flows will provide sufficient resources",
+    "estimated payments assume unchanged debt and rates",
+    "weaker than expected revenue performance"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent, but highlights declining organic sales, a significant intangible-asset impairment, higher acquisition-related debt, and a material pension funding deficit. Management expresses liquidity confidence based on assumed operating cash flows, lender availability, and stable debt and interest-rate conditions."
+}

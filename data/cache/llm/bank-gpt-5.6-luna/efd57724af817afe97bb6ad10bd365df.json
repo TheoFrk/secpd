@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.55,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "sufficient to finance operations",
+    "expected to begin in the near future",
+    "dependent on ability to increase revenues"
+  ],
+  "risk_summary": "The company reports a sharply increased net loss, substantial operating cash burn, a working-capital deficit, and reliance on a late-2017 equity financing. Liquidity appears constrained, with continued operations dependent on collecting receivables, increasing revenues, and obtaining additional capital on acceptable terms. Prospective project activity is uncertain and lacks a defined implementation date or selection assurance."
+}

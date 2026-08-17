@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "future events or results may differ",
+    "significant estimates and assumptions",
+    "management best estimates",
+    "other factors may cause actual results to differ"
+  ],
+  "risk_summary": "The excerpt contains substantial standard safe-h harbor and forward-looking disclaimer language that limits specificity about future outcomes. It identifies meaningful estimation risk in revenue incentives, goodwill valuation, pension assumptions, inventory, and receivables, although it provides some quantified inputs and reports no goodwill impairment. Revenue declined 4.4%, while the overall tone is cautious but not crisis-like."
+}

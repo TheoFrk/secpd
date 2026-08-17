@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to predict",
+    "may affect ... in unforeseen ways",
+    "various means to raise cash",
+    "distributions may be restricted",
+    "decentralized basis"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including bankruptcy charges, debt refinancing, investment values, cash, and total debt. Risk tone is moderately negative due to Auto Plus bankruptcy, significant leverage, dependence on subsidiary distributions, investment volatility, and geopolitical exposure. Some uncertainty is presented through broad forward-looking language and limited detail on the truncated liquidity discussion."
+}

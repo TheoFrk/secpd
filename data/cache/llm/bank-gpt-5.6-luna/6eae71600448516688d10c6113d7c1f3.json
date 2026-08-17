@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "other pertinent factors",
+    "qualitative risk factors",
+    "more-likely-than-not",
+    "could lead to increases"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative credit metrics, but relies substantially on management judgment, qualitative adjustments, and valuation assumptions. It acknowledges potential allowance increases and regulatory overrides while asserting that reserves and goodwill valuations remain adequate."
+}

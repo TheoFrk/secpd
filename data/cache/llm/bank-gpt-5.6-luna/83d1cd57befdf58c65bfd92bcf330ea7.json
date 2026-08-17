@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP supplemental measures",
+    "smaller reporting company scaled disclosures",
+    "inherently subject to uncertainty",
+    "management judgments and estimates",
+    "unable to state with certainty"
+  ],
+  "risk_summary": "The excerpt is highly technical and includes substantial boilerplate around non-GAAP measures, accounting judgments, and regulatory disclosure limitations. It provides useful quantified balance-sheet and tax data, but loan-loss allowances, securities impairment, and mortgage servicing rights depend materially on subjective assumptions and future conditions. Overall tone is neutral to mildly positive, with no explicit crisis indicators in the provided section."
+}

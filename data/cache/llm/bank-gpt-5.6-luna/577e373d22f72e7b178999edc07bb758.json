@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.83,
+  "redundancy_score": 0.88,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no list ... could be complete",
+    "may differ materially",
+    "ability to",
+    "other assumptions, risks, or uncertainties"
+  ],
+  "risk_summary": "The excerpt is predominantly standardized forward-looking-statement boilerplate and an extensive, non-quantified catalog of potential risks. It identifies meaningful exposures across funding, credit, regulatory, operational, cyber, market, and strategic areas but provides little company-specific likelihood, magnitude, timing, or mitigation detail. The subsequent Ally Invest description is promotional and does not materially balance or quantify the stated risks."
+}

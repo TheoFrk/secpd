@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "actual results may differ materially",
+    "significant unobservable inputs",
+    "critical estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and broad risk qualifications, creating a moderately evasive tone. It also presents substantial acquisition-accounting and valuation complexity, although several amounts and assumptions are quantified. Warranty accruals and contingent consideration remain sensitive to uncertain future claims, costs, projections, and market inputs."
+}

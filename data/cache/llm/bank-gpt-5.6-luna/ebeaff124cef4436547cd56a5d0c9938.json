@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "significant risks and uncertainties",
+    "future additions may be necessary",
+    "wide variety of factors and inputs",
+    "hypothetical impact on reserve requirements"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and accounting-estimate disclaimers, with uncertainty concentrated around credit losses, commercial real estate exposure, collateral values, and economic conditions. It provides some useful quantitative information, but several reserve-risk statements remain conditional and difficult to validate, while the overall tone is cautious rather than crisis-like."
+}

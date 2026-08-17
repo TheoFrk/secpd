@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results may differ materially",
+    "potential awards being pushed out",
+    "funding is probable",
+    "termination for convenience"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth-oriented narrative supported by quantified revenue, awards, backlog, and book-to-bill metrics. However, realization of backlog and future revenue depends on appropriations, contract renewals, option exercises, rebidding, and timing of government awards, with substantial standard forward-looking disclaimers and some reliance on probabilistic definitions."
+}

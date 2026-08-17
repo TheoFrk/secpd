@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "should not be relied upon in isolation",
+    "potential to increase resource",
+    "responsibility for project data",
+    "operational challenges"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, but uses substantial technical and non-GAAP terminology that increases interpretive complexity. Risk tone is moderately negative due to the larger net loss, lower production and revenue, mine flooding, fire, development delays, and restricted access to high-grade stopes, although management presents mitigating factors and ongoing exploration."
+}

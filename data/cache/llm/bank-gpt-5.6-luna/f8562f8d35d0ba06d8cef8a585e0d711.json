@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "cannot guarantee future results",
+    "do not place undue reliance",
+    "broad non-quantified risk list"
+  ],
+  "risk_summary": "The excerpt is dominated by repetitive forward-looking-statement disclaimers and an extensive, largely non-quantified list of potential risks. It identifies meaningful exposures including demand volatility, supply disruptions, cybersecurity, litigation, tax disputes, financing needs, and geopolitical uncertainty, while providing limited probability or sensitivity analysis. The later MD&A figures are more concrete and indicate lower amortization and restructuring charges, but the overall disclosure tone is cautious and legally defensive."
+}

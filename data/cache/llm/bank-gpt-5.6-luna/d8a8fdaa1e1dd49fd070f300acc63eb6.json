@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.05,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "management’s estimate",
+    "could cause actual loan losses to differ materially",
+    "a number of assumptions",
+    "more likely than not",
+    "significant volatility in the equity markets"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative loan and loss-share information, but relies heavily on management judgments regarding loan-loss allowances, OTTI, cash flows, impairment, and economic conditions. Credit risk is material given the large loan portfolio, acquired impaired loans, commercial real estate exposure, and dependence on FDIC loss-share protections, although the tone is largely neutral and procedural rather than crisis-like."
+}

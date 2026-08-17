@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment",
+    "could differ from those estimates",
+    "subject to many variables",
+    "probable that a significant reversal will not occur",
+    "best estimate of standalone selling price"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes substantial quantitative information, but relies heavily on estimates, judgments, and complex contract-accounting assumptions. Contract profitability and reported revenue may be sensitive to cost-to-completion estimates, contract modifications, variable consideration, and indirect-rate adjustments. The overall tone is mildly positive due to revenue and gross-profit growth, tempered by estimation and execution risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "leading provider and leader claims",
+    "significant value",
+    "largely diminished",
+    "potential future milestone payments",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt is strongly promotional and relies on broad, largely unquantified claims about market position, customer stickiness, product benefits, and reduced warranty or return risk. Accounting policies and non-GAAP reconciliations provide meaningful specificity, but acquisition-related adjustments and the exclusion of certain costs may present an overly favorable view of operating performance."
+}

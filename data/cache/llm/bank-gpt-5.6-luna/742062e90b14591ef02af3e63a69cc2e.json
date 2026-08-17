@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "uncertainties in timing and amounts",
+    "still assessing impact",
+    "strategic tests to determine optimal approach",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and quantified, highlighting record earnings, sales growth, store expansion, margins, and identified cost pressures. Key risks include fuel-price volatility, wage inflation, supply-chain costs, uncertain tax-position settlement timing, and execution risk from ongoing inventory and delivery initiatives. Overall tone is confident but appropriately acknowledges macroeconomic and operational uncertainties."
+}

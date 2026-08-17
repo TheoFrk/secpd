@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "depends significantly on",
+    "we expect to continue to incur substantial expenses",
+    "cannot predict whether or when",
+    "estimates and judgments",
+    "potentially resulting in material changes"
+  ],
+  "risk_summary": "The disclosure is relatively specific and includes meaningful quantitative amounts, but it highlights substantial dependence on EYLEA, Dupixent, regulatory approvals, collaborators, and uncertain R&D outcomes. Extensive accounting-estimate language and forward-looking qualifiers indicate material earnings, liquidity, commercialization, and revenue-recognition uncertainty. Overall tone is cautiously confident rather than crisis-like."
+}

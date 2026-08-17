@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "ultimate liability may differ",
+    "no assurance",
+    "inherently uncertain process",
+    "variety of statistical techniques",
+    "difficult to predict"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative and operational detail, including a $2.9 million pretax sensitivity for each 1% change in loss reserves. However, extensive caveats emphasize uncertainty in claims development, legal and medical trends, reinsurance collectability, and insurance-market cyclicality, with potential for reserves and profitability to deteriorate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.15,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "percentage change not meaningful",
+    "best estimates",
+    "significant growth",
+    "mid-single digit",
+    "evaluating the impacts"
+  ],
+  "risk_summary": "The disclosure is comparatively precise and well quantified, with detailed revenue, margin, expense, tax, and restructuring drivers. Risk is mixed: fiscal 2018 showed revenue contraction and substantial restructuring, impairment, environmental, and transformation costs, although margins, expenses, and effective tax rates improved materially. Some qualitative phrasing and accounting-estimate language limits precision around outlook and variable consideration."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "not meaningful (NM)",
+    "recovery remains uncertain",
+    "government grant recognition",
+    "expected demand recovery"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail, but reported profitability and cash flow are materially supported by government grants and adjusted metrics. Key risks include pandemic-related demand uncertainty, international travel restrictions, inflation, labor shortages, elevated debt, and rising unit costs. Management conveys cautious optimism about recovery while acknowledging significant execution and macroeconomic risks."
+}

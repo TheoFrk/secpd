@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot be predicted with certainty",
+    "including but not limited to",
+    "amongst other factors",
+    "recoveries considered probable",
+    "adjusted non-GAAP results"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenues, operating ratios, incident costs, and volumes, but relies on non-GAAP adjustments and repeated explanatory language that can reduce comparability. The Eastern Ohio Incident, environmental remediation, litigation, regulatory uncertainty, insurance recoveries, and actuarial assumptions represent material ongoing risks. Overall tone is cautiously positive on operational improvement while acknowledging potentially significant contingent liabilities."
+}

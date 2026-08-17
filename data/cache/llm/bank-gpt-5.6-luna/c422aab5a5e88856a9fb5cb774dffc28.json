@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "little risk of impairment",
+    "reasonable expectations and assumptions",
+    "may occur",
+    "other relevant qualitative factors"
+  ],
+  "risk_summary": "The disclosure identifies significant judgment areas, including inventory valuation, acquisition accounting, goodwill impairment, self-insurance, stock compensation, and taxes, with meaningful exposure to macroeconomic and estimation risk. It provides some quantitative debt and liquidity information but offers limited sensitivity analysis or quantified downside scenarios, while management characterizes impairment risk as low."
+}

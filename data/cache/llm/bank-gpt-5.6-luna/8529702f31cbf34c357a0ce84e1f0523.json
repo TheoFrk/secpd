@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to quantify possible effect",
+    "cannot be certain",
+    "forward-looking statements",
+    "subject to tariffs and quotas",
+    "highly concentrated among three customers"
+  ],
+  "risk_summary": "The disclosure is materially quantified but highlights significant deterioration, including a 40% revenue decline, recurring net losses, substantial cash reduction, customer concentration, and tariff exposure. Management describes mitigation plans but acknowledges that tariff impacts and customer or competitor responses cannot be reliably quantified."
+}

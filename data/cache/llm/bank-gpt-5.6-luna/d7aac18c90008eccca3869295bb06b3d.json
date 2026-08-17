@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly uncertain",
+    "various other assumptions",
+    "numerous factors",
+    "for the foreseeable future",
+    "contingent future payments"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures, including revenue sensitivity, credit capacity, covenant compliance, and product concentration, but also relies on standard forward-looking and estimation language. Key risks include dependence on JAKAFI, uncertain drug development, pricing and reimbursement pressures, intellectual-property expirations, and potentially significant contingent licensing or acquisition payments."
+}

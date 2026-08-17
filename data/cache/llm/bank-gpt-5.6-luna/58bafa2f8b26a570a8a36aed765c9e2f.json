@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to significant fluctuations",
+    "unable to predict customer defaults",
+    "reasonably possible estimates may change",
+    "sufficient through at least the next 12 months"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but includes standard forward-looking disclaimers and uncertainty around investment values, estimates, receivables, inventory, and tax assets. Operating income, net income, and operating cash flow declined materially despite modest sales growth, while liquidity is supported partly by investment sales and marketable securities."
+}

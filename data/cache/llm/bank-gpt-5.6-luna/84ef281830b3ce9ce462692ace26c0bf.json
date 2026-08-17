@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "future results may or may not be achieved",
+    "subjective and complex judgments",
+    "potential additional impairment charges",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically dense and contains substantial boilerplate discussion of non-GAAP measures and accounting policies. Credit risks include high debt costs, pension withdrawal liabilities, impairment sensitivity to forecasts and discount rates, and possible future asset write-downs, although several exposures are quantified. The tone is cautiously negative on operating and valuation uncertainties rather than crisis-like."
+}

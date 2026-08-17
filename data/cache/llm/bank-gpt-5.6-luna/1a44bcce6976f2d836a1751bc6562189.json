@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and adjustments",
+    "certain transactions",
+    "as necessary",
+    "management believes",
+    "actual results could materially differ"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and provides transparent definitions and reconciliations for numerous non-GAAP measures, but its extensive technical terminology and repeated boilerplate reduce accessibility. Key risks include acquisition accounting, goodwill and intangible-asset impairment, ACL estimation uncertainty, and rising funding costs, although the overall tone is neutral to mildly confident."
+}

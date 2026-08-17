@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.75,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "management estimates and judgment",
+    "ultimate outcome is unknown",
+    "materially different results",
+    "believed adequate by management",
+    "judgment errors may occur"
+  ],
+  "risk_summary": "The disclosure emphasizes substantial judgment and uncertainty in determining the allowance for loan losses, with potentially material changes from evolving economic and borrower conditions. It provides methodology descriptions but no quantitative sensitivity analysis, loss assumptions, or allowance metrics in the excerpt."
+}

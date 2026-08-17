@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not comparable financial statements",
+    "prolonged industry downturn",
+    "fresh-start accounting",
+    "material receivable concentration"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, but reflects significant credit risk from a prolonged offshore industry downturn, vessel oversupply, prior Chapter 11 bankruptcy, substantial impairments, and $439.0 million of post-restructuring debt. Comparability is complicated by fresh-start accounting and Successor/Predecessor reporting periods, while the Sonatide receivable indicates meaningful counterparty and geographic concentration."
+}

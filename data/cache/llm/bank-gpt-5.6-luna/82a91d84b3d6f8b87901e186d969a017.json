@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to estimate with certainty",
+    "expect ... to increase",
+    "if approved",
+    "substantial resources",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The excerpt combines detailed product and commitment disclosures with substantial boilerplate and forward-looking language. Key risks include uncertain clinical and regulatory outcomes, expected increases in operating expenses, and $55.5 million of capital expenditure and purchase obligations funded by current resources, alongside convertible debt that may be prepaid at holders’ option."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant investments",
+    "expect ... to continue",
+    "placing it in a better position",
+    "prudent costs passed through",
+    "unacceptable risk profile"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, growth-oriented tone with extensive quantified earnings, margin, and capital expenditure information. Some risk-relevant discussion is softened through aspirational language and limited detail on execution, regulatory, weather, acquisition-integration, and wholesale-volume risks, while several referenced tables and sections are omitted or truncated."
+}

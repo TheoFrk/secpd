@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to availability of sufficient funding",
+    "we believe",
+    "potential to ameliorate",
+    "no assurances",
+    "subject to update based on FDA discussion"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative clinical and financial detail, but relies heavily on preliminary plans, third-party data, and aspirational efficacy claims. Key risks include dependence on external funding, lack of combination studies with GLP-1 therapies, regulatory uncertainty, a customer bankruptcy-related credit loss, and impairment of development assets."
+}

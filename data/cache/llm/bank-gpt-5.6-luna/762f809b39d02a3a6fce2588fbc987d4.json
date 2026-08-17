@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "various factors",
+    "not necessarily indicative of future results",
+    "ultimate realization could be negatively impacted"
+  ],
+  "risk_summary": "The excerpt reports strong year-over-year growth, improved operating cash flow, and substantial liquidity, producing a generally positive but cyclical risk tone. It also emphasizes significant demand volatility, forecasting uncertainty, customer and geographic concentration, and reliance on subjective tax and valuation assumptions. Extensive cautionary and cross-referential language is partly boilerplate and limits forward-looking certainty."
+}

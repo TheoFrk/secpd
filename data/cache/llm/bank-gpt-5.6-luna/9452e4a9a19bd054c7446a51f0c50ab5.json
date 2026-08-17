@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "various factors including, but not limited to",
+    "we believe",
+    "likely to continue",
+    "could make significant changes",
+    "uncertain global economic outlook"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including losses, book-value declines, leverage, hedging exposures, and required FHLB advance repayments. Risk tone is cautious and reflects material sensitivity to interest-rate volatility, credit-spread widening, liquidity constraints, and reduced capital availability, although management presents mitigation actions and potential stabilization scenarios."
+}

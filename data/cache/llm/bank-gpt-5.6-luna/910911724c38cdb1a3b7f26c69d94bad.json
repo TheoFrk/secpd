@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.2,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "long-term impact currently unknown",
+    "we do not anticipate a material impact",
+    "may affect various business units differently",
+    "could be negatively affected",
+    "cannot determine whether proposals will be enacted"
+  ],
+  "risk_summary": "The disclosure identifies pandemic, supply-chain, labor, government funding, foreign-market, and legislative risks, while generally framing them as manageable or non-material. Quantification is uneven, with several contingent risks described using broad conditional language and limited sensitivity analysis. The overall tone is cautiously optimistic, supported by improving demand, liquidity access, and reported free cash flow."
+}

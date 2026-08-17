@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "significant risks and uncertainties",
+    "no obligation to update",
+    "no assurance of clinical success",
+    "alternative future use judgment"
+  ],
+  "risk_summary": "The excerpt presents a development-stage biotechnology company with substantial dependence on grants, licensing milestones, and successful clinical or commercialization outcomes. It reports a 75% increase in annual net loss and declining licensing revenue, although near-term cash needs and expected grant reimbursements are quantified. The extensive legal and accounting boilerplate, combined with technical judgment language and a truncated disclosure, limits clarity regarding liquidity and execution risk."
+}

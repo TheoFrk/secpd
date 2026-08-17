@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "currently expect continued growth",
+    "long-term fundamentals remain attractive",
+    "dependent upon macroeconomic environment",
+    "broad-based annual incentive compensation"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and operational-improvement narrative, supported by detailed bookings, sales, margin, cost, and segment data. Risk discussion is present but relies partly on broad macroeconomic dependencies and forward-looking beliefs rather than quantified downside scenarios. The dense corporate-program and industry-outlook language increases interpretive complexity but does not appear overtly evasive."
+}

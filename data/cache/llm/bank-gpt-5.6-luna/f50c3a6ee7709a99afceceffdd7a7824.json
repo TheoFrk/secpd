@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "estimated financial impact",
+    "partially offset by",
+    "significant portion",
+    "future commitment"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including disruption costs, penalties, cancellations, and labor-related charges. Risk tone is mildly negative because of the severe operational disruption, DOT settlement, elevated costs, and fourth-quarter GAAP loss, although management emphasizes recovery actions and operational improvements."
+}

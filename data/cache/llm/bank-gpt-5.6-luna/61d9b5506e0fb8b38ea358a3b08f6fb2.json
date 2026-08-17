@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.45,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "estimated unfavorable impacts",
+    "could adversely affect",
+    "a number of factors",
+    "subject to additional commitments",
+    "rounded numbers for disclosure purposes"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, cash flow, liquidity, segment performance, debt covenants, and contractual obligations. Risk tone is cautiously positive, supported by strong cash generation, liquidity, diversified operations, and substantial covenant headroom, while acknowledging pricing pressure, constrained healthcare utilization, foreign exchange exposure, competition, and research-spending uncertainty. Some impacts are described as estimated and several forward-looking risks remain broad rather than quantified."
+}

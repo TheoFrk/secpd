@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.78,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "limited crude salt for sale",
+    "not allowed to resume production",
+    "expected to resume operations until early 2020",
+    "material adverse effect",
+    "estimated future demand"
+  ],
+  "risk_summary": "The disclosure is highly negative, with government-mandated shutdowns, permanent factory closures, zero bromine revenue, and approximately 99% declines in several product lines. It provides substantial quantitative detail, but repeatedly attributes deterioration to closures and includes uncertainty around regulatory compliance, factory reopening, asset lives, and future inventory demand."
+}

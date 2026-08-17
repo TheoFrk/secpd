@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurances ... available on acceptable terms, or at all",
+    "may need to raise additional capital",
+    "substantial doubt regarding ... continue as a going concern",
+    "if possible and available",
+    "strategic alliances"
+  ],
+  "risk_summary": "The disclosure is generally well quantified and explains revenue, expense, liquidity, and debt changes, but it contains clear financial distress indicators, including a large accumulated deficit, recurring historical losses, negative prior operating cash flows, and substantial doubt about going-concern viability. Management relies on potential capital raises, licensing revenue, or strategic alliances without assurance that financing will be available on acceptable terms."
+}

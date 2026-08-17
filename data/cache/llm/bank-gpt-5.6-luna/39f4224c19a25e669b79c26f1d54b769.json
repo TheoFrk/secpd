@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "varies greatly",
+    "other factors will also influence",
+    "expected to continue",
+    "could change significantly",
+    "wide variety of factors and inputs"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and presents strong earnings, capital, liquidity, and credit-quality metrics, producing an overall confident tone. Key risks relate to interest-rate sensitivity, volatile customer and payment-processing balances, economic conditions, and substantial judgment in the allowance for credit losses. Boilerplate framing and broad qualitative factors moderately limit specificity regarding downside scenarios."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot reliably predict or estimate",
+    "without unreasonable effort",
+    "no assurances that current estimates are correct",
+    "subject to COVID-19 and Omicron impacts",
+    "non-GAAP reconciliation unavailable"
+  ],
+  "risk_summary": "The excerpt is materially quantified and transparent about pandemic-related demand, staffing, cost, fuel, capacity, and aircraft-delivery risks, but relies on forecasts with substantial uncertainty. Risk tone is moderately negative due to expected near-term losses, revenue softness, cancellations, and elevated unit costs, partly offset by improving leisure demand and management optimism."
+}

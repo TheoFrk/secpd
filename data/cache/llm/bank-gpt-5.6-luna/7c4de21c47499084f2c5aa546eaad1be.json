@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "material adverse effect",
+    "may experience decreases",
+    "subject to counterparty risk",
+    "currently available information"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, with clear segment-level revenue, gross profit, expense, debt, and liquidity data. Risk factors include fuel-price volatility, customer credit exposure, hedging and counterparty risk, acquisition-related costs, and potential covenant or financing stress, although management states that liquidity and covenant compliance remain adequate."
+}

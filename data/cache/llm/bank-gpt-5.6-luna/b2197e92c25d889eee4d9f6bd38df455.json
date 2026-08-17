@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "material effect",
+    "primarily due to",
+    "not a useful measure",
+    "anticipated future cash flows",
+    "require judgments and estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, clearly identifying declines in sales, operating income, and net income, along with European and Asian market weakness, pricing pressure, and foreign-exchange exposure. Risk discussion is balanced but includes standard qualifiers around forecasts, backlog usefulness, asset recoverability, software capitalization, and management estimates. Overall tone is mildly negative due to deteriorating results, but not crisis-like."
+}

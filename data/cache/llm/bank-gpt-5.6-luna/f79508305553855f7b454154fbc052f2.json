@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance",
+    "management’s estimate and judgment",
+    "could require additional provisions",
+    "undertakes no obligation to revise"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and safe-harbor language, with broad unquantified risk factors related to credit quality, allowance adequacy, acquisition integration, interest rates, and collateral values. It also provides some concrete operating and capital information, including loan growth drivers and capital ratios above well-capitalized thresholds, producing a generally stable but cautiously qualified risk tone."
+}

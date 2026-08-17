@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "risks are not exhaustive",
+    "not possible for management to predict all such risk factors",
+    "disclaim any obligation to update",
+    "should not place undue reliance",
+    "excluded items are unpredictable"
+  ],
+  "risk_summary": "The excerpt is largely standardized MD&A framing and forward-looking safe-harbor language, with broad non-quantified risk disclaimers and extensive cross-references. It identifies meaningful exposure to interest rates, equity markets, regulation, demographics, and actuarial assumptions, but does not indicate an immediate crisis. The technical terminology and long, nested explanations reduce accessibility despite some quantified economic assumptions."
+}

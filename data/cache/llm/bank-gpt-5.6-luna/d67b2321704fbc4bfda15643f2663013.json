@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "management’s assessment",
+    "reasonably assured",
+    "future uncertainties",
+    "subject to tenant credit risk"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including occupancy, receivables, allowances, and sensitivity to a 1% change in rental-income collectability. Key risks arise from tenant credit quality, lease terminations, bankruptcies, redevelopment assumptions, and management estimates that could materially affect income and asset values. Overall tone is cautiously positive, supported by higher revenue, operating income, occupancy, and a long dividend-growth history."
+}

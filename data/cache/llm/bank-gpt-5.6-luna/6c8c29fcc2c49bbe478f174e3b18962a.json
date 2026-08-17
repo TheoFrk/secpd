@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP comparability disclaimer",
+    "impact primarily on reported earnings",
+    "uncertainty remains",
+    "partially offset",
+    "recovery was not uniform"
+  ],
+  "risk_summary": "The disclosure is relatively precise, with extensive quantified revenue, margin, currency, and regional performance data. Risk tone is cautiously positive, reflecting recovery and growth while acknowledging uneven markets, pandemic uncertainty, supply-chain issues, labor shortages, and slowing momentum. Repeated explanations of constant-currency measures and extensive qualifications add boilerplate complexity but do not appear materially evasive."
+}

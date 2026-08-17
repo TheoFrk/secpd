@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "dependent upon generating profitable operations",
+    "expected to provide additional liquidity",
+    "significant estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, liquidity, cash-flow, and debt information, but includes standard forward-looking disclaimers and relies on expected future growth and profitability to support liquidity. Positive earnings, improved working capital, reduced debt, and a stronger current ratio are offset by an accumulated deficit, reduced operating cash flow, and dependence on continued operating revenues or financing."
+}

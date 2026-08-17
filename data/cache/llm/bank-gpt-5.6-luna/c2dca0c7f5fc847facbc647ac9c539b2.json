@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to BPU approval",
+    "could cause actual results to differ materially",
+    "estimates and assumptions",
+    "probable recovery",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantified information, but relies heavily on standard forward-looking disclaimers and judgment-based accounting language. Key risks include regulatory approval of cost recovery, derivative valuation sensitivity, tax estimates, and potential changes in regulatory positions. Overall tone is neutral to mildly confident, supported by projected customer growth and recovery mechanisms."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "omitted pursuant to instruction",
+    "no substantive analysis",
+    "cross-reference to annual reports"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial-condition or operating-risk discussion, relying almost entirely on incorporation by reference and an omission provision. This limits transparency and prevents assessment of current liquidity, performance, or emerging risks from the excerpt alone."
+}

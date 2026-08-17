@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "significant estimates and judgments",
+    "more likely than not",
+    "could materially change",
+    "truncated impairment discussion"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy boilerplate, with meaningful quantified disclosure of state NOLs and valuation allowances. Risk is concentrated in tax recoverability, deferred tax estimates, and potential asset impairment, while the incomplete text limits assessment of operating performance and liquidity."
+}

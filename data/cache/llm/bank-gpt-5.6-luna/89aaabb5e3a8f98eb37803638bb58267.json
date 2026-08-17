@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "limited visibility into customer requirements",
+    "large and unpredictable variations in demand",
+    "could be materially adversely affected",
+    "management is optimistic",
+    "cannot predict with any degree of certainty"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but highlights uncertain demand, labor-cost volatility, limited customer visibility, restructuring effects, and acquisition-related execution risk. Results weakened in 2012, with lower sales and operating profit, although management expresses optimism regarding acquisitions and restructuring."
+}

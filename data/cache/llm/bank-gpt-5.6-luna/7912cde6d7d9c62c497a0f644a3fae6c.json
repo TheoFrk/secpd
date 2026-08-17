@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "material effect cannot be reasonably estimated",
+    "potentially thereafter",
+    "uncertain nature of these circumstances",
+    "subject to a cap",
+    "rely heavily on operating cash flow"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but the COVID-19 impact is presented with substantial uncertainty and no reliable earnings, cash flow, or liquidity estimate. High leverage, dependence on operating cash flow, volatile high-end gaming demand, and significant lease and debt obligations are material credit risks. Sale-leaseback transactions improved near-term liquidity but added substantial fixed rent and guarantee obligations."
+}

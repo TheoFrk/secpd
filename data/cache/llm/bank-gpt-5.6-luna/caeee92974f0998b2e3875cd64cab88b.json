@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "current expectations",
+    "sufficient to operate our business",
+    "other circumstances",
+    "overall market conditions",
+    "table and section artifacts"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating and liquidity outlook, supported by discussion of segments, acquisitions, and specific historical adjustments. However, the liquidity assessment relies on broad conditional language and provides limited quantified sensitivity regarding debt repayment, refinancing, and capital requirements. Repeated segment disclosures and apparent table-extraction artifacts reduce clarity."
+}

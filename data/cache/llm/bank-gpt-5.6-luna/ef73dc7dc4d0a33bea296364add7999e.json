@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently imprecise estimates",
+    "may differ from these estimates",
+    "subject to error and differences of interpretation",
+    "rely on operator information",
+    "full cost ceiling impairment risk"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful operational and cash-flow quantification, but relies on inherently uncertain reserve, commodity-price, operator-reporting, and impairment assumptions. Cash generation is modest and financing cash flow was negative in 2019, indicating some liquidity sensitivity despite the generally factual and controlled tone."
+}

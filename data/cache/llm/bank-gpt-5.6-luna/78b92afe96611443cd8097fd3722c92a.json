@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unclear when additional revenues may be generated",
+    "may need future capital contributions",
+    "more likely than not",
+    "currently evaluating the effect"
+  ],
+  "risk_summary": "The disclosure indicates substantial liquidity and operating risk at PDS, including declining licensing revenue, no significant licensing revenue since 2013, cash shortfalls, and potential future funding obligations. Although several dates, ownership percentages, and a cash balance are quantified, the outlook depends on uncertain litigation and licensing proceeds and includes extensive standard accounting and forward-looking disclaimers."
+}

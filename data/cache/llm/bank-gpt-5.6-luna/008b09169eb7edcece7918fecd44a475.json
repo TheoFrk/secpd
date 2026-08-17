@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "highly subjective estimates",
+    "reasonable and supportable forecasts",
+    "qualitative adjustments",
+    "actual results could meaningfully differ"
+  ],
+  "risk_summary": "The excerpt is technically detailed but relies heavily on management judgment, qualitative adjustments, scenario weighting, and unobservable valuation inputs, limiting precision around credit and asset-valuation risk. Results appear broadly stable, but reduced net income, higher credit-loss provisions, interest-rate effects on investments, and extensive estimate sensitivity indicate moderate downside exposure rather than a crisis tone."
+}

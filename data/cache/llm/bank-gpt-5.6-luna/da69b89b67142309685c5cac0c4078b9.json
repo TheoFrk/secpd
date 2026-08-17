@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "cannot be predicted with any degree of confidence",
+    "substantial judgment",
+    "volatile oil and natural gas prices",
+    "unforeseen difficulties"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful sensitivity analysis, quantified reserve revisions, impairment headroom, contract losses, and backlog. Risk is elevated by volatile commodity economics, subjective reserve estimates, a contract drilling operating loss, and cost overruns, although the tone is balanced rather than crisis-like."
+}

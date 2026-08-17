@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective estimates and assumptions",
+    "could adversely affect earnings",
+    "future changes in management’s assessment",
+    "significant earnings volatility",
+    "anticipated economic conditions"
+  ],
+  "risk_summary": "The disclosure is technically detailed and identifies key judgment areas, including loan losses, goodwill impairment, mortgage servicing rights, and derivatives. Risk is generally presented in conditional and forward-looking terms, with meaningful exposure to interest rates, prepayments, credit quality, and valuation assumptions, but without quantified sensitivity ranges in the excerpt."
+}

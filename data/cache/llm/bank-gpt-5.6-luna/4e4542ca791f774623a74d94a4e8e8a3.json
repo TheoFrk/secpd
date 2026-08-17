@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "reasonably likely",
+    "material impact",
+    "significant management judgment",
+    "could materially impact",
+    "known trends and uncertainties"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights meaningful pressure from a 14.1% sales decline, customer credit problems, inflation-driven demand weakness, and concentration in two customers representing 71% of gross sales. Extensive accounting and tax language is technically detailed but complex and includes substantial reliance on management estimates, including inventory and acquisition-related valuations."
+}

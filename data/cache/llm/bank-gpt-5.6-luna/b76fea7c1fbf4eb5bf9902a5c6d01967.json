@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly subjective assumptions",
+    "all relevant facts and circumstances available",
+    "probable and reliably estimated",
+    "qualitative analysis",
+    "could potentially be significant"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and quantifies a material historical judgment charge, but relies heavily on management estimates for contract costs, claims, incentives, pension liabilities, and equity compensation. Key exposure areas include cost overruns, disputed or unapproved change orders, audit adjustments, subjective valuation assumptions, and joint-venture consolidation judgments. The tone is generally explanatory and moderately confident, while acknowledging meaningful estimation uncertainty."
+}

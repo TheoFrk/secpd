@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "do not assume obligation to update",
+    "among other things",
+    "we believe liquidity is adequate",
+    "no significant liquidity constraints"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and identifies substantial deterioration in revenue, operating income, net income, operating ratios, and cash balances, reflecting meaningful operating and liquidity risk. Management offsets this with statements regarding adequate liquidity, no long-term debt, expected financing availability, and anticipated capital spending, but these assurances are forward-looking and partly boilerplate."
+}

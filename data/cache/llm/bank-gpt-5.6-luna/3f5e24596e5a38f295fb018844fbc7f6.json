@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management judgment and estimates",
+    "actual results may differ",
+    "reasonably assured collectability",
+    "inherently uncertain future losses",
+    "truncated and inconsistent disclosure"
+  ],
+  "risk_summary": "The excerpt is heavily policy-driven and boilerplate, with substantial reliance on management estimates for receivables, returns, contingencies, taxes, and asset values. It discloses operating and legal uncertainties, limited history for estimating returns, net-loss-related dilution constraints, and material cost pressures, while providing limited quantified sensitivity or exposure detail. The apparent truncation and anomalous statement that gross margin decreased 231% reduce disclosure clarity."
+}

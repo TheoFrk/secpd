@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no obligation to update",
+    "could differ materially",
+    "numerous challenges",
+    "may replace significant components"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and asset data, but relies on standard forward-looking disclaimers and contains incomplete table excerpts that limit assessment of segment detail. The tone is generally confident and growth-oriented, while acknowledging capital-market sensitivity, execution risk, margin pressure, pricing risk, and potential software impairment."
+}

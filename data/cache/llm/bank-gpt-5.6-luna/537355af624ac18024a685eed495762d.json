@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to risks and uncertainties",
+    "reasonable possibility estimates will change",
+    "material impact not assured",
+    "unable to predict future adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial quantification, including facility counts, payer mix, reserves, and sensitivity estimates. However, extensive forward-looking disclaimers and reliance on complex reimbursement, reserve, and regulatory estimates indicate meaningful uncertainty around cash flows and reported earnings."
+}

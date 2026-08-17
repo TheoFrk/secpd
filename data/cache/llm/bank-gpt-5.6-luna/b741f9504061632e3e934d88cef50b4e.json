@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "long-term reporting horizon",
+    "continuing and increasingly negative balance",
+    "does not diminish real economic interests",
+    "highly discretionary and arbitrary",
+    "run-off business"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and segment-level detail, but uses complex, highly qualified language to frame significant risks. RFIG shows negative GAAP capitalization and expected continuing losses, while management emphasizes that this does not impair liquidity or economic value. General insurance claim-cost increases and run-off exposures remain material credit-risk concerns."
+}

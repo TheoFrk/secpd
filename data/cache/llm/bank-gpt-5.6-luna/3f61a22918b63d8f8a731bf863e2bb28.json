@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "proprietary and patented artificial intelligence",
+    "inherently uncertain and subject to refinement",
+    "judgment involved in estimating fair value",
+    "largest customer accounted for 75% of revenues"
+  ],
+  "risk_summary": "The excerpt is relatively detailed and quantified regarding revenue, financing terms, margins, and customer concentration, but includes standard forward-looking disclaimers and judgment-heavy impairment disclosures. The strongly promotional business narrative contrasts with material dependency on one customer, evolving technology and privacy regulation, and estimates that may affect asset valuations."
+}

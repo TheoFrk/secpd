@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "could continue to result",
+    "to varying degrees",
+    "partially mitigate and offset",
+    "cannot be predicted at this time",
+    "future potential value"
+  ],
+  "risk_summary": "The excerpt is generally specific and data-rich, with detailed revenue changes, product performance, currency impacts, and pipeline metrics. Risk tone is mildly negative because of declining revenues in several products, competition, supply disruptions, inflation, foreign exchange exposure, and geopolitical uncertainty, although management describes mitigation actions and ongoing growth opportunities."
+}

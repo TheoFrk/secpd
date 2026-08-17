@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to another section",
+    "no substantive disclosure",
+    "boilerplate wording"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and redirects the reader to another section. This limits transparency within the quoted passage but does not itself indicate a specific adverse risk condition."
+}

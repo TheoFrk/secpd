@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "risks, uncertainties and assumptions",
+    "no obligation to update",
+    "cannot assure recovery levels",
+    "unable to predict fuel prices"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and some quantitative metrics, but is heavily prefaced by standard forward-looking-statement disclaimers and broad conditional risk language. Key exposures include fuel-price volatility, driver and capacity shortages, self-insured claims, equipment costs, regulatory changes, and customer failures."
+}

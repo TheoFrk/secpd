@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "general corporate purposes",
+    "primarily related to",
+    "partially offset by",
+    "Please read Note"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed disclosures on acquisitions, debt issuance, financing facilities, operating results, and margin drivers. The tone is moderately positive due to the sharp improvement in 2017 earnings and EBITDA, but material risks remain from refinancing leverage, commodity crack-spread volatility, refinery operations, collateral releases, and the company’s prior reorganization."
+}

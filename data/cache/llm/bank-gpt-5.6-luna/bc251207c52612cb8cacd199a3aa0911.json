@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe payor diversity mitigates exposure",
+    "predictable stream of revenue",
+    "qualitative analysis",
+    "other relevant information",
+    "for further information"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, describing locations, acquisitions, purchase prices, goodwill, revenue, bad-debt provisions, and seasonality. Risks include reimbursement pressure, patient sensitivity to deductibles, weather-related volume disruptions, capitation management, and a material increase in bad-debt expense, although management presents these risks in a largely confident and growth-oriented tone."
+}

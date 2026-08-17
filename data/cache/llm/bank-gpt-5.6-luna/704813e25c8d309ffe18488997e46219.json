@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.05,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "forward-looking statements",
+    "based on assumptions and estimates",
+    "key factors could cause",
+    "materially differ"
+  ],
+  "risk_summary": "The excerpt largely redirects substantive discussion to other sections and relies on broad forward-looking-statement disclaimers rather than providing quantified operating or financial detail. It identifies numerous potential risk drivers but does not assess their likelihood, magnitude, or current impact, resulting in a cautious and relatively noncommittal risk tone."
+}

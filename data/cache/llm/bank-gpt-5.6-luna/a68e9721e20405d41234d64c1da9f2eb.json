@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "largely due to",
+    "if necessary",
+    "as deemed appropriate",
+    "could differ materially"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, describing revenue growth, margin compression, liquidity, borrowings, and capital expenditures. Risk tone is mildly positive due to growth and increased cash, but reliance on credit-line borrowings, inventory estimates, marketable securities including short positions, and forward-looking caveats presents moderate financial risk."
+}

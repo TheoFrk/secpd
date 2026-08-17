@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "subject to various risks and uncertainties",
+    "could differ materially and adversely",
+    "no obligation to update",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but reflects significant deterioration, including a 28.2% revenue decline, a sharp increase in operating losses, rising interest expense, and substantial expected pension contributions. Some causal explanations are broad, and the excerpt contains extensive standard forward-looking disclaimer language plus an apparent truncation and date error."
+}

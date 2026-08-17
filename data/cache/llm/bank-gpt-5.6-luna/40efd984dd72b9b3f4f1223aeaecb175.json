@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance language",
+    "forward-looking safe harbor boilerplate",
+    "uncertainty cannot be estimated",
+    "limited cash resources",
+    "possible dissolution"
+  ],
+  "risk_summary": "The company is a shell with no revenues, discontinued operations, recurring losses, limited cash resources, and no financing activity in 2015. Its survival depends on obtaining financing and completing an acceptable merger or acquisition, with management acknowledging substantial uncertainty and possible dissolution."
+}

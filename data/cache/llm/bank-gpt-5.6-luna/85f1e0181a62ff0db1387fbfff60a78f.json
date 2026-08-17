@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.27,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not indicative of future results",
+    "significant financial weakness in credit markets",
+    "unanticipated credit and liquidity events",
+    "partially offset by decreases"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on restaurant counts, revenues, margins, debt terms, and same-store sales, but relies on standard disclaimers and contains a truncated discussion of collectability risk. Risk tone is moderately negative, driven by Arby’s same-store sales declines, fixed-cost pressure, high-cost senior debt, and credit-market weakness, although management highlights operational improvements and growth opportunities."
+}

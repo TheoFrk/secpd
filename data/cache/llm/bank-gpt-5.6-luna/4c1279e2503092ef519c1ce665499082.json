@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks and uncertainties",
+    "among other things",
+    "materially different",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on portfolio size, development activity, capitalized costs, and project budgets, but the forward-looking section is heavily standardized and relies on broad risk-factor language. Key exposures include capital-market conditions, inflation, occupancy, development execution, joint ventures, valuation judgments, and impairment risk. Overall tone is neutral to mildly confident, tempered by extensive legal disclaimers and management-estimate dependence."
+}

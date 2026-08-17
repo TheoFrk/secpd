@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we expect to continue",
+    "enables scalable development",
+    "cutting-edge and cost-effective claims"
+  ],
+  "risk_summary": "The excerpt combines extensive promotional and forward-looking language with limited operating detail, though it quantifies a 5% revenue decline and a $2.1 million decrease in new-product revenue. Key risks include dependence on new-product growth, continued investment requirements, technology obsolescence, competition, and reliance on partners and customers. The disclosure is not crisis-like, but its optimistic positioning partially offsets the reported revenue pressure."
+}

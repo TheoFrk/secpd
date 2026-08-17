@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily",
+    "less meaningful than usual",
+    "not necessarily material",
+    "could be significantly higher",
+    "impracticable to report"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively informative, including acquisition integration cost estimates, operating metrics, tax rates, and segment definitions. Risk is concentrated in substantial acquisitions, changing segment structures, non-comparable historical results, and potentially higher future integration costs. Overall tone is neutral to mildly confident rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "may not materialize as expected",
+    "excluding special charges",
+    "uncertain outlook for global economic growth"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results with extensive boilerplate disclaimers and a broad catalog of contingent risks, including demand volatility, integration challenges, debt covenants, litigation, and supply-chain exposure. Reported foam-segment sales and operating income declined, while management maintains a cautiously optimistic transformation and growth narrative supported partly by non-GAAP measures."
+}

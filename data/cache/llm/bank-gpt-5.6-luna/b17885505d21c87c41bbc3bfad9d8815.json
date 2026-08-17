@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "believe we are well positioned",
+    "certain investment incentives and support",
+    "high degree of uncertainty"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes substantial quantitative information on capital expenditures, investments, backlog, and financing needs. It nevertheless presents significant exposure to semiconductor cycles, technological substitution, underutilized capacity, execution of major China facilities, and uncertain financing or tax obligations, while relying on forward-looking assurances and conditional language."
+}

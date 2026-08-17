@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "among other factors",
+    "cannot predict the impact",
+    "believe these actions will improve",
+    "broad marketing capabilities claims"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, revenue, expense, liquidity, and borrowing-capacity data, but includes considerable boilerplate and optimistic, non-quantified claims about future growth and profitability. Key risks include declining revenue, discretionary customer marketing budgets, dependence on economic conditions and major customers, rising supply-chain costs, and the truncated discussion of future economic impacts. Liquidity is presented confidently, with $56.7 million of cash and $73.8 million of unused revolver capacity expected to fund the next 12 months."
+}

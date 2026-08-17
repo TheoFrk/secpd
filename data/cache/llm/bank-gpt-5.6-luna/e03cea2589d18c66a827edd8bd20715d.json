@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "we believe",
+    "should the PRC government policy remain in place",
+    "in order to retain major customers",
+    "macro-economic tightening policy"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and explains segment-level revenue, volume, and pricing declines, but it reports materially weaker demand, margin pressure from price reductions, and significant prior-year impairments and write-offs. Some causal explanations and forward-looking expectations are conditional and rely on broad macroeconomic references rather than detailed market or customer data."
+}

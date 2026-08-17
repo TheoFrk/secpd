@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and assumptions",
+    "organic sales non-GAAP measure",
+    "low-single-digit growth",
+    "substantially in excess of carrying value"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, with detailed segment, margin, tax, and debt-related explanations. Risk tone is mildly positive but acknowledges sales contraction, currency headwinds, input-cost pressure, and weaker WPS performance. Boilerplate forward-looking language and reliance on adjusted organic sales somewhat limit comparability and precision."
+}

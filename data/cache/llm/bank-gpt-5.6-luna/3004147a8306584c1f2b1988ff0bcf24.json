@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "known and unknown liabilities",
+    "numerous risks",
+    "actual results could differ",
+    "from time to time"
+  ],
+  "risk_summary": "The excerpt is generally informative, with substantial operational detail, quantified customer and expense information, and clear descriptions of regulated activities. Risk disclosures rely on standard acquisition and estimation caveats, while the overall tone is moderately confident due to the stability of regulated water utility operations. The truncated ending limits assessment of the full MD&A risk discussion."
+}

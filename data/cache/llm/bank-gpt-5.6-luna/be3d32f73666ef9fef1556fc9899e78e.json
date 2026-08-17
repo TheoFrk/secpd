@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "adverse effect",
+    "indeterminable adverse effects",
+    "could have an adverse effect",
+    "assume no obligation to revise or update"
+  ],
+  "risk_summary": "The disclosure highlights substantial exploration-stage, financing, property-access, and COVID-19 disruption risks, while emphasizing that none of the properties have proven or probable reserves. Risk descriptions are largely broad and contingency-based, with limited quantified operational impact or forward liquidity detail."
+}

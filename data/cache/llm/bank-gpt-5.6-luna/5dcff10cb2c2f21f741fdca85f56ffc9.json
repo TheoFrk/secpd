@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expect to continue",
+    "we believe",
+    "dramatically improve the regulatory environment",
+    "possible future actions",
+    "could be significant"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding reserves, capacity, contracts, sales, costs, and the $16.6 million impairment. Risk is partly understated through optimistic assumptions about political and regulatory developments and future ILB demand, while the Carlisle mine impairment and potential for significant additional charges indicate material operational and valuation risk."
+}

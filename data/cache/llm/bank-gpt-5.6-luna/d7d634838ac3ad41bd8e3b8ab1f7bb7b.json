@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant cross-selling opportunities",
+    "we believe",
+    "subject to various closing conditions",
+    "adjusted operating profit",
+    "NMF: Not meaningful"
+  ],
+  "risk_summary": "The excerpt is generally data-rich and quantifies sales, margins, cash flow, transaction funding, and leverage covenant changes. Risk is elevated by declining margins, substantial acquisition-related charges, integration requirements, and the highly leveraged pending N&B transaction, although management uses confident strategic language and presents strong operating cash flow. Some adjusted measures and promotional claims may soften or obscure underlying performance and execution risks."
+}

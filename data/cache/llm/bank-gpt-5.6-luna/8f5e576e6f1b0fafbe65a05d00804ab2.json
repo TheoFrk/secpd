@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance additional financing",
+    "materially different results",
+    "going concern uncertainty",
+    "patent enforcement revenue dependence"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and viability risks, including minimal or zero revenue, recurring losses, negative working capital, reliance on external financing, and an explicit going-concern uncertainty. Revenue prospects depend heavily on patent sublicensing and litigation enforcement, while financing availability is uncertain and debt may be secured by company assets."
+}

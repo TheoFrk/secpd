@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference to annual report",
+    "no substantive disclosure",
+    "page-range deferral"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A analysis and instead redirects readers to another document and page range. This limits transparency in the excerpt and prevents assessment of liquidity, operating performance, or material risks."
+}

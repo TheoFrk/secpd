@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance of recovery",
+    "subject to reasonableness review",
+    "significant potential volatility",
+    "non-GAAP core earnings",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but highlights substantial wildfire-related cost escalation, regulatory recovery uncertainty, and potentially volatile capital requirements. Extensive regulatory-accounting terminology and cross-references increase complexity, though the disclosure is generally transparent rather than evasive."
+}

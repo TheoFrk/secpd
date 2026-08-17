@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict future OSB prices",
+    "inherent uncertainty",
+    "could exceed current reserves",
+    "if actual results are not consistent",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, highlighting substantial 2020 revenue, earnings, and EBITDA improvement. Key risks include cyclical housing demand, commodity-price volatility, impairment sensitivity to assumptions, pension estimation risk, and potentially understated contingency costs. The overall tone is moderately confident but appropriately qualified by forward-looking and uncertainty language."
+}

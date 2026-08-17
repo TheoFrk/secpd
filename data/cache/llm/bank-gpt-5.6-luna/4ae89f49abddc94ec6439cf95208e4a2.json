@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "subject to a high degree of variability",
+    "no assurance financing would be obtained",
+    "uncertain at this time",
+    "future impairment charges"
+  ],
+  "risk_summary": "The excerpt provides useful operational and accounting-policy detail, including acquisition terms and key impairment assumptions, but relies heavily on standard caveats around estimates and future conditions. Liquidity is presented confidently, although construction-market weakness, customer demand, commodity costs, receivables, self-insurance, litigation, and potential financing constraints represent material downside risks."
+}

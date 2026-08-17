@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may continue to incur charges",
+    "unclear whether prices will decline",
+    "likely to remain volatile",
+    "among other things",
+    "could have an impact"
+  ],
+  "risk_summary": "The excerpt provides substantial specificity, including a quantified $0.7 billion of 2023 EV-related charges and a 139% contribution-margin comparison, but identifies significant exposure to supply disruptions, pricing pressure, commodity volatility, interest rates, and slower EV adoption. The risk tone is moderately negative and appropriately qualified, with several forward-looking uncertainties and potentially substantial future charges. Disclosure is detailed but technically dense and includes some standard boilerplate and broad macroeconomic language."
+}

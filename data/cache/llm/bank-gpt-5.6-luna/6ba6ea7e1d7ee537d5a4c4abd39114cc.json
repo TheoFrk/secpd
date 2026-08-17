@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "believed to be reasonable",
+    "including, but not limited to",
+    "various assumptions",
+    "phase out the TSM product business"
+  ],
+  "risk_summary": "The excerpt provides useful operational detail and several quantified metrics, but much of the critical-accounting discussion is standardized and heavily qualified. The shift to a licensing-only strategy and planned phaseout of the TSM business indicate execution, revenue concentration, and transition risks, while the excerpt does not quantify the expected financial impact."
+}

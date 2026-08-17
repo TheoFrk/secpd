@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "mid to high single digits",
+    "continued positive momentum",
+    "strong organic growth",
+    "modest operating expense deleverage",
+    "expected to be sufficient for the foreseeable future"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative with extensive quantified revenue, margin, cash flow, and borrowing data. However, outlook language relies on broad ranges and favorable qualitative assertions, while risks from input costs, operating expense deleverage, working-capital investment, and revolver borrowings receive comparatively limited emphasis."
+}

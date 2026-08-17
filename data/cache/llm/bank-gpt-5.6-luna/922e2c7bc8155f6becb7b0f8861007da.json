@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "similar expressions",
+    "could differ materially",
+    "assume no obligation to update",
+    "believe long-term growth opportunities"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue mix, billings, subscriptions, margins, and expenses, but is embedded in extensive boilerplate and promotional strategy language. The business-model transition creates material execution and earnings risks, evidenced by a sharp decline in operating income and margin despite revenue and billings growth. Concentration in Tech Data and exposure to emerging-market, currency, geopolitical, and adoption risks are acknowledged but partly softened by management’s optimistic assertions."
+}

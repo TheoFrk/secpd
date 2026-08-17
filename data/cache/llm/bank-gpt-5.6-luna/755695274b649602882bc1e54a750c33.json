@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to competitive pricing pressures",
+    "we expect to continue",
+    "based on management’s analysis of qualitative factors",
+    "significant estimates and assumptions",
+    "may materially impact net income"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including acquisition prices, revenue contributions, segment performance, and financing sources. Risk disclosure is largely standard and acknowledges pricing pressure, commodity-cost volatility, impairment judgments, and acquisition accounting estimates, but provides limited downside sensitivity analysis. The overall tone is moderately confident and growth-oriented."
+}

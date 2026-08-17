@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.61,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "cannot predict",
+    "no obligation to update",
+    "timing and amount cannot be determined"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standard forward-looking-statement disclaimers and broad macroeconomic risk factors, with limited quantified expectations in the provided section. Accounting and revenue-recognition disclosures are relatively specific, but financing needs, demand, and recovery timing remain explicitly uncertain. The tone is cautious and risk-aware rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.56,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect to achieve",
+    "planned purchase",
+    "subject to regulatory approvals",
+    "anticipated to include",
+    "could help create"
+  ],
+  "risk_summary": "The excerpt presents a confident, investment-oriented strategy with substantial quantified commitments for generation retirement, renewable capacity, emissions reduction, and infrastructure. Execution, regulatory approval, demand forecasting, and technology-adoption risks are referenced but not materially quantified, while the excerpt is truncated and omits potentially relevant financial detail."
+}

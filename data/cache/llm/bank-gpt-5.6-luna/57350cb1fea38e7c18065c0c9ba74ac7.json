@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "based on historical experience",
+    "long-term projections",
+    "additional reserves may be required"
+  ],
+  "risk_summary": "The excerpt presents strong revenue and bookings growth with substantial quantitative detail, but relies on standard disclaimers and management estimates for collectability, warranty reserves, inventory valuation, and goodwill impairment. Key risks include customer concentration, cyclical demand, military-program delays, changing market conditions, and potential future reserve or impairment charges."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "not exclusive risk factors",
+    "do not undertake to update",
+    "other similar words and expressions",
+    "potential difficulties and unexpected liabilities"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified performance information, including earnings, net interest income, expenses, and credit-quality trends, but is preceded by extensive boilerplate forward-looking disclaimers and a broad, non-ranked risk inventory. The overall tone is moderately positive due to reported earnings and balance-sheet growth, while merger integration, credit, liquidity, regulatory, cybersecurity, and economic risks remain material."
+}

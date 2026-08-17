@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high degree of uncertainty",
+    "primarily driven by",
+    "to the extent that",
+    "reflecting the impacts",
+    "various products and services"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on pandemic-related declines in billings, revenues, loans, receivables, and travel spending, while also describing increased credit-loss provisions and macroeconomic uncertainty. The tone is materially risk-aware but balanced by claims of improving trends, strong risk management, customer support, and financial resilience. Dense segment and revenue descriptions add complexity, though the disclosure is generally specific rather than evasive."
+}

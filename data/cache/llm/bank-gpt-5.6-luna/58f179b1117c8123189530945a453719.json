@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.58,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks, uncertainties and other factors",
+    "hypothetical changes in material assumptions",
+    "more likely than not",
+    "no assurance completion will be achieved"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but includes extensive boilerplate disclaimers and assumption-based accounting language. Operating performance deteriorated, with declining pharmacy and DME revenue, a shift to a $2.4 million operating loss, persistent labor and supply challenges, and full valuation allowances against deferred tax assets. Discontinued-operations disclosures also indicate execution uncertainty around asset sales and remaining impairment exposure."
+}

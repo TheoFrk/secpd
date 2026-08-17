@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "approximations to nearest $1,000,000",
+    "primarily attributable to",
+    "standard operating costs",
+    "related-party transactions",
+    "litigation financing and accrued interest"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but the company exhibits declining revenue, recurring operating losses, significant cash burn, and reliance on litigation financing, debt settlements, and forgiven loans. Related-party activity, substantial accrued liabilities, and nonrecurring gains or financing sources reduce the quality and sustainability of reported improvements. The disclosure is technically detailed but dense and includes some imprecise or inconsistent explanations."
+}

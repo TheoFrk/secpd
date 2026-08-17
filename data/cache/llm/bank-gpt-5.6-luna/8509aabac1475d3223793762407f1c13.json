@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may differ materially",
+    "no obligation to update",
+    "meaningfully higher",
+    "strength and continued momentum"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and reports strong revenue and earnings growth, supporting a positive operating tone. However, extensive boilerplate forward-looking language, broad causal explanations, discontinued operations, investment losses, and exposure to market conditions introduce moderate risk and reduce specificity in parts of the disclosure."
+}

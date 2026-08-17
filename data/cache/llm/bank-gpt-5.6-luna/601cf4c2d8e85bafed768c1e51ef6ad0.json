@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "more likely than not",
+    "estimates and assumptions",
+    "when market information is not available"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, describing sales, margins, acquisitions, borrowing, interest expense, taxes, and impairment methodology. Risk is moderate due to increased borrowings, acquisition-related exposure, and reliance on management estimates, but the overall tone is cautiously positive given strong revenue growth and stable margins."
+}

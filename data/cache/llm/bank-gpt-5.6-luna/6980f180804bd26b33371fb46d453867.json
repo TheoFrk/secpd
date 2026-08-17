@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "no assurance",
+    "substantial doubt about going concern",
+    "plans to raise additional financing"
+  ],
+  "risk_summary": "The company has no revenue, significant net losses, negative operating cash flow, no proved reserves, and substantial impairment and derivative losses. Liquidity depends on additional equity or debt financing, with explicit uncertainty regarding funding availability and a stated possibility of suspending or ceasing operations."
+}

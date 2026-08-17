@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "expected to continue",
+    "assuming modest enrollment growth",
+    "partially offset",
+    "underlying business trends"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure, but highlights declining revenue, enrollment pressure, impairments, restructuring charges, and weaker operating leverage. The recovery outlook depends on management initiatives and assumptions about modest enrollment growth, while extensive non-GAAP framing may soften the presentation of reported results."
+}

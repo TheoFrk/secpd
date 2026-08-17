@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "net effects of",
+    "based on current economic conditions",
+    "relatively stable, although at elevated levels",
+    "variety of markets"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but relies on recurring causal qualifiers such as \"primarily\" and \"net effects.\" Risk tone is moderately negative: 2023 net income is expected to decline, commodity costs remain elevated, margins weakened, and Kronos reported a fourth-quarter operating loss."
+}

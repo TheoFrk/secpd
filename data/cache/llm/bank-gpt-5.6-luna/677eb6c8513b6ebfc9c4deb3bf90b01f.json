@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "known and unknown liabilities",
+    "risk and return profile",
+    "probable future recognition",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes substantial operational detail and quantified historical changes, but strategic objectives and acquisition prospects are described in broad, conditional terms. Key risks include acquisition execution, regulatory disallowance of regulatory assets, estimation uncertainty, pension assumptions, and exposure to maintenance and operating-cost variability. Overall tone is cautiously positive, supported by the regulated utility model and lower stated business-cycle risk."
+}

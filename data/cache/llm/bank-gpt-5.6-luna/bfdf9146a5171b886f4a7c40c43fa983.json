@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes is relevant",
+    "among others",
+    "inherently uncertain",
+    "we generally attempt to",
+    "continuing to evaluate"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial portfolio, tenant, debt, and accounting information, but it is highly technical and contains extensive standard MD&A and GAAP boilerplate. It acknowledges material exposure to capital-market access, interest rates, tenant concentration, variable-rate debt, and estimation uncertainty, while maintaining a generally constructive operating tone."
+}

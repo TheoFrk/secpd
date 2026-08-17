@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors including, but not limited to",
+    "highly uncertain",
+    "we believe we are well positioned",
+    "truncated discussion"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including leverage, liquidity, hedge notional, returns, and market-spread developments. Risk tone is cautiously constructive, but the outlook relies heavily on management expectations regarding monetary policy, spreads, funding costs, and market conditions, with the excerpt ending in truncated text."
+}

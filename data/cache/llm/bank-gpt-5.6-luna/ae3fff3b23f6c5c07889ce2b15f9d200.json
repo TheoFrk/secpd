@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may differ materially",
+    "extremely fluid economic conditions",
+    "continued migration to special mention",
+    "broad enumerated risk factors"
+  ],
+  "risk_summary": "The disclosure is heavily boilerplate and presents a broad range of economic, credit, regulatory, funding, technology, and operational risks with limited quantified sensitivity analysis. Despite management’s cautious optimism and improved earnings, elevated funding reliance, portfolio migration toward special mention ratings, potential additional credit-loss provisions, and a substantial securities-sale loss indicate meaningful risk. The reported 2023 FHLB advance figure of $296,648 million appears internally inconsistent and may reflect a unit or transcription error."
+}

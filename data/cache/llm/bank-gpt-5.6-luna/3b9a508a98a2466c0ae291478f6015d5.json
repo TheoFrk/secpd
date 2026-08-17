@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "risks and uncertainties",
+    "many or all beyond Company's control",
+    "based on certain assumptions and judgments",
+    "estimates may differ from actual amounts"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and broad, largely non-quantified risk categories. It provides useful quantitative detail on receivables, inventory reserves, contract billing, and liquidity, but accounting estimates and revenue recognition remain sensitive to assumptions and project cost revisions. Overall tone is cautious and slightly negative, though management expresses confidence in near-term funding adequacy."
+}

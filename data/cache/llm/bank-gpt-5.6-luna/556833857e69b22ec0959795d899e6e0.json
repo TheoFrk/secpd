@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "high degree of judgment",
+    "such other factors",
+    "more likely than not",
+    "excluding the impact"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, with detailed year-over-year asset, loan, deposit, earnings, capital, and credit-quality metrics. Risk disclosures rely on standard accounting-estimate caveats, particularly for loan-loss allowances and deferred tax assets, while nonaccrual loans increased and loan-loss reserves declined as a percentage of loans. Overall tone is confident and positive, supported by earnings growth, strong deposit funding, and capital ratios well above regulatory standards."
+}

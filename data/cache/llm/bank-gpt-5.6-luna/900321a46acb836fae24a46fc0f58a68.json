@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "long-term growth strategy",
+    "actively working to minimize disruption",
+    "subject to customary closing conditions",
+    "at this time",
+    "strategic projects"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and useful quantitative information on store closures, acquisitions, divestitures, and supply-chain effects. However, it relies on standard corporate language and includes uncertainty around COVID-19 reclosures, supplier disruptions, regulatory approvals, and strategic initiatives. Overall tone is cautiously resilient rather than crisis-like, but the excerpt is incomplete and contains some potentially distracting or ambiguous strategy wording."
+}

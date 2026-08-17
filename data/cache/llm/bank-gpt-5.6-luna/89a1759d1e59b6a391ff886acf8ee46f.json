@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.02,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot be predicted at this time",
+    "qualitative factors",
+    "assumptions believed reasonable",
+    "not more likely than not",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosures on revenue, expenses, tax liabilities, and share repurchases, but relies on judgment-heavy estimates for revenue recognition and goodwill impairment. Key risks include cancellable customer contracts, COVID-19 uncertainty, sensitivity to forecasts and discount rates, and reduced visibility following the Canadian office closure."
+}

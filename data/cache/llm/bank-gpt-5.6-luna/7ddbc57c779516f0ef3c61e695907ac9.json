@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no obligation to update",
+    "non-GAAP measures excluding selected items",
+    "reasonable assurance",
+    "strategic repositioning actions"
+  ],
+  "risk_summary": "The excerpt is highly formal and boilerplate-heavy, with extensive safe-harbor, non-GAAP, and internal-control language that limits comparability and forward-looking accountability. Operating performance shows materially negative trends, including an 11% sales decline, weaker oil and gas demand, margin pressure, and expectations of continued weakness through most of fiscal 2017. Quantified segment and geographic results provide meaningful transparency despite the disclosure caveats."
+}

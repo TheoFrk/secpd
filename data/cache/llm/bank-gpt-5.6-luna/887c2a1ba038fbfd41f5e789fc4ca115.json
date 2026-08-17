@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "see page",
+    "significantly affected by acquisitions",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financing information, but relies heavily on boilerplate definitions, cross-references, and attribution language. The pending $250.0 million unsecured notes maturity in October 2020 represents a material refinancing or liquidity risk, partially offset by stated revolving capacity and the absence of mortgage notes."
+}

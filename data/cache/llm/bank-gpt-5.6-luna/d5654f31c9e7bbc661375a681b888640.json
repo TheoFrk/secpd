@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "ultimate outcome is unknown",
+    "materially different results",
+    "judgement errors may occur",
+    "believed adequate by management",
+    "all known risk factors"
+  ],
+  "risk_summary": "The excerpt provides a largely boilerplate description of loan-loss allowance estimation without quantitative sensitivity, reserve levels, or loss assumptions. It acknowledges substantial uncertainty and the possibility of material changes, indicating moderate credit-risk disclosure concerns but not an explicitly distressed tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.65,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "principally due to",
+    "currently assessing the impact",
+    "unable to determine future taxable income",
+    "fluctuations in product mix and pricing"
+  ],
+  "risk_summary": "The excerpt is materially quantified but contains standard forward-looking disclaimers and several broad causal explanations. Risk tone is negative, reflecting declining sales and margins, continuing losses, a substantial reduction in cash and marketable securities, operating cash use, and a full valuation allowance on deferred tax assets."
+}

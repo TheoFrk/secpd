@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "could cause materially different results",
+    "expressly disclaim any obligation to update",
+    "substantial management judgment"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking statement disclaimers and broad, largely unquantified risk factors, particularly concerning COVID-19, market conditions, capital availability, development execution, and valuation judgments. It also provides meaningful quantitative detail on portfolio size, capitalization, and acquisitions, mitigating concerns about overall disclosure quality. The tone is cautious and legally defensive rather than crisis-like."
+}

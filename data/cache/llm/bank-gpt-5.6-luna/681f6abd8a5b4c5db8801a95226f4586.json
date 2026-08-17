@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily reflects",
+    "partially offset",
+    "we expect",
+    "unless otherwise indicated",
+    "we believe"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively supported, with detailed year-over-year operating metrics and explanations of drivers. Risk tone is cautiously positive, reflecting improved same-store sales and franchise growth, but it also highlights commodity inflation, cost pressure, sales deleverage, and execution demands from refranchising and remodeling."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily caused by",
+    "we believe",
+    "no assurance",
+    "estimated future cash flows",
+    "should aggregate future cash flows"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, but highlights a 15.7% revenue decline, worsening net loss, and a 55.3% decline in Communications Systems revenue driven by weak defense demand. Liquidity is presented positively, with $17.9 million of cash and no debt, while substantial reliance on estimates and standard accounting contingencies creates uncertainty around inventory, warranty, and impairment exposures."
+}

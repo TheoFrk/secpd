@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "cannot assure additional financing",
+    "expects to be sufficient",
+    "continues to evaluate cost reductions"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosures on capital expenditures, backlog, purchase commitments, debt refinancing, and liquidity, but contains substantial forward-looking uncertainty and conditional risk language. Key credit risks include high fixed costs, cyclical semiconductor demand, potential underutilized capacity, significant technology investment requirements, debt service needs, covenant restrictions, and uncertain access to favorable financing."
+}

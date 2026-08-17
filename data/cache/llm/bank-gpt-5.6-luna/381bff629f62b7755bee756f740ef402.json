@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "mainly due to",
+    "slowdown in the Chinese economy and financial tightening",
+    "for accounting purposes",
+    "table below shows",
+    "historical consolidated financial statements"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly regarding segment pricing, volumes, revenue, cash flow, and receivables. Risk tone is mildly negative due to declining sales volumes and chemical-product revenue, macroeconomic weakness, tighter customer settlement practices, and lengthening receivable turnover. Extensive transaction history and accounting/legal terminology increase complexity, while some causal explanations remain broad and repetitive."
+}

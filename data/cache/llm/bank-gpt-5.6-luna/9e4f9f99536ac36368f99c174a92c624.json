@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "numerous variables and substantial uncertainties",
+    "may change estimates significantly",
+    "likely due to lower housing demand",
+    "limited influence over pricing",
+    "anticipated future cost-sharing arrangements"
+  ],
+  "risk_summary": "The excerpt identifies meaningful exposure to cyclical housing demand, commodity pricing, excess capacity, input costs, and legal and environmental contingencies. It provides useful quantitative detail, but relies substantially on forecasts, third-party estimates, and uncertain assumptions, including potentially material contingency changes."
+}

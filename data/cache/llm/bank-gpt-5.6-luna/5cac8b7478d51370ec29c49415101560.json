@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "subject to certain conditions",
+    "if approved",
+    "primarily due to",
+    "anticipated true-up date"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, particularly regarding capital plans, rate requests, regulatory assumptions, and earnings drivers. Key risks relate to regulatory approval, rate-case outcomes, true-up adjustments, project timing, sourcing issues, and higher financing costs, but the tone remains measured and broadly constructive."
+}

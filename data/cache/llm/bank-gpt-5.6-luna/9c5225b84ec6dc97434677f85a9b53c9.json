@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "largely reflected",
+    "certain key financial data",
+    "relatively immaterial favorable impact",
+    "currently view the environment as stable",
+    "results should be considered in addition to, not as a substitute"
+  ],
+  "risk_summary": "The excerpt presents strong revenue growth, operating cash flow, liquidity, and continued shareholder distributions, with growth substantially supported by the CareFusion acquisition. Key risks include pricing pressure, foreign-exchange headwinds, healthcare utilization uncertainty, emerging-market dependence on government funding, and substantial acquisition-related debt and amortization. Disclosure is generally quantified but includes some qualitative hedging, boilerplate strategy language, and truncated or omitted supporting tables."
+}

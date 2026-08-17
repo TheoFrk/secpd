@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict when revenue will begin",
+    "may utilize financing vehicles or others",
+    "subject to FDA review",
+    "significant judgment and estimates",
+    "recurring losses as impairment trigger"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative but presents substantial going-concern and execution risk: no products are approved, revenue is limited, losses are recurring, and operations depend primarily on equity and convertible-debt financing. Cash declined materially during 2023, while regulatory approval, commercialization timing, and future funding remain uncertain."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "no way to predict the future",
+    "indications of growth",
+    "seeking merger candidates",
+    "no assurances of success"
+  ],
+  "risk_summary": "The company reports no operating revenues since 1998, recurring losses, negative working capital of approximately $300 million, and a business still in the planning or reorganization stage. Forward-looking statements rely heavily on unquantified plans involving data monetization, business combinations, and technology development, while extensive boilerplate disclosures emphasize substantial uncertainty and potential business termination."
+}

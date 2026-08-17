@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "among other things",
+    "N/M not meaningful",
+    "strategic foothold",
+    "recasted basis"
+  ],
+  "risk_summary": "The excerpt is detail-rich and provides quantified acquisition, debt, margin, interest, and tax information, but relies on some boilerplate cross-references and causal qualifiers. Risk tone is mildly negative due to manufacturing-sector contraction, higher leverage and interest expense, margin dilution from acquisitions, and unusual effective tax-rate disclosures."
+}

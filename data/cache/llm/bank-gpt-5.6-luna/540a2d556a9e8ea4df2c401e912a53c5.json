@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potentially material impacts",
+    "customary closing terms and conditions",
+    "unknown future impacts",
+    "substantial and relatively steady cash flows",
+    "inherent uncertainties"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes substantial quantified operating results, but relies on forward-looking language and broad uncertainty qualifiers around COVID-19, acquisitions, and future cash flows. Risk tone is mildly negative because of pandemic-related revenue pressure, customer non-payment risk, liquidity uncertainty, and materially higher renewable-energy operating losses."
+}

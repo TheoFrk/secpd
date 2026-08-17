@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant impact",
+    "elevated uncertainty",
+    "adjusted operating measures",
+    "management expectations",
+    "underlying performance"
+  ],
+  "risk_summary": "The excerpt is highly technical and quantitatively detailed, but relies on extensive non-GAAP adjustments and management-defined measures that can obscure GAAP performance. It highlights material sensitivity to market conditions, low interest rates, valuation assumptions, reserve adequacy, and guaranteed-benefit obligations, with a cautious but not crisis-like tone."
+}

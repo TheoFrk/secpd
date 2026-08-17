@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and subjective adjustments",
+    "special and non-core items",
+    "N/M (not meaningful)",
+    "weak consumer demand",
+    "excluding foreign currency and joint venture impacts"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but relies substantially on non-GAAP metrics and management-judgment adjustments that may present performance more favorably than GAAP results. It acknowledges declining net income, weak consumer demand, volume challenges, foreign-exchange exposure, and a material joint-venture termination impact, while maintaining an overall cautiously optimistic tone."
+}

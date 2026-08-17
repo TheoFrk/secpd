@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures excluding recurring charges",
+    "future operating results estimates",
+    "could result in additional impairment charges",
+    "available from internally generated funds",
+    "excess cash flow computations"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative disclosure, but emphasizes adjusted non-GAAP metrics that exclude restructuring, non-cash, and other potentially recurring items. Key risks include softening print advertising, pension liabilities, high 10.0% debt cost, and a large $385 million 2022 maturity, partially offset by stated cash generation and revolver availability."
+}

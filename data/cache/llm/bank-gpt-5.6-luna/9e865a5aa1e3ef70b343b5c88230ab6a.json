@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot predict",
+    "foreseeable future",
+    "could be adversely affected",
+    "best judgment",
+    "mitigating actions"
+  ],
+  "risk_summary": "The excerpt combines quantified liquidity and operating information with extensive boilerplate around estimates, COVID-19 impacts, supply-chain disruptions, and future conditions. Key risks include raw-material shortages, inflation, supplier and facility interruptions, and uncertainty regarding duration and magnitude of adverse effects, although management presents diversification and mitigation efforts positively."
+}

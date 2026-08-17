@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "largely attributable",
+    "primarily due to",
+    "may not be comparable",
+    "partially offset by",
+    "uncertain if or when"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, but includes repeated industry-comparison and attribution qualifiers. Risk tone is moderately negative, reflecting declining sales, gross-margin compression, higher SG&A and impairment charges, and substantially lower pretax income, partially mitigated by higher other income and favorable tax adjustments."
+}

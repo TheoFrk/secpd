@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "difficult or impossible to predict accurately",
+    "no assurance",
+    "reduction in ownership interest",
+    "inconsistent cash flow year reference"
+  ],
+  "risk_summary": "The company exhibits severe liquidity and solvency risk, with only $55 of cash, a $457,335 working capital deficit, substantial accumulated losses, and sharply reduced revenue. The disclosure is heavily boilerplate in its forward-looking section and contains an apparent inconsistency in the reported operating cash flow years, while providing limited detail on how funding needs will be addressed."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "continue to seek growth opportunities",
+    "subject to changes in",
+    "no assurances",
+    "significant growth opportunities"
+  ],
+  "risk_summary": "The excerpt provides useful operating metrics, customer counts, volumes, contract terms, and revenue mix, but relies heavily on optimistic growth expectations and generalized economic assumptions. Key exposures include weather sensitivity, construction and housing conditions, regulatory dependence, and concentration in water sales, while the excerpt is truncated before liquidity discussion."
+}

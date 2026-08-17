@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "leading provider and largest claims",
+    "expect this change to drive growth",
+    "impacted by several factors",
+    "non-GAAP Adjusted EBITDA emphasis",
+    "not comparable to similarly titled measures"
+  ],
+  "risk_summary": "The excerpt presents a generally positive, growth-oriented narrative supported by quantified revenue increases and acquisition contributions. However, it relies heavily on promotional scale claims, broad external-risk lists, forward-looking expectations, and an emphasized non-GAAP performance metric whose comparability is limited. Operational exposure includes cyclical demand, commodity-driven margins, regulation, weather, execution, and cost volatility."
+}

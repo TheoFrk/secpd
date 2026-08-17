@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "inherently subjective",
+    "other relevant factors",
+    "under certain circumstances",
+    "management believes adequate"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, particularly regarding acquisitions, balance-sheet changes, liquidity, and funding needs. Key risk areas include subjective loan-loss estimates, tax interpretations, potential changes in unrecognized tax benefits, and the ability to defer or fund certain obligations. Overall tone is moderately confident, with standard banking-sector qualifications and limited evidence of acute stress."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "expected to close subject to customary conditions",
+    "leading provider and growth strategy claims",
+    "non-GAAP measures and organic adjustments",
+    "estimated annualized value of recurring revenue"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by quantified ARR, transaction values, debt, and recurring-revenue metrics, but it also contains substantial promotional and boilerplate language. Key risks include macroeconomic pressure, variable-rate debt exposure, reduced hardware demand, transaction execution and regulatory approval uncertainty, and reliance on non-GAAP measures."
+}

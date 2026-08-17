@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "no assurance can be given",
+    "significant impairment charges",
+    "pilot attrition and training backlogs"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed operating and fleet information, but includes standard forward-looking disclaimers and a truncated section. Risk tone is negative overall, reflecting continuing net and operating losses, substantial impairment charges, reduced block hours, aircraft held for sale, and pilot-related constraints, although losses improved year over year and contractual guarantees provide some protection from market volatility."
+}

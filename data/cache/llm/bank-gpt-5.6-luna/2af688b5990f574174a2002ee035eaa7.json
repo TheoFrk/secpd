@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believes it can issue",
+    "as market conditions permit",
+    "intends to issue primarily",
+    "may also access",
+    "not comparable to similarly titled measures"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial detail on leasing, development, financing, and operating metrics, supporting relatively strong disclosure quality. Risk is framed constructively, but reliance on leasing performance, tenant expense recoverability, development execution, capital-market access, and non-GAAP measures remains material. Dense definitions and extensive industry boilerplate reduce readability without appearing materially evasive."
+}

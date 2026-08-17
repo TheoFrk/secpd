@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects sales and earnings growth",
+    "volatile, complex and high-cost environment",
+    "risks to the outlook include",
+    "pricing actions to mitigate inflation",
+    "remains in a strong financial position"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively supported, but presents a positive outlook despite material exposure to inflation, supply-chain disruption, volatile commodity costs, and macroeconomic deterioration. Debt, liquidity, covenant compliance, and repayment obligations are clearly described, although forward-looking claims rely on broad expectations and mitigation actions."
+}

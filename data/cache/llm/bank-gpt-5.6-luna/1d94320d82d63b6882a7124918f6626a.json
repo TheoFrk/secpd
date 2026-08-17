@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "beyond our control",
+    "assumes no obligation to update",
+    "table placeholders and incomplete detail"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking language and broad, largely unquantified risk factors, limiting assessment of future performance. Historical transaction and segment information is relatively specific, but the excerpt notes goodwill and intangible impairment charges, end-market softness, pricing pressure, integration risk, and an operating loss in Valves & Controls."
+}

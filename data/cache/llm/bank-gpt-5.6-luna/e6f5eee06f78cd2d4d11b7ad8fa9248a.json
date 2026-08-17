@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant management judgment",
+    "could produce a materially different estimate",
+    "no assurance",
+    "limited success",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial quantitative disclosure, but relies on subjective valuation assumptions and management estimates for fair value, goodwill, legal reserves, and illiquid auction-rate securities. It highlights material liquidity, litigation, regulatory, and impairment risks, particularly the uncertainty of resolving remaining ARS obligations."
+}

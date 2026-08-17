@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor disclaimer",
+    "many risks and uncertainties",
+    "do not undertake any obligation to update",
+    "primarily due to",
+    "selected information may not contain all information"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified regarding acquisitions, earnings, loan growth, and nonperforming assets. Risk tone is mixed: strong growth and profitability are emphasized, but nonperforming loans rose substantially and the discussion relies on standard forward-looking disclaimers and repeated causal explanations."
+}

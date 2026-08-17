@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "section of the Annual Report",
+    "immediately following the Notes",
+    "no substantive discussion provided"
+  ],
+  "risk_summary": "The excerpt contains no substantive MD&A, instead directing readers to another document. This materially limits assessment of financial condition, operating results, liquidity, and risk disclosures from the provided text."
+}

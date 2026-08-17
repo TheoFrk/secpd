@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "uncertain and rapidly changing",
+    "appropriate actions",
+    "adverse impacts",
+    "no assurance",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and includes quantified segment performance, but relies on broad, forward-looking language regarding pandemic severity, supply-chain disruption, capital-market access, and potential impairment risks. Risk tone is mixed: management conveys operational control and resilience while acknowledging meaningful uncertainty and cost pressures."
+}

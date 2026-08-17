@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not obligated to update",
+    "many possible events or factors",
+    "actual results may differ materially",
+    "as demand dictates"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and financing information, but extensive repetitive forward-looking disclaimers and broad risk qualifiers reduce transparency around future performance. The tone is generally confident and growth-oriented, although leverage, margin borrowing, unrealized securities losses, and occupancy below 85% present material risk considerations."
+}

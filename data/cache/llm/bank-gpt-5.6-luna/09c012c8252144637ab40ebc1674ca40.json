@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "fixed-fee arrangements",
+    "impacts comparability",
+    "subject to certain specified exclusions",
+    "forward-looking statements",
+    "approximately 90% contract flying"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed revenue, expense, fleet, capacity, and contract disclosures. It highlights improved net income despite lower revenue, but also indicates meaningful dependence on major airline partners, contract structures, and complex reimbursement and maintenance accounting. Extensive technical explanations and repeated comparability caveats may make underlying operating trends harder to assess."
+}

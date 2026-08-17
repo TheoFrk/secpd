@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "no obligation to update",
+    "challenging and volatile market conditions",
+    "period-to-period comparisons may not be meaningful"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative operating data, including AUM, revenue, profitability, inflows, and gross margin, but relies on standard forward-looking disclaimers and some non-specific expectations. Risk exposure is meaningful because revenue depends heavily on AUM, market performance, investor inflows, competition, and volatile global conditions, although the overall tone is cautiously optimistic based on recent growth and improved profitability."
+}

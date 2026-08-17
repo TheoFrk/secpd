@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "factors beyond the Company's control",
+    "among other things",
+    "not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding the Delta acquisition, financing, segment results, and cash flows. Risk tone is moderately negative due to lower operating cash flow, weaker volumes and pricing, competitive pressure, increased debt, and acquisition-related costs, but it does not indicate a crisis. The forward-looking disclaimer is standard boilerplate rather than a major concealment signal."
+}

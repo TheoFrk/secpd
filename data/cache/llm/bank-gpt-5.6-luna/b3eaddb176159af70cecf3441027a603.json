@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "partially offsetting",
+    "substantially all",
+    "not meaningful",
+    "special items"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with clear year-over-year drivers for revenue, costs, operating income, EBITDA, and free cash flow. Risk tone is moderately negative because operating income, margins, adjusted EBITDA, and free cash flow declined materially, while higher programming costs and the loss of political and Olympic revenue created pressure. Extensive non-GAAP reconciliations and special-item adjustments require careful review but do not appear overtly evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "reasonably likely",
+    "as appropriate",
+    "high-growth markets",
+    "broad-based opportunities",
+    "refer to Notes for further discussion"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, but includes substantial standard MD&A boilerplate and broad forward-looking language. Operating performance weakened in 2024, particularly in Biotechnology, China, and high-growth markets, alongside substantial foreign-currency translation losses and lower earnings. Management’s planned cost-savings initiative provides mitigation, but execution, macroeconomic, currency, competitive, and regulatory risks remain material."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "additional details are discussed",
+    "could be adversely affected",
+    "management continues to closely monitor",
+    "significant judgment",
+    "actual measurement is not possible or practical"
+  ],
+  "risk_summary": "The excerpt is generally precise and heavily quantified, reporting asset growth, loan-loss coverage, charge-offs, acquisitions, funding changes, and regulatory capital. Risk tone is mildly positive due to earnings growth and well-capitalized ratios, but commercial real estate concentration, individual large charge-offs, and potential economic deterioration present material credit risks. Repeated cross-references to other sections add boilerplate and limit self-contained clarity."
+}

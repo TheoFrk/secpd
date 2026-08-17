@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "non-GAAP measures and exclusions",
+    "opportunities for continued growth",
+    "energy sector remains distressed",
+    "bankruptcies are likely to rise"
+  ],
+  "risk_summary": "The excerpt presents a generally confident performance narrative supported by extensive quantitative metrics on earnings, loans, deposits, capital, credit losses, and acquisitions. Key risks include distressed energy exposure, potentially rising bankruptcies, fraud-related charge-offs, and reliance on non-GAAP operating measures, although management describes proactive mitigation and improving overall asset quality."
+}

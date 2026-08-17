@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "believed to be reasonable",
+    "actual results may differ",
+    "significant unanticipated changes",
+    "sufficient to meet foreseeable needs",
+    "subject to renewal"
+  ],
+  "risk_summary": "The disclosure is relatively quantified, providing sales volumes, inventory levels, debt balances, credit capacity, and project costs. Key risks include competition, demand and inventory valuation uncertainty, COVID-19 disruption, reliance on forecasts, and dependence on future cash flow and preferred-stock financing. Overall tone is cautiously positive, emphasizing growth and covenant compliance while using standard forward-looking caveats."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of financing",
+    "material adverse effect",
+    "potential taxes and penalties",
+    "non-binding letter of intent"
+  ],
+  "risk_summary": "The company reports recurring losses, a $3.5 million projected funding need, high liquidity risk, and approximately $2.4 million in payroll tax liabilities that could lead to bank-account liens. While operating expenses and net losses improved, revenue declined in U.S. dollar terms and planned acquisitions and property purchases depend on uncertain external financing."
+}

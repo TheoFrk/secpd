@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "significant known and unknown risks",
+    "could cause actual results to differ materially",
+    "various limitations and assumptions",
+    "extensive boilerplate risk list"
+  ],
+  "risk_summary": "The excerpt is dominated by broad forward-looking disclaimers and an extensive, largely boilerplate catalog of adverse scenarios, which limits insight into the probability or magnitude of specific risks. It does provide some precise hedge exposure figures, but the overall tone is cautious and emphasizes uncertainty related to COVID-19, credit quality, liquidity, interest rates, regulation, and market conditions."
+}

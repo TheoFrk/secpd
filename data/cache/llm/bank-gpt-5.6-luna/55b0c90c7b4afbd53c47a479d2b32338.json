@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "may be significantly affected",
+    "continue to monitor",
+    "offset by",
+    "sufficient availability"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but highlights persistent access-line declines, competitive pressure, regulatory uncertainty, a working-capital deficit, and substantial debt. Management presents bundling, broadband growth, operational efficiencies, and revolving-credit availability as mitigants, though several forward-looking claims rely on broad expectations rather than quantified targets."
+}

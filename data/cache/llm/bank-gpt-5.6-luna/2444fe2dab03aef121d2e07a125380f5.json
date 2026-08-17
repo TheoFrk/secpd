@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "numerous risks",
+    "believed to be reasonable",
+    "probable future recovery",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is generally factual and quantified, describing regulated operations, customer scale, expense changes, and accounting treatment. Risk disclosures are largely standard and prospective, emphasizing acquisition uncertainty, estimation risk, regulatory recovery assumptions, and potential adverse effects on financial condition. The overall tone is mildly confident due to stable utility characteristics and operating detail, but the excerpt is incomplete and includes limited discussion of downside magnitude."
+}

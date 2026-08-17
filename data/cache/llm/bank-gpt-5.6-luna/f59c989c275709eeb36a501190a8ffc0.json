@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "future events rarely develop exactly as forecasted",
+    "best estimates routinely require adjustment",
+    "most comprehensive solutions in the industry",
+    "highest returns"
+  ],
+  "risk_summary": "The excerpt is largely quantified and provides useful year-over-year operating detail, including revenue, margins, development costs, and restructuring impacts. Risk disclosure is present but substantially boilerplate, particularly around forward-looking statements and accounting estimates. The overall tone is cautiously positive, emphasizing growth, profitability goals, and operating improvements despite references to an operating loss and estimation uncertainty."
+}

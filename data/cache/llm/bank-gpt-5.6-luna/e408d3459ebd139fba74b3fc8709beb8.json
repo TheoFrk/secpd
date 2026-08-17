@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best-in-class",
+    "significant cash to shareholders",
+    "subject to market, regulatory and certain other conditions",
+    "actual results may differ",
+    "promising market opportunities"
+  ],
+  "risk_summary": "The disclosure is relatively precise, with extensive revenue, margin, cash flow, cost, and restructuring figures, but it includes promotional language and omitted table values. Key risks include declining revenue, foreign-exchange pressure, restructuring and separation costs, execution uncertainty around the planned business separation, and reliance on management estimates. Overall tone is cautiously confident rather than crisis-like."
+}

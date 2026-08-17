@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.55,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "special (gains) and charges",
+    "fixed currency exchange rates",
+    "significant margin",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with clear year-over-year results, leverage metrics, cash flow, and reconciliation references. Risk tone is predominantly confident, although reliance on adjusted measures, foreign-exchange normalization, Venezuelan deconsolidation, and goodwill valuation introduces interpretive and comparability risks."
+}

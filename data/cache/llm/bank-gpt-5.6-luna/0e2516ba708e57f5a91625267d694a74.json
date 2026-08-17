@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various clinical trials",
+    "potential therapeutic candidates",
+    "goal of restoring",
+    "long-term success must be considered"
+  ],
+  "risk_summary": "The excerpt provides substantial specific detail on products, clinical programs, regulatory milestones, debt extinguishments, and transaction amounts, but includes extensive boilerplate and forward-looking qualifications. Key risks include clinical holds and adverse events, reliance on accelerated approvals and FDA commitments, manufacturing dependence on third parties, commercialization uncertainty, and significant debt-related losses."
+}

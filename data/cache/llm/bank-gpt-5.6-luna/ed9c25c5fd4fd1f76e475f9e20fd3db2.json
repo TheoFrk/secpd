@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "not material or significant",
+    "could differ from estimates",
+    "significant estimates and assumptions",
+    "under certain circumstances",
+    "if events or changes in circumstances indicate"
+  ],
+  "risk_summary": "The excerpt is detailed and provides meaningful acquisition, accounting, cash flow, and credit-facility figures, but relies on management estimates and conditional language for receivables, inventory, contract profitability, goodwill, and fair values. Leverage covenants, acquisition financing, contingent consideration, and impairment sensitivity represent material credit-risk considerations, although the overall tone is operationally stable rather than crisis-like."
+}

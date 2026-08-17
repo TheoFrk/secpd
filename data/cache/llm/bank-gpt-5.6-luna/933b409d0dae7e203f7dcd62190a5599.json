@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "not possible for management to predict",
+    "may incur further impairments",
+    "difficult to predict",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on commodity prices, reserves, impairment testing, and liquidity sensitivity, but repeatedly relies on broad forward-looking disclaimers and includes incomplete or excerpted passages. Key risks are commodity-price volatility, reserve estimate revisions, potential future write-downs, constrained liquidity, and insufficient operating cash flow to sustain capital spending."
+}

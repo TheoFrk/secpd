@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "actual results may differ materially",
+    "subject to significant risks and uncertainties",
+    "customary representations, warranties and indemnification",
+    "repeated impairment methodology disclosure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, including financing proceeds, transaction terms, impairments, and project timelines, but relies on extensive forward-looking assumptions regarding feasibility, production, commodity prices, recoverable minerals, and capital costs. Liquidity appears improved through equity financings, although dilution, execution risk, PPP-loan forgiveness uncertainty, and material asset impairment risk remain significant. The duplicated impairment language and apparent February 11, 2020 date for a 2021 cash balance reduce precision and presentation quality."
+}

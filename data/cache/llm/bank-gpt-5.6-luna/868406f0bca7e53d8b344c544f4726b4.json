@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "actual results may differ",
+    "asset-light business model",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt presents a generally optimistic growth narrative based on diversification, energy-transition trends, acquisitions, and operating leverage, with some quantified segment results. Risk disclosure is largely generalized and boilerplate, while reliance on estimates, future expectations, acquisitions, cost pressures, and non-GAAP measures may limit transparency into underlying performance."
+}

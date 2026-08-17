@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information with respect to Item 7",
+    "annual report to shareholders",
+    "section entitled MD&A"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and defers entirely to another document. This limits transparency within the filing and prevents assessment of current operating, liquidity, or credit risks from the excerpt alone."
+}

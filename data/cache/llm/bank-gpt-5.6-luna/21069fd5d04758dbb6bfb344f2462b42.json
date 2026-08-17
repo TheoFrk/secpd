@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "certain liabilities",
+    "subject to working capital and other adjustments",
+    "impact considered provisional",
+    "may differ possibly materially",
+    "see Note for additional information"
+  ],
+  "risk_summary": "The excerpt provides substantial transaction-specific detail, including acquisition consideration, financing sources, dates, and revenue and net-income growth. Risk tone is moderately positive, but acquisition-related borrowing, assumed liabilities, related-party financing, and provisional tax estimates introduce meaningful uncertainty. The discussion is highly complex and includes some boilerplate qualification and reliance on cross-references."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management estimates and judgments",
+    "probable significant reversal will not occur",
+    "typically due within 30 to 60 days",
+    "variety of factors",
+    "truncated and disjointed excerpt"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes substantial accounting methodology and quantitative tax information, but relies on management estimates for contract costs, variable consideration, claims, and performance obligations. The primary credit risks are potential revenue and margin volatility from cost-to-cost accounting, disputed change orders, subcontractor pass-throughs, and joint-venture exposures. The excerpt is largely neutral in tone, although its length, jargon density, and truncation reduce transparency."
+}

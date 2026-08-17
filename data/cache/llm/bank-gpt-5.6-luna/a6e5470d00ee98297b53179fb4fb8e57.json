@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual amounts could differ from those estimates",
+    "probable and estimable",
+    "unresolved contract modifications and/or affirmative claims",
+    "may be canceled or modified",
+    "not materially adversely affected in the past"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, including quantified revenue and backlog data, but relies heavily on technical GAAP language and judgment-based thresholds. Key risks include economic cyclicality, public funding volatility, contract claims, variable consideration, and potentially cancellable backlog. Overall tone is balanced and mildly confident rather than crisis-like."
+}

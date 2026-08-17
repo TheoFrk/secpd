@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to remain",
+    "could range from",
+    "likely to remain weak",
+    "external economic factors",
+    "projected by IHS Automotive"
+  ],
+  "risk_summary": "The excerpt is generally detailed and includes substantial quantitative disclosure on costs, production, industry volumes, and excess capacity. It acknowledges meaningful macroeconomic, demand, credit, and overcapacity risks, but uses forecasts and broad external-factor language that limits precision regarding potential financial impact."
+}

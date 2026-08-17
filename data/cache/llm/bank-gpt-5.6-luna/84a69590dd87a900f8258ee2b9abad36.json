@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe competitive advantages",
+    "best-in-class",
+    "various assumptions that we believe to be reasonable",
+    "actual results may differ",
+    "complex revenue recognition requirements"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including revenue declines, operating results, cash flow, deferred revenue, divestiture proceeds, and restructuring costs. Risk is mixed: cash generation and margin improvement are positive, but the continuing-operations loss, declining revenue, foreign-currency exposure, restructuring activity, and judgment-heavy revenue recognition create meaningful uncertainty."
+}

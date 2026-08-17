@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "include, but are not limited to",
+    "the Company believes",
+    "primarily due to",
+    "some level of cannibalization"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively supported, reporting material declines in net sales, iPhone and iPad performance, foreign-exchange pressure, and significant debt and capital-return commitments. Risk disclosure is predominantly standardized boilerplate, with some causal explanations framed through qualifiers such as “primarily” and “believes.” Overall tone is balanced and transparent rather than crisis-like, but the sales declines and leverage-related obligations warrant monitoring."
+}

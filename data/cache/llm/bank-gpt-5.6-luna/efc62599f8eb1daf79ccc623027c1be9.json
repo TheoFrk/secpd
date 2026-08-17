@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "strategic decision",
+    "partially offset",
+    "non-GAAP",
+    "anticipated margin pressure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear year-over-year explanations for earnings, loan growth, deposits, expenses, and credit metrics. Risk tone is moderately positive, but management flags prospective deposit pricing and net interest margin pressure, alongside concentration and funding-related sensitivities. Repeated explanations and reliance on causal qualifiers modestly reduce clarity but do not appear materially evasive."
+}

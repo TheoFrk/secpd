@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that this will be the case",
+    "cannot be determined",
+    "expected to be generated",
+    "well-positioned",
+    "additional financing may be in the form of"
+  ],
+  "risk_summary": "The excerpt is substantially quantified regarding revenue, margins, debt terms, intercompany funding, and liquidity, but relies on uncertainty language around future working-capital needs and financing availability. Liquidity appears dependent on operating cash generation, borrowing capacity, and potential support from the parent, while the effective borrowing cost and intercompany obligations indicate elevated financing risk."
+}

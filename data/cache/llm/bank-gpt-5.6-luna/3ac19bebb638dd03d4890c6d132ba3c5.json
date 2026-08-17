@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "may differ materially",
+    "including without limitation",
+    "non-GAAP measures",
+    "future events could impact recovery"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, with detailed segment, margin, pricing, volume, currency, and impairment disclosures. Risk tone is cautiously positive, but elevated energy costs, margin compression, currency effects, COVID-19 restrictions, and geopolitical exposure to Russia and Ukraine remain material concerns. Standard safe-harbor and non-GAAP language introduces some boilerplate and limits interpretive clarity."
+}

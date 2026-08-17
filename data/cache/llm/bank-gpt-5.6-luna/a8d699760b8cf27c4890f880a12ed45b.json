@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "risks and uncertainties beyond control",
+    "many factors could affect results",
+    "primarily due to",
+    "expected uplift in demand"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, but includes standard forward-looking disclaimers and broad causal explanations. Risk tone is mixed: sales and operating cash flow declined and restructuring continued, while operating income improved through cost reductions and lower impairment charges."
+}

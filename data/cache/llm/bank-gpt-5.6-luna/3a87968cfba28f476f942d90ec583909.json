@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to significant change",
+    "materially different than originally reported",
+    "other external developments",
+    "does not assume any duty to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on deposits, borrowings, goodwill, and credit-loss methodology, but relies heavily on standard safe-h harbor language and broad, non-quantified risk categories. The principal credit-risk concerns are subjective allowance estimates, potential credit losses, merger integration uncertainty, and material goodwill exposure relative to equity."
+}

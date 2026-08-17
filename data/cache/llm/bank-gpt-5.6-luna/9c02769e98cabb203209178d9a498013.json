@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "if necessary",
+    "inherently rely heavily on estimates",
+    "actual resolution may differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including segment results, acquisition funding, sales drivers, margins, and contingent cash impacts. Risk tone is mildly negative because of declining sales volumes, agricultural-market weakness, foreign-exchange pressure, higher borrowings, and reliance on estimates for contingencies and tax assets. Boilerplate accounting language is present but does not materially obscure the main operating trends."
+}

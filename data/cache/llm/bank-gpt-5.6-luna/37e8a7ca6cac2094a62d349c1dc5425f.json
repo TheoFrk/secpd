@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Actual results could differ",
+    "due primarily to",
+    "certain conditions",
+    "whenever events or changes",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear explanations of sales, margins, expenses, taxes, and related-party exposures. Risk is moderate rather than crisis-like: same-store sales growth was minimal, expenses increased, and the business faces intense competition and narrow margins. The excerpt is truncated within the critical accounting policies section, limiting assessment of impairment assumptions and other potentially material judgments."
+}

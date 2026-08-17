@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management judgments and estimates",
+    "believed to be reasonable",
+    "preliminary results",
+    "likely additional restructuring costs",
+    "non-GAAP adjusted measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but relies on customary estimates, assumptions, and non-GAAP adjustments that may soften presentation of underlying performance. Risk tone is moderately negative due to reduced revenue volume, unrecovered overhead, net losses, restructuring needs, constrained borrowing availability, and extensive secured-credit covenants."
+}

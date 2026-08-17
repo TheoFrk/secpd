@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "slight decline",
+    "successfully integrated",
+    "expect to remain in compliance",
+    "could adversely impact"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, detailing revenue, margins, acquisitions, debt service coverage, and working capital changes. Risk is moderate: covenant compliance depends on sales volumes, customer credit quality, and borrowing-base eligibility, while acquisitions have increased borrowings and receivables. Overall tone is cautiously positive but includes meaningful downside scenarios."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and actual results could differ materially",
+    "we do not know what effect, if any",
+    "we believe",
+    "subject to market sentiment and volatility",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and identifies material pressure from AUM declines, substantial net outflows, revenue contraction, fee compression, competition, and regulatory uncertainty. Risk tone is moderately negative, although management presents diversification, proprietary products, and distribution expansion as mitigating strategies. Standard forward-looking disclaimers and repeated belief-based statements introduce some uncertainty but do not dominate the excerpt."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-exhaustive risk factors",
+    "actual results could differ materially",
+    "not possible to assess all effects",
+    "broad multi-factor risk enumeration",
+    "safe-harbor disclaimer"
+  ],
+  "risk_summary": "The excerpt is dominated by standardized forward-looking-statement disclaimers and a broad, non-quantified catalogue of potential risks, limiting company-specific risk transparency. It highlights substantial exposure to market, interest-rate, credit, regulatory, reinsurance, operational, and policyholder-behavior risks. The later actuarial discussion is technically specific but is incomplete and provides limited quantified sensitivity information."
+}

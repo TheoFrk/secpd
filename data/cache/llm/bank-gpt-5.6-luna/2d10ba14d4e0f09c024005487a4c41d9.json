@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Actual results can differ",
+    "material impact",
+    "inherent uncertainty",
+    "primarily due to",
+    "favorable claims experience"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed segment, margin, claims, and reserve information, limiting evasiveness. Tone is broadly positive due to strong revenue and earnings growth, while acknowledging estimation uncertainty, claims volatility, acquisition adjustments, and potential material impacts from reserve changes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "not necessarily indicative",
+    "non-GAAP financial measures",
+    "strategic restructuring costs"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, but relies on standard MD&A boilerplate and repeated causal qualifiers. Risk tone is mildly negative to neutral, reflecting a declining net interest margin and lower Commercial Banking PPNR, partly offset by loan, deposit, and investment-security growth."
+}

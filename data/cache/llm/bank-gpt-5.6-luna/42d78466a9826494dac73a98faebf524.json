@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "positive outlook",
+    "growth synergies",
+    "expect to continue",
+    "improved margins",
+    "non-GAAP constant currency"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, profitability, bookings, backlog, debt, currency effects, and dividends, limiting overall vagueness. Risk tone is cautiously positive, but revenue, operating income, net income, bookings, and backlog declined year over year, while projected growth and margin benefits rely on acquisitions, execution initiatives, and non-GAAP measures."
+}

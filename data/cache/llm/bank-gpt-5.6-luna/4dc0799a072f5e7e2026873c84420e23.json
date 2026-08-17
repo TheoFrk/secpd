@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "could adversely affect",
+    "depending on duration and severity",
+    "adequate to meet operating requirements"
+  ],
+  "risk_summary": "The disclosure provides meaningful operating and liquidity figures but relies heavily on standard forward-looking disclaimers and conditional language. It identifies material risks from COVID-19, tariffs, supplier disruption, customer consolidation, demand shifts, pricing pressure, and financing needs, with potentially negative effects on sales and profitability. Management maintains that working capital is adequate, but the pandemic outlook and duration of supply-chain disruption remain uncertain."
+}

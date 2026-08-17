@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "adjusted/non-GAAP performance measures",
+    "omitted current-year and prior-year item tables",
+    "material relative to pretax result",
+    "customer concentration disclosure",
+    "tax benefits and discrete items"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, but reported 2014 results include a pretax loss and rely substantially on tax benefits and adjusted non-GAAP measures to present improved earnings. Customer concentration, acquisition activity, increased debt levels, and incomplete table content represent notable credit-risk considerations."
+}

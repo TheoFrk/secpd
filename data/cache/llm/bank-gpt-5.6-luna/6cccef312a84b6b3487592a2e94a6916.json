@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "favorable market conditions",
+    "subject to customary purchase price adjustments",
+    "Adjusted EBITDA reconciliation reliance",
+    "not comparable to prior periods"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but performance comparisons are complicated by acquisitions, segment changes, and non-comparable periods. Despite improved adjusted profitability and operating metrics, the company reported a net loss, financing-termination losses, equity investment impairment, and dependence on favorable refining margins and lower crude prices."
+}

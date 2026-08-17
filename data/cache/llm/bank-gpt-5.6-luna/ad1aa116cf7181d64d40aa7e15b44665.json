@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "further analysis ... infeasible",
+    "primarily due to",
+    "not expected to have a material impact",
+    "we expect",
+    "amounts may not foot due to rounding"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting sales, earnings, cash flow, margins, leverage facilities, covenants, and tax impacts. Risk is moderated by declining operating earnings, higher fulfillment and compensation costs, provisional tax accounting, and reliance on favorable liquidity expectations, although management presents covenant compliance and funding access confidently."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimates routinely require adjustment",
+    "expected to have minimal impact",
+    "no material contractual obligations",
+    "sufficient ... for at least the next twelve months",
+    "there can be no assurance"
+  ],
+  "risk_summary": "The disclosure is heavily accounting- and compliance-oriented, with substantial boilerplate and reliance on management estimates, but it includes several concrete amounts and accounting-policy details. Liquidity appears manageable based on the stated 12-month outlook, although cash declined and the excerpt provides limited detail on downside scenarios, funding needs, or sensitivity to estimate changes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "subject to assumptions and uncertainties",
+    "matters beyond our control",
+    "incomplete debt discussion"
+  ],
+  "risk_summary": "The excerpt provides useful year-over-year revenue and expense quantification, including a 107% revenue increase, but relies heavily on repetitive forward-looking disclaimers and broad, non-specific risk language. The risk profile is moderately negative due to substantial consulting and non-cash expenses, financing costs, convertible notes, and dependence on a recently acquired product line, despite improved revenue and gross profit."
+}

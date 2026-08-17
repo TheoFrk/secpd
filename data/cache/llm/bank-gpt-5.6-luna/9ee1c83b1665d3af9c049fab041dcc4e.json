@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future results may differ",
+    "outside of our control",
+    "based upon assumptions",
+    "historically within expectations",
+    "diversified business model"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and useful quantitative metrics, but relies on standard forward-looking qualifiers and assumption-based estimates for returns, credit losses, inventory, and impairment. Key risks include concentrated component sourcing, global supply disruptions, customer bankruptcies, non-payment, charge-backs, and margin pressure from production costs and lower-margin channels."
+}

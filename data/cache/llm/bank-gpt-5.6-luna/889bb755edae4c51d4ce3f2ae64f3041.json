@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.45,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "carefully manage",
+    "selective in the lines of business",
+    "help us carefully manage",
+    "not significantly less than amortized cost"
+  ],
+  "risk_summary": "The disclosure is generally transparent and provides meaningful business-line, catastrophe, reserve, competitive, and investment-risk detail, including a quantified 18-year combined-ratio record. The tone is confident but acknowledges material exposure to catastrophe losses, casualty reserve uncertainty, inflation, economic downturns, market competition, and investment impairment. Some risk controls are described qualitatively without quantified limits, sensitivities, or modeled loss estimates."
+}

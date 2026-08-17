@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "cannot guarantee future results",
+    "expected to be adequate",
+    "additional financing may not be available",
+    "going concern uncertainty"
+  ],
+  "risk_summary": "The company reports early-stage operations, a net loss, limited revenue history, no bank financing, and reliance on additional equity or debt funding, creating meaningful liquidity and dilution risk. Management presents growth plans and market opportunities, but many conclusions depend on unproven physician adoption, reimbursement, scaling, and future financing. The extensive safe-harbor language and forward-looking claims reduce disclosure specificity regarding execution risks and sustainability."
+}

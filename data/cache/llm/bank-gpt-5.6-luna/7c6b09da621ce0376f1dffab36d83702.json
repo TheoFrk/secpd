@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance of anticipated orders",
+    "technical and schedule delays",
+    "significant customer concentration",
+    "may negatively impact timing",
+    "currently believes sufficient funding"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, with detailed backlog, customer concentration, operating results, cash flow, and spending data. It presents a moderately positive outlook but identifies material risks from defense spending dependence, technical delays, cost overruns, customer concentration, and order-conversion uncertainty. Liquidity is described as adequate, though operating cash flow appears exposed to working-capital fluctuations."
+}

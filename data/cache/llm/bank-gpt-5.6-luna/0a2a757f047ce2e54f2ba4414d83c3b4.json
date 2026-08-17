@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.04,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict with certainty",
+    "expect ... going forward",
+    "host of challenges and risks",
+    "highly subjective assumptions",
+    "subject to adjustments"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains revenue volatility, regulatory uncertainty, ongoing losses, covenant-related financing activity, and material warrant valuation sensitivity. Management uses an optimistic growth narrative despite dependence on MATS remaining effective, customer adoption, and future compliance volumes, while several forward-looking outcomes remain uncertain."
+}

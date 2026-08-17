@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "numerous factors including",
+    "may not be able to raise sufficient capital",
+    "inherently uncertain estimates",
+    "possible approval and additional funding"
+  ],
+  "risk_summary": "The disclosure identifies material regulatory, clinical, commercialization, financing, dilution, and liquidity risks, including a prior FDA Complete Response Letter and potential need to curtail operations if funding is unavailable. It provides some concrete milestones and accounting detail, but relies heavily on standard forward-looking disclaimers and contingent language, with limited quantified liquidity or financing sensitivity information."
+}

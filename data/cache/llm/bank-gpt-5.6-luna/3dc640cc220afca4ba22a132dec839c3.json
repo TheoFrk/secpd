@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks cannot be readily quantified",
+    "including but not limited to",
+    "management believes",
+    "subject to uncertainties",
+    "outside of management's control"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on broad forward-looking disclaimers and unquantified risks, although it includes some specific historical financial figures. The tone is neutral to mildly cautious, with no clear indication of an acute crisis but meaningful exposure to credit, interest-rate, liquidity, regulatory, and economic risks."
+}

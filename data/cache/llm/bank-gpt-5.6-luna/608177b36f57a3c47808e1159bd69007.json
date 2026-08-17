@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.23,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary factors",
+    "non-GAAP measure reconciliations",
+    "management estimates and assumptions",
+    "potential earnout obligations",
+    "expected future performance projections"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes meaningful revenue, segment, geographic, and accounting figures, but relies substantially on forward-looking expectations and management estimates. Key risks include insurance-market cyclicality, alternative-market substitution, acquisition execution, valuation of earnouts, and dependence on projected clean-energy tax benefits."
+}

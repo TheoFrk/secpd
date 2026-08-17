@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks, uncertainties, assumptions and other factors",
+    "could negatively impact our results",
+    "reasonably likely to impact",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides broad disclosure of supply-chain, inflation, inventory, backlog, integration, geopolitical, regulatory, and pandemic risks, but many impacts remain unquantified and are framed through extensive forward-looking disclaimers. Management expresses confidence in restructuring and transformation initiatives, while acknowledging that persistent cost pressures and normalization of demand could weaken results. Debt-servicing capacity depends on subsidiary dividends and may be constrained by statutory or regulatory limitations."
+}

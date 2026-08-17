@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "projected cash balances are sufficient",
+    "if sales or cash collections are reduced",
+    "depends primarily on operating cash flow",
+    "clinically validated, industry-leading",
+    "significant judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and liquidity information, including revenue growth and cash balances, but relies on management projections and conditional language regarding future cash sufficiency. Continued equity issuance and dependence on improved operating cash flow indicate financing and execution risk, despite a generally positive business-performance narrative."
+}

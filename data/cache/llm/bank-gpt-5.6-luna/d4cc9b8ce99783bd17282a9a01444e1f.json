@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "predominantly a function of",
+    "other qualitative and quantitative factors",
+    "other factors which could affect",
+    "notable contributions",
+    "see additional discussion under sections"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified credit-risk data, including provisions, charge-offs, allowance levels, and nonaccrual ratios, with several metrics improving year over year. However, discussion of reserve methodology relies on broad qualitative factors and the excerpt omits the referenced tables and subsequent detail. Overall tone is neutral to mildly confident rather than crisis-like."
+}

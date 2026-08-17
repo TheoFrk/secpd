@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.53,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "limited sources of liquidity",
+    "current and anticipated future demand",
+    "we believe",
+    "unobservable inputs and internal market assumptions"
+  ],
+  "risk_summary": "The excerpt combines quantified revenue and financing disclosures with extensive forward-looking and cautionary boilerplate. Liquidity is explicitly described as limited, while growth expectations depend on numerous markets, contracts, and development initiatives. Accounting estimates and Level 3 valuation inputs introduce additional judgment and uncertainty."
+}

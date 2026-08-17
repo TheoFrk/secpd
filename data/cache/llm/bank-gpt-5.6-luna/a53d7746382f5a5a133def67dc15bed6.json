@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "approximately",
+    "likely to have continuing effects",
+    "could materially impact",
+    "unrealized gains on marketable securities"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, showing substantial revenue and profitability improvement, but reported earnings are materially influenced by volatile unrealized investment gains. Key risks include government procurement delays, implementation cancellations, customer concentration, rising interest expense, and uncertainty around future tax consequences."
+}

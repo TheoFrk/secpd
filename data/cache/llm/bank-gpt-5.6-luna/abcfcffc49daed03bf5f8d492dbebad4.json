@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ significantly",
+    "assumes no obligation to update",
+    "incorporated herein by reference",
+    "inherently uncertain matters"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate combined with detailed business descriptions and some quantified historical performance. Risk disclosure is broad rather than specifically quantified, relying on incorporated risk factors and standard forward-looking-statement disclaimers. Overall tone is confident and growth-oriented, but acknowledges competitive pressure, pricing risk, estimation uncertainty, and potential material variance from assumptions."
+}

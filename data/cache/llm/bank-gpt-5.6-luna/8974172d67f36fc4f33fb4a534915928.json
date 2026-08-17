@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not measures under GAAP",
+    "should not be considered in isolation",
+    "subject to customary closing conditions",
+    "excluding transaction and integration expenses"
+  ],
+  "risk_summary": "The excerpt is largely detailed and quantitatively supported, with clear segment, revenue-mix, operating-cost, and acquisition disclosures. Boilerplate non-GAAP and forward-looking-statement disclaimers add some repetition, while exclusions for acquisition, litigation, and integration costs may complicate comparability. Overall tone is operationally confident but acknowledges weather, economic, geopolitical, seasonal, and transaction-closing risks."
+}

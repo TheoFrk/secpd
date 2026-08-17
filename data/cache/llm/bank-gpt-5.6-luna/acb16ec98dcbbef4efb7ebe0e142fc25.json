@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurance of future financing",
+    "if unable to obtain adequate capital",
+    "plans to address as needed",
+    "eventual profitable operations"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but it clearly identifies substantial going-concern risk, persistent losses, minimal revenue, significant cash burn, and dependence on external financing. Failure to secure funding could delay clinical and regulatory milestones or force the company to discontinue operations."
+}

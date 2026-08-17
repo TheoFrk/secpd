@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.72,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "foreseeable future",
+    "if any",
+    "usual and customary",
+    "not able to reasonably estimate"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive financial and liquidity profile, supported by quantified growth, substantial operating cash flow, no debt, and covenant compliance. Disclosure is generally specific, but includes substantial boilerplate, promotional language, and some forward-looking or difficult-to-quantify statements. Key residual risks include interest-rate sensitivity, investment impairment, insurance-related letters of credit, and uncertain timing of tax-related cash flows."
+}

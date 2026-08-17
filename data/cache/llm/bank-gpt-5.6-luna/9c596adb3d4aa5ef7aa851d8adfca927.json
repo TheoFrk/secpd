@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "no obligation to update",
+    "not possible to predict all risks",
+    "based on management estimates"
+  ],
+  "risk_summary": "The excerpt contains extensive statutory safe-h harbor and forward-looking-risk boilerplate, with repeated disclaimers that future results may differ materially and that risks cannot be fully predicted. Accounting estimates for receivables, inventory, goodwill, and fair value introduce material judgment and potential for future charges, although some assumptions and reserve horizons are quantified. Operating results are described positively, but price reductions, weaker Hybrid demand, customer concentration, economic deterioration, and impairment sensitivity create downside risk."
+}

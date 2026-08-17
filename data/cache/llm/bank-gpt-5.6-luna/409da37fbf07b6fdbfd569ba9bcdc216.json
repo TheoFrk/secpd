@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "actual results could differ materially",
+    "other similar words",
+    "factors noted throughout this Form 10-K",
+    "no obligation to update or revise"
+  ],
+  "risk_summary": "The excerpt presents strong revenue, operating income, and EBITDA growth with detailed quantitative comparisons, producing a generally positive operating tone. Key risks include dependence on energy-sector spending, commodity prices, weather, contract timing or cancellation, competition, and capital availability. The forward-looking disclaimer language is substantially boilerplate and limits predictive certainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to occur",
+    "based on current foreign currency exchange rates",
+    "partially offset by",
+    "comparability among the years",
+    "substantial international components"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively detailed, including revenue, foreign-exchange sensitivity, hedging coverage, debt exposure, and acquisition impacts. Risk is moderated by positive operating expectations, but currency volatility, acquisition execution, leverage, and comparability adjustments create material uncertainties. The excerpt contains substantial standard MD&A boilerplate and complex accounting terminology, though it is not overtly evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "confidential settlement agreement",
+    "complex merger termination terms",
+    "principal due on demand"
+  ],
+  "risk_summary": "The excerpt is relatively specific and well quantified, but contains substantial legal and safe-h harbor boilerplate and highly complex transaction descriptions. Risk is elevated by recurring net losses, operating cash burn, reliance on financing, failed merger funding, and debt that is payable on demand with higher default interest."
+}

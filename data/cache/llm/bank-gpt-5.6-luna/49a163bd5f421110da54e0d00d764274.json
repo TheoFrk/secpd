@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "to a lesser extent",
+    "partially offset by",
+    "not measurements determined in accordance with GAAP",
+    "percentages may not add due to rounding"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear discussion of sales declines, refranchising, commodity-cost inflation, wage pressure, and restructuring charges. The tone is balanced and explanatory rather than crisis-like, though favorable offsets and operational strategy framing temper the disclosed risks."
+}

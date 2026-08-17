@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results will inevitably differ",
+    "whenever conditions warrant",
+    "not possible to predict",
+    "may materially adversely affect",
+    "all available information"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified regarding historical results, pension assumptions, contributions, and debt terms, with a moderately optimistic outlook driven by acquisitions and new products. Risk discussion is largely standard accounting-policy language and highlights estimation uncertainty, pension sensitivity, customer collectability, inventory impairment, and LIBOR transition exposure. The incomplete ending and extensive conditional phrasing limit assessment of the full risk profile."
+}

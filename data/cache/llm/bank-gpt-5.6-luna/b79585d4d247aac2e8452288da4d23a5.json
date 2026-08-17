@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management has not been able to conclude",
+    "could not be assured of collection",
+    "no information concerning current economic conditions",
+    "if the Facility becomes idle",
+    "depend on future earnings and financial performance"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, particularly regarding long-term lease receivables and collection timing, but relies on management judgment about collectability and future appraisal outcomes. Key risks include substantial deferred lease receivables, limited visibility into tenant financial condition, potential facility idling, and dividend uncertainty. Overall tone is cautious but not crisis-like, with management asserting adequate cash flow for ordinary obligations."
+}

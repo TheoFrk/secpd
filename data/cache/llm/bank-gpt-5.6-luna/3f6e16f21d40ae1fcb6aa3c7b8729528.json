@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "partially offset by",
+    "approximately",
+    "de minimis",
+    "certain major oil refineries"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with segment-level revenue figures and specific explanations for operating performance. Risk factors include project losses, labor strikes, crude-oil-price volatility, reduced capital spending, competitive pricing pressure, and margin deterioration in certain segments. The overall tone is mildly positive because record revenue and diluted EPS are emphasized, although performance was uneven across segments."
+}

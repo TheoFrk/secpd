@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to increase",
+    "industry-leading expertise",
+    "Adjusted EBITDA exclusions",
+    "non-GAAP limitations",
+    "prospective net cash flow from operations"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on debt, cash, liquidity sources, and covenant-related Adjusted EBITDA, but relies heavily on promotional transformation language and extensive non-GAAP definitions. Leverage, capital intensity, reliance on prospective operating cash flow, and numerous EBITDA adjustments indicate material financial risk despite a generally optimistic strategic tone."
+}

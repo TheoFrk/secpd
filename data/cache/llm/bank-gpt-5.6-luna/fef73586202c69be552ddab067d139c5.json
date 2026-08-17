@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "award-winning and best-in-class",
+    "could result in lower revenues",
+    "we do not believe such a loss",
+    "text appears truncated"
+  ],
+  "risk_summary": "The excerpt combines quantified operating results and transaction terms with promotional, non-quantified claims about competitive advantages and market growth. Key risks include product and channel concentration, lengthy implementation cycles, competition, fraud, cybersecurity threats, and potential dilution, while some adverse impacts are framed conditionally. The text is lengthy and partially truncated, limiting assessment of the full risk disclosure."
+}

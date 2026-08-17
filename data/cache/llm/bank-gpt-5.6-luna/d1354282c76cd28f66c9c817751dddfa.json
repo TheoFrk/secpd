@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly subjective assumptions",
+    "actual results could differ",
+    "appropriate discount rate",
+    "uncertainty in estimating loan losses",
+    "if circumstances warrant"
+  ],
+  "risk_summary": "The excerpt is technically detailed and references specific accounting standards, but relies heavily on management judgments, estimates, and conditional language around credit losses, fair values, and impairment. Risk tone is cautious and largely neutral, with meaningful exposure to loan performance, acquisition accounting, FDIC indemnification, and valuation assumptions."
+}

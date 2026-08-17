@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "significant variables assumed",
+    "actual amounts incurred may exceed",
+    "a variety of factors",
+    "may have inadvertently generated",
+    "uncertain tax position"
+  ],
+  "risk_summary": "The excerpt discloses a material tax and remediation exposure with a wide probability-weighted range of $6.0 million to $52.5 million net of tax versus a $10.0 million reserve, and explicitly notes that actual costs could exceed the high end. Operating risk is also elevated by declining policy issuance and premiums, low interest-rate sensitivity, regulatory uncertainty, and potential reinsurance constraints, although much of the surrounding discussion is standard insurance-industry boilerplate."
+}

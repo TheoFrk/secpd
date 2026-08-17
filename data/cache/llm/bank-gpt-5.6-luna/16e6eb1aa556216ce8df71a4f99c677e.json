@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor disclaimer",
+    "risks and uncertainties cannot be predicted or quantified",
+    "not able to pass through all fuel price increases",
+    "adequate liquidity to meet projected needs",
+    "unsuccessful auction-rate securities auctions"
+  ],
+  "risk_summary": "The disclosure provides substantial operating and financial quantification, but extensive forward-looking disclaimers and recurring management-belief language reduce specificity. Key risks include driver shortages, elevated fuel costs, limited fuel-cost pass-through, higher future tax payments, and liquidity constraints affecting auction-rate investments, although the debt-free balance sheet and strong profitability support a generally stable tone."
+}

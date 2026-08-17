@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of future cash flow",
+    "difficult to predict future impairment",
+    "inherently imprecise reserve estimates",
+    "risks beyond our control"
+  ],
+  "risk_summary": "The disclosure contains substantial quantified operating, reserve, price, and expense data, but is heavily surrounded by standard forward-looking disclaimers and broad uncertainty language. Key risks include commodity-price declines, reserve revisions, impairment/write-down exposure, constrained liquidity, and potential need for external financing. The overall tone is materially cautious and highlights sensitivity to factors outside management’s control."
+}

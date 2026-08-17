@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "estimated future demand",
+    "geopolitical uncertainties",
+    "variable consideration",
+    "opted to not disclose"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue growth, acquisition contribution, and accounting treatment, but relies on estimates and assumptions for revenue recognition, receivables, inventory, and variable consideration. Semiconductor cyclicality, weaker utilization, trade tensions, and customer spending volatility are acknowledged, while the long-term outlook remains cautiously optimistic. Disclosure of unsatisfied performance obligations is omitted under the short-duration exemption."
+}

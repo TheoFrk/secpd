@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "approximately",
+    "we expect",
+    "subject to market conditions and other factors",
+    "at our discretion",
+    "for various reasons"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitatively supported, with detailed year-over-year operating, cash flow, margin, inventory, and store metrics. Risk tone is confident and growth-oriented, although forward guidance depends on comparable-store sales, margin stability, expense leverage, real-estate conditions, seasonality, and discretionary share repurchases."
+}

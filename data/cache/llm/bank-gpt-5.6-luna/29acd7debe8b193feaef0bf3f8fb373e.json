@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "difficult to predict",
+    "historical trends not necessarily reflective",
+    "partly offset by"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, but contains substantial standard forward-looking disclaimer language and some complex, highly nested explanations. Risk tone is mildly negative due to a 15.9% decline in net income, lower capital ratios, higher credit-loss provisions, and deterioration in non-performing assets, although charge-offs and shareholder returns remained favorable."
+}

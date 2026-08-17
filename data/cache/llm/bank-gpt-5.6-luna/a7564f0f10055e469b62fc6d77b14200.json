@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate of the selling price",
+    "may not be able to reliably predict",
+    "could adversely affect",
+    "under different assumptions or conditions",
+    "historically within our expectations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitative, with clear discussion of acquisitions, geographic exposure, accounting judgments, receivables, warranties, and restructuring. It identifies meaningful risks from contract-performance timing, customer credit quality, currency movements, and estimation uncertainty, but uses standard forward-looking caveats and is highly technical. Overall tone is balanced to mildly confident rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "likely to",
+    "cautiously optimistic",
+    "possible contagion effects",
+    "somewhat offset"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed market, segment, and program-level explanations of performance. Forward-looking statements rely on assumptions about economic recovery, defense spending, demand, and geopolitical conditions, while acknowledging volatility and program delays or cancellations. Overall tone is moderately positive but tempered by identifiable macroeconomic and defense-budget risks."
+}

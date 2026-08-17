@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "favorable product mix",
+    "timing of large orders",
+    "general business risks",
+    "qualitative and quantitative analysis"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with a positive operating trend, materially lower interest expense, and improved operating income. Offsetting risks include ERP implementation inefficiencies, reduced backlog, customer-specific doubtful-account exposure, restructuring activity, and substantial reliance on deferred-tax valuation allowance releases. The presentation is technically dense and includes some broad qualitative explanations for performance changes."
+}

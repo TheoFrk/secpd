@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "could differ from estimates",
+    "future cash flow projections",
+    "potential events or circumstances",
+    "not practical to estimate"
+  ],
+  "risk_summary": "The excerpt is detailed and materially quantified, but relies on management assumptions for fair values, goodwill impairment, pensions, and tax exposures. It reports no goodwill impairment and debt repayments, while acknowledging sensitivity to economic downturns and uncertainty around undistributed foreign earnings and valuation estimates."
+}

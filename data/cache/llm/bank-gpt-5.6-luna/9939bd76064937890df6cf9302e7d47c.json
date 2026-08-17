@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results are likely to differ materially",
+    "subject to precautionary statements",
+    "ultimate timing and substance unknown",
+    "could result in material losses",
+    "estimated ... can vary"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but contains substantial forward-looking uncertainty around market volatility, annuity guarantees, hedging effectiveness, tax regulations, and sales trends. Management identifies potentially material losses and capital impacts while using standard safe-harbor and estimation language; the tone is cautious and risk-aware rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to numerous assumptions, risks and uncertainties",
+    "including, but not limited to",
+    "other factors, all of which change over time",
+    "actual results may differ materially",
+    "forward-looking statements disclaimer"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified regarding earnings, balance-sheet growth, margins, credit losses, nonaccrual loans, and charge-offs. Risk tone is cautiously positive, but credit deterioration, commercial real estate exposure, deposit repricing, regulatory costs, and banking-industry uncertainty are identified as meaningful risks. The extensive standardized forward-looking disclaimer adds boilerplate and limits specificity regarding potential downside magnitude."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "specified closing conditions",
+    "known and unknown liabilities",
+    "could involve significant costs",
+    "actual results could differ"
+  ],
+  "risk_summary": "The excerpt is largely factual and provides meaningful operational detail, including customer counts, business segments, regulatory context, and transaction terms. Risk disclosures emphasize acquisition, integration, financing, regulatory approval, estimation, and execution uncertainties, but many risks are presented in broad boilerplate language. The regulated utility profile supports a relatively stable tone, although the pending transaction and drought-related impacts introduce uncertainty."
+}

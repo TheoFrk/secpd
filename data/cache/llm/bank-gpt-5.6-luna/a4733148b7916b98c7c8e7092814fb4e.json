@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "does not anticipate",
+    "could have a material adverse impact",
+    "key focus area",
+    "continue to look for opportunities"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, covering sales, costs, debt capacity, covenant compliance, ratings, and interest-rate sensitivity. Tone is moderately confident, supported by reported operating improvements and stable credit outlooks, while acknowledging commodity, execution, liquidity, and refinancing risks. Some explanations rely on standard MD&A qualifiers and omit the underlying tables in the provided excerpt."
+}

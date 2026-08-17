@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "including but not limited to",
+    "unclear when shortages will subside",
+    "future increases in raw material costs",
+    "non-U.S. GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, with clear explanations of shipment, revenue, cost, foreign exchange, and interest changes. Risk tone is moderately negative due to semiconductor shortages, geopolitical disruption, inflation, production volatility, and potential cash-flow pressure, although the discussion remains factual rather than crisis-like. Boilerplate forward-looking disclaimers and reliance on non-GAAP measures modestly reduce transparency."
+}

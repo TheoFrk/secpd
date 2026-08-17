@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to be approximately",
+    "deemed reasonable by management",
+    "inherently uncertain",
+    "significant judgment is required",
+    "unanticipated market or macroeconomic events"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding revenue, margins, expenses, acquisition costs, debt refinancing, and tax rates. Risk tone is moderately positive due to projected growth and margin expansion, but acquisition integration, higher debt costs, foreign exchange, tax variability, and valuation-estimate uncertainty remain material concerns."
+}

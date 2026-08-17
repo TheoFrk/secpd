@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "without limitation",
+    "continued low rate environment",
+    "qualitative factors",
+    "more complete discussion",
+    "text truncation and malformed section"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed year-over-year drivers for earnings, loans, deposits, and interest income. Risk indicators include declining net income, sharply higher loan-loss provision expense, net interest margin compression, suspended common dividends, and exposure to local economic and interest-rate conditions. Repetition and technical banking terminology moderately reduce readability, while the truncated estimates section limits completeness."
+}

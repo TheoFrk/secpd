@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "material adverse impact",
+    "significant judgment exists",
+    "various legal proceedings",
+    "subject to ... assumptions and judgments"
+  ],
+  "risk_summary": "The excerpt provides useful quantified earnings, book value, and specific business-driver information, but relies heavily on standard uncertainty language around insurance reserves, valuation, reinsurance collectibility, litigation, and long-tail claims. The holding-company structure and dependence on subsidiary distributions create liquidity and creditor-subordination risks, while actuarial and fair-value estimates could materially affect reported equity and earnings."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "cannot be reasonably estimated",
+    "could materially adversely affect",
+    "subject to numerous factors",
+    "additional financing if required"
+  ],
+  "risk_summary": "The disclosure highlights material uncertainty from COVID-19-related disruptions, licensee dependence, commercialization risk, and insufficient revenue to fully fund operations. It relies substantially on boilerplate forward-looking language and broad contingencies, while providing limited quantified forecasts or sensitivity analysis. Accounting estimates and royalty collectability also introduce earnings and cash-flow variability."
+}

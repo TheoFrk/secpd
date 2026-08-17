@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot promise expectations will be correct",
+    "various factors",
+    "unable to state with certainty",
+    "non-GAAP supplemental measures"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and emphasizes forward-looking statement limitations, regulatory safe harbors, and non-GAAP presentation caveats. It identifies credit, interest-rate, growth, regulatory, and real-estate concentration risks, with commercial real-estate-related loans representing 36.1% of total loans at year-end 2014. Quantitative detail is present, but the excerpt is truncated and provides limited direct assessment of current deterioration or loss exposure."
+}

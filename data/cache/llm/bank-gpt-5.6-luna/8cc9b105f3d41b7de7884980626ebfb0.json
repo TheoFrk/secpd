@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP \"base\" measures",
+    "projected growth targets",
+    "not expected to be material",
+    "inability to fully recover costs",
+    "anticipated growth from new business"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with strong operating performance and explicit disclosure of debt, pension, customer-loss, cost-inflation, and impairment impacts. Risk tone is predominantly positive, but reliance on non-GAAP measures and optimistic forward targets introduces some presentation and execution risk."
+}

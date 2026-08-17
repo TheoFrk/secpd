@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "net effects of",
+    "primarily due to",
+    "beyond our control",
+    "could be unfavorably affected",
+    "generally as a result of"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful segment, volume, pricing, margin, and currency detail, supporting relatively strong disclosure quality. However, repeated causal language, omitted detail after several “net effects of” references, and reliance on broad external factors create moderate uncertainty. The tone is cautiously positive, reflecting improved 2021 performance while acknowledging COVID-19, input-cost, currency, demand, and competitive risks."
+}

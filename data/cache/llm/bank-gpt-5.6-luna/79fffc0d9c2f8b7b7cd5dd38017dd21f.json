@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "impact not knowable at this time",
+    "no assurance can be given",
+    "does not address specific COVID-19 impact"
+  ],
+  "risk_summary": "The excerpt presents significant liquidity, operating, financing, litigation, covenant, client concentration, and pandemic-related risks, including a 32% decline in payroll hours, potential revenue decline of 50% or more, factoring constraints, employee furloughs, and pay cuts. Risk disclosure is extensive but heavily boilerplate and repeatedly relies on broad uncertainty disclaimers, while the pandemic’s specific financial effects are partly excluded from the analysis. The overall tone is materially negative, despite management’s expectation of a temporary rebound."
+}

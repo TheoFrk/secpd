@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "plans to",
+    "expects to",
+    "if successful",
+    "could have a material effect",
+    "best information available"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and clinical detail, including study stages, endpoints, timelines, and regulatory pathways, but several development milestones remain contingent on successful studies and approvals. Key risks include unresolved bioequivalence criteria, reliance on projected taxable income and deferred tax assumptions, and potential differences between estimates and actual results. Overall tone is cautiously positive and growth-oriented rather than crisis-like."
+}

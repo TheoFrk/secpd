@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance",
+    "substantial doubt about going concern",
+    "continues to work with the broker",
+    "extent ... is unknown",
+    "believes this Agreement is no longer in effect"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk, including minimal cash, $8.2 million of payables and accrued expenses, recurring losses, no operations since 2000, and dependence on uncertain financing, asset sales, or joint-venture funding. It provides meaningful quantitative detail but repeatedly relies on uncertain alternatives and unverified assumptions, including continued work under an expired brokerage agreement and uncertainty regarding legacy contractual obligations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management’s estimate of realizability",
+    "decline in value that is other than temporary",
+    "sufficient liquidity ... foreseeable future",
+    "no assurance that appropriate opportunities will arise",
+    "principal versus agent assessment"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on revenue recognition and includes specific cash flow, investment impairment, and capital allocation amounts, but relies on management judgment and forward-looking assurances. Key risks include valuation uncertainty for private investments, reliance on projected customer payments, working-capital requirements, and complex contract-performance assessments."
+}

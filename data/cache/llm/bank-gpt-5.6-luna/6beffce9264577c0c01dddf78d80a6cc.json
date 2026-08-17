@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot forecast with any certainty",
+    "cannot predict with any certainty",
+    "virtually any kind or nature",
+    "currently evaluating the effect, if any",
+    "rely upon information we uncover"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but highlights significant uncertainty from Covid-19, reliance on shareholder advances and private placements, negative operating cash flow, and a sizable acquisition prepayment. Reported profitability and working-capital improvement are heavily offset by weak liquidity, dependence on external funding, regulatory exposure, and limited product-efficacy validation."
+}

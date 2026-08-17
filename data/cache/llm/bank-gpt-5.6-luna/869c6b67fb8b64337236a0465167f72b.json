@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures not comparable",
+    "certain other items may be excluded",
+    "gradually grow revenue",
+    "may be misleading",
+    "strongly encourage investors"
+  ],
+  "risk_summary": "The excerpt is generally transparent about segment definitions, comparable-sales methodology, and non-GAAP adjustments, but is lengthy and contains substantial boilerplate. Reliance on management-defined measures and discretionary exclusions may complicate comparability and could present performance more favorably than GAAP results. The overall tone is cautiously confident, emphasizing completed transformation initiatives and growth objectives."
+}

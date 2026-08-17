@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "risks and uncertainties",
+    "including but not limited to",
+    "expected timing and likelihood",
+    "subject to regulatory approvals"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and an extensive list of broad, largely unquantified risks spanning regulation, projects, markets, operations, climate, and financing. Some operating results are quantified, including a 61% decline in net income, but the excerpt provides limited context on probability, magnitude, or mitigation of the enumerated risks."
+}

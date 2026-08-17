@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "continued strength in demand",
+    "actual results may differ materially",
+    "non-GAAP financial measure",
+    "statistical models to estimate"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, including revenue, expense, disruption, cash flow, liquidity, and debt figures. Risk tone is broadly positive, but the CrowdStrike outage, increased costs, non-operating volatility, leverage-related cash outflows, and estimation uncertainty in the loyalty program remain notable risks."
+}

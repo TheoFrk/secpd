@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to known and unknown risks",
+    "including, but not limited to",
+    "primarily due to",
+    "substantial indebtedness",
+    "future results, performance and achievements"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear year-over-year segment, margin, cash flow, and interest-rate information. Risk tone is balanced but slightly negative because revenue was essentially flat, operating cash flow declined materially, Assembly Components weakened, and the company highlights substantial indebtedness and broad macroeconomic and supply-chain exposures. The extensive forward-looking risk-factor language is largely standard boilerplate rather than evidence of targeted concealment."
+}

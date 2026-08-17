@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "management believes",
+    "reasonably assured",
+    "may not continue",
+    "significantly impact",
+    "reasonably successful"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including customer concentration, China-related sales interruption, competition, margins, credit losses, and liquidity metrics. Risk tone is mixed but mildly positive because strong operating cash flow and working capital are emphasized despite meaningful customer, geographic, regulatory, inventory, and supplier risks. Some standard management-judgment language and forward-looking estimates limit precision around potential losses and future performance."
+}

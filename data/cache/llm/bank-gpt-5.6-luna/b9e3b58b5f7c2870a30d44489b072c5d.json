@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "ability to successfully manage",
+    "risks and uncertainties",
+    "without limitation",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt combines precise historical performance data with extensive boilerplate forward-looking disclaimers and broadly framed risks. It identifies meaningful exposures across foreign exchange, geopolitical conditions, supply chains, regulation, technology, and cost inflation, but generally provides limited probability, sensitivity, or quantified downside analysis. Overall tone is mildly confident due to reported earnings growth, tempered by substantial uncertainty language."
+}

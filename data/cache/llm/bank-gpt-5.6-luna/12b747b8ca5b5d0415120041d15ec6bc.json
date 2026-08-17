@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "not possible to predict all risks",
+    "visibility into future demand is generally limited",
+    "based on best estimate and projections"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking and safe-h harbor disclaimers, with repeated language limiting responsibility for forecast accuracy and updates. It acknowledges substantial semiconductor cyclicality, seasonality, macroeconomic exposure, limited demand visibility, and estimation risk in inventory and goodwill assessments, although liquidity and strategic positioning are presented positively."
+}

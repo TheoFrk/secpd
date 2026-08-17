@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "actual results could differ materially",
+    "without limitation",
+    "anticipated decline in SMB revenues"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed segment, revenue, EBIT, cash flow, tax, and operating drivers. Risk tone is cautious, reflecting declining mail volumes, delayed equipment purchases, revenue and EBIT declines, and uncertainty in the economic environment, although management presents mitigation and growth initiatives. Boilerplate forward-looking disclaimers and extensive technical structure moderately reduce transparency but do not appear strongly evasive."
+}

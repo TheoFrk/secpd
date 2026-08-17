@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unpredictable and beyond our control",
+    "may be impacted positively or negatively",
+    "not meaningful",
+    "adjusted non-GAAP measures",
+    "would likely have a negative impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, reporting strong revenue, earnings, capital return, and profitability growth. Risk exposure is primarily tied to market conditions, interest rates, client cash balances, credit trends, and reliance on adjusted non-GAAP metrics. The tone is confident overall but acknowledges potentially adverse sensitivity to rate declines and market changes."
+}

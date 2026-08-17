@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "management believes accounts receivable are collectible",
+    "minimal adverse effect",
+    "adequate for expected resource requirements",
+    "actual results may differ materially",
+    "among other factors"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and specific, but highlights weakening liquidity, a larger net loss, declining cash and working capital, customer concentration, and elevated inventory requirements. Management characterizes liquidity and collectability risks favorably, although these conclusions rely on judgment and include limited sensitivity analysis."
+}

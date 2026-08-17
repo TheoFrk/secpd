@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "historically generated substantial earnings and cash flow",
+    "primarily reflecting",
+    "if risks ... cannot be mitigated",
+    "further pressures on program profitability",
+    "could face additional ... reach-forward loss"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified year-over-year financial detail and identifies specific program, production, supplier, litigation, pension, and accounting risks. However, broad strategic claims and conditional mitigation language partially dilute the severity and immediacy of risks, particularly for the 787 program, where additional charges or a reach-forward loss remain possible."
+}

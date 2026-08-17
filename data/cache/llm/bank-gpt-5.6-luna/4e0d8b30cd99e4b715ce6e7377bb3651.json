@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various risks and uncertainties",
+    "no assurance",
+    "future assumptions",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on impairment testing, valuation sensitivities, restricted cash, goodwill write-off, and pension funding obligations. Risk is elevated by COVID-related cash constraints, a goodwill impairment, dependence on long-term lease assumptions, and the absence of assurance regarding required pension contributions, although much of the cautionary language is standard boilerplate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "vary greatly",
+    "other factors will also influence",
+    "could change significantly",
+    "difficult to predict",
+    "no assurances actual results will not differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, highlighting profitability, capital strength, credit quality, revenue, earnings, and deposit metrics. Risk factors include declining net income, deposit attrition, freight-sector weakness, interest-rate sensitivity, and substantial uncertainty in the allowance for credit losses. Overall tone is cautiously positive, supported by strong capital and liquidity, but tempered by operating and estimation risks."
+}

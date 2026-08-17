@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potential closure proposals",
+    "significant judgment involved",
+    "may change as facts become known",
+    "non-GAAP adjustments",
+    "subject to consultation processes"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies material deterioration in margins, operating income, interest expense, and EPS, alongside $27.8 million of portfolio optimization costs. Key uncertainties include proposed facility and position closures, tax estimates, inventory valuation judgments, and litigation exposures. The tone is factual but modestly negative because reported profitability weakened and restructuring actions remain in progress."
+}

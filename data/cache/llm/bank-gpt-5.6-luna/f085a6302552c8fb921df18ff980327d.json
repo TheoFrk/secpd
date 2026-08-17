@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.87,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "assumptions, judgments and estimates",
+    "inherently subjective",
+    "other factors",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides precise acquisition costs and some segment revenue metrics, but the critical accounting discussion relies heavily on standard qualifications and subjective estimation language. Revenue recognition, returns, rebates, royalty estimates, channel inventory, and product obsolescence create meaningful potential for reported results to differ from estimates, although the overall tone is neutral rather than crisis-like."
+}

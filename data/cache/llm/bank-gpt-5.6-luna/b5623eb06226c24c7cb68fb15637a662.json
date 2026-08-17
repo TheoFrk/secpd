@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "reasonable estimates and assumptions",
+    "could differ materially"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and conditional language, limiting certainty around strategic plans, forecasts, and accounting estimates. Reported performance includes only 1% revenue growth, a 15% increase in recurring revenue, and a widening net loss, while goodwill and intangible-asset valuations remain sensitive to assumptions despite no impairment being identified."
+}

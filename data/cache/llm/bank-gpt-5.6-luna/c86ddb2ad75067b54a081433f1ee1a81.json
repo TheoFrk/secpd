@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could differ materially",
+    "among the factors",
+    "assumes no obligation to update",
+    "low to mid-90% range"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, cash flow, leverage, utilization, and segment information, but begins with extensive boilerplate forward-looking disclaimers and relies on broad ranges for some operating metrics. The overall tone is cautiously positive, reflecting improved revenue, operating income, utilization, cash flow, and leverage, while remaining exposed to weather, lock closures, refinery outages, fuel costs, regulation, and cyclical customer demand."
+}

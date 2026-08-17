@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "high degree of judgment and complexity",
+    "subject to various factors",
+    "unless and until FDA approval",
+    "materially affect"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well quantified, including liquidity, debt capacity, revenue, deferred costs, and write-downs. Risk is present around accounting estimates, tissue yields, product discontinuation, regulatory approval, and lost domestic hemostat sales, but the overall presentation remains moderately positive due to record revenue and strong operating cash flow."
+}

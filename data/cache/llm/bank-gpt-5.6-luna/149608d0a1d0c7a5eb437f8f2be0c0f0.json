@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant management judgments",
+    "subject to volatility",
+    "may be further adjusted",
+    "most appropriately represents current economic conditions",
+    "actual results could differ significantly"
+  ],
+  "risk_summary": "The disclosure is detailed and identifies credit-loss, collateral valuation, fair-value, and securities-impairment risks, but relies substantially on subjective assumptions and economic forecasts without sensitivity quantification. Results and credit trends are presented positively, although the text acknowledges material uncertainty from recession effects, market volatility, liquidity, and model assumptions."
+}

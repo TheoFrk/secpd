@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subject to significant risks and uncertainties",
+    "could differ materially",
+    "plan to submit",
+    "expected to enable",
+    "believe that"
+  ],
+  "risk_summary": "The excerpt is heavily forward-looking and promotional, emphasizing planned products, acquisitions, partnerships, and expected clinical and commercial benefits without providing corresponding operating or financial performance metrics. Repeated cautionary language and reliance on contingent regulatory approvals, product development, efficacy studies, and earnout thresholds indicate meaningful execution and commercialization risk. Related-party transactions and director/shareholder relationships add governance and conflict-of-interest considerations."
+}

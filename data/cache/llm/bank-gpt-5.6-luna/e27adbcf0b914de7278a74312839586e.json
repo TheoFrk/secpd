@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "should enable us",
+    "adequate to support",
+    "for some time",
+    "many factors beyond our control"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear discussion of sales growth, acquisition effects, cash flow, leverage, inflation, foreign exchange, and supply-chain constraints. Risk tone is cautiously positive, but forward-looking claims rely on continued growth, pricing actions, cost savings, and recovery from pandemic-related weakness. Liquidity is presented as adequate, though refinancing, acquisition-related debt, contingent consideration, inflation, and supply disruptions remain material risks."
+}

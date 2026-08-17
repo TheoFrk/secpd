@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.2,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "index reference",
+    "repeated section title",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt is a procedural heading and page reference rather than substantive financial disclosure. It provides no information about operating performance, liquidity, risks, or management’s outlook."
+}

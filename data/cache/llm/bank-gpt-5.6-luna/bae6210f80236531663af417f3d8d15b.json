@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "actual results could differ",
+    "high degree of subjectivity",
+    "expected cash flows",
+    "management believes"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative data, but relies heavily on standard accounting-policy language and management judgments without sensitivity analyses or quantified downside ranges. Key risks concern loan-loss allowances, impaired and purchased-credit-impaired loans, OTTI assessments, and fair-value measurements classified as Level 3. Overall tone is neutral, with risks acknowledged rather than presenting a crisis condition."
+}

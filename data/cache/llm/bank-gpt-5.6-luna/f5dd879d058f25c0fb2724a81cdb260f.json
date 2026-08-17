@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot assure adequate production levels",
+    "variability cannot be fully anticipated",
+    "efforts to anticipate weather and environmental events",
+    "believe that we have the ability to use other parties",
+    "changes in management’s estimates"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent about production disruptions, water and weather dependence, customer concentration, fixed-cost absorption, and inventory estimation risk. Risk tone is cautious but not crisis-like, with management emphasizing mitigation efforts and expected operational stabilization. Repeated accounting-policy language and extensive technical detail increase complexity and may obscure the principal operating risks."
+}

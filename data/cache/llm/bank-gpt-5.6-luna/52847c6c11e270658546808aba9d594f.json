@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "no assurance plans will be sufficient",
+    "attempting to improve profitability",
+    "change of economic situation",
+    "third-party acquisition transactions"
+  ],
+  "risk_summary": "The disclosure indicates substantial going-concern risk, recurring operating losses, weak cash-generation prospects, and reliance on unproven plans to improve profitability. Frequent management and ownership changes, custodianship proceedings, discontinued operations, and small related acquisitions add governance and execution risk. Although the narrative provides extensive transaction history, it offers limited quantified support for the feasibility of the recovery plan."
+}

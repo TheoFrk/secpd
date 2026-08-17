@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future trajectory remains uncertain",
+    "we believe",
+    "we expect",
+    "various uncertainties",
+    "could have a material impact"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive growth narrative supported by quantified revenue, case mix, pricing, and planned investment data. However, COVID-19 effects, pricing pressure, reimbursement risk, capital reliance, and inherently uncertain accounting estimates create meaningful downside exposure, with several forward-looking statements relying on broad contingencies."
+}

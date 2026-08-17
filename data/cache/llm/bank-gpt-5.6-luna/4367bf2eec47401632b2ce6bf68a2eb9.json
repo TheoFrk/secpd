@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.84,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "highly uncertain and not within control",
+    "factors that we cannot foresee",
+    "materially and adversely affected",
+    "unable to reasonably predict future oil prices"
+  ],
+  "risk_summary": "The excerpt discloses substantial doubt about the Company’s ability to continue as a going concern, driven by persistent losses, negative operating cash flows, COVID-19 disruption, volatile commodity prices, and uncertain funding sources. Liquidity mitigation plans, including asset sales, are explicitly described as not probable or outside the Company’s control. The disclosure is detailed and includes some quantification, but its long, heavily caveated presentation and reliance on uncertain forecasts elevate risk."
+}

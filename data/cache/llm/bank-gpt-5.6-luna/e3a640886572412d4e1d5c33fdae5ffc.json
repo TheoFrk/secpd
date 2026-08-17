@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "Certain Items exclusions",
+    "omitted fiscal 2017 comparison",
+    "difficult to predict",
+    "methodology may be revised"
+  ],
+  "risk_summary": "The excerpt presents improving results and a generally positive operating outlook, supported by extensive quantitative metrics. However, emphasis on adjusted measures and exclusion of restructuring, acquisition, tax, and debt-related items may make underlying performance less transparent, while competitive pricing, negative customer traffic, inflation, and Brexit uncertainty remain risks."
+}

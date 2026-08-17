@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily related to",
+    "partially offset by",
+    "subject to significant actuarial judgments",
+    "may or may not be reflective",
+    "does not believe ... material"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting acquisition costs, revenue changes, operating profit, cash flows, and segment contributions. Risk factors include customer contract losses, price compression, reduced service volumes, self-insurance reserve uncertainty, and environmental liabilities, although management presents overall performance and cash generation positively."
+}

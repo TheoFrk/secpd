@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could differ materially",
+    "cannot currently determine",
+    "reasonably possible",
+    "may not be successful"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but includes substantial standard forward-looking and accounting-estimate caveats. Operating performance deteriorated materially, with declining sales, a larger operating loss, a net loss, reduced cash and continued pandemic-related uncertainty. Liquidity is presented as adequate for at least 12 months, although supply-chain disruption, inventory valuation, and pandemic duration remain material risks."
+}

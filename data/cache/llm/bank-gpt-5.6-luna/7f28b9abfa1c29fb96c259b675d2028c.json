@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "non-GAAP measure",
+    "missing supporting tables",
+    "significantly affected by acquisitions and dispositions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear explanations of NOI, occupancy, acquisitions, dispositions, impairment charges, and financing capacity. Risk tone is mildly positive, although real estate impairments, higher interest expense, leasing comparability issues, and reliance on non-GAAP NOI indicate moderate underlying risk. Several referenced tables and sections are omitted, limiting completeness of the assessment."
+}

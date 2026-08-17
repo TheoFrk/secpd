@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "unless and until",
+    "reasonably likely",
+    "cannot be assured",
+    "no material commitments",
+    "unanticipated changes"
+  ],
+  "risk_summary": "The company reports recurring negative operating cash flow, declining cash balances, substantial deferred executive compensation, and revenue and net losses likely to persist without a significant investment generating operating cash flow. Liquidity sources are limited, while exposure to oil and gas prices, interest rates, environmental liabilities, and RR&D introduces additional uncertainty."
+}

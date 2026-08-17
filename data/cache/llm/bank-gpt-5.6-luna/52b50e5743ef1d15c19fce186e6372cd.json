@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "significant judgment is required",
+    "reasonable and supportable economic forecasts",
+    "coverage-layer-specific aggregated limits",
+    "future claims growth"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including specific insurance accruals, reimbursements, revenue changes, and cash-flow figures. Key risks arise from actuarial claims estimates, insurance reimbursement limits, tax contingencies, impairment assumptions, and declining operating revenues. Overall tone is measured and professional, but not strongly reassuring given the revenue decline and exposure to potentially material estimate revisions."
+}

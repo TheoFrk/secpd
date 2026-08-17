@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor disclaimer",
+    "actual results are likely to differ materially",
+    "subject to various factors",
+    "undertakes no obligation to update",
+    "truncated results and missing tables"
+  ],
+  "risk_summary": "The excerpt is heavily caveated and relies on broad forward-looking-risk disclaimers, with limited direct quantification of adverse exposures in the presented text. It describes substantial sensitivity to underwriting, market, credit, interest-rate, liquidity, and policyholder-behavior risks, while maintaining a generally neutral operational tone."
+}

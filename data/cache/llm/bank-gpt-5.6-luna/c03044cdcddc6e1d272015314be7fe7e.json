@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to assumptions, risks, and uncertainties",
+    "no list of assumptions, risks, or uncertainties could be complete",
+    "do not undertake to update",
+    "leading, distinctive, and relentless focus",
+    "capital optimization and risk-adjusted returns"
+  ],
+  "risk_summary": "The excerpt contains extensive standardized forward-looking-statement disclaimers that limit reliance on projections and emphasize uncontrollable risks without quantifying their potential impact. Business performance is presented in a generally promotional and confident tone, with some useful portfolio, asset, deposit, and origination figures, but substantial marketing language and boilerplate reduce disclosure specificity."
+}

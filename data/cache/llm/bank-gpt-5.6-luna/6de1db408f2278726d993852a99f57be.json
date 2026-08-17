@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "unknown capital requirements",
+    "various other circumstances",
+    "dependent upon factors discussed",
+    "raises doubt as to ability to continue"
+  ],
+  "risk_summary": "The disclosure is materially quantified but highlights significant risks, including declining revenue, heavy customer concentration, rising interest expense, uncertain capital needs, and explicit doubt about going-concern viability. Management presents margin expansion and cost-reduction expectations, but these are conditional on revenue growth, scaling efficiency, customer mix, and other uncertain factors."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "generally tied to",
+    "do not necessarily indicate",
+    "could result in material changes",
+    "not material effect"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and quantitatively supported, with detailed year-over-year operating metrics and explanations of revenue and cost drivers. Risk tone is generally confident and favorable, reflecting record revenue, profitability, and improved operating ratio, while acknowledging exposure to fuel prices, inflation, labor costs, demand conditions, and asset-estimation assumptions. Some reliance on management beliefs and materiality judgments introduces moderate uncertainty."
+}

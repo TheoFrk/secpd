@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could differ materially",
+    "prepared to provide increased volume",
+    "actively pursue acquisition opportunities",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but is lengthy and includes standard forward-looking disclaimers and broad, non-quantified statements about demand, regulatory compliance, reimbursement, and acquisitions. Risk tone is moderately negative, driven by a 63.8% revenue decline, sharply lower COVID-19 testing volume, loss of HRSA reimbursement, and reduced diagnostic activity, although consumer products partially offset the decline."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "largely due to",
+    "current interpretations",
+    "effects of acquisitions",
+    "tax benefit and unusual charges"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides useful segment-level explanations, but is lengthy and repetitive. Results show strong sales, orders, and backlog growth, while operating margin declined and leverage, acquisition-related costs, pension and litigation charges, and reliance on a substantial tax benefit present notable risks."
+}

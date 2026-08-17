@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurances can be given",
+    "substantial portion of revenues",
+    "uncertainty about actual funding",
+    "adequate funds on hand"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosures on revenue concentration, contract mix, cash flows, and liquidity, but relies heavily on standard forward-looking disclaimers and broad qualitative risk language. Key risks include dependence on U.S. government spending, competitive pricing pressure, budget and shutdown uncertainty, cybersecurity threats, and negative operating cash flow."
+}

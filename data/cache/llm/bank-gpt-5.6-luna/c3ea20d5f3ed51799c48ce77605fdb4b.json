@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.02,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "typical period-to-period fluctuations",
+    "we expect",
+    "may delay completion",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt is relatively quantitative and explains revenue declines, restructuring costs, warranty effects, foreign-exchange pressure, and project completion impacts. Risk is moderated by reported backlog, margin improvement, and expected restructuring savings, but execution timing and restructuring completion remain uncertain."
+}

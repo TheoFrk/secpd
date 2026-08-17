@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "additional impacts ... may arise",
+    "cannot be reasonably estimated",
+    "subject to substantial risks and uncertainties",
+    "pending feedback and pace of data analysis"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative because the company has recurring losses, substantial operating cash burn, limited liquidity, and explicitly states substantial doubt about its ability to continue as a going concern without additional financing. Clinical, regulatory, commercialization, pandemic, reimbursement, and financing dependencies remain significant, although the company reports a prespecified clinical-trial endpoint and provides useful quantified liquidity and debt commitments."
+}

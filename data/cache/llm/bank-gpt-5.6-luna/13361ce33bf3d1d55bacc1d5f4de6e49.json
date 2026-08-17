@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "no obligation to update",
+    "cannot assure",
+    "subject to adjustment",
+    "sufficient capital and liquidity for at least twelve months"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on acquisitions, financing, debt commitments, and covenant compliance, but includes extensive standard forward-looking disclaimers. Liquidity and execution risks are material: the company expects to need additional capital, may face higher cash utilization, and cannot assure successful integration, profitability, positive cash flow, or future financing. Overall tone is cautiously negative despite management's assertion that near-term liquidity is sufficient."
+}

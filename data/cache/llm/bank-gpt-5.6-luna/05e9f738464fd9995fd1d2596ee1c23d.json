@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors including, but not limited to",
+    "economic fundamentals are uncertain",
+    "may result in periods of volatility",
+    "management believes"
+  ],
+  "risk_summary": "The excerpt is comparatively specific and data-rich, with quantified returns, spreads, interest-rate movements, hedging positions, and derivative exposures. Risk tone is cautious rather than crisis-like, emphasizing volatility, widening spreads, declining book value, reliance on monetary policy, and interest-rate sensitivity. Boilerplate disclaimers and forward-looking language introduce some uncertainty but do not dominate the disclosure."
+}

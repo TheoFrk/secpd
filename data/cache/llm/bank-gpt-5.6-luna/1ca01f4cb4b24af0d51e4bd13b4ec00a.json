@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "in absence of any unexpected developments",
+    "future events rarely develop precisely as forecasted",
+    "inherently uncertain estimates",
+    "contingent losses related to discontinued operations",
+    "primarily due to favorable results"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting detailed year-over-year revenue, expense, cash flow, and margin changes. Key risks include pronounced seasonality, substantial off-season liquidity needs, higher bad debt expense, litigation-related losses from discontinued mortgage operations, and reliance on favorable tax effects. Liquidity is presented confidently, but this conclusion is qualified by the absence of unexpected developments and the excerpt truncation limits assessment of contingencies and critical estimates."
+}

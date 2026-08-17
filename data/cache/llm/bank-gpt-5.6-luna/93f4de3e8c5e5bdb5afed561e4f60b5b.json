@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "unable to estimate future revenues",
+    "non-GAAP exclusions",
+    "subjective valuation assumptions",
+    "material impairment charges"
+  ],
+  "risk_summary": "The disclosure is highly quantified but highlights significant operating losses, sharply increased expenses, substantial impairment charges, and uncertainty regarding future software and gasifier revenues. Extensive forward-looking and non-GAAP caveats, together with subjective valuation estimates, increase interpretive and comparability risk."
+}

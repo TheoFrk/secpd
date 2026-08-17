@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "future taxable income",
+    "significant judgment",
+    "could have a significant impact",
+    "see Note ... for more information"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, with detailed year-over-year revenue, margin, cash flow, and restructuring data. Risk factors include declining e-commerce demand, a substantial prior-year sales decline, reduced working capital, and deferred tax asset realization dependent on future taxable income. The tone is balanced, highlighting margin and operating cash flow improvements while acknowledging material operating and tax uncertainties."
+}

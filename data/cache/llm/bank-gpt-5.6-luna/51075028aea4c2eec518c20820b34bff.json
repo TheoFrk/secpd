@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "material estimates",
+    "qualitative and environmental factors",
+    "other pertinent factors",
+    "may be susceptible to significant change"
+  ],
+  "risk_summary": "The disclosure is generally precise and favorable, with quantified earnings, credit metrics, capital ratios, loan growth, and charge-offs. Key risk remains concentrated in subjective allowance estimates, collateral valuations, borrower repayment assumptions, economic conditions, and real-estate exposure. Management presents capital and asset-quality indicators confidently, although some loss-estimation methodology relies on judgment and peer data."
+}

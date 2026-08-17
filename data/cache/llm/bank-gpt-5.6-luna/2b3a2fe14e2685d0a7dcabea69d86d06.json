@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly dependent on",
+    "management believes",
+    "could result in",
+    "requires judgment",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified segment and year-over-year sales data, limiting overall vagueness. Risk exposure remains tied to commodity competition, raw-material costs, customer product launches, industry economics, regulatory compliance, and a previously suspended product, while accounting disclosures rely on standard judgment-based language."
+}

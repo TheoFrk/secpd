@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.0,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "legalistic boilerplate"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and defers entirely to another document. This limits standalone transparency and requires review of the incorporated annual report to assess liquidity, performance, and risks."
+}

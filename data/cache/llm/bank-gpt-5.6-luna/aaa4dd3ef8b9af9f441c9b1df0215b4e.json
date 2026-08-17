@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "various risks and uncertainties",
+    "inherently subjective",
+    "could prove inaccurate",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and broad, non-quantified risk categories. ACL, goodwill, acquisitions, liquidity, interest rates, and macroeconomic conditions are identified as material judgment areas, while limited operating data provides some quantitative specificity. Overall tone is cautious and risk-aware rather than crisis-like."
+}

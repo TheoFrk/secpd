@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily resulted from",
+    "as opportunities arise",
+    "general corporate purposes",
+    "improvements in productivity",
+    "slightly offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting revenue, margins, earnings, debt, acquisitions, and cash dividends. Risk tone is positive and operationally focused, though repeated attribution to productivity and growth initiatives provides limited detail on underlying execution risks. Debt maturities and reliance on continued organic growth are disclosed but not framed as significant concerns."
+}

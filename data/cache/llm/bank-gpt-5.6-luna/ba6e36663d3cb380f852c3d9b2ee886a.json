@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "based on estimates and assumptions",
+    "actual results may differ",
+    "highly subjective",
+    "variety of factors"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively transparent, with detailed revenue, expense, margin, impairment, litigation, and client-volume changes. Risk is elevated by declining revenues and pretax income, goodwill impairments, litigation costs, discontinued RAL offerings, higher bad debt expense, and uncertainty surrounding deferred tax assets and uncertain tax positions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the impact",
+    "situation is dynamic",
+    "remain uncertain",
+    "based on our current understanding",
+    "we expect"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with strong historical performance and growth-oriented management commentary. Key risks include macroeconomic and geopolitical uncertainty, China-related trade restrictions, customer budget scrutiny, and the strategic review of the Software Integrity segment. Management uses moderate forward-looking qualifiers and acknowledges that longer-term impacts remain uncertain."
+}

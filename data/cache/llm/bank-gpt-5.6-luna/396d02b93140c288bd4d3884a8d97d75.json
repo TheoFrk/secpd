@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "expect to be available",
+    "limited control",
+    "no significant liquidity constraints",
+    "net of fuel surcharges"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, detailing revenue, cost ratios, operating metrics, capital expenditures, borrowing changes, and equipment plans. Risk tone is cautiously positive, though notable exposures include fuel prices, driver costs, insurance self-retention, capital requirements, debt financing, and reliance on expected future cash flows and financing availability."
+}

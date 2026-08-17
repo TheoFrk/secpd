@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "many risks and uncertainties",
+    "do not undertake any obligation to update",
+    "primarily due to",
+    "selected information may not contain all information"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and presents strong growth, improving margins, and well-capitalized status, producing a moderately confident tone. Credit risk is increasing, however, as nonperforming loans more than doubled and loan-loss provisions rose, with deterioration partly attributed to acquired portfolios. Extensive forward-looking disclaimers and repeated causal phrasing add some boilerplate and limit interpretive clarity."
+}

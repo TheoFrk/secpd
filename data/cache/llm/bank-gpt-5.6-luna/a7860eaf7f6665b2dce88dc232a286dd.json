@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "rely on ability to obtain license agreements",
+    "cash shortfalls and adverse liquidity effect",
+    "significant legal costs",
+    "TPL Chapter 11 bankruptcy"
+  ],
+  "risk_summary": "The excerpt discloses substantial liquidity and funding risk tied to declining licensing revenue, ongoing patent litigation costs, and reliance on Alliacense and TPL, including TPL’s Chapter 11 bankruptcy. Quantified cash balances and contributions improve specificity, but the company acknowledges that continued operations depend on uncertain licensing proceeds and may require additional capital or consolidation of PDS."
+}

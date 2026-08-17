@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "subject to uncertainty",
+    "critical inputs",
+    "expected competitive environment",
+    "not otherwise discussed below"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and innovation narrative supported by numerous regulatory approvals, investments, and strategic collaborations. However, it discloses material uncertainty around impairment assumptions, legal contingencies, tax positions, competitive conditions, and potential adverse financial impacts. Quantification is provided for selected items, but many forward-looking and risk disclosures rely on broad conditional language and cross-references."
+}

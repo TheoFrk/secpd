@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potential effects",
+    "could have a material impact",
+    "continue to monitor",
+    "among other factors",
+    "not calculated in accordance with GAAP"
+  ],
+  "risk_summary": "The excerpt identifies substantial macroeconomic, regulatory, litigation, supply-chain, and investment risks, including a quantified $1.5 billion unrealized loss on JUUL and impairments related to ABI and Cronos. However, several expected impacts and mitigation claims remain broadly qualified, and extensive cross-references and non-GAAP framing reduce transparency. Overall, the tone is cautious and risk-aware rather than crisis-like."
+}

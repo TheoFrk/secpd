@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance of additional financing",
+    "substantial doubt as a going concern",
+    "actual results may differ materially",
+    "derivative liability valuation"
+  ],
+  "risk_summary": "The company has minimal revenue, substantial losses, a working capital deficit before derivative-liability adjustments, and auditors expressed substantial doubt about going-concern status. Continued operations depend on additional equity financing, with failure or delay potentially reducing R&D activity, delaying regulatory progress, or requiring discontinuation. Disclosure is materially quantified but includes extensive standard forward-looking disclaimers and uncertainty language."
+}

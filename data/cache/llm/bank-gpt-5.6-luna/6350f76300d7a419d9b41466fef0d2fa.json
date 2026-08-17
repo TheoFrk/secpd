@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "may materially impact",
+    "adequate financing",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative operating, cash flow, margin, inventory, and customer-loss information, but relies on extensive standard forward-looking language and broad risk contingencies. Key risks include moderating industry demand, declining gross margin, potential inventory obsolescence, supplier and price exposure, dependence on financing, and an expected $700,000 sales decline from a lost customer."
+}

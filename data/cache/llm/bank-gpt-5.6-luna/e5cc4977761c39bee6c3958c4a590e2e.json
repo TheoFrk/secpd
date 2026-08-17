@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP economic results",
+    "not directly comparable",
+    "cannot predict exact timing or amounts",
+    "anticipated acquisition charges",
+    "expected extension of war-risk coverage"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with substantial detail on GAAP-to-non-GAAP reconciliations, operating performance, and planned initiatives. Risk is moderated by reliance on management-defined non-GAAP measures, uncertain AirTran integration charges, fuel-hedge accounting complexity, and dependence on continued government war-risk insurance coverage. Overall tone is confident and positive, though forward-looking statements contain meaningful execution and cost uncertainty."
+}

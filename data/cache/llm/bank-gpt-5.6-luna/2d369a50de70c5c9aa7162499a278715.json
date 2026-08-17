@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily and partially offset",
+    "unless otherwise noted",
+    "not measurements determined in accordance with GAAP",
+    "percentages may not add due to rounding",
+    "table and text extraction gaps"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear year-over-year explanations of sales, costs, commodities, labor, insurance, and refranchising. Risk factors include declining transactions, minimum-wage and insurance cost pressure, restaurant closures, and reliance on refranchising, although lower commodity costs and operating improvements support a mildly positive tone."
+}

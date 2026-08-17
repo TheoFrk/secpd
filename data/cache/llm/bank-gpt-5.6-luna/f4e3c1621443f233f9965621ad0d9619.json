@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "management considers appropriate and adequate",
+    "future economic changes cannot be predicted",
+    "should cash flow assumptions change",
+    "estimates and assumptions about fair value"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides specific trends in earnings, credit losses, impaired loans, and capital-related measures. Risk is concentrated in management estimates for loan-loss reserves, securities impairment, goodwill, and exposure to changing economic conditions, with generally positive operating results but meaningful forward-looking caveats."
+}

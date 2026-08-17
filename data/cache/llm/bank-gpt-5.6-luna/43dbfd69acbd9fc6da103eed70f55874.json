@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "may materially adversely impact",
+    "based upon assumptions we believe reasonable",
+    "actual losses may be higher or lower",
+    "excluding this transfer"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on loan growth, portfolio composition, and declining net income, but relies heavily on standard accounting-estimate disclaimers and qualitative assurances regarding allowance adequacy. Key risks include potentially underestimated credit losses, valuation uncertainty, regulatory-driven provisioning, and rapid commercial real estate and construction loan growth."
+}

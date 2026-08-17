@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "no assurance can be given",
+    "actual results may differ materially",
+    "subject to risks and uncertainties",
+    "inability to access capital markets"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate forward-looking language and repeated disclaimers that limit predictive accountability. It nevertheless discloses substantial risks, including COVID-19-driven revenue declines, precarious liquidity, reliance on short-term financing and PPP funds, debt default exposure, litigation, customer concentration, and an inability to issue additional equity. Quantitative revenue and working-capital data provide useful specificity, but the overall risk tone is materially negative with only cautious optimism about recovery."
+}

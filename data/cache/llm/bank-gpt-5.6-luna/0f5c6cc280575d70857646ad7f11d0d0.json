@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unable to forecast impact",
+    "expected future funding increases",
+    "may partially offset",
+    "actual results may differ",
+    "significant judgment"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified, with segment growth, earnings changes, and COVID-19 effects provided, but it includes substantial uncertainty around customer closures, pandemic duration, and future demand. The company presents a generally resilient and constructive tone, emphasizing liquidity, operational continuity, and offsetting opportunities despite pandemic-related disruptions. Accounting estimates and acquisition valuations introduce judgment and potential variability in reported results."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "among other factors",
+    "strategic options and opportunities",
+    "[... truncated disclosure]"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights material deterioration, including a net loss, goodwill and intangible-asset impairments, declining projected revenues and cash flows, and loss of a key customer. Liquidity is limited relative to substantial debt and share repurchases, while portions of the strategic discussion are incomplete or boilerplate."
+}

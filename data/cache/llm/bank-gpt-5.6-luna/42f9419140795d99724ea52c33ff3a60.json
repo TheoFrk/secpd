@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.26,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor language",
+    "actual results could differ materially",
+    "other events and important factors",
+    "subject to certain conditions",
+    "timing cannot be guaranteed"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, largely unquantified list of operational, contracting, regulatory, litigation, and financing risks. It does provide some specific figures, including $9.3 million in unbilled DVA receivables, $8.7 million in related accrued liabilities, and credit-facility access of up to $3 million, potentially increasing to $6 million subject to conditions. Overall, the tone is cautious and highlights meaningful government-contracting and liquidity dependencies rather than presenting a crisis-level signal."
+}

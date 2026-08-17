@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "assumptions, risks, and uncertainties",
+    "no list could be complete",
+    "may differ materially",
+    "promotional superlatives"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-statement disclaimers and broad non-quantified caveats that limit reliance on projections. The business overview is strongly promotional, though it includes meaningful quantified portfolio, deposit, origination, and customer metrics. Overall tone is confident and growth-oriented, with limited discussion of downside risks in the provided section."
+}

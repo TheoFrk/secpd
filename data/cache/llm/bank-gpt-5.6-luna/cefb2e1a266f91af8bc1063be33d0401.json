@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor cautionary language",
+    "numerous assumptions, risks and uncertainties",
+    "significant management judgment",
+    "limited or no observable valuation inputs",
+    "excluding realized investment losses"
+  ],
+  "risk_summary": "The excerpt is relatively precise and well quantified, but contains extensive boilerplate forward-looking disclaimers and relies on management assumptions for valuation, policy liabilities, and earnings guidance. The risk tone is moderately negative due to substantial investment impairment losses, derivative valuation uncertainty, low interest rates, and sensitivity to foreign exchange and actuarial assumptions."
+}

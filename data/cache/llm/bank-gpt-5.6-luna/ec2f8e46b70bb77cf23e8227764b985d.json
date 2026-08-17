@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "based on assumptions believed reasonable",
+    "significant judgment is required",
+    "may have a material adverse impact",
+    "inherent uncertainties"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified reinsurance limits, retentions, and coverage periods, but relies heavily on standard cautionary language and management estimates. Material exposure remains tied to reserve adequacy, long-term-care assumptions, reinsurance collectibility, investment valuations, and catastrophe losses."
+}

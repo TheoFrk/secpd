@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.55,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "we believe",
+    "expects to",
+    "could increase",
+    "as much as $15 million",
+    "previously disclosed strategy"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with strong sales, production, margin, and operating-income growth. Key risks include seasonal demand, distributor inventory behavior, dependence on new products, product-liability exposure, and implementation of the new ERP system. Some forward-looking inventory expectations and causation statements remain qualified and uncertain."
+}

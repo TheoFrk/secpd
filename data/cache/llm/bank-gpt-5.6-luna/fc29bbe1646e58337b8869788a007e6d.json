@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "reasonably likely",
+    "could adversely affect",
+    "beyond its control",
+    "usual and customary covenants",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, including sales concentration, liquidity, debt terms, cash flows, and acquisition-related effects. Key risks include dependence on two major customers, inflationary pressure, consumer demand weakness, supply-chain disruption, and potential impairment of acquired assets. The tone is cautious but not crisis-like, with management asserting adequate liquidity based on current operations and credit availability."
+}

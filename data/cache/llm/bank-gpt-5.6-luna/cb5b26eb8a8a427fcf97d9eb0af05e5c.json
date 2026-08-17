@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "subject to significant estimates",
+    "materially impact",
+    "undiscounted future cash flows"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking language and broad cautionary disclaimers that limit reliance on projections. Accounting disclosures are technically detailed but depend heavily on management estimates regarding impairment, lease recoverability, fair values, and future cash flows. The tone is neutral to mildly cautious, with quantified borrowing and expense data partially offsetting the disclosure limitations."
+}

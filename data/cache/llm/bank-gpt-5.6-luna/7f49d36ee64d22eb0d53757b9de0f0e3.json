@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "estimates, assumptions, judgments and interpretations",
+    "others might reach different conclusions",
+    "could retroactively disagree",
+    "change at any time and in an unpredictable manner",
+    "effectively subordinated"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including allowances, reserves, warranty costs, contract revenue, tax rates, debt balances, and covenant limits. Key risks arise from judgment-heavy accounting estimates, potential tax challenges, goodwill impairment assumptions, acquisition integration, and restrictive leverage and interest-coverage covenants. Overall tone is operationally confident but includes standard uncertainty and creditor-subordination language."
+}

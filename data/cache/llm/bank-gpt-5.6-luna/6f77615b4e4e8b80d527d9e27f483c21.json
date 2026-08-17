@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "uncertain environment",
+    "substantially increase",
+    "well positioned",
+    "special items",
+    "adjusted financial information"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear operating metrics, cash distributions, debt issuance, and impairment charges. Risk tone is cautiously optimistic, though it relies on forward-looking growth assumptions and adjusted non-GAAP measures while acknowledging an uncertain retail environment. La Senza impairment charges and increased borrowings are notable credit risks."
+}

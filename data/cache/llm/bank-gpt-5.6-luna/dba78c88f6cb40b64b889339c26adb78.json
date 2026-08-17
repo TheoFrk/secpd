@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict extent or duration",
+    "may impose a penalty",
+    "do not have a best estimate",
+    "continue to assess the impact",
+    "dynamic nature of the crisis"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on acquisitions, tariffs, debt, and pandemic impacts, but uses recurring boilerplate and uncertainty language around recovery, penalties, liquidity, and the DOJ investigation. Overall risk tone is moderately negative, reflecting sustained COVID-19 operational pressure, potential regulatory penalties, and unresolved legal exposure."
+}

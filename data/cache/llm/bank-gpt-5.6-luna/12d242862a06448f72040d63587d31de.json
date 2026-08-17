@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "designed to provide a review",
+    "as determined to be necessary",
+    "management continues to monitor",
+    "efforts to deploy deposit growth",
+    "expected to be forgiven"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, reporting strong growth in assets, deposits, net income, and interest income. Risk factors include dependence on PPP-related fee income, merger effects, interest-rate pressure, securities portfolio exposure, and potential credit impacts from the pandemic, although the overall tone is stable to moderately positive."
+}

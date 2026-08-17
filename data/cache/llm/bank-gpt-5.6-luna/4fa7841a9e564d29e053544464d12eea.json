@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and disclaimers",
+    "many factors, including but not limited to",
+    "no obligation to update",
+    "anticipated cash flows and other sources of financing",
+    "regardless of the economic environment"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and operationally specific, but includes standard forward-looking disclaimers and some optimistic, non-quantified assertions. Key risks include a soft freight market, declining Truckload revenue, rising insurance and equipment costs, substantial capital expenditure needs, and very limited cash relative to obligations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not have a material impact",
+    "subject to regulatory conditions",
+    "customary covenants"
+  ],
+  "risk_summary": "The excerpt is highly quantitative regarding operating performance, acquisitions, debt balances, and repayment schedules, but contains substantial standard legal disclaimers and some qualitative explanations. Risk tone is moderately positive due to stronger profitability and reduced charges, offset by regulatory restrictions, acquisition integration considerations, variable-rate debt, and significant scheduled debt repayments."
+}

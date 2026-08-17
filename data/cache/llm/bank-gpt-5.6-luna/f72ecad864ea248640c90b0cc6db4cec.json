@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.29,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we expect to continue",
+    "roadmap to more advanced nodes",
+    "scalable development and support model"
+  ],
+  "risk_summary": "The excerpt is heavily descriptive and promotional, with extensive product and market detail but limited quantified financial performance in the provided portion. It acknowledges dependence on new-product revenue, profitability, manufacturing execution, competition, and impairment estimates, while relying frequently on expectations and belief statements. Overall tone is cautiously optimistic rather than crisis-like, but the truncated results section limits assessment of current credit risk."
+}

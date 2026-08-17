@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot estimate the magnitude",
+    "likely to have an adverse effect",
+    "extreme actions in response",
+    "uncertainties associated with duration and severity",
+    "primarily because of realized and unrealized gains"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains revenue, expense, liquidity, tax, and segment drivers, but highlights material pandemic-related uncertainty and structural decline in the newspaper business. Reported profitability is heavily influenced by marketable-securities gains, while cash declined due to additional securities purchases and dividend income fell, creating potential earnings volatility."
+}

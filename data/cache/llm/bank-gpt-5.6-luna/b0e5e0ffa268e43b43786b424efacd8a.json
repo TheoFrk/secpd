@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual amounts could differ from estimates",
+    "credit risk is minimal",
+    "fully collectible",
+    "changes in estimates can have a significant effect",
+    "highly detailed bottom-up approach"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes relevant quantified receivables, retainage, write-offs, contract durations, and tax effects, but relies substantially on management estimates for contract profitability, impairment, and collectibility. Risk is elevated by adverse revisions to project profitability, potential construction-cost and delay volatility, a $1.8 million receivables write-off, and the truncated impairment discussion, although management presents public-owner credit risk and receivables quality as manageable."
+}

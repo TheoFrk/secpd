@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot assure adequate production levels",
+    "cannot be fully anticipated",
+    "could be a material adverse effect",
+    "future availability could be negatively impacted",
+    "estimates may change in future periods"
+  ],
+  "risk_summary": "The disclosure is generally specific and balanced, with substantial quantified operating and financial data, but it highlights meaningful exposure to weather, water availability, energy costs, production variability, competition, and outsourced processing. Positive results are partly supported by favorable demand and a deferred-tax valuation allowance reversal, while several forward-looking outcomes remain uncertain."
+}

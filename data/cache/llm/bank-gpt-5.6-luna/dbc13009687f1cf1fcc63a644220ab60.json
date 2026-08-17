@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to availability of future financing",
+    "we believe",
+    "planned future availability",
+    "potentially increases TAM",
+    "incomplete advantage and strategy lists"
+  ],
+  "risk_summary": "The excerpt uses substantial forward-looking and promotional language, with many plans contingent on future financing and limited quantified evidence of commercialization or operating performance. Material risk signals include reliance on future funding, warrant liabilities, third-party manufacturing, and a Nasdaq minimum-bid-price deficiency. The disclosure is technically detailed but difficult to evaluate because key claimed advantages and portions of the strategy discussion are omitted or incomplete."
+}

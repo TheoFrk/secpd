@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "relatively small amount of data",
+    "immaterial cost",
+    "does not foresee any future material detrimental effect",
+    "reasonably determined the scope",
+    "subject to certain policy limitations and deductibles"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes quantified revenue trends, geographic footprint, and a description of the cybersecurity response. Risk tone is cautiously positive, but the cyber incident, exposure of personal information, labor shortages, COVID-19 sensitivity, and reliance on management judgments remain material concerns. Some risk impact statements rely on qualitative assurances and broad materiality language rather than quantified potential exposure."
+}

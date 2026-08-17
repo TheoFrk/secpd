@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "ability to successfully manage",
+    "without limitation",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broad, non-quantified statements covering numerous operational, financial, legal, and macroeconomic risks. It provides some precise operating metrics, but the risk discussion generally lacks likelihood, magnitude, and scenario-specific impact estimates. Overall tone is cautiously confident rather than crisis-like."
+}

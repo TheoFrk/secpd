@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance can be given",
+    "may affect our ability",
+    "significant increase in supply",
+    "seeking a large private merger partner",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt provides meaningful operating metrics, transaction values, occupancy, ADR, REVPAR, and segment information, but includes substantial forward-looking uncertainty around competition, supply growth, pricing, and demand. Recent asset and subsidiary sales, prior IBC losses, and historical NYSE American listing deficiencies indicate execution and financial-position risks, partly offset by improved occupancy, revenue, and liquidity from dispositions."
+}

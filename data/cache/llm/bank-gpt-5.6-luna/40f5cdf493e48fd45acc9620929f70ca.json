@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to significant change",
+    "may materially adversely impact",
+    "significant judgment and estimates",
+    "actual losses may be higher or lower",
+    "limited number of potential loss classifications"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and reports strong loan growth, higher net income, and expanding net interest income, producing a generally positive tone. However, credit-loss adequacy depends on subjective assumptions and historical trends that may not reflect future losses, with explicit risk of additional provisions materially affecting earnings. Rapid commercial and commercial real estate loan growth increases potential concentration and asset-quality risk, although detailed delinquency or concentration metrics are not included in the excerpt."
+}

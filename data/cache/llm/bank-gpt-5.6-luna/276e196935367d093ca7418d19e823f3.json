@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may prove to be inaccurate",
+    "could adversely affect",
+    "management believes",
+    "qualitative or environmental factors"
+  ],
+  "risk_summary": "The disclosure is fairly specific, with quantified allowance, nonperforming loans, coverage, and net credit loss metrics, while acknowledging material estimation uncertainty in credit-loss reserves and fair values. Credit trends are presented as improving, but the portfolio remains exposed to borrower, collateral, economic, and Level 3 valuation risks."
+}

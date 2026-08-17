@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.4,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "in appropriate circumstances, as needed",
+    "management believes",
+    "expected increase in delinquencies",
+    "various means",
+    "highly or moderately affected"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, detailing merger impacts, loan and deposit growth, PPP exposure, deferrals, and credit-loss provisioning. Risk tone is mixed: strong reported growth and limited active deferrals are offset by explicit concern regarding COVID-19 effects, borrower deterioration, and Michigan economic conditions. Repetition of merger and deferment descriptions and reliance on forward-looking qualifiers modestly reduce clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance that a contract will be awarded",
+    "various other inputs and estimates",
+    "could change in the future",
+    "projected discounted future operating cash flows",
+    "going concern disclosure truncated"
+  ],
+  "risk_summary": "The disclosure contains substantial accounting-estimate boilerplate but also identifies significant operating risk, including suspended government work and a backlog decline from approximately $390,000 to $0.0 by March 18, 2013. Ongoing contract-cost, revenue-recognition, asset-recoverability, and preferred-stock obligations create financial uncertainty, while the excerpt appears to truncate a potentially material going-concern discussion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "cannot provide assurance",
+    "subjective judgments",
+    "beyond the Company’s control",
+    "qualitative factors"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on insurance reserving, investment valuation, and actuarial methods, but emphasizes significant uncertainty and reliance on subjective estimates. Key risks include inadequate loss reserves, inflation and litigation-driven claims volatility, low investment yields, and illiquid or model-based security valuations."
+}

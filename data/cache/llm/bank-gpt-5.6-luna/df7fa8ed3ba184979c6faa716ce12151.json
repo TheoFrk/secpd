@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to commence",
+    "intend to conduct",
+    "if the Phase 2 trial is successful",
+    "opportunistically developing",
+    "promising preliminary efficacy data"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on clinical programs, enrollment targets, trial designs, cash flows, losses, and financing, reducing overall vagueness. However, it uses promotional forward-looking language and emphasizes numerous contingent development plans, while the reported net loss and reliance on equity financing indicate material execution and funding risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "many estimates qualitative in nature",
+    "may or may not realize margin growth",
+    "uncertainty as to future taxable income",
+    "outside of our control"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantified, but relies on substantial assumptions regarding growth, production efficiency, pricing, liquidity, collectability, and tax-loss utilization. Key risks include customer concentration, extended payment cycles, inventory obsolescence, capacity constraints, inflationary costs, and potentially expiring tax attributes. Overall tone is cautiously optimistic, balancing strong revenue growth with material execution and financial risks."
+}

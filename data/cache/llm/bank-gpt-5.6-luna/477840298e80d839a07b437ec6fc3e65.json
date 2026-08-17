@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measurements",
+    "significant judgments, estimates and assumptions",
+    "Management believes",
+    "appropriate allowance is maintained",
+    "strategic decision to decrease exposure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting earnings, interest income, charge-offs, allowance levels, loan trends, and fee movements. Risk tone is mildly positive due to improved profitability and yields, though the loan decline, participation-loan exposure reduction, allowance judgments, and potentially significant FHLB impairment introduce credit and valuation risks. Non-GAAP measures and management assertions require reconciliation to GAAP and independent scrutiny."
+}

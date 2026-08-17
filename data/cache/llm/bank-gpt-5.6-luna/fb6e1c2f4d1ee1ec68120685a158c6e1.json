@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "unknown longer-term effects",
+    "expected to continue",
+    "absent any significant negative event",
+    "sufficient cash flows for foreseeable future"
+  ],
+  "risk_summary": "The disclosure uses substantial standard forward-looking disclaimer language and several conditional or unquantified assertions, although it provides some useful ranges for pension contributions and capital expenditures. Key risks include declining demand from digitization, supply-chain and inflationary pressures, customer consolidation, price competition, and dependence on liquidity for investments and acquisitions. Management remains moderately confident about cash generation and operational improvements, but the overall risk tone is cautious."
+}

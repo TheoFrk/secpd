@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily attributed to",
+    "economic uncertainty",
+    "normalized level",
+    "not able to predict with certainty",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed earnings, asset quality, liquidity, and balance-sheet metrics. Risk tone is mildly negative due to declining net income, higher credit-loss provisions, rising funding costs, and exposure to interest-rate, inflation, and economic uncertainty, although asset quality and loan growth remain comparatively solid."
+}

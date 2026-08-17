@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subjective estimates and judgments",
+    "risks and uncertainties",
+    "no obligation to update",
+    "qualitative adjustments"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and emphasizes that accounting estimates, loan-loss reserves, collateral values, and economic assumptions are inherently subjective. Disclosure quality is moderately strong because it provides specific methodology, thresholds, time periods, and LEP assumptions, but the excerpt is dense and includes broad caveats that limit predictive certainty. Risk tone is broadly neutral with a slight positive tilt from references to improving economic conditions."
+}

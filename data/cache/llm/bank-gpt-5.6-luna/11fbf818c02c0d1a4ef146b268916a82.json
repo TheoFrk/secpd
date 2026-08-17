@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "temporary impairment",
+    "solely due to the continuing downturn",
+    "reasonably expected to be paid",
+    "reviewed on a regular basis",
+    "could be required to write off"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on revenue mix, estimation sensitivity, receivables, and the Mevion investment, but relies on management judgment regarding collectability, revenue estimates, and impairment duration. The optimistic characterization of Mevion’s impairment as temporary contrasts with delayed manufacturing and a stated potential material write-off. Overall risk tone is mixed, with operational growth offset by concentration, estimation, and investment-impairment risks."
+}

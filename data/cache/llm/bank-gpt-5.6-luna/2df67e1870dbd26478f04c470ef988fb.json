@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking estimates and assumptions",
+    "risks and uncertainties",
+    "no obligation to update",
+    "significant items not provided",
+    "table excerpt truncated"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative revenue, income, EPS, and asset figures, but the supplied text omits the detailed explanations and tables referenced as significant drivers. Risk disclosure is largely standardized forward-looking language, with revenue declines and margin deterioration partially offset by higher net income and EPS."
+}

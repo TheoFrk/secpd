@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "should help the perception",
+    "as needed",
+    "if needed",
+    "inherently complex and subjective",
+    "[text] omitted/truncated"
+  ],
+  "risk_summary": "The excerpt discloses materially adverse conditions, including recurring operating losses, rising default interest expense, substantial related-party borrowings, and continued reliance on advances to fund operations. Liquidity and debt-servicing risk appear elevated, while management offsets these concerns with qualitative expectations about San Francisco recovery and future hotel performance. Some liquidity discussion is truncated and several forward-looking assessments rely on subjective assumptions rather than quantified forecasts."
+}

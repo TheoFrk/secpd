@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly dependent on the external environment",
+    "we believe",
+    "reasonably likely scenarios",
+    "could nonetheless fall outside",
+    "estimated industry data"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed performance targets, historical comparisons, and reserve-sensitivity methodology. Risk tone is cautiously positive, but forward-looking objectives depend on external conditions and reserve outcomes may vary materially from modeled ranges. The excerpt acknowledges insurance, investment, and estimation risks without indicating an immediate crisis."
+}

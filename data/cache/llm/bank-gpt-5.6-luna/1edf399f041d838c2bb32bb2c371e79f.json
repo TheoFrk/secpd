@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to remain",
+    "projected to be in a range",
+    "uncertainties associated with",
+    "to differing degrees",
+    "estimated cost"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with substantial accounting explanations and quantitative figures. Risk tone is mildly cautious due to macroeconomic weakness, European debt concerns, excess industry capacity, and reliance on estimates, but it is not crisis-like."
+}

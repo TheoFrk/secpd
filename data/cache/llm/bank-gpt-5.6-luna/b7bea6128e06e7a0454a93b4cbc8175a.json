@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "unclear at this point",
+    "not possible to predict with certainty",
+    "subject to economic conditions",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, identifying revenue declines, segment weaknesses, restructuring actions, impairment drivers, and expected cash costs. Risk tone is moderately negative because of sustained weakness in government, mining, and Eastern Canada markets, economic uncertainty, and exposure to project wind-downs, although operating income improved materially. Forward-looking expectations rely on uncertain recovery, funding, commodity, and client-spending conditions."
+}

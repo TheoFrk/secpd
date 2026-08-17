@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "other pertinent factors",
+    "qualitative risk factors",
+    "more-likely-than-not",
+    "estimated market value declines"
+  ],
+  "risk_summary": "The excerpt provides detailed methodology and some quantified operating data, but allowance and valuation estimates rely substantially on management judgment, qualitative adjustments, and potentially subjective assumptions. It acknowledges that adverse conditions, regulatory review, and changes in assumptions could require higher loan-loss provisions or impairment charges, while stating that goodwill fair value significantly exceeded carrying value and the allowance was considered adequate."
+}

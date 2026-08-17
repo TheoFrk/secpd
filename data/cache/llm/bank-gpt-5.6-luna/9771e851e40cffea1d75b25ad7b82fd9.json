@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous factors and uncertainties",
+    "undertake no obligation to update",
+    "non-GAAP adjusted EBITDA",
+    "incomplete tables and sections"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate legal disclaimers and relies on non-GAAP measures, although it also provides meaningful segment-level operating data and quantified performance drivers. Risk tone is mildly positive overall, offset by lower recycling demand, margin compression, cost inflation, weak Australian distribution, and a discontinued German fabrication operation."
+}

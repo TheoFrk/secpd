@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant estimates and assumptions",
+    "actual results may or may not differ",
+    "subject to certain terms and conditions",
+    "not expected to be material",
+    "we do not believe"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, reporting revenue, margins, acquisition costs, debt financing, and international exposure. Key risk areas include acquisition-related leverage and integration costs, impairment estimates dependent on projected cash flows and discount rates, and regulatory compliance involving Iran sales. Overall tone is neutral to mildly confident, with standard management caveats around estimates and future compliance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "could continue to affect",
+    "prospects for continued growth",
+    "excluding effect of currency translation"
+  ],
+  "risk_summary": "The excerpt provides substantial operating detail, acquisition information, segment structure, and quantified financial impacts, reducing concerns about outright evasiveness. Risk disclosure is balanced but includes exposure to sluggish global conditions, depressed housing, customer spending reductions, currency movements, and reliance on acquisitions and future market growth; the overall tone remains cautiously optimistic."
+}

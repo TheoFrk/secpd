@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "include, but are not limited to",
+    "not obligated to update",
+    "non-GAAP core earnings"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on earnings declines, wildfire-related costs, tax settlements, regulatory proceedings, and San Onofre liabilities. However, extensive forward-looking and legal boilerplate, including an apparently truncated risk-factor list, limits the clarity of the overall risk presentation. The tone is materially risk-aware and negative but not crisis-like."
+}

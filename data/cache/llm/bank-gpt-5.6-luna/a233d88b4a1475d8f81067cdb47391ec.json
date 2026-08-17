@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "believes corrective actions adequately addressed",
+    "may not be satisfactory to the FDA",
+    "could materially, adversely affect",
+    "up to an additional $8.4 million",
+    "subject to possible offsets"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, cash flow, payments, and operating trends, but contains significant regulatory uncertainty involving multiple FDA Form 483s, a warning letter, inspections, and European tissue-distribution restrictions. Management uses conditional language to limit conclusions regarding remediation, potential earnout proceeds, and possible impacts on revenues, profitability, and cash flows."
+}

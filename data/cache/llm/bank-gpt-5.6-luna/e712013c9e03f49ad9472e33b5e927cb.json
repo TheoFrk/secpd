@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "highly uncertain",
+    "may include, but not be limited to",
+    "continue to evaluate potential transactions",
+    "not necessarily comparable",
+    "expected discontinuation or unavailability"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but contains substantial standard non-GAAP, forward-looking, and cross-reference language. Risk tone is moderately negative due to COVID-19, declining earnings, credit-loss exposure, low interest rates, and benchmark-transition uncertainty, partly offset by reported capital and liquidity actions."
+}

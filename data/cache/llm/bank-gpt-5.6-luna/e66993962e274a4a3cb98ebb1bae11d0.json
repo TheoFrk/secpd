@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes developer is capable",
+    "completion date is estimated",
+    "based on available information",
+    "developer encountered cash flow difficulties",
+    "yet to receive title deed"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but highlights material operating deterioration, including declining revenue, lower margins, an operating loss, and reduced cash. Significant execution and recovery uncertainty surrounds Chinese real estate investments, including delayed project completion, missing title documentation, and a developer undergoing liquidation."
+}

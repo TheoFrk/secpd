@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "impact remains uncertain",
+    "may continue to negatively impact",
+    "potentially result in a material adverse impact",
+    "unable to make a reasonable estimate",
+    "currency neutral calculations"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly regarding the N&B transaction, operating performance, and contractual obligations. Risk tone is balanced but highlights meaningful uncertainty from COVID-19, input costs, supply-chain constraints, currency comparability, and uncertain tax-related cash flows."
+}

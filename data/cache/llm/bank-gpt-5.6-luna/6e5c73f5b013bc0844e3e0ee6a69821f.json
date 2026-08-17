@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "without limitation",
+    "adjusted to exclude charges",
+    "discounted cash flow assumptions"
+  ],
+  "risk_summary": "The excerpt presents a detailed but highly technical MD&A with meaningful quantified information, including a 10.3% compound revenue decline, margin contraction, impairment charges, and cost pressures. Risk disclosure is substantially qualified through standard forward-looking disclaimers and extensive non-GAAP adjustments, while the overall tone is operationally cautious rather than crisis-like."
+}

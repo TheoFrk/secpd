@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "no assurances",
+    "cannot continue our operations",
+    "not possible to predict"
+  ],
+  "risk_summary": "The disclosure presents significant liquidity and going-concern risk, including a $682.1 million accumulated deficit, only $14.0 million in cash and short-term investments, and an explicit need for additional capital with no assurance of availability. Risk language is partly precise through quantified balances but is surrounded by extensive legal safe-harbor and uncertainty boilerplate. The company remains a clinical-stage biopharmaceutical issuer without a marketable product, increasing dependence on financing and successful development outcomes."
+}

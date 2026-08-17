@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high-single-digit percent",
+    "slightly over 10%",
+    "challenging industry environment",
+    "numerous assumptions",
+    "significant judgment"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but uses some imprecise ranges and judgment-based language. Risk tone is moderately negative due to sharply deteriorating memory-market conditions, customer inventory adjustments, expected shipment and pricing declines, elevated inventory, utilization reductions, and anticipated margin compression."
+}

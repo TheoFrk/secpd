@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "known and unknown risks",
+    "cannot guarantee future results",
+    "disclaims obligation to update",
+    "working capital deficit"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative, highlighting a $1.12 million net loss, substantial accumulated and stockholders' deficits, minimal cash, and reliance on financing and CEO loans. Results are quantified, but extensive boilerplate disclaimers and broad risk-factor language reduce transparency regarding future liquidity and operating viability."
+}

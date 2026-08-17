@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "subject to working capital adjustments",
+    "future growth opportunities",
+    "significant judgment is required",
+    "expected future taxable income"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but includes substantial technical boilerplate and forward-looking assumptions. Credit risks include declining sales, prior operating losses, goodwill impairment, a full deferred-tax valuation allowance, and dependence on successful sales-force expansion and cost controls. The tone is cautiously optimistic regarding operational improvements but remains mildly negative due to historical performance and uncertainty around recovery."
+}

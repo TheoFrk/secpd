@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "excluding impairment and merger-related expenses",
+    "subjective estimates and assumptions",
+    "limitations of EBITDA",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and identifies significant credit risks, including a $47.6 million net loss, goodwill impairment, acquisition-related costs, high-cost debt, and leverage covenants. Risk is partly softened by emphasizing adjusted EBITDA and excluding unusual or acquisition-related charges, although GAAP reconciliations and limitations are acknowledged."
+}

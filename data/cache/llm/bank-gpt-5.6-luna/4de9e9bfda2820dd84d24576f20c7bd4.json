@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "estimates and assumptions",
+    "uncertainty with regard to recovery",
+    "material effect",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and includes meaningful quantified balances for regulatory and environmental assets and liabilities, as well as derivative exposures. Risk is moderated by regulatory accounting dependence, remediation uncertainty, valuation judgments, and commodity-price sensitivity, while management maintains a generally constructive growth-oriented tone."
+}

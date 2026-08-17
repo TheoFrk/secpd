@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "variety of other factors",
+    "subject to demand and market conditions",
+    "adjusted non-GAAP measures",
+    "expected to continue"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, including sales, margins, cash flow, debt maturities, facility capacity, and covenant compliance. Risk tone is cautiously positive, but it highlights exposure to inflation, demand volatility, interest rates, geopolitical tensions, and potential margin pressure. Use of non-GAAP measures and forward-looking qualifiers modestly reduces transparency but does not appear overtly evasive."
+}

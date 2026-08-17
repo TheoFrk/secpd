@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could materially or adversely impact",
+    "significant estimates, assumptions, and judgments",
+    "non-GAAP financial measures",
+    "temporary supply chain disruptions",
+    "no direct exposure; broader economic impact"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantified information on the Barletta acquisition and identifies supply-chain, inflation, demand, interest-rate, geopolitical, warranty, and valuation risks. Risk tone is balanced but moderately optimistic, relying on management beliefs and forward-looking assumptions while emphasizing adjusted EBITDA and other non-GAAP measures. Extensive cross-references, boilerplate caveats, and unobservable valuation inputs limit transparency regarding downside sensitivity."
+}

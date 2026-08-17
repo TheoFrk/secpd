@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "factors beyond control",
+    "management’s judgment",
+    "more-likely-than-not"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate risk disclaimers and relies heavily on management judgment and qualitative assumptions for loan-loss allowances and impairment testing. It identifies meaningful banking risks, including economic weakness, interest-rate volatility, credit deterioration, asset-value declines, and regulatory intervention, while reporting modestly positive operating results. Quantified performance data is present, but the excerpt is lengthy, highly technical, and partly truncated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance expectations will be achieved",
+    "including, but not limited to",
+    "future anticipated demand",
+    "we believe could be developed long term"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and portfolio data, including occupancy, leasing, acquisitions, development, and debt maturity information. Risk disclosure is extensive but largely standardized and includes broad, non-quantified contingencies, while management maintains a generally positive outlook centered on Defense/IT demand. The main credit concerns are weaker office properties, interest-rate and financing constraints, development and leasing execution risk, and reliance on continued defense/data-center demand."
+}

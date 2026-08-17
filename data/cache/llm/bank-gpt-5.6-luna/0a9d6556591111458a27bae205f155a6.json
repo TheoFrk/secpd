@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "among other things",
+    "may not be comparable",
+    "primarily due to",
+    "efforts to partially offset",
+    "certain risk factors"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, but it documents persistent structural revenue pressure from access-line, legacy-service, private-line, and hosting declines. Management describes mitigation efforts, though offsets appear partial and the disclosure includes standard forward-looking and comparability caveats."
+}

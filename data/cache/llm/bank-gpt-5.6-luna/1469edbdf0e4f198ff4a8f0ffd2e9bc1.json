@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "subjective and/or complex judgments",
+    "inherently uncertain",
+    "may differ materially",
+    "difficult to quantify impact"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and accounting-estimate disclaimers, with recurring references to uncertainty and potential material deviations. Credit-loss and securities valuations face sensitivity to economic conditions, collateral values, ratings, liquidity, and cash-flow assumptions, although several quantified sensitivities improve transparency. Overall tone is cautiously positive regarding economic and lending conditions but acknowledges meaningful downside risks."
+}

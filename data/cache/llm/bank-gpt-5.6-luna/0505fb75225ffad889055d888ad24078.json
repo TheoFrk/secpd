@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "anticipated cash flow from operations",
+    "no assurance of financing",
+    "plans to increase profitability",
+    "liquidity risk assessed as high"
+  ],
+  "risk_summary": "The company reports substantial net losses, high liquidity risk, and dependence on additional financing to execute its business plan. Growth, cost reductions, refinancing, and improved profitability are presented as plans or expectations rather than committed outcomes, with extensive standard forward-looking disclaimers."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "anticipated incremental improvement",
+    "not expected to have a material impact",
+    "may be impacted in future periods",
+    "subjective and complex judgment",
+    "discovery of information not known"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, reporting earnings, loan growth, capital status, stock performance, and credit-quality metrics. Risk factors include increased criticized assets and loan-loss provisions, agricultural portfolio exposure, nonperforming and restructured loans, regulatory costs, and an unfavorable interest-rate environment. Management maintains a cautiously positive outlook, but relies on forward-looking assumptions regarding loan growth, net interest yield, asset quality, and regulatory impacts."
+}

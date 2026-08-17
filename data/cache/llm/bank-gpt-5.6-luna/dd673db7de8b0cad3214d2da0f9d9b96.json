@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "not an all-encompassing list",
+    "beyond the Company’s ability to control or predict",
+    "non-GAAP measures",
+    "uncertainty surrounding the current economic environment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, margins, acquisition effects, loan growth, and allowance levels. However, extensive boilerplate disclaimers and reliance on broad, unquantified external risks reduce transparency, while pandemic-related uncertainty, rising nonaccrual loans, and declining allowance coverage indicate elevated credit risk."
+}

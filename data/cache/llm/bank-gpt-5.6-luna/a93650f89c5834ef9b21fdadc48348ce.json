@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "significant judgment and estimates",
+    "susceptible to significant change",
+    "inherent uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance data, including earnings, asset growth, capital-related information, and funding changes, but is preceded and interspersed with extensive boilerplate cautionary language. Key risks include margin compression, higher deposit and wholesale funding costs, credit-loss estimation uncertainty, and potential impairment of goodwill and other intangible assets."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "without limitation",
+    "anticipated to",
+    "certain organizational changes"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but includes standard broad forward-looking disclaimers and several hedged outlook statements. Key risks include declining physical mail volumes, pressure on recurring revenue streams, lower profitability, restructuring and debt-redemption costs, and multi-year ERP implementation expenses."
+}

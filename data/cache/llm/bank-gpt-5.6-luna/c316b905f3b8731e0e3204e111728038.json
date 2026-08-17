@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "not limited to these factors",
+    "susceptible to future market factors",
+    "other environmental factors",
+    "unallocated component"
+  ],
+  "risk_summary": "The excerpt is highly quantitative regarding earnings, asset growth, and rate/volume effects, supporting relatively strong disclosure precision. Credit risk disclosures are extensive but rely substantially on management judgment, historical loss assumptions, broad qualitative factors, and an unallocated allowance component. The increased provision for loan losses tied to COVID-19 presents a modestly negative risk signal despite otherwise stable operating results."
+}

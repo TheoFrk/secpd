@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "factors include but are not limited to",
+    "risks are manageable",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear discussion of sales, margins, debt repayment, cash flows, tariffs, inflation, and acquisition impacts. Risk tone is cautiously positive, but extensive boilerplate disclaimers and broad, non-exhaustive risk language limit specificity regarding downside scenarios."
+}

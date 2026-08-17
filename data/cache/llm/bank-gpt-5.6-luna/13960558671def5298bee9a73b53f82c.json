@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect to continue",
+    "we believe",
+    "optimistic about market conditions",
+    "depends on overall market conditions",
+    "timing difference"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, covering pandemic effects, operating rates, imports, excess capacity, raw-material volatility, contract pricing, liquidity and debt maturities. Risk exposure is material but presented with credible mitigation measures and strong liquidity support, producing a cautiously confident rather than crisis-like tone. Forward-looking statements and market-dependent assumptions introduce moderate uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP earnings exclusions",
+    "not indicative of ongoing costs",
+    "expected to close",
+    "projected EPS growth range",
+    "contingent liability and future obligations"
+  ],
+  "risk_summary": "The disclosure is highly quantified and transparent on earnings, capital spending, debt issuance, project costs, and transaction losses, but it emphasizes non-GAAP results that exclude significant recurring-looking charges. Key risks include substantial leverage and capital requirements, offshore wind cost-overrun obligations, regulatory approval dependencies, and uncertainty surrounding the Aquarion sale and projected returns."
+}

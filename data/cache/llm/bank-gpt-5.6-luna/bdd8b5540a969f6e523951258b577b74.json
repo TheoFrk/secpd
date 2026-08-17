@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements are not guarantees",
+    "risks, uncertainties and assumptions",
+    "actual results may differ materially",
+    "does not intend to review or revise",
+    "difficult to anticipate future margins"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively detailed, reporting strong earnings, capital, deposit growth, and reduced loan-loss provisions. Risk is moderated by declining net interest margin and spread, dependence on a low-rate environment, and explicit uncertainty regarding future margins. Extensive safe-harbor language is largely standardized boilerplate rather than evidence of acute distress."
+}

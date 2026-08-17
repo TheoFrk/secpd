@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "materially adversely affected",
+    "significant judgment",
+    "highly uncertain assumptions",
+    "periodic evaluations"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful quantitative reinsurance terms, but relies heavily on actuarial assumptions, management judgment, and broad adverse-impact caveats. Key risks include reserve inadequacy, long-term-care assumption deterioration, investment impairment, receivables collectibility, and regulatory limits on premium increases."
+}

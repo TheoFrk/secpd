@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results",
+    "aforementioned items",
+    "limited customer visibility",
+    "acquisition-driven growth",
+    "prospective presentation revision"
+  ],
+  "risk_summary": "The excerpt presents a generally positive performance narrative with quantified sales and earnings growth, but a meaningful portion of improvement reflects acquisitions, currency effects, and adjusted non-GAAP measures. Limited forward visibility, segment weakness in proprietary servers, and repeated exclusion of charges introduce moderate interpretive and underlying-performance risk."
+}

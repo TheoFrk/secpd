@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future trend",
+    "not subject to accurate forecasting",
+    "no assurances can be provided",
+    "expected to allow",
+    "not expected to be significant"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but includes meaningful uncertainty around catastrophe-driven volumes, offshore center execution, cost savings, and future operating performance. Restructuring activity and goodwill impairment charges indicate execution and asset-quality risks, although reported segment earnings and margins improved in the period."
+}

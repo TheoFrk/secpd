@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "estimates and assumptions",
+    "among other things",
+    "not material",
+    "fair value impairment assessments"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial operational quantification, but relies on standard accounting-estimate caveats and qualitative impairment judgments. It presents generally favorable operating trends in contracts, backlog, revenue, and absorption, while highlighting exposure to construction-cost estimates, inventory valuation, demand conditions, and interest rates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "dependent upon many factors",
+    "cannot be certain",
+    "on favorable terms or at all",
+    "independent investment banking firm opinion",
+    "repeated stock issuances and discounts"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantified, but highlights significant liquidity dependence, prior bankruptcy exposure, reliance on equity financing, dilution risk, and substantial discounts recorded as interest or compensation expense. Repeated related-party stock issuances and duplicated passages reduce clarity and raise governance and financial-reporting concerns."
+}

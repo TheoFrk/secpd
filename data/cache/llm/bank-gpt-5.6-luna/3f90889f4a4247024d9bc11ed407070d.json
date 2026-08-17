@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "partially offset",
+    "primarily driven",
+    "non-GAAP measure",
+    "other expenses",
+    "applicable notes and information"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides specific drivers for revenue, expense, volume, pricing, and operating-ratio changes. Risk tone is mildly negative, reflecting weaker demand, operational challenges, rising costs, casualty expenses, and deteriorating productivity and margins, although management describes offsets and recovery initiatives. Dense accounting terminology and repeated qualification of drivers reduce accessibility but do not appear materially evasive."
+}

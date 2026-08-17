@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to numerous risks and uncertainties",
+    "as may be required",
+    "no assurance that we will be successful",
+    "substantial doubt regarding going concern",
+    "if unable to obtain adequate capital"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but presents severe liquidity and funding risk, with only $3.3 million of cash against $25.9 million of operating cash use and minimal revenue. Management explicitly states that continued operations depend on additional financing and that failure to obtain capital could require discontinuing operations; auditors also identified substantial doubt about going concern. The business remains pre-profit and dependent on uncertain commercialization, licensing, grants, and equity or debt financing."
+}

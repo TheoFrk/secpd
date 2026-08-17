@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.15,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "expected to",
+    "could result in a gain"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, but includes standard forward-looking disclaimers and several conditional projections. Key risks include ethanol inventory exposure to volatile commodity prices and negative forward margins, while favorable operating trends are reported in plant nutrients and rail utilization."
+}

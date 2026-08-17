@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "factors beyond the Company’s control",
+    "materially different amounts",
+    "under adversely different conditions",
+    "does not undertake to revise"
+  ],
+  "risk_summary": "The excerpt is heavily disclaimer-driven and uses broad, largely unquantified contingencies covering economic, credit, regulatory, legal, operational, and market risks. It identifies meaningful sensitivity in loan-loss reserves, collateral values, pensions, taxes, and goodwill, while management asserts current estimates are adequate or reasonable without providing supporting quantitative sensitivity analysis in the excerpt."
+}

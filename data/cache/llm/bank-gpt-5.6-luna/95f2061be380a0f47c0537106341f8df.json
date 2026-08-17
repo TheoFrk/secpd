@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks, uncertainties and assumptions",
+    "beyond our ability to control or predict",
+    "potential adverse impacts",
+    "subjective fair-value assumptions"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating metrics, but its extensive safe-h harbor language and broad catalog of contingencies limit the specificity of forward-looking risk assessment. Revenue declined and customer inventory destocking, supply-chain shortages, geopolitical exposure, and demand uncertainty present meaningful risks, while recurring-revenue growth and margin expansion provide offsetting positives. Goodwill impairment risk is notable because the Ventus reporting unit had less than a 10% fair-value cushion over carrying value."
+}

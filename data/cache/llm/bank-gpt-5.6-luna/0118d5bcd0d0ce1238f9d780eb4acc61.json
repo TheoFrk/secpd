@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "most significant factors included:",
+    "all available information",
+    "actual results will inevitably differ",
+    "truncated factor disclosures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but annual sales and net income declined 10% and 20%, respectively, with weakness across all three segments. Risk disclosure is partly obscured by repeated boilerplate accounting guidance and incomplete sections following factor listings. The fourth-quarter improvement and margin expansion provide some offset, but demand softness remains evident."
+}

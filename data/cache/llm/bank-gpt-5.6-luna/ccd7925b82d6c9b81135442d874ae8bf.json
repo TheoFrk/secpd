@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "no assurance financing will be available",
+    "may increase over time",
+    "actual results may differ materially",
+    "subject to limitations and restrictions"
+  ],
+  "risk_summary": "The company is pre-revenue and pre-clinical, with rising R&D expenses, recurring losses, and substantial dependence on future capital raises. Disclosure quantifies recent expenses and cash usage but relies heavily on boilerplate uncertainty language and provides no clear runway or financing timetable. Potential dilution, debt restrictions, program curtailment, and liquidity risk are significant."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt as to ability to continue",
+    "expected to be achieved",
+    "plan to renew secured obligations",
+    "projected cash flow insufficient",
+    "potential equity and debt offerings"
+  ],
+  "risk_summary": "The disclosure explicitly identifies substantial doubt about going-concern status, a significant accumulated deficit, low cash, high interest expense, operator defaults, and dependence on refinancing or additional capital. Although results include quantified revenue and cash-flow improvements, liquidity remains highly constrained and debt maturities appear dependent on successful renewal or external financing."
+}

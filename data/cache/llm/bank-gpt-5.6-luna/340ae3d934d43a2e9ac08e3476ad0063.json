@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "among others",
+    "actual results could differ materially",
+    "inherently uncertain"
+  ],
+  "risk_summary": "The excerpt presents strong sales, earnings, and demand performance, but highlights material exposure to supply-chain constraints, inflation, pandemic effects, cybersecurity, regulation, and execution risk. Disclosure is partly quantified, yet the extensive standardized disclaimer and broad risk enumeration limit specificity regarding probability, timing, and potential financial impact."
+}

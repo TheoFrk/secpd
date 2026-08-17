@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly correlated to AUM",
+    "may impact revenues",
+    "somewhat offset by",
+    "expected to be completed",
+    "volatile and cyclical"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, clearly linking revenue and AUM to market volatility, investor redemptions, product mix, and performance fees. Risk is elevated by declining period-end AUM, weakness in gold and natural-resource funds, fee reductions, and offshore-client liquidations, although diversified products and flexible compensation partly mitigate exposure."
+}

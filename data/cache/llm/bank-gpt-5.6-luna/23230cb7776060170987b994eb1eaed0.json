@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.45,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantially all of the assets",
+    "may be obligated to pay",
+    "believed to be reasonable",
+    "actual results may differ",
+    "considerable amount of judgment and estimate"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with substantial year-over-year financial quantification, segment detail, acquisition dates, and capital expenditure data. Risk factors include acquisition-related valuation judgment, contingent earnout obligations, environmental liabilities, commodity price sensitivity, and weaker Industrial and Health and Nutrition sales. Overall tone is positive, although some standard accounting caveats and omitted historical-period discussion limit completeness."
+}

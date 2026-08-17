@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "non-GAAP measures",
+    "excluding certain items",
+    "may not be comparable",
+    "management believes useful"
+  ],
+  "risk_summary": "The excerpt is largely boilerplate describing non-GAAP measures and provides no quantified operating, liquidity, or credit-risk results. Repeated emphasis on exclusions and limited comparability could obscure GAAP performance, although the tone is generally confident rather than crisis-like."
+}

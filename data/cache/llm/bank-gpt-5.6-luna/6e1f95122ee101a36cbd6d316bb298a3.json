@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may differ from actual results",
+    "cannot be certain",
+    "if needed, on favorable terms or at all",
+    "material adverse impact",
+    "estimated undiscounted future cash flows"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but it highlights substantial operating losses, cash use, impairment, equity-based compensation, and dependence on additional financing. Liquidity language relies on standard contingencies and provides no explicit cash runway, increasing uncertainty around the ability to sustain operations and fund litigation or development activities."
+}

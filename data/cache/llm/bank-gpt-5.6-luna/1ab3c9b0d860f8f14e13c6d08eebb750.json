@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "known or unknown risks and uncertainties",
+    "cannot predict the effect",
+    "may be unable to fully mitigate",
+    "could materially affect",
+    "subject to seasonal and other variations"
+  ],
+  "risk_summary": "The excerpt provides some concrete operational detail, including acquisitions, segment exposure, cost categories, and project-margin drivers, but relies heavily on broad forward-looking caveats and non-quantified adverse scenarios. Risk is concentrated in cyclical demand, weather, project execution, pricing, customer capital access, regulation, and energy-market conditions, while the overall tone remains cautiously optimistic regarding backlog and infrastructure opportunities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict duration or total magnitude",
+    "expected to provide annual benefits",
+    "may not be available on acceptable terms",
+    "adjusted non-GAAP measures",
+    "cash collateral could be returned"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, particularly regarding the acquisition, transformation costs, expected savings, liquidity, and collateral deposits. Key uncertainty remains around COVID-19 effects, commodity-derivative volatility, realization of projected benefits, and access to financing on acceptable terms. Management presents a cautiously confident tone while relying partly on non-GAAP measures and forward-looking estimates."
+}

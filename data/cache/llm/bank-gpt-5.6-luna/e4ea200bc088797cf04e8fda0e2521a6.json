@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks, uncertainties and assumptions",
+    "actual results may vary materially",
+    "best estimate of remediation liability",
+    "subject to customary closing conditions"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively transparent, clearly attributing lower earnings and operating income to volume declines, higher expenses, competitive pricing pressure, and remediation charges. Risk tone is moderately negative but balanced by identified offsets, segment growth, and quantified operational explanations. The principal uncertainty signals are standard forward-looking disclaimers, an acquisition subject to closing conditions, and environmental liability estimates."
+}

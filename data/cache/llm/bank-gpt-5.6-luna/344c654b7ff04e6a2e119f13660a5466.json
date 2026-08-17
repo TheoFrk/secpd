@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "management believes",
+    "anticipate losses",
+    "alternative insurance markets",
+    "contingent revenues"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment, geographic, acquisition, and non-GAAP disclosures. Risk is presented in a balanced, mostly constructive tone, but reliance on adjusted metrics, acquisition-related adjustments, market cyclicality, and anticipated clean-energy losses warrant attention."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "could differ materially",
+    "not under any obligation to update",
+    "certain amount of goodwill",
+    "extent of the impact will depend"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail, including portfolio credit quality, impairment amounts, premium changes, and projected amortization, but contains substantial boilerplate forward-looking disclaimers and conditional COVID-19 assumptions. Risk tone is cautiously confident, emphasizing operational continuity, diversification, and adequate capital while acknowledging slower sales, potential school budget constraints, market volatility, and impairment risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "subject to variability",
+    "selective risk selection",
+    "computer-assisted modeling",
+    "qualitative criteria"
+  ],
+  "risk_summary": "The disclosure presents a generally confident and historically strong underwriting profile, supported by a 19-year record and an 87.4 combined ratio. It nevertheless identifies material exposure to catastrophe losses, reserve uncertainty, inflation, regulatory changes, economic deterioration, competitive pricing, and investment impairment. Risk discussion is substantive but relies in places on qualitative assurances and broad descriptions of mitigation rather than quantified exposure limits or stress results."
+}

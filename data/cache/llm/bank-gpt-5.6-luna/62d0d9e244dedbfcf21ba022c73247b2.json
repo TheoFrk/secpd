@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.55,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unpredictable and beyond our control",
+    "expect to continue",
+    "opportunistic with incremental repurchases",
+    "healthy investment banking pipeline",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is predominantly positive and provides substantial quantitative detail on earnings, capital, liquidity, and shareholder returns. Risk disclosure is mainly broad and market-dependent, with forward-looking expectations regarding rates, transaction activity, recruiting, and repurchases that remain subject to uncertain conditions. Extensive financial jargon and non-GAAP adjustments increase interpretive complexity, but the passage is not strongly evasive."
+}

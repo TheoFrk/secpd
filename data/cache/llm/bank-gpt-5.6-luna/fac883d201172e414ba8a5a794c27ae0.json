@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "based on assumptions about future sales",
+    "highly subjective assumptions",
+    "smaller reporting company omissions"
+  ],
+  "risk_summary": "The excerpt provides useful quantified sales changes and segment detail, but is dominated by standard legal disclaimers, accounting-policy boilerplate, and assumption-based estimates. The 8.1% consolidated sales decline and weaker Disposable Protective Apparel and Infection Control segments indicate moderate operating pressure, while inventory, receivables, rebate, and valuation assumptions create potential estimation risk."
+}

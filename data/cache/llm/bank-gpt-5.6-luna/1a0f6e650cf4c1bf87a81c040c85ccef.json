@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "license remains in dispute",
+    "numerous lawsuits",
+    "history of losses",
+    "current liabilities exceeded current assets",
+    "revenue from defaulted contracts"
+  ],
+  "risk_summary": "The company reports severe liquidity and solvency stress, including a $26.5 million working-capital deficit, a $48.5 million accumulated deficit, continuing losses, and substantial litigation and licensing uncertainty. Reported revenue and margins improved materially, but the improvement relies significantly on recognition of prepayments from defaulted or terminated contracts and low-cost royalty revenue."
+}

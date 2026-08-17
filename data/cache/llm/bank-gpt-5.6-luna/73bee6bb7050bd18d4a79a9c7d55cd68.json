@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.14,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "potentially mitigate unfavorable impacts",
+    "cannot predict the impact",
+    "currently available information",
+    "normal course of business",
+    "items affecting comparability"
+  ],
+  "risk_summary": "The disclosure is broadly comprehensive and includes several quantified exposures, but relies heavily on boilerplate monitoring and mitigation language for regulatory, geopolitical, macroeconomic, and market risks. The tone is cautiously confident, with material uncertainty around future taxes, regulations, currency movements, commodity prices, and comparability adjustments."
+}

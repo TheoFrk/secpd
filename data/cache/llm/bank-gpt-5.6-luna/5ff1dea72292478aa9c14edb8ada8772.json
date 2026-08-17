@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "non-GAAP measures",
+    "supplier channel and program changes",
+    "could affect ability to meet covenants"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, with detailed sales, margin, expense, currency, and impairment data. Risk is elevated by goodwill impairment, declining operating margins, supplier-related sales pressure, and financing covenants that could restrict liquidity if breached. Extensive accounting terminology, non-GAAP framing, and repeated attribution to broad factors somewhat complicate interpretation."
+}

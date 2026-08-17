@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual outcomes may differ materially",
+    "difficult to predict",
+    "no obligation to update",
+    "certain factors and assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and operational detail, including sales trends, cash flow, dividends, repurchases, and product developments. However, extensive standardized forward-looking language and broad qualifiers limit predictive clarity, while biosimilar competition, pricing pressure, regulatory uncertainty, and product-development risk are material concerns. Overall tone is cautiously confident, supported by strong cash generation but tempered by industry and portfolio risks."
+}

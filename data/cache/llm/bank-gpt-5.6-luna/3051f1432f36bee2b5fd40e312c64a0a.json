@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significant investment required",
+    "management believes uniquely positioned",
+    "as business performance permits",
+    "estimates and judgments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results, geographic sales data, rebate terms, shipping costs, and accounting policy detail, supporting relatively transparent disclosure. It nevertheless highlights declining operating income, dependence on episodic crisis-driven demand, increasing competition, substantial investment needs, and estimation uncertainty. Overall tone is cautiously optimistic but balanced by clear execution and market risks."
+}

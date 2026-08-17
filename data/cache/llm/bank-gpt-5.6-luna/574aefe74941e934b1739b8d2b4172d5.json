@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.21,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "substantial doubt about going concern",
+    "if necessary",
+    "cannot assure successful capital access",
+    "lowest bid price conversion feature"
+  ],
+  "risk_summary": "The disclosure presents severe financial distress, including substantial accumulated losses, a going-concern qualification, declining revenue, recurring net losses, and dependence on external capital. Liquidity is supported partly by working-capital changes and related-party financing, while convertible debt and potential equity issuance create dilution and refinancing risks."
+}

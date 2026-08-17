@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict future charge-offs",
+    "slight decrease",
+    "reduce somewhat its dependence",
+    "under pressure when interest rates rise",
+    "other relevant factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with detailed year-over-year operating, margin, funding, and credit-loss data. Key risks include liability-sensitive balance-sheet exposure to rising rates, declining asset yields, higher net charge-offs, and increased legal, collections, and foreclosed-asset expenses. Overall tone is cautiously positive, supported by improved earnings and margins but tempered by explicit forward-looking vulnerabilities."
+}

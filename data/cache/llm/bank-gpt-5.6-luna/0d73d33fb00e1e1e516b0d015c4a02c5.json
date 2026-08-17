@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may differ materially",
+    "difficult to predict future impact",
+    "could have a material adverse effect",
+    "changing economic and market conditions"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing quantified acquisition, loan deferral, credit-loss, and PPP information. However, it relies substantially on standard forward-looking disclaimers and broad conditional language around COVID-19, market volatility, impairments, and future credit losses; the overall tone is cautious but not crisis-like."
+}

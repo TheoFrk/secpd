@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "no assurance",
+    "among others",
+    "outside of management’s control",
+    "not necessarily comparable"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial detail, but relies on standard forward-looking disclaimers and includes management-accounting allocations that limit comparability. Key risks include input-cost inflation, uncertain REC revenues, foreign exchange exposure, operational inefficiencies, and reliance on non-core or unusual items affecting earnings."
+}

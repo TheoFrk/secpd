@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate ultimate costs",
+    "preliminary and incomplete information",
+    "immaterial amounts accrued",
+    "will not have a material adverse effect",
+    "adequate provisions have been made"
+  ],
+  "risk_summary": "The excerpt is generally specific regarding acquisitions, operating metrics, capital projects, and segment structure, but environmental and litigation disclosures rely on standard materiality language and acknowledge significant estimation uncertainty. The tone is cautiously confident, while regulatory compliance, remediation costs, fixed-price downstream contracts, and input-cost volatility remain relevant risks."
+}

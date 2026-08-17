@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "significant known and unknown risks",
+    "could cause actual results to differ materially",
+    "subject to various limitations",
+    "risks include, but are not limited to"
+  ],
+  "risk_summary": "The excerpt is dominated by extensive boilerplate cautionary language and a broad, non-ranked catalog of potential risks, limiting clarity about the most material exposures. It identifies meaningful pandemic, credit, liquidity, interest-rate, market, cybersecurity, and control risks, while the later securities discussion provides useful quantitative detail on portfolio changes and purchases."
+}

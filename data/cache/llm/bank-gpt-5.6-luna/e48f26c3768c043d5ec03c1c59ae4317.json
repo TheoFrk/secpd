@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "boilerplate cross-reference",
+    "no substantive MD&A",
+    "see index reference",
+    "missing quantitative discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, operational, liquidity, or risk analysis and merely redirects the reader to another section of the filing. This limits transparency and prevents assessment of performance or emerging risks from the provided text."
+}

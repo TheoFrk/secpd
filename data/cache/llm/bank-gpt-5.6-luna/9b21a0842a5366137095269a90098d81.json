@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily a result of",
+    "partially offset by",
+    "a number of adverse market factors",
+    "other related costs",
+    "favorable impact of exchange rates"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but reports significant deterioration in revenue, margins, operating income, and diluted EPS, driven by market pressures, raw-material costs, competition, and divestiture charges. Results rely frequently on offsetting explanations and adjusted non-GAAP measures, which somewhat soften the presentation of underlying weakness."
+}

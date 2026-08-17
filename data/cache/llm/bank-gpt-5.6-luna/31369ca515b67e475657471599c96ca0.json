@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may differ significantly",
+    "may experience decreases",
+    "potential future terrorist activities",
+    "may not be effective",
+    "estimates and judgments"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial segment-level quantification, but it highlights meaningful exposure to fuel-price volatility, customer credit deterioration, economic weakness, geopolitical instability, and hedging counterparty risk. The tone is mixed: operating performance is presented positively, while extensive forward-looking caveats and accounting-estimate dependencies temper confidence."
+}

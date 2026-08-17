@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may differ materially",
+    "no obligation to update",
+    "cannot be predicted",
+    "subject to regulatory approval",
+    "expected to increase"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantitative metrics, but relies materially on forward-looking qualifiers and extensive safe-harbor language. Key risks include PMIERs compliance, GSE dependence, intense pricing competition, potentially worsening loss development, and regulatory constraints on capital transfers."
+}

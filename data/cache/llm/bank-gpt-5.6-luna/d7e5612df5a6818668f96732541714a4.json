@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "boilerplate strategic language",
+    "subjective terms such as \"acceptable profitability\"",
+    "transaction contingent on customary conditions",
+    "unquantified pricing pressure",
+    "truncated and duplicated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, transaction values, foreign exposure, commodity costs, and discontinued operations, but includes boilerplate strategy language and some subjective or unquantified objectives. Key risks include competitive pricing pressure, foreign exchange and commodity cost exposure, customer consolidation, and execution or regulatory uncertainty surrounding the Mead transaction. The overall tone is cautiously constructive rather than crisis-like, although the excerpt is structurally incomplete and contains duplicated content."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to regulatory approval",
+    "cannot estimate possible range of loss",
+    "reasonably possible fine or penalty",
+    "expected to occur",
+    "pending acquisitions"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed explanations of revenue, costs, tax benefits, and acquisition impacts. Key risks include regulatory uncertainty, a pending acquisition recommended for denial, COVID-19-related bad debt, remediation costs, and an unaccrued fine or penalty whose loss range cannot be estimated. Overall tone is cautiously constructive due to growth and rate increases, but materially tempered by execution and regulatory risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "reasonable likelihood",
+    "subject to change",
+    "from time to time",
+    "may be exposed to material losses"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified sensitivities and accounting detail, but relies extensively on management estimates, historical experience, and conditional language. Risk tone is materially negative due to the $171.8 million net loss, deferred tax asset valuation allowance, and potential exposure to estimation errors in returns, receivables, inventory, and gift-card liabilities."
+}

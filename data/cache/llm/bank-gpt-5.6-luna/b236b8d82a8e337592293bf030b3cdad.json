@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various stages of development",
+    "expected aggregate nominal production capacity",
+    "subject to acceptable commercial and financing arrangements",
+    "among other requirements",
+    "prior to adjusting for planned maintenance"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively specific regarding assets, capacities, ownership, debt, and liquidity structures, reducing overall vagueness. However, extensive project-development language, forward-looking expectations, complex entity structures, and dense debt disclosures may obscure execution, financing, and leverage risks. The tone is moderately confident and growth-oriented while acknowledging restrictive covenants and potential future higher-cost indebtedness."
+}

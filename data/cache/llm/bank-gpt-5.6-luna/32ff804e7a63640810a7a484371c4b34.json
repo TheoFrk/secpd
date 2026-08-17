@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance regarding timing",
+    "subject to risks and uncertainties",
+    "customary conditions",
+    "primarily the result of"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue mix, transaction proceeds, debt repurchases, covenant thresholds, liquidity, and cash needs. However, extensive boilerplate forward-looking language and numerous unquantified contingencies around the proposed separation, restructuring, acquisitions, markets, and litigation limit transparency. The overall tone is cautiously confident regarding liquidity and covenant compliance, but execution and transaction risks are material."
+}

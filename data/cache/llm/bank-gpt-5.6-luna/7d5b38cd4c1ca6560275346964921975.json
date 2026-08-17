@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may differ materially",
+    "beyond our control",
+    "disclaims any obligation to update",
+    "contingent commitments"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad references to risks, limiting the specificity of management’s projections. It provides useful operational and financing detail, including debt terms and contingent obligations, but the overall outlook is cautiously optimistic and the excerpt is truncated."
+}

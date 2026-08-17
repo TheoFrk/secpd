@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measure",
+    "partially offset",
+    "primarily due to",
+    "subject to required approvals",
+    "expect to spend approximately"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and generally transparent, with clear year-over-year operating metrics and explanations of major cost drivers. Risk is moderated by higher fuel, labor, depreciation, regional weakness, hurricane impacts, and substantial airport redevelopment commitments, although management presents demand, revenue momentum, and strategic initiatives positively."
+}

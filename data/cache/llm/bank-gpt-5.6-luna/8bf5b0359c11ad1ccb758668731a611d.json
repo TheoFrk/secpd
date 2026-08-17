@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "number of uncontrollable variables",
+    "expected to continue",
+    "may result in lower profits",
+    "duration ... is unknown",
+    "sufficient liquidity to operate"
+  ],
+  "risk_summary": "The excerpt presents material pandemic-related demand, restructuring, cyclicality, project timing, and liquidity risks, with quantified workforce reductions, charges, and cost savings. Management provides limited 2021 guidance and relies on conditional expectations regarding demand, lending arrangements, and earnout proceeds, creating moderate uncertainty despite stated liquidity confidence."
+}

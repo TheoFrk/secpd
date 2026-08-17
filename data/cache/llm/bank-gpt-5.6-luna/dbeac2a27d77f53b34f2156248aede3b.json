@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may vary materially",
+    "various factors that include, but are not limited to",
+    "we believe",
+    "expected to",
+    "dependent on future developments"
+  ],
+  "risk_summary": "The disclosure presents an ambitious growth and fleet-investment strategy with substantial execution, operational, macroeconomic, fuel, labor, supply-chain, geopolitical, and pandemic-related risks. It includes meaningful quantitative details, but several forward-looking benefits and outcomes are expressed through noncommittal expectations and broad risk-factor language. Floating-rate debt and withholding-tax exposure add material financial sensitivity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "could have a material impact",
+    "estimated insurance recoveries",
+    "subject to deductibles and coverage limits",
+    "impacted by economic weakness",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear explanations of sales, margins, expenses, acquisitions, and related-party exposures. Key risks include hurricane-related losses and unresolved insurance recoveries, competitive pricing pressure, economic weakness, labor costs, and dependence on Wakefern. Overall tone is cautiously positive but acknowledges meaningful operational and recovery uncertainties."
+}

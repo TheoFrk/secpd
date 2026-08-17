@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "resulted from:",
+    "partially offsetting these increases were:",
+    "no assurance",
+    "impact ... is unclear",
+    "subject to significant competition"
+  ],
+  "risk_summary": "The excerpt reports substantially improved earnings and provides several quantified performance metrics, but key earnings drivers are omitted in the supplied text and replaced by incomplete lead-ins. The tone is moderately positive, while regulatory exposure, permitting, weather, acquisition competition, environmental requirements, and uncertain tax effects represent meaningful risks."
+}

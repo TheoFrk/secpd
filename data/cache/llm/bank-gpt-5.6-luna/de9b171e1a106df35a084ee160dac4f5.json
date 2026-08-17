@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management judgment and assumptions",
+    "future additions may be necessary",
+    "could have a material impact",
+    "fair value sometimes difficult and subjective",
+    "believes allowance is adequate"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively detailed, including loan concentrations, nonperforming assets, charge-offs, and allowance metrics. Credit trends appear generally favorable, but the company highlights meaningful exposure to real estate markets, interest rates, borrower concentration, and subjective loss and fair-value estimates. Repeated reliance on management judgments and conditional language limits certainty regarding future credit costs."
+}

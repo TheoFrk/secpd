@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "not possible to determine",
+    "no obligation to update",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating information, but extensive boilerplate disclaimers and broad, non-ranked risk lists limit specificity regarding forward-looking risks. Results show modest revenue growth but declining net income, reduced cash and marketable securities, restructuring charges, and exposure to goodwill impairment and integration risks."
+}

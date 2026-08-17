@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could differ materially",
+    "cannot provide assurance",
+    "significant judgment",
+    "reasonable under the circumstances"
+  ],
+  "risk_summary": "The excerpt uses substantial standard accounting-policy and uncertainty language, particularly around revenue recognition, acquisitions, intangible valuations, and tax examinations. It provides some concrete acquisition values and accounting conclusions, but largely relies on qualitative assumptions without sensitivity analyses or quantified downside scenarios. Overall tone is confident and growth-oriented, although material estimation and tax risks remain."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.92,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "actual results could differ",
+    "complex capital structure",
+    "various instruments and restrictions",
+    "excerpt truncated mid-disclosure"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily reliant on accounting-policy boilerplate, with extensive cross-references and specialized terminology that reduce accessibility. It provides meaningful quantified debt and covenant information, but the truncated disclosure and reliance on management estimates leave uncertainty around revenue recognition, liquidity, and contractual restrictions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk disclaimers",
+    "no obligation to update",
+    "non-GAAP measures",
+    "material impact",
+    "continues to monitor concentrations"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing quantified loan, branch, deposit, deferral, and real-estate concentration data, but includes substantial standard cautionary and non-GAAP boilerplate. Credit risk is elevated by COVID-19 effects and 77.8% real-estate-secured loans, although management presents mitigation efforts and limited active payment deferrals."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "not currently considered material",
+    "no obligation to update",
+    "subject to assumptions"
+  ],
+  "risk_summary": "The excerpt is moderately optimistic but explicitly highlights exposure to global economic conditions, customer demand and payment capacity, order cancellations, manufacturing disruption, and acquisition execution. Disclosure quality is generally strong due to extensive quantitative detail, although the opening legal disclaimer is repetitive and broadens uncertainty without quantifying specific downside scenarios."
+}

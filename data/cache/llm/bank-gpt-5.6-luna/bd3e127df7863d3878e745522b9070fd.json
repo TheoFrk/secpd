@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "to the extent probable",
+    "ordinary course fluctuations",
+    "may cancel or not exercise options",
+    "unfunded backlog and appropriations"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating outlook, supported by quantified revenue growth, awards, book-to-bill, and backlog. However, future revenue visibility is qualified by unfunded backlog, dependence on government appropriations, contract rebidding, option exercises, and standard forward-looking statement disclaimers. Disclosure is detailed but includes repetitive boilerplate and some broad explanations such as ordinary-course fluctuations."
+}

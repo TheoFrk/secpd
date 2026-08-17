@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "no assurance",
+    "subject to change",
+    "no obligation to update",
+    "contract backlog may be reduced"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including revenue concentration, backlog, acquisitions, project timing, and TRC losses. Risk tone is moderately positive due to reported growth and profitability, but meaningful exposure exists from customer/project concentration, backlog cancellations, regulatory approvals, and the uncertain turnaround of TRC. The extensive forward-looking disclaimer language is largely standard boilerplate rather than evidence of acute distress."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "excluding the effects of these items",
+    "forward-looking statements subject to risks",
+    "approximately",
+    "the Company believes"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear sales, profitability, cash flow, tax, and debt-related figures. Risk is moderate: sales were essentially flat, profitability declined, organic sales decreased, and results were affected by acquisitions, currency, tax items, and refinancing costs. Extensive non-GAAP adjustments and boilerplate forward-looking disclaimers modestly reduce comparability and clarity."
+}

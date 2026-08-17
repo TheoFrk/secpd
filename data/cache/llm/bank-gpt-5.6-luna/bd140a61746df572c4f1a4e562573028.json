@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonable under the circumstances",
+    "actual results may differ",
+    "estimated future cash flows",
+    "uncertainty created by regulation",
+    "less favorable estimate"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantified information, but relies on management assumptions regarding revenue estimates, inventory values, impairment testing, and future cash flows. Risk tone is moderately negative, driven by significant $562 million pre-tax impairment charges, declining sales, margin pressure, and lower project activity. The excerpt is technically complex and contains standard critical-accounting-policy caveats that could obscure sensitivity to adverse assumptions."
+}

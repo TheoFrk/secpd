@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subjective elements and estimates",
+    "may be susceptible to significant change",
+    "inherent but undetected losses",
+    "could adversely affect"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on expenses, taxes, and loan-loss methodology, but relies extensively on standard forward-looking disclaimers and broad uncertainty language. Credit risk is material because allowance estimates depend on subjective judgments, incomplete economic-cycle data, portfolio changes, and potentially unrecognized losses; adverse outcomes could require additional provisions."
+}

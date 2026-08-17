@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "no assurance expectations achieved",
+    "may adversely affect",
+    "various valuation techniques",
+    "judgments and methodologies materially impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified portfolio, revenue, occupancy, and impairment information, but relies extensively on standard forward-looking disclaimers and conditional risk language. Key risks include credit-market volatility, refinancing and liquidity constraints, declining real estate values, leasing weakness, impairment charges, and valuation subjectivity. The tone is broadly neutral with a modestly negative risk bias rather than crisis-like."
+}

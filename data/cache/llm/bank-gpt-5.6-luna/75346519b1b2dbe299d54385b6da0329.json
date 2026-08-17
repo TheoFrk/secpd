@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "cannot be predicted with any certainty",
+    "material adverse effect",
+    "mostly driven by",
+    "not expected to have a material impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with strong sales and margin growth but declining net income and sharply higher litigation and operating expenses. Liquidity appears adequate for the next 12 months, although operating cash generation is modest and ongoing competitor litigation presents potentially material downside. Forward-looking statements rely on customary qualifiers and management beliefs, limiting certainty around market growth and litigation outcomes."
+}

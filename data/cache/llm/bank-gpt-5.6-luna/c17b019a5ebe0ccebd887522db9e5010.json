@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "subject to significant risks and uncertainties",
+    "not possible to predict all of them",
+    "other factors affecting operations",
+    "expected to more than offset"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative metrics on net interest margin, earning assets, loan-loss provisions, charge-offs, and reserve changes, but is heavily supplemented by standard forward-looking disclaimers and broad, non-quantified risk lists. Risk tone is cautiously positive, while margin compression, higher costs, portfolio quality, reserve adequacy, deposit attrition, and regulatory uncertainty remain material concerns."
+}

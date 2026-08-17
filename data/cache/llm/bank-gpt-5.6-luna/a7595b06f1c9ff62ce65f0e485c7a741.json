@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "subject to management’s judgment",
+    "anticipated or forecasted demand",
+    "more likely than not",
+    "specified corporate events"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and improving financial profile, with higher revenue, margins, operating income, cash, and substantially reduced debt. Disclosure is materially quantified, but accounting estimates and forward-looking assumptions introduce uncertainty around revenue allowances, inventory valuation, goodwill impairment, and income taxes. Convertible debt conversion mechanics and market-demand sensitivity remain notable risks, although no off-balance-sheet arrangements are reported."
+}

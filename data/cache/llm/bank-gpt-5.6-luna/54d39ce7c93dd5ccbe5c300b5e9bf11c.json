@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "cannot provide assurance",
+    "subject to unanticipated fluctuation",
+    "currently available data",
+    "where appropriate"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative segment data and explains reserving and valuation methodologies, but emphasizes significant uncertainty around loss reserves, pricing adequacy, catastrophe exposure, litigation, inflation, and investment returns. Underwriting results are generally profitable, although some lines remain below targeted returns and low fixed-income yields continue to pressure investment income."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.65,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to adequate financing",
+    "no assurance of outside capital",
+    "risks and uncertainties",
+    "do not assume a duty to update",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantified results and cash-flow data, but is heavily surrounded by standard forward-looking disclaimers and conditional growth language. Liquidity risk is notable because the company expects to require additional debt or equity financing, reported a $1.22 million cash decrease, and acknowledges uncertainty regarding access to capital."
+}

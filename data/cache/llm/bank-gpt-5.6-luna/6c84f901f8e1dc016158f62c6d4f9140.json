@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "susceptible to future market factors",
+    "not limited to these factors",
+    "may be adjusted",
+    "unallocated component"
+  ],
+  "risk_summary": "The excerpt reports improving profitability and asset growth with substantial quantitative detail, supporting a generally positive operating tone. However, the allowance for loan losses and securities valuation rely heavily on management judgment, historical assumptions, and unallocated adjustments, creating meaningful estimation and credit-risk uncertainty."
+}

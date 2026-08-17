@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may differ, possibly materially",
+    "impact remains subject to uncertainty",
+    "continues to monitor",
+    "uncertain recovery and inflation"
+  ],
+  "risk_summary": "The disclosure is generally transparent about COVID-19, inflation, supply-chain, market, and sales risks and provides several quantitative operating metrics. However, repeated forward-looking disclaimers and broad conditional language limit precision regarding potential adverse impacts, particularly on investments, sales, capital, and future earnings. Overall tone is cautiously positive, emphasizing operational stability and growth while acknowledging material uncertainty."
+}

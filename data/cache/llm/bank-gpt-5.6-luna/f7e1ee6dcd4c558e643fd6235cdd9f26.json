@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "certain columns may not add",
+    "appropriate investments for the future",
+    "a number of factors",
+    "currently view the environment as stable",
+    "estimated unfavorable foreign exchange impact"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear discussion of revenue, cash flow, acquisition financing, foreign exchange, and restructuring costs. Risk tone is cautiously positive, but leverage from the CareFusion acquisition, integration demands, pricing pressure, currency headwinds, and dependence on healthcare funding remain material concerns."
+}

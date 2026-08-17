@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "may not be available on favorable terms",
+    "could have a material adverse effect",
+    "difficult to forecast",
+    "no assurance"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative liquidity and operating metrics, including cash, operating cash flow, deferred revenue, revenue growth, and debt status. The overall tone is cautiously positive, but substantial uncertainty remains around macroeconomic conditions, customer demand, vendor concentration, expansion costs, forecasting, and access to additional financing. Risk-factor language is repetitive and heavily conditional, with limited quantified downside scenarios."
+}

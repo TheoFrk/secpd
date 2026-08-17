@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to change",
+    "highly uncertain",
+    "if, and when",
+    "could delay, limit or deny",
+    "no meaningful estimate"
+  ],
+  "risk_summary": "The disclosure is comparatively detailed and quantified, but relies on forward-looking expectations for regulatory approvals, product revenue growth, reimbursement, and development timelines. Key risks include clinical failure, regulatory delay or denial, uncertain development costs, and reimbursement challenges, particularly outside the United States."
+}

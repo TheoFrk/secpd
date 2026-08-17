@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may adversely affect",
+    "could have a negative impact",
+    "various valuation techniques",
+    "significant assumptions and judgments",
+    "until the sales criteria are met"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial portfolio, geographic, segment, and accounting information, but its forward-looking risk discussion relies heavily on conditional language and broad macroeconomic scenarios. Key exposures include refinancing and liquidity constraints, property and investment impairments, leasing and rental-rate weakness, and development execution risk. Overall, the tone is balanced but moderately risk-aware rather than crisis-like."
+}

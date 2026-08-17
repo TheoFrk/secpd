@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "actual results may differ significantly",
+    "expected to continue to experience",
+    "subjective or complex judgments",
+    "significant unanticipated changes"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful quantified impacts, particularly $36.0 million of inventory adjustments and $22.4 million of CEO-related equity modification costs. Key risks include declining COVID-19 vaccine demand, inflation and supply-chain pressure, foreign-exchange exposure, demand forecasting uncertainty, and contingent consideration volatility, although management states mitigation actions have generally offset macroeconomic effects."
+}

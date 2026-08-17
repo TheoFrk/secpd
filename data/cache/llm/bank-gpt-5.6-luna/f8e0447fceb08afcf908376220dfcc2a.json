@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "does not anticipate significant impact",
+    "could be adversely impacted",
+    "future developments",
+    "material trends or uncertainties"
+  ],
+  "risk_summary": "The disclosure identifies extensive COVID-19 operational, supply-chain, workforce, contract-performance, liquidity, and impairment risks, but provides limited quantified estimates of their financial impact. Repeated conditional language and reliance on broad cross-references reduce specificity, although the company notes that operations largely resumed and does not currently expect a material future effect."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "will increase modestly",
+    "primarily the result of",
+    "management believes are useful",
+    "non-GAAP financial measures",
+    "if actual loss differs from estimate"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent, but it contains substantial boilerplate and forward-looking language. Risk is mixed: Pizza Inn improved modestly, while Pie Five experienced declining sales, unit closures, franchisee-initiated exits, and an expected further decrease in units."
+}

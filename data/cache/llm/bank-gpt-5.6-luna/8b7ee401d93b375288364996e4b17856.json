@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "other factors referenced in this Report",
+    "capital expenditure maximum subsequently waived",
+    "actual results could differ",
+    "management believes estimates are reasonable"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear explanations of sales, costs, margins, cash flow, and debt status. Risk factors include declining consolidated and snack-segment margins, higher operating costs, extended customer terms, commodity exposure, and a subsequently waived capital expenditure covenant breach. Overall tone is cautiously positive, supported by strong operating cash flow and limited debt, but includes substantial standard forward-looking and estimation disclaimers."
+}

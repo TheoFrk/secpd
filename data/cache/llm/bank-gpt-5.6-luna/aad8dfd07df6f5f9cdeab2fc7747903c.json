@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "discussion omitted from this Form 10-K",
+    "primarily driven by",
+    "based upon estimates and assumptions",
+    "reserves may change in future periods",
+    "further discussion refer to Note 17"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, but contains boilerplate disclosures around contingencies, environmental remediation, and actuarial estimates. Risk tone is mixed: revenue declined materially and several brands weakened, while gross margin, operating cash flow, inventory, and earnings per share improved."
+}

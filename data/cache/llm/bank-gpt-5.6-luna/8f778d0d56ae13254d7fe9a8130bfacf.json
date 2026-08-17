@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.78,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "substantial doubts about ability to continue",
+    "if necessary",
+    "cannot assure successful capital access",
+    "inconsistent revenue explanation"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk, including substantial accumulated losses, negative operating cash flow, significant accrued interest, and dependence on external capital and related-party financing. Potential equity dilution and highly variable conversion terms further increase creditor and shareholder risk. The text is materially quantified but includes boilerplate disclaimers and an apparent inconsistency regarding the cause of revenue changes."
+}

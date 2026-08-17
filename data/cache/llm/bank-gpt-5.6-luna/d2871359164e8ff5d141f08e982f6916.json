@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "undertakes no obligation to revise or update",
+    "highly subjective",
+    "material contingencies"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and reliance on incorporated risk factors, limiting specificity about downside exposures. It provides useful quantitative segment and operating results, including profit improvement, but highlights material estimation uncertainty and contingencies."
+}

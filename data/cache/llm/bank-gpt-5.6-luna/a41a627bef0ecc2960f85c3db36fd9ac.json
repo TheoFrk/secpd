@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "various factors including, but not limited to",
+    "no way of knowing what impact",
+    "subject to certain assumptions",
+    "higher financing risks and costs"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, reporting portfolio balances, spreads, prepayment rates, equity, NOL limitations, and derivative notional amounts. Risk tone is balanced but highlights material exposure to prepayments, interest rates, financing costs, market volatility, policy uncertainty, and complex tax assumptions. Boilerplate forward-looking disclaimers and dense technical language moderately limit transparency."
+}

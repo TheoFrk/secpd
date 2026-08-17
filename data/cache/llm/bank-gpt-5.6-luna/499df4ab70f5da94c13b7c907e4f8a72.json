@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "special items exclusions",
+    "expects higher earnings",
+    "slightly higher volumes",
+    "improving economic climate"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent about margin pressure, pricing erosion, input-cost inflation, downtime, and lower operating profits in key businesses. Risk tone is cautiously positive, relying on anticipated price increases, acquisitions, synergies, cost reductions, and improving demand to offset operational and market pressures. Extensive non-GAAP measures and forward-looking expectations could make underlying performance and execution risk less immediately clear."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "non-GAAP adjustments",
+    "management believes",
+    "excludes non-operational items"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies extensively on non-GAAP measures with numerous exclusions, which may reduce comparability with GAAP results and other companies. It presents generally positive operating performance, but the text contains truncated or corrupted passages and apparent year-label inconsistencies that weaken disclosure reliability."
+}

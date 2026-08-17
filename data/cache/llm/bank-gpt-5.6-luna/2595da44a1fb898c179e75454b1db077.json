@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimers",
+    "risks, uncertainties, and assumptions",
+    "actual results may differ materially",
+    "no obligation to revise or update",
+    "favorable mix and productivity benefits"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent about revenue, margin, earnings, geographic, and product-category declines, while identifying demand weakness, macroeconomic uncertainty, pricing pressure, and Splunk-related cost impacts. Risk is moderated by reported improvement in fourth-quarter demand and growth in software, subscriptions, security, and observability, but the excerpt relies on standard forward-looking disclaimers and includes elevated supply-chain exposure."
+}

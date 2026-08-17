@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "could differ materially",
+    "may be impacted",
+    "if the outbreak continues",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, showing strong revenue, margin, backlog, and earnings improvement. Key risks include coronavirus-related disruption, uncertainty around backlog fulfillment, deferred tax asset realization, and reduced cash balances following investment activity. Overall tone is cautiously positive but includes standard forward-looking and pandemic-related uncertainty language."
+}

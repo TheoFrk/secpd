@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "potentially material adverse impact",
+    "remains uncertain",
+    "could result in increased risk",
+    "non-GAAP covenant measures",
+    "innovation-driven and customer-focused"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure, including a $2.250 billion goodwill impairment, 4.14x net debt-to-credit-adjusted EBITDA leverage, geographic sales exposure, and $9.330 billion of senior notes. Risk tone is moderately negative because of impairment triggers, pandemic and geopolitical uncertainty, supply-chain pressures, elevated costs, and significant leverage, despite covenant compliance and continued facility operations."
+}

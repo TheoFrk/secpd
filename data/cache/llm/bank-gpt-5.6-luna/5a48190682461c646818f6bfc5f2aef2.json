@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance actual results",
+    "among others",
+    "adjusted earnings exclusions",
+    "inherently difficult to predict"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating, liquidity, cash flow, and regional exposure data, but relies on standard forward-looking disclaimers and adjustment-based presentation. COVID-19 caused weaker demand in wallcover and tabletop products, with continuing risks from renewed restrictions, economic hardship, and potential production downtime. Liquidity and refinancing are presented positively, although reliance on adjusted earnings and significant one-time items complicates underlying performance assessment."
+}

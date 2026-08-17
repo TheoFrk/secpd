@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results could differ materially",
+    "Adjusted EBITDA excludes recurring items",
+    "excess cash flows were negative",
+    "multiple credit-facility definitions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantified, but includes substantial standard forward-looking disclaimers and non-GAAP qualification language. Credit risk is indicated by prior-year losses, negative excess cash flow, mandatory prepayment triggers producing no payment, and reliance on secured debt facilities, although the tone is not crisis-like."
+}

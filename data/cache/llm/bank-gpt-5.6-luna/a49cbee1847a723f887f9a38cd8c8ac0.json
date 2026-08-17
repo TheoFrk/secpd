@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking statements",
+    "unable to estimate future revenues",
+    "hope to generate more significant revenue",
+    "risks and uncertainties",
+    "undertake no obligation to update"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but includes boilerplate safe-harbor language and limited visibility into future software and gasifier revenue. Credit risk is elevated due to a $47.0 million net loss, $39.0 million of other expenses largely from derivative liability losses, a working-capital deficit, and continuing cash use."
+}

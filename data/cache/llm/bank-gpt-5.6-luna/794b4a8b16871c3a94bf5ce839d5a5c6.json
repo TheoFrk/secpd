@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "refer to pages 60 to 99",
+    "no substantive discussion",
+    "boilerplate cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and relies entirely on a cross-reference to another filing exhibit. This limits transparency within the presented document and prevents assessment of liquidity, results, or emerging risks from the excerpt alone."
+}

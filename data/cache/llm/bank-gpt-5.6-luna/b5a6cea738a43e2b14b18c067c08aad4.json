@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no guarantee closing conditions",
+    "may adversely affect business and financial condition",
+    "known and unknown liabilities",
+    "cannot be certain transaction will be successful",
+    "projected profitability may not be achieved"
+  ],
+  "risk_summary": "The disclosure is generally specific, with detailed operating footprints, transaction terms, regulatory context, and quantified revenue drivers. Risk is concentrated in the uncertain TWA sale, potential acquisitions, integration costs, regulatory compliance, and unbilled-revenue estimates, though the regulated utility model supports a relatively stable tone."
+}

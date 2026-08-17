@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future results may differ",
+    "based on assumptions about future demand",
+    "outside of our control",
+    "strategic initiatives to drive future growth",
+    "partially offset by favorable impacts"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, but highlights material deterioration, including a 48.6% operating-income decline, currency pressure, margin compression, impairment charges, and restructuring costs. Significant estimation sensitivity exists around returns, inventory valuation, asset impairment, and future demand, while supply-chain concentration creates additional operational risk."
+}

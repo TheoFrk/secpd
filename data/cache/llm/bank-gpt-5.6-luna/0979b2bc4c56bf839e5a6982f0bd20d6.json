@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant variables and uncertainties",
+    "actual amounts may exceed reserve",
+    "may be materially adversely affected",
+    "subject to future laws and regulations",
+    "ability to manage exposure to loss"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative detail on the tax-compliance exposure, including a $12.3 million reserve and a $5.9 million–$48.2 million estimated range, but emphasizes substantial uncertainty and the possibility of costs exceeding the high end. Additional risks include weak new sales, Venezuela-related deterioration, low interest rates, regulatory uncertainty, and reliance on international premium collections. Overall tone is moderately negative and risk-aware, with considerable boilerplate discussion of insurance and investment operations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "marketing-oriented superlatives",
+    "approximately",
+    "primarily",
+    "significant, complex and difficult judgments",
+    "future recovery in economic forecasts"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful detail on assets, loans, liquidity, ACL changes, acquisition terms, and operating segments. Risk tone is generally confident and positive, but promotional language and reliance on economic forecasts and judgment in ACL modeling introduce moderate uncertainty. The large ACL reduction and elevated excess liquidity warrant attention despite reported improving credit metrics."
+}

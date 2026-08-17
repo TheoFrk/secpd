@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "partially offset by",
+    "unrealized derivative gains or losses",
+    "favorable contributions",
+    "strategic and financial objectives"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed year-over-year drivers, but presents a mixed risk profile with a continuing net loss, increased interest expense, debt refinancing losses, impairments, and substantial derivative and foreign-currency volatility. Positive operational and project-development trends are emphasized, while reliance on adjusted non-GAAP metrics and repeated offsetting explanations may make underlying performance harder to assess."
+}

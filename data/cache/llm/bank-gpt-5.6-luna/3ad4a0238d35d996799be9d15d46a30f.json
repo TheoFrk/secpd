@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict or control",
+    "many factors outside of our control",
+    "significant subjective decisions",
+    "numerous assumptions and judgments",
+    "expect continued volatility"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative operating and cash-flow information, but emphasizes substantial exposure to commodity-price volatility, reserve-estimation uncertainty, derivative mark-to-market swings, and asset-retirement obligations. Management uses generally cautious, partly boilerplate language around factors beyond its control and assumptions underlying reserves and liabilities, while maintaining a moderately positive outlook based on portfolio diversification and reserve growth."
+}

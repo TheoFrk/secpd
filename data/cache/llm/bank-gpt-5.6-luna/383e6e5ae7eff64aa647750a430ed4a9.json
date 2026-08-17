@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally",
+    "we believe",
+    "do not necessarily indicate",
+    "could significantly impact",
+    "continued execution"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively supported, but reports weaker demand, declining revenue and tonnage, higher operating ratio, and lower earnings. Risk discussion relies moderately on qualified language around pricing metrics, reserves, inflation, and future claim developments, while maintaining a generally controlled and cautiously optimistic tone."
+}

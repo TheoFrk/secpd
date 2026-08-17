@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement boilerplate",
+    "no assurance of financing",
+    "substantial doubt about going concern",
+    "penny stock safe-harbor exclusion",
+    "may cease operations"
+  ],
+  "risk_summary": "The company has no operating revenue, limited cash, recurring losses, and explicitly states that its current cash is insufficient to maintain operations. Its ability to continue as a going concern depends on obtaining financing or developing new business, with no assurance that either will occur. Extensive legal and forward-looking boilerplate somewhat obscures, but does not materially change, the severe liquidity and execution risks."
+}

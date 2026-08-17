@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to numerous assumptions, risks and uncertainties",
+    "actual results may differ materially",
+    "does not believe ... material",
+    "possible competitive response may have an impact",
+    "truncated discussion and generic macroeconomic disclosures"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, showing improving earnings, asset quality, liquidity, and loan-loss coverage. Risk disclosures rely partly on standard forward-looking language and broad, non-quantified references to economic, regulatory, interest-rate, and competitive risks. The overall tone is cautiously positive, although the declining net interest margin and exposure to collateral-driven losses under deflation remain relevant credit risks."
+}

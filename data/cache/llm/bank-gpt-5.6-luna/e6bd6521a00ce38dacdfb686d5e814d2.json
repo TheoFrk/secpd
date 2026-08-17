@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP underlying measures",
+    "estimated net changes",
+    "expected future demand",
+    "may not succeed",
+    "depletions versus shipments"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and favorable operating outlook, supported by quantified growth, margin, debt, and investment figures. Disclosure is relatively transparent, but reliance on non-GAAP underlying measures, estimated adjustments, and management expectations introduces some comparability and forecasting risk. Southern Comfort weakness, category pressures, foreign exchange, and execution risks are acknowledged but not dominant in the overall tone."
+}

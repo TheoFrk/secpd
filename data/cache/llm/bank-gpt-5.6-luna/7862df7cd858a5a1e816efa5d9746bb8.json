@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "believe and planned profitability",
+    "unknown implementation timeline",
+    "beyond management control",
+    "materially different results"
+  ],
+  "risk_summary": "The disclosure quantifies substantial revenue decline, continuing losses, customer attrition, supply-chain disruption, regulatory delays, and limited assets under management, while profitability remains prospective. Management uses optimistic projections and broad mitigation claims despite acknowledging uncertain timelines and operational execution risks. OTCQB reporting-compliance failure could materially impair trading liquidity."
+}

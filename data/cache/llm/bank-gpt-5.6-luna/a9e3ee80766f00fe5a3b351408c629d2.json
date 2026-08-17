@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "long-term growth opportunities",
+    "various challenges facing our industry",
+    "anticipated increased costs",
+    "sufficient resources to fund future investments"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantification, including channel mix, store counts, sales percentages, and discontinued-operations losses. Risk tone is cautiously positive but relies heavily on management beliefs and forward-looking growth assumptions, while acknowledging promotional pressure, economic sensitivity, competition, and execution costs."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.27,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "subject to customary closing conditions",
+    "more likely than not",
+    "forecasted taxable income",
+    "excluding the Topic 606 adjustment"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, but highlights meaningful risks including a net loss, declining gross margins, substantial pension expense, restructuring charges, and reliance on a pending asset sale. Tax-asset realization and transaction completion depend on forecasts, regulatory clearance, and other conditions, creating moderate execution and liquidity risk."
+}

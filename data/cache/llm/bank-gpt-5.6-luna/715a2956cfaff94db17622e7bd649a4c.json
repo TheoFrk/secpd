@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "non-GAAP measures not comparable",
+    "aggregated single reporting segment",
+    "marketing spend attribution",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, but includes standard forward-looking disclaimers, non-GAAP qualifications, and limited segment disaggregation. Risk tone is moderately negative because net loss and adjusted EBITDA deteriorated materially, despite improved comparable sales, inventory reduction, and positive free cash flow."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "significant management judgment",
+    "valuation allowance",
+    "deconsolidation of the VIE"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, particularly regarding segment revenue, customer concentration, margins, and expenses. Risk tone is mildly positive due to strong revenue and gross-profit growth, but is tempered by the suspension and deconsolidation of the New Energy segment, customer concentration, and reliance on management estimates for taxes and valuations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "predominantly",
+    "partially offset",
+    "certain assumptions and estimates",
+    "among others",
+    "required to exercise judgment"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with detailed acquisition, earnings, asset growth, margin, provision, and charge-off data. Risk tone is mildly positive, though narrowing net interest margins, rising credit-loss provisions, and reliance on acquisition-driven growth warrant monitoring. Repetition of Hudson City acquisition impacts and dense technical presentation modestly reduce clarity."
+}

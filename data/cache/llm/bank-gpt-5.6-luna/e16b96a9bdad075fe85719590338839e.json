@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "primarily driven by",
+    "excluding unrealized gains (losses)",
+    "inventory valuation adjustments",
+    "see Note 4 for more information"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent about acquisitions, earnings changes, margins, and financing arrangements. Risk tone is mildly negative because net income and adjusted metrics declined, primarily due to lower refining margins, higher financing costs, and other charges, although retail performance and acquisition-related growth provide offsets."
+}

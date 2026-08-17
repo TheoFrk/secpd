@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "could differ materially",
+    "no assurances can be given",
+    "exploring potential acquisition opportunities",
+    "going concern uncertainty"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and forward-looking language, with limited quantified forward-looking analysis. Material risks include a history of losses, potential going-concern uncertainty, heavy customer concentration with US Foods, and dependence on uncertain expansion initiatives. Historical balances and selected estimates are quantified, but the disclosure remains somewhat evasive regarding downside scenarios and future liquidity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "a number of factors",
+    "tend to",
+    "cannot be reasonably determined",
+    "do not believe material effect",
+    "varying number of weeks"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including sales, guidance, impairment charges, and operating cost components, but relies on generalized qualifiers for demand, seasonality, contingencies, and contractual obligations. Risk tone is mildly positive due to projected sales growth and margin improvement, tempered by the Hermetic Climate business exit, asset impairments, litigation uncertainty, and unquantified obligations."
+}

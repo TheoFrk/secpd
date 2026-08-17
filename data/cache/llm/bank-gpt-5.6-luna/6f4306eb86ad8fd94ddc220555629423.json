@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "potentially beyond",
+    "may also recur in the future",
+    "could require",
+    "unknown duration and future severity"
+  ],
+  "risk_summary": "The disclosure is substantially quantified regarding closures, costs, borrowings, refinancing, and liquidity actions, but emphasizes material uncertainty around COVID-19 duration, resurgences, customer demand, trade credit, and future operations. The risk tone is moderately negative, reflecting material adverse impacts and elevated costs, although management describes recovery actions and liquidity preservation measures."
+}

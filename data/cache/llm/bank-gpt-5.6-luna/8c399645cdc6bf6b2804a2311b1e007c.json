@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high-level summary",
+    "subject to risks and uncertainties",
+    "number of factors, including but not limited to",
+    "varying degrees of certainty",
+    "could differ materially"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified growth in revenue, operating income, cash flow, cloud adoption, and bookings, producing a generally confident tone. However, substantial reliance on estimated transactional volumes, customer activity, contract assumptions, and forward-looking disclaimers creates moderate uncertainty around bookings conversion and revenue timing. Concentration in banking and transactional revenue, international operations, cloud migration, and potential tax-related costs are notable risk areas."
+}

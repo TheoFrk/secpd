@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.82,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor boilerplate",
+    "no assurance financing will be available",
+    "substantial doubt about ability to continue as a going concern",
+    "future events and various risks",
+    "estimates may differ materially"
+  ],
+  "risk_summary": "Microbot has no operating revenue, recurring losses and negative operating cash flow, and management states that available funds support operations for less than one year. The explicit going-concern uncertainty and reliance on future equity or debt financing indicate elevated liquidity, dilution and execution risk. Extensive forward-looking disclaimers and conditional language reduce visibility into the timing and sufficiency of required funding."
+}

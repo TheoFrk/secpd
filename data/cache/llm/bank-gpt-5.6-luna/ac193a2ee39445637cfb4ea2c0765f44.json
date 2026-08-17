@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "could differ materially",
+    "does not believe ... material impact",
+    "mission to become the most trusted provider",
+    "actual results could differ from those estimates"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and cautionary language, with limited company-specific quantification of execution, contract, funding, and accounting risks. Federal funding data and agency spending figures provide useful context, but optimistic strategic language and repeated disclaimers temper the otherwise moderately confident tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual losses may differ materially",
+    "among other factors",
+    "reasonable and supportable forecast",
+    "management believes ACL is adequate",
+    "transaction and fraud risk"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong reported asset quality, loan growth, deposits, capital, and profitability. Risk is concentrated in inherently judgmental credit-loss estimates, economic forecasts, collateral valuations, and mortgage warehouse transaction/fraud exposure. The tone is confident but includes standard cautionary language regarding estimate uncertainty."
+}

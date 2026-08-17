@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgments and estimates",
+    "inherently subjective",
+    "could differ significantly",
+    "primarily driven by",
+    "well above regulatory capital requirements"
+  ],
+  "risk_summary": "The excerpt is highly quantified and presents improving profitability, credit quality, capital, and deposit trends in a confident tone. Key risk areas are concentrated in acquisition-driven growth, declining net interest margin, and subjective allowance and fair-value estimates, with limited quantified sensitivity analysis in the excerpt."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "subject to risks and uncertainties",
+    "among other factors",
+    "material adverse effect",
+    "customary representations and warranties"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative detail on asset and liability concentrations, credit facilities, collateral, and accounting estimates, but relies substantially on judgment-based reserving and impairment assessments. Key risks include investment-market volatility, adverse reserve development, reinsurer nonperformance, and potential covenant or liquidity constraints. The tone is cautious and risk-aware rather than crisis-like, with no clear indication of an immediate financial distress event."
+}

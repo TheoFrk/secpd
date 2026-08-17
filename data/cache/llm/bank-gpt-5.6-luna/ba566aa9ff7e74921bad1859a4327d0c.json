@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "may not be comparable",
+    "significant fixed component",
+    "excerpt truncated"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantified operating and cash-flow information, but relies heavily on standard forward-looking and non-GAAP disclaimers. Key risks include seasonality, weather and economic sensitivity, fixed-cost exposure, and a $52.8 million decline in operating cash flow, although the overall tone remains moderately confident."
+}

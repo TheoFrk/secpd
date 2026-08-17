@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "slow release of orders",
+    "uncertain regulatory environment",
+    "could differ materially",
+    "significant change in projected cash flows",
+    "estimated costs could differ"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, reporting revenue, backlog, margins, acquisitions, and specific impairment and restructuring charges. Risk tone is cautiously positive, but it highlights weak quotation levels, slow order conversion, regulatory uncertainty, economic sensitivity, and estimation risk in contracts and impairment testing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to state with certainty",
+    "where management deems appropriate",
+    "historical experience and other factors",
+    "actual results could differ",
+    "estimated future net servicing income"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantified balance-sheet and loan data, but relies on standard management judgment, forecast, and impairment caveats. Credit risk is present through CECL volatility, real-estate concentration, deposit mix changes, and increased borrowings, although reported growth and capital trends convey a mildly positive tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.54,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimates and significant assumptions",
+    "expected to be partly offset",
+    "do not meet quantitative or qualitative thresholds",
+    "various stages of commercial development",
+    "income approach based on discounted forecasted cash flows"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and recurring-revenue narrative, supported by detailed segment, product, and installed-base descriptions. Key risks arise from reliance on management projections, customer utilization and retention, product-cycle transitions, acquisition execution, and goodwill impairment assumptions. Disclosure is technically detailed but lengthy and repetitive, with some forward-looking statements and valuation uncertainty expressed in broad terms."
+}

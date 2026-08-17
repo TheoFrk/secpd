@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot provide assurance",
+    "estimates and judgments",
+    "more likely than not",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but includes standard forward-looking-statement disclaimers and uncertainty language. Operating performance deteriorated materially, with lower revenue, substantially increased net loss, a large deferred-tax valuation allowance, restructuring costs, and limited borrowing capacity. Liquidity remains positive but weakened, while backlog fulfillment and tax-asset realization carry execution and judgment risk."
+}

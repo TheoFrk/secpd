@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.2,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance expectations will prove correct",
+    "undertakes no obligation to update",
+    "non-GAAP adjusted EBITDA emphasis",
+    "macro-economic and geopolitical concerns"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and segment detail, including quantified facility counts, sales changes, margins, and cost drivers. However, it contains extensive standard safe-harbor language and emphasizes adjusted EBITDA despite acknowledging its material limitations, while the omitted table and passage reduce full assessment of financial performance. The tone is cautiously optimistic, supported by improving market indicators and International Mill profitability, but includes macroeconomic risks and an Australian business exit."
+}

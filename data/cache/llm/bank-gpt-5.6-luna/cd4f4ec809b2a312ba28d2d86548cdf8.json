@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "subject to uncertainties and factors",
+    "limited number of customers",
+    "ability to satisfy financing obligations",
+    "difficult to predict"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and specific regarding acquisitions, segment changes, operating results, debt, and profitability, supporting a moderately positive tone. Risk exposure remains meaningful due to acquisition integration, customer and aerospace concentration, competition, financing availability, and compliance with financing obligations. The forward-looking language is standard boilerplate and limits predictive certainty but does not substantially obscure reported historical performance."
+}

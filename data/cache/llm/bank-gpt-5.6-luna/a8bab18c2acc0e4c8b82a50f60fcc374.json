@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "unable to predict ultimate impact",
+    "highly uncertain",
+    "future developments",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure presents materially adverse conditions, including a 16% sales decline, sharply increased net losses, goodwill and asset impairments, facility operating losses, and technical debt-covenant defaults requiring waivers. Although the filing provides substantial quantitative detail, the COVID-19 outlook and accounting estimates remain heavily dependent on uncertain future developments and assumptions."
+}

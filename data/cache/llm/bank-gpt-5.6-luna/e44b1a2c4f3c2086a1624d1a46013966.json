@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot assure additional financing",
+    "could materially adversely affect",
+    "cannot predict timing with precise accuracy",
+    "continues to evaluate cost reduction initiatives",
+    "cash flows may not be adequate"
+  ],
+  "risk_summary": "The disclosure quantifies capital expenditures, debt terms, purchase commitments, backlog, and restructuring actions, but relies heavily on conditional language regarding technology shifts, industry cycles, liquidity, and financing access. Risk is elevated by the capital-intensive, high-fixed-cost model, potential underutilization, significant commitments, and uncertainty over whether operating cash flow and available credit will meet longer-term needs."
+}

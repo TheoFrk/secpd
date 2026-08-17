@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may differ materially",
+    "no assurance",
+    "difficult to predict",
+    "beyond our control"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate safe-harbor language and repeated qualifications that limit predictive clarity. It identifies meaningful risks, including customer concentration, volatile demand, pricing pressure, rising supplier costs, and potentially greater supplier concentration, although management presents restructuring and growth initiatives with moderate confidence."
+}

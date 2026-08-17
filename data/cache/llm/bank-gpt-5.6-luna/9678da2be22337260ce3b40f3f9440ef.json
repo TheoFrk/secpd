@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future events could cause",
+    "among other factors",
+    "requires judgment by management",
+    "material adverse impact",
+    "critical assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, segment performance, pricing, acquisitions, and balance-sheet metrics. Risk disclosure is conventional but identifies material estimation uncertainty around impairment testing and pension assumptions without quantifying potential sensitivity or exposure. Overall tone is confident and favorable, supported by strong operating results, though some forward-looking and judgment-based language limits precision."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.76,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot provide assurance",
+    "difficult to predict",
+    "many factors",
+    "plans to alleviate going-concern doubt",
+    "forward-looking statement safe harbor"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and repeatedly emphasizes uncertainty around revenues, expenses, regulatory outcomes, funding, and profitability. Most notably, management states that planned operations raise doubt about the company’s ability to continue as a going concern, despite identifying potential mitigation actions and available funding into 2018."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "materially different",
+    "significant risks and uncertainties",
+    "management judgment and estimates",
+    "qualitative risk factors"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad, largely unquantified risk factors. Credit-loss estimation disclosures identify meaningful judgment, data limitations, economic uncertainty, and potential future provisions affecting earnings or financial position, although the accompanying tables provide substantial quantitative detail."
+}

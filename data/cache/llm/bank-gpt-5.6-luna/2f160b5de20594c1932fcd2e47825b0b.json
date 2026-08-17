@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.23,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking language",
+    "certain other expenses",
+    "anticipated capital expenditures",
+    "general economic conditions",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear year-over-year explanations of sales, margins, expenses, and liquidity. Operating performance weakened modestly in fiscal 2013, including flat comparable-store sales, lower operating income, and lower net income, but the company presents liquidity as sufficient for anticipated needs. Boilerplate and broad qualifiers are present, particularly around forward-looking statements and unspecified expense categories."
+}

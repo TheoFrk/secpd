@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "extent and duration remain unclear",
+    "recovery remains uncertain",
+    "may adversely affect",
+    "significant risk",
+    "continue to monitor"
+  ],
+  "risk_summary": "The excerpt presents substantial macroeconomic and operational risks from COVID-19, including renewed outbreaks, market volatility, uncertain recovery timing, potential AUM and revenue declines, and cybersecurity exposure. It includes some quantified market and stimulus data and describes detailed continuity measures, but relies heavily on broad conditional language and repeated uncertainty disclosures."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.16,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "outcome cannot be predicted or guaranteed",
+    "management believes does not materially affect",
+    "strategic and promotional language",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt is generally structured and includes meaningful quantitative liquidity, cash flow, debt, and cybersecurity disclosures, but contains substantial boilerplate and promotional strategy language. Risk tone is mildly negative due to reduced earnings and operating cash flow, increased investment and debt obligations, supply delays, and unresolved class-action litigation. The excerpt is truncated, limiting assessment of critical accounting estimates and the full outlook."
+}

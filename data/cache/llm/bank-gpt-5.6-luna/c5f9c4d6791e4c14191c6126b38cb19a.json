@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to risks and uncertainties",
+    "no obligation to update",
+    "adequate cash sources",
+    "positive macro trends"
+  ],
+  "risk_summary": "The excerpt presents a generally confident liquidity and growth narrative, supported by quantified sales and operating cash flow figures. However, it includes substantial boilerplate disclaimers and acknowledges meaningful risks from competition, inflation, commodity prices, whiskey demand, and the Atchison Distillery closure, including $19.4 million of impairment and related costs."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "cross-reference to financial supplement",
+    "omitted MD&A content",
+    "boilerplate section heading"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and redirects readers to a separate financial supplement. This limits transparency and prevents assessment of liquidity, operating performance, or adverse trends from the supplied text."
+}

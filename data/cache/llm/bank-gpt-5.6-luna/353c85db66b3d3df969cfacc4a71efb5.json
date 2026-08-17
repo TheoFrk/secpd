@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "high-level discussion",
+    "not intended to be exhaustive",
+    "expect to continue",
+    "significant portion",
+    "material to our business"
+  ],
+  "risk_summary": "The excerpt is generally confident and provides useful quantified metrics, including digital revenue growth, live-services concentration, Ultimate Team exposure, and net bookings. It also identifies meaningful risks from reliance on popular franchises, cybersecurity threats, rapid industry change, and dependence on recurring live-service revenue. Some forward-looking and boilerplate language is broad and non-quantified, limiting assessment of the magnitude and timing of these risks."
+}

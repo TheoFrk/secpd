@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements may prove inaccurate",
+    "subject to risks and uncertainties",
+    "assume no obligation to update",
+    "among other things",
+    "cannot predict what legislation might be enacted"
+  ],
+  "risk_summary": "The excerpt combines quantified historical performance and portfolio data with broad, largely boilerplate descriptions of risk-management policies. It identifies credit, liquidity, interest-rate, regulatory, reputational, and compliance risks, but provides limited stress metrics, concentrations, sensitivity analyses, or evidence of control effectiveness. Overall tone is cautiously positive based on improving earnings, though the filing includes standard disclaimers and some text corruption that reduces clarity."
+}

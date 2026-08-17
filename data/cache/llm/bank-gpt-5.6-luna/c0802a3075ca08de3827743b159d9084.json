@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no obligation to update",
+    "VIE contractual control structure",
+    "subject to assumptions and conditions",
+    "truncated liquidity discussion"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenues, volumes, concentration, segment performance, liquidity, and acquisitions, but is embedded in lengthy boilerplate and complex VIE disclosures. Risk tone is moderately cautious, reflecting declining fertilizer sales and segment earnings, a sharp Yuxing loss, distributor concentration, and dependence on projected cash flows. Reported cash and management’s stated twelve-month liquidity outlook provide some mitigating support, although the excerpt ends before the full liquidity analysis is disclosed."
+}

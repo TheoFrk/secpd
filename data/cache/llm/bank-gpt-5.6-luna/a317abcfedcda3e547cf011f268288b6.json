@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "risks are not exhaustive",
+    "not possible for management to predict all such risk factors",
+    "may cause actual results to differ materially",
+    "disclaim any obligation to update",
+    "excluded items are unpredictable"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking-statement disclaimers and broad, non-exhaustive risk language, limiting specificity about potential adverse outcomes. It also discusses material exposure to equity markets, interest rates, hedging costs, insurance assumptions, and adverse unlocking, although some operating metrics and assumption impacts are quantified. Overall tone is cautiously negative regarding market and earnings volatility but retains a confident strategic posture."
+}

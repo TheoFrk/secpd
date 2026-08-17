@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "numerous unknown factors",
+    "beyond the Company’s control",
+    "no obligation to update",
+    "funded from operations"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but includes extensive standard forward-looking disclaimers. Operating risk is elevated due to a 15.1% revenue decline, a shift to a net loss, materially lower catalyst-instrument backlog, and sharply reduced operating cash flow, although liquidity and available credit appear adequate near term."
+}

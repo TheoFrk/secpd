@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "numerous evolving factors",
+    "full impact uncertain",
+    "may continue to be adversely affected",
+    "expense reclassification"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides useful revenue, cost, liquidity, and debt information, including clear pandemic impacts. Risk tone is balanced but moderately cautious, with considerable forward-looking uncertainty around advertising, pandemic effects, and future costs. Reliance on non-GAAP measures and extensive boilerplate risk language modestly reduces transparency."
+}

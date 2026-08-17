@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain and unpredictable",
+    "generally unable to determine",
+    "estimated third-party payer deductions",
+    "subject to legal challenges",
+    "probabilities of payment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and revenue detail, supporting relatively transparent disclosure. However, material uncertainty exists around reimbursement deductions, collectability, refund claims, impairment estimates, contingent consideration, and the non-revenue-generating subsidiary. The overall tone is moderately positive due to revenue and operating cash-flow growth, tempered by a $6.2 million receivables allowance and significant estimation risk."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.12,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "index reference",
+    "boilerplate section heading",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt is a standard section heading and page reference, providing no substantive information about financial condition, operating results, or risks. Its boilerplate nature limits assessment of the issuer’s underlying credit risk."
+}

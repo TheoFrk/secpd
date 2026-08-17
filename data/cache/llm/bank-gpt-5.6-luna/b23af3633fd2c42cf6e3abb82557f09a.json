@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "significantly and pervasively impacted",
+    "working capital strains",
+    "reasonably assured",
+    "results primarily due to"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on losses, liquidity, financing, revenue recognition, and litigation, but uses standard forward-looking disclaimers and some generalized causal explanations. Risk tone is materially negative due to governance litigation, operational disruption, weakened stakeholder confidence, working-capital strain, declining revenue, and larger net losses, although recent capital raises and management changes provide partial mitigation."
+}

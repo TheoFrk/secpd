@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects capital expenditures to double",
+    "believes it can continue",
+    "select strategic growth opportunities",
+    "subjective non-GAAP measures",
+    "soft market conditions"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear discussion of sales, product mix, capital spending, currency effects, and segment performance. Risk is concentrated in the International Segment, including import competition, Brazilian currency devaluation, weaker Chinese demand, pricing pressure, and lower operating rates. The overall tone remains cautiously optimistic, emphasizing PVA growth and operational improvement while relying on forward-looking expectations."
+}

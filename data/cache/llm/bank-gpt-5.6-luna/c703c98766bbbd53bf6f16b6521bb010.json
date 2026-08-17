@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unable to predict future commodity prices",
+    "unless commodity prices decline significantly",
+    "material adverse impact",
+    "volatile commodity pricing environment",
+    "adequate liquidity and availability"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides specific liquidity, borrowing-base, cash-flow, production, and pricing data, but repeatedly emphasizes uncertainty around commodity prices and their potential effects on liquidity, impairments, covenants, and financing. The overall tone is cautiously confident, supported by improved earnings, operating cash flow, and substantial unused credit capacity, while remaining materially exposed to commodity-price volatility."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict whether or not",
+    "there can be no assurance",
+    "including but not limited to",
+    "various sources",
+    "extended period of time"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified regarding liquidity, tax assets, litigation, and operating losses, but presents substantial uncertainty around IRS recovery risk, legal outcomes, and ongoing funding needs. The company’s dependence on tax refunds and limited cash resources, combined with repeated cautionary language and litigation exposure, creates a materially negative risk profile."
+}

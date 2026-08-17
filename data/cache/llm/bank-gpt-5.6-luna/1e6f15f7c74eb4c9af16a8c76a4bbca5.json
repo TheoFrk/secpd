@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to closing conditions",
+    "sufficient cash and capital resources",
+    "customary covenants",
+    "re-invested into key growth initiatives"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and cash-flow information, including strong revenue growth and improved operating cash flow, but contains extensive boilerplate forward-looking disclaimers. Key risks include continuing net losses, secured debt and financial covenants, reliance on transaction proceeds, and dispositions with contingent consideration and closing conditions."
+}

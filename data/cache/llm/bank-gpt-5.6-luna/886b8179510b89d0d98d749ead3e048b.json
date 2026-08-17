@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "unknown expenses",
+    "variety of increases",
+    "non-GAAP financial measures",
+    "sporadic income"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and transparent about declining earnings, margin compression, COVID-19 effects, higher loan-loss provisions, and elevated merger expenses. However, it relies on judgment-heavy estimates and includes forward-looking uncertainty around credit losses, foreclosed real estate, goodwill impairment, and future economic effects. Management maintains a reassuring tone regarding capitalization and operational soundness despite weaker performance."
+}

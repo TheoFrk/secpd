@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance of successful implementation",
+    "estimates, assumptions and judgments",
+    "management believes",
+    "strong loan growth",
+    "higher criticized loans"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent regarding earnings, loan growth, reserves, and non-performing loans, but presents strategy and accounting outcomes with standard forward-looking caveats. Credit risk is increasing, as non-performing loans and criticized loans rose despite sustained low charge-offs and a lower allowance ratio."
+}

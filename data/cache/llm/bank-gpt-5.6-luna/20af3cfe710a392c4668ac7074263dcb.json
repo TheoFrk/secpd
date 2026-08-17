@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "immaterial error",
+    "primarily due to",
+    "appears promising",
+    "anticipated to be significant",
+    "subjective factors such as mortality rates"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including disclosure of a prior-period balance-sheet error, competitive conditions, operating metrics, and pension assumptions. Risk is moderated by the stated immateriality of the correction and stable operating performance, but pension estimates and investment in new brands introduce uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "risks and uncertainties not exclusive",
+    "additional testing could be required",
+    "best estimate of probable future costs",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive forward-looking disclaimers and broad, largely unquantified risk language, particularly concerning environmental remediation and commodity-cost pressures. Environmental liabilities could be material, but the disclosure does not provide an estimated exposure range or sensitivity analysis. The overall business tone is moderately positive, supported by growth initiatives, while risk transparency is limited by boilerplate and incomplete context."
+}

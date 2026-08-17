@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "indefinite or intermittent periods",
+    "management believes",
+    "opportunity for continued expansion",
+    "Adjusted EBITDA non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear market-share, shipment, facility, and financial metrics. Risk tone is moderately positive, but COVID-19 disruptions, operational shutdowns, reliance on favorable housing trends, and forward-looking expansion assumptions introduce material uncertainty. Use of non-GAAP Adjusted EBITDA and broad outlook language modestly reduces comparability and precision."
+}

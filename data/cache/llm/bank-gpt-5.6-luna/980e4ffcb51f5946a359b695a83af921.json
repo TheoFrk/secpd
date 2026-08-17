@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "factors beyond our control",
+    "among other factors",
+    "may differ materially",
+    "subject to certain termination rights",
+    "generally accepted and non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational and contractual detail, including production volumes, utilization rates, hedge results, debt terms, and agreement provisions. However, it relies heavily on standard forward-looking disclaimers and broad lists of external risks, while refinery economics remain exposed to commodity-price volatility, seasonality, regulation, counterparty dependence, and restrictive agreements. The tone is neutral to mildly cautious, with reported operating improvements partially offsetting substantial structural and market risks."
+}

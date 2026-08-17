@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "inherent uncertainties",
+    "hard to predict",
+    "depending on future commodity prices",
+    "could negatively affect",
+    "continue to affect"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed operating metrics, but emphasizes material exposure to volatile commodity prices, rig utilization, customer liquidity, and potential impairment charges. Forward-looking statements rely on uncertain assumptions and include recurring conditional language, though the overall tone is measured rather than crisis-like."
+}

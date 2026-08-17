@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.3,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant impact",
+    "no assurance",
+    "actual results could differ materially",
+    "certain triggering events",
+    "mitigate a portion of the losses"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, but includes substantial MD&A boilerplate and dense accounting and transaction-related discussion. Risk tone is moderately negative, reflecting an 11% revenue decline, higher broadcasting expenses, impairment charges, counterparty bankruptcy losses, litigation costs, and interest-rate exposure. Reliance on advertising, fixed operating costs, cyclical political revenue, and critical impairment estimates presents ongoing credit risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "certain risks beyond our control",
+    "no obligation to update",
+    "customary representations and warranties",
+    "no assurance reserves would be sufficient"
+  ],
+  "risk_summary": "The excerpt contains extensive standard safe-h harbor disclaimers and broad, non-quantified risk lists, which reduce specificity around future performance. It also reports a material 22.5% revenue decline tied to government and defense budget uncertainty, along with exposure to customer concentration, China operations, supply constraints, regulatory matters, and potential warranty or fire-related liabilities. Liquidity appears adequate at the stated date, with no credit-facility borrowings and $16.1 million of unrestricted cash."
+}

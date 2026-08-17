@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements that involve risks and uncertainties",
+    "subject to many variables",
+    "reasonably estimated",
+    "realization is probable",
+    "materially different amounts could be recorded"
+  ],
+  "risk_summary": "The excerpt is highly technical and complex but provides substantial quantitative detail on customer concentration, contract mix, cash flows, and accounting estimates. Key risks include heavy U.S. government and DoD dependence, budgetary pressure and sequestration, and material judgment in long-term contract revenue and cost estimates. Overall tone is cautiously stable, supported by positive operating cash flow and liquidity, while acknowledging meaningful estimation and execution uncertainty."
+}

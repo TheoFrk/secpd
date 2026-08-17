@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.9,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "repeated section title",
+    "cross-reference only",
+    "no substantive discussion",
+    "page-range pointer"
+  ],
+  "risk_summary": "The excerpt is purely a navigational cross-reference and repeats the MD&A title without providing financial, operational, liquidity, or risk information. It does not support a meaningful assessment of the issuer’s underlying risk profile."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various assumptions",
+    "highly uncertain future cash flows",
+    "subjective cost escalation rates",
+    "probable recovery through future rates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on asset retirement obligations, nuclear decommissioning liabilities, tax benefits, and historical revisions, reducing overall evasiveness. However, it relies heavily on standard forward-looking disclaimers and subjective assumptions around regulatory recovery, cost escalation, long-term cash flows, and tax outcomes. The risk tone is cautious and moderately negative due to material estimation uncertainty and prior impairment and decommissioning charges."
+}

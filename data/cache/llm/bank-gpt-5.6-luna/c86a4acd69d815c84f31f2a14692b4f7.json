@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "could cause ... to differ materially",
+    "duration and magnitude ... cannot be predicted",
+    "expected reduction in volatility",
+    "funding capital budget with cash flows and asset sales"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on production, pricing, capital spending, debt, interest rates, and DD&A, but relies on standard forward-looking disclaimers and contains some truncated or incomplete sections. Risk tone is moderately negative because of commodity-price declines, weaker demand, higher supply, capital intensity, and reliance on operating cash flow and asset sales to fund a large capital budget."
+}

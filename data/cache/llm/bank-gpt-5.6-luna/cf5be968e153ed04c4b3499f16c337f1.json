@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "subjective assumptions",
+    "probable recovery",
+    "material changes under different conditions"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and emphasizes uncertainty around regulatory recovery, nuclear decommissioning costs, tax positions, and other estimates. Several material exposures are quantified, but the excerpt is partly truncated and relies on subjective assumptions and omitted detailed tables. Operating performance was pressured by significant charges, lower net income, and higher interest expense."
+}

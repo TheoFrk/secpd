@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "estimates and judgments",
+    "actual results may differ",
+    "fully tax-equivalent measures",
+    "subject to regulatory approvals"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate with meaningful quantitative disclosure on acquisitions, merger consideration, loss-sharing terms, and operating results. Risk is framed as conditional and dependent on estimates, regulatory approvals, and customary closing conditions, while the overall tone remains moderately neutral to positive."
+}

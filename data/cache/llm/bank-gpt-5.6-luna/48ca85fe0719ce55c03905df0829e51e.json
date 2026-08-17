@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "not obligated to update",
+    "intended to enhance",
+    "continued growth expectations"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed revenue and margin drivers, but includes standard forward-looking disclaimers and optimistic language around acquisitions and future growth. Key risks include significant operating-margin compression, a 98.2% effective tax rate driven by planned repatriation, weaker research-market demand, customer budget pressure, and credit availability constraints."
+}

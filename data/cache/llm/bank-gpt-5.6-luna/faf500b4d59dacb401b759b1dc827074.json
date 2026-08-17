@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.45,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that goals will be achieved",
+    "positive credit metrics",
+    "not included in nonperforming loans",
+    "primarily due to",
+    "limited high yield investment opportunities"
+  ],
+  "risk_summary": "The excerpt is generally precise and data-rich, with strong quantified disclosure of earnings, liquidity, PPP exposure, and asset quality. Risk tone is cautiously positive, emphasizing improved credit metrics and lower nonperforming loans, while acknowledging margin pressure, pandemic-related uncertainty, and limited investment yields. Dense banking terminology and some standard qualifying language reduce accessibility but do not appear materially evasive."
+}

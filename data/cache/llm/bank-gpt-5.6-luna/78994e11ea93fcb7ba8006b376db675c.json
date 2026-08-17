@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "excluding merger-related charges",
+    "expectations do not include",
+    "continued modest recovery",
+    "targeted client relationships"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed performance comparisons and explicit outlook ranges. Risk tone is cautiously positive, although lower net income, substantially higher expenses, acquisition integration costs, macroeconomic uncertainty, and reliance on adjusted non-GAAP measures present credit-relevant concerns."
+}

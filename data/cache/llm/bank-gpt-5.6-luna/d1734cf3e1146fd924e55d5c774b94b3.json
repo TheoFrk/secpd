@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "based on various other information",
+    "if for any reason",
+    "important factors, but not necessarily all",
+    "unpredictable or unknown factors"
+  ],
+  "risk_summary": "The disclosure is generally specific and supported by quantified revenue, backlog, and cash-flow data, with a moderately positive operating tone. Key risks remain concentrated in forecasting accuracy, customer creditworthiness, inventory valuation, impairment assumptions, supply-chain execution, and broad forward-looking-statement caveats."
+}

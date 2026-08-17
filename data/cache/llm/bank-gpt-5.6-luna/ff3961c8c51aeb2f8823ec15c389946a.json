@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no known trend, demand, commitment, event, or uncertainty",
+    "sufficient to fund ... for the next several years",
+    "customary transactions",
+    "primarily attributable to",
+    "certain other expenses"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and detailed, with strong sales, profitability, liquidity, and operating cash-flow indicators. Risk discussion is largely standardized and relies on broad assurances regarding future funding, commitments, and absence of material uncertainties, while noting exposure to margins, markdowns, occupancy, shipping, seasonality, and consumer demand."
+}

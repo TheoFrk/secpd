@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "not obligated to update",
+    "many possible events or factors",
+    "no guarantee opportunities will materialize",
+    "sufficient funds over the next several years"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on acquisitions, occupancy, liquidity, securities, and debt, but is heavily dominated by repetitive forward-looking disclaimers and broad uncertainty language. Risk is moderate: sales remain below pre-recession levels, occupancy is relatively low, and the company uses margin and other debt financing, despite presenting a generally positive growth and liquidity outlook."
+}

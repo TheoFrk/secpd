@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may consider rights offering",
+    "sufficient to fund operating expenses for at least 12 months",
+    "potentially derive a benefit",
+    "actual results could vary",
+    "subject to availability thresholds"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial transaction, note, liquidity, and expense detail, but repeats key asset-sale information and relies on forward-looking contingencies. Risk is elevated because the company has no revenue-generating operations and depends on investment income, cash reserves, note payments, and potential acquisitions or capital raising. Liquidity is presented as adequate for at least 12 months, although note payment conditions and uncertain acquisition plans introduce execution and funding risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "estimates of future usage-based fees",
+    "additional financing might not be available",
+    "foreseeable future"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting revenue, cash flow, debt, liquidity, and operating metrics. Risk is moderated by strong operating performance and stated liquidity, but leverage increased materially, cash declined, and the company acknowledges uncertainty around usage estimates and potential refinancing or financing availability."
+}

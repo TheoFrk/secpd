@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "may materially adversely impact",
+    "cannot assure you",
+    "risks and uncertainties difficult to predict",
+    "subject to risks outside our control"
+  ],
+  "risk_summary": "The disclosure identifies material concentration, interest-rate, tenant operating, regulatory, occupancy, and refinancing risks, while quantifying several exposures such as UHS revenue concentration and lease activity. Risk language is heavily qualified and includes substantial standard forward-looking-statement disclaimers, but the excerpt also provides meaningful operating metrics and specific risk drivers."
+}

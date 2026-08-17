@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "cannot predict what legislation might be enacted",
+    "additional factors are discussed in Item 1A",
+    "does not undertake to update"
+  ],
+  "risk_summary": "The excerpt uses substantial standard cautionary and risk-management boilerplate, with limited quantitative detail on actual risk exposures, concentrations, or stress impacts. Operating results and fee, loan-sale, and assets-under-management trends are presented positively, but regulatory, liquidity, credit, interest-rate, reputational, and compliance risks are described largely in generic terms."
+}

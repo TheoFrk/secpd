@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "actual results may vary",
+    "if factors change",
+    "subject to certain limitations",
+    "further equity financings necessary"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but relies on management estimates for valuations, impairment, derivatives, and stock-based compensation. The company identifies meaningful funding risk, stating that additional equity financings, asset sales, or licensing transactions will be necessary to continue operations. The tone is operationally confident but financially cautious, consistent with a clinical-stage company dependent on future financing and development outcomes."
+}

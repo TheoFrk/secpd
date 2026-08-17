@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP earnings exclusions",
+    "projected guidance and growth ranges",
+    "believe recovery mechanisms will work",
+    "incorporated by reference",
+    "timing-related cash flow impacts"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed segment earnings, liquidity, debt issuance, capital spending, and regulatory information. Risk tone is cautiously positive, though reliance on non-GAAP measures, forward projections, regulatory recovery assumptions, and timing explanations introduces some interpretive and execution risk."
+}

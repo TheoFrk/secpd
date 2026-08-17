@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "may differ materially",
+    "without limitation",
+    "future economic conditions"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating data, but its opening is dominated by broad, largely boilerplate forward-looking risk disclaimers covering numerous contingencies without probability or quantified impact. Results show pressure from a lower net interest margin and reduced net income, partly offset by loan growth and the Brunswick acquisition; acquisition-related expenses and commercial real estate exposure warrant monitoring."
+}

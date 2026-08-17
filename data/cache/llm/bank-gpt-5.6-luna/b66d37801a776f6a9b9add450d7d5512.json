@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "including, but not limited to",
+    "expected to",
+    "appropriate time",
+    "depending on guidance received",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is relatively precise and quantitatively detailed, covering customer counts, rate actions, capital spending, contracts, and financing commitments. Risk tone is mildly positive, but the company remains exposed to regulatory approval, financing-cost uncertainty, rate-relief timing, and substantial infrastructure investment requirements."
+}

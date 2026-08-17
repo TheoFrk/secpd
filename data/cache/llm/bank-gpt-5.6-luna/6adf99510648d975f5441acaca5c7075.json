@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "non-GAAP adjusted earnings",
+    "significant unusual and non-recurring items",
+    "management accounting allocations",
+    "inherently difficult to predict"
+  ],
+  "risk_summary": "The disclosure is generally well quantified, but emphasizes adjusted results that exclude environmental, restructuring, expansion, tax, and other costs, potentially presenting a more favorable underlying performance. Key risks include declining Specialty Papers pricing and profitability, environmental obligations, substantial capital expenditures, and reliance on allocation-based business-unit metrics."
+}

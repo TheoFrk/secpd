@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset",
+    "subject to many uncertainties",
+    "certain other challenges",
+    "other income/expense"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with detailed year-over-year financial, credit-quality, liquidity, and capital metrics. Risk tone is cautiously positive, although declining net income, deposits, equity, and regulatory uncertainty warrant monitoring. Some causal explanations rely on broad attribution and offsetting language, and the excerpt is incomplete."
+}

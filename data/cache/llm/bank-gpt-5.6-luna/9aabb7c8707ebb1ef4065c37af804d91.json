@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "difficult to predict probability and timing",
+    "requires significant management judgment",
+    "future events rarely develop exactly as forecast",
+    "appropriate systems and processes",
+    "could have a material effect"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well quantified, including revenue mix, contract types, acquisition costs, R&D spending, and contract losses. Key risks relate to fixed-price contract exposure, uncertain contract awards, estimation-dependent revenue recognition, satellite and service launch costs, and segment operating losses. The tone is measured but modestly negative because it acknowledges material uncertainty and adverse operating developments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "all figures are approximations",
+    "primarily resulting from",
+    "certain major factory suppliers",
+    "highly concentrated among two customers",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is comparatively quantified and provides detailed year-over-year drivers, but it highlights material customer concentration, an 18.7% revenue decline, thin operating cash generation, and reduced supplier credit lines. Liquidity appears adequate based on reported cash and working capital, though dependence on cash on hand and ongoing operations creates elevated execution and counterparty risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to significant judgment",
+    "estimates may differ from actual results",
+    "many variables and assumptions",
+    "customer funding and audit uncertainty"
+  ],
+  "risk_summary": "The disclosure is detailed and quantitatively specific, but relies substantially on estimates for contract costs, revenue, incentives, claims, and valuation inputs. Key credit risks include heavy U.S. government and DoD concentration, budgetary pressure, substantial debt and contractual obligations, and reliance on customer funding and future operating cash flow."
+}

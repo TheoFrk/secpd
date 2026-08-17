@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual losses could differ significantly",
+    "factors beyond the Company’s control",
+    "management’s analysis",
+    "not a substitute for GAAP",
+    "inherently uncertain judgments"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, but highlights uncertainty around loan-loss estimates, economic conditions, and critical accounting judgments. Profitability weakened year over year due to lower noninterest income, higher expenses, and a lower net interest margin, although the company remained profitable and loan-loss provision declined."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "we believe",
+    "to the extent applicable",
+    "not materially impact",
+    "discontinued operations classification"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including sales, margins, divestitures, repurchases, and transaction costs. Risk tone is mildly confident but acknowledges meaningful weather sensitivity, seasonality, retail inventory timing, and reporting complexity from discontinued operations and organizational changes. Some drivers are deferred to omitted tables or described with broad qualifying language."
+}

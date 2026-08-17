@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strong financial condition",
+    "positive outlook",
+    "continue to evaluate",
+    "expected to drive margin improvement",
+    "non-GAAP adjusted measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, cash flow, debt, backlog, and market information, supporting relatively transparent disclosure. Risk tone is generally optimistic but acknowledges vehicle-market softness, lower net income, execution demands from ERP and integration initiatives, and reliance on projected growth and acquisitions. Use of repeated strategic language and EBITDA/adjusted-income measures introduces moderate promotional and non-GAAP framing."
+}

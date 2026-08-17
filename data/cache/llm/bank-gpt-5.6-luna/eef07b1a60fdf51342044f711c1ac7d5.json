@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "going concern qualification",
+    "no assurances can be given",
+    "subject to business conditions",
+    "potential sources of cash",
+    "we firmly believe"
+  ],
+  "risk_summary": "The disclosure explicitly identifies substantial doubt about the Company’s ability to continue as a going concern, with no revenue, limited cash, recurring financing needs, and dependence on external funding or asset transactions. Although operating expenses and financing terms are quantified, liquidity plans rely heavily on uncertain future financing, joint ventures, and profitable mining development."
+}

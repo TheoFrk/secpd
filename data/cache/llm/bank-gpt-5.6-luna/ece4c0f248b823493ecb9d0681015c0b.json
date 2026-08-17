@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures excluding recurring adjustments",
+    "forward-looking statements and risk uncertainties",
+    "management estimates and assumptions",
+    "business realignment activities",
+    "impairment charges and valuation reassessment"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed reconciliations, but emphasizes adjusted non-GAAP results and excludes several material costs and gains from performance comparisons. Significant impairment charges, restructuring activity, acquisition integration costs, and reliance on management estimates indicate operational and valuation risks despite an overall positive management tone."
+}

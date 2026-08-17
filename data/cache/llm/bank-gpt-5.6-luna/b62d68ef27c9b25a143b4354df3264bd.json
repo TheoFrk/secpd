@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "remains strong",
+    "significant fluctuations",
+    "unpredictable funding",
+    "management judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, including contract mechanics, segment descriptions, and quantified facility investments. However, it highlights material exposure to government funding and termination decisions, supply-chain disruptions, long-term contract estimates, and cumulative revenue adjustments, while relying on forward-looking and qualified language regarding growth and facility completion."
+}

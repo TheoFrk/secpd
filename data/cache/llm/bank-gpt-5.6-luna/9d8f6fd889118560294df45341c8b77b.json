@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "future adjustments may be necessary",
+    "no assurance can be given",
+    "various factors, including",
+    "significant judgments, estimates, and assumptions"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent about asset, loan, funding, and credit-loss movements, but relies on standard uncertainty disclaimers around CECL and tax estimates. Loan growth and higher funding costs are notable risk factors, while the increased credit-loss provision suggests some emerging credit-cost pressure."
+}

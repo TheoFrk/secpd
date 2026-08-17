@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management’s assumptions",
+    "expected future cash flows",
+    "may include",
+    "primarily attributable to",
+    "buy-and-build growth strategy"
+  ],
+  "risk_summary": "The excerpt presents strong revenue and net income growth, but growth is partly acquisition-driven and supported by borrowings, while operating cash flow remains modest relative to investing needs. Disclosure is generally quantified but includes substantial boilerplate and reliance on management estimates regarding acquisitions, intangible asset recoverability, and deferred tax assets."
+}

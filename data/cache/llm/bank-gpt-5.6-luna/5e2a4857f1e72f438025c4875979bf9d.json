@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "favorable or unfavorable effect",
+    "more likely than not",
+    "primarily due to",
+    "adequate and proper",
+    "leverages best practices and synergies"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides segment-level explanations for revenue, margin, operating expense, tax, and profitability changes. Risk is mixed: net income declined sharply, Watercraft remained loss-making, and results benefited from favorable settlements, tax effects, and other nonrecurring factors. Accounting estimates for receivables, inventory, and deferred taxes remain sensitive to economic and demand conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "does not expect ... material impact",
+    "primarily attributable to",
+    "to the extent permitted by law",
+    "leveling in credit quality",
+    "strategic decision"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial detail on earnings, credit provisions, loan balances, deposits, and funding changes, limiting disclosure vagueness. Risk remains mixed: profitability recovered, but the company experienced significant prior-year losses, declining loans and deposits, charge-offs, impaired collateral, and reliance on balance-sheet contraction and lower-cost funding strategies."
+}

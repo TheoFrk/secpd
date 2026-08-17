@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.55,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "currently expects",
+    "expected to result",
+    "continue to evaluate",
+    "evolving strategy",
+    "forward-looking test period"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, investment- and growth-oriented tone with substantial quantitative detail on renewable capacity, rate increases, tax credits, and capital projects. Risk visibility is moderated by extensive forward-looking language and limited discussion of execution, regulatory, cost-overrun, and financing downside risks in the provided section."
+}

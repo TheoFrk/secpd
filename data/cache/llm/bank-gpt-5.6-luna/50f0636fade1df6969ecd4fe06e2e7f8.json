@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "actual results may differ materially",
+    "management estimates and assumptions",
+    "various other factors"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating data and defined accounting policies, supporting relatively transparent disclosure. However, extensive safe-h harbor language and reliance on management estimates create moderate uncertainty, particularly around revenue accruals, asset impairment, inventory valuation, and deferred taxes. The operating tone is mildly positive due to reported increases in production, revenue, and gross profit, though the excerpt is incomplete."
+}

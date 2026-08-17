@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual sales may materially differ",
+    "historically-high levels",
+    "estimates and assumptions",
+    "could differ materially",
+    "to the extent that"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment, revenue, gross-profit, inventory, and earnings disclosures. Key risks include dependence on manufacturer incentives and leasing support, variable floorplan interest rates, used-vehicle market conditions, and estimation uncertainty, but the overall operating tone is favorable."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "management believes",
+    "minimal adverse effect",
+    "as deemed necessary",
+    "working capital figure appears malformed"
+  ],
+  "risk_summary": "The disclosure is generally quantified and reports improved revenue, profitability, liquidity, and cash flow, but relies on optimistic assertions regarding collectability, adequacy of working capital, inflation, and export risk. Key risks include COVID-related sales-cycle delays, supply-chain lead times, customer concentration, dependence on product sales, and increased current liabilities; the malformed working-capital figure reduces data reliability."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "other factors and trends",
+    "expected cash flows",
+    "subject to collectability",
+    "fair value estimates"
+  ],
+  "risk_summary": "The excerpt is highly technical and provides some quantified margin and accretable-yield information, but relies heavily on management estimates, assumptions, and broad qualitative factors. Credit risk is concentrated in loan-loss estimates, acquired impaired loans, FDIC loss-share recoveries, and potentially changing expected cash flows. Overall tone is cautiously positive, although the disclosure is dense and partly boilerplate."
+}

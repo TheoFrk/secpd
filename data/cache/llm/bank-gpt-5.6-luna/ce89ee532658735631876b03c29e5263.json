@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.03,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.12,
+  "risk_sentiment": 0.0,
+  "confidence": 0.99,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt is a precise cross-reference to the MD&A section and contains no substantive financial or risk disclosure. Risk assessment is therefore limited without the referenced pages."
+}

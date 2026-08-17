@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not possible to predict the full extent",
+    "highly uncertain and rapidly changing",
+    "subject to significant fluctuations",
+    "may change in the future",
+    "risks and uncertainties described elsewhere"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, including AUM, revenue, expense, income, and market-flow changes. Risk tone is moderately negative due to COVID-19 impacts, net outflows, declining operating performance, fee pressure, and regulatory uncertainty, although management presents ongoing mitigation and strategic initiatives."
+}

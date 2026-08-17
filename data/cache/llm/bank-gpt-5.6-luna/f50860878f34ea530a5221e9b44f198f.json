@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking safe-h harbor disclaimer",
+    "no assurance of additional financing",
+    "not expected to have a material impact",
+    "estimates may differ",
+    "immaterial warranty expense"
+  ],
+  "risk_summary": "The disclosure contains useful quantified operating and cash-flow data, but highlights materially weaker revenue, a swing to operating loss, negative operating cash flow, inventory write-offs, and reliance on future financing. Repeated safe-harbor language and broad assertions of immaterial impact limit forward-looking transparency, although the overall discussion is more conventionally cautious than overtly evasive."
+}

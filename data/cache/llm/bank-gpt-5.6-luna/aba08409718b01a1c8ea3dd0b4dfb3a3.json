@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot guarantee future results",
+    "no duty to update",
+    "long-term focus",
+    "annual projections likely revised substantially"
+  ],
+  "risk_summary": "The excerpt discloses a first loss in six years, order declines, cyclical demand, pandemic exposure, and ongoing strategic investment, but provides limited quantitative detail on magnitude or timing. Extensive safe-h harbor and accounting-policy boilerplate increases cautionary and technical complexity while management maintains a generally constructive outlook."
+}

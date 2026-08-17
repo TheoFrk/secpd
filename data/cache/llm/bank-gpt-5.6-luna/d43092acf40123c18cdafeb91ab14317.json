@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "can be affected by",
+    "appropriate flow of vehicles",
+    "monitored and reviewed on a continuous basis",
+    "effort to combat increased competition"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue growth, credit losses, allowance changes, receivables, and pandemic impacts. However, it repeatedly relies on broad macroeconomic and competitive-risk descriptions, management assertions, and forward-looking mitigation language, while the excerpt ends mid-sentence. Credit risk remains material because customers are predominantly subprime, costs and liquidity are sensitive to vehicle prices, and reported improvement benefited from temporary government stimulus and allowance reductions."
+}

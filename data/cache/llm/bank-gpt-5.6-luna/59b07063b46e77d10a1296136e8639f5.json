@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "no assurance",
+    "believes it will be difficult",
+    "continues to work on the same terms",
+    "extent ... is unknown"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and viability risk: the Company has no operations, minimal cash of $82,091 against $10.7 million of payables and accrued expenses, recurring losses, and substantial doubt about its ability to continue as a going concern. Management is pursuing financing, a joint venture, or asset sales, but acknowledges that suitable financing may be difficult to obtain and provides no demonstrated funding solution."
+}

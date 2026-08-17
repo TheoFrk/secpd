@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.1,
+  "complexity_score": 0.35,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive disclosure",
+    "document cross-reference",
+    "fragmented OCR spacing"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial condition, operating results, liquidity, or risk discussion; it merely incorporates the MD&A by reference to Exhibit 13. This limits assessment and requires review of the referenced annual report section."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on current expectations",
+    "should not be construed",
+    "believe the market is growing",
+    "leading provider",
+    "full suite of services"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, promotional business narrative with quantified liquidity and cash-flow data, including positive working capital and operating cash flow. However, cash declined year over year, capital expenditures were substantial relative to cash balances, and the discussion relies heavily on forward-looking qualifiers and unquantified growth claims."
+}

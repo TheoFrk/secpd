@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "non-GAAP financial measures",
+    "subject to availability",
+    "we believe"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and positive operating outlook, supported by several quantified performance and liquidity metrics. Risk disclosure is broad and largely boilerplate, with extensive forward-looking disclaimers and reliance on non-GAAP measures, but the section also provides meaningful detail on credit facilities, investments, funding, and interest-rate sensitivity."
+}

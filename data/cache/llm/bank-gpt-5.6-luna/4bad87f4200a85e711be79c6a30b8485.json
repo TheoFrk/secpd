@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"immaterial error\" characterization",
+    "revision of previously issued financial statements",
+    "temporary increase in certain limited circumstances",
+    "range of 41% to 55%",
+    "truncated disclosure and table references"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with a mildly positive operating tone and strong reported earnings growth. The principal risk signal is the revision of prior-period financial statements for an accounting-standard adoption error, although management characterizes the impact as immaterial. Complex ownership, revenue-sharing arrangements and reliance on investment-related gains add transparency and earnings-quality concerns."
+}

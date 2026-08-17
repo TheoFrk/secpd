@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no obligation to update",
+    "non-GAAP measures",
+    "items outside management’s control",
+    "reasonable assurance"
+  ],
+  "risk_summary": "The excerpt is largely standard legal and accounting boilerplate, with extensive reliance on non-GAAP measures and broad risk disclaimers. It provides meaningful quantitative operating data, but the presentation may reduce comparability through exclusions and adjustments. Overall tone is cautiously confident, with localized weakness in energy-related and geographic markets."
+}

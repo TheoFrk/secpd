@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurances of additional capital",
+    "cannot continue operations",
+    "actual results could differ",
+    "pending arbitration"
+  ],
+  "risk_summary": "The disclosure presents significant liquidity and going-concern risk, including a $674.5 million accumulated deficit, only $16.5 million in cash and short-term investments, and an explicit need for additional financing without assurance of success. The extensive forward-looking disclaimer is largely boilerplate, but the financial distress and pending executive compensation dispute are stated relatively directly. The company remains clinical-stage with no marketable product, increasing execution and funding risk."
+}

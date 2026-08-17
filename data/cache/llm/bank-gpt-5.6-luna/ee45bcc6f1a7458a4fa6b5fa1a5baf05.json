@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could have a material impact",
+    "expect sufficient cash flow",
+    "should we deem it necessary",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including segment performance, cash balances, debt repayments, obligations, and capital expenditure projections. Risk is moderated by declining cash, lower animal nutrition results, foreign cash repatriation constraints, acquisition financing needs, and material estimation uncertainty. Overall tone is cautiously confident rather than crisis-like, with standard forward-looking and accounting-risk caveats."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be accurately forecasted",
+    "subject to significant uncertainties",
+    "primarily due to",
+    "may experience such an increase or reduction",
+    "customary representations and warranties"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and highly quantified, detailing acquisitions, divestitures, debt repayments, restructuring costs, cash flows, and changes in key financial metrics. Risk tone is mixed: operating performance improved, but liquidity declined, discontinued operations generated losses, and COVID-19, litigation, refinancing, and accounting-estimate uncertainties remain material."
+}

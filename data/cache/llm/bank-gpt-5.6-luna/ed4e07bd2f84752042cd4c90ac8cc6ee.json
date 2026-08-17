@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could materially impact financial results",
+    "in a variety of ways",
+    "more likely than not",
+    "subject to post-closing adjustments and indemnities",
+    "qualitative factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on divestitures, network scale, lease costs, and impairment methodology, but relies on broad scenario language for future macroeconomic, operational, and network-expansion risks. The tone is generally neutral and promotional while acknowledging inflation, supply constraints, delayed initiatives, customer uncertainty, and potential impairment exposure."
+}

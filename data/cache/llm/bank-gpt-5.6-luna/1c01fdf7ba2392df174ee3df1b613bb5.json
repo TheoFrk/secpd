@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "seeks to",
+    "strives to",
+    "based upon a variety of assumptions",
+    "if changed or altered",
+    "expected maturities may differ"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and favorable performance narrative, supported by extensive quantitative disclosure on earnings, capital, credit quality, and securities. It also relies on broad management objectives and generalized risk-mitigation language, with some uncertainty around assumptions, interest-rate exposure, liquidity, economic conditions, and security maturities. The section is highly technical and includes substantial standard MD&A and non-GAAP reconciliation boilerplate."
+}

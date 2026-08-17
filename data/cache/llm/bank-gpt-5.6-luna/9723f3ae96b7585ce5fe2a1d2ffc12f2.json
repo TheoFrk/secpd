@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "variety of factors",
+    "adverse effect",
+    "subject to assumptions"
+  ],
+  "risk_summary": "The excerpt is heavily standardized and risk-focused, with broad, non-quantified contingencies covering market, regulatory, capital, actuarial, operational, and litigation exposures. Technical accounting discussion is relatively precise, but the forward-looking disclaimer relies extensively on generic qualifiers and extensive risk enumeration rather than company-specific probability or magnitude estimates."
+}

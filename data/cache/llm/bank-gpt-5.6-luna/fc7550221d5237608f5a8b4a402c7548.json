@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot determine with certainty",
+    "adverse factors previously referenced",
+    "include but are not limited to",
+    "actual results may materially differ",
+    "truncated or missing explanations"
+  ],
+  "risk_summary": "The disclosure presents meaningful operating and liquidity risk, including recent losses, declining recreational vehicle shipments, weak housing volumes, restrictive financing conditions, and a full valuation allowance against deferred tax assets. Although management cites cash and U.S. Treasury Bills as sufficient for the next operating cycle, continuation of housing growth and fiscal 2014 conditions remain uncertain. Several causal explanations and management strategies are incomplete in the excerpt, limiting assessment of mitigation effectiveness."
+}

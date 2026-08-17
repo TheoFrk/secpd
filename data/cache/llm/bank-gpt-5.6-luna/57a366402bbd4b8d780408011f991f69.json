@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "cannot assure",
+    "unless otherwise required",
+    "subject to seasonal or general economic conditions",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified historical operating data and identifies concrete exposures, including fuel prices, labor and capacity shortages, self-insurance claims, customer failures, regulatory costs, and capital needs. However, extensive safe-harbor language, broad qualifiers, and repeated cautionary disclosures limit forward-looking accountability. The overall tone is operationally cautious but not crisis-like."
+}

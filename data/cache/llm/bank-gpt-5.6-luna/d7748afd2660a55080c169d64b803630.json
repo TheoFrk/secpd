@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty exists",
+    "may continue to negatively impact",
+    "unable to determine or predict",
+    "including, without limitation",
+    "future developments highly uncertain"
+  ],
+  "risk_summary": "The excerpt provides useful quantified information, including a 3% revenue increase, 79% net income decline, and approximately $6.9 million in PPP Loans. Risk is elevated due to COVID-19-related disruption, broad uncertainty over duration and magnitude, liquidity concerns, and acquisition-driven operating expense growth. Disclosure is detailed but contains extensive contingencies and forward-looking qualifiers that limit precision regarding future performance."
+}

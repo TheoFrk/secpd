@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "partially offset by",
+    "factors beyond the Company’s control",
+    "typically dependent on",
+    "may be subject to adverse conditions",
+    "greater degree of risk"
+  ],
+  "risk_summary": "The excerpt is generally specific and transparent, with extensive quantified operating, earnings, credit-loss, and acquisition disclosures. Risk tone is moderately positive due to strong earnings and margin growth, but the text acknowledges exposure to economic conditions, commercial real estate, business cash flows, and consumer credit deterioration. Some risk language is standardized and broadly framed rather than tied to quantified stress scenarios."
+}

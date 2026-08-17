@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot guarantee future results",
+    "no obligation to update",
+    "may determine to seek funding",
+    "financing availability uncertain"
+  ],
+  "risk_summary": "The company reported no revenue in either year, a substantially larger net loss in 2019, and liabilities of $456,131 against only $26,340 of assets. It relies on related-party borrowings and acknowledges uncertainty about obtaining additional debt or equity financing on acceptable terms, indicating significant liquidity and going-concern risk."
+}

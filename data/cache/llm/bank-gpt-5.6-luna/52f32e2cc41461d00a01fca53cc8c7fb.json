@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment",
+    "may differ",
+    "we expect",
+    "based on estimated fair values",
+    "not likely to be realized"
+  ],
+  "risk_summary": "The disclosure presents generally favorable demand and revenue trends, supported by recurring revenue and growth across product categories and geographies. Key risks include China-related export restrictions, acquisition-related costs, revenue-allocation estimates, and potential material tax expense if the deferred tax asset is not realized. The excerpt is technically dense and relies on substantial accounting judgments and forward-looking qualifiers."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict future charge-offs",
+    "as conditions warrant",
+    "no assurance that future losses will not",
+    "non-GAAP measures",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is largely precise and well quantified, reporting strong earnings, margin expansion, and declining provision expense. Credit risk remains material due to higher unemployment, delinquencies, elevated charge-offs, and liability-sensitive funding that could pressure margins if rates rise. Management relies on standard caveats regarding future losses and allowance adequacy, with the excerpt truncated before the conclusion."
+}

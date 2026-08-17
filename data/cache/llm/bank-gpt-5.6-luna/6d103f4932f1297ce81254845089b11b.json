@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.66,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot guarantee future results",
+    "disclaim any obligation to update",
+    "unable to make a reasonable estimate",
+    "believed to be reasonable assumptions"
+  ],
+  "risk_summary": "The excerpt relies substantially on standardized forward-looking disclaimers and generalized strategic claims, with limited quantitative detail in the provided section. Litigation exposure and accounting estimates are acknowledged but not quantified, creating uncertainty regarding potential downside. Overall tone is cautiously positive due to reported market improvement and competitive-position claims, tempered by broad risk caveats."
+}

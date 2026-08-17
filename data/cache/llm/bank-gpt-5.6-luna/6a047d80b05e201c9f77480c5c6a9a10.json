@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may acquire companies",
+    "generally have multiple agreements",
+    "terminate an agreement for convenience",
+    "assumptions used in impairment analysis",
+    "significant changes were not likely"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed but presents meaningful risks from customer concentration, cyclical demand, contract termination rights, retained insurance exposure, and goodwill impairment assumptions. The tone is generally neutral to mildly confident, with risks acknowledged but framed as manageable and supported by sensitivity analyses."
+}

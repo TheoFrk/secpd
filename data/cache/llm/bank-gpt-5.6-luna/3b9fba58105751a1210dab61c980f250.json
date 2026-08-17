@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe harbor disclaimer",
+    "could cause actual results to differ",
+    "factors may not be exhaustive",
+    "undertakes no duty to update",
+    "expected benefits and time frame"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified disclosure on financing, asset sales, restructuring savings, and contract losses, but is preceded by extensive boilerplate risk language and broad, non-exhaustive contingencies. Risk tone is moderately negative due to weak markets, customer and contract pressures, a $45.1 million forward-loss provision, and restructuring-related charges, partly offset by reported cost reductions and liquidity actions."
+}

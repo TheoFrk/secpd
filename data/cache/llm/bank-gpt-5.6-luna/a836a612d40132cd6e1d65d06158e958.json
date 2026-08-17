@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and substantial risks",
+    "uncertainty regarding ability to obtain capital",
+    "may not achieve significant revenue or profitability",
+    "additional trials required to confirm safety and efficacy",
+    "suspended enrollment pending a partner"
+  ],
+  "risk_summary": "The disclosure presents substantial clinical, regulatory, financing, intellectual-property, and commercialization uncertainties, with repeated reliance on broad forward-looking-statement disclaimers. Quantified trial results provide useful specificity, but the strategic realignment, suspended AMD program, workforce reduction, and dependence on additional capital or partners indicate elevated execution and liquidity risk."
+}

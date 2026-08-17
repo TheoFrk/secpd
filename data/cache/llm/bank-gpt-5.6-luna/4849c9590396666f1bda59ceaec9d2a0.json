@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "do not undertake any obligation to update",
+    "undue reliance",
+    "not exclusive risk factors"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking-statement disclaimers and broad, non-quantified references to risks, which reduce disclosure specificity. Operating results are presented as broadly stable and asset quality as remaining strong, although deterioration in asset quality and higher net charge-offs are acknowledged with limited context in the provided excerpt."
+}

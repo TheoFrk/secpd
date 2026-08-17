@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "significant estimates and assumptions",
+    "other miscellaneous items"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and estimates-related disclaimers, with some risk factors described broadly rather than quantified. Operating performance is presented as generally positive, but material uncertainty remains around demand, currency, commodity costs, customer concentration, impairment assumptions, and the sharp variation in tax expense and continuing-operations earnings."
+}

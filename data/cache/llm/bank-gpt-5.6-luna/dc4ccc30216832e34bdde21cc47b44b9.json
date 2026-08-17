@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict future charge-offs",
+    "economic conditions remain uncertain",
+    "liability sensitive",
+    "net interest margin under pressure",
+    "fully tax-equivalent basis"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with transparent year-over-year operating and credit metrics. Key risks include declining asset yields, liability-sensitive repricing exposure, margin compression, and continued uncertainty around charge-offs and economic conditions. Overall tone is cautiously stable rather than crisis-like, supported by lower provisions and charge-offs but tempered by weaker profitability measures."
+}

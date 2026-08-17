@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "due primarily to",
+    "non-GAAP financial measure",
+    "partially offset by",
+    "forward-looking statements",
+    "excluding reserve development"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed year-over-year drivers across business segments, reducing concerns about evasiveness. Risk tone is moderately negative because of COVID-19 impacts, lower investment results, adverse reserve development, catastrophe losses, and declining net income, although the disclosure remains analytical and balanced."
+}

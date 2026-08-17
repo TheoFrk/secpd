@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "over which we have no control",
+    "volatile and unpredictable",
+    "could result in",
+    "subjective assumptions",
+    "partially mitigate"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting strong 2012 sales and margin improvement while explaining year-over-year drivers. Key risks include cyclical construction demand, macroeconomic sensitivity, commodity-price volatility, supplier exposure, and estimation uncertainty in warranties and self-funded medical claims. The overall tone is cautiously positive rather than crisis-like."
+}

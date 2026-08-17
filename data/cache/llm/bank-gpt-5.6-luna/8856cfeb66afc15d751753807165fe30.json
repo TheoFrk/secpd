@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "may be calculated using a different surcharge formula",
+    "temporary basis",
+    "impact by period may fluctuate",
+    "firm price margin fluctuations"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, but uses technical accounting discussion and conditional language around surcharges, commodity hedges, product mix, and customer commitments. Risk tone is mildly negative due to weak energy markets, operating losses, restructuring, and earnings declines, while diversification and hedging provide mitigating context."
+}

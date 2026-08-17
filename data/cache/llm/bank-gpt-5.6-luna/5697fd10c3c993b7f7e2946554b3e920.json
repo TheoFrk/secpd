@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "many factors beyond our control",
+    "unfavorable change order adjustment",
+    "cost-to-cost estimates"
+  ],
+  "risk_summary": "The excerpt is materially quantified and provides useful segment, contract, revenue, margin, and cost information, though it includes standard forward-looking disclaimers and qualitative explanations. Risk tone is mildly negative because profitability and operating margins declined despite revenue growth, with inflation, supply-chain disruption, labor inefficiencies, weather, pricing pressure, and project estimates identified as drivers."
+}

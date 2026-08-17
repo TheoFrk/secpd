@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to certain risks and uncertainties",
+    "including but not limited to",
+    "may vary materially",
+    "assumptions made by management",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt reports strong, quantified fiscal 2015 growth and profitability, supporting a moderately positive tone. However, it highlights material exposure to customer consolidation, pricing concessions, extended payment terms, product returns, order volatility, competition, vendor concentration, litigation, and estimation uncertainty. Extensive forward-looking disclaimers and broad non-exhaustive risk lists limit the specificity of the risk discussion."
+}

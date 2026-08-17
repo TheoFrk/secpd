@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to change from time to time",
+    "likely consist primarily",
+    "cannot predict",
+    "partially mitigated",
+    "could have a significant impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding capacity additions, rate impacts, hydroelectric shortfalls, and regulatory recovery mechanisms. Key risks involve extreme weather, resource adequacy, regulatory lag, potential tariffs, and uncertainty over future generation investment and cost recovery. Overall tone is cautious but not crisis-like, with management emphasizing mitigation through rate mechanisms and deferrals."
+}

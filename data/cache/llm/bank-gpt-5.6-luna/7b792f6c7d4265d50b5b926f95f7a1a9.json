@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "reasonably assured",
+    "expected best-in-class clinical benefit",
+    "certain circumstances as defined",
+    "ability to curtail or defer",
+    "sufficient to meet minimal necessary expenses"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on valuation assumptions, financing, cash balances, and accounting treatment, but liquidity conclusions rely on optimistic clinical and licensing expectations despite no current revenues. Complex derivative and fair-value disclosures, subjective model inputs, and dependence on future capital management create meaningful execution and financing risk."
+}

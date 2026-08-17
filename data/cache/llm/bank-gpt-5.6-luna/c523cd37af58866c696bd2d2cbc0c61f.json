@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "many risks and uncertainties",
+    "does not undertake any obligation to update",
+    "primarily due to",
+    "intended to provide a better understanding"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting trends in earnings, loans, deposits, credit quality, provisions, and securities impairments. Risk tone is cautiously positive, supported by improving nonperforming loans and charge-offs, but the concentration in real-estate-secured lending, unrealized trust-preferred-security losses, low-rate pressure, and reliance on favorable business conditions remain material risks. Boilerplate forward-looking language and repeated explanations modestly reduce precision."
+}

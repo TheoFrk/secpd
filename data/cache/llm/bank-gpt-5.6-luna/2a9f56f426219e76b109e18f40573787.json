@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results may differ materially",
+    "varying degrees of certainty",
+    "estimated bookings not backlog",
+    "transactional volume assumptions"
+  ],
+  "risk_summary": "The disclosure presents strong revenue, profitability, cash-flow, cloud adoption, and bookings growth with extensive quantitative support. Key risks center on estimated transactional volumes, customer activity, contract performance, regulatory conditions, industry concentration, and the non-firm nature of bookings, though these are described in standard cautionary language rather than as immediate financial stress."
+}

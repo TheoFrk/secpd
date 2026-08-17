@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "approximately/more than",
+    "full impact ... unknown",
+    "customary representations, warranties, and covenants",
+    "without any admission, concession or finding",
+    "uncured default in payment obligations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail but repeats the Kopple litigation and settlement disclosure and relies on some broad or customary legal language. Risk tone is materially negative due to historical operational disruptions, significant debt restructuring, litigation obligations, and the unpaid $3 million settlement installment triggering a potential default and judgment right."
+}

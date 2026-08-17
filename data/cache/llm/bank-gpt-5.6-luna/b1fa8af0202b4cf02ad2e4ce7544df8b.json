@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "actual results may differ materially",
+    "excluding acquisitions",
+    "based on estimates and judgments"
+  ],
+  "risk_summary": "The excerpt is predominantly quantitative and transparent, with detailed year-over-year results and acquisition, foreign-exchange, restructuring, and debt impacts. Risk is moderate: operating margin declined, restructuring charges increased, acquisition-related debt and expenses rose, and organic performance was mixed despite reported revenue growth."
+}

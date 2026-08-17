@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various risks and uncertainties",
+    "outside our control",
+    "no obligation to update",
+    "future assumptions and conditions"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively specific, including impairment, pension, renewal-rate, CPI, and valuation sensitivities. Key risks arise from management estimates, customer collectibility, inventory demand, lease renewals, economic conditions, litigation, and potential financing dilution, although the tone is routine rather than crisis-like."
+}

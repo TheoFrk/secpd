@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "where possible, mitigate",
+    "if unable to successfully pass through",
+    "such other factors",
+    "actual results could differ",
+    "future events rarely develop exactly as forecasted"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, including sales, gross profit, margins, inventory provisions, and manufacturing under-absorption. Key risks include tariff-related cost pressures, demand sensitivity to higher prices, semiconductor market weakness, inventory obsolescence, credit losses, and estimation uncertainty. The tone is generally operational and balanced, though portions rely on standard boilerplate and conditional language."
+}

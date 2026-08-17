@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.91,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to many variables",
+    "materially different amounts",
+    "reliably estimated and probable",
+    "judgment and estimation processes",
+    "truncated/discontinuous disclosure"
+  ],
+  "risk_summary": "The excerpt is highly technical and detailed, with substantial quantitative disclosure regarding customer concentration, contract mix, and convertible-note terms. Key risks arise from judgment-heavy contract accounting, estimates of costs and fees, government-contract compliance, and potential variability in contract profitability. The abrupt truncation and unrelated transition in the provided text limit assessment of the full disclosure context."
+}

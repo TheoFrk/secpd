@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "numerous risks and uncertainties",
+    "non-GAAP measure caveats",
+    "immateriality-based aggregation",
+    "uncertain pandemic impact"
+  ],
+  "risk_summary": "The excerpt presents a strongly improved financial position with quantified sales, earnings, cash flow, debt reduction, and liquidity metrics. However, extensive forward-looking disclaimers and acknowledged exposure to supply-chain disruption, inflation, labor shortages, geopolitical instability, and normalization of pandemic-related demand indicate meaningful execution and macroeconomic risks."
+}

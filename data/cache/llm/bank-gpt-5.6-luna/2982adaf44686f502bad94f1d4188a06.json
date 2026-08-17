@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "subject to market conditions",
+    "expectation that members will continue to reinvest",
+    "reasonably likely",
+    "maximum exposure to loss exceeds recorded liability"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and transparent, but relies heavily on complex non-GAAP adjustments and lengthy technical explanations. Liquidity risk is notable because available liquidity was $90 million below debt obligations due within 12 months, with continued access dependent on member rollovers and dealer commercial paper markets."
+}

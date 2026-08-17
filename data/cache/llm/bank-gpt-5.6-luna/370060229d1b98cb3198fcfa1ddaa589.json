@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to revision",
+    "actual results may differ materially",
+    "current expectations",
+    "inherently risky",
+    "quiet period"
+  ],
+  "risk_summary": "The excerpt presents strong, highly quantified 2011 performance and a confident 2012 outlook, but includes standard forward-looking disclaimers and reliance on forecasts. Key risks include hard-drive supply disruption, declining gross margins, substantial capital expenditures, acquisition-related costs, and the inherent uncertainty of private-company investments."
+}

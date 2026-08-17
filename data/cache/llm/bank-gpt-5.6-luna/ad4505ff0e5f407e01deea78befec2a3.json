@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance as to outcome",
+    "at our discretion",
+    "numerous factors",
+    "material adverse effect",
+    "non-GAAP net loss"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure, but indicates severe financial risk through recurring operating losses, negative operating cash flow, a large accumulated deficit, customer concentration, and unresolved Sinovel receivables and litigation. Liquidity depends on cost reductions, potential equity sales, asset dispositions, commercialization, customer adoption, and government funding, with no assurance these initiatives will succeed."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "may be impacted",
+    "cautious about the magnitude and sustainability",
+    "may make adjustments",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt presents a generally positive and stable operating profile, supported by recurring revenue exceeding 90%, strong cash flow, and committed quarterly revenue. It acknowledges customer cost caution, recessionary uncertainty, acquisition execution risk, and significant accounting judgments, but provides limited quantified downside sensitivity. Dense accounting terminology and extensive qualification language reduce accessibility and partially soften the risk disclosure."
+}

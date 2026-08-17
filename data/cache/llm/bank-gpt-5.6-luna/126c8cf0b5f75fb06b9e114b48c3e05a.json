@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "may have a material impact",
+    "cannot predict future changes",
+    "best estimates of market conditions",
+    "sufficient to cover cash outlays"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy boilerplate, with substantial reliance on estimates and repeated caveats regarding potentially material deviations. Liquidity is presented as adequate, but exposure exists to customer credit losses, inventory valuation, product defects, foreign cash restrictions, repatriation taxes, and dependence on anticipated operating cash flow."
+}

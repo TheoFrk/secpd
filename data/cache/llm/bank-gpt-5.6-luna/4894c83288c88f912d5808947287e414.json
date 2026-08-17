@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "management believes",
+    "fragile global economic conditions",
+    "cannot guarantee sustained sales revenues",
+    "risks and uncertainties",
+    "as deemed necessary"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but reflects weakening performance, including a 15% revenue decline, a domestic operating loss, lower foreign sales, and higher inventory. Explanations rely partly on broad macroeconomic conditions and management assertions, while forward-looking language limits certainty regarding future sales and investment needs."
+}

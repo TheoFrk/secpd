@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "subject to factors and uncertainties",
+    "expect sufficient cash",
+    "may need additional capital",
+    "no assurance of financing success"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides useful detail on revenue, margins, losses, cash flows, debt, and liquidity. Risk is elevated by recurring net and operating losses, limited cash, no material external liquidity sources, reliance on future operating cash generation, and potential asset sales or additional financing. The optimistic liquidity outlook is heavily conditional and includes standard forward-looking disclaimers."
+}

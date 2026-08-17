@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt regarding going concern",
+    "no assurance additional capital",
+    "significant judgment and estimates",
+    "actual results may differ",
+    "customer concentration"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified but highlights severe liquidity and business risks, including substantial cumulative losses, dependence on external capital, and explicit substantial doubt about going-concern status. Revenue is highly concentrated in two customers and one license agreement, while commercialization and funding outcomes remain uncertain. Accounting estimates and contract revenue recognition introduce additional execution and reporting sensitivity."
+}

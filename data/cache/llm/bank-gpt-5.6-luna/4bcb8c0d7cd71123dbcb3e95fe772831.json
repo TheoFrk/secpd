@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance can be given",
+    "many detailed assumptions",
+    "may require additional financing",
+    "negative working capital"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue, losses, liquidity, segment performance, and working capital, but relies on extensive forward-looking disclaimers and conditional language around financing and biotechnology plans. Key credit risks include negative working capital, a net loss, dependence on acquisitions and future financing, and a non-revenue biotech segment, although management asserts that going-concern risks are not material within 12 months."
+}

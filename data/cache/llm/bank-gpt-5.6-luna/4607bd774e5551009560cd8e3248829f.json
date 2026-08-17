@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "financial impact currently unknown",
+    "numerous evolving factors",
+    "subject to annual budget appropriation",
+    "anticipates additional rent concessions",
+    "non-GAAP measure lacks standard definition"
+  ],
+  "risk_summary": "The disclosure quantifies COVID-19 rent deferrals, concessions, collection rates, lease economics, and impairment charges, but acknowledges that additional relief and the ultimate financial impact remain uncertain. Tenant payment capacity, declining same-property NOI, asset impairments, and budget-dependent government lease obligations represent material credit risks. Overall tone is cautiously negative regarding near-term operating conditions while emphasizing portfolio stability and contractual protections."
+}

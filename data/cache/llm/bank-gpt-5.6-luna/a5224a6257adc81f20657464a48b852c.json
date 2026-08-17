@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "believe we can fund our operations",
+    "sufficient for these requirements",
+    "foreseeable future",
+    "subject to the same variability",
+    "likelihood of a negative outcome is probable"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but reflects liquidity risk through a working capital deficit, declining cash, debt obligations, and reliance on asset liquidation proceeds and additional financing. Management expresses confidence in funding adequacy, although cash generation is transaction-dependent and contingent consideration, related-party debt, and legal and valuation estimates introduce uncertainty."
+}

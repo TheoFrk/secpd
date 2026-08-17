@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "precise financial impact cannot be reasonably estimated",
+    "among other things",
+    "material adverse effect",
+    "estimates and assumptions about future events"
+  ],
+  "risk_summary": "The excerpt provides useful quantified sales mix, revenue, expense, and customer-deposit data, but relies heavily on standard forward-looking disclaimers and broad, non-quantified risk descriptions. Supply-chain disruptions, raw-material inflation, COVID-19 effects, commercial-aerospace weakness, and demand declines indicate a moderately negative risk profile, partially offset by detailed operational and accounting disclosures."
+}

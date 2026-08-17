@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP metric caveats",
+    "estimated future performance",
+    "contingent consideration",
+    "discounted cash flow assumptions",
+    "boilerplate risk framing"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, covering operations, acquisitions, purchase-price allocations, contingent consideration, and valuation assumptions. Risk is moderated by reliance on estimates, goodwill and intangible-asset valuations, acquisition-related obligations, reimbursement exposure, seasonality, and non-GAAP performance measures. Overall tone is cautiously confident rather than crisis-oriented."
+}

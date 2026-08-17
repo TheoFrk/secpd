@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "amounts vary from time to time",
+    "may make similar changes in the future",
+    "expected to create opportunities",
+    "not materially impacted",
+    "certain shortcomings are inherent"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including revenue declines, debt exposure, affiliate balances, pandemic costs, and sensitivity to LIBOR. Risk tone is moderately negative due to structural declines in legacy services, lower margins, supply-chain and pandemic effects, and substantial affiliate and floating-rate debt, but management presents these risks as monitored and manageable."
+}

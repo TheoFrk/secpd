@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "actual results may differ materially",
+    "subjective judgments and inherently uncertain estimates",
+    "subject to revision",
+    "quiet period and discretionary timing"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and identifies concrete operating pressures, including declining PC demand, excess capacity, inventory reserves, and technology investment requirements. Risk disclosure is substantially boilerplate around forward-looking statements and critical estimates, while management maintains a moderately confident outlook for low-single-digit revenue growth and server strength."
+}

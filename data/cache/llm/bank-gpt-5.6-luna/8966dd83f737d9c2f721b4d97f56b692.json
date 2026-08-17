@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted net earnings",
+    "excluding adjusted items",
+    "positive performance framing",
+    "non-GAAP comparisons",
+    "boilerplate cross-references"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative, supported by extensive quantitative disclosures on earnings, sales growth, market share, capital investments, and acquisitions. Comparability and earnings interpretation are somewhat complicated by mergers, fuel margins, LIFO charges, pension-related items, contributions, and repeated use of adjusted measures excluding selected items. No acute liquidity or solvency concern is evident in this excerpt, although the truncated disclosure limits assessment of broader risks."
+}

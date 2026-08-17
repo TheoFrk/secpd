@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "primarily due to",
+    "significant decreases in assumptions",
+    "permanently reinvested",
+    "may elect to defer capital investment"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear year-over-year explanations, but presents substantial credit risks, including large impairment charges, persistent net losses, declining metal prices, higher costs, operational disruptions, and increased interest expense. Forward-looking statements rely on assumptions and include potential capital deferrals or additional financing to preserve liquidity."
+}

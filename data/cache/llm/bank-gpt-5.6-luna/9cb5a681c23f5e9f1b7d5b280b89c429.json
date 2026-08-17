@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict foreign exchange impact",
+    "may have a material adverse effect",
+    "estimates and assumptions",
+    "best estimate of selling price",
+    "limited rights of return"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, including revenue, earnings, acquisition, impairment, tax, deferred revenue, and foreign-exchange amounts. Key risks arise from complex revenue-recognition judgments, distributor inventory estimates, acquisitions, currency volatility, and potential adverse effects if estimates differ from actual results. Overall tone is cautiously positive, reflecting revenue growth and expected acquisition benefits despite identified operating and accounting risks."
+}

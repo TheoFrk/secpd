@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results",
+    "limited forward visibility",
+    "wind-down and impairment charges",
+    "customer receivables may not be repaid",
+    "dispositions and exclusions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, but reported performance deteriorated materially, including a $204.1 million net loss, substantial wind-down and inventory impairment charges, and weakened receivables quality. Reliance on adjusted results and exclusions can soften the presentation of underlying volatility, while limited customer and supplier visibility increases forecasting risk."
+}

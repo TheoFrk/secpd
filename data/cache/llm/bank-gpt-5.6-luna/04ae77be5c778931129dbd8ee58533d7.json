@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict",
+    "cannot be determined at present",
+    "including but not limited to",
+    "fluid situation",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on operating performance, acquisitions, liquidity, debt, and COVID-19 effects, but relies on broad contingency language for future impacts. COVID-19 risks include rent deferrals, weaker demand, restricted capital access, dividend pressure, asset impairment, and recession exposure, although management states there was no material 2020 financial impact."
+}

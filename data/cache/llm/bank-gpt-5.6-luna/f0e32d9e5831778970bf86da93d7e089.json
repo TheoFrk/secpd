@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "not exclusive risk factors",
+    "subject to risks and uncertainties",
+    "does not undertake to update",
+    "materially differ"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating data, but its extensive forward-looking disclaimer and generic, non-ranked risk list are notably boilerplate and limiting. Risk tone is moderately negative because earnings declined sharply, nonperforming assets increased, and real-estate market pressure persisted, despite improved credit indicators, lower charge-offs, and stronger net interest income."
+}

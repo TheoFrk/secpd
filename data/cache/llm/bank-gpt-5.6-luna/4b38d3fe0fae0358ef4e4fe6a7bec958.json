@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.0,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "combined presentation",
+    "makes no representation",
+    "not included in this Annual Report",
+    "information related to other Registrants"
+  ],
+  "risk_summary": "The excerpt is primarily procedural and boilerplate, explaining the scope and presentation of the MD&A rather than disclosing operating or financial risks. The disclaimer separating each Registrant's responsibility may limit interpretive clarity but does not itself indicate adverse conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot determine with certainty",
+    "summary does not purport to be complete",
+    "certain collateral-obligation ratios",
+    "material adverse change",
+    "if not cured or waived"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on financing terms, fees, covenants, and discontinued operations, but key tables and portions of the disclosure are omitted or truncated. Risk tone is moderately negative due to covenant defaults, requested waivers, potential liquidity impairment, full deferred-tax-asset valuation allowance, and uncertainty regarding sales trends."
+}

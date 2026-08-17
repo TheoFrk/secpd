@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "substantially all of our revenue",
+    "we believe",
+    "predictable stream of revenue",
+    "qualitative analysis",
+    "preliminary fair value determination"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified regarding operating scale, revenue, payor mix, acquisitions, and debt refinancing. Key risks include substantial secured debt and interest expense, acquisition and integration exposure, VIE consolidation judgments, reimbursement sensitivity, and reliance on preliminary valuations. The tone is predominantly neutral to mildly confident, though the excerpt is technically dense and ends abruptly."
+}

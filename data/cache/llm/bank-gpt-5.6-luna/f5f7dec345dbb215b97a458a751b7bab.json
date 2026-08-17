@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "dependent on",
+    "may result in",
+    "expect to",
+    "uncertainty associated with estimating",
+    "new and unproven technology"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, margins, acquisitions, divestiture proceeds, backlog, and segment outlooks. It also highlights meaningful cyclicality, customer and government funding dependence, technology execution risk, market-pricing pressure, and uncertainty around contingent earnouts, producing a balanced but mildly positive tone."
+}

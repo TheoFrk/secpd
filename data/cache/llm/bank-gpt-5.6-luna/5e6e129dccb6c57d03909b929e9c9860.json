@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor disclaimers",
+    "risks and uncertainties",
+    "customary representations and warranties",
+    "management’s best estimates",
+    "except as required by law"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on restructuring, divestitures, backlog, capital commitments, and credit-facility terms, but is preceded by extensive boilerplate disclaimers and broad unquantified risk lists. Key risks include government-order delays, customer and defense-spending concentration, discontinued operations, asset impairments, and reliance on secured borrowing with a minimum availability requirement."
+}

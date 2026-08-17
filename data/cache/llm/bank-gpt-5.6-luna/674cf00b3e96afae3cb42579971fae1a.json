@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "uncertainty in the economy",
+    "assumptions about future demand",
+    "additional reserves may be required",
+    "various other factors"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but it highlights material deterioration in 2011, including lower gross margins, sharply reduced net income, and a significant backlog decline. Key forward-looking exposures relate to demand forecasting, inventory obsolescence, customer credit quality, fair-value assumptions, and potential additional reserves."
+}

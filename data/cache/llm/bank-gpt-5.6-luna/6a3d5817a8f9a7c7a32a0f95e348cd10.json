@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.88,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor disclaimer",
+    "no assurance of financing",
+    "actively seeking financing",
+    "could eventually be forced to cease",
+    "without limitation"
+  ],
+  "risk_summary": "The company has no revenues, no cash, zero assets, recurring losses, and substantial doubt about its ability to continue as a going concern. Continued operations depend on obtaining financing or generating revenues, neither of which is assured, creating a severe liquidity and execution risk."
+}

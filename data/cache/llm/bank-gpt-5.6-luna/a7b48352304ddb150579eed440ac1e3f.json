@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot be certain funding available",
+    "no assurance",
+    "substantial doubt about going concern",
+    "subject to acceptable terms or at all",
+    "material adverse impact"
+  ],
+  "risk_summary": "The disclosure is highly quantitative but identifies a critical liquidity shortfall, negative operating cash flow, declining cash resources, and the need to raise capital within 12 months. Management explicitly states that substantial doubt exists about the company’s ability to continue as a going concern, with funding availability and terms uncertain."
+}

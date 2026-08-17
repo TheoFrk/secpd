@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective estimates and assumptions",
+    "could adversely affect earnings",
+    "future changes in management’s assessment",
+    "other factors",
+    "significant earnings volatility"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure and identifies key risks involving credit-loss allowances, goodwill impairment, mortgage servicing rights, prepayment assumptions, and derivatives. Risk language is largely standard MD&A qualification, but the dependence on management estimates and models creates potential earnings and valuation volatility."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may differ materially",
+    "not exclusive risk factors",
+    "COVID-19 impact uncertainty",
+    "anticipated benefits may not be achieved"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standardized forward-looking disclaimers and broad, non-quantified risk categories, producing a cautious and somewhat evasive tone. It does provide useful quantitative detail on LIBOR exposure and transition progress, but the overall disclosure emphasizes uncertainty without estimating probabilities or financial impact for most risks."
+}

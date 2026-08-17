@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.14,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "adverse business conditions",
+    "newly acquired businesses",
+    "pending litigation and counterclaims"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and specific regarding sales, margins, acquisitions, costs, and litigation, with limited evasive language. Key risks include margin pressure from pricing, mix, currency and copper costs; ongoing litigation with $8.1 million of related legal fees; and continued losses in the Other segment despite closure of an underperforming business."
+}

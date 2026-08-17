@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "certain specified circumstances",
+    "may have the right to",
+    "material adverse effect",
+    "non-GAAP exclusions"
+  ],
+  "risk_summary": "The disclosure is highly quantified but presents substantial financial deterioration, including a $5.27 billion operating loss, a $6.13 billion impairment charge, and a $6.20 billion net loss. The proposed Skydance transactions introduce significant execution, regulatory, consent, termination-fee, dilution, and counterparty risks. Improved adjusted OIBDA provides some offset, but reliance on adjusted measures may soften the presentation of severe GAAP losses."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.78,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Certain Items",
+    "primarily driven by",
+    "non-GAAP financial measures",
+    "discussion omitted",
+    "believe provide important perspective"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative, supported by extensive quantified growth in sales, earnings, margins, and market share. However, repeated emphasis on adjusted measures and exclusions of restructuring, acquisition, inflation-related, COVID-related, pension, litigation, and other items may reduce comparability with GAAP results and obscure the full cost profile. Disclosure is generally specific, but long sentences, boilerplate framing, and qualifiers such as “primarily” and “some of which” add interpretive uncertainty."
+}

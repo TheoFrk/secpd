@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measure",
+    "subject to refund and settlement procedures",
+    "dependent upon the amount and timing",
+    "subject to further permitting and schedule delays",
+    "expected future increase and declines"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but relies on regulatory outcomes, permitting, project timing, and market conditions that create material uncertainty. Risk tone is moderately negative, reflecting declining merchant generation performance, rising fuel and transmission-project costs, potential rate disallowances, and constrained renewable development, although SCE retains regulatory recovery mechanisms and financing options."
+}

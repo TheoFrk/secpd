@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.14,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results",
+    "mark-to-market volatility",
+    "may or may not be realized",
+    "generally is not indicative",
+    "economically hedge"
+  ],
+  "risk_summary": "The excerpt is highly quantified and explains reported-versus-adjusted results, derivative accounting, liquidity, leverage, and lending activity with reasonable specificity. Risk is moderated by improved reported earnings and TIER, but adjusted net income and interest yield declined, while performance remains exposed to interest-rate movements, derivative valuation volatility, and elevated leverage."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "subject to adjustment",
+    "integration and profitability uncertainty"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on debt, acquisitions, maturities, covenant thresholds, and funding sources, but includes extensive boilerplate and repeated product descriptions. Risk is moderated by stated covenant compliance and current payments, while leverage, acquisition integration, near-term debt maturities, and uncertainty around profitability and cash flow remain material concerns."
+}

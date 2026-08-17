@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.3,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliation",
+    "unusual, non-recurring items",
+    "actual results could materially differ",
+    "management believes",
+    "little to no credit risk"
+  ],
+  "risk_summary": "The excerpt presents strong 2021 performance and record earnings while acknowledging margin compression, pandemic-related uncertainty, and credit risk. Risk disclosure is generally detailed but relies on management-defined non-GAAP adjustments and qualitative assumptions that may obscure underlying performance comparability."
+}

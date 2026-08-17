@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to state with certainty",
+    "where management deems appropriate",
+    "inherently subject to uncertainty",
+    "actual results could differ",
+    "anticipated immaterial impact"
+  ],
+  "risk_summary": "The excerpt is technically detailed and substantially quantified, but relies on standard accounting-policy caveats and management estimates, particularly for loan losses, securities impairment, mortgage servicing rights, and CECL. Risk tone is mildly negative because equity declined materially, borrowings increased, and future allowance volatility is expected, although management projects immaterial CECL impact and continued strong capitalization."
+}

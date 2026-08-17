@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures not comparable",
+    "could have a material impact",
+    "continue to monitor",
+    "potential negative impacts",
+    "at least / approximately targets"
+  ],
+  "risk_summary": "The excerpt provides several quantified strategic targets and identifies material exposure to regulation, illicit products, inflation, consumer pressure, supply-chain disruption, and geopolitical conditions. However, extensive forward-looking language, non-GAAP emphasis, and reliance on broad monitoring or mitigation statements limit precision regarding downside magnitude and timing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to provide",
+    "intends to pursue",
+    "favorable equity financing opportunities",
+    "continuing resolutions",
+    "unpaid preferred dividends"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on contracts, leases, patents, and preferred-stock obligations, but includes promotional forward-looking language and an apparent truncated or malformed passage. Key risks include dependence on government funding and contracts, potential equity financing needs, and longstanding unpaid preferred dividends with elevated accruals and change-in-control put rights."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.81,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of successful completion",
+    "may distribute interest",
+    "potential business combinations",
+    "materially differ from anticipated results"
+  ],
+  "risk_summary": "The disclosure describes a highly complex recapitalization and a concentrated asset base, with substantial dependence on a 95% interest in TPHGreenwich and debt maturities through 2025-2026. Operating results declined sharply, although much of the decrease reflects assets and liabilities moving into TPHGreenwich. Forward-looking plans are heavily qualified and provide limited quantified detail regarding execution, liquidity, or transaction outcomes."
+}

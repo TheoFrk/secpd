@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "expected to be largely offset",
+    "significant progress",
+    "substantial progress",
+    "among other things"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but emphasizes adjusted performance measures and excludes derivative volatility and discrete items from management’s preferred metrics. Key risks include weather sensitivity, commodity and derivative volatility, integration costs, lower volumes, environmental accruals, and debt-extinguishment losses, although management presents an overall positive and confident tone."
+}

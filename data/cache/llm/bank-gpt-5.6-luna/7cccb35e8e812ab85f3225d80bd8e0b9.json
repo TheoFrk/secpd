@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.14,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.46,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP measures and adjustments",
+    "may not be comparable",
+    "primarily due to",
+    "offset by",
+    "see Note 6 for further description"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, showing growth in AUM, revenue, operating income, cash flow, and margins. Risk is moderated by declining gross sales in Institutional and Retail channels, reliance on market appreciation and distributions from AB, required cash distributions to unitholders, and extensive non-GAAP adjustments. Overall tone is cautiously positive rather than crisis-like."
+}

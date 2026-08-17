@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance",
+    "substantial doubt about going concern",
+    "may raise additional working capital",
+    "assumes no obligation to update"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified financial detail but contains extensive standard forward-looking disclaimers and some generic explanations of volatility. Credit risk is high: the company reported recurring losses, negative operating cash flow, limited cash, dependence on external funding, and explicitly acknowledged substantial doubt about its ability to continue as a going concern."
+}

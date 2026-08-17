@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "actual results could differ materially",
+    "no obligation to update",
+    "non-cash charge adjustments",
+    "may need to raise additional capital"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail but is heavily padded with standard forward-looking and non-GAAP disclaimers. Material risks include recurring losses, significant warrant-related charges, expected continued losses, possible additional capital needs, regulatory pressure, and intensifying competition."
+}

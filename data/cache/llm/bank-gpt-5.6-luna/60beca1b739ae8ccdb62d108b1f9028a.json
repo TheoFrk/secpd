@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "net effects of",
+    "more likely than not",
+    "future events and circumstances",
+    "substantial management judgment",
+    "actual results might differ significantly"
+  ],
+  "risk_summary": "The excerpt describes material earnings volatility, including a $133.6 million 2015 net loss, declining TiO2 prices, cumulative losses affecting deferred tax assets, and potential goodwill impairment. Disclosure is technically detailed but relies heavily on qualitative judgments, forward-looking caveats, and omitted table content, limiting assessment of quantified downside risk."
+}

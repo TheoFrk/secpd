@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future adjustments could be necessary",
+    "economic uncertainty caused by COVID-19",
+    "assumptions used in making determinations",
+    "regulators could require additions",
+    "majority of nonperforming loans"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed year-over-year changes in net interest income, loan losses, allowances, and nonperforming loans. Risk is primarily tied to COVID-19 economic uncertainty, potential deterioration in credit quality, and management judgment in determining loan-loss allowances. The tone is balanced and factual, though some allowance adequacy and nonperforming-loan language is conditional and partially boilerplate."
+}

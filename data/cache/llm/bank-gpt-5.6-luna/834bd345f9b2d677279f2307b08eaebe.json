@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally comprised of average daily balances",
+    "assumptions believed to be reasonable",
+    "actual results may differ",
+    "fully tax-equivalent presentation",
+    "cross-references to multiple notes"
+  ],
+  "risk_summary": "The excerpt is largely quantified and explanatory, with strong disclosure of acquisition effects, net interest income drivers, yields, funding costs, and investment changes. Risk tone is mildly positive due to substantial earnings growth, but the discussion relies on standard estimate disclaimers and dense accounting terminology that may limit accessibility."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.35,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "extensive product enumeration",
+    "forward-looking statement disclaimer",
+    "broad macroeconomic headwinds",
+    "repeated market-share claims",
+    "unquantified future demand expectations"
+  ],
+  "risk_summary": "The excerpt is generally data-rich, providing detailed market, shipment, segment, and expense metrics, but it uses lengthy product lists and repeated positive market-share assertions. Risk factors include declining RV wholesale shipments, inventory rebalancing, tariffs, political tensions, interest rates, and potential raw-material and labor-cost pressure, though management maintains a favorable outlook."
+}

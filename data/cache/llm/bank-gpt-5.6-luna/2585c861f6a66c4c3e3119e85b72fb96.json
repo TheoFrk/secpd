@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant management judgments",
+    "subject to volatility",
+    "actual results could differ significantly",
+    "probable estimated losses",
+    "long-term projections sensitive to assumptions"
+  ],
+  "risk_summary": "The disclosure is detailed and quantitatively grounded, but relies substantially on subjective assumptions, migration models, collateral valuations, and projected cash flows. Credit and market risks remain elevated due to economic uncertainty, valuation volatility, and limitations in historical loss models, although reported earnings and credit quality improved."
+}

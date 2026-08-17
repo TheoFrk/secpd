@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to",
+    "subject to change",
+    "currency neutral",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, identifying sales, profit, recall, supply-chain, commodity, currency, and pension-funding impacts. Risk tone is mixed: 2010 performance was pressured by operational disruptions and category weakness, while management presents corrective actions and moderately confident 2011 targets. Forward-looking projections remain exposed to market conditions, funding decisions, regulatory changes, and execution risk."
+}

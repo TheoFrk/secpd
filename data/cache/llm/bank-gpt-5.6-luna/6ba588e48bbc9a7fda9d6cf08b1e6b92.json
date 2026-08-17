@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we expect",
+    "partially mitigated",
+    "appropriate balance",
+    "where we believe",
+    "meaningful measures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, with extensive portfolio, tenant, leverage, and transaction data. It acknowledges exposure to government reimbursement cuts, rising interest rates, refinancing costs, tenant concentration, and execution risk, but presents these risks within a generally confident growth and diversification narrative. Forward-looking mitigation statements are somewhat qualified and may understate sensitivity to adverse market conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "solid/robust demand",
+    "normalizing lead-times",
+    "truncated and corrupted disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear revenue, bookings, backlog, margin, acquisition, and cost disclosures. Risk factors include declining bookings and backlog, reduced gross margin, inflationary costs, supply-chain and labor constraints, foreign-exchange headwinds, and weakening demand in certain markets. The overall tone remains moderately positive, supported by revenue growth and pricing, but relies on recurring management characterizations and contains a truncated, partially corrupted passage."
+}

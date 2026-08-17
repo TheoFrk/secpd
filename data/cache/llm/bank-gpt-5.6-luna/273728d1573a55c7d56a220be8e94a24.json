@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "no assurance expectations prove correct",
+    "estimates may differ significantly",
+    "outside our control",
+    "adjustments could be significant"
+  ],
+  "risk_summary": "The excerpt reports strong historical growth, record net income, rising backlog, and optimistic 2014 expectations, producing a generally positive risk tone. Disclosure includes substantial quantified operating information, but extensive forward-looking disclaimers and reliance on subjective estimates introduce uncertainty around contract profitability, impairment testing, and forecast accuracy."
+}

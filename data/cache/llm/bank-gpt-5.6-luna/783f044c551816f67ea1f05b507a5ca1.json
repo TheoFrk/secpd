@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "including but not limited to",
+    "primarily driven by",
+    "more likely than not",
+    "subject to legal and factual interpretation"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating performance, supported by substantial quantified revenue and gross-profit growth and detailed drivers. Disclosure is moderately complex and includes standard forward-looking disclaimers, estimates, and judgment-heavy tax language, but it is not materially evasive. Key risks include pricing erosion, product mix, acquisition-related costs, litigation, and uncertainty in tax positions."
+}

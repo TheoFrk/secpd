@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict with any certainty",
+    "may be utilized",
+    "could take a number of years",
+    "all projects are under development",
+    "material change in assumptions"
+  ],
+  "risk_summary": "CEL-SCI is a development-stage biotechnology company with limited operating revenue, recurring losses, substantial dependence on equity and convertible-debt financing, and no anticipated significant revenue absent licensing or regulatory approval. Clinical, regulatory, funding, derivative-liability, and long-term lease risks are material, although the disclosure provides considerable quantitative detail on expenses, financing, and trial status."
+}

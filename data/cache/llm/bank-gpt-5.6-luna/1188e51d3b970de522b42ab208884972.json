@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "ongoing risk",
+    "major uncertainty",
+    "expected to",
+    "attempt to mitigate",
+    "timing difference"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with substantial quantitative detail on operating rates, demand, scrap exposure, capital spending, acquisitions, debt, and cash flows. It presents meaningful cyclical and margin risks, including steel overcapacity, imports, volatile scrap prices, pricing pressure, and contract-price timing, but balances these with mitigation strategies and a confident discussion of diversification and liquidity."
+}

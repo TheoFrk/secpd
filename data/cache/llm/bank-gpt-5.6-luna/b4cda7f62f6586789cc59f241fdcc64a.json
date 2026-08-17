@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.19,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to regulatory approval",
+    "to the extent possible",
+    "expected closing date",
+    "actual amount and timing is dependent on",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, covering customers, rate actions, tax positions, capital expenditures, and liquidity. Key risks include IRS examination of repair-cost deductions, reliance on regulatory approvals and rate recovery, infrastructure funding needs, and uncertainty over the timing and scope of capital spending."
+}

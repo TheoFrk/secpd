@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "significant judgment is required",
+    "could materially adversely impact",
+    "hypothetical revisions",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt provides detailed discussion of insurance reserves, reinsurance collectibility, investment valuation, tax estimates, and catastrophe exposure, but relies heavily on qualitative assumptions and standard forward-looking caveats. Material downside risks include long-term-care reserve inadequacy, restricted premium-rate approvals, credit losses, reinsurer default, and catastrophe volatility; reported catastrophe losses were $247 million in 2022 versus $397 million in 2021."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "may materially affect",
+    "significant regional variances",
+    "non-GAAP measures",
+    "excluding the effect of foreign currency fluctuations"
+  ],
+  "risk_summary": "The disclosure quantifies COVID-19 impacts, sales declines, impairment charges, store damage, and reduced ROIC, indicating meaningful operating and execution risk. Forward-looking exposure remains uncertain because the duration and financial effects of disruptions, closures, capacity limits, and trade issues cannot be reasonably estimated. Extensive non-GAAP and constant-currency measures may reduce comparability with GAAP results, although reconciliations are referenced."
+}

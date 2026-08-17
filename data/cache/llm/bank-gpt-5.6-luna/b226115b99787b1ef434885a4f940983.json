@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "subject to significant change",
+    "materially different",
+    "without limitation",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and accounting-estimate disclaimers, emphasizing uncertainty around merger integration, credit losses, regulatory actions, and impairment judgments. Risk disclosures are broad but include some meaningful quantification, including goodwill and intangible balances and the estimated six-basis-point margin impact from tax reform. Overall tone is cautious and risk-aware rather than crisis-like."
+}

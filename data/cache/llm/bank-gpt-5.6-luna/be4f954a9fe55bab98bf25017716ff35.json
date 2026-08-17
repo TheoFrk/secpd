@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future operating results",
+    "may operate at negative margins",
+    "subject to significant volatility",
+    "no assurances of success",
+    "uncertainty regarding future production"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but highlights substantial exposure to volatile corn and ethanol prices, potentially negative plant margins, and dependence on federal tax credits. Management acknowledges limited forward visibility and uncertainty around future operating results and investment opportunities."
+}

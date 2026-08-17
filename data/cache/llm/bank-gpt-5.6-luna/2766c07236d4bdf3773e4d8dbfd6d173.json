@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "earnings should not be considered representative",
+    "primarily due to",
+    "no material losses",
+    "best judgment",
+    "material differences"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies significant pressures, including declining revenues, operating expenses exceeding revenues, competitive threats, litigation-related costs, and a valuation allowance fully offsetting deferred tax assets. Liquidity appears constrained but regulatory capital remains above minimum requirements, while exposure to customer and counterparty losses is acknowledged."
+}

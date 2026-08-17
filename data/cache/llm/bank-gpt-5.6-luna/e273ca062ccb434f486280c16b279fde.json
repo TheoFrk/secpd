@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that goals will be achieved",
+    "may continue to negatively impact",
+    "anticipated majority of loans forgiven",
+    "uncertain assumptions",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding assets, deposits, PPP lending, liquidity, and borrowing capacity. Risk tone is moderately cautious due to COVID-19, interest-rate pressure, loan-modification uncertainty, and reliance on assumptions, but there is no overt crisis language. Dense regulatory and program-related detail, along with standard disclaimers, increases complexity and modestly limits clarity."
+}

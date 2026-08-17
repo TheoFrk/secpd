@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "we believe",
+    "more likely than not",
+    "customary representations, warranties and covenants",
+    "failure to meet ... could lead to"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, covering sales, margins, cash flow, acquisitions, borrowings, and covenant capacity. Risk is moderated by declining gross margins, increased borrowings, foreign-exchange effects, and dependence on sustained profitability for tax benefits, while covenant compliance remains currently intact. Repeated tax-valuation language and extensive accounting terminology add some boilerplate and complexity."
+}

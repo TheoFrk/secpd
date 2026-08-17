@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not possible to predict all factors",
+    "no obligation to update",
+    "highly cyclical commercial construction market"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and broad qualitative strategy language, which limits decision-useful specificity. It does provide meaningful operational detail and selected quantitative disclosures, including negative construction-market growth, purchase obligations, and derivative exposure. Risk tone is mixed: management emphasizes market leadership and growth initiatives while acknowledging cyclicality and material uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "may adjust our capital program",
+    "expected to be funded by borrowings",
+    "borrowing base may be decreased",
+    "subject to counterparty credit risk"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with quantified cash flows, debt, borrowing-base availability, and operating expenses. However, it highlights substantial exposure to commodity-price volatility, reserve-estimation uncertainty, borrowing-base reductions, covenant requirements, and dependence on additional financing. The tone is cautiously defensive rather than crisis-like, with optimistic statements about liquidity and reserve growth tempered by multiple contingencies."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "potential development",
+    "may develop",
+    "results may help us understand",
+    "modest, although not statistically significant",
+    "future clinical trial"
+  ],
+  "risk_summary": "The company reports substantial and recurring losses, a large accumulated deficit, declining liquidity, and dependence on financing or collaborations to sustain operations. Clinical setbacks include discontinuation of GRN1005 and an unsuccessful breast-cancer trial, while NSCLC findings were not reproduced in updated analysis. Although cash resources were expected to fund operations for at least 12 months, future value remains highly dependent on uncertain clinical development outcomes."
+}

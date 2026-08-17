@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.42,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "boilerplate cross-reference",
+    "omission of current-period analysis"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A information and relies entirely on incorporation by reference to a prior annual report. This limits transparency regarding current financial condition, operating results, liquidity, and emerging risks."
+}

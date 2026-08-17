@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "customary closing conditions",
+    "various forms of relief",
+    "macroeconomic forecasts",
+    "judgment in assumptions and estimates"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, including credit-loss provisions, PPP balances, merger valuation, and earnings reconciliations. Risk is concentrated in pandemic-related borrower stress, interest-margin pressure, accounting estimate sensitivity, and pending regulatory approval of the acquisition. The tone is factual and controlled rather than crisis-like, although some operational and forward-looking statements remain non-specific."
+}

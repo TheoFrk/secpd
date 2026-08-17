@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot be specifically or reasonably determined",
+    "we believe",
+    "looking to the future",
+    "forward-looking statements",
+    "not considered part of our ongoing operations"
+  ],
+  "risk_summary": "The excerpt is generally confident and supported by substantial quantitative operating and acquisition disclosures, including revenue, earnings, retention, dividends, and debt financing. Vagueness is moderate in forward-looking strategy statements and in disclosures about the timing of liabilities and venture-capital commitments. COVID-19 effects and contingent exposures are acknowledged, but the excerpt is truncated and provides limited quantified downside analysis."
+}

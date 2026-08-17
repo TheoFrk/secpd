@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "reasonably likely",
+    "future adjustments may be required",
+    "numerous factors",
+    "unforeseen events and changes"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed regarding acquisitions, debt, liquidity, and credit exposure. Risk is primarily presented through recurring accounting-estimate caveats and sensitivity to customer defaults, market conditions, litigation, insurance claims, and impairment triggers. The overall tone is operationally confident but appropriately qualified rather than crisis-like."
+}

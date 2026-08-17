@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "precise financial impact cannot be reasonably estimated",
+    "could continue to have a material adverse effect",
+    "no assurance can be given",
+    "may not be indicative of revenue",
+    "management will continue to monitor"
+  ],
+  "risk_summary": "The disclosure identifies meaningful exposure to supply-chain disruption, inflation, customer order cancellations, macroeconomic conditions, and estimation uncertainty. It provides some useful quantified information, including backlog, deposits, cash flows, and lead-time context, but frequently relies on standard forward-looking disclaimers and nonquantified adverse-impact language. Overall tone is cautiously negative regarding external risks, while management remains confident in its ability to fulfill orders."
+}

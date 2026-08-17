@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.14,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance",
+    "could have an adverse effect",
+    "we believe",
+    "significant percentage of revenues",
+    "risks outside of our control"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative detail on revenues, customer concentration, product mix, and contractual relationships, but repeatedly relies on generic forward-looking caveats and limited probability or sensitivity analysis. Key risks include substantial dependence on Hospira, concentrated revenue sources, competition, execution risk in acquisitions and new products, inventory and asset impairment exposure, and deferred tax asset realizability."
+}

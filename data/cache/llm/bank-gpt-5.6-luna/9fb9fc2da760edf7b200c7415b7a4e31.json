@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "subject to significant risks and uncertainties",
+    "not possible for us to predict all",
+    "expected to more than offset",
+    "policies and procedures established"
+  ],
+  "risk_summary": "The excerpt uses substantial boilerplate and broad forward-looking disclaimers, limiting precision around future performance, liquidity, and risk outcomes. It provides some useful quantified balances and describes allowance methodology, but key supporting tables are omitted and several conclusions rely on management expectations and qualitative controls. Overall tone is cautiously confident, with material exposure to interest-rate, credit, funding, integration, and regulatory risks."
+}

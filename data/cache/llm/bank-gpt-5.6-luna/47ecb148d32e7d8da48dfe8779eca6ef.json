@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "subjective estimates and judgments",
+    "qualitative adjustments",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and emphasizes uncertainty around management estimates, particularly the allowance for loan losses and collateral valuations. Although it provides useful methodology and quantified portfolio data, repeated boilerplate and reliance on judgment limit transparency regarding potential loss magnitude and timing."
+}

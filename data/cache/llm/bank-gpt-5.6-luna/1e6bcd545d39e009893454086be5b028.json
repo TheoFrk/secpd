@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors including but not limited to",
+    "normal operations",
+    "believes it is not exposed to significant credit risk",
+    "single subsidiary concentration"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and accounting-policy focused, with limited operational detail. Credit risk is elevated by a $230,605 working-capital deficit, modest cash balances, recent net losses or near-zero earnings, doubtful utilization of net operating losses, and concentration in a single subsidiary. Although several figures are disclosed, explanations for major expense changes and liquidity conditions are cursory."
+}

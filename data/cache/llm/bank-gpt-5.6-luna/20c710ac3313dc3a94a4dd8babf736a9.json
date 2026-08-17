@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "known and unknown risks and uncertainties",
+    "no obligation to update",
+    "other comparable and derivative terms",
+    "broad enumerated risk factors"
+  ],
+  "risk_summary": "The excerpt combines quantified transaction and portfolio information with extensive boilerplate forward-looking disclaimers and broadly framed risk factors. Key exposures include leverage and refinancing, operator and tenant financial weakness, healthcare reimbursement changes, litigation, capital-market access, and joint-venture dependence. The overall tone is strategically confident but materially qualified by external and execution risks."
+}

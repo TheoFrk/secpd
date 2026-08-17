@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally discusses",
+    "we believe",
+    "appropriate yield",
+    "historical experience, certain assumptions and estimates",
+    "could result in material changes"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, reporting revenue, volume, yield, cost, workforce, and operating-ratio changes. It presents a favorable operating narrative despite COVID-19-related volume pressure, while noting exposure to economic conditions, fuel prices, inflation, impairment assumptions, and labor capacity. Some forward-looking and estimate-based language introduces moderate uncertainty, and the excerpt is truncated."
+}

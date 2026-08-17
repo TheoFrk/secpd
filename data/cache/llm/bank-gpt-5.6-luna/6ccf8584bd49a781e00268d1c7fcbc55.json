@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "unable to predict outcome",
+    "material adverse effect",
+    "may require unscheduled downtime",
+    "no assurances",
+    "various factors beyond our control"
+  ],
+  "risk_summary": "The disclosure quantifies severe deterioration, including a 79% gross-profit decline, 75 refinery downtime days, lower throughput, and dependence on a single facility and related-party funding. The GEL contract dispute has materially impaired operations, liquidity, financing access, and management focus, with continued effects and potentially adverse legal outcomes. Boilerplate cross-references and repeated caveats somewhat obscure, but do not eliminate, the clearly elevated risk profile."
+}

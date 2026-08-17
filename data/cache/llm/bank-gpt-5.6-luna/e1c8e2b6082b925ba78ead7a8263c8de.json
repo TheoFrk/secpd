@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.9,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "no definitive plan",
+    "reliance on affiliates",
+    "ability to raise capital questionable",
+    "financial statements assume going concern"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and viability risks, including a $2.1 million working capital deficit, operating cash outflows, cancelled seasons, and dependence on affiliate financing. Management has no definitive plan to raise capital or resume operations, and the auditor-related disclosure states that substantial doubt exists regarding going-concern status."
+}

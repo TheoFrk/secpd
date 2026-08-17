@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "management estimates allowance adequacy",
+    "subjective fair-value assumptions",
+    "non-GAAP earnings adjustments"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and detailed, particularly regarding acquisitions, earnings impacts, funding costs, and purchase accounting. Risk is moderated but meaningful due to acquisition execution and regulatory approval dependencies, declining reported earnings, and subjective loan-loss and securities valuation estimates. Non-GAAP adjustments and extensive forward-looking language may soften the presentation of underlying performance and uncertainty."
+}

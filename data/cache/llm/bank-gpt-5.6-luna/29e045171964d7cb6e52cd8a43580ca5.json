@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.31,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "broad corporate mission language",
+    "primarily due to",
+    "favorable/unfavorable impact",
+    "management’s judgment",
+    "subject to a variety of factors"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding historical sales, margins, geographic performance, acquisitions, currency effects, and costs. Risk tone is moderately positive, but this is tempered by regional declines, tariffs, cost pressures, restructuring, discontinued product lines, and reliance on management judgments regarding deferred tax assets."
+}

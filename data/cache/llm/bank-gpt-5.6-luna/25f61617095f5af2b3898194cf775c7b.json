@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "primarily due",
+    "partially offset",
+    "transfer price",
+    "additional allowances may be required"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, with clear segment, revenue, cost, and operating income disclosures. It indicates modest cost pressure and mixed segment performance, partly mitigated by lower energy costs and a litigation settlement gain. Standard accounting-estimate caveats and complex intercompany accounting reduce transparency somewhat but do not suggest a crisis tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "could differ materially",
+    "reasonable methodology",
+    "not expected to be significant",
+    "other factors over which we have limited control"
+  ],
+  "risk_summary": "The excerpt is generally transparent, with substantial quantified disclosures on sales, margins, costs, volumes, inflation, and ERP implementation. Its risk tone is cautiously positive, emphasizing stabilization, pricing effectiveness, strong fulfillment, and growth prospects, while relying on standard forward-looking disclaimers and broad descriptions of uncertainties. Key risks include input-cost inflation, demand volatility, supply-chain disruption, execution of the ERP transformation, and acquisition or capacity-expansion execution."
+}

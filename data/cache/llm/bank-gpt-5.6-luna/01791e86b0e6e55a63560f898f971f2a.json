@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "certain other items may be excluded",
+    "not superior to or as a substitute for GAAP",
+    "may not be comparable",
+    "on favorable terms",
+    "uncertainty surrounding the impact of COVID-19"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, with strong operating performance and clear descriptions of comparable-sales methodology, non-GAAP adjustments, debt capacity, and credit ratings. Risk tone is cautiously positive but is moderated by COVID-19 uncertainty, the full drawdown of the revolving facility, covenant dependence, and potential effects of ratings changes. Non-GAAP flexibility and broad qualifying language may reduce comparability and transparency."
+}

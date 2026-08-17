@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "not able to predict market interest rate fluctuations with certainty",
+    "may not prevent ... material adverse effect",
+    "continue to monitor this relationship closely",
+    "primarily attributable to",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally precise and transparent, with extensive quantified operating, credit, capital, and growth metrics. Risk tone is moderately positive, although it acknowledges interest-rate sensitivity, margin compression, leverage pressure from loan growth, and a downgraded commercial credit relationship."
+}

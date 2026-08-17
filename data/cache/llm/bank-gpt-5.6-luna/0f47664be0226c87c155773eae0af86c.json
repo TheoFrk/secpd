@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "factors that could cause future results to vary",
+    "including, but not limited to",
+    "assumes no obligation to update",
+    "other factors discussed elsewhere"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, capital, loans, deposits, margins, and merger activity, supporting a generally constructive operating picture. However, the disclosure is preceded by extensive boilerplate forward-looking language and broad, non-ranked risk-factor lists that limit specificity regarding downside scenarios. Growth and capital-raising activity appear positive, while merger integration, regulatory costs, interest-rate sensitivity, credit quality, and funding risks remain relevant."
+}

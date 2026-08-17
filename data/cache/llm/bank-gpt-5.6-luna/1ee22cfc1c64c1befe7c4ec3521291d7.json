@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "plans to pursue the following strategies",
+    "expected to utilize",
+    "higher value markets",
+    "government guaranteed loans and public financings"
+  ],
+  "risk_summary": "The excerpt explicitly discloses negative capital, negative operating results, extensive asset collateralization, dependence on the senior lender, and substantial doubt about going-concern viability. Management presents numerous expansion and technology initiatives, but their funding depends on refinancing, lender cooperation, grants, loan guarantees, and public financing, creating significant execution and liquidity risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects additional orders",
+    "subject to certain adjustments",
+    "if and when the second closing occurs",
+    "qualitative factors",
+    "may be significantly and negatively affected"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, but contains meaningful uncertainty around anticipated investments, follow-on orders, project execution, and fixed-price contract estimates. Results show declining annual revenue, gross profit, margins, and net income at DSIT, partly offset by a large new order and expected 2012 growth. Contract cost overruns, technological difficulties, delayed orders, and potential material margin or contract losses are notable risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "for the foreseeable future",
+    "current market ... conditions",
+    "no significant changes",
+    "not other-than-temporarily impaired"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, highlighting strong liquidity, no debt, positive operating cash flow, and recurring revenue growth. Risk discussion is present but largely reassuring, with key sensitivities including low interest rates, investment impairment, insurance commitments, and reliance on continued operating performance. Some outlook language is conditional and dependent on stable market and economic conditions."
+}

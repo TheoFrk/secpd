@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements cautionary language",
+    "management judgment",
+    "delays may occur beyond our control",
+    "state-of-the-art and best possible project results",
+    "encouraged by opportunities despite backlog decline"
+  ],
+  "risk_summary": "The excerpt is generally transparent and numerically detailed, with substantial project-specific backlog, capacity, timing, and margin information. Risk is moderated by disclosed project-owner timing dependence, management judgment in backlog classification, and a significant decline in TRC backlog, although the overall tone is confident and growth-oriented."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "inherently uncertain",
+    "may change",
+    "more likely than not",
+    "context otherwise requires"
+  ],
+  "risk_summary": "The excerpt is detailed and includes substantial portfolio, tenant, leverage, and accounting information, but it is highly technical and contains standard qualification language around estimates, consolidation, taxes, and future outcomes. The tone is generally confident and strategy-oriented, with notable exposure to capital-market access, tenant concentration, variable-rate debt, and judgment-sensitive accounting estimates."
+}

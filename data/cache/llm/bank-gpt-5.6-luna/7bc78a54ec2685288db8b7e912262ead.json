@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "partially offset by",
+    "primarily due to",
+    "management believes",
+    "as it considers prudent",
+    "improving economy"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with clear year-over-year drivers for earnings, net interest income, credit losses, deposits, securities, and loans. Risk tone is moderately positive, supported by low charge-offs, loan growth, and improving market conditions, but margin compression, reliance on favorable economic conditions, increased FHLB advances, and an allowance coverage ratio of only 84% warrant monitoring. The excerpt is truncated, limiting assessment of impaired and nonperforming loan details."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "planning assumes",
+    "generally higher",
+    "similar rates",
+    "wide variety of",
+    "as further described"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate with substantial business-model and segment description, but it includes useful quantitative disclosures such as geographic revenue concentration and cash balances. The outlook relies on broad economic assumptions and indicates expected weakness in U.S. mortgage activity, creating sensitivity to interest rates and credit-market conditions. Overall tone is moderately confident, with no apparent crisis language in the provided passage."
+}

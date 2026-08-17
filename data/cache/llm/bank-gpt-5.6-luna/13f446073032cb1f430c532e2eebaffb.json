@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to fully determine future impact",
+    "partially offset by",
+    "based on plan assumptions and estimates",
+    "changing environment and heightened uncertainty",
+    "valuation allowance related to losses"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with clear segment, liquidity, debt, margin, pension, and environmental data. Risk factors include declining Epoxy and Winchester performance, significant environmental outlays, pension underfunding, and geopolitical uncertainty, although strong earnings and liquidity disclosures moderate the overall tone."
+}

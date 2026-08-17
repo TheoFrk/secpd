@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect to benefit",
+    "should support demand",
+    "long-term outlook remains positive",
+    "continued progress",
+    "provided that"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and favorable operating outlook, emphasizing record revenue, debt reduction, integration advantages, and anticipated policy-driven demand. It acknowledges material risks from steel-price volatility, recessionary demand, energy costs, supply-chain disruptions, and geopolitical events, but relies substantially on forward-looking expectations and optimistic assumptions. The abrupt truncation and insertion of unrelated guarantor and indenture disclosures reduce contextual clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "historical write-downs have not been material",
+    "best estimates of future cash flows",
+    "actual results may differ",
+    "highly uncertain litigation",
+    "truncated and disjointed excerpt"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified impairment and earnings impacts, but relies substantially on standard accounting-policy language, management estimates, and forward-looking assumptions. Key risks include goodwill and long-lived asset impairment, inventory valuation, litigation reserves, and the reported Purification Solutions loss on sale and asset impairment charge."
+}

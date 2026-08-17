@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.7,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance of financing",
+    "materially adversely affected",
+    "related-party promissory notes",
+    "discontinued operations"
+  ],
+  "risk_summary": "The company has discontinued operations, minimal cash of $7,000, negative working capital of approximately $268,000, and expects existing funds to be insufficient for the next twelve months. It relies on additional capital and substantial related-party debt at 11% interest, with no assurance that financing will be available on acceptable terms or at all. Quantified operating results improve disclosure precision, but extensive boilerplate and repeated forward-looking disclaimers dilute transparency."
+}

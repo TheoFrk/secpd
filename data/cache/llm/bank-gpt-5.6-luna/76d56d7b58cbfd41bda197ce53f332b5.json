@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "assuming other variables remain substantially unchanged",
+    "inherently imprecise estimates",
+    "financial covenant noncompliance",
+    "limited waiver not provided"
+  ],
+  "risk_summary": "The company explicitly disclosed noncompliance with all financial covenants and that its lender declined to provide a limited waiver, indicating significant liquidity and default risk. Reserve estimates, impairment exposure, commodity prices, and full-cost accounting introduce material sensitivity, although the discussion provides substantial technical and quantitative detail."
+}

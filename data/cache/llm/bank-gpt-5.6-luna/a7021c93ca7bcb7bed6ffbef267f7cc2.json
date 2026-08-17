@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "may differ materially",
+    "cannot predict with a high degree of confidence",
+    "expect to reapply for waivers",
+    "in their sole discretion",
+    "timing of the impact is uncertain"
+  ],
+  "risk_summary": "The excerpt presents substantial capital, regulatory, liquidity, litigation, profitability, and reinsurance risks, including an expectation that MGIC’s risk-to-capital ratio will exceed the 25-to-1 threshold and that liquid assets will decline materially. Although the disclosure is heavily quantified, repeated cross-references, extensive regulatory terminology, and uncertainty qualifiers make the potential severity and timing of adverse outcomes difficult to assess."
+}

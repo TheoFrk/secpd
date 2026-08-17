@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to a number of variables and uncertainties",
+    "we expect",
+    "largely offset",
+    "optimistic that",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is relatively transparent, with substantial operational detail, acreage, acquisition spending, harvest-volume ranges, and quantified sensitivity analysis. It identifies meaningful risks from weaker demand, lower pricing, higher logging and transportation costs, foreign exchange, China-related export conditions, and interest rates, while maintaining a cautiously constructive outlook."
+}

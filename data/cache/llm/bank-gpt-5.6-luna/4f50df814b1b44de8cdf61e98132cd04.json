@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could ultimately result",
+    "affecting to an unknown degree",
+    "although no assurances can be given",
+    "we believe adequate funds"
+  ],
+  "risk_summary": "The disclosure presents a generally positive outlook supported by quantified government spending, liquidity, and cash balances, but is heavily qualified by budget delays, procurement uncertainty, pandemic effects, and cybersecurity market assumptions. Several forward-looking claims rely on broad expectations and belief statements rather than quantified forecasts. Liquidity is portrayed as strong, though the excerpt provides limited detail on downside scenarios or sensitivity to government spending and contract timing."
+}

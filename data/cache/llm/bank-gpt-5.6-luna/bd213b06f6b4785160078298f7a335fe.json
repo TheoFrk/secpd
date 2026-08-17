@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "projected positive cash-flow",
+    "terms favorable ... or at all",
+    "forward-looking statements",
+    "revenue disclosure truncated"
+  ],
+  "risk_summary": "The company reports substantial liquidity deterioration, including cash falling to $63,104, a $110,972 working-capital deficit, and $502,266 of operating cash outflow. Continued operations and growth depend on uncertain positive cash flow or external financing, while extensive boilerplate cautionary language and a truncated revenue discussion reduce disclosure clarity."
+}

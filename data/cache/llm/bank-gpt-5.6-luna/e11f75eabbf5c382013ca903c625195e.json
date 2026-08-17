@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "estimates may differ",
+    "subject to many variables",
+    "not able to obtain all information",
+    "anticipated eventual remittance"
+  ],
+  "risk_summary": "The disclosure is largely standard MD&A and critical-accounting-policy boilerplate, with substantial reliance on management estimates for revenue recognition, contract costs, inventory reserves, investments, and taxes. Key risks include potential revenue overstatement, excess inventory, investment impairments, tax exposures, and uncertainty around contract milestones and completion costs. Liquidity is presented positively, with expected capital expenditures of $2.0–$3.0 million and stated resources sufficient for at least twelve months."
+}

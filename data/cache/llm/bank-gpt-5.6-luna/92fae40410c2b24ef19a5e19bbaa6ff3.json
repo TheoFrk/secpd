@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "we believe",
+    "we anticipate",
+    "key drivers of net sales",
+    "additional discussion and analysis"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but includes substantial forward-looking and strategy-oriented language that relies on management expectations. The Canadian segment is being wound down after materially worsening operating losses and impairment charges, with additional estimated charges and a projected 2014 net loss. Seasonality and dependence on the holiday selling period add earnings volatility."
+}

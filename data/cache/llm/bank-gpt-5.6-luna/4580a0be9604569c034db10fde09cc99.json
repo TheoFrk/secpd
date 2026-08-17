@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict the effect",
+    "may be unable to fully mitigate",
+    "known or unknown risks and uncertainties",
+    "could materially affect",
+    "expected to rapidly expand"
+  ],
+  "risk_summary": "The excerpt provides concrete descriptions of acquisitions, revenue drivers, seasonality, project-margin risks, and industry opportunities, but relies heavily on broad forward-looking qualifiers and standard risk disclaimers. Key exposures include cyclical demand, weather and project delays, pricing and execution risk, customer capital access, regulatory changes, and fluctuating margins; the overall tone is cautiously optimistic regarding communications infrastructure growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "future effects are uncertain",
+    "various factors, including, among others",
+    "primarily due to",
+    "based upon various estimates and judgements",
+    "could be reestablished"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting earnings, margins, allowance levels, charge-offs, and strong regulatory capital ratios. Risk is moderated by profitability and capitalization, but net interest margin compression, declining mortgage income, pandemic uncertainty, and reliance on estimates remain notable concerns. The COVID-19 discussion contains some standard boilerplate and broad conditional language."
+}

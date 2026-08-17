@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "attempt to ensure the success",
+    "not quantifiable or predictable with precision",
+    "believes exposure is not material",
+    "unforeseen short-term operating cost increases",
+    "continues to make progress"
+  ],
+  "risk_summary": "The excerpt is generally constructive and provides substantial quantitative operating detail, including sales trends, customer metrics, promotional programs, and marketable securities exposure. Risks include competition, reduced SNAP spending, commodity inflation, operating cost volatility, and market risk, though some exposure is characterized qualitatively as immaterial or difficult to quantify. Repeated boilerplate and strategic language modestly reduce disclosure precision."
+}

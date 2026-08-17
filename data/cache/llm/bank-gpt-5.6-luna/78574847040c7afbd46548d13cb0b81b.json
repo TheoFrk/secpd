@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management judgment and assumptions",
+    "actual results may differ",
+    "best estimate of selling price",
+    "believes allowance is adequate",
+    "revenue thresholds unlikely to be met"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes relevant quantified items, but relies on management estimates and judgments in revenue allocation, collectability, goodwill valuation, and contingent consideration. Negative risk signals include declining MRI/CAD revenue, a substantial goodwill impairment, litigation settlement effects, and contingent consideration being reduced to zero."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP ongoing earnings",
+    "deconsolidation of European business",
+    "partially offset by",
+    "primarily driven by",
+    "excluding foreign currency"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides clear year-over-year drivers, but relies substantially on adjusted metrics and repeated offsetting explanations. Risk tone is moderately negative due to a material sales decline, net loss, lower margins, and European deconsolidation, although cash flow and several regional results remain comparatively resilient."
+}

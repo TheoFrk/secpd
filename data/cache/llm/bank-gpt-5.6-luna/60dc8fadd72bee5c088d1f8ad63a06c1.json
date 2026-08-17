@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant risks and uncertainties",
+    "including, but not limited to",
+    "qualitative factors",
+    "reasonable assurance of repayment",
+    "most recent available appraisal"
+  ],
+  "risk_summary": "The excerpt provides substantial technical detail on loan-loss estimation, collateral valuation, interest-rate risk, and quantified changes in interest income and expense. Risk disclosure is broadly conventional but includes extensive forward-looking disclaimers, subjective valuation assumptions, and qualitative loss factors that limit precision. The tone is cautious and mildly negative, reflecting sensitivity to economic weakness, unemployment, real-estate foreclosures, and prolonged low interest rates rather than an immediate crisis."
+}

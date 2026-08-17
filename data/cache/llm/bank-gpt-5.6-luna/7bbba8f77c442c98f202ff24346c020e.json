@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance to maintain margins",
+    "sales revenues less predictable",
+    "related-party transactions",
+    "lower gross margins"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, detailing segment revenue, pretax income, margins, and year-over-year changes. Risk is moderate rather than crisis-like: consolidated net income declined, two major segments reported lower pretax income, sales revenue is described as less predictable, and sustained margins are not assured. The passage also contains standard forward-looking disclaimers and a related-party transaction disclosure."
+}

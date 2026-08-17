@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.2,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimers",
+    "actual results are likely to differ materially",
+    "various factors, including but not limited to",
+    "non-GAAP core earnings exclusions",
+    "significant uncertainty regarding excess mortality"
+  ],
+  "risk_summary": "The excerpt provides several quantified operating trends, but extensive forward-looking disclaimers, non-GAAP adjustments, and broad risk qualifiers limit comparability and clarity. Pandemic-related claims and excess mortality remain material uncertainties, although premium growth and improving economic conditions provide a partially constructive tone."
+}

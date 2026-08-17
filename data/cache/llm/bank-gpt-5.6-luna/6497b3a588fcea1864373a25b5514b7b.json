@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forbearance extensions",
+    "subordinated secured notes",
+    "related-party transactions",
+    "acquisition-dependent strategy",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides extensive transaction, repayment, and covenant detail, but its dense legal structure and numerous amendments make the underlying credit situation difficult to assess quickly. Repeated forbearance extensions and reliance on subordinated note repayments indicate elevated counterparty and liquidity risk. The company’s planned rights offering and acquisition strategy add execution and concentration risk."
+}

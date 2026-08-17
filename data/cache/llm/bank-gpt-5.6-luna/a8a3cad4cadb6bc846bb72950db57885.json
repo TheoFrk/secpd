@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could materially affect",
+    "significant management judgment",
+    "may be adversely impacted",
+    "not comparable",
+    "continue to monitor"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and explains revenue, expense, volume, and tax-season changes, but comparability is complicated by the fiscal-year change and pandemic-related deadline extensions. Key risks include declining current-year revenue and card/advance activity, regulatory exposure, discontinued-operations contingencies, and potentially significant goodwill impairments driven by judgmental forecasts and assumptions."
+}

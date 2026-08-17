@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor disclaimers",
+    "not meaningful (NM) threshold",
+    "non-GAAP core earnings exclusions",
+    "results may differ materially",
+    "excluding effects of acquisitions and disposals"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and non-GAAP disclosure language, which adds boilerplate and complexity but is generally accompanied by definitions and quantitative amounts. Operating risks are credibly negative, including COVID-19-related declines in premiums, lower investment yields, higher uncollectible premiums, and a $40 million increase in the allowance for credit losses."
+}

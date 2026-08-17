@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no firm assurances",
+    "could cause actual results to differ materially",
+    "not construed as exhaustive",
+    "disclaims any obligation",
+    "partially offset"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating detail, including revenue, margins, market mix, and profitability changes, supporting relatively transparent disclosure. Risk discussion is broad and heavily boilerplate, with extensive forward-looking disclaimers and reliance on external risk-factor references; semiconductor demand weakness, cyclicality, customer concentration, suppliers, competition, and execution remain material risks. Overall tone is cautiously positive, reflecting strong 2010 recovery while acknowledging that growth may moderate and certain markets have weakened."
+}

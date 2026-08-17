@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "assumptions and estimates",
+    "fair value based on unobservable inputs",
+    "contingent payment obligations",
+    "dependence on liquidity and capital access"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes specific contractual thresholds and payment percentages, but relies heavily on accounting jargon and forward-looking caveats. Liquidity risk is explicit because participation payments and contingent obligations depend on recoveries, asset liquidity, cash demands, and access to capital."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance that there will not be in the future",
+    "not able to predict the impact",
+    "could have a material effect",
+    "assumptions believed to be reasonable",
+    "actual results could vary"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear segment, revenue, cost, and comparable-sales disclosures. Risk tone is mildly negative due to wage and commodity inflation, weaker traffic at certain restaurants, uncertain pricing pass-through, and contingent lease liabilities, but the discussion does not indicate a crisis. Complexity is elevated by dense financial terminology, extensive comparisons, and nested causal explanations."
+}

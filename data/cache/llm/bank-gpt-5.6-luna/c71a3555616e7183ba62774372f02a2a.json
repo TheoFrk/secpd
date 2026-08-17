@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "various factors",
+    "may or may not",
+    "virtually all of the liquidity",
+    "compara[ble] replacement facility"
+  ],
+  "risk_summary": "The excerpt is highly technical and largely boilerplate, with extensive accounting-policy detail but limited company-specific quantification of estimation uncertainty. Liquidity risk is material because operations depend heavily on an asset-based facility, borrowing availability fluctuates with receivables, and renewal or replacement may involve tighter covenants and higher rates. The truncated ending limits assessment of the full refinancing outlook."
+}

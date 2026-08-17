@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict regulatory approval",
+    "general corporate purposes",
+    "dependent on financial market conditions",
+    "commitments based on uncertainties",
+    "anticipated payments cannot be estimated"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, describing customer counts, capital spending, rate mechanisms, financing, and covenant compliance. Key uncertainties involve regulatory approval of rate recovery, funding needs for the capital program, market conditions affecting equity issuance, and potentially unquantifiable retirement benefit payments. Overall tone is operationally confident but acknowledges moderate regulatory, execution, and financing risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily attributable to",
+    "non-GAAP financial measures",
+    "no remaining major uncertainties",
+    "estimates of variable consideration"
+  ],
+  "risk_summary": "The disclosure is relatively precise and highly quantified, but it contains substantial boilerplate forward-looking language and relies on adjusted non-GAAP metrics to frame results. Risk is elevated due to the $379.9 million goodwill impairment, $166.8 million SR 99 charge, operating loss, and reliance on estimates for claims and variable consideration, although backlog growth and infrastructure demand support a cautiously constructive outlook."
+}

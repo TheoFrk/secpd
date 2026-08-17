@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may cause actual results to differ materially",
+    "cannot be accurately predicted",
+    "may not be available on commercially reasonable terms",
+    "we believe",
+    "risks and uncertainties"
+  ],
+  "risk_summary": "The company reports declining total and new-product revenue, persistent and widening net losses, and substantial uncertainty regarding its ability to generate sufficient cash flow and obtain additional financing. Growth expectations depend on new products, eFPGA licensing, and SensiML SaaS, while competition, pricing pressure, shorter product cycles, and potential inventory obsolescence pose material risks."
+}

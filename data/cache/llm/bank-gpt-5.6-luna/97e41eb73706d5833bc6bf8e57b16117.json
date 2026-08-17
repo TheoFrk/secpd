@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "cross-reference",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "This excerpt is a procedural cross-reference and provides no substantive financial, operating, or risk information. The absence of underlying MD&A content here limits direct assessment of the issuer’s condition and risk profile."
+}

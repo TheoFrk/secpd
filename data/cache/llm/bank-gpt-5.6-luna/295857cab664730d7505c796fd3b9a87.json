@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "depends upon a variety of factors",
+    "cannot be determined at this time",
+    "expects to receive",
+    "diluted if options exercised"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed revenue, margin, backlog, ownership, investment, and expense data. Risk is tempered by reliance on a concentrated SBS project, anticipated orders and grants, uncertain future funding, increased development costs, and potential ownership dilution. Overall tone is cautiously positive rather than crisis-like, though the excerpt is truncated and includes standard forward-looking caveats."
+}

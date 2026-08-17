@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to",
+    "potentially higher amount",
+    "assuming advances in technology",
+    "could remain volatile",
+    "held in abeyance"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, including capital plans, hedging coverage, collateral postings, and operating metrics. Risk tone is cautiously positive due to regulated investment growth and stated liquidity, but substantial exposure remains to collateral volatility, regulatory approvals, merchant nuclear economics, and execution of forward-looking programs."
+}

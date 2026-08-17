@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "believes/ expects/ anticipates",
+    "potential opportunities",
+    "no relationships currently contemplated",
+    "disclaim any obligation to update"
+  ],
+  "risk_summary": "The excerpt reports substantial accumulated deficits, recurring operating and net losses, continued expected losses, litigation-related costs, and dependence on future market acceptance, reimbursement, and financing. Although operating metrics and expense changes are quantified, extensive forward-looking disclaimers and promotional descriptions of potential technology benefits limit visibility into execution and commercialization risk."
+}

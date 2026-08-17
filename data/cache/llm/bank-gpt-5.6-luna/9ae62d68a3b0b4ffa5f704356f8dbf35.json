@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "\"we believe\" statements",
+    "forward-looking operational benefits",
+    "estimated ultimate cost",
+    "actual trends differ from estimates",
+    "Data Breach expense disclosure"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and transparent, with extensive quantified operating, cash flow, capital allocation, and comparable-sales data. Risk tone is broadly confident and performance-oriented, though disclosures identify cybersecurity costs, foreign-exchange pressure, self-insurance estimates, and execution-dependent supply-chain benefits. Residual uncertainty is primarily concentrated in management estimates and forward-looking claims rather than apparent concealment."
+}

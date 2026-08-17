@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "believes that this acquisition should enhance",
+    "primarily attributable to",
+    "non-GAAP adjusted net income",
+    "favorable impact of foreign currency translation",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with year-over-year revenue, volume, margin, expense, tax, and segment impacts identified. Risk is mixed: Polymers experienced volume, margin, and operating-income declines, while favorable results benefited from foreign exchange, lower deferred compensation, tax reform effects, and nonrecurring items. Reliance on adjusted metrics and multiple offsetting factors modestly reduces comparability and underlying earnings clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict ultimate outcome",
+    "range of strategic alternatives",
+    "known and unknown risks",
+    "not intended to fully reconcile",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent on operating scale, investments, cash flows, and financing, but contains substantial standard forward-looking and non-GAAP boilerplate. The strategic alternatives review introduces material uncertainty, with management explicitly unable to estimate its financial impact; liquidity and leverage-related activity also warrant attention."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could experience further fluctuation",
+    "uncertainties remain",
+    "could adversely impact",
+    "primarily due to",
+    "array of needs"
+  ],
+  "risk_summary": "The disclosure is generally specific and favorable, with extensive quantified AUM, revenue, flow, and operating-income changes. Key risks are framed as macroeconomic and market uncertainties that could affect asset flows, investment performance, revenue, and earnings, but are not quantified. Repetition and dense product terminology moderately reduce readability without appearing materially evasive."
+}

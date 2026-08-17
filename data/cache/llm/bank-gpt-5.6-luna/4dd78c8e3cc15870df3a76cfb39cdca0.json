@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "covenant non-compliance waivers",
+    "bill-and-hold revenue recognition",
+    "sufficient cash for next 12 months",
+    "reasonable terms financing"
+  ],
+  "risk_summary": "The excerpt is relatively specific and well quantified, but presents material deterioration: sharply lower sales, operating and net losses, goodwill impairment, and losses across most segments. Liquidity depends partly on financing, and the company breached fixed-charge and debt-service coverage covenants, although lenders granted waivers. Bill-and-hold revenue recognition and multiple subjective estimates add accounting and execution risk."
+}

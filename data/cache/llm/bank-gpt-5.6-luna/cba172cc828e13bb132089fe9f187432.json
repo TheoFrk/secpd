@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results could be materially different",
+    "subjective judgment and estimates",
+    "no obligation to update",
+    "Caa3 substantial risk of default"
+  ],
+  "risk_summary": "The excerpt is heavily compliance-oriented and uses standard forward-looking disclaimers, limiting accountability for projections. It identifies meaningful credit and valuation risks, including rising potential problem loans, reliance on collateral values, subjective impairment assumptions, and a Caa3-rated CDO, although reported impairment and allowance conclusions remain relatively reassuring."
+}

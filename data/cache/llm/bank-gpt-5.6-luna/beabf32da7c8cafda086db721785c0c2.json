@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance significant revisions",
+    "considerable judgment",
+    "estimated future cash flows",
+    "may materially impact",
+    "cannot predict when"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes useful sensitivity quantification, including the effects of a 5% reserve revision. However, substantial reliance on subjective estimates, uncertain future cash flows, impairment judgments, and commodity-property assumptions creates meaningful downside risk, while several standard disclaimers limit predictability."
+}

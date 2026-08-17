@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking information",
+    "risks and uncertainties",
+    "may differ materially",
+    "not intended to be comprehensive",
+    "complex issues requiring extended resolution"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, covering revenue, margins, cash flow, capital spending, debt financing, and tax items. Risk is moderate rather than crisis-like: margins declined and expansion increased costs and borrowing, while the company remains cash-generative and continues to pay dividends. Boilerplate forward-looking and tax-audit language introduces some uncertainty but does not materially obscure the operating trends."
+}

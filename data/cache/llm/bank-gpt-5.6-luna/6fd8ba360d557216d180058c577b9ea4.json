@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.52,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "could cause actual results to differ materially",
+    "among other considerations",
+    "no obligation to update",
+    "not expected to have a material impact"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed regarding revenue, margins, product, geographic, and expense performance, with an overall positive operating tone. Risk disclosure is broad and heavily forward-looking, emphasizing COVID-19, supply chain, customer demand, financing, execution, and market-acceptance uncertainties without providing quantified downside scenarios. Repeated boilerplate and a truncated accounting discussion modestly reduce disclosure clarity."
+}

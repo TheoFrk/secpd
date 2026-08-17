@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict the extent",
+    "impact is fluid and continues to evolve",
+    "believe growth is driven by",
+    "as circumstances change",
+    "future events cannot be determined with precision"
+  ],
+  "risk_summary": "The excerpt combines quantified liquidity and debt information with extensive boilerplate, forward-looking assumptions, and uncertainty disclaimers. COVID-19-related operational and supply-chain risks are acknowledged, but management maintains a generally constructive tone regarding diversification, demand trends, and strategic growth."
+}

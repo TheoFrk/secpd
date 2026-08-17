@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset",
+    "other costs",
+    "additional information",
+    "materially affected"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including revenue, expense, operating income, leverage-related ratings, and future interest obligations. Results show modest operating deterioration, with lower revenue and earnings alongside higher expenses, while investment-grade ratings remain a mitigating factor. Some attribution remains generalized and the excerpt contains truncation and cross-references that limit completeness."
+}

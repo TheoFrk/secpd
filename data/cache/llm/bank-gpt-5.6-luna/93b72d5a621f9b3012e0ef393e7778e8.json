@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "generally/often/typically",
+    "cannot predict future impact",
+    "highly competitive market",
+    "excluded impairment charge",
+    "two-month reporting lag"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful quantitative disclosures, including a $140.9 million impairment charge, a Broadspire operating loss, and declining case volumes. Risk tone is moderately negative due to weak demand, labor-market pressure, competitive exposure, and limited predictability of claim referrals, although the discussion is largely explanatory rather than crisis-like."
+}

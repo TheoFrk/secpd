@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "estimates and assumptions",
+    "best estimate of selling price",
+    "subject to a post-closing adjustment",
+    "favorable effect of foreign currency translation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified acquisition, revenue, geographic exposure, and margin information, supporting relatively transparent analysis. However, it includes extensive boilerplate, technical accounting language, and qualitative claims about demand and competitive positioning, while the truncated revenue-recognition discussion limits assessment of potential accounting risks."
+}

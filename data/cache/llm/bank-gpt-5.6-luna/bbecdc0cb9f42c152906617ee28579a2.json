@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "undertakes no obligation to revise or update",
+    "including but not limited to",
+    "economic uncertainty"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial information, but extensive forward-looking disclaimer language and incorporated risk factors limit accountability for projections. Risk tone is mixed: results improved materially, while weaker demand, inflation, higher interest rates, and economic uncertainty create meaningful downside risk."
+}

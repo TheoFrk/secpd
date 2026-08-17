@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could cause results to differ materially",
+    "including, without limitation",
+    "at-risk/high-risk categories",
+    "no obligation to revise"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking-statement disclaimers and broad, non-quantified risk factors, particularly regarding COVID-19, credit losses, liquidity, interest rates, and LIBOR. However, it also provides meaningful quantitative disclosure on deferred loans, high-risk exposures, capital ratios, locations, and lending activities. Overall, the tone is cautious due to pandemic-related uncertainty but not crisis-like, with evidence of strong capitalization."
+}

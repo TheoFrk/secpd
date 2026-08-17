@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "full year versus nine months",
+    "partially offset",
+    "primarily due to",
+    "expect declines to continue",
+    "excluding CTF Operations"
+  ],
+  "risk_summary": "The disclosure is highly quantitative but repeatedly emphasizes acquisition-related comparability, which can obscure underlying legacy performance. Operating trends are adverse, including rising consumer churn, substantial commercial and broadband subscriber losses, declining video subscribers, and expected further voice and wireless backhaul revenue declines."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties beyond control",
+    "factors could affect actual results",
+    "among other things",
+    "not necessarily result in increased operating income"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, impairment, cash flow, tax, and segment information, supporting relatively transparent disclosure. Risk is present but generally contained in standard forward-looking language and discussion of currency, raw material, market, customer-demand, and impairment pressures. Overall tone is cautiously positive because sales, operating performance, and operating cash flow improved despite material EMD-related losses and higher borrowings."
+}

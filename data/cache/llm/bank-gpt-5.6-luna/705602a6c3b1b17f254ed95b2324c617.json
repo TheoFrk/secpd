@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "no obligation to update",
+    "favorable macro trends",
+    "strategic plan language"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and promotional strategic language, which moderately limits transparency about future risks. It provides meaningful quantified results for segment sales, cash flow, insurance recoveries, and acquisition spending, while identifying competition, supply-chain disruption, commodity pricing, and COVID-19 as risks. Overall tone is cautiously positive, supported by reported growth but tempered by broad contingencies."
+}

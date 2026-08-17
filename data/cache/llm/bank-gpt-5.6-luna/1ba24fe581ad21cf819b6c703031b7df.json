@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results may differ materially",
+    "customary closing conditions",
+    "significant uncertainty",
+    "could have a material impact"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating and financial outlook, supported by substantial quantified revenue, margin, cash flow, investment, and acquisition figures. Risk disclosure is largely standard forward-looking language, but highlights material uncertainties involving the chipset design issue, acquisitions, litigation settlement payments, contingencies, and accounting estimates. Overall disclosure is reasonably specific, though lengthy boilerplate and extensive technical terminology reduce clarity."
+}

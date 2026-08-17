@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "may persist",
+    "could negatively impact",
+    "appropriate steps",
+    "certain liabilities"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including revenue, utilization, backlog, cash flow, debt, and operating metrics. It identifies material exposures from cyclical demand, border disruption, supply-chain constraints, input and labor costs, customer creditworthiness, and retained ET-Plus liabilities, but often describes mitigation without quantifying potential downside. Overall tone is cautiously positive, supported by improved revenue, operating profit, and cash flow, while acknowledging ongoing operational and market risks."
+}

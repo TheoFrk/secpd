@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict future trends",
+    "we believe",
+    "primarily attributable to",
+    "non-GAAP financial measures",
+    "prior-year discussion omitted"
+  ],
+  "risk_summary": "The disclosure is generally precise and strongly quantified, highlighting record earnings, sales growth, margins, store counts, debt, and operating drivers. It acknowledges uncertainty around gas prices, wage inflation, weather, and macroeconomic conditions, but provides limited quantified sensitivity analysis for these risks. The overall tone is confident and favorable, with some reliance on non-GAAP measures and forward-looking assumptions."
+}

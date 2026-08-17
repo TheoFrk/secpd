@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we anticipate",
+    "we plan to",
+    "we believe",
+    "over time",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive strategic outlook with quantified cost-savings targets and detailed accounting changes, but relies on forward-looking language around consumer trends, e-commerce, market expansion, and execution. It discloses meaningful operating and financial risks, including product recalls, impairment charges, pension mark-to-market losses, cost inflation, supply-chain pressures, and restructuring costs."
+}

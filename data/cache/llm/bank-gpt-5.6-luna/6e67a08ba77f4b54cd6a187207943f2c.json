@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "non-GAAP financial measures",
+    "inherent limitations",
+    "partially offset by",
+    "other similar factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on pandemic effects, ACL growth, charge-offs, PPP lending, and revenue trends, but devotes considerable space to boilerplate non-GAAP explanations and favorable management framing. Credit risk tone is mildly negative because asset quality deteriorated and the allowance increased materially, despite reported operational resilience and an improving base-case economic forecast."
+}

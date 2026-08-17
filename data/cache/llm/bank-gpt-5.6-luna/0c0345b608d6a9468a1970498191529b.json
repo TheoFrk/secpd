@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance funding will be available",
+    "future capital requirements depend on a number of factors",
+    "may be required to take certain action",
+    "actual results may differ from estimates",
+    "excerpt contains truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and cash-flow information, but highlights persistent operating cash burn, net losses, substantial reliance on external financing, and potential dilution or operational retrenchment if funding is unavailable. Management expresses confidence in near-term liquidity while qualifying that future capital needs and financing access remain uncertain."
+}

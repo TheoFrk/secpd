@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "incomplete causal explanations",
+    "adjusted earnings/non-GAAP measures",
+    "primarily due to",
+    "regulatory balancing accounts",
+    "currency translation adjustments"
+  ],
+  "risk_summary": "The excerpt reports a severe 81% decline in earnings and an 82% decline in diluted EPS, indicating materially elevated performance risk in 2017. Although the headline figures are quantified, many segment-level explanations are omitted or truncated, and extensive reliance on adjusted earnings and regulatory/accounting adjustments may complicate assessment of underlying performance."
+}

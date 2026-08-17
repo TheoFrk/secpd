@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "factors beyond the Company’s control",
+    "materially different amounts",
+    "under adversely different conditions",
+    "does not undertake any obligations"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and broad, largely unquantified risk factors spanning credit, market, regulatory, legal, operational, and accounting risks. It identifies meaningful uncertainty in loan-loss reserves, collateral values, taxes, pensions, and goodwill impairment, while presenting management’s current assessments as adequate or reasonable without providing detailed sensitivity ranges."
+}

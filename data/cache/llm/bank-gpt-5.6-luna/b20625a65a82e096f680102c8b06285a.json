@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks and uncertainties",
+    "may cause actual results to differ materially",
+    "no obligation to update",
+    "including but not limited to"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, non-quantified list of potential risks, limiting its specificity. However, the disclosed $116.7 million goodwill impairment, $32.5 million intangible impairment, restructuring charges, and reduced investment in long-haul optical markets indicate meaningful operating and asset-quality pressure."
+}

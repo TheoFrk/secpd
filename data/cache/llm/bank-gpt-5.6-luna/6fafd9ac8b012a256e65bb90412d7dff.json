@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could differ materially",
+    "subject to various closing conditions",
+    "reasonable efforts",
+    "expected to close"
+  ],
+  "risk_summary": "The excerpt is highly detailed and substantially quantified, particularly regarding Elpida obligations, financing support, installment payments, and transaction conditions. Risk tone is mildly negative because it highlights material execution, regulatory, creditor-approval, liquidity, and distressed-counterparty risks, although much of the cautionary language is standard MD&A boilerplate."
+}

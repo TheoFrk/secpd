@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "we believe",
+    "actual costs and related impacts are unclear",
+    "could differ materially",
+    "effect, if any"
+  ],
+  "risk_summary": "The disclosure is generally transparent and quantitatively supported, highlighting strong AUM, revenue, and earnings growth. However, it identifies meaningful exposure to market volatility, competitive pricing, regulatory changes, and dependence on sustained ETF inflows, with some impacts described using broad or uncertain language."
+}

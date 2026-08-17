@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance of additional capital",
+    "continue operations beyond July 2014",
+    "foreseeable future losses",
+    "estimates may differ"
+  ],
+  "risk_summary": "The company reports sharply declining revenue, minimal royalty prospects, limited liquidity, no remaining borrowing capacity, and reliance on additional capital to continue operations. It explicitly states that funds may be insufficient to repay debt and operate beyond July 2014, creating a severe going-concern and refinancing risk. Disclosure is reasonably quantified but includes substantial standard forward-looking and estimation caveats."
+}

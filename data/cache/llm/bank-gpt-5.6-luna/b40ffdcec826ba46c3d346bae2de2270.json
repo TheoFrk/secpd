@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "accounting gain on deconsolidation",
+    "adjusted net loss",
+    "primarily driven by",
+    "commitment to exceeding standards"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful year-over-year operating detail, but emphasizes non-GAAP metrics and a large deconsolidation gain that materially improved reported net income despite an adjusted net loss. Boilerplate explanations, promotional ESG language, and reliance on causal qualifiers modestly dilute risk transparency."
+}

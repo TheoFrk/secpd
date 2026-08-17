@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "no obligation to update",
+    "inherently uncertain estimates",
+    "unobservable valuation inputs"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and repeated disclaimers that limit reliance on management’s projections. Key credit and valuation risks center on loan-loss reserves, fair-value measurements, mortgage servicing rights, and assumptions that may materially change, although reported results and credit quality trends are presented with a mildly positive tone."
+}

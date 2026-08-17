@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results",
+    "underlying economics",
+    "may or may not be realized",
+    "management’s current assessment",
+    "economically hedge"
+  ],
+  "risk_summary": "The disclosure is highly quantified and explains reported versus adjusted performance, but emphasizes non-GAAP measures that exclude substantial derivative fair-value volatility. Adjusted TIER remains only modestly above the 1.10 minimum and adjusted debt-to-equity increased to 6.18, exceeding the stated approximately 6.00 target. Overall tone is cautiously positive, supported by improved earnings and equity, but leverage, margin compression, interest-rate exposure, and assumption-sensitive loan-loss benefits remain material risks."
+}

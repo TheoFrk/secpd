@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future performance uncertainty",
+    "cannot predict prices",
+    "best estimate of future cash flows",
+    "could be material",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial information, including segment-level growth, volumes, pricing, debt, contingencies, leases, and purchase obligations. Risk disclosures are generally transparent but rely on standard uncertainty language around cyclicality, commodity pricing, impairment estimates, contingencies, and macroeconomic conditions. Performance tone is positive, although future results remain exposed to housing demand, material costs, supply disruptions, labor constraints, and OSB price volatility."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference instead of disclosure",
+    "see information contained",
+    "boilerplate section citation"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and directs readers elsewhere. While the reference is specific, it functions as boilerplate and limits standalone transparency."
+}

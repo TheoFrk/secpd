@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various other assumptions",
+    "believed to be reasonable",
+    "may differ from estimates",
+    "future regulatory decisions",
+    "actual costs dependent on several factors"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes several quantified program amounts, but relies heavily on standard accounting language and unquantified assumptions regarding regulatory recovery, environmental liabilities, actuarial estimates, and acquisition valuations. Key downside risks include disallowance of regulatory assets, remediation cost overruns, adverse litigation or insurance outcomes, market-driven benefit costs, and changes in regulatory decisions."
+}

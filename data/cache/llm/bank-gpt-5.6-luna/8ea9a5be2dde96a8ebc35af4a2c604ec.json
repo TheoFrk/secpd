@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant shift",
+    "much of the increase",
+    "potential impact",
+    "minimal impact",
+    "established criteria"
+  ],
+  "risk_summary": "The disclosure provides substantial operational detail and several quantified growth and decline metrics, but relies on broad attribution language and does not fully quantify underlying profitability, consultant retention, concentration, or forward risks. Tone is mildly positive due to strong online and consultant growth, tempered by declining publishing revenue and uncertainty around accounting standard impacts."
+}

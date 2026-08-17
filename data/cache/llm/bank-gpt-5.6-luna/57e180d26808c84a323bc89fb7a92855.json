@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not obligated to publicly update",
+    "subject to financial covenants",
+    "availability of credit"
+  ],
+  "risk_summary": "The excerpt is largely precise and highly quantified, with a positive operating performance narrative driven substantially by COVID-19-related demand. Risk disclosure is primarily standardized and forward-looking, highlighting dependence on markets, debt refinancing, interest rates, covenants, credit availability, and potential ratings downgrades."
+}

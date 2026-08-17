@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance of loan forgiveness",
+    "customary events of default",
+    "subject to known and unknown risks",
+    "expect revenue to decrease"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding COVID-19 impacts, segment sales, comparable-store performance, and PPP loan terms. Risk tone is moderately negative because pandemic restrictions materially reduced restaurant and bar sales and management expects further revenue declines, although package liquor sales partly offset the impact. The excerpt is legally and accounting-intensive, with some boilerplate disclaimers and uncertainty around PPP loan forgiveness."
+}

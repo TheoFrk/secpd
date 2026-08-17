@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "solid foundation for earnings and cash flow growth",
+    "sustained superior performance",
+    "certain other items",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt presents a generally optimistic operating outlook, supported by quantified revenue, subscription, retention, and liquidity improvements despite the COVID-19 pandemic. Risk disclosure is partly offset by promotional language, repeated forward-looking beliefs, reliance on non-GAAP Adjusted EBITDA, and unusual tax-rate and valuation-allowance effects that may reduce earnings comparability."
+}

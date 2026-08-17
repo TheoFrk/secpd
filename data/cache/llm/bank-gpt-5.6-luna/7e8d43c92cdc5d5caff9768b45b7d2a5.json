@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "high degree of judgment",
+    "such other factors",
+    "more likely than not",
+    "could have a material impact"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, highlighting strong earnings and asset growth following the Community Bank acquisition. Key risk areas include loan-loss estimation, goodwill recoverability, deferred tax asset realization, and acquisition-related valuation judgments, but these are largely described using standard accounting-policy language rather than indicating an immediate stress event."
+}

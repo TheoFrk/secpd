@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not probable of collection",
+    "subject to certain limitations",
+    "in the Company’s opinion",
+    "unless otherwise noted",
+    "historically generates adequate liquidity"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights liquidity constraints, long-dated lease collectability concerns, environmental remediation obligations, and litigation exposure. Cash resources are modest relative to ongoing commitments, although the company reports rent collections, investment maturities, and an unused credit line as liquidity support."
+}

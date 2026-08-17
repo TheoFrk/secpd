@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.16,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements caveat",
+    "actual results could differ materially",
+    "management judgment and estimates",
+    "qualitative adjustments",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, but includes standard forward-looking disclaimers and acknowledges material estimation uncertainty in credit-loss provisioning. Performance trends are moderately adverse, with declines in net income and net interest margin, higher nonperforming assets, and reduced deposits, partly offset by loan growth and strong capital ratios."
+}

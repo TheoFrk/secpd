@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "ongoing and dynamic in nature",
+    "actively monitoring",
+    "implementing mitigation plans",
+    "expects most stores to be open"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and some quantified impacts, but relies on broad, forward-looking language regarding COVID-19 duration, supply-chain disruption, store reopenings, and expected fiscal 2021 effects. The risk tone is materially negative, reflecting significant uncertainty and anticipated adverse effects on revenues and segment profit, although mitigation efforts and reopening progress are emphasized."
+}

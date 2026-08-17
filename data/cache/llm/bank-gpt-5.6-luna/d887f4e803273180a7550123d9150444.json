@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "based on all relevant facts and circumstances",
+    "probable and reliably estimated",
+    "qualitative analysis",
+    "subjective assumptions",
+    "could potentially be significant"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and quantitative operating results, but relies on management estimates for contract costs, claims, incentives, pensions, and fair values. Key risks include cost overruns, disputes, unapproved change orders, audit adjustments, and subjective valuation assumptions, while the reported business decline and margin pressure convey a mildly negative tone."
+}

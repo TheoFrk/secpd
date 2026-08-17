@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.55,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "competitive rates",
+    "subject to certain restrictions",
+    "we believe",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt conveys a generally confident growth-oriented tone, supported by quantified client, retention, interest-rate, credit-facility, and commitment disclosures. Key risks include prolonged low interest rates, reliance on non-GAAP operating metrics, contingent funding arrangements, and insurance-related letters of credit, although these are described with reasonable specificity."
+}

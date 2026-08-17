@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "management judgment",
+    "qualitative adjustments",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking-statement disclaimers and repeated references to uncertain future outcomes, which reduce disclosure specificity. Credit-risk disclosure is moderately informative through quantified portfolio concentrations and allowance methodology, but the reserve framework relies heavily on subjective estimates and qualitative adjustments. The tone is cautious and risk-aware rather than crisis-like."
+}

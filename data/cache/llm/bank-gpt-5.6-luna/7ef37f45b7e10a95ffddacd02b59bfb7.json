@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "primarily driven by",
+    "constant currency",
+    "not expected to have a material impact",
+    "contingent liabilities"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with positive operating performance and improved margins, although it relies on non-GAAP and constant-currency presentations that may complicate comparability. Key risks include foreign-exchange exposure, declining Farnell sales and margins, restructuring and environmental remediation costs, geopolitical credit losses, and uncertain tax outcomes."
+}

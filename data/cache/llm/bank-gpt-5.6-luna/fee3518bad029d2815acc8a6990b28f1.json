@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "promising preliminary efficacy data",
+    "clinically meaningful and statistically significant",
+    "expedited review",
+    "additional discussion around clinical trial design",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on trial sizes, endpoints, efficacy, cash flows, and development plans, but uses promotional language and repeats regulatory and program descriptions. Material risks include the advisory committee's unfavorable 8-5 benefit-risk vote, reliance on unapproved clinical programs, execution and regulatory uncertainty, and ongoing operating cash usage."
+}

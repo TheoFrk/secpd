@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not necessarily meaningful",
+    "substantially unchanged",
+    "remains uncertain",
+    "NM percentage changes",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified growth, record results, successful acquisition integration, and a generally confident operating tone. Risk disclosure is largely generic, emphasizing unpredictable market, regulatory, and economic factors, while some comparisons are obscured by acquisition effects, non-GAAP adjustments, and NM designations."
+}

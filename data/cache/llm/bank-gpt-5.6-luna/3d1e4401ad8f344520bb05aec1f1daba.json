@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty exists",
+    "unable to determine or predict",
+    "may take further actions",
+    "including, but not limited to",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The excerpt presents substantial pandemic, demand, supply-chain, liquidity, and cyclical market risks, including materially reduced revenue and production. Disclosure is reasonably specific, with quantified revenue declines, production reductions, liquidity actions, and a $3.6 million PPP loan, but relies on broad uncertainty and forward-looking caveats. Management describes mitigation efforts and expects improvement in 2021, though the overall tone remains risk-negative."
+}

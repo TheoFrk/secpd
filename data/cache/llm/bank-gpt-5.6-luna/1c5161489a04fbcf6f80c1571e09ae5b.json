@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliations",
+    "backlog not necessarily indicative",
+    "partially offset by",
+    "foreign currency exclusion",
+    "undefined/fragmented text"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but presents materially weaker earnings, declining sales in several markets, margin compression, and substantially higher debt. Management emphasizes foreign-currency effects and offsets while cautioning that backlog may not predict future sales, creating moderate interpretive risk. The overall tone is operationally measured but modestly negative."
+}

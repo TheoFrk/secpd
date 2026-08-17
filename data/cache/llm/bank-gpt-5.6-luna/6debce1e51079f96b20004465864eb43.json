@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe-harbor disclaimer",
+    "new risks emerge from time to time",
+    "not possible for management to predict all risks",
+    "expect transition to continue putting downward pressure",
+    "strategically positioning for long-term growth"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking-statement disclaimers and acknowledges that risks may be difficult to predict, which limits the precision of outlook disclosures. Operating performance is presented positively with meaningful quantitative detail, but tariff exposure, segment weakness, customer transitions, and expected margin pressure create moderate downside risk."
+}

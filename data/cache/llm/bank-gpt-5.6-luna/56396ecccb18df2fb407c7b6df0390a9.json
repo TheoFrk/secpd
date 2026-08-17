@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "probable future recovery",
+    "subjective critical assumptions",
+    "may vary significantly from actual results"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure, but relies heavily on standard forward-looking disclaimers and uncertainty language. Material estimation risk is concentrated in regulatory asset recovery, nuclear decommissioning obligations, tax positions, and pension assumptions, with potentially significant impacts from changes in assumptions."
+}

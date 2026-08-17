@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "subject to customary purchase price adjustments",
+    "not expected to be material",
+    "could produce significantly different results",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but it reports a material deterioration in operating performance, including an 11% revenue decline and a sharp reduction in operating profit. Risk is concentrated in post-pandemic demand normalization, inventory management, segment weakness, warranty costs, and estimation sensitivity. Boilerplate caveats and the truncated excerpt modestly limit transparency."
+}

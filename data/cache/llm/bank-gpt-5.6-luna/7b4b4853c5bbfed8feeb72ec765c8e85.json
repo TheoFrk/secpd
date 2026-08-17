@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "may be affected by",
+    "we believe",
+    "actual results may differ",
+    "subject to uncertain future events"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, particularly regarding revenue composition, fiscal-year effects, cost increases, and accounting treatments. Risk tone is cautiously positive, emphasizing profitability, cash flow, demand, and acquisitions while acknowledging economic uncertainty, customer spending sensitivity, and estimation risk. The primary analytical challenge is the dense accounting terminology and extensive forward-looking qualification language."
+}

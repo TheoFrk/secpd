@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot assure assumptions",
+    "material adverse impact",
+    "continued economic uncertainty",
+    "projected market share estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating data, but relies heavily on standard forward-looking disclaimers and unverified projections regarding growth, margins, market share, and government spending. Key risks include continuing losses, declining product and service revenue, customer and government concentration, economic uncertainty, and potential goodwill or software-asset impairment. The tone is cautiously negative despite improved year-over-year results and higher government contract revenue."
+}

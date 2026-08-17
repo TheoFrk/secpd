@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may differ materially",
+    "modest improvement",
+    "uncertain regulatory environment",
+    "based on current performance",
+    "assumptions ... could differ"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but includes repeated boilerplate and significant reliance on estimates, forecasts, and conditional language. Key risks include order-release delays, regulatory uncertainty, market softness, acquisition-dependent growth, margin compression, and uncertain contingent consideration."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.57,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "does not undertake to update",
+    "cannot predict regulatory effects",
+    "established guidelines and policies"
+  ],
+  "risk_summary": "The excerpt provides useful quantified performance, asset-management, and interest-rate information, but the risk discussion relies heavily on standardized cautionary language and broad descriptions of controls. Net income declined 13.1% in 2015, while regulatory, credit, liquidity, reputational, and interest-rate exposures are acknowledged without extensive stress metrics or quantified sensitivity analysis."
+}

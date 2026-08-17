@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "does not undertake any obligation to update",
+    "greater than 100%",
+    "remaining 30% of the increase",
+    "text appears truncated"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and explains major year-over-year changes, but contains extensive standard forward-looking disclaimers and a truncated section that limits completeness. Risk tone is moderately negative due to declining gross margin, rapidly rising operating expenses, acquisition integration demands, and derivative liabilities."
+}

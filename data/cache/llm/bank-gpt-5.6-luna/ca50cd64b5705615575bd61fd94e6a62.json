@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.45,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "expected annual pre-tax operational savings",
+    "benefits anticipated to be realized in future fiscal years",
+    "risk associated with any strategy",
+    "excluding impairment charges"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides detailed segment, restructuring, impairment, and margin information, limiting vagueness. Risk tone is materially negative due to substantial goodwill and intangible impairments, operating losses, declining WPS performance, pricing pressure, and restructuring needs, although management presents corrective actions and expected savings."
+}

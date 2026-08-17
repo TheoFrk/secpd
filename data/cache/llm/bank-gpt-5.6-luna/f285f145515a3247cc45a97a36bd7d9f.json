@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.88,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.02,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to other pages",
+    "no substantive discussion",
+    "boilerplate disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and redirects the reader to the annual report. While the page range is specific, reliance on incorporation by reference limits transparency within this filing section."
+}

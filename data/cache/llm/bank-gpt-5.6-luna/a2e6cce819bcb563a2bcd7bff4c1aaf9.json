@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "expect to",
+    "there can be no assurance",
+    "various stages of negotiation",
+    "ever-changing consumer tastes"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by store counts, sales, margins, and quantified startup costs. Risk disclosure is present but relatively limited, with reliance on forward-looking expectations regarding store openings, leases, market share, and consumer demand. The section is lengthy and promotional, with repeated descriptions of capabilities and strategy that dilute the key risk information."
+}

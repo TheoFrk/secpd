@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "completion date estimated after repeated delays",
+    "developer’s weakening financial condition",
+    "application currently pending for further approvals",
+    "doubtful recovery of down payment",
+    "title deed not yet received"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, but it discloses material uncertainty around Chinese real-estate investments, delayed project completion, unresolved title documentation, developer liquidity problems, and potential recoverability. Operating performance weakened overall, with revenue and net income declining and a $1.58 million impairment charge, despite improved cash, working capital, and gross margin."
+}

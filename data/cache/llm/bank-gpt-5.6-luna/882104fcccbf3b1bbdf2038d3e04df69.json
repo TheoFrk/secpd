@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "extent and nature varied",
+    "not presently known",
+    "could result in",
+    "including but not limited to",
+    "relative strength"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified segment and regional performance data, reducing concerns about evasiveness. However, it contains lengthy pandemic-related contingencies and broad uncertainty language regarding recovery, restrictions, supply chains, and consumer demand. Overall tone is cautiously confident but reflects meaningful operational and macroeconomic risk."
+}

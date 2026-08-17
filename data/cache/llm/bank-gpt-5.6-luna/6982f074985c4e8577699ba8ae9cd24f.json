@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "uncertain outlook",
+    "possible future revenue loss",
+    "well positioned to execute",
+    "expect revenue to grow",
+    "not possible to predict magnitude"
+  ],
+  "risk_summary": "The excerpt provides meaningful market and regulatory risk disclosure, including China export controls, weaker demand, cancellations, delayed payments, and a 28% decline in Compound Semiconductor sales. However, the discussion balances these risks with optimistic growth claims and several unquantified expectations, limiting visibility into downside magnitude. The impairment discussion relies heavily on judgment and explicitly states that future impairment likelihood and magnitude cannot be predicted."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "long-term success",
+    "expect to benefit",
+    "should continue to provide",
+    "dramatically increase",
+    "consistent strategic objectives"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive management narrative, supported by substantial quantitative disclosure on liquidity, debt reduction, shipments, earnings, and market conditions. Forward-looking claims rely on assumptions about steel demand, automotive production, government spending, hydrogen adoption, and scrap availability, while downside risks are comparatively limited. The text is technically dense and includes standard MD&A and non-GAAP boilerplate, but is not materially evasive overall."
+}

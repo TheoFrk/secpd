@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP measures",
+    "exclude non-cash adjustments",
+    "financial covenants based on adjusted measures",
+    "net loss and impairment charge",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, but emphasizes adjusted non-GAAP metrics that produce materially better results than GAAP, including adjusted TIER of 1.10 versus GAAP TIER below 1.00. Credit risk is elevated by the $149 million net loss, reduced loan-loss recovery, $45 million CAH impairment, and declining loan and debt balances, although refinancing and liquidity actions are presented as controlled."
+}

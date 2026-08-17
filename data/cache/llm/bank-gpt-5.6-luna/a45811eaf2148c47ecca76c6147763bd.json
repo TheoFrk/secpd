@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "best estimate of selling price",
+    "generally",
+    "as appropriate",
+    "may fall within the scope",
+    "significant differentiation"
+  ],
+  "risk_summary": "The excerpt is highly technical and lengthy, with extensive accounting-policy detail and repeated revenue-recognition descriptions that reduce accessibility. It identifies material estimation uncertainty, pretax losses, valuation allowances, and dependence on asset-based receivables financing, although the tone remains largely factual rather than crisis-like."
+}

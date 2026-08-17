@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to satisfaction or waiver",
+    "expected to close",
+    "future periods",
+    "not currently have an estimate",
+    "additional implementation guidance"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, including earnings changes, regulatory impacts, acquisition costs, and tax-related liabilities. Key uncertainties concern regulatory approvals, the pending Hydro One acquisition, future recovery of costs, and the unestimated amortization period for certain regulatory liabilities. Overall risk tone is mildly negative but not crisis-like, reflecting earnings pressure and execution or regulatory uncertainty."
+}

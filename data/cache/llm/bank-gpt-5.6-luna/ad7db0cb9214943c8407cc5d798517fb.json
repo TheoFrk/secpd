@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot estimate the magnitude",
+    "might include",
+    "likely to have",
+    "uncertainties associated with",
+    "fundamental changes"
+  ],
+  "risk_summary": "The disclosure is highly quantitative regarding revenue, expenses, investments, liquidity, and earnings, but highlights substantial pandemic-related uncertainty and does not quantify the potential magnitude of operational impacts. Key risks include declining newspaper revenues, delayed government projects and collections, concentrated marketable securities, dividend reductions, and reliance on favorable investment gains and tax benefits."
+}

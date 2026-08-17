@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective assessment and interpretation",
+    "among other factors",
+    "could produce different estimates",
+    "under adversely different conditions",
+    "measurement imprecision"
+  ],
+  "risk_summary": "The excerpt reports improving profitability with substantial quantitative detail, but highlights material estimation uncertainty around credit losses, impairment, collateral values, and economic conditions. Risk disclosures are largely standard banking MD&A language and provide methodology, but limited sensitivity analysis or quantified downside scenarios reduces transparency."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "no assurance",
+    "substantial doubt about ability to continue as a going concern",
+    "continues to work with the broker on the same terms",
+    "extent ... is unknown",
+    "believes this Agreement is no longer in effect"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk, including minimal cash of $88,711 versus $9.6 million in payables and accrued expenses, continued losses, no operations since 2000, and dependence on financing, asset sales, or a joint venture. The company explicitly states that suitable financing may be difficult to secure and that there is substantial doubt about its ability to continue as a going concern. Legal, contractual, execution, and COVID-related financing uncertainties further increase risk."
+}

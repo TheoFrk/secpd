@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP underlying measures",
+    "exclusion of charges",
+    "significant amount of savings",
+    "if applicable",
+    "solid performance language"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with segment-level sales and operating-profit changes. Risk factors include declining U.S. Snacks and Morning Foods performance, commodity-cost inflation, difficult European conditions, recalls, and substantial regional profit declines. The presentation is moderately optimistic and relies meaningfully on adjusted non-GAAP measures that exclude recurring or strategic costs."
+}

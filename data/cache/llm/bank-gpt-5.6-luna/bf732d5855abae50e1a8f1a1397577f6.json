@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "uncertainty regarding ability to collect",
+    "estimate of potential obligation",
+    "inherently rely heavily on estimates",
+    "uncertain tax position",
+    "discontinued operations"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but identifies material credit and contingent-liability risks, including a $23.0 million provision for potentially uncollectible notes receivable and a $10.3 million lease-guarantee charge. Distribution-segment volume weakness, unusually high effective taxes, discontinued-operation losses, and reliance on estimates add to the risk profile."
+}

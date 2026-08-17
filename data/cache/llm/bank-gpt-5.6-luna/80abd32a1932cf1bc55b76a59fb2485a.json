@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "anticipated growth",
+    "significant cost reductions",
+    "could therefore result",
+    "strategic and tactical initiatives"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative, detailing sales changes, acquisition consideration, and incremental costs, but relies on optimistic forward-looking assertions about growth and cost savings. Commercial performance materially underperformed, while restructuring and acquisitions introduce execution, impairment, and integration risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "without limitation",
+    "successful launch and improved leverage",
+    "estimated future cash flows and assumptions"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and cautionary boilerplate, while presenting operating performance in a generally positive tone with several quantified growth metrics. Risk transparency is constrained by omitted tables and reliance on impairment-model assumptions regarding revenue growth, margins, discount rates, and maturity periods."
+}

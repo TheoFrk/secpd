@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "could have a material impact",
+    "based on relevant characteristics",
+    "general nonspecific portion",
+    "subject to revision as new information becomes available"
+  ],
+  "risk_summary": "The disclosure is largely standard accounting-policy boilerplate but identifies meaningful estimation risk in ALLL, MSR, and OREO valuations, particularly from credit losses, collateral recovery, prepayment speeds, discount rates, and market conditions. Management presents credit quality, loan growth, and operating results positively, though the discussion provides limited sensitivity quantification and contains some broad or repetitive assertions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "actual results might differ significantly",
+    "various other assumptions",
+    "materially different findings",
+    "net effects of"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial information, but portions rely on broad qualitative judgments, omitted detail, and management estimates. Key risks include impairment sensitivity, uncertain tax positions, environmental and litigation accruals, foreign subsidiary tax exposure, commodity pricing, and labor disruptions."
+}

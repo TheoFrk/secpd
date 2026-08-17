@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict when or if similar investment gains or losses may occur",
+    "partially offset by",
+    "excluding reserve development",
+    "non-GAAP financial measures",
+    "reinsurance recoverables"
+  ],
+  "risk_summary": "The excerpt is comparatively transparent and heavily quantified, reporting earnings, premiums, catastrophe losses, reserve development, and investment gains across multiple years. Results improved materially in 2013, primarily due to lower catastrophe losses, but the insurer remains exposed to catastrophe volatility, reserve-estimation uncertainty, and potentially nonrecurring investment gains. Dense insurance terminology and extensive qualification make interpretation more difficult, although there is limited evidence of deliberate evasiveness."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures emphasized",
+    "partially offset",
+    "market diversification limits impact",
+    "Continuous Improvement initiatives",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with specific sales, earnings, segment, currency, restructuring, and market impacts. Risk tone is mildly negative because revenue and earnings declined, several end markets weakened, and restructuring and cost pressures increased, although management presents diversification and improvement initiatives as mitigants. The excerpt’s high complexity and truncated ending reduce readability and completeness."
+}

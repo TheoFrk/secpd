@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "do not foresee liquidity issues",
+    "expect to continue",
+    "covenant noncompliance and waiver",
+    "bill-and-hold revenue recognition",
+    "significant judgments and estimates"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, including liquidity, debt balances, borrowing availability, and working capital metrics, but contains substantial technical accounting complexity and forward-looking assurances. Key risks include reliance on financing, inventory valuation and contract estimates, bill-and-hold revenue recognition, and a debt-to-worth covenant breach that required a lender waiver. Overall tone is cautiously positive but moderated by leverage, covenant compliance, and liquidity dependence."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "potential changes",
+    "could have a positive impact",
+    "could likely have a negative impact",
+    "non-GAAP measures",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with substantial disclosure of revenue drivers, operating metrics, reconciliations, and performance trends. Risk tone is moderately positive, emphasizing network improvements, productivity, pricing gains, and volume growth, while acknowledging commodity weakness, fuel-price sensitivity, inflation, and operational restructuring uncertainty."
+}

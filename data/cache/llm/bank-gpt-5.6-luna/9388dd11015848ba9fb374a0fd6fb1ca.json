@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP underlying measures",
+    "adjustments for distributor inventories",
+    "foreign exchange adjustments",
+    "subject to post-closing inventory adjustment",
+    "may not succeed / material adverse effect"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed reconciliations and explanations of operating metrics. However, extensive reliance on non-GAAP “underlying” measures and adjustments for divestitures, foreign exchange, and distributor inventories can complicate comparability with reported results. Management expresses optimism but acknowledges input-cost pressure, slower emerging-market growth, travel-retail weakness, and potential adverse effects."
+}

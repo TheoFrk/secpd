@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "inherently uncertain",
+    "unforeseen changes in the market",
+    "subjective and/or complex judgments",
+    "materially different amounts"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative sensitivity disclosures, but it relies extensively on standard forward-looking disclaimers and judgment-based estimates. Key risks include loan-loss allowance volatility, credit deterioration, collateral valuation, market illiquidity, and dependence on economic assumptions. Management expresses moderate confidence in mortgage and loan growth while acknowledging that targets may not be achieved."
+}

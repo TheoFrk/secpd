@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "impact is uncertain",
+    "based on current expectations",
+    "future events may require such charges",
+    "actual results may differ",
+    "post-closing adjustments"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, including COVID-19 impacts, borrowings, repayments, liquidity, acquisitions, and expected 2021 expenditures. Risk tone is balanced but mildly cautious, reflecting pandemic-related demand uncertainty, potential future impairments, capital-market volatility, and estimation risk. Long, highly nested sentences and standard forward-looking language moderately reduce readability but do not appear strongly evasive."
+}

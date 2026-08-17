@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor boilerplate",
+    "cannot be reasonably estimated",
+    "no assurances additional financing",
+    "actual results could differ",
+    "subject to risks and uncertainties"
+  ],
+  "risk_summary": "The disclosure identifies material uncertainty around COVID-19 effects, royalty receivable collectability, licensee commercialization, and future financing needs. Although several balances and cash-flow figures are quantified, extensive safe-harbor language and reliance on management estimates limit forward visibility. The overall tone is cautious and financially pressured rather than crisis-like."
+}

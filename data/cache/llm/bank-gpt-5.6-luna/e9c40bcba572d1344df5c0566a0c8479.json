@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "numerous assumptions, risks and uncertainties",
+    "could differ materially",
+    "highly uncertain and require a high degree of judgment",
+    "subject to periodic adjustment",
+    "unanticipated future market movements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on acquisitions, loan balances, and allowance sensitivity, but relies on standard forward-looking disclaimers and subjective estimates. Key credit risks relate to loan-loss provisioning, acquired-loan accounting, investment impairments, interest rates, economic conditions, and changing market conditions. Overall tone is cautiously neutral rather than crisis-like."
+}

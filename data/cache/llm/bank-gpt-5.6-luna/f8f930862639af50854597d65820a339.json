@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant challenges",
+    "partially offset",
+    "mature products continue to decrease",
+    "non-GAAP financial measure",
+    "acquisition-related cash outflow"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear revenue, EBITDA, cash flow, product-category, and acquisition figures. Risk tone is mildly negative because EBITDA margins, operating cash flow, and mature-product revenue declined, while the Etherios acquisition increased investing cash usage. Some presentation relies on standard MD&A language and offsets adverse trends with favorable items, but there is limited evidence of deliberate obfuscation."
+}

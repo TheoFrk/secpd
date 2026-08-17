@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "other factors and trends",
+    "inherently subjective",
+    "if circumstances warrant",
+    "probable losses"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes specific accounting standards, dates, amounts, and margin metrics, but relies heavily on management judgment and broad, non-quantified assumptions for loan-loss reserves and valuations. Credit risk is presented in a measured, largely neutral tone, with noted pressure from lower accretion and competitive loan pricing rather than an acute crisis."
+}

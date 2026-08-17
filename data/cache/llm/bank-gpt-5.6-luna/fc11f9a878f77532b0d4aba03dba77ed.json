@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "inherently uncertain",
+    "may have a material impact",
+    "based on historical experience",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes several quantified financial figures, but relies on standard uncertainty language around estimates, rebates, returns, and accounting judgments. Risk tone is broadly neutral to mildly negative, reflecting elevated borrowing costs, unusually high effective tax expense, restructuring costs, and exposure to estimation variability; the excerpt is also incomplete and omits portions of the results discussion."
+}

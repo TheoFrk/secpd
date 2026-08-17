@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous assumptions",
+    "variety of risks and uncertainties",
+    "no obligation to update",
+    "adequate reserves"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative information on earnings, returns, balances, and interest rates, but is heavily supplemented by broad forward-looking disclaimers and an extensive non-specific risk inventory. Risk tone is moderately negative due to COVID-19 exposure, tourism dependence, credit-loss uncertainty, and materially lower 2020 earnings, although management emphasizes strong liquidity and capital."
+}

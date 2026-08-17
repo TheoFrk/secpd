@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "risks are not exhaustive",
+    "do not undertake obligation to update",
+    "significant management judgment",
+    "materially different estimates"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and a broad, non-exhaustive risk inventory, including commercial credit exposure, liquidity, uninsured deposits, regulatory consent orders, cybersecurity, and banking-sector volatility. The ACL discussion provides meaningful methodological detail but emphasizes substantial judgment and potential future changes without quantifying sensitivity ranges. Overall tone is cautious and risk-aware rather than crisis-like."
+}

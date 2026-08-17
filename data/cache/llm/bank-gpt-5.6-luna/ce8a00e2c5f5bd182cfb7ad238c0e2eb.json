@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "no assurances concerning future liquidity",
+    "budget uncertainties",
+    "subject to political and global financial uncertainty"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on government exposure, budgets, acquisitions, backlog, credit facilities, commercial paper, and liquidity. Its tone is generally confident, supported by strong backlog and available liquidity, but it acknowledges meaningful risks from leverage, elevated commercial paper balances, government funding uncertainty, inflation, interest rates, and geopolitical conditions."
+}

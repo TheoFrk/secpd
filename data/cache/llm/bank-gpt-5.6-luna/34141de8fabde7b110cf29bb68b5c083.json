@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "various factors including, but not limited to",
+    "assumptions that we believe to be reasonable",
+    "when we deem it necessary",
+    "actual results may differ",
+    "standardized accounting-policy boilerplate"
+  ],
+  "risk_summary": "The excerpt provides useful quantified financial data but is dominated by lengthy, repetitive accounting-policy and forward-looking-statement boilerplate. The company reports a material working-capital deficit, declining revenue, no recent cargo-security product sales, and dependence on a tax-related gain for profitability and operating cash flow."
+}

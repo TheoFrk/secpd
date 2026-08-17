@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "actual results could differ materially",
+    "does not undertake to update",
+    "among other things",
+    "cannot predict what legislation might be enacted"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and performance information, including earnings growth, asset balances, and interest-rate effects. Risk disclosure is broad and largely boilerplate, emphasizing fraud, credit, liquidity, regulatory, reputational, and interest-rate risks without materially quantifying potential impacts. Overall tone is cautiously positive, supported by strong 2018 earnings growth but tempered by extensive forward-looking disclaimers."
+}

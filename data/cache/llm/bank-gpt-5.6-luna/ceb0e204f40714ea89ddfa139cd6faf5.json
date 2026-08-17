@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"various assertions regarding the future use\"",
+    "\"still evaluating the impact\"",
+    "\"may record adjustments\"",
+    "\"more fully described below\"",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and identifies material exposures, including global demand sensitivity, tax-law uncertainty, repatriation costs, impairment charges, and a reported net loss in 2017. Risk tone is mixed: operating demand and cash generation are presented positively, but significant uncertainty remains around TCJA effects, effective tax rates, and non-GAAP performance framing."
+}

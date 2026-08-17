@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "numerous assumptions, risks and uncertainties",
+    "could differ materially",
+    "including, but not limited to",
+    "non-GAAP measures not comparable",
+    "below investment grade securities"
+  ],
+  "risk_summary": "The excerpt is highly technical and includes substantial quantified detail on acquisitions, capital rules, and securities exposure, but also relies on standard forward-looking disclaimers and broad risk lists. The risk tone is generally neutral with modestly negative implications from below-investment-grade holdings, deferrals, defaults, and reliance on estimates."
+}

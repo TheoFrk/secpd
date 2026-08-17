@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "including but not limited to",
+    "risks are manageable",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides useful operating detail, including sales growth, margin compression, acquisition impacts, and tax-asset judgments. Risk discussion relies substantially on standard forward-looking-statement disclaimers and broad, non-specific risk language, while highlighting exposure to promotions, input costs, housing conditions, and customer concentration. Overall tone is cautiously positive, supported by profitability and sales growth despite declining gross margin and elevated acquisition-related expenses."
+}

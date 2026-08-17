@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted EBITDA excluding settlement",
+    "believe and anticipate",
+    "actual results could differ",
+    "pricing pressure and mix dilution",
+    "forward-looking market projections"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and identifies a substantial net loss, litigation settlement, pricing pressure, margin dilution, steel-cost volatility, and segment weakness. Management presents a generally constructive outlook based on backlog, order growth, debt reduction, and market expansion, but relies on adjusted metrics and forward-looking assumptions to offset acknowledged risks."
+}

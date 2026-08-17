@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "meaningful decline",
+    "expect reduced closing activity",
+    "favorable outlook",
+    "truncated quantitative tables"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, describing slower industrial activity, moderating sales growth, ongoing network rationalization, and increased investment needs. Management maintains a confident tone, emphasizing market-share gains, stable margins, record operating cash flow, and future cash-generation capacity. Debt exposure is disclosed, including $260.0 million under the Master Note Agreement, but the excerpt provides limited detail on repayment terms and liquidity sensitivity."
+}

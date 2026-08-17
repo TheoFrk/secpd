@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "cannot guarantee",
+    "potentially raise additional funds",
+    "subject to review of certain performance criteria",
+    "uncertainties surrounding ability to raise capital"
+  ],
+  "risk_summary": "The disclosure explicitly identifies recurring operating losses, negative operating cash flow, dependence on additional financing, and substantial doubt about the company’s ability to continue as a going concern. Although it provides meaningful historical amounts and contractual details, the outlook relies on unproven sales growth, expense reductions, and financing availability."
+}

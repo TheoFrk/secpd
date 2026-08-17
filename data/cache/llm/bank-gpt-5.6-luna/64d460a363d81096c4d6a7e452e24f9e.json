@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "not necessarily non-recurring",
+    "N/M = not meaningful",
+    "primarily due to",
+    "unless otherwise noted"
+  ],
+  "risk_summary": "The excerpt is comparatively well quantified and provides detailed segment and cost-savings information, but relies substantially on non-GAAP performance measures and adjustments. Declining worldwide and U.S. beer volumes, lower operating income, and increased special items indicate moderate operating pressure, partially offset by pricing, international growth, and realized synergies."
+}

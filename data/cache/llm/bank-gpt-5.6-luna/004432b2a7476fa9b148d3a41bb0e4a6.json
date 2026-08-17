@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future capital requirements depend on many factors",
+    "cannot provide assurance",
+    "expect to incur losses",
+    "substantial funds",
+    "incomplete risk-factor lists"
+  ],
+  "risk_summary": "The excerpt is materially quantified regarding historical results, financing, cash, losses, and accumulated deficit, but includes generic uncertainty language and visibly incomplete sections after several colon-marked lists. Risk tone is negative, reflecting sustained operating losses, limited revenue, dependence on additional capital, dilution risk, and uncertainty around clinical and commercial success."
+}

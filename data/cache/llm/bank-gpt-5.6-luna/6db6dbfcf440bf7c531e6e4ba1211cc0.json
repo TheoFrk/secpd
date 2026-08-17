@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted diluted EPS excludes significant items",
+    "difficult to predict and highly variable",
+    "does not provide a corresponding U.S. GAAP measure",
+    "continuing risks to this forecast",
+    "underlying business trends"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but presents an optimistic adjusted EPS forecast while excluding potentially significant litigation, restructuring, tax, and other special items. The inability to estimate or reconcile these excluded items limits comparability with U.S. GAAP results and creates forecasting uncertainty."
+}

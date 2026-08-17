@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurances financing available",
+    "generally",
+    "we anticipate",
+    "two to five years",
+    "non-GAAP station operating income"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes quantified revenue concentration, political revenue, Treasury holdings, and operating assumptions, but relies substantially on standard industry and forward-looking language. Key risks include advertising cyclicality, technological disruption, market concentration, acquisition-related spending, debt-service constraints, and uncertainty regarding future financing availability."
+}

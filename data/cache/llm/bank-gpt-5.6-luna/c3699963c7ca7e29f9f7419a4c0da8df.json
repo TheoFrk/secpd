@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "best estimate of the liability",
+    "continue to evaluate information",
+    "significant number of proceedings and investigations",
+    "substantial initiatives",
+    "except where it is clear"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure of the cybersecurity incident, litigation accruals, insurance recovery, and expected future costs, indicating relatively limited evasiveness. Risk remains elevated due to the large data breach, ongoing investigations and litigation, continuing security and technology expenditures, and declining international margins. The tone is predominantly factual but carries a moderately negative risk profile."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.55,
+  "risk_sentiment": -0.35,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily related to",
+    "partially offset",
+    "do not believe",
+    "at this time",
+    "adjusted EBITDA addbacks"
+  ],
+  "risk_summary": "The excerpt is substantially quantified by segment, period, revenue, margins, backlog, and expense changes, but frequently relies on causal qualifiers and offsetting explanations. COVID-19 materially reduced demand, shipments, sales, and gross profit, while covenant compliance and financing capacity are presented as currently intact. Debt acceleration and cross-default risks are disclosed, alongside potential interpretive risk from non-GAAP performance measures."
+}

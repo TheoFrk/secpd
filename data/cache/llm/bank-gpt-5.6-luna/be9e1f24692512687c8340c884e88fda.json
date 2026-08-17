@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance",
+    "new risk factors",
+    "considerable judgment",
+    "may be material"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate disclaimers and emphasizes that estimates, assumptions, and emerging risks may cause materially different results. Reserve balances and methodologies are quantified, but uncertainty around IBNR, actuarial assumptions, reinsurance recoverables, and future loss emergence remains substantial."
+}

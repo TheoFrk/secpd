@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "provisional tax estimates",
+    "accounts receivable securitization",
+    "restructuring and other costs",
+    "results included in Corporate & Other"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear year-over-year operating, tax, acquisition, restructuring, and cash-flow information. Risk is moderate due to declining gross margin, higher interest expense and debt, reliance on tax benefits and estimates, acquisition integration, and securitization-related cash-flow classification, although operating income and adjusted earnings improved."
+}

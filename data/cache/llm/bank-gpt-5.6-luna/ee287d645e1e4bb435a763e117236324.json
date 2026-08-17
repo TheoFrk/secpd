@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "some or all facts beyond control",
+    "subjective or complex judgments",
+    "among other things"
+  ],
+  "risk_summary": "The excerpt provides useful quantified sales, income, segment exposure, factoring balances, and option information, but includes substantial standard forward-looking disclaimers and broad, non-quantified risk categories. Operating performance appears generally stable, with higher sales but lower net income and increased excess payments to the accounts receivable factor indicating a potentially relevant liquidity or working-capital concern."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "mostly attributable to",
+    "could, but may not",
+    "unallocated corporate activities",
+    "higher net costs"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but emphasizes causal qualifiers and extensive operating detail. Key risks are commodity-price volatility, refining-margin sensitivity, foreign-exchange exposure, rising corporate costs, and dependence on production ramp-ups. Overall tone is cautiously positive because earnings from continuing operations improved, despite lower reported net income and material prior-year volatility."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "may adversely affect us",
+    "expected to impact our financial results",
+    "extensive regulation and supervision",
+    "continued pricing pressure"
+  ],
+  "risk_summary": "The disclosure is relatively specific about assets, deposits, branch footprint, acquisition accounting, and interest-rate exposure, but relies on standard risk-factor language for COVID-19 and future economic effects. Key risks include pandemic-related disruption, declining interest margins, competitive loan and deposit pricing pressure, and potentially adverse credit trends."
+}

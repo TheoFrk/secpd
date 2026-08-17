@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.52,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance of financing",
+    "materially adversely affected",
+    "discontinued operations",
+    "related-party promissory notes"
+  ],
+  "risk_summary": "The company has discontinued operations, minimal cash of $25,000, negative working capital of approximately $127,000, and states that existing funds will not support operations for the next twelve months. It depends on additional capital and related-party notes, with no assurance that financing will be available on acceptable terms or at all. The disclosure is materially risk-negative, although key liquidity and expense amounts are quantified."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.8,
+  "complexity_score": 0.45,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "included as Exhibit 13",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and directs readers elsewhere for the MD&A. This limits transparency in the excerpt itself and prevents assessment of operating or liquidity risks."
+}

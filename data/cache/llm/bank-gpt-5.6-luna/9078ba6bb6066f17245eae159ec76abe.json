@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance that goals will be achieved",
+    "sufficient unused borrowing capacity",
+    "variety of other funding sources",
+    "manage availability in response to changing needs",
+    "hold securities to recovery or maturity"
+  ],
+  "risk_summary": "The excerpt is predominantly quantitative and transparent, reporting asset, deposit, earnings, liquidity, and credit-quality metrics. Risk signals include rising nonperforming and nonaccrual loans, higher provision expense, and substantial unrealized securities losses, although liquidity resources and profitability are presented as adequate."
+}

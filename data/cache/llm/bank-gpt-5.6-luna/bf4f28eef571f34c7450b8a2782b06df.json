@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "may be material to operating results",
+    "in our experience, we expect to incur",
+    "reasonably approximates"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but presents significant deterioration in sales, earnings, margins, and segment performance, alongside restructuring and operational disruption. Environmental liabilities and future remediation costs are acknowledged, with some uncertainty around timing and ultimate magnitude."
+}

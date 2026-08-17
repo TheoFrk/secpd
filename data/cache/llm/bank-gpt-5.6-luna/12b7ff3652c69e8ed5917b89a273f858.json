@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "critical accounting policies omitted",
+    "broad economic-condition caveats",
+    "non-GAAP measure emphasis",
+    "earnings boosted by tax benefit",
+    "text truncation/table formatting artifacts"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but reported earnings growth was materially supported by a $4.8 million deferred-tax valuation allowance reversal and a loan-loss recovery rather than recurring operating improvement. Declining net interest income and margin, rising noninterest expense, and reliance on historical loss factors indicate ongoing credit and profitability risks."
+}

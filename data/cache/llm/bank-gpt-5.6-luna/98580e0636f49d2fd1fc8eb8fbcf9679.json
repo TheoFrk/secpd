@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "could cause results to differ materially",
+    "among other factors",
+    "best information available",
+    "historical trends and other analysis"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial information, including segment sales, margins, earnings, liquidity, and COVID-19 effects. Risk disclosure is broad and heavily standardized, with numerous contingent factors and estimates but limited quantification of downside exposure. Overall tone is cautiously positive, supported by revenue and earnings growth and no debt, while product recall, negative Safety-segment margins, supply disruptions, and claims remain material risks."
+}

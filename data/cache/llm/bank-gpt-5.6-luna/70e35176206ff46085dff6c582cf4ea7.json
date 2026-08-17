@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "preliminary purchase price allocation",
+    "based on management’s estimate",
+    "expected to be realized",
+    "cannot assure",
+    "if at all"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, particularly regarding acquisition consideration, intangible assets, discount rates, and development costs. However, important valuation and integration outcomes remain subject to estimates, regulatory approval, timing, budget, and execution risk. The overall tone is moderately confident but includes explicit caution around product development and preliminary accounting assumptions."
+}

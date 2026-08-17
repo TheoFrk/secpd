@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "no reasonable likelihood",
+    "subject to change",
+    "may materially differ",
+    "based on various assumptions"
+  ],
+  "risk_summary": "The excerpt is generally transparent, with quantified sensitivity analyses for sales returns, doubtful accounts, and inventory allowances, but relies heavily on management estimates and forward-looking assumptions. Risk tone is moderately positive due to reported sales and margin improvements, while customer credit, inventory obsolescence, demand uncertainty, and impairment risks remain material. The truncated text limits assessment of the full operating and liquidity discussion."
+}

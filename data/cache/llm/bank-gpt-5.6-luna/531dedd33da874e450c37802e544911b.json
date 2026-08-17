@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "no obligation to update",
+    "customary closing conditions",
+    "long-term outlook remains favorable"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating and liquidity outlook, supported by quantified revenue, capital expenditure, working capital, and shutdown figures. However, the business outlook relies on ambitious 2025 targets, acquisitions, macroeconomic conditions, customer demand, and successful execution, while extensive safe-harbor language limits specificity about downside scenarios."
+}

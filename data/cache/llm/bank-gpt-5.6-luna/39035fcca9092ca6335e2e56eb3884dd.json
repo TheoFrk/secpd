@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "may materially adversely impact",
+    "anticipated levels of business",
+    "current economic conditions",
+    "searching for new sources"
+  ],
+  "risk_summary": "The disclosure is relatively specific, with quantified order changes, cost increases, labor absences, and overtime expense, but contains substantial boilerplate business-model and forward-looking language. Risk tone is moderately negative due to supply-chain disruptions, inflation, labor shortages, freight dependence, seasonal liquidity needs, and uncertainty over education funding, although management emphasizes recovery and corrective actions."
+}

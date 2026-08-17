@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "historically not had a material effect",
+    "best estimate",
+    "among others",
+    "may under certain circumstances",
+    "customer-specific acceptance criteria"
+  ],
+  "risk_summary": "The excerpt is detailed and materially quantified, but relies on management estimates for percentage-of-completion revenue, collectability, impairment, and performance guarantees. Credit risk is currently moderate given limited borrowings and available capacity, but cross-default provisions, bank guarantees, covenant exposure, and reliance on fossil-fuel markets create downside risk."
+}

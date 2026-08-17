@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "actual results may differ",
+    "for the foreseeable future",
+    "to a lesser extent",
+    "adjusted operating income"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, describing improved revenue, margins, earnings, and liquidity. Key risks include working-capital-driven cash flow deterioration, acquisition financing and redemption obligations, debt refinancing, and judgment-sensitive accounting estimates. Overall tone is cautiously positive, though reliance on adjusted segment metrics and repeated boilerplate modestly limits clarity."
+}

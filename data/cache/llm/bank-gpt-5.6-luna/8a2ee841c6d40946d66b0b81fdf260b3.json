@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP supplemental financial measures",
+    "subject to customary conditions",
+    "primarily the result of",
+    "meaningful supplemental measurement",
+    "table below sets forth information (truncated)"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed on investments, financing, dividends, and operating expenses, with generally constructive operating and liquidity commentary. Risk visibility is reduced by extensive non-GAAP definitions, management-selected adjustments, and the truncated debt and FAD discussion; exposure includes increased indebtedness, variable-rate financing, and losses from a newly formed joint venture."
+}

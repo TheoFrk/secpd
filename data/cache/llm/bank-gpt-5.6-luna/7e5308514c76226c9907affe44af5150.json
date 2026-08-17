@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "dynamic and uncertain nature",
+    "cannot reasonably estimate",
+    "significant estimates and assumptions",
+    "adverse changes in market conditions",
+    "reasonably likely"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear explanations of sales, margins, volumes, expenses, taxes, and goodwill sensitivity. Risk tone is moderately positive due to strong operating results and favorable market conditions, but it acknowledges pandemic uncertainty, fixed-price project exposure, input-cost volatility, and valuation-estimate risk."
+}

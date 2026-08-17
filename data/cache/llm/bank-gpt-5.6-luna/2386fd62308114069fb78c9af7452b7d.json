@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "not possible to predict all risks",
+    "subject to significant uncertainties",
+    "no assurance cost savings will be realized",
+    "below-investment grade credit ratings"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on liquidity, debt maturities, leverage, cash flows, transaction costs, and expected cost savings. However, extensive boilerplate disclaimers and reliance on estimates dilute accountability, while working-capital deficits, below-investment-grade ratings, refinancing risk, integration uncertainties, and regulatory commitments indicate elevated credit risk despite management's stated liquidity adequacy."
+}

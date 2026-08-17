@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "materially different",
+    "management judgment",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative portfolio, development, capital expenditure, and disposition data, but is heavily dominated by standardized forward-looking disclaimers and broad, non-quantified risk factors. Reliance on management judgment in capitalization and unconsolidated-entity valuation creates potential earnings and asset-value uncertainty, while the overall tone remains cautiously confident rather than crisis-like."
+}

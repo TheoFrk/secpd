@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to interpretation",
+    "reasonable likely change",
+    "historical collection experience",
+    "periodically revised",
+    "tables omitted/truncated"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, particularly regarding acquisitions, debt availability, covenant compliance, and contractual allowance sensitivity. Key risks include reimbursement and collectibility estimates, complex payor rules, impairment judgments, acquisition-related obligations, and the previously loss-making physician services business. The overall tone is controlled and moderately confident, but the omitted tables and truncated disclosure limit full assessment."
+}

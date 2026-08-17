@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements safe-harbor disclaimer",
+    "subject to risks and uncertainties",
+    "expects positive impacts to be offset",
+    "blank positive impacts/headwinds lists",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is materially quantified, but it contains extensive forward-looking disclaimers and some incomplete or truncated discussion that limits transparency. Operating performance is weakening, with declining motorcycle sales, lower income, expected shipment reductions, manufacturing restructuring costs, and approximately 800 job eliminations, although management presents a confident long-term investment and growth strategy."
+}

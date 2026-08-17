@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.75,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "cannot assure assumptions",
+    "material adverse impact",
+    "general uncertainty",
+    "projected future cash flows"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating results, including revenue declines, a net loss, segment margins, and customer concentration-related exposure. Risk tone is moderately negative because of declining revenue, losses, competitive and government-spending uncertainty, and potential impairment of legacy-product assets, although management presents ongoing growth initiatives and contract wins. The forward-looking disclaimer and valuation discussion rely substantially on broad contingencies and assumptions rather than quantified sensitivity analysis."
+}

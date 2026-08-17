@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected low single-digit decline",
+    "future expectations and assumptions",
+    "could have a material adverse effect",
+    "significant judgment is required",
+    "unanticipated market or macroeconomic events"
+  ],
+  "risk_summary": "The disclosure is largely precise and quantitative, with detailed revenue, margin, expense, debt, tax, and segment information. Risk tone is mildly positive overall, but it identifies restructuring, brand and international performance pressures, tax exposure from foreign earnings, and valuation uncertainty. Some standard forward-looking and accounting-estimate language limits certainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "probable and reasonably estimated",
+    "significant management judgment",
+    "actual amounts could differ",
+    "anticipated negotiation results",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed but relies heavily on estimates for contract profitability, claims recoveries, goodwill valuation, and impairment testing. These judgments create meaningful earnings and balance-sheet volatility, particularly for complex projects and unresolved claims. The overall tone is neutral with modestly adverse risk implications rather than crisis-like."
+}

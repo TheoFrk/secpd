@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP measures",
+    "strategically pursue acquisitions",
+    "as opportunities arise and market conditions allow",
+    "historical results not indicative of future operations"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, but contains substantial standard forward-looking and non-GAAP qualification language. Performance was mixed, with a net loss and sharply lower operating income offset by modest CFFO and same-store NOI growth. Management maintains a cautiously positive outlook, supported by fixed-rate non-recourse debt and stated balance-sheet flexibility."
+}

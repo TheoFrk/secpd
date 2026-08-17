@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "subject to customary closing conditions",
+    "estimates could be significantly different",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt presents a generally favorable outlook and quantified 2025 targets, but relies heavily on standard forward-looking disclaimers and broad macroeconomic assumptions. Key risks include acquisition funding and execution, regulatory approvals, customer payment and cancellation behavior, inventory estimates, and potentially material differences between reserves and actual outcomes."
+}

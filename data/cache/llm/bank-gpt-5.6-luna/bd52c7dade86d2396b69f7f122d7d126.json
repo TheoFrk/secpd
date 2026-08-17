@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.25,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to significant fluctuations",
+    "may continue to do so in the future",
+    "customer forecasts subject to scheduling changes",
+    "uncertainty of output",
+    "sufficient for the foreseeable future"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, with clear reporting of revenue, margins, backlog, cash flow, capital expenditures, and liquidity. It identifies meaningful risks from customer concentration, manufacturing constraints, supply-chain disruption, demand volatility, and a substantial backlog reduction, but presents liquidity and operating performance in a generally confident tone. Some forward-looking assurances and broad qualification language limit precision regarding the timing and magnitude of potential adverse effects."
+}

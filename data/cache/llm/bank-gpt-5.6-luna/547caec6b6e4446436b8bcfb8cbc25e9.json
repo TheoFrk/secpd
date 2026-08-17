@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "risks and uncertainties",
+    "expected benefits may not be realized",
+    "pending final adoption"
+  ],
+  "risk_summary": "The excerpt is heavily standardized and precautionary, relying on broad forward-looking language and extensive risk-factor lists rather than quantifying most potential impacts. It identifies meaningful exposures including regulatory change, interest-rate and liquidity risk, acquisition integration, cost synergies, litigation, and client asset or deposit migration. The tone is neutral to mildly cautious rather than crisis-like, with some concrete dates and quantified impact supporting disclosure credibility."
+}

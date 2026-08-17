@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "should position the business",
+    "expected to improve",
+    "excluding charges",
+    "non-GAAP measure",
+    "slightly beyond its targeted range"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights declining margins, earnings, Canadian restructuring, and leverage above the stated target range. Management presents a constructive outlook based on cost actions, growth initiatives, and reduced share repurchases, though several conclusions rely on forecasts and adjusted non-GAAP metrics."
+}

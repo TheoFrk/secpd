@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "precise timing ... uncertain",
+    "logistical variables",
+    "we believe",
+    "may encounter ... pressures",
+    "forward-looking statements disclaimer"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but reports declining sales, margins, operating income, cash and working capital. The outlook depends on uncertain government order timing, public-sector budgets, demand recovery and manufacturing efficiencies, with extensive standard forward-looking-statement caveats."
+}

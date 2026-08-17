@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant portion of purchases",
+    "for the foreseeable future",
+    "cyclical trends and demand fluctuations",
+    "downward revisions to forecasted demand",
+    "no pre-determined timeline to scrap"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights material customer concentration, semiconductor cyclicality, sharply lower mobile-device test demand, and significant inventory reserves. Acquisition-related contingent consideration and the absence of a defined timeline for scrapping remaining inventory add uncertainty. Overall tone is balanced but modestly risk-negative."
+}

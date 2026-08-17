@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could lead to",
+    "potentially reducing",
+    "primarily due to",
+    "for further details, refer to",
+    "including where applicable"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, including cost changes, debt terms, lease commitments, and available revolver capacity. Risk factors include inflation, labor and supply-chain pressures, lower traffic, variable-rate debt exposure, and substantial operating lease obligations, but the tone remains factual rather than crisis-like. The excerpt is lengthy and contains substantial standard MD&A boilerplate, with some causal explanations relying on broad qualifiers."
+}

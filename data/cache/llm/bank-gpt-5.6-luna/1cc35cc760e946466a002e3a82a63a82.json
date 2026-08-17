@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "amounts excluded from contractual obligations",
+    "actual results may vary materially",
+    "substantial portion of purchase price",
+    "non-GAAP financial measure",
+    "industry-leading customer experience"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, highlighting strong earnings, liquidity, debt reduction, and revenue growth. Key risks include fuel-price volatility, substantial aircraft and infrastructure commitments, and uncertainty in estimated contractual cash obligations. The overall tone is cautiously positive but relies on projections and exclusions that could understate future cash requirements."
+}

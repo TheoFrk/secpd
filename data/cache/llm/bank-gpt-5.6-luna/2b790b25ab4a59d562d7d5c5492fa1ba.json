@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "estimates subject to judgment",
+    "complex cost-to-cost revenue recognition",
+    "potential revenue overstatement or understatement",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative liquidity and revenue-recognition information, but relies heavily on standard caveats and judgment-based estimates. Contract-cost, milestone, collectability, and deferred-tax assumptions could create earnings volatility or later adjustments. The overall tone is cautious and neutral rather than crisis-like."
+}

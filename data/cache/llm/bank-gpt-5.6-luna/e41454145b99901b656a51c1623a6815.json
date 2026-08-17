@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "not exclusive or the types of risks",
+    "may differ materially",
+    "including but not limited to",
+    "no duty to update"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by broad, boilerplate forward-looking disclaimers and an extensive catalog of contingent risks, with limited company-specific quantification in the provided portion. Risk tone is cautious and moderately negative, highlighting macroeconomic, regulatory, cyber, credit, liquidity, and pandemic-related uncertainties. Some concrete metrics are disclosed, but the excerpt is lengthy, repetitive, and partly truncated, limiting assessment of underlying performance."
+}

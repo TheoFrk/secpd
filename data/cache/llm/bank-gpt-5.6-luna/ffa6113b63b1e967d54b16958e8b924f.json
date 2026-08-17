@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and significant risks",
+    "could differ materially",
+    "expected to",
+    "meaningful earnings growth",
+    "non-GAAP adjusted measures"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and heavily quantified, reporting earnings, cash flow, capital allocation, segment drivers, and 2023 guidance. Risk exposure is evident from inflation, lower demand, supply-chain costs, outages, customer destocking, and sensitivity of operating cash flow to pricing and demand, although management maintains a moderately confident tone. Boilerplate forward-looking language and reliance on adjusted non-GAAP metrics modestly limit clarity."
+}

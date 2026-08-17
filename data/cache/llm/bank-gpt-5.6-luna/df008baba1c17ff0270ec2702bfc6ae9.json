@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unprecedented increases",
+    "anticipated to continue",
+    "may not be able to increase prices",
+    "once financial conditions improve",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, identifying margin compression, supply-chain disruption, inventory buildup, customer demand weakness, international losses, and increased borrowing. Risk tone is materially negative, with explicit concerns about inflation, pricing lag, elevated inventory costs, tariffs, consumer sentiment, and working-capital pressure, although management describes mitigation actions and future plans. The excerpt is lengthy and includes some boilerplate accounting language, while its truncation limits assessment of the full outlook."
+}

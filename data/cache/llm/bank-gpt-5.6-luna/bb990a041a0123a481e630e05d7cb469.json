@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "sufficient cash to cover requirements",
+    "cannot be predicted with any certainty",
+    "significant fluctuation",
+    "for the foreseeable future",
+    "timing of asset liquidation transactions"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but indicates weakening liquidity, including a working-capital deficit, declining cash, operating cash burn, increased third-party debt, and a net loss. Reliance on asset liquidation activity and illiquid portfolio investments creates execution and cash-flow uncertainty, while management’s assertion that operations will generate sufficient cash is not supported by a detailed forecast."
+}

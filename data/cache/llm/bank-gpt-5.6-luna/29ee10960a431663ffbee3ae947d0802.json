@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.2,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "highly uncertain estimates",
+    "may have a material impact",
+    "virtually all devices",
+    "best estimates of future demand"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and accounting-policy boilerplate, with substantial reliance on estimates for revenue adjustments, credit losses, inventory valuation, impairment, and taxes. It provides some useful quantitative detail on capital expenditures, share repurchases, and financing cash flows, but the excerpt is truncated and lacks sufficient sensitivity analysis or forward-looking risk quantification. Tone is moderately positive regarding product demand and investment, tempered by recurring uncertainty disclaimers and increased reliance on borrowings."
+}

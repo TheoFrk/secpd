@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may incur in excess of $5.0 million",
+    "believe sources of funds will be sufficient",
+    "if unable to generate sufficient cash flow",
+    "alternative strategies may not be available"
+  ],
+  "risk_summary": "The excerpt provides useful quantified disclosures on development costs, tax attributes, lease obligations, and anticipated capital requirements, but relies heavily on standard forward-looking disclaimers and management assertions. Liquidity appears dependent on future operating cash flow and potential debt or equity financing, with explicit downside scenarios including asset sales or delayed expansion."
+}

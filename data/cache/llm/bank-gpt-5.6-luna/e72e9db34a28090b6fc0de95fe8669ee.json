@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "various economic scenarios",
+    "potential recession",
+    "supplemental disclosure items",
+    "narrowing credit appetite"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, with detailed interest-rate, deposit, loan-growth, and macroeconomic assumptions. Risk tone is cautiously constructive but acknowledges meaningful exposure to funding-cost pressure, slowing loan demand, regulatory scrutiny, credit tightening, and recession or geopolitical risks. Extensive non-GAAP measures and scenario-based forecasts add interpretive complexity but are accompanied by definitions and reconciliation references."
+}

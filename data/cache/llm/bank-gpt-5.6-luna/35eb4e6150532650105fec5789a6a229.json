@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "no assurance of raising capital",
+    "continued improved cash flows",
+    "timing of ordinary business operating activities",
+    "inherently uncertain estimates"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, liquidity, cash flow, and impairment information, but relies on forward-looking assumptions regarding improved cash flows and funding through August 2021. Key risks include a net loss, accumulated deficit, limited working capital, dependence on future capital access, and goodwill impairment in the POS business. Overall tone is cautiously constructive on revenue growth but materially qualified on liquidity and financing uncertainty."
+}

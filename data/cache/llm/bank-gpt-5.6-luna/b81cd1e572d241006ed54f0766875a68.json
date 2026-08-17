@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and significant risks",
+    "many factors beyond our control",
+    "we do not undertake to update",
+    "strategies that we believe provide the best return",
+    "opportunities will continue to be evaluated"
+  ],
+  "risk_summary": "The excerpt presents improved 2017 performance with quantified loan growth, margin expansion, expense reductions, and market-share data, producing a moderately positive tone. Disclosure is substantially diluted by extensive forward-looking and safe-harbor language, aspirational strategy statements, and broad non-exhaustive risk disclaimers. The malformed rate/volume table and very long, nested prose reduce readability despite generally strong numerical detail."
+}

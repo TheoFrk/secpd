@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "\"broadly apparent\" economic struggle",
+    "\"necessary insurance policy\"",
+    "\"strong and disciplined community bank\"",
+    "\"helping borrowers help themselves\"",
+    "promotional stock-price framing"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on earnings, loan growth, provisions, and non-performing assets, but frequently offsets adverse trends with promotional and reassuring language. Rising non-performing assets, weaker earnings, prolonged economic weakness, and low interest rates indicate meaningful credit and profitability pressure despite management’s confident tone."
+}

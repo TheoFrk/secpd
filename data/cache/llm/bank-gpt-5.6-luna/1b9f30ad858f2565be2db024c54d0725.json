@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "non-GAAP performance measures",
+    "substantial payback over time",
+    "secular decline in checks",
+    "sufficient for the next 12 months"
+  ],
+  "risk_summary": "The disclosure is materially quantified but includes substantial boilerplate regarding forward-looking statements and reliance on adjusted non-GAAP metrics. Risk tone is moderately negative, driven by large impairment charges, a shift from profit to loss, secular volume declines, pricing pressure, and lower 2020 adjusted EBITDA and EPS guidance. Management remains confident in its transformation strategy and near-term liquidity, though expected returns are described broadly and depend on execution and cost savings."
+}

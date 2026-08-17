@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various factors including, but not limited to",
+    "currency fluctuations",
+    "normal operations",
+    "no material impact",
+    "currently evaluating the impact"
+  ],
+  "risk_summary": "The excerpt provides quantified financial results but offers limited causal detail, frequently attributing changes to currency fluctuations or normal operations. Declining cash and working capital, recurring net losses, and reliance on borrowings and debt repayment indicate elevated financial risk. Extensive accounting-policy and standards boilerplate reduces the clarity of the company-specific risk discussion."
+}

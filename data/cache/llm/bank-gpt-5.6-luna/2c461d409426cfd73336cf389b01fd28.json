@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "underlying change",
+    "estimated net reduction",
+    "current expectations",
+    "sustainable appeal"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by volume and sales data, but emphasizes adjusted and underlying measures that may obscure GAAP performance. Foreign exchange, distributor inventory reductions, geographic weakness, and reliance on key brands are identified risks, while the outlook remains optimistic and partly expectation-based."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe we can fund",
+    "we expect to be able to finance",
+    "nature of our operations",
+    "borrower became unable to make payments",
+    "whether we will realize any return is uncertain"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed on liquidity, cash flows, debt, and capital resources, but relies on forward-looking assurances regarding funding sufficiency. Credit risk is materially elevated because the largest borrower is in default, remittances have missed required payments since June 2024, affected loans are on nonaccrual status, and no 2025 return is expected from those loans."
+}

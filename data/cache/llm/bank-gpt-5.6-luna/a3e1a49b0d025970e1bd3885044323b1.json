@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.47,
+  "risk_sentiment": 0.54,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "foreseeable future",
+    "potential weakening",
+    "underlying transactions being hedged"
+  ],
+  "risk_summary": "The excerpt is predominantly positive and quantitatively detailed, reporting record sales, expanding margins, and strong segment earnings. Key risks include China growth deceleration, construction weakness, raw-material and currency volatility, pricing execution, ERP implementation, competitive pressure, and acquisition execution. The extensive forward-looking disclaimer is conventional but limits reliance on stated growth expectations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.88,
+  "obfuscation_indicators": [
+    "inherently uncertain assumptions",
+    "could be required to recognize a material impairment charge",
+    "unless otherwise noted",
+    "principally using proceeds from revolving credit facility",
+    "truncated and disjointed extraction"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with a mildly confident tone reflecting revenue and earnings growth. Key risks include acquisition-driven financing needs, reliance on revolving credit borrowings, fair-value and impairment judgments, and contract cost-estimation uncertainty. The text is highly complex and partially difficult to interpret because of dense technical descriptions and a truncated, malformed passage."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "future events are inherently difficult to predict",
+    "could change significantly",
+    "wide variety of factors and inputs",
+    "reasonable and supportable forecasts",
+    "non-GAAP measures may not be comparable"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantitative credit-loss, unemployment, and interest-income data, but relies on extensive modeling assumptions and standard uncertainty disclaimers. Credit risk is sensitive to economic forecasts, portfolio composition, collateral values, and borrower deterioration, while net interest income and margins declined year over year."
+}

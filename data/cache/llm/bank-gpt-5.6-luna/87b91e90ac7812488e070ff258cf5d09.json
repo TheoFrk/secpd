@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "remains uncertain",
+    "cannot be reasonably predicted",
+    "undeterminable period",
+    "may adversely impact",
+    "could worsen"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative detail on geographic exposure, seasonality, sales channels, and currency risk. However, it highlights substantial COVID-19 uncertainty, potential ongoing sales and productivity impacts, supply concentration for Swiss movements, and sensitivity to foreign exchange and discretionary consumer demand."
+}

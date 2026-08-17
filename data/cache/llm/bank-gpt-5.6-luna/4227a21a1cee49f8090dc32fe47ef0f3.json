@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "one-time non-recurring transactions",
+    "strong capital position",
+    "full potential",
+    "other relevant factors",
+    "actual results could materially differ"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed acquisition, earnings, capital, loan, and deposit metrics, but emphasizes adjusted core earnings over GAAP results and relies on broad qualitative language around synergies and estimates. Key risks include acquisition integration, HPFC closure and runoff, allowance-for-loan-loss assumptions, impairment judgments, and interest-rate exposure; overall tone is cautiously positive despite lower reported net income and diluted EPS."
+}

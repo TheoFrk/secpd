@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to",
+    "we believe",
+    "as needed",
+    "not included herein",
+    "subject to completion"
+  ],
+  "risk_summary": "The excerpt presents a predominantly confident and positive risk tone, emphasizing contracted capacity, stable long-term cash flows, debt reduction, and improving credit ratings. Disclosure is highly detailed and quantitatively specific, although it relies on forward-looking language and directs readers elsewhere for certain historical variance analysis. Dense LNG, financing, and contractual terminology materially increases readability complexity."
+}

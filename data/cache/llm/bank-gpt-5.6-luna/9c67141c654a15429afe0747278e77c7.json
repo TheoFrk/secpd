@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we expect to mitigate",
+    "anticipated benefits",
+    "reasonable estimates and assumptions",
+    "could materially impact",
+    "whenever events or changes in circumstances indicate"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantitative detail on sales, margins, segment performance, acquisition effects, and restructuring costs. Risk is moderate: operating margin declined, Engineered Solutions faces softer demand, inflation and tariffs remain pressures, and goodwill/intangible valuations rely on significant assumptions, although management presents a cautiously optimistic mitigation narrative."
+}

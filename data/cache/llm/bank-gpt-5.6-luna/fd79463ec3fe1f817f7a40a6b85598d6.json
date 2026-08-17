@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "post-hoc analysis",
+    "subject to risks and uncertainties",
+    "unable to estimate completion costs",
+    "if ever and to what extent"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on trial results, liquidity, funding, and planned studies, but relies on post-hoc subgroup findings after the pivotal HEAT trial failed its primary endpoint. The company reports significant historical losses, ongoing negative operating cash flow, dependence on external financing, and uncertainty regarding development costs and future commercialization. Overall tone is cautiously promotional regarding ThermoDox while acknowledging material clinical, regulatory, and financing risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures and adjustments",
+    "no assurances can be given",
+    "opportunistically purchase",
+    "may change our approach and/or model at any time",
+    "losses may exceed such amounts"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but contains substantial uncertainty around Puerto Rico exposures, RMBS reserve estimates, subrogation recoveries, model assumptions, and potential loss severity. Risk is partially mitigated by reported portfolio reductions and active remediation, but the text acknowledges that losses could materially exceed current estimates."
+}

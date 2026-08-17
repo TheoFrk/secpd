@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "cannot be determined at this time",
+    "may be necessary to realign expenses",
+    "we believe",
+    "anticipated adoption may occur at a slower pace"
+  ],
+  "risk_summary": "The disclosure is materially quantified but contains substantial uncertainty around commercialization, order conversion, trial success, and adoption timing. Key risks include no commercial deployments to date, recurring technical and deployment issues, negative gross profit, delayed shipments, revenue volatility, and significant customer concentration."
+}

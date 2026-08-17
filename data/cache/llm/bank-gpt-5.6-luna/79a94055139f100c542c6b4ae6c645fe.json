@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurances can be given",
+    "subject to terms and conditions",
+    "amount ultimately owed is unclear",
+    "expects to",
+    "forward-looking statement disclaimer"
+  ],
+  "risk_summary": "The excerpt is heavily focused on forward-looking disclosures, strategic initiatives, alliances, and aircraft commitments, with substantial legal boilerplate and conditional language. Key uncertainties include regulatory approvals, alliance benefits, a potential JAL guarantee or investment, labor agreements, and future aircraft purchase obligations. The tone is strategically optimistic but materially qualified by execution and financial-risk contingencies."
+}

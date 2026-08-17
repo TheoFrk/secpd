@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "to the greatest extent possible",
+    "should have a high positive impact",
+    "various exceptions",
+    "tend to be fairly stable",
+    "must make assumptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding revenue growth, product contributions, margins, acquisitions, and amortization. Risk is moderate: profitability was pressured by product mix, manufacturing costs, acquisitions, and higher administrative expenses, while forward-looking margin improvements rely on successful integration and manufacturing consolidation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to predict ultimate impact",
+    "inherent uncertainty regarding duration and severity",
+    "could continue to affect",
+    "adjustments may be significant",
+    "including but not limited to"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes substantial quantitative information on investments, leases, revenue drivers, and liquidity. Risk tone is balanced but highlights material uncertainty around COVID-19, real estate activity, interest rates, claims reserves, and potentially significant reserve adjustments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "other factors and trends",
+    "reasonably could have used",
+    "actual results could differ",
+    "material estimates"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified disclosures, but relies heavily on standard accounting-policy language and management judgment regarding loan losses, valuations, tax positions, and expected cash flows. Credit and estimation risk is acknowledged, though the overall tone is routine and moderately confident rather than crisis-like."
+}

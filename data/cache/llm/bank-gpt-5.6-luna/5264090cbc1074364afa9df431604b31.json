@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "going concern qualification",
+    "no assurance of additional capital",
+    "prospects for funding, if any",
+    "plan to launch",
+    "great sales potential"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified on operating results, liquidity, liabilities, and cash flows, but contains material financing risk, including a going-concern qualification, recurring losses, negative operating cash flow, and dependence on additional capital. Management emphasizes improved revenue and reduced losses, while future growth initiatives and funding prospects remain uncertain."
+}

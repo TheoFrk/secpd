@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to many uncertainties",
+    "for the foreseeable future",
+    "cannot assure additional funding",
+    "may be significantly different",
+    "no certainty of a successful outcome"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on cash, financing, development spending, trial enrollment, and projected milestones. However, liquidity remains dependent on additional funding, while clinical, regulatory, manufacturing, and cost-overrun risks are material and outcomes are uncertain."
+}

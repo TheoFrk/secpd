@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance",
+    "to a certain extent",
+    "primarily due to",
+    "usual and customary covenants",
+    "not expected to have a material impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, covering sales concentration, operating cost pressures, declining operating cash flow, liquidity, covenants, and factoring exposure. Risk tone is mildly positive because the company reports no revolver balance, substantial availability, covenant compliance, and expected liquidity sufficiency, but customer concentration and cash-flow deterioration remain material credit risks."
+}

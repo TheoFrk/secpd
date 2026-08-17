@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.02,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted with confidence",
+    "among others",
+    "non-GAAP exclusions",
+    "impact of wind down",
+    "certain loss contingencies"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and generally transparent, including segment trends, unusual items, liquidity, and hedging transactions. Risk tone is mixed: profitability improved materially, but sales declined slightly and COVID-19 effects, customer credit deterioration, contingencies, and extensive non-GAAP adjustments remain important risks. The lengthy definitions and numerous adjustments may complicate comparability between GAAP and adjusted results."
+}

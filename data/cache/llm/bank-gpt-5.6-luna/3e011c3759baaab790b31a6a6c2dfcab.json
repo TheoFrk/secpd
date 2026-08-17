@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "in the event that conditions deteriorate",
+    "subjective critical estimate",
+    "forward-looking statements",
+    "risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified information on revenue concentration, reserves, taxes, seasonality, and earnings, but relies on standard boilerplate for macroeconomic and forward-looking risks. Risk is moderate, with notable customer concentration, fixed-cost operating leverage, subjective inventory and receivables estimates, executive dependence, and currency and financing exposure, partially offset by improved fiscal 2016 earnings."
+}

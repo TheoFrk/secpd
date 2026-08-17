@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ",
+    "management estimates and assumptions",
+    "no assurance positive signs will continue",
+    "subject to variability over time"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, including occupancy, receivables, allowances, bad-debt expense, and sensitivity information. Risk is moderate: tenant credit deterioration, bankruptcies, lease turnover, redevelopment execution, and economic conditions could reduce rent collections and property returns, while the tone remains cautiously confident."
+}

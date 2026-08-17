@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "risks and uncertainties",
+    "no obligation to update",
+    "similar expressions",
+    "risk factors reported from time to time"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and segment detail, including revenue growth and reduced losses, but is preceded by extensive standard forward-looking-statement disclaimers. Key risks include soft EECP demand, reimbursement and clinical-acceptance uncertainty, regulatory and supplier issues, and dependence on GE-related commission revenue."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.89,
+  "obfuscation_indicators": [
+    "subject to a number of risks and uncertainties",
+    "Actual results may vary",
+    "a number of factors",
+    "could impact the entire",
+    "depending on local customs and regulations"
+  ],
+  "risk_summary": "The excerpt provides meaningful business descriptions and several quantified premium and revenue trends, but relies heavily on broad macroeconomic, regulatory, and operational risk factors without fully quantifying their potential financial impact. Risk tone is generally neutral to mildly constructive, citing economic recovery and growth drivers while acknowledging operating leverage, interest-rate, investment, and housing-market sensitivity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily",
+    "partially offset",
+    "certain foreign earnings",
+    "more likely than not",
+    "qualitative assessment"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear year-over-year revenue, margin, expense, tax, and debt-related figures. Risk factors include declining revenue and profitability in some segments, foreign-exchange exposure, restructuring and impairment costs, and potential U.S. tax liability upon repatriation of foreign earnings. The tone is largely neutral and explanatory rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"including, but not limited to\"",
+    "\"trending upwards\"",
+    "\"a number of steps\"",
+    "incomplete CARES Act benefit disclosure",
+    "dense accounting-standard cross-references"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data, including clinic counts, patient volumes, workforce actions, and ownership percentages, but the COVID-19 discussion signals ongoing revenue and volume pressure with potential downside if restrictions return. Disclosure is technically dense and partly boilerplate, and the truncated CARES Act and accounting-policy sections limit assessment of benefits, estimates, and related risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "not indicative of ongoing costs",
+    "subject to future post-closing adjustments",
+    "projected guidance ranges",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt is highly quantified and transparent about the 2023 loss, substantial offshore wind impairments, reduced cash balances, significant debt issuance, and ongoing capital requirements. However, extensive non-GAAP framing emphasizes adjusted performance, while major transaction exposures and future cost-sharing obligations remain subject to uncertain adjustments and execution outcomes."
+}

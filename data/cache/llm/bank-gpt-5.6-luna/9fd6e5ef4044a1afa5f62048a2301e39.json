@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "cannot presently predict",
+    "uncertainty as to future profitability",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure includes quantified revenue, investment, and order data, but is dominated by broad forward-looking disclaimers and generalized uncertainty language. Risk tone is negative, reflecting sharp revenue declines, materially weaker Q1 2020 orders, COVID-19 disruptions, ongoing losses, and dependence on new orders and the materials business for a return to profitability."
+}

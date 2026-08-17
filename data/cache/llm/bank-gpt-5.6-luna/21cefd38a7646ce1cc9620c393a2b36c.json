@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "forward-looking statements",
+    "we believe",
+    "actual results may differ",
+    "significant judgment"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, emphasizing recurring revenue, customer commitments, profitability, and positive cash flow. Key risks include customer spending sensitivity, acquisitions, economic instability, accounting estimates, and reliance on management judgments, though these are framed in a largely confident tone."
+}

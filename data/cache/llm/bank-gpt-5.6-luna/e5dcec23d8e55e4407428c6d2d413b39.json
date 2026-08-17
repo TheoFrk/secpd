@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "inherently uncertain forward-looking statements",
+    "significant management assumptions",
+    "strong reputation and market leadership",
+    "may resume performing",
+    "estimated losses and customer creditworthiness"
+  ],
+  "risk_summary": "The excerpt provides substantial transaction and debt quantification, but relies on optimistic strategic claims and unquantified assumptions regarding growth, competitiveness, goodwill valuations, and customer collectability. Key risks include acquisition-related leverage, sensitivity of impairment conclusions to discount rates and forecasts, and potential receivables losses if customer financial conditions deteriorate."
+}

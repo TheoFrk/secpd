@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.73,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "we believe",
+    "could differ from these estimates",
+    "not predictable nor estimable",
+    "text truncation and missing disclosure"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail, including customer concentration, revenue growth, legal expenses, cash balances, and expected contract benefits. Key risks include dependence on a dominant customer, exposure to changing demand and international markets, patent enforcement costs, product-return uncertainty, and reliance on management estimates. The overall tone is cautiously positive, supported by liquidity and a new long-term customer agreement, but several forward-looking statements remain conditional."
+}

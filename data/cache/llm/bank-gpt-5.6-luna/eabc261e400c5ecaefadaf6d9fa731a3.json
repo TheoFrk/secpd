@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.22,
+  "risk_sentiment": 0.0,
+  "confidence": 0.99,
+  "obfuscation_indicators": [
+    "section heading only",
+    "no substantive disclosure",
+    "table markers without content"
+  ],
+  "risk_summary": "The excerpt contains only an MD&A heading and table delimiters, with no financial results, liquidity discussion, risk factors, or quantified information. Credit risk and disclosure quality cannot be meaningfully assessed from this text alone."
+}

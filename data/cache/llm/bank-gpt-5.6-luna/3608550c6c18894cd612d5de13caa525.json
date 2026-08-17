@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial uncertainty",
+    "may continue to experience",
+    "aim to offset",
+    "long-term growth and create value",
+    "non-GAAP performance measures"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales drivers, costs, acquisitions, pension impacts, and tax effects, supporting relatively transparent disclosure. However, it includes extensive boilerplate forward-looking disclaimers and optimistic strategic language while leaving the magnitude and duration of supply-chain, labor, commodity, and pandemic risks only partly quantified."
+}

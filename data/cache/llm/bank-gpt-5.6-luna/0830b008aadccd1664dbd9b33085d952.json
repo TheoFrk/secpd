@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot be predicted",
+    "among others",
+    "may for some time continue",
+    "ultimate potential impact is not known",
+    "qualified in its entirety"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative detail on deferred loans, high-risk exposures, PPP activity, expenses, employment, and loan growth. However, extensive forward-looking disclaimers and uncertainty language limit visibility into the ultimate COVID-19, credit-quality, and operating impacts. The tone is broadly controlled and mildly negative, reflecting pandemic risks and strategic closures rather than an acute crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.78,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurances to raise funds",
+    "going-concern uncertainty",
+    "working capital deficit",
+    "convertible debentures and warrants",
+    "management judgment estimates"
+  ],
+  "risk_summary": "The company presents severe liquidity and solvency risks, including only $855,000 in cash, a $28.9 million working capital deficit, a $113.0 million accumulated deficit, and substantial reliance on additional financing. Heavy use of convertible debt, warrants, and derivative-liability accounting creates dilution and earnings-volatility risk. Although management states cash is sufficient for 12 months, this is inconsistent with its stated need to raise capital and explicit warning that operations may not continue."
+}

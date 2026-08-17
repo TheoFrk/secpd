@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.56,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "excludes investment gains and losses",
+    "managed for the long run",
+    "highly discretionary realization",
+    "significant qualitative modifiers",
+    "cycle-based performance framing"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified operating performance and emphasizes underwriting discipline, capital quality, and liquidity. However, repeated long-term framing and exclusion of investment gains and losses from management metrics may reduce comparability with GAAP results and downplay short-term market or balance-sheet volatility."
+}

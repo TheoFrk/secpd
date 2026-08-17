@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "subject to risks",
+    "outside of our control",
+    "near-term risks are to the downside",
+    "for additional detail, see elsewhere"
+  ],
+  "risk_summary": "The excerpt presents a generally strong and confident operating profile, supported by quantified earnings, loan, deposit, margin, capital, and securities metrics. However, strategic goals and outlook language is often broad or boilerplate, with key expected results omitted and extensive cross-references to other sections. Downside risks include economic softening, trade tensions, geopolitical concerns, rate declines, regulatory capital constraints, and the emerging coronavirus threat."
+}

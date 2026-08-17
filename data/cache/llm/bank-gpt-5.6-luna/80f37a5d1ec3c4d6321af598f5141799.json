@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual sales may materially differ",
+    "could be adversely impacted",
+    "challenging automotive retail market",
+    "plateauing sales environment",
+    "brand extension strategy"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but includes standard boilerplate and forward-looking hedging around industry sales, incentives, interest rates, and restructuring. Risk tone is mildly negative because earnings declined, new vehicle gross profit fell, expenses rose, and market conditions are challenging, although diversified operations and concrete performance data provide a balanced presentation."
+}

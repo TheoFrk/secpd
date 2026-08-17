@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "ongoing bankruptcy process",
+    "series of forbearance agreements",
+    "anticipated borrowing base",
+    "customary operational and financial covenants",
+    "qualified in their entirety"
+  ],
+  "risk_summary": "The disclosure is highly quantitative but reflects severe financial distress, including bankruptcy, immediate debt acceleration, reliance on DIP financing, and repeated maturity extensions. Future liquidity depends on closing a restructuring transaction, new secured borrowings, asset distributions, and potentially significant capital contributions, with substantial execution and covenant risk."
+}

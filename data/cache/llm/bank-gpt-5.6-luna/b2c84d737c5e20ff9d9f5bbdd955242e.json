@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "may differ materially",
+    "does not undertake obligation to update",
+    "inherently subject to risks"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, expenses, margins, losses, acquisitions, and operating scale, but is preceded and interspersed with extensive standard forward-looking disclaimers. Operating performance appears mixed: the net loss narrowed materially, while revenue was nearly flat, subscription revenue and site counts declined, gross margin compressed, and the company is undertaking a major platform transition."
+}

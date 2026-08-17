@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "uncertain and unpredictable market conditions",
+    "could result in decreased sales and profitability",
+    "expect to renew with favorable terms",
+    "not expected to have a material effect",
+    "repeated cost-of-sales descriptions"
+  ],
+  "risk_summary": "The disclosure identifies cyclical construction exposure, macroeconomic sensitivity, volatile input prices, and potential effects on sales and profitability, but provides substantial quantitative detail on liquidity, commodities, covenants, and credit availability. Liquidity appears strong, with no revolver borrowings, ample covenant headroom, and significant cash and investments; however, the excerpt contains repeated boilerplate and some omitted or incomplete tables that limit analytical precision."
+}

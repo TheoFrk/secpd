@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "expects an improvement",
+    "currently assessing the impact",
+    "various factors and other risks",
+    "insufficient sales volumes"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, but includes extensive boilerplate disclaimers and noncommittal projections regarding recovery and accounting impacts. Credit risk is elevated by recurring net losses, sharply negative operating cash flow, increased borrowing secured by receivables and inventory, and a growing loss from the Hong Kong Joint Venture."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no proven and probable reserves",
+    "all activities exploratory",
+    "assume no obligation to update",
+    "see Item 1 references"
+  ],
+  "risk_summary": "The disclosure is heavily boilerplate and cross-referential, with extensive forward-looking disclaimers and limited direct discussion of operating or financial performance in the excerpt. Material project risk is evident because all properties remain exploratory and lack proven and probable reserves, while funding depends partly on equity issuance. Quantified transaction and financing details improve specificity, but the overall tone reflects substantial development and execution uncertainty."
+}

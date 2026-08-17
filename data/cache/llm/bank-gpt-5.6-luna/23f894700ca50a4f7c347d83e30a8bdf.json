@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors including but not limited to",
+    "market conditions and perceived riskiness",
+    "timing remains debatable",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on returns, hedging, taxable income, leverage, haircuts, and market conditions, but relies on forecasts, scenarios, and broad qualifying language for the outlook. Key risks include interest-rate volatility, spread movements, liquidity and margin-call exposure, counterparty failure, geopolitical unrest, and uncertain economic growth. Management’s tone is measured and control-oriented rather than crisis-like, although the business remains materially exposed to financing and market risks."
+}

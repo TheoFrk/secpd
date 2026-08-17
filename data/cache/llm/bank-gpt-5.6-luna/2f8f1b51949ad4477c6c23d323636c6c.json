@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "terms acceptable to us",
+    "when and if offered",
+    "estimated future operating cash flows",
+    "if events should occur"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, documenting portfolio metrics, debt levels, liquidity capacity, funding sources, and operating results. Risk is framed constructively, but reliance on capital markets, refinancing access, valuation assumptions, and potential impairment introduces material contingencies."
+}

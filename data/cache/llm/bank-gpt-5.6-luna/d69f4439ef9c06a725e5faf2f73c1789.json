@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.66,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "other non-core items",
+    "certain uncommon transaction-related costs",
+    "expected to offset",
+    "actual results may differ"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear reconciliations, but emphasizes adjusted performance measures and excludes various costs from key metrics. Risks include foreign-exchange headwinds, uncertain economic conditions, end-market weakness, pension funding uncertainty, and reliance on continued market-share gains and cost savings. Overall tone is strongly confident despite these exposures."
+}

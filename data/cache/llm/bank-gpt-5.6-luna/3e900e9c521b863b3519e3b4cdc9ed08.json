@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant estimates and assumptions",
+    "more likely than not",
+    "best estimated selling price",
+    "future performance obligations",
+    "qualitative assessment"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively grounded, but contains extensive accounting-policy contingencies and judgment-based valuation assumptions. Revenue declined materially and continuing operations reported losses, while restructuring, impairment, demand substitution, and profitability risks remain evident. Management uses moderately constructive language regarding investment and cost reduction, but the overall risk tone is negative to cautious."
+}

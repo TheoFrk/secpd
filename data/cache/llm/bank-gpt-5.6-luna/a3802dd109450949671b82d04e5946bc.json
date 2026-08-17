@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "hopeful that sales will increase",
+    "confident that new products will be released soon",
+    "when the opportunity arises",
+    "subjective estimates and approximations",
+    "actual results could differ"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear year-over-year liquidity, operating, investment, and earnings data. Risk is moderate: sales, operating income, net income, and investment income declined, while results remain materially supported by marketable securities rather than operations. Management uses optimistic forward-looking language regarding housing demand and new products, but provides limited concrete forecasts or milestones."
+}

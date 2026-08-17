@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "broad array of engineered components",
+    "as circumstances require",
+    "we believe there are significant opportunities",
+    "expect commodity prices to be generally stable",
+    "potential for interest rate reductions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but includes substantial industry-background and segment-description boilerplate. Key risks include sharp declines in RV wholesale shipments and retail demand, inflation, higher interest rates, dealer inventory financing costs, and judgment-sensitive acquisition valuations. Management presents diversification and possible future rate reductions as mitigating factors, but some outlook statements remain conditional."
+}

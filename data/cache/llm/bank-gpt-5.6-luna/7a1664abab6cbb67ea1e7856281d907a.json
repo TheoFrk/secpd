@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective assessments",
+    "actual results may differ",
+    "reasonable range of current market rates",
+    "unobservable rates",
+    "primarily based upon estimated"
+  ],
+  "risk_summary": "The excerpt is technically detailed but heavily reliant on management judgment, projections, and unobservable valuation inputs, creating meaningful impairment and collectability uncertainty. Liquidity appears comparatively strong through operating cash flow, capital-market access, a $2.0 billion revolving facility, and substantial ACI holdings, although contractual lock-up provisions and COVID-19 tenant impacts remain relevant risks."
+}

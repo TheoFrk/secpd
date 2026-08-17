@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "principally",
+    "primarily",
+    "to a lesser extent",
+    "not necessarily",
+    "no material effect"
+  ],
+  "risk_summary": "The excerpt is predominantly descriptive and provides several quantified operating changes, but relies on broad qualifiers and extensive business descriptions. Risk tone is mildly negative due to higher commodity and manufacturing costs, unfavorable arbitration losses, impairments, restructuring charges, and earnings declines, although the disclosures are generally specific rather than evasive."
+}

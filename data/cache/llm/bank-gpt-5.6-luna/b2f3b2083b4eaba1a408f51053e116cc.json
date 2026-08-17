@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive disclosure",
+    "cross-reference to annual report",
+    "boilerplate legal language"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and instead defers entirely to another document. This limits transparency within the filing section and prevents assessment of current operating or liquidity risks from the excerpt alone."
+}

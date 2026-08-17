@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.86,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to sufficient funding",
+    "unable to accurately quantify",
+    "upon successful capital raise",
+    "continued viability in jeopardy"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk: the company has no revenue, only $517 in cash, ongoing monthly cash burn, substantial past-due and related-party obligations, and no adequate financing or assets. Business execution and repayment of liabilities are heavily dependent on an uncertain capital raise and continued insider support, while the cautionary language is extensive and limits reliance on projections."
+}

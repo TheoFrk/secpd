@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "subjective and/or complex judgments",
+    "reasonable and supportable forecasts",
+    "cannot provide assurance"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on loan-loss allowances, delinquencies, non-accruals, non-performing assets, PCI loans, and securities impairments. Risk remains elevated from material reliance on subjective credit estimates, collateral valuations, economic forecasts, and a large acquired PCI portfolio, although reported asset-quality metrics are generally modest and management expresses optimism."
+}

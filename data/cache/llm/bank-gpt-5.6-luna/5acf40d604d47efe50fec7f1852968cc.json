@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "what the Company believes",
+    "better than expected",
+    "primarily reflecting",
+    "discussed in more detail",
+    "favorable prior year reserve development"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with detailed discussion of earnings, catastrophe losses, reserves, investments, leverage, and liquidity. Risk tone is cautiously positive, but results rely materially on favorable reserve development, share repurchases, and improved investment conditions, while catastrophe exposure and declining reinvestment yields remain notable risks."
+}

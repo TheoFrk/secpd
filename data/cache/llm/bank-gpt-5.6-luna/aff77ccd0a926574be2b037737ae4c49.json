@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.25,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "non-GAAP adjustments",
+    "one-time transition costs",
+    "macro-economic risk boilerplate",
+    "full valuation allowance"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail, but emphasizes non-GAAP measures, transition-cost exclusions, and broad forward-looking risk disclaimers. Persistent net losses, a $51.3 million deferred-tax valuation allowance, discontinued operations, and dependence on discretionary consumer spending indicate elevated operating and financial risk despite improved comparable sales and EBITDA."
+}

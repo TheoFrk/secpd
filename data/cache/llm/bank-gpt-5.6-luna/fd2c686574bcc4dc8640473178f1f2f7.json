@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantial majority of our revenue",
+    "actively evaluate additional investment",
+    "anticipate will require continued expansion",
+    "other smaller markets",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, but highlights material concentration in the U.S. Wireless segment, dependence on wholesale roaming, competitive pressure, and required network investment. Profitability declined materially in 2011, although the disclosure provides clear explanations including the prior-year one-time bargain purchase gain. The long, transaction-heavy presentation increases readability risk but does not appear materially evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"believed to be reasonable\"",
+    "\"actual results could differ\"",
+    "\"future events rarely develop exactly as forecasted\"",
+    "Extensive product and market descriptions",
+    "Truncated disclosure context"
+  ],
+  "risk_summary": "The excerpt is generally informative and includes quantified sales, margins, inventory provisions, and acquisition consideration, but contains substantial boilerplate and promotional business descriptions. Operating performance is mixed, with consolidated growth driven by Healthcare while PMT and Canvys declined, and Canvys faced customer disruption and currency pressure. Critical accounting disclosures appropriately acknowledge estimation uncertainty but provide limited sensitivity analysis in the excerpt."
+}

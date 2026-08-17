@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "expect production levels to remain strong",
+    "we believe",
+    "anticipated return to service",
+    "minimal-growth regime",
+    "comparison may not be particularly meaningful"
+  ],
+  "risk_summary": "The excerpt presents a generally constructive outlook supported by quantified acquisition, financing, tax, and market information. Risk disclosures include Boeing 737 MAX grounding impacts, defense-program variability, uncertain budget effects, and acquisition-related comparability and leverage considerations, although recovery assumptions are somewhat optimistic and forward-looking."
+}

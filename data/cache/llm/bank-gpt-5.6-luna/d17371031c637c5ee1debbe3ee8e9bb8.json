@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP earnings emphasis",
+    "incorporated by reference",
+    "currently project",
+    "assumes projects completed as planned",
+    "extensive cross-references"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial disclosure on earnings, liquidity, debt issuance, capital expenditures, regulatory settlements, and offshore wind commitments. Risk tone is cautiously confident, but reliance on non-GAAP measures, substantial projected investment, regulatory outcomes, and execution assumptions introduces meaningful credit risk considerations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "we believe",
+    "subject to variability",
+    "could be material",
+    "additional funding if required"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and strongly improving operating outlook, supported by detailed revenue, backlog, liquidity, leverage, and contract metrics. Key risks include reliance on favorable housing, interest-rate, employment, and demand conditions; actuarial uncertainty around construction-defect liabilities; and potential funding obligations from joint ventures. Disclosure is generally specific, although repeated optimistic assertions and extensive caveats temper the confidence of projections."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forecasted collection rates",
+    "risk of a material change",
+    "acceptable terms",
+    "subjective or complex judgment",
+    "could produce materially different results"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides useful detail on loan performance, funding sources, leverage, volume trends, and forecasting methodology. Credit risk remains meaningful because recent loan cohorts have unrealized collections and results depend on subjective assumptions, competitive conditions, and continued access to capital. Overall tone is cautiously positive, emphasizing growth and profitability while acknowledging forecast and funding uncertainty."
+}

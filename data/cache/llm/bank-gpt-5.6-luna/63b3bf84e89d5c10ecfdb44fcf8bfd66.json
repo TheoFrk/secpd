@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP supplemental measures",
+    "expected to increase",
+    "we believe",
+    "estimates and assumptions",
+    "future returns"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with specific revenue, volume, tax, and pension figures. Risk is moderated by reliance on non-GAAP adjustments, forward-looking expectations, and judgment-sensitive pension assumptions, but the overall tone is confident and performance-oriented."
+}

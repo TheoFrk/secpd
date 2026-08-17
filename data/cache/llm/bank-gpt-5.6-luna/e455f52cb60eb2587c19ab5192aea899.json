@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot predict future trend",
+    "not subject to accurate forecasting",
+    "primarily due to",
+    "excluding foreign exchange impacts",
+    "non-GAAP discussion and analysis"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment, revenue, earnings, impairment, and foreign-exchange disclosures. Risk tone is mildly negative because revenue growth coincided with a swing to net loss, goodwill impairment, and tax reserves, although management provides specific explanations and operating metrics."
+}

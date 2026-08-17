@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.45,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "should not necessarily conclude",
+    "we believe",
+    "NM (Not Meaningful)",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with strong reported earnings and revenue growth. Key risks include materially higher and volatile fuel costs, reliance on fuel hedges, labor agreements, and substantial aircraft purchase commitments. Non-GAAP metrics and hedging-related timing effects could complicate comparability and interpretation."
+}

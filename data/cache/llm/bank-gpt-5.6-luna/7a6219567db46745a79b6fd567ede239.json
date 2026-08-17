@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking statements",
+    "risks and uncertainties",
+    "factors outside of our control",
+    "precludes detailed price and volume information",
+    "estimates may change"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, reporting substantial revenue, gross profit, backlog, and net income improvements. Key risks include cyclical end markets, commodity and geopolitical volatility, supply-chain delays, project scheduling, customer capital spending, and uncertainty around deferred tax asset realization. The overall tone is moderately positive but includes standard forward-looking disclaimers and material operational contingencies."
+}

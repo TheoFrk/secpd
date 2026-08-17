@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.02,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "largely attributed to",
+    "primarily driven by",
+    "significant items impacting",
+    "without limitation",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but uses recurring attribution language and extensive tax, non-GAAP, and forward-looking-statement qualifications. Revenue and volume declines, a full valuation allowance on deferred tax assets, and likely limits on NOL utilization indicate meaningful financial and tax risks, partly offset by lower expenses and interest costs."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could differ materially",
+    "assumes no obligation to update",
+    "broad risk-factor enumeration",
+    "estimated impacts"
+  ],
+  "risk_summary": "The excerpt is generally confident and operationally detailed, with strong utilization, revenue growth, pricing trends, and substantial contract coverage. Risk disclosure relies partly on standardized, broad disclaimers and enumerates many external risks without quantifying their potential financial impact. Reported negative effects from weather, navigational disruption, fuel costs, and operational incidents are quantified in limited instances."
+}

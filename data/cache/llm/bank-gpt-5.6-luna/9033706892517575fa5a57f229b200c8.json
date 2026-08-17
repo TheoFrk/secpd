@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot offer assurances",
+    "actively exploring additional sources of capital",
+    "material adverse effect",
+    "disclaim any obligation to update"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk: the company cannot pay all obligations when due, is in arrears, has substantial accumulated losses, and states that it may cease operations without additional funding. Although key financial figures and financing terms are quantified, extensive standard forward-looking disclaimers and conditional language limit certainty around funding and operating plans."
+}

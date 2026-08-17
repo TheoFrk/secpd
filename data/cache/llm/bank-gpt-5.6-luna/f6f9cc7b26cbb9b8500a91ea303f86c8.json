@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP performance measure",
+    "generally",
+    "may not",
+    "two to five years",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including revenue concentrations, segment metrics, impairment charges, and year-over-year changes. Key risks include advertising-cycle sensitivity, exposure to several concentrated markets, technological disruption, acquisition-related spending, and reliance on non-GAAP station operating income. The tone is generally neutral to mildly confident, but portions are boilerplate and the excerpt is truncated."
+}

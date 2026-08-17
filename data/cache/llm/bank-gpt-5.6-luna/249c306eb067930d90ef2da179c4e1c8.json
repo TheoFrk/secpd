@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.28,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "information deferred to pages 22 to 66"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk disclosure and defers entirely to another document. This limits standalone transparency and prevents assessment of current conditions from the excerpt alone."
+}

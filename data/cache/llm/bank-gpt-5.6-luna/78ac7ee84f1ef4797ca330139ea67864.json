@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "uncertainty regarding timing",
+    "subject to specified vesting provisions",
+    "ultimate resolution of this case"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantified disclosures on customer concentration, liquidity, acquisition costs, warrant terms, and segment trends, but relies on standard forward-looking disclaimers and conditional language. Key risks include weakening Cable Edge demand, customer concentration, restructuring needs, uncertain investment timing, tax contingencies, and potential margin or cash-flow pressure."
+}

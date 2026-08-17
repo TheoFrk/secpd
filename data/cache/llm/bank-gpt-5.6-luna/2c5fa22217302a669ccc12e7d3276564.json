@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "subjective and/or complex judgments",
+    "inherently uncertain estimates",
+    "not limited to risk factors"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and accounting-disclaimer language, with reliance on subjective estimates for loan losses, securities impairments, goodwill, and taxes. It also provides useful quantified detail showing a sharp decline in mortgage originations and expects mortgage-sale gains to materially decline, indicating moderate earnings pressure. Risk disclosure is broad but reasonably specific regarding credit, market liquidity, interest-rate, and estimation risks."
+}

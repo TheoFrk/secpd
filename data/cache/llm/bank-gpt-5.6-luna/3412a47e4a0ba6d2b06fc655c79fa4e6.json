@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results could differ materially",
+    "inherently subjective assumptions",
+    "changes in circumstances",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking and accounting-estimate disclaimers, with substantial reliance on judgment for credit losses, fair value, and FDIC shared-loss obligations. It identifies meaningful exposure to interest rates, borrower repayment capacity, collateral values, economic conditions, regulation, and acquisition-related risks, but provides limited quantitative sensitivity in this section. Overall tone is cautiously confident rather than crisis-like."
+}

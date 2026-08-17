@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.27,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "continuing effects of",
+    "management believes",
+    "subject to certain limitations",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but uses recurring causal qualifiers and extensive legal/forward-looking caveats. Declining revenue and direct-hire activity, restructuring costs, margin pressure, and substantial subordinated debt indicate moderate operating and financial risk, partially offset by documented cost reductions and acquisition strategy."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "reasonable under the circumstances",
+    "when we deem it necessary",
+    "doubtful net operating losses will be used",
+    "working capital deficit"
+  ],
+  "risk_summary": "The excerpt uses substantial standard accounting-policy and forward-looking disclaimer language, with limited discussion of sensitivity to estimates or underlying operating risks. Quantified results indicate a net loss, a sizable working-capital deficit, reliance on borrowings and related parties, and a valuation allowance reflecting doubtful utilization of net operating losses. Revenue and operating cash flow improved, but the disclosure remains predominantly boilerplate and does not establish clear liquidity durability."
+}

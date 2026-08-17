@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties and other important factors",
+    "including, but are not necessarily limited to",
+    "may recognize an impairment",
+    "significant judgment and estimates",
+    "does not undertake to update"
+  ],
+  "risk_summary": "The disclosure is largely standard SEC boilerplate but identifies meaningful exposure to leverage, interest rates, impairment, insurance reserves, taxation, litigation, and financing availability. Quantification is provided for certain debt and letters of credit, although key sensitivities and downside magnitudes remain limited. Overall tone is cautiously neutral, with management emphasizing estimation controls and mitigation while retaining broad forward-looking disclaimers."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "qualitative assessment",
+    "many assumptions and estimates",
+    "does not believe",
+    "no further testing",
+    "challenging economic environment"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive revenue, margin, expense, segment, and nonrecurring-item quantification. Risk tone is moderately positive due to strong sales and earnings growth, but includes margin pressure, declining product lines, elevated material costs, and reliance on subjective goodwill and share-based compensation assumptions."
+}

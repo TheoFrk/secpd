@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "other risks and uncertainties",
+    "not possible to provide meaningful sensitivity analysis",
+    "many factors beyond the Company’s control",
+    "ultimate liability may be more or less"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standardized forward-looking disclaimers and broad, difficult-to-quantify risks, particularly reserve adequacy, regulatory actions, catastrophe losses, and investment volatility. It provides useful historical financial figures, but limits visibility into downside exposure by emphasizing uncertainty, incomplete risk factors, and the inability to quantify unexpected losses."
+}

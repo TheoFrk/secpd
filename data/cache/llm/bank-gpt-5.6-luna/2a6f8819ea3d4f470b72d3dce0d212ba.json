@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP financial information",
+    "does not expect such regulations",
+    "continually evaluates strategic acquisitions",
+    "visibility ... beyond a few months",
+    "adjusted for foreign currencies and acquisitions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed segment growth, margins, cash flows, and adjustments. Risk factors include limited forward sales visibility, substantial concentration in receivables and inventories, cash held outside the United States, and operating cash flow that was modest relative to investing needs. The overall tone is positive and growth-oriented, but recurring adjusted metrics and boilerplate assurances somewhat soften the risk presentation."
+}

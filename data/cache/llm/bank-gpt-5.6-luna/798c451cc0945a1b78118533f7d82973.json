@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reliably estimate",
+    "risks and uncertainties",
+    "not individually material",
+    "neither reproducible nor validated",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial detail and identifies material impairments, investment losses, inventory charges, and pipeline risks. However, extensive boilerplate caveats and explicit limitations on project-level R&D cost and revenue estimates reduce transparency regarding future performance. Overall tone is cautiously neutral, balancing operating results and liquidity assertions against significant pharmaceutical development, regulatory, patent, and demand uncertainty."
+}

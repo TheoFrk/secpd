@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "assumptions believed reasonable",
+    "no obligation to update",
+    "other factors beyond control"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative information on loan-loss reserves, provisions, charge-offs, investments, and mortgage-servicing assumptions, but is heavily qualified by standard forward-looking and estimate-related disclaimers. Risk tone is cautious and acknowledges interest-rate volatility, credit deterioration, economic weakness, and valuation uncertainty, while management expresses confidence that reserves and risk exposures remain appropriate."
+}

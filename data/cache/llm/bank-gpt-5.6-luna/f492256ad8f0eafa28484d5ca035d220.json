@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "we do not know what effect, if any",
+    "may not be meaningful",
+    "expect cost savings and margin improvement"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial data, including AUM, inflows, revenue, expenses, and net income, but relies on standard forward-looking disclaimers and conditional language for projections. Key risks include market volatility, emerging-market outflows, concentrated dependence on the Japan hedged equity ETF, intensifying competition, and execution risk from European expansion and operational transitions. Overall tone is cautiously positive, supported by strong historical growth but tempered by recent outflows and uncertainty."
+}

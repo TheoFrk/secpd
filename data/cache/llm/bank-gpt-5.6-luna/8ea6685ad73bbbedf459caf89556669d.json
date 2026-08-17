@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significantly greater production",
+    "adequate crushing capacity",
+    "financing with operating cash flow",
+    "not an impediment to raising capital"
+  ],
+  "risk_summary": "The excerpt provides substantial historical financial quantification, but relies on optimistic projections for production, cost savings, construction completion, and internally generated financing. Negative working capital, dependence on stock issuance, undeclared preferred dividends, and ongoing start-up execution create meaningful liquidity and operational risks."
+}

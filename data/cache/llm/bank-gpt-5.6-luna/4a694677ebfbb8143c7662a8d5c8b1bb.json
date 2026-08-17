@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.7,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to be significantly reduced",
+    "following transactions",
+    "non-GAAP supplemental financial measures",
+    "aforementioned events",
+    "table data omitted"
+  ],
+  "risk_summary": "The excerpt provides substantial transaction amounts, asset counts, debt balances, and operating definitions, but its risk assessment is diluted by extensive boilerplate, non-GAAP measures, and omitted tables. Declines in EPS, FFO, and FAD, Brookdale concentration reduction, refinancing dependence, and significant portfolio restructuring indicate moderate financial and execution risk."
+}

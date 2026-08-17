@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no independent verification",
+    "there can be no assurance",
+    "beyond the control of the Company",
+    "actual amounts could differ",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including royalty counts, production estimates, historical production, and expense changes. Key risks include reliance on mine operators’ unverified estimates, commodity-price volatility, revised downward production guidance, and uncertainty in reserves and impairment assumptions. The tone is neutral to mildly cautious rather than crisis-like."
+}

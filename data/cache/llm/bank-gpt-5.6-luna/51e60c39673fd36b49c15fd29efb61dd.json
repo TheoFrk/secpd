@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "may be affected by a variety of factors",
+    "we expect",
+    "partially mitigated by",
+    "prudent, market-sustainable posture"
+  ],
+  "risk_summary": "The disclosure is quantitatively supported in several areas, including medical trends, Medicare Advantage rates, enrollment, cash flows, and capital allocation, but relies substantially on standard forward-looking and risk-limitation language. Key risks include regulatory funding pressure, medical cost inflation, Medicaid margin pressure, pricing competition, and elevated acquisition-related cash uses."
+}

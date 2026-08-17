@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.16,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted operating revenues",
+    "primarily attributable to",
+    "partially offset by",
+    "unallocated expenses",
+    "fair value of derivative instruments"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with detailed reconciliations and year-over-year drivers. Risk is moderate: reported improvement is supported by higher prices and volumes but includes substantial tax benefits, derivative effects, acquisition costs, impairments, and exposure to commodity-price volatility."
+}

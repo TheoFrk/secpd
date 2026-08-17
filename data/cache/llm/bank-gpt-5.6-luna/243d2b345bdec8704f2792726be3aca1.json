@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may vary materially",
+    "does not undertake to update",
+    "similar expressions",
+    "subject to risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt presents improving sales, net income, and operating performance with substantial quantitative detail, supporting a generally constructive tone. Key risks include raw-material cost inflation, higher borrowing levels and interest expense, foreign-exchange volatility, competitive pricing pressure, and equity venture losses. The opening disclaimer is standard boilerplate and somewhat limits forward-looking accountability, but the operating discussion is otherwise relatively specific."
+}

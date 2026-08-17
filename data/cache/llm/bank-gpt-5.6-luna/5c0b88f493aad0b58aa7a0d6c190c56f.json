@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "may not be exhaustive",
+    "cannot predict new risk factors",
+    "judgmentally adjusting assumptions"
+  ],
+  "risk_summary": "The excerpt contains substantial legal boilerplate and broad uncertainty disclaimers, which reduce specificity around forward-looking outcomes. Quantified reserve ranges, favorable development, and credit-loss allowances provide useful detail, but significant actuarial and macroeconomic judgment creates material variability risk, including a marked increase in unrealized investment losses."
+}

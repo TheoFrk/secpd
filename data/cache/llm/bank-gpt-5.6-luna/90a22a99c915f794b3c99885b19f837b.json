@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor disclaimer",
+    "no assurance of additional financing",
+    "estimates and judgments",
+    "not expected to have a material impact",
+    "subject to factors and uncertainties"
+  ],
+  "risk_summary": "The disclosure is technically detailed but includes substantial boilerplate and broad disclaimers, with limited quantitative sensitivity around estimates and future financing. Operating risk is elevated by a 20% revenue decline, a net loss, negative operating cash flow, inventory write-offs, and reliance on additional credit or financing. The overall tone is materially cautious rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "highly uncertain future developments",
+    "expected to continue",
+    "normal course of business",
+    "adjusted non-GAAP measures",
+    "held for sale"
+  ],
+  "risk_summary": "The excerpt is largely specific and well quantified, clearly documenting substantial declines in AUM, revenues, operating income, margins, and retail flows. Key risks include market depreciation, outflows, macroeconomic tightening, cybersecurity exposure, COVID-19 uncertainty, and reliance on affiliated-client commitments. Management presents a moderately negative operating backdrop but offsets it with confident growth expectations for private alternatives and relocation benefits."
+}

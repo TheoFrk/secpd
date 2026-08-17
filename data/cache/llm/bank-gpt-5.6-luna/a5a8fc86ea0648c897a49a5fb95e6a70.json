@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance that this will be the case",
+    "cannot be determined at this time",
+    "well-positioned to continue to grow",
+    "sufficient liquidity for twelve months",
+    "additional financing may be in the form of"
+  ],
+  "risk_summary": "The excerpt provides meaningful cash balances, intercompany repayment amounts, obligations, and project costs, but relies on optimistic growth claims and materially uncertain financing assumptions. Liquidity appears dependent on continued operating cash generation and potential future financing, with explicit acknowledgment that funding availability and terms are uncertain."
+}

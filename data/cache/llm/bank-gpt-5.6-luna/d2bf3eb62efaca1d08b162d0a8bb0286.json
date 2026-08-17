@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot guarantee future results",
+    "disclaim any obligation to update",
+    "believed to be reasonable",
+    "subject to fluctuations"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking statement disclaimers and broad, non-quantified assertions regarding strategy, estimates, market conditions, and litigation. Operating performance is presented positively, with quantified sales, pricing, and unit-growth data, but exposure remains to semiconductor cyclicality, customer credit, outsourced manufacturing, estimates, and litigation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "to a lesser extent",
+    "we believe to be reasonable",
+    "actual results may differ significantly",
+    "various other assumptions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes meaningful quantitative information, but it relies on standard accounting-estimate caveats and contains incomplete or duplicated text. Near-term earnings risk is explicitly identified through lower expected Kronos earnings, litigation costs, operating pressure, and commodity-price exposure."
+}

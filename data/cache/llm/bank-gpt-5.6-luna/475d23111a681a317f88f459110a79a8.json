@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.66,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and broad disclaimers",
+    "subjective future cash-flow assumptions",
+    "materially differ from actual results",
+    "management-determined fair values",
+    "text truncated mid-disclosure"
+  ],
+  "risk_summary": "The excerpt provides some precise operating results, but extensive forward-looking disclaimers and reliance on subjective assumptions for valuations and impairment testing reduce disclosure specificity. Key risks include tenant vacancies, healthcare-related operating exposure, lease expirations, and potential material impairment if market conditions or holding strategies change."
+}

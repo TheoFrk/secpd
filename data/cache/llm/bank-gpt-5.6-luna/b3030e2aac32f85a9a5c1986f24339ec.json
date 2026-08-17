@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "typically",
+    "may vary significantly",
+    "significant management judgments",
+    "subject to customer inventories",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent, with detailed segment, revenue, margin, acquisition, reserve, and liability disclosures. Key risks include seasonal demand volatility, customer inventory and return exposure, reliance on borrowing for peak working capital, and judgment in estimating allowances. The overall tone is cautiously positive, but the excerpt is lengthy and contains substantial industry boilerplate and an incomplete section."
+}

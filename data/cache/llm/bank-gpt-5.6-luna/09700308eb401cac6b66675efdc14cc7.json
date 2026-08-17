@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "reclassifications",
+    "discontinued operations",
+    "unless otherwise noted"
+  ],
+  "risk_summary": "The excerpt is relatively precise and heavily quantified, but reports persistent revenue and same-store sales declines, salon closures, and higher labor costs. Performance explanations rely on recurring offsetting-cause language and extensive cross-references, which modestly reduce transparency. Liquidity appears supported by asset-sale proceeds and debt repayments, though these may not represent recurring operating strength."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot provide any assurance",
+    "we believe",
+    "potentially enable",
+    "numerous factors",
+    "material adverse effect"
+  ],
+  "risk_summary": "The disclosure identifies severe concentration, liquidity, receivables, contract-acceptance, revenue-recognition, intellectual-property, and litigation risks, including Sinovel representing 68% of fiscal 2010 revenue, $65.2 million in refused shipments, and $62.0 million in outstanding receivables. Quantification is relatively strong, but outcomes of collections, legal actions, customer acceptance, and deferred-tax-asset realization remain uncertain. Overall, the risk tone is strongly negative and indicates substantial counterparty and business-continuity exposure."
+}

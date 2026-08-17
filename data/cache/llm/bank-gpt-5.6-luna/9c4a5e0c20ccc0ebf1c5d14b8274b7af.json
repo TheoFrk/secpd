@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "many or all may be beyond control",
+    "does not expect to materially change",
+    "based on certain assumptions and judgments",
+    "disclaims any obligation to update"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking-statement disclaimers and relies on management estimates for receivables, inventory obsolescence, percentage-of-completion revenue, and deferred taxes. Quantification is generally adequate, including allowance balances, revenue-recognition percentages, and working-capital amounts, while liquidity guidance is cautiously positive. Key risks include contract-cost overruns, technological obsolescence, collection risk, and dependence on estimated taxable income and future cash flows."
+}

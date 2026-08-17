@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant judgment",
+    "various other assumptions",
+    "actual results may differ",
+    "fair value and impairment models",
+    "litigation with a third party"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantified information, but relies heavily on standardized accounting-policy language and judgment-based estimates. Key risks include third-party litigation, goodwill impairment sensitivity, COVID-19 cost pressures, and a $7.5 million loss on convertible debentures."
+}

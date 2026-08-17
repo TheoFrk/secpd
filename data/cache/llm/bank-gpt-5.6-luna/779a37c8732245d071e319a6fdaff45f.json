@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "cannot determine with any degree of certainty",
+    "if required, borrowings under our credit facility",
+    "substantially influenced by variables",
+    "may be periodically adjusted"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, reporting production, prices, cash flows, capital spending, leverage-related funding sources, and operating drivers. Risk tone is cautiously constructive due to production and earnings growth, but significant exposure to volatile commodity prices, liquidity needs, capital program adjustments, and uncertain future cash flows is clearly acknowledged."
+}

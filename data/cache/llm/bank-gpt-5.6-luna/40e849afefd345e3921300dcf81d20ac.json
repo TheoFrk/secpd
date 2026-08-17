@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to, among other things",
+    "primarily driven by",
+    "excluding the item set forth",
+    "non-GAAP financial measure",
+    "legacy businesses in run-off"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but highly dense and reliant on standard MD&A qualifiers and non-GAAP measures. Key risks include lower earnings, investment losses, catastrophe exposure, regulated subsidiary dividend constraints, legacy insurance liabilities, and dependence on subsidiary distributions. Operational improvements and quantified performance drivers provide a moderately constructive but balanced tone."
+}

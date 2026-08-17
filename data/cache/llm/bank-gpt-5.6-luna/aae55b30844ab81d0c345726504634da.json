@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "cannot accurately predict",
+    "cannot determine with any degree of certainty",
+    "slightly offset by additions",
+    "expected to provide ample liquidity"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but contains standard forward-looking disclaimers and uncertainty around commodity prices and derivative settlements. Operating performance deteriorated materially, with lower production and prices, a 39% reserve decline, a substantial net loss, impairment charges, and a reduced borrowing base. Management presents the shift toward mineral ownership as a risk-mitigation strategy, while liquidity and covenant compliance remain important monitoring points."
+}

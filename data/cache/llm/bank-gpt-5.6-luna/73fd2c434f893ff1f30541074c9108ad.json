@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "current expectations",
+    "believe",
+    "may be transferred",
+    "reasonably possible",
+    "not anticipated"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed sales, margin, cash flow, store-growth, and covenant metrics. It acknowledges weak consumer spending, transaction-value pressure, macroeconomic volatility, and competitive risk, but maintains a moderately confident outlook based on market-share gains and cost controls. Some forward-looking claims and omitted table context introduce limited ambiguity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "may have a material impact",
+    "best available information",
+    "reasonably assured",
+    "cannot predict future changes"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on reserves, bad debt, inventory, taxes, and cash flow, but relies extensively on standard accounting-estimate caveats and conditional material-impact language. Operational and market risks appear manageable in tone, although customer credit, inventory obsolescence, warranty claims, foreign exchange, and supply-chain exposures remain relevant."
+}

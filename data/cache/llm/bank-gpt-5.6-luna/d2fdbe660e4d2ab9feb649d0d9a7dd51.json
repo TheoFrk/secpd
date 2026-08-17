@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "may differ materially",
+    "more likely than not",
+    "temporary in nature",
+    "general industry practices"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but relies heavily on standard forward-looking disclaimers and management judgments regarding valuation, impairment, and reserve adequacy. Key risks include interest-rate-driven investment losses, loan-loss reserve sensitivity to economic deterioration, and potential goodwill or intangible-asset impairment, although management expresses confidence that securities losses are temporary and no impairment currently exists."
+}

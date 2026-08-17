@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subjective and sensitive assumptions",
+    "could differ materially",
+    "risks and uncertainties",
+    "well-informed individuals could disagree",
+    "undue reliance should not be placed"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and earnings data, but relies on standard forward-looking safe-harbor language and emphasizes subjectivity in loan-loss, securities valuation, and OTTI estimates. Risk tone is mixed: 2011 earnings and net interest income improved materially, while valuation uncertainty, credit-loss sensitivity, and the prior-year loss remain important concerns."
+}

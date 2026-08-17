@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "we expect",
+    "bill-and-hold agreements",
+    "subjective estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantitatively supported, including debt balances, covenant compliance, liquidity resources, and revenue recognized under bill-and-hold arrangements. Risk is moderated by reliance on future financing and cash flows, subjective inventory, tax, contract-cost, and valuation estimates, and increased liabilities. The overall tone is cautiously confident rather than crisis-like."
+}

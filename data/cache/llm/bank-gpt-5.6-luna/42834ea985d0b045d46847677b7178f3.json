@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to various closing conditions",
+    "cannot predict the duration",
+    "many factors not within our control",
+    "currently do not expect losses to exceed recoveries",
+    "non-GAAP Adjusted EBITDA exclusions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, but retains uncertainty around COVID-19 effects, asset-sale closings, insurance recoveries, and disaster-related losses. Operational recovery, asset monetizations, dividend growth, and available credit support a mildly positive tone, while secured debt and reliance on adjusted non-GAAP performance measures remain notable risks."
+}

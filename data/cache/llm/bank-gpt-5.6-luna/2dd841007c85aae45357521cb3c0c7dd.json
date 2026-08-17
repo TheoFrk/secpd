@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.69,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "highly uncertain and cannot be predicted",
+    "factors beyond the Company’s control",
+    "does not undertake to publicly release revisions"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and a broad, non-quantified list of macroeconomic, regulatory, credit, pandemic, and operational risks. Although 2020 results show modest net interest income growth and lower funding costs, margin compression and uncertainty surrounding COVID-19, loan performance, funding, and economic recovery create a mildly negative risk tone."
+}

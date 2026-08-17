@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "significant judgment is required",
+    "we cannot provide assurance",
+    "changes in laws and/or interpretations",
+    "unprecedented assertions"
+  ],
+  "risk_summary": "The disclosure presents strong demand, subscription growth, and confident strategic positioning, but relies heavily on standard cautionary language regarding accounting estimates, tax examinations, and regulatory changes. Key risks include judgment-sensitive revenue recognition, deferred tax valuation, uncertain tax outcomes, and potentially adverse changes in tax law or business conditions."
+}

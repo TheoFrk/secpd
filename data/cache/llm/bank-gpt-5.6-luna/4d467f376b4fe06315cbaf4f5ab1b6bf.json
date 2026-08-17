@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "primarily due to",
+    "improved economics",
+    "potentially removing",
+    "subjective and complex judgments"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, reporting revenue, profitability, fleet composition, customer concentration, and operational changes. Key risks include dependence on major airline partners, fleet transitions, contract economics, and reliance on forward-looking assumptions, although the overall tone is operationally confident and financially positive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue",
+    "potential equity and debt offerings",
+    "no assurance management attempts successful",
+    "dependent on ability to raise additional funds",
+    "fully reserved remaining receivable"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and explains major year-over-year changes, but it identifies substantial going-concern risk, including a $16.1 million working-capital deficiency, a $2.4 million net loss, and reliance on future financing. Liquidity depends on operating performance, asset/property projects, and successful equity or debt offerings, with no assurance these measures will succeed. Repeated CARES Act credit language and broad contingency statements add some boilerplate and obscure the central financing risk."
+}

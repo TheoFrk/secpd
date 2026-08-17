@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.43,
+  "risk_sentiment": -0.04,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to separate report",
+    "no substantive discussion",
+    "boilerplate disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and directs readers to another document. Reliance on incorporation by reference reduces transparency within the filing section, although it does not itself indicate a specific adverse condition."
+}

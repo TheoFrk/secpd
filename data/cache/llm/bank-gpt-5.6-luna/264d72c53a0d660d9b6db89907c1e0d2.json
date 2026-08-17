@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted operating net earnings",
+    "excluding the Adjusted Items",
+    "continued investments in lower prices",
+    "primarily due to",
+    "should not be considered as an alternative"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and generally specific, with moderate boilerplate and substantial accounting terminology. Risk is presented in a mostly stable to mildly positive tone, although sales declined on a reported basis, non-fuel operating profit weakened, and reliance on adjusted non-GAAP measures may reduce transparency."
+}

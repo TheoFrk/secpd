@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measure emphasis",
+    "excludes realized gains and losses",
+    "future cash-flow assumptions",
+    "actual versus expected experience",
+    "core operations framing"
+  ],
+  "risk_summary": "The excerpt presents strong quantified growth in income, premiums, sales, book value, and operating returns, producing an overall confident tone. Key risks remain sensitivity to mortality, morbidity, lapse assumptions, claims utilization, interest-rate-driven AOCI, and reliance on non-GAAP operating measures that exclude certain items."
+}

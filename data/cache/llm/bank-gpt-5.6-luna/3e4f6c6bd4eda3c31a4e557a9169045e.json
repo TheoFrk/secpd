@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "availability of additional capital",
+    "concentration among customers",
+    "reliance on one or a small number of employees"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative regarding the Bloomia acquisition, revenue, margins, expenses, and debt-related interest exposure, but it contains substantial standard forward-looking disclaimers and broad risk-factor language. Key risks include acquisition integration, customer concentration, floating-rate debt, covenant compliance, limited personnel expertise, and capital availability. The operating profile appears pressured by significant SG&A, interest expense, and losses from continuing operations, although the tone is primarily factual rather than crisis-like."
+}

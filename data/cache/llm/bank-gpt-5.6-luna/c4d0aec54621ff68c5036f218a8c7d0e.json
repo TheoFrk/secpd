@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forecasted collection rates",
+    "materially better or worse",
+    "limited historical experience",
+    "expected timing of future net cash flows",
+    "generally consistent with expectations"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and explains key earnings drivers, forecast revisions, loan performance, and sensitivity to collection assumptions. Credit risk remains material because profitability depends on statistical forecasts for subprime consumer loans, with recent vintages showing greater uncertainty and some historical forecasts performing materially worse than expected."
+}

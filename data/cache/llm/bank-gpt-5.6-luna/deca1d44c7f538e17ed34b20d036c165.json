@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expect to continue",
+    "potentially transformative",
+    "among other things",
+    "ongoing clinical trials",
+    "dependent on prevailing market rates"
+  ],
+  "risk_summary": "The excerpt is generally specific and progress-oriented, with substantial quantified operating and pipeline information. Key risks include clinical and regulatory uncertainty, reliance on reimbursement and approvals, safety-related discontinuation of VX-814, and variable contingent consideration and interest income. The tone is cautiously confident rather than crisis-like, though it relies on forward-looking expectations for pipeline and commercial expansion."
+}

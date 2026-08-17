@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.54,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.52,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "various developments",
+    "substantial doubt about going concern",
+    "forward-looking statements",
+    "dependent upon its ability"
+  ],
+  "risk_summary": "The disclosure provides meaningful revenue, loss, acquisition, and option details, but relies on standard forward-looking disclaimers and broad COVID-19 uncertainty language. Negative risk signals include persistent net losses, worsening net loss, and an explicit going-concern warning, despite reported operational continuity and revenue growth."
+}

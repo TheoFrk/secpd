@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.5,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.58,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance additional capital",
+    "significant judgment and estimates",
+    "may have a material impact",
+    "unable to secure additional customers",
+    "expect significant loss"
+  ],
+  "risk_summary": "The excerpt presents substantial financial and commercial risk, including recurring losses, limited revenue, dependence on a sole customer, difficulty securing additional customers, high capital needs, and uncertainty about future financing and commercialization. Risk disclosures are relatively direct and include some quantitative amounts, but portions of the accounting-policy discussion are technical and boilerplate-heavy, while operational impacts and contingencies remain partly unquantified."
+}

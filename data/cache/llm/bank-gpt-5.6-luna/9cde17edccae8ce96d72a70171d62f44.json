@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.31,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict likelihood or impact",
+    "expected to continue",
+    "industry-wide trends",
+    "partially offset by",
+    "future supply chain issues"
+  ],
+  "risk_summary": "The disclosure is reasonably quantified but highlights material pressure from declining voice and video customers, falling access-line revenues, inflationary costs, supply-chain risks, and sharply higher interest expense. Fiber expansion and broadband growth are presented as offsets, supported by available revolver and term-loan capacity, but leverage and execution dependence remain meaningful risks."
+}

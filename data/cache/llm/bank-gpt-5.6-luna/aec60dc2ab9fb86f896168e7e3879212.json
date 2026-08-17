@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.08,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "partially offset by",
+    "inherent uncertainty",
+    "variety of factors",
+    "does not believe reasonable likelihood"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear year-over-year drivers, cash-flow uses, leverage effects, and sensitivity information. Operating performance weakened, with lower sales, comparable transactions, earnings, and ROIC, while higher debt and interest costs add risk; however, strong operating cash flow and transparent explanations support a generally controlled tone."
+}

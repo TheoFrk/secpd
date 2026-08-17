@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expects to",
+    "intended to mitigate",
+    "refer to Note"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, clearly explaining the 2013 sales and earnings decline and related restructuring and separation costs. Forward-looking statements are optimistic but depend on higher demand, cost reductions, pension contribution reductions, and successful execution of the steel spinoff. Repeated causal-offset phrasing and lengthy tax and segment explanations modestly reduce clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot be predicted at this time",
+    "dependent on future developments",
+    "may continue to be adversely impacted",
+    "extent ... not presently ascertainable",
+    "using its business judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on improved 2020 sales, margins, expenses, liquidity, and profitability. However, the COVID-19 discussion relies heavily on broad contingencies and unquantified potential adverse effects, while inventory and tax estimates depend on management judgment and uncertain future conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "among other things",
+    "including but not limited to",
+    "there can be no assurance",
+    "it is possible we may incur",
+    "continuing to evaluate"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and some quantification, including revenue mix and segment disclosure, but contains extensive conditional risk language and numerous interdependent assumptions. Key risks include commodity and currency volatility, counterparty exposure, regulatory and emerging-market conditions, inability to pass through costs, and potential goodwill impairment."
+}

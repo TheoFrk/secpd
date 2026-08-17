@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "should not be relied upon",
+    "disclaims any obligation to update",
+    "estimates and judgments",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt uses standard forward-looking and accounting-estimate disclaimers, including explicit non-reliance and non-update language, but also provides meaningful quantitative detail on expenses, margins, revenue growth, and credit-related reserves. Overall tone is cautiously positive, reflecting improving operating performance while acknowledging acquisition, impairment, receivables, inventory, and estimation risks."
+}

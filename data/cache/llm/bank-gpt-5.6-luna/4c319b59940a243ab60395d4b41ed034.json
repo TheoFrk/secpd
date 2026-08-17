@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "potential factors that may affect future results",
+    "impact of COVID-19",
+    "proactively taken credit-line draw",
+    "truncated tax discussion"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, but includes standard boilerplate and forward-looking language. Risk tone is moderately negative due to COVID-19-related closures, an $86.5 million fourth-quarter sales decline, operating-margin pressure, facility closures, tariff exposure, impairment, and a $75 million liquidity draw."
+}

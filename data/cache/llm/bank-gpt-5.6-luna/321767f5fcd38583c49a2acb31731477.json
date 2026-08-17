@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to a number of factors and uncertainties",
+    "including, but not limited to",
+    "Management believes allowance is adequate",
+    "option to further segment the portfolio",
+    "reasonable and supportable forecasts"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and repeats CECL methodology while providing limited quantified detail on allowance levels, sensitivities, portfolio performance, or emerging credit deterioration. Risk disclosures identify meaningful exposure to real estate values, liquidity, interest rates, economic conditions, and management judgment, but the tone remains broadly neutral and reassuring."
+}

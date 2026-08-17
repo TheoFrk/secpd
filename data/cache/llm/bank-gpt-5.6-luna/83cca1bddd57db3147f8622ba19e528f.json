@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could materially adversely affect",
+    "may continue to negatively impact",
+    "difficult to predict with confidence",
+    "factors outside our control",
+    "inherent uncertainty"
+  ],
+  "risk_summary": "The excerpt provides useful quantified results and backlog data, but reports significant margin pressure, declining net income, supply-chain disruption, inflation, labor shortages, geopolitical risks, and potential borrowing-cost increases. Extensive conditional and forward-looking language emphasizes uncertainty and adverse scenarios without quantifying their potential financial impact."
+}

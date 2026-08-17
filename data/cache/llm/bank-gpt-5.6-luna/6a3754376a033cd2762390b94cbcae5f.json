@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "likely to continue to decline",
+    "we believe",
+    "isolated event and does not represent a trend",
+    "building pipeline",
+    "still analyzing certain aspects"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed revenue changes, acquisition impacts, customer concentration, product maturity, and tax effects. Risks include declining mature-product revenue, project-driven volatility, customer termination exposure, acquisition dependence, and provisional tax accounting. Management maintains a cautiously optimistic tone, but relies on forward-looking expectations regarding pipelines, product conversions, and customer retention."
+}

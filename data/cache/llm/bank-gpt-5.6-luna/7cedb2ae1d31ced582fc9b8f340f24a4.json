@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "realization is probable",
+    "reasonably possible revisions",
+    "highly detailed bottom-up approach",
+    "profitable construction opportunities",
+    "other states in which there are profitable construction opportunities"
+  ],
+  "risk_summary": "The disclosure provides substantial accounting detail and some quantified information, but relies heavily on management estimates for contract profitability, claims, change orders, and completion costs. Construction project revisions, customer delays, subcontractor issues, and a $37.8 million deferred tax asset valuation allowance indicate meaningful earnings volatility and realizability risk."
+}

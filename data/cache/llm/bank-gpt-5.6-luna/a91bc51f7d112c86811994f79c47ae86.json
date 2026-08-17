@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "significant management judgments and estimates",
+    "reasonably assured",
+    "elevated levels of activity",
+    "timing of which is uncertain"
+  ],
+  "risk_summary": "The excerpt presents strong growth, improving profitability, higher utilization, and positive demand trends, supporting a generally confident tone. Key risks relate to estimation uncertainty in revenue recognition and receivables, fixed-price contract cost overruns, customer collectibility, and the expected decline of major assignments. Disclosure is substantially quantified but includes standard accounting caveats and some forward-looking generalities."
+}

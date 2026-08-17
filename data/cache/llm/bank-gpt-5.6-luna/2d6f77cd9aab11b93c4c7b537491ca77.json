@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "may materially adversely impact earnings",
+    "actual losses may be higher or lower",
+    "based on assumptions we believe reasonable",
+    "among other factors"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, but relies heavily on standard accounting-policy boilerplate and repeatedly emphasizes uncertainty around loan-loss estimates, fair values, taxes, and goodwill impairment. Rapid loan growth, particularly in commercial real estate and construction, increases credit-concentration and provisioning risk, although management presents overall performance and strategy positively."
+}

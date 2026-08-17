@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "majority of the increase",
+    "excluding special items",
+    "cannot reliably predict or estimate",
+    "without unreasonable effort"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides substantial detail on revenue, expenses, share repurchases, operational disruption, and guidance. Risk disclosure is generally transparent, but recurring non-GAAP exclusions and reliance on qualitative attribution such as “primarily” and “majority” somewhat limit comparability. The tone is cautiously positive, tempered by labor-cost inflation, fuel-price volatility, and prior operational disruption."
+}

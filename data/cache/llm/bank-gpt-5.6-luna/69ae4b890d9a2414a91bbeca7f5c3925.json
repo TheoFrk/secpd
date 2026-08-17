@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "meaningful negative impact",
+    "we expect",
+    "primarily due to",
+    "not able to reasonably estimate",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear operating metrics, store expansion data, cash distributions, and earnings guidance. Risk tone is cautiously positive, although foreign-exchange exposure, margin pressure, liquidity commitments, and an inability to estimate certain tax-related obligations introduce meaningful risks. The omitted tables and truncated discussion limit assessment of the full financial picture."
+}

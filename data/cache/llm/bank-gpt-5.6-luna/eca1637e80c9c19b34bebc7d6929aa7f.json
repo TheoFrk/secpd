@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "for the foreseeable future",
+    "among other factors",
+    "subject to compliance with specified conditions",
+    "others might reach different conclusions",
+    "more information becomes available"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, including allowance balances, revenue estimates, liquidity resources, debt outstanding, and covenant structure. Key risks arise from management estimates, goodwill impairment, tax-law changes, foreign cash repatriation constraints, acquisition activity, and percentage-of-completion accounting, although management presents liquidity and covenant compliance positively."
+}

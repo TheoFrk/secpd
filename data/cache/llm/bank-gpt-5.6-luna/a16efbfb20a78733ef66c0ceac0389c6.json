@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "may cause actual results to differ materially",
+    "a variety of factors",
+    "we expect",
+    "estimated potential impact"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on the Change Healthcare cyberattack, including $2.2 billion of direct costs, $867 million of business disruption, $9 billion in provider loans, and approximately 190 million individuals impacted. However, it also relies heavily on standard forward-looking disclaimers and broad qualitative descriptions of uncertainty surrounding litigation, regulatory action, medical costs, pricing, and reserves. Overall tone is operationally confident but reflects elevated cyber, medical-cost, reimbursement, regulatory, and estimation risk."
+}

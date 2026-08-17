@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks, uncertainties and other factors",
+    "hypothetical changes in material assumptions",
+    "more likely than not",
+    "full valuation allowances"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and cash-flow-related detail, but relies on standard forward-looking disclaimers and broad cautionary language around estimates and assumptions. Risk tone is moderately negative, driven by a $5.34 million operating loss, unfavorable payer mix, labor and supply-chain pressures, rural healthcare challenges, and fully reserved deferred tax assets. The disclosure is technically complex and contains some malformed or incomplete passages that reduce clarity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management judgment and estimates",
+    "no assurance",
+    "could differ significantly",
+    "future events and uncertainties",
+    "forward-looking statement disclaimer"
+  ],
+  "risk_summary": "The excerpt provides useful operational detail and some quantified expense and loss information, but relies substantially on standard forward-looking disclaimers and management estimates. Key risks center on loan-loss adequacy, OREO valuations, deferred tax asset realization, and uncertain sustainability of certain revenue sources."
+}

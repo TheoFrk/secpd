@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "sufficient cash ... for at least that period",
+    "neither amount nor timing ... predicted",
+    "more likely than not",
+    "not expected ... material adverse effect",
+    "normal course of business"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed liquidity, cash flow, debt, tax, and operating data, with a generally constructive tone. Key risks include reliance on Counsel RB operations, illiquid private investments, forecast-based reversal of the deferred tax valuation allowance, and contingent liabilities. Some standard assurances and forward-looking language limit precision regarding future cash generation and investment realizations."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "including but not limited to",
+    "substantial potential",
+    "cannot be assured in the future"
+  ],
+  "risk_summary": "The excerpt presents a broadly confident growth and innovation narrative, supported by some quantified operating results and segment information. However, it relies heavily on promotional language and standard forward-looking disclaimers, while highlighting acquisition, integration, market penetration, pricing, cost, and execution risks without fully quantifying their potential impact."
+}

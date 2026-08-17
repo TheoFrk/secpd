@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.78,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no assurance / no obligation to update",
+    "reclassification to long-term liabilities",
+    "convertible notes with default penalties",
+    "incomplete disclosure due to truncation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial information, but extensive boilerplate disclaimers and complex financing language reduce clarity. Risk is materially elevated due to sharply increased net losses, substantial operating cash outflows, minimal cash reserves, high accrued interest, and reliance on potentially dilutive convertible financing."
+}

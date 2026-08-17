@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties and assumptions",
+    "certain important factors",
+    "non-GAAP financial measures",
+    "change in vehicle residual value estimates",
+    "risk factors and forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, but includes substantial standard MD&A and forward-looking-statement boilerplate. Credit risk is elevated by a 2019 net loss, materially higher depreciation from residual-value revisions, negative free cash flow, rising debt, and a 320% debt-to-equity ratio. Operating cash flow remained strong, but leverage and fleet-related capital intensity create meaningful sensitivity to vehicle values, demand, costs, and financing conditions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "commercially reasonable efforts",
+    "limited exceptions",
+    "ongoing challenges",
+    "off-balance-sheet arrangements",
+    "long-term purchase commitments"
+  ],
+  "risk_summary": "The excerpt is generally specific and well-quantified, describing revenue, segment performance, debt maturities, liquidity, and contractual arrangements. Risk is mixed: growth in semi-custom and embedded markets and debt reprofiling are positive, but declining PC demand, substantial leverage, concentration in GF, and wafer purchase commitments create meaningful exposure."
+}

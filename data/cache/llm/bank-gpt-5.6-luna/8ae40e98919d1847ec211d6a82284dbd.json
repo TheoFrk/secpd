@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ materially",
+    "judgment is required",
+    "forecasted demand and technological obsolescence",
+    "considerable judgment",
+    "certain factors, including but not limited to"
+  ],
+  "risk_summary": "The excerpt is detailed and includes some quantified operating drivers, but relies heavily on standard forward-looking disclaimers and management estimates without sensitivity ranges or quantified downside exposure. Key risks include revenue-recognition timing, inventory obsolescence, warranty costs, customer credit losses, and litigation contingencies. The operating discussion is mildly confident, citing substantial margin improvement and growth investments, while acknowledging estimation uncertainty."
+}

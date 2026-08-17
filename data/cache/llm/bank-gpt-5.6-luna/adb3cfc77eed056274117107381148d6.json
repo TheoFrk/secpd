@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various other assumptions",
+    "believes to be reasonable",
+    "could differ from the Company’s estimate",
+    "subject to significant changes"
+  ],
+  "risk_summary": "The excerpt presents strong fiscal 2012 growth, higher operating income, and a generally confident outlook supported by specific revenue and segment data. Key estimation risks include elevated trade-return reserves, inventory obsolescence, receivable collectability, and multiple accounting assumptions, with explicit uncertainty around subsequent return activity. Disclosure is detailed but technically dense and includes standard forward-looking and estimate-related caveats."
+}

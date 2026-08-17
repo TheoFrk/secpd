@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future operating results",
+    "may operate at negative or marginally positive margins",
+    "as management deems appropriate",
+    "uncertainty regarding future RFS volumes",
+    "not tested or proven commercial feasibility"
+  ],
+  "risk_summary": "The disclosure is comparatively quantitative and identifies substantial exposure to volatile corn, ethanol, coproduct, energy, trade, and regulatory prices. Risk is material because margins and cash flows may deteriorate sharply, with potential production shutdowns, while some investments lack proven commercial feasibility. Overall tone is cautious and moderately negative, though operational results and mitigation activities are described in detail."
+}

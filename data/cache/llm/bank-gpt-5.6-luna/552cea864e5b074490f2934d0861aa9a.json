@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "inherently subject to risks and uncertainties",
+    "may involve new products",
+    "going forward we expect more variability",
+    "truncated liquidity discussion"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, highlighting strong revenue, operating income, backlog, and cash-flow improvements. However, earnings are materially supported by a bargain purchase gain and deferred tax benefit, while acquisition integration, manufacturing difficulty, order variability, government budgeting cycles, and liquidity assumptions create meaningful risks. The truncated liquidity passage limits assessment of near-term funding and capital allocation plans."
+}

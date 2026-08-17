@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "significant uncertainty exists",
+    "cannot be predicted",
+    "subject to certain conditions",
+    "primarily due to",
+    "effectively offset"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, including sales declines, segment trends, impairment charges, and available liquidity. Risk is elevated due to COVID-19-driven demand deterioration, reduced profitability and cash flow, and impairment charges, although management presents substantial liquidity and no outstanding debt as mitigating factors."
+}

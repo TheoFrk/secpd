@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.81,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "considerable judgment",
+    "other external factors",
+    "actual results may differ",
+    "subject to regulatory approvals",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating data and describes credit-loss, securities, tax, and goodwill accounting methodologies, but relies heavily on standard caveats and management judgment. Credit risk could increase under weaker economic conditions through higher delinquencies, defaults, non-performing assets, charge-offs, and provisions. Overall tone is mildly constructive based on growth in deposits, interest income, and net interest margin, offset by material estimation and acquisition-related uncertainties."
+}

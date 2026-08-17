@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "principally due to",
+    "continued to",
+    "remained solid",
+    "nonstandard tangible equity measures",
+    "encourages readers not to rely on any single measure"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, presenting detailed period-over-period drivers for revenue, expenses, capital, and credit quality. The tone is broadly stable and confident, although declining profitability, higher loan-loss provisions, reduced interest-bearing deposits, and market-specific charge-offs indicate moderate emerging risk. Non-GAAP tangible-equity measures and recurring attribution language modestly limit comparability and clarity."
+}

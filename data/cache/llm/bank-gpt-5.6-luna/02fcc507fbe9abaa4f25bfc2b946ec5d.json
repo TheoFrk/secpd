@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "industry specific and macroeconomic conditions",
+    "constant currency",
+    "management does not believe",
+    "various other economic, market and industry factors"
+  ],
+  "risk_summary": "The disclosure is largely quantified and transparent, showing strong operating-income growth and cost reductions, but it also highlights declining gross margins, regional mix pressure, Brexit-related demand uncertainty, and goodwill impairment. Reliance on adjusted/non-GAAP and constant-currency measures, along with broad causal language, modestly reduces clarity. Debt-program covenant compliance is reported, but potential amortization events and liquidity constraints remain relevant risks."
+}

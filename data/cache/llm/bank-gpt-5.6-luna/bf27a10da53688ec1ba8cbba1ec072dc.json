@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted net earnings",
+    "more accurate year-over-year comparison",
+    "not directly related to day-to-day business",
+    "outpace many of our competitors",
+    "long-term strategy of market share growth"
+  ],
+  "risk_summary": "The excerpt is generally precise and highly quantified, with a strongly confident performance narrative emphasizing sales growth, market share, earnings improvement, and capital deployment. Repeated presentation of adjusted non-GAAP metrics and exclusion of unusual charges may soften visibility into GAAP volatility and underlying risks. The excerpt contains limited explicit downside discussion, although it references significant acquisition spending, pension-related adjustments, and reliance on continued market-share gains."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "materially differ",
+    "subject to risks and uncertainties",
+    "significant estimates and assumptions",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is detailed on accounting policies and ownership changes but relies heavily on standard forward-looking disclaimers and management estimates. Key risks include tenant performance, impairment assumptions, regulatory developments, competition, and related-party exposure to UHS, with limited quantified sensitivity analysis in the excerpt."
+}

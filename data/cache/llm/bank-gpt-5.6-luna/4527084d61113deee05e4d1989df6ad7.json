@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "should not unduly rely",
+    "no obligation to update",
+    "continued weakness in PC market"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified operating and liquidity information, including debt, acquisition cost, cash-flow, and market trends, but is interspersed with extensive forward-looking-disclaimer language. The tone is generally confident and performance-focused, while acknowledging PC weakness, distributor inventory controls, currency effects, and acquisition-related funding and integration risks."
+}

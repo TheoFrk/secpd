@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted non-US GAAP measures",
+    "future benefits expected",
+    "plan may continue to evolve",
+    "no assurance results will be achieved",
+    "irregular in timing, amount and impact"
+  ],
+  "risk_summary": "The excerpt reports substantial net losses, declining sales and earnings, and a major restructuring involving approximately $275 million of charges and significant workforce reductions. Management presents ambitious margin, growth and cost-savings targets, but relies heavily on adjusted measures and explicitly acknowledges execution uncertainty."
+}

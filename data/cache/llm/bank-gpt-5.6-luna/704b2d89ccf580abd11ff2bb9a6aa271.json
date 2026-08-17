@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP/Underlying results",
+    "notable items excluded",
+    "subjective definition of ongoing performance",
+    "CECL forecast reliance",
+    "COVID-19-related uncertainty"
+  ],
+  "risk_summary": "The disclosure is highly quantified and identifies material deterioration in earnings, ROTCE, net interest margin, and credit-loss provisions driven by COVID-19, CECL adoption, and lower rates. Risk communication is generally transparent, though the extensive use of Underlying measures and exclusions may soften comparisons with GAAP results. Forbearance metrics and portfolio details provide meaningful mitigating context, but future credit losses remain sensitive to economic forecasts."
+}

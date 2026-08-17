@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.34,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "appearing in the 2011 Annual Report",
+    "no substantive MD&A provided"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion and defers entirely to another document. This limits standalone assessment of liquidity, results, and emerging risks, although it is a standard incorporation-by-reference format rather than an explicit adverse signal."
+}

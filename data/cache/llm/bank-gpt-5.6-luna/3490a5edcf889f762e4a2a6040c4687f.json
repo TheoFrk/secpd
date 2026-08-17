@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "exact extent of impact currently unknown",
+    "highly uncertain and continuously evolving",
+    "may adversely affect",
+    "subject to competitive constraints",
+    "qualitative assessments of goodwill"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on sales, customer concentration, restructuring costs, tax credits, and supply-chain effects. However, recurring COVID-related caveats, broad forward-looking uncertainty language, and reliance on qualitative goodwill assessments limit precision regarding future impacts. Risk tone is mildly negative due to component shortages, elongated lead times, customer concentration, restructuring activity, and potential impairment exposure, despite strong revenue growth."
+}

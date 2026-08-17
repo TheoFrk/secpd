@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high degree of uncertainty",
+    "primarily due to",
+    "we do not provide forward-looking estimates",
+    "ultimate resolution may result in materially different payments",
+    "best assessment of estimated future taxes"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including revenue changes, acquisitions, debt repurchases, liquidity, and tax-rate drivers. Key risks include reduced liquidity, COVID-19 impacts, acquisition-related cost increases, investment losses, tax uncertainty, and the inability to forecast R&D completion costs or timing. Tone is largely neutral and explanatory rather than crisis-like, although it highlights substantial operational and forecasting uncertainty."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.86,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "broad page-range referral"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis, instead directing readers to another document. While the page range is specific, the disclosure is non-informative in isolation and limits direct assessment of liquidity, performance, and risk factors."
+}

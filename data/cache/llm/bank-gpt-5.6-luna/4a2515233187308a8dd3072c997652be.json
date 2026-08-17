@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly subjective, complex and subject to variability",
+    "Actual results could differ significantly",
+    "current market conditions",
+    "long-term projections of cash flows",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The disclosure is technically detailed and provides quantified performance and allowance methodology, but relies materially on management estimates, collateral valuations, projected cash flows, and other subjective assumptions. Credit risks include weaker year-over-year earnings, low-rate reinvestment pressure, energy and commercial real estate exposures, and sensitivity to economic, regulatory, commodity, and valuation changes."
+}

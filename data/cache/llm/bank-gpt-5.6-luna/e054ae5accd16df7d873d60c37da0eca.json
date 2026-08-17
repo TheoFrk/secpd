@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "Non-GAAP measures",
+    "fixed currency rates",
+    "special gains and charges",
+    "acquisition-adjusted growth",
+    "significant margin decline"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with strong operating cash flow, stable leverage, and positive sales and adjusted earnings growth. However, reported EPS declined, gross margin compressed, and repeated reliance on adjusted, fixed-currency, and acquisition-adjusted measures may soften unfavorable GAAP trends. Overall risk tone is confident but includes moderate presentation and comparability risks."
+}

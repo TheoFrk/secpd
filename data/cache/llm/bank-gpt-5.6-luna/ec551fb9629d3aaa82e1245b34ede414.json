@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "material effect",
+    "best estimates",
+    "highly uncertain assumptions",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent on revenue, reserves, inventory write-downs, and customer-credit exposure, with a mildly positive tone driven by substantial sales and earnings growth. Risk disclosures rely on recurring estimation caveats and emphasize potentially material impacts without fully quantifying downside scenarios. Apparent drafting or extraction issues, including an incomplete section and an inconsistent comparison year, reduce clarity."
+}

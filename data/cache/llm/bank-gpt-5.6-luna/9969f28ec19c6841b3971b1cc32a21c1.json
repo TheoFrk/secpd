@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "may experience lower sales",
+    "actual outcomes may differ",
+    "management’s judgment is required",
+    "future taxable income"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, reporting substantial sales and profitability growth while identifying specific geopolitical, customer concentration, foreign-currency, and tax-estimation risks. Its complexity and extensive accounting-policy boilerplate moderately reduce readability, and reliance on non-GAAP measures could soften comparisons with GAAP performance."
+}

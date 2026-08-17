@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "underlying revenue measures",
+    "partly offset",
+    "certain legal matters",
+    "when applicable",
+    "may be affected by"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting revenue, expenses, operating income, restructuring costs, debt repurchases, and investment income with year-over-year comparisons. Risk tone is moderately positive due to earnings growth and expense control, but exposure to foreign exchange, acquisitions, insurance-market conditions, legal matters, contingent consideration, and performance-fee recognition remains. Some boilerplate, repeated wording, and broad causal explanations reduce clarity modestly."
+}

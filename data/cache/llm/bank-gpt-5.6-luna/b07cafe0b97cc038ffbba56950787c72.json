@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.27,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "estimates of future cash flows",
+    "consolidated versus unconsolidated volumes"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating data, but relies on extensive forward-looking disclaimers and assumptions around impairment testing, commodity volatility, and customer performance. Risk tone is moderately negative due to adverse weather, margin pressure, asset impairments, customer defaults, market-capitalization decline, and expected lease-rate pressure, partially offset by profitability and projected utilization above 90%."
+}

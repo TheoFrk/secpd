@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "risks and uncertainties",
+    "any adverse effect or inability",
+    "no obligation to publicly revise",
+    "success of initiatives and collaborations"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broadly worded contingencies, with limited quantification of likelihood or financial impact. It identifies material exposure to regulation, competition, customer demand, operational failures, litigation, licensing counterparties, acquisitions, and unapproved clinical and manufacturing expansion. The tone is cautious and risk-heavy rather than crisis-like, while the reported 235,000 stored specimens provides some concrete operating context."
+}

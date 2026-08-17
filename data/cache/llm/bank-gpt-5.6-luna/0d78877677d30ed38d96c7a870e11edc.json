@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.16,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.35,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "strategic investments",
+    "ongoing global supply chain disruption",
+    "inherent uncertainty",
+    "not a reasonable likelihood"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, reporting sales, earnings, cash flow, debt, margins, inventory turnover, and sensitivity to shrink assumptions. Risk factors include lower inventory turnover, supply-chain and transportation costs, shrink pressure, inflation-driven transaction declines, higher interest expense, and substantial debt-funded shareholder distributions. Overall tone remains confident and performance-oriented, with standard caveats around non-GAAP measures and accounting estimates."
+}

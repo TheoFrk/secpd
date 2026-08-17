@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.46,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may contain forward-looking statements",
+    "actual results may differ materially",
+    "Management believes",
+    "cannot guarantee sustained sales revenues",
+    "minimal adverse effect"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent regarding declining revenues, widening net losses, cash, working capital, inventory, and customer concentration. Liquidity appears strong, but the company relies solely on product sales, faces fragile demand and component lead-time risks, and provides limited detail on recovery prospects or inventory valuation exposure."
+}

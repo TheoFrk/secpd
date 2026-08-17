@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "fully exposed to fluctuations in fuel prices",
+    "beyond our control",
+    "excluding special items",
+    "may not be comparable",
+    "results could be volatile"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with detailed revenue, cost, liquidity, and fuel-price data. Risk is elevated by materially higher fuel costs, declining pretax income, lack of fuel hedging, and exposure to economic and demand volatility, although the company remained profitable with substantial liquidity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no obligation to update",
+    "among other things",
+    "could materially impact",
+    "commercially reasonable terms"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking language and broad, non-quantified risk conditions, particularly regarding demand, suppliers, financing, inventory, and compliance costs. It provides some useful quantification, including compliance expenses, inventory sensitivity, credit terms, and covenant status, but the excerpt is structurally complex and partially truncated. Overall tone is mildly cautious rather than crisis-like, with notable supply-chain, demand, pricing, obsolescence, interest-rate, and financing risks."
+}

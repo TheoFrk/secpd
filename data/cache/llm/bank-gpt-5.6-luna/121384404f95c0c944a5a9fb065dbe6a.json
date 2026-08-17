@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "imprecise risk",
+    "no material impact",
+    "among others",
+    "management estimates"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative asset-quality data and indicates improvement in non-performing assets, net charge-offs, and loan-loss provisions. However, allowance and goodwill assessments rely heavily on subjective assumptions, while repeated assertions of no material impact and broad economic-factor language limit forward-looking precision."
+}

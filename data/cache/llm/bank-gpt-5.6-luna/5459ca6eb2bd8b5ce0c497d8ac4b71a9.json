@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements and contingencies",
+    "expects growth in 2016 and beyond",
+    "may or may not continue",
+    "currently unknown capital requirements",
+    "not certain when or if significant revenue"
+  ],
+  "risk_summary": "The disclosure provides useful revenue, customer concentration, expense, impairment, and tax-loss figures, but relies heavily on forward-looking expectations and conditional language regarding growth, margins, commercialization, and financing. Key risks include dependence on major customers, insufficient revenue to absorb manufacturing overhead, potential capital constraints, covenant-related funding needs, and uncertain utilization of tax carryforwards."
+}

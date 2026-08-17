@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "may cause actual results to be materially different",
+    "assumes no obligation to update",
+    "at risk",
+    "could result in impairment charges in the future"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified disclosure, but the forward-looking disclaimer relies on broad boilerplate and limits update obligations. Risk tone is moderately negative, driven by declining Applebee’s same-restaurant sales, weaker franchisee collections, increased bad debt, closures, and goodwill exposure, although no impairment was recorded in 2016."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant risks and uncertainties",
+    "including, but not limited to",
+    "could cause actual results to differ materially",
+    "management cannot predict",
+    "undue reliance"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified financial measures, but contains substantial standard forward-looking disclaimers and broad, non-specific risk language. It identifies meaningful credit and macroeconomic risks, including unemployment, delinquent loans, foreclosures, funding constraints, and interest-rate uncertainty, without quantifying their potential impact in the provided section."
+}

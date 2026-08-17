@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "adjusted expenses",
+    "uncertain tax positions",
+    "sufficient for at least twelve months",
+    "currency impact"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear segment, margin, acquisition, currency, tax, and debt-related explanations. Risk tone is moderately confident, but reliance on adjusted non-GAAP measures, tax-position changes, foreign-currency exposure, and forward-looking liquidity sufficiency introduces uncertainty."
+}

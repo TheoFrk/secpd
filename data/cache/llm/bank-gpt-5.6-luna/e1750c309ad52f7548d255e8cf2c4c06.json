@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.25,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "could differ materially",
+    "primarily due to",
+    "not entirely offset by",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but highlights meaningful deterioration in fiscal 2024, including lower revenue and net income, an 11% reserve decline, and higher operating costs. Commodity-price volatility, reduced permitting activity, production declines, and dependence on operator activity remain material risks. Management presents its mineral-ownership strategy positively, though some explanations rely on broad causal language and standard forward-looking disclaimers."
+}

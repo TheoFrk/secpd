@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "long-term conservative operating approach",
+    "sufficient on- and off-balance sheet liquidity",
+    "reasonable likelihood",
+    "significant judgment and estimates",
+    "potentially material tax exposure"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and favorable risk profile, supported by quantified liquidity, capital, deposit, and loan metrics. However, it contains substantial accounting-estimate uncertainty around acquired-loan valuations, goodwill, taxes, and credit-loss allowances, including potentially material outcomes from differing assumptions. The incomplete excerpt limits assessment of broader operating and financial risks."
+}

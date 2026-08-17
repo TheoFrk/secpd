@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "currently anticipated cash requirements",
+    "may not be available at all or on terms favorable",
+    "no assurance ... meaningful time frame",
+    "actual results may differ from estimates"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantified, including cash balances, operating cash flow, deferred revenue, debt status, and year-over-year operating changes. Liquidity appears adequate, but the company lacks committed credit facilities and identifies exposure to revenue shortfalls, discretionary investment, acquisitions, financing availability, and forecasting uncertainty. The tone is cautiously constructive rather than crisis-like, with substantial standard forward-looking and contingency language."
+}

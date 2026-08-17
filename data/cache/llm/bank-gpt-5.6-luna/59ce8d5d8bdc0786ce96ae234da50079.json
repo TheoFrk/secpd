@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.95,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.35,
+  "risk_sentiment": -0.15,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to exhibit"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A information and redirects readers to another exhibit. This limits transparency and prevents assessment of liquidity, operating results, and material risks from the excerpt alone."
+}

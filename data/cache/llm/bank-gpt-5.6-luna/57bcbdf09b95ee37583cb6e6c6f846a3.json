@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "continued execution of our business plan",
+    "enhancing long-term shareholder value",
+    "strong capital, liquidity and reserves",
+    "economic and political uncertainty",
+    "historically low levels"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified macroeconomic data and specific market indicators, limiting outright vagueness. However, the introductory and strategic language is substantially boilerplate and emphasizes broad commitments without detailing measurable execution outcomes; the macro backdrop is cautiously negative, with persistent housing weakness, volatility, and low interest rates."
+}

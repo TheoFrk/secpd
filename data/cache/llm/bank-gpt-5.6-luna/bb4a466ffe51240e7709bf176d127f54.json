@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we believe we can fund our operations",
+    "sufficient for these requirements",
+    "nature of our operations",
+    "vary considerably with respect to magnitude and timing",
+    "subject to the same variability"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed liquidity, debt, cash flow, and tax information. Risk remains moderate due to reliance on operating cash flows and financing capacity, variable-rate debt, highly variable transaction activity, and significant investment outflows, while management expresses confidence in funding sufficiency."
+}

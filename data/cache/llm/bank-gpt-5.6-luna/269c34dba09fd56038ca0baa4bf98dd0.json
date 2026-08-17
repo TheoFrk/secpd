@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "actual results may differ",
+    "such other factors as deserve current recognition",
+    "substantial portion of any future losses",
+    "excerpt truncated"
+  ],
+  "risk_summary": "The excerpt is highly technical and largely boilerplate, with substantial discussion of accounting judgments, credit-loss estimates, impairment testing, and FDIC loss-sharing arrangements. It provides some quantified terms, including the FDIC coverage percentages and thresholds, but relies heavily on management discretion and forward-looking assumptions. The tone is neutral and explanatory rather than crisis-like, although sensitivity to economic conditions and interest-rate movements presents meaningful risk."
+}

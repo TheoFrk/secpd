@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measure limitations",
+    "expected to increase operating efficiencies",
+    "significant portion of net revenues",
+    "not meaningful",
+    "future prospects"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides specific drivers for revenue, margins, expenses, debt, taxes, and restructuring, but it contains extensive boilerplate around Adjusted EBITDA and omits key tables in the provided text. Credit risks include higher revolver borrowings and interest rates, customer concentration, ongoing restructuring, acquisition-related costs, and uncertain tax positions, although operating performance improved year over year."
+}

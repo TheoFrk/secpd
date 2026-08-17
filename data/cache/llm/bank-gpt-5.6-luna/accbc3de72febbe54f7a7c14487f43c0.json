@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.72,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "primarily driven by",
+    "outside of our control",
+    "strong execution",
+    "ongoing disruptions"
+  ],
+  "risk_summary": "The excerpt presents a strongly confident performance narrative with extensive quantified operating, margin, cash flow, and leverage data. Key risks include supply-chain disruption, inflation, COVID-19 impacts, foreign exchange, and reliance on adjusted or non-GAAP measures, while some long-term goal reconciliations are omitted due to external assumptions."
+}

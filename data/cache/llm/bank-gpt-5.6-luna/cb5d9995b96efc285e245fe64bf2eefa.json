@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "certain operating expenses",
+    "special items",
+    "fully exposed to fluctuations",
+    "impact on its business",
+    "industry standard insurance coverage"
+  ],
+  "risk_summary": "The disclosure is generally precise and quantitatively detailed, but relies on non-GAAP special-item adjustments and broad descriptions of cost drivers. Key risks include unhedged fuel-price exposure, elevated debt and covenant requirements, rising labor and maintenance costs, and the potential financial impact of a recent fatal accident."
+}

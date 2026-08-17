@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "may not be comparable",
+    "critical assumptions",
+    "material impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with extensive quantitative operating, margin, capital allocation, and actuarial information. Risks include consumer and housing-market sensitivity, credit and inventory constraints, margin pressure, product availability issues, and estimation uncertainty in self-insurance and benefit obligations. The overall tone is cautiously positive, supported by modest sales and earnings growth but tempered by expected margin compression and macroeconomic dependencies."
+}

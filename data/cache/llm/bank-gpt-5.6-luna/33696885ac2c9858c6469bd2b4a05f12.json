@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.38,
+  "risk_sentiment": -0.08,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information required ... is contained",
+    "boilerplate cross-reference",
+    "duplicated \"this\""
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A discussion and redirects readers to another filing, limiting transparency in this section. The cross-reference is procedural rather than an explicit adverse risk signal, but it impedes direct assessment of financial condition and operating results."
+}

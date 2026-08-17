@@ -1,0 +1,12 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt provides only a page reference to the MD&A and contains no financial, operational, or risk information. Credit-risk assessment is therefore not possible from this text alone."
+}

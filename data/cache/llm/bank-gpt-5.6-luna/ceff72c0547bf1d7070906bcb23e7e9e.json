@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we anticipate",
+    "allow us to operate more efficiently",
+    "inherently uncertain matters",
+    "actual amounts could differ from estimates"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively detailed, including sales, margins, restructuring charges, debt-related interest expense, and projected cost savings. Risk is moderate due to rising raw-material and operating costs, higher debt and rates, manufacturing start-up expenses, and reliance on uncertain estimates, although improved sales and operating income support a mildly positive tone."
+}

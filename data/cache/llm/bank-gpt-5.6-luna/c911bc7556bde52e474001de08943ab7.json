@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict ultimate effect",
+    "to the extent possible",
+    "partially mitigate",
+    "currently expected",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed and identifies declining sales, margin compression, inflation, foreign-exchange exposure, restructuring costs, and facility damage. Risk tone is balanced but mildly cautious, with some uncertainty around geopolitical impacts, insurance recoveries, and future restructuring charges."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "other factors beyond control",
+    "assumptions could produce different valuation",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative disclosures on assets, loans, non-performing assets, and asset-management balances, but relies heavily on standard forward-looking disclaimers and assumption-based accounting language. Credit risk is trending negatively, with non-performing assets rising to 2.32% from 1.87% and borrowers experiencing weaker revenues, job losses, and payment strain. Overall tone is cautious but not crisis-like."
+}

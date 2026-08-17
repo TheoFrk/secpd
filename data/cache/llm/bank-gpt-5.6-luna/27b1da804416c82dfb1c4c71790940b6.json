@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.42,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily attributable",
+    "partially offset",
+    "certain other",
+    "believes sufficient",
+    "anticipated capital expenditures"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed year-over-year drivers, but it reports substantial deterioration in sales, comparable-store performance, gross margin, operating income, and net income. Liquidity is presented as adequate, with no bank borrowings and limited letters of credit, although the forecast of sufficiency for the next several years is not supported by detailed sensitivity analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "organic growth definition",
+    "partially offset by",
+    "highly inflationary accounting",
+    "contingent consideration liability adjustments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear attribution of revenue, operating profit, currency, tax, and interest impacts. Risk factors include substantial Argentine peso exposure, inflationary accounting effects, higher interest expense, restructuring costs, and lower continuing-operations income. The tone is operationally confident but moderated by meaningful macroeconomic and financing pressures."
+}

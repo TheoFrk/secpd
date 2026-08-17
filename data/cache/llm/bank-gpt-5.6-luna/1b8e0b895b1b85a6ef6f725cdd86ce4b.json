@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "expected to continue",
+    "no binding commitment",
+    "could potentially slow down",
+    "impact ... not material"
+  ],
+  "risk_summary": "The excerpt is generally precise and transparent, with extensive quantitative disclosure on AUM, flows, revenues, expenses, and margins. Key risks include institutional net outflows, lower research revenue, margin compression, market-dependence of AUM, and reliance on EQH capital that is expressly nonbinding. The overall tone is moderately positive but includes selective hedging around future growth and capital deployment."
+}

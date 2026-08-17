@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "assumptions we believe to be reasonable",
+    "Actual results may vary",
+    "if factors change",
+    "estimated fair values",
+    "sufficient liquidity for at least the next twelve months"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified regarding financings, derivative sensitivity, and accounting treatments, but relies on substantial management estimates and forward-looking assumptions. Liquidity is presented positively, though the company’s biotech development model and repeated equity financings indicate potential capital dependence and dilution risk."
+}

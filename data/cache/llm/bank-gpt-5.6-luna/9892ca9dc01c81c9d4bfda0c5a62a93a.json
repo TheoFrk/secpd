@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.43,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measure",
+    "reasonable estimate",
+    "continue to analyze",
+    "significant and unusual non-operating items",
+    "tables omitted/truncated"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with strong growth in earnings, premiums, and operating income. Reported 2017 earnings are materially elevated by tax-reform benefits, while investment yields remain pressured and tax accounting remains subject to adjustment. The excerpt is technically dense and partially truncated, limiting assessment of certain underlying risks."
+}

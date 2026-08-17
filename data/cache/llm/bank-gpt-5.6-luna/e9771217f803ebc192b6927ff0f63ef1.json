@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "significant judgment and estimates",
+    "ceiling test impairment risk",
+    "availability of funds for exploration and development"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantified information, but repeats boilerplate ceiling-test language and relies on management estimates and assumptions. Key risks include commodity-price declines, potential impairment of oil and gas properties, dependence on production and financing access, and uncertainty around reserves and deferred tax asset realization."
+}

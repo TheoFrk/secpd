@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to cyclical trends",
+    "difficult to accurately predict",
+    "actual results may differ",
+    "based upon assumptions",
+    "unable to provide a reasonably reliable estimate"
+  ],
+  "risk_summary": "The disclosure is generally specific, providing quantified order declines, segment exposure, impairment charges, and liquidity information, but includes substantial forward-looking and estimate-dependent language. Key risks include semiconductor cyclicality, demand volatility, goodwill impairment, inventory valuation, customer payment risk, and uncertain tax-liability settlement timing."
+}

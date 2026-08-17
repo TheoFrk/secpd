@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not material",
+    "may significantly differ",
+    "cannot predict",
+    "numerous other uncertainties",
+    "permitted adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on declining revenue, pretax income, and net income, but presents material uncertainty around litigation, regulatory inquiries, tax positions, and discontinued mortgage operations. Contingency disclosures rely on standard probability and estimability language and explicitly state that aggregate loss estimates do not represent maximum exposure."
+}

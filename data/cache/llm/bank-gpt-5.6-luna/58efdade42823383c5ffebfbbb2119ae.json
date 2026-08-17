@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results could differ materially",
+    "no obligation to update",
+    "potentially negatively impact",
+    "absent any significant negative event"
+  ],
+  "risk_summary": "The disclosure identifies meaningful structural and operating risks, including product obsolescence, digital substitution, supply-chain volatility, price competition, customer consolidation, and pension funding sensitivity. It provides some useful quantification for pension contributions, discount rates, and capital expenditures, but relies heavily on standard forward-looking disclaimers and conditional language. Overall tone is cautiously negative regarding industry conditions while expressing confidence in cost controls, liquidity, and anticipated cash generation."
+}

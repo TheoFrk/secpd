@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "inherently subject to significant uncertainties",
+    "many beyond the Company’s control",
+    "cannot guarantee future performance",
+    "does not undertake obligation to update"
+  ],
+  "risk_summary": "The excerpt presents strong operating performance with substantial quantified growth, liquidity, loan modification, and PPP activity, producing a generally confident tone. However, extensive boilerplate forward-looking disclaimers and a broad, largely non-quantified risk inventory substantially limit transparency regarding downside exposure, particularly pandemic-related credit quality, acquisitions, cybersecurity, and market risks."
+}

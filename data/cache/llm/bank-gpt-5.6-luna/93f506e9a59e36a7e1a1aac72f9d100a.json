@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks are not exhaustive",
+    "not possible to predict all such risk factors",
+    "not possible to assess the impact",
+    "do not place undue reliance",
+    "disclaim any obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and legally protective, relying on broad forward-looking disclaimers and non-exhaustive risk descriptions rather than quantified exposure. It presents modestly improving market conditions and strategic positioning, but acknowledges substantial volatility, competition, regulatory uncertainty, and difficulty forecasting outcomes."
+}

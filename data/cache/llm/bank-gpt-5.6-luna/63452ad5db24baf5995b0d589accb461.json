@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believe we are positioned",
+    "may adjust the budget",
+    "could materially and adversely affect",
+    "prices beyond our control",
+    "estimated 11% production growth"
+  ],
+  "risk_summary": "The excerpt provides substantial historical quantification and operational detail, but relies on forward-looking expectations regarding commodity prices, production growth, capital spending, and liquidity. Key risks include commodity-price volatility, cost inflation, reserve depletion, and potential reliance on debt or equity financing if cash flow and asset-sale proceeds are insufficient. Overall tone is cautiously optimistic rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict",
+    "little visibility",
+    "large and unpredictable variations",
+    "forward-looking statements",
+    "approximate due to rounding"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative segment, product, cash flow, and demand information, but includes standard forward-looking disclaimers and acknowledges limited order visibility and demand volatility. Operating risks include declining sales in several product lines, customer insourcing, higher inventory and receivables, and reduced operating cash flow, partly offset by backlog growth and acquisition capacity."
+}

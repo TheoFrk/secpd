@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "non-GAAP measure",
+    "difficult to predict with precision",
+    "goodwill impairment charge"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but uses standard forward-looking disclaimers and non-GAAP measures that require reconciliation and comparability caution. Risk tone is moderately negative due to a $336.0 million goodwill impairment, a $58.6 million net loss, elevated effective tax rate, cyclical demand, and exposure to government and private-sector spending."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant judgment",
+    "various scenarios, forecasts, projections, and estimates",
+    "as necessary or applicable",
+    "reasonably assured",
+    "uncertainty as to ability to raise sufficient financing"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes several quantified changes, but relies substantially on accounting judgments, forecasts, and conditional language. Going-concern assessment, financing uncertainty, continuing losses and negative cash flows, bad-debt exposure, impairment risk, and volatile deconsolidation gains indicate elevated financial reporting and operating risk."
+}

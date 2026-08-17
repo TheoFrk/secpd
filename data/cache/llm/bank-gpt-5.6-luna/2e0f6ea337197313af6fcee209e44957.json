@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ materially",
+    "no obligation to update",
+    "solid foundation",
+    "estimates of future cash flows"
+  ],
+  "risk_summary": "The disclosure is generally balanced and includes meaningful operational and quantitative data, but relies on standard forward-looking disclaimers and optimistic management language. Key risks include commodity and margin volatility, geopolitical and shipping-lane disruptions, currency liquidity issues, weaker co-product values, and potential future impairment charges based on uncertain forecasts."
+}

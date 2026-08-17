@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects to pursue",
+    "continue to believe",
+    "improving market conditions",
+    "acceptable profit margin levels",
+    "materially and adversely affected"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, with detailed backlog, margins, debt, liquidity, and contract information. Risk tone is cautiously positive, supported by infrastructure funding and backlog growth, but tempered by project delays, cost overruns, margin variability, refinancing needs, and reliance on forecasts. The excerpt is highly technical and includes standard forward-looking and liquidity caveats."
+}

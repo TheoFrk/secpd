@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary factors",
+    "non-GAAP adjusted measures",
+    "customary regulatory approvals",
+    "expected continued price firming",
+    "text truncated at risk disclosure"
+  ],
+  "risk_summary": "The excerpt is relatively well quantified, including segment mix, geographic revenue exposure, transaction consideration, and insurance-rate data, but relies substantially on boilerplate forward-looking and non-GAAP language. Risk tone is cautiously positive, supported by a hardening insurance market, while exposure remains to premium cyclicality, loss-cost inflation, catastrophe losses, acquisition funding, and clean-energy investment losses."
+}

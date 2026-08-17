@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "subjective and/or complex judgments",
+    "inherently uncertain",
+    "no assurance"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on loan growth, allowance balances, and sensitivity scenarios, but is heavily framed by standard forward-looking disclaimers and judgment-based estimates. Key risks include potential deterioration in loan collateral values, credit quality, economic conditions, and competitive pressure on deposits. Overall tone is cautiously constructive, supported by strong loan growth but tempered by material uncertainty around future credit losses."
+}

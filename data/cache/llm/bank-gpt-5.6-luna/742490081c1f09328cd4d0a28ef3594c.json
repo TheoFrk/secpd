@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-referenced sections",
+    "page-range references",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt is an index-style reference to MD&A sections and contains no quantitative liquidity, operating, or accounting-risk disclosures. Credit risk and management tone therefore cannot be meaningfully assessed from this text alone."
+}

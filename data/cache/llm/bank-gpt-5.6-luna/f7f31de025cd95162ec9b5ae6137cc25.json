@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "assumptions, judgments and estimates",
+    "VSOE/TPE/BESP allocation hierarchy",
+    "not material to consolidated results"
+  ],
+  "risk_summary": "The excerpt is heavily technical and contains standard forward-looking disclaimers, estimation caveats, and complex revenue-recognition judgments. It provides meaningful quantitative detail on acquisitions and segment revenue, but the truncated discussion and reliance on conditional language limit direct assessment of underlying downside risk. Overall tone is moderately confident, supported by reported growth, while accounting complexity and integration assumptions remain notable risk areas."
+}

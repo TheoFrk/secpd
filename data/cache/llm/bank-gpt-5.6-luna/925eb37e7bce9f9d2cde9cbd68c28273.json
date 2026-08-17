@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "certain estimates and judgments",
+    "in certain cases",
+    "primarily attributable",
+    "partially offset by",
+    "contracts winding down"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative sensitivity disclosures, particularly for pension assumptions and segment performance. However, extensive accounting-policy boilerplate, reliance on management estimates, and references to contract winddowns and unfavorable foreign exchange indicate moderate underlying execution and earnings risks."
+}

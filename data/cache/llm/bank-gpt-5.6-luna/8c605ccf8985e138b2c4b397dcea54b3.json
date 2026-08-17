@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "inherently subject to risks and uncertainties",
+    "could differ materially",
+    "expressly disclaim any obligation to update",
+    "qualitative assessments without quantitative test"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward boilerplate forward-looking-statements disclaimers and a broad catalog of potential risks, with limited quantified operating or liquidity detail in the provided section. Acquisition activity and substantial new debt increase integration, execution, cybersecurity, and leverage-related risk, while the goodwill discussion relies on uncertain Level 3 assumptions and qualitative assessments."
+}

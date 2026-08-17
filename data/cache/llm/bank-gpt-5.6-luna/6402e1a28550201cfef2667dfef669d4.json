@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could result in lower revenues or gross margins",
+    "we do not believe such a loss would adversely affect",
+    "significant estimates based on assumptions",
+    "uncertainty regarding future realization"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative operating metrics, including revenue growth, license concentration, customer deployments, implementation timing, and patent counts. Risk tone is cautiously optimistic but highlights material exposure to competition, product concentration, implementation delays, channel partners, valuation assumptions, and uncertain deferred-tax-asset realization. Some standard forward-looking disclaimers and management assurances temper or qualify the disclosed risks."
+}

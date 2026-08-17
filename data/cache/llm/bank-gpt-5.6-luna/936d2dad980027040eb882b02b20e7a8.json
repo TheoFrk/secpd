@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "safe-harbor boilerplate",
+    "may be beyond the Company's control",
+    "management believes",
+    "estimates and assumptions",
+    "disclaims any obligation to update"
+  ],
+  "risk_summary": "The excerpt contains substantial quantified disclosure on receivables, inventory, contract revenue recognition, accrued liabilities, and liquidity, reducing overall vagueness. Risk is concentrated in management estimates, percentage-of-completion accounting, inventory obsolescence, customer collections, and declining revenue and earnings, while management presents near-term liquidity as sufficient."
+}

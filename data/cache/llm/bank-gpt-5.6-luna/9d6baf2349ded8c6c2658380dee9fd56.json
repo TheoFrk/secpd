@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "could have a material adverse effect",
+    "duration and ultimate impact unknown",
+    "among other factors",
+    "various methods"
+  ],
+  "risk_summary": "The disclosure is technically detailed and provides meaningful asset and liability concentrations, but relies heavily on estimates, actuarial assumptions, fair-value judgments, and reinsurance collectibility. COVID-19 impacts are explicitly uncertain, with potential pressure on investments, premiums, retention, and claims, although management expresses confidence in near-term liquidity."
+}

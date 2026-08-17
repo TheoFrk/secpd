@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "could cause actual results",
+    "many factors beyond our control",
+    "estimates of contract profitability"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, but includes standard forward-looking disclaimers and reliance on estimates under percentage-of-completion accounting. Risk tone is mildly negative due to declining net income, lower bid margins, project-mix effects, competition, and potential cost or profitability revisions."
+}

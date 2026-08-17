@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "without limitation",
+    "table/excerpt truncation",
+    "adjusted to exclude impacts"
+  ],
+  "risk_summary": "The excerpt is generally quantitatively detailed, with extensive historical revenue, subscriber, paid-week, attendance, and margin metrics. Risk tone is mixed: strong long-term online growth and margin performance are offset by declining online growth, meeting attendance, consumer demand pressures, and restructuring-related effects. Boilerplate forward-looking disclaimers and adjustment-based presentations modestly reduce transparency."
+}

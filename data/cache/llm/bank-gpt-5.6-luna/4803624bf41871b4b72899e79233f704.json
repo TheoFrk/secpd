@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.62,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking statements",
+    "may continue to decline",
+    "projects typically take a number of months",
+    "still evaluating the potential impact",
+    "factors outside of our control"
+  ],
+  "risk_summary": "The disclosure is materially negative, describing a 30% revenue decline, 52% gross profit decline, net loss, lower backlog, reduced orders, customer project delays or cancellations, and execution challenges. Quantification is generally strong, but recurring causal explanations and broad market-risk language limit precision regarding future performance and contract-level exposures."
+}

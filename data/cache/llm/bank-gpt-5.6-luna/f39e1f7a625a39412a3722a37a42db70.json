@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.14,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "further analysis infeasible",
+    "primarily due to",
+    "significant judgment required",
+    "could be significantly affected",
+    "non-GAAP metric exclusions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, but uses standard management qualifiers and acknowledges that certain sales drivers cannot be separately analyzed. Operating income, cash flow, and gross margin declined despite sales growth, indicating margin and execution pressure. Self-insurance, lease accounting, tax judgments, and non-GAAP measures introduce estimation and comparability risks."
+}

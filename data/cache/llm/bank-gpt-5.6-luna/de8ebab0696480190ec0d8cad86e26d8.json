@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "approximately",
+    "potential future acquisitions",
+    "under no obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with detailed segment results, margins, guidance ranges, and identified drivers. Risk tone is cautiously positive, reflecting expected sales growth and margin stability, but substantial exposure remains to foreign exchange, China and geopolitical conditions, regulation, customer concentration, acquisitions, cybersecurity, and decarbonization trends. Extensive forward-looking disclaimers and reliance on estimates introduce moderate uncertainty."
+}

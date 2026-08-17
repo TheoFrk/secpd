@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "no obligation to update",
+    "expected to continue expanding",
+    "projected cash flows"
+  ],
+  "risk_summary": "The excerpt presents quantified growth and recurring-revenue metrics, but is dominated by standard forward-looking disclaimers and optimistic plans with limited operational detail on execution risks. The net loss, reliance on projected cash flows for asset recoverability, acquisition history, and exposure to compliance and technology demands indicate moderate underlying risk despite a generally constructive tone."
+}

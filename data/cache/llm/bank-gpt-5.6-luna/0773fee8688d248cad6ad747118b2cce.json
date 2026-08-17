@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict duration or scope",
+    "negative financial impact cannot be reasonably estimated",
+    "could continue to be material",
+    "subject to review and termination",
+    "reasonably expected to have a material effect"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including a 35% revenue decline, regional decreases, currency exposure, covenant thresholds, and available liquidity. Risk tone is moderately negative due to COVID-19 disruption, uncertain duration, reduced demand, cost controls, and global operating exposure, although the company reports no borrowings and covenant compliance."
+}

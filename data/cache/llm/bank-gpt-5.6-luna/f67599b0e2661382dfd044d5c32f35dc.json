@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily",
+    "partially offset",
+    "unless otherwise indicated",
+    "we currently expect",
+    "percentages may not add due to rounding"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, describing restaurant counts, revenue changes, cost percentages, commodity exposure, and planned capital expenditures. Risks include rising commodity costs, increasing franchise costs, dependence on refranchising, and exposure to beef prices without fixed-price contracts. Overall tone is cautiously constructive, emphasizing operational leverage and sales growth while acknowledging cost pressures."
+}

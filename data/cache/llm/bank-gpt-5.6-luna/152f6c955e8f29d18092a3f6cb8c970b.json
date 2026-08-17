@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.61,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "generally",
+    "may be required",
+    "qualitative factors",
+    "customary closing conditions"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantitatively supported, highlighting strong historical earnings, cash flow, volume growth, margins, acquisitions, and capital investment. Risk exposure remains tied to metals-price volatility, demand and working-capital changes, impairment assumptions, and pending acquisition approvals. The tone is moderately confident but relies on recurring qualifiers and forward-looking judgments in several areas."
+}

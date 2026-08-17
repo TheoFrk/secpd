@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "may increase",
+    "from time to time",
+    "if ... were to occur",
+    "including but not limited to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, customer concentration, geographic exposure, margins, and a divestiture, but relies heavily on forward-looking caveats and conditional language. Key credit risks include customer concentration, dependence on capital spending, international and economic exposure, execution delays, and significant accounting judgment in revenue recognition."
+}

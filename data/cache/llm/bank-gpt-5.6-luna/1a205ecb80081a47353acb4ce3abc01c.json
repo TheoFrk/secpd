@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "primarily due to",
+    "partially offset by",
+    "strong balance sheet",
+    "forward-looking guidance"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides detailed drivers for revenue, margins, cash performance, and segment results. Risk tone is generally confident, but goodwill and intangible impairment, margin compression, currency exposure, weaker LNG activity, and reliance on adjusted metrics indicate meaningful underlying risks."
+}

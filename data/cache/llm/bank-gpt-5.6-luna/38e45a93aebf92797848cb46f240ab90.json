@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects recovery",
+    "remains unclear",
+    "well-positioned",
+    "action plans to mitigate",
+    "future needs will vary"
+  ],
+  "risk_summary": "The disclosure is generally specific and includes meaningful quantified exposure, including customer concentration, government-program dependence, cost pressures, and $43.2 million of negative cumulative changes in estimated profitability. Risk tone is mildly negative because AEC faces staffing, supply-chain, productivity, scrap, and firm-fixed-price program-margin challenges that may persist into 2025, although management presents mitigation and integration initiatives."
+}

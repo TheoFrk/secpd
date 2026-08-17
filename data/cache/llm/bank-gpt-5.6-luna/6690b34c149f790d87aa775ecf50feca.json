@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "cannot be certain funding will be available",
+    "no assurance",
+    "material adverse effect"
+  ],
+  "risk_summary": "The excerpt presents significant liquidity, commodity-price, credit-market, and operational-continuity risks, including potential inability to fund exploration and drilling activities. Although it includes some quantified impairments and cost reductions, extensive boilerplate disclaimers and repeated uncertainty language limit clarity regarding funding prospects and expected outcomes."
+}

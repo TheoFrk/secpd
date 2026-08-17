@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective judgments and estimates",
+    "no assurance future losses will not exceed allowance",
+    "significant judgment",
+    "could differ significantly",
+    "not expected to increase significantly"
+  ],
+  "risk_summary": "The excerpt provides useful business descriptions and identifies key credit, valuation, tax, and market risks, but relies heavily on management judgment and non-quantified qualifiers. Loan-loss adequacy and OREO valuations are exposed to adverse changes in delinquencies, collateral values, market volatility, and economic conditions."
+}

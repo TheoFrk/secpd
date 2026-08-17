@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "expectations are",
+    "impracticable to disclose",
+    "partially offset by",
+    "significantly affected by"
+  ],
+  "risk_summary": "The excerpt is generally data-rich and provides extensive year-over-year quantitative detail on market conditions and segment performance. Risk tone is cautiously positive, supported by improving housing and remodeling demand, but tempered by cyclical exposure, energy and commodity price volatility, and limited comparability following the Plum Creek merger. Several causal explanations and forward-looking expectations remain high-level, with some disclosures explicitly described as impracticable to provide."
+}

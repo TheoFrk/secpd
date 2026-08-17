@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance",
+    "unforeseeable duration and severity",
+    "highly dependent on",
+    "may be subject to future closure",
+    "to the extent possible"
+  ],
+  "risk_summary": "The disclosure quantifies several operating impacts, acquisitions, divestitures, and segment results, but relies heavily on COVID-19 uncertainty language and provides limited scenario-based estimates of future effects. The tone is cautiously resilient, citing strong demand, operating cash flow, and preserved liquidity while acknowledging supply disruptions, volatility, and uncertain duration of the pandemic."
+}

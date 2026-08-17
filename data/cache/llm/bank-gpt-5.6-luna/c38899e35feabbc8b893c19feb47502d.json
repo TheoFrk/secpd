@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we believe",
+    "do not anticipate",
+    "generally tied to",
+    "primarily due to",
+    "foreseeable capital needs"
+  ],
+  "risk_summary": "The disclosure is detailed and substantially quantified, with clear metrics for revenue, costs, leverage, maturities, fuel exposure, and covenant compliance. The overall tone is confident and performance-oriented, although it acknowledges sensitivity to economic demand, fuel prices, labor costs, and covenant performance. Forward-looking assurances such as no anticipated covenant breach and sufficient borrowing capacity introduce moderate uncertainty."
+}

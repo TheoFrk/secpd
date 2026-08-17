@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot estimate with certainty",
+    "long-term objective",
+    "committed to delivering",
+    "industry-wide uncertainties",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt presents strong 2021 performance, liquidity, margin expansion, and shareholder returns in a confident tone. Risk disclosure is generally specific regarding COVID-19, supply-chain constraints, inflation, accounting estimates, and non-GAAP comparability, but the 2022 outlook is introduced without quantified targets in the provided text and several strategic commitments remain qualitative."
+}

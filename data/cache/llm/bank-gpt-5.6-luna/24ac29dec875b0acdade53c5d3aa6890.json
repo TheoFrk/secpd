@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results may differ materially",
+    "difficult and subjective judgments",
+    "estimates inherently uncertain",
+    "believed to be reasonable"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and strategic, with a generally confident operating tone and several quantified revenue and segment figures. Risk disclosure relies on standard forward-looking and accounting-estimate caveats, including material uncertainty around judgments and assumptions, but provides limited specific downside quantification in the excerpt."
+}

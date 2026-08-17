@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "broad forward-looking disclaimer",
+    "numerous unknown factors",
+    "beyond the Company's control",
+    "no obligation to update",
+    "absent a material capital expenditure"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but includes extensive standard forward-looking disclaimers and broad causal language. Operating performance weakened materially, with an 80% decline in pretax income, a 71% decline in net income, lower margins, reduced backlog, and declining cash balances. Management nevertheless states that available resources and operations should meet needs over the next 12 months."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no obligation to update",
+    "VIE contractual control structure",
+    "discontinued operations loss",
+    "crypto-mining expansion"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail, but extensive boilerplate disclaimers and complex subsidiary/VIE descriptions reduce clarity. Risk is elevated by severe recurring net losses, significant revenue and customer concentration at Gufeng, discontinued-operation losses, and a speculative proposed expansion into blockchain and cryptocurrency mining."
+}

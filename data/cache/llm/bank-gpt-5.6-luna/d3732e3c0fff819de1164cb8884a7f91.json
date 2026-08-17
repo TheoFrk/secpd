@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "actual results could differ materially",
+    "management’s best estimate",
+    "factors beyond the Corporation’s control"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified regarding earnings, revenue drivers, acquisitions, and trust assets. However, extensive statutory forward-looking language and reliance on subjective loan-loss estimates introduce moderate uncertainty, particularly around portfolio performance, economic conditions, interest rates, and regulatory judgments. Overall tone is mildly positive, supported by higher 2014 earnings, though tempered by credit and estimation risks."
+}

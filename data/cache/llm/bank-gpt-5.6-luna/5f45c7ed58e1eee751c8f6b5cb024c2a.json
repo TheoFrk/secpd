@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "could continue to be negatively impacted",
+    "based on estimates",
+    "actual trends differ",
+    "significant factors"
+  ],
+  "risk_summary": "The excerpt is predominantly quantitative and presents improving sales, margins, operating income, cash flow, and returns. Key risks include higher debt-to-equity, competitive pressure, adverse shrink and claims trends, natural-disaster costs, and reliance on management estimates. Overall, the tone is confident and performance-oriented, with moderate use of standard forward-looking and estimate-related caveats."
+}

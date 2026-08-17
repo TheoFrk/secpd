@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "could have a material adverse effect",
+    "subject to risks and uncertainties",
+    "among other factors",
+    "customary representations and warranties"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantitative disclosures, but relies substantially on estimates, actuarial assumptions, fair-value judgments, and conditional material-adverse-effect language. Key risks include investment impairment, reserve inadequacy, reinsurer credit exposure, market fluctuations, and debt covenant or default events."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "ultimate outcome is unknown",
+    "materially different results",
+    "believed adequate by management",
+    "judgement errors may occur",
+    "current economic and industry conditions"
+  ],
+  "risk_summary": "The disclosure emphasizes that the allowance for loan losses depends heavily on management estimates and uncertain economic, industry, and borrower-specific factors. It acknowledges that future assessments could materially change the allowance, but provides no quantitative sensitivity analysis or specific loss exposure."
+}

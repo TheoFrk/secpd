@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "subjective determinations of management",
+    "underlying financial performance",
+    "expected to be realized",
+    "difficult in the current low-growth environment"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including geographic exposure, margins, pension obligations, restructuring charges, currency impacts, and debt-related interest expense. Risk tone is cautiously positive, but recurring reliance on adjusted “base” measures, management judgments, and forward-looking synergy and earnings targets creates some comparability and execution risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future events rarely develop exactly as forecast",
+    "lack of sufficient working capital",
+    "may not be able to maintain profitability",
+    "dependence on a few key distributors",
+    "currently evaluating the effect"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful quantitative information, but relies substantially on standard accounting-policy boilerplate and broad forward-looking caveats. Liquidity and operating risks are material, including limited working capital, customer and supplier concentration, prior losses, and dependence on key executives, although management states that cash and expected operating flows should cover requirements for at least twelve months."
+}

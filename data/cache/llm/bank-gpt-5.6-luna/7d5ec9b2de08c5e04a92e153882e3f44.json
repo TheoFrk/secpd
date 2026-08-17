@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot assure you",
+    "subject to FDA approval",
+    "at the discretion of Battelle",
+    "potential total payments",
+    "previously classified as being in default"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and explains revenue, expense, debt-conversion, and contract developments, but highlights substantial execution, regulatory, funding, and contract-payment uncertainty. The company remains dependent on successful clinical trials and approvals, while prior note defaults, debt settlements, dilution, and milestone-based revenue indicate elevated financial risk."
+}

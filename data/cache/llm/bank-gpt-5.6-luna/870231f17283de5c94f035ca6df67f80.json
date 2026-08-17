@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "various other assumptions",
+    "many factors",
+    "anticipated customer shipments",
+    "difficult to estimate"
+  ],
+  "risk_summary": "The excerpt is detailed and includes meaningful quantitative disclosures on customers, agreements, development costs, and revenue recognition, but relies on forward-looking expectations about customer commercialization and market growth. The business appears exposed to shipment timing, customer concentration and product-cycle delays, while liquidity discussion is incomplete because the excerpt ends abruptly."
+}

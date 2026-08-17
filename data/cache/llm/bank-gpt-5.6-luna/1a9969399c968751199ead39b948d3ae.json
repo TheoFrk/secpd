@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unusual positive impacts",
+    "more typical patterns are likely to return",
+    "significant majority",
+    "where cost effective",
+    "highly seasonal demand"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on seasonality, sales concentration, disaster-recovery orders, labor capacity, and working-capital drivers. Key risks include the expected reversal of unusual project benefits, pronounced seasonal concentration, education-budget pressure, customer payment delays, labor requirements, and supply-chain volatility. Management presents the domestic manufacturing footprint and integrated service model as competitive advantages, producing a cautiously positive but risk-aware tone."
+}

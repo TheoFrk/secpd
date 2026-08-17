@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant uncertainty",
+    "may not necessarily be indicative",
+    "customary post-close adjustments",
+    "potential associated implications",
+    "management believes that […]"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on assets, transactions, and market exposures, but relies extensively on boilerplate uncertainty language regarding COVID-19, rates, markets, and regulatory outcomes. Risk is elevated for spread compression, reserve and valuation changes, insurance guarantees, and market-sensitive earnings, although the tone is controlled rather than crisis-like."
+}

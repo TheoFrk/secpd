@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "based on management’s estimates and assumptions",
+    "other relevant factors",
+    "may result in",
+    "expected cash flows",
+    "significantly different fair values"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and methodological detail, but relies heavily on subjective estimates regarding loan losses, fair values, collateral, cash flows, and FDIC loss-share recoveries. It highlights material sensitivity to borrower deterioration, economic conditions, collateral values, regulatory judgments, and clawback obligations, indicating meaningful credit and valuation risk without signaling an immediate crisis."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.05,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot be fully anticipated",
+    "cannot be guaranteed",
+    "could be materially adverse",
+    "limited number of sources",
+    "beyond our control"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including quantified growth, geographic exposure, production constraints, water and energy dependencies, outsourcing concentration, and revenue-recognition corrections. Risk disclosure is generally direct but relies on recurring caveats regarding weather, production variability, third parties, and future availability or cost conditions. Overall tone is cautiously neutral, balancing growth and capacity-expansion initiatives against meaningful execution and supply risks."
+}

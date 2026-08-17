@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to significant judgment",
+    "actual results may differ",
+    "significantly impacted by changes",
+    "full cost ceiling test",
+    "not more likely than not"
+  ],
+  "risk_summary": "The disclosure is materially quantified but relies heavily on standard estimation caveats around reserves, impairments, receivables, and deferred taxes. Risk tone is negative due to declining revenue, very low cash, repeated reserve impairments, a failed well, and a 100% valuation allowance on deferred tax assets."
+}

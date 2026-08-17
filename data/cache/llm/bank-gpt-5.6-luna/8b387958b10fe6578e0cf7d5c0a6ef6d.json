@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "difficult to predict",
+    "may or may not be adopted",
+    "materially differ",
+    "subject to regulatory and reimbursement factors"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broad conditional language, limiting precision about future outcomes. It identifies meaningful regulatory, safety, reimbursement, pricing, competitive, currency, and inventory risks, while reporting quantified historical sales declines and operational drivers. Overall tone is cautious but not crisis-like."
+}

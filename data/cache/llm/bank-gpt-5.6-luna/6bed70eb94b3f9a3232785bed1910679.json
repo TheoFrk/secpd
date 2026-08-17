@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "broad-based increase in demand",
+    "primarily the result of",
+    "typically do not materially change",
+    "based on several factors",
+    "subject to judgment"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear disclosures on revenue, cash flow, financing, repurchases, and debt covenants. Risk tone is mixed: strong profitability and liquidity are offset by sequential revenue declines, inventory corrections, macroeconomic weakness, and Japan-related disruption. Some causal explanations rely on broad or judgment-based language rather than detailed attribution."
+}

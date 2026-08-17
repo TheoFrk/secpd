@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management has not been able to conclude",
+    "could be obtained",
+    "cannot predict",
+    "unanticipated events",
+    "future earnings and financial factors"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, but highlights substantial uncertainty regarding collectability of long-term lease receivables, tenant financial condition, environmental or operational cash needs, and future liquidity. Management expresses moderate confidence in ongoing liquidity while relying on asset-backed financing as a contingency."
+}

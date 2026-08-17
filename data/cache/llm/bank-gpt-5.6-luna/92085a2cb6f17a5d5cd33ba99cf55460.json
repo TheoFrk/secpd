@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the impact",
+    "may be unable to fully mitigate",
+    "known or unknown risks and uncertainties",
+    "may adversely affect",
+    "expected to provide opportunities"
+  ],
+  "risk_summary": "The excerpt is heavily forward-looking and relies on broad risk disclaimers, conditional language, and qualitative assertions rather than quantified sensitivity or financial impact analysis. It identifies meaningful cyclicality, weather, pricing, customer-capital, regulatory, and energy-market risks, while maintaining a moderately constructive tone regarding acquisitions and infrastructure opportunities."
+}

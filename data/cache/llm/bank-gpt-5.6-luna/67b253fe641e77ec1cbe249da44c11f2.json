@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "reasonable expectations",
+    "could differ from estimates",
+    "thoughtful projections and insights",
+    "potential events or circumstances",
+    "exact correlations are not available"
+  ],
+  "risk_summary": "The disclosure is generally specific and transparent, with substantial quantitative detail on valuation assumptions, discount rates, pension rates, and impairment testing. Key risks arise from management judgment in fair-value, goodwill, pension, and revenue-recognition estimates, alongside sensitivity to economic downturns and projection assumptions. Overall tone is cautiously confident, emphasizing no impairment and favorable operating-margin trends."
+}

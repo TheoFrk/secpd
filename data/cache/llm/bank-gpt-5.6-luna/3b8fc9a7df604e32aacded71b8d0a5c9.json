@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not possible to predict all factors",
+    "no obligation to update",
+    "approximately / constant currency measures"
+  ],
+  "risk_summary": "The excerpt reports improving sales, margins, and operating performance, producing a generally positive but qualified risk tone. Disclosure is relatively quantitative in the operating discussion, but extensive repeated forward-looking disclaimers and reliance on broad, unquantified uncertainties reduce transparency regarding downside exposure."
+}

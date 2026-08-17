@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "estimates and judgments",
+    "subject to many variables",
+    "reliably estimated and probable",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified tax, contract, and accounting impacts, but relies heavily on standard disclaimers and broad judgment-based language. Key risks include revenue recognition estimates, contract cost overruns, milestone and claim realizability, collectability, and uncertain tax positions; the excerpt is truncated, limiting assessment of the full risk picture."
+}

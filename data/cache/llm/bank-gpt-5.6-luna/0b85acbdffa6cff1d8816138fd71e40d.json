@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary note",
+    "estimates and judgments",
+    "subject to many variables",
+    "complicated and subject to many variables",
+    "text truncated at contract claims"
+  ],
+  "risk_summary": "The excerpt provides useful quantified liquidity and cash-flow data, but emphasizes substantial judgment and uncertainty in revenue recognition, contract estimates, and completion costs. Liquidity weakened materially, with cash and marketable securities declining to $21.8 million and operating cash outflows of $21.0 million, partly offset by equity financing. Repeated boilerplate and a truncated section limit full assessment of contract-related risks."
+}

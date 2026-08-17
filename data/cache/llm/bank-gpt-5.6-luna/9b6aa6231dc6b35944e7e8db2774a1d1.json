@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "mixed signals",
+    "a number of factors",
+    "subject to variability",
+    "the Company believes",
+    "expected to continue"
+  ],
+  "risk_summary": "The disclosure is generally specific and data-rich, quantifying mortgage-market declines, margins, commissions, and claims provisions. Risk tone is moderately negative due to weaker real estate activity, reduced originations, operating leverage, and exposure to cyclical markets, although favorable claims development partially offsets these concerns. The excerpt is complex and includes some standard hedging and broad causal language."
+}

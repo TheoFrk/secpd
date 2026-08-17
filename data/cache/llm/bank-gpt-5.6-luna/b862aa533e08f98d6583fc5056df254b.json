@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "based on current cash position and operating plan",
+    "reasonable terms",
+    "subjective or complex judgments",
+    "funding assessed as probable"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent, but highlights a net loss, declining professional-services revenue, reduced gross margins, and increased receivables. Liquidity appears adequate with no current borrowings and management expects to meet cash requirements beyond twelve months, although revenue recognition and government-contract funding introduce judgment and collection risk."
+}

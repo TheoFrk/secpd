@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "management believes",
+    "adequate for expected resource requirements",
+    "minimal adverse effect",
+    "inventory values ... were as follows",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and describes declining revenues, a sharply increased net loss, reduced cash, and higher inventory, indicating meaningful operating and liquidity risks. However, management reports strong working capital and liquidity ratios and states that resources are adequate for the next twelve months. Some conclusions rely on generic assurances and omitted inventory detail, limiting transparency."
+}

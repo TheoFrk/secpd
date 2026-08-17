@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "dependent on project completion",
+    "estimated completion date",
+    "yet to receive title deed",
+    "not expected to have a significant effect",
+    "partial discussion due truncation"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding segment performance, cash, receivables, inventory, and profitability, with a mildly positive operating tone. However, unresolved property title and project-completion issues in China, rising inventories, substantially higher tax expense, and lower net income indicate moderate execution and asset-realization risks. Repeated cross-references and boilerplate accounting-update language reduce clarity without appearing strongly evasive."
+}

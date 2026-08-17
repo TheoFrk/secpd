@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "among other factors",
+    "unclear when shortages will subside",
+    "pass-through mechanisms inadequate",
+    "could be adversely impacted"
+  ],
+  "risk_summary": "The excerpt is relatively specific and highly quantified, but contains substantial standard forward-looking disclaimers and some uncertainty around semiconductor shortages, cost pass-through, and future margins and cash flow. Risk tone is moderately negative due to production volatility, elevated costs, inventory growth, and operating cash flow pressure, although the company reports improved shipments and profitability versus 2020."
+}

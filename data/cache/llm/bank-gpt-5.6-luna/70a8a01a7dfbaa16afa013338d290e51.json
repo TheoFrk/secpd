@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to update",
+    "inherently subjective estimates",
+    "inherent but undetected losses",
+    "fair value could differ"
+  ],
+  "risk_summary": "The excerpt combines precise historical performance data with extensive boilerplate forward-looking disclaimers and subjective loan-loss and foreclosure valuation assumptions. Credit risk is material because undetected losses, collateral values, economic conditions, and customer-specific deterioration could cause allowance and earnings volatility, although reported 2012 results improved modestly."
+}

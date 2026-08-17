@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor statement",
+    "no obligation to update",
+    "risks and uncertainties",
+    "other operational, financial or legal risks",
+    "detailed affiliated-entity structure"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-disclosure language and broad risk enumeration, which limits specificity about potential downside magnitude. However, the operating discussion provides substantial quantitative detail on revenue mix, loads, pricing, COVID-19 impacts, and market conditions. Risk tone is balanced and mildly constructive, with identifiable pandemic and demand risks but no indication of acute financial distress."
+}

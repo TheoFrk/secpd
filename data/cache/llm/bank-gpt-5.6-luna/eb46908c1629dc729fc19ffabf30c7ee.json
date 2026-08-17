@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "substantially all of our revenue",
+    "most likely ultimate liability",
+    "better catastrophe management",
+    "significant period of time can elapse",
+    "due to the poor performance"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but contains substantial insurance-accounting and reinsurance terminology that increases interpretive complexity. Key risks include heavy New York geographic concentration, catastrophe exposure, reliance on reinsurance, and inherent uncertainty in loss and LAE reserves. The tone is balanced to mildly confident, citing improved catastrophe management and premium growth while acknowledging historical underperformance in commercial lines."
+}

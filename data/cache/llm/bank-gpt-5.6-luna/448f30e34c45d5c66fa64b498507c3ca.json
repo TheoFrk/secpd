@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "may involve new products",
+    "could adversely affect us",
+    "inherently subject to risks and uncertainties",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies a sharp revenue decline, operating loss, margin deterioration, production disruption from facility relocation, and dependence on government-related demand. Liquidity appears supported by cash flow and investments, but outlook relies on normalized sales activity and contains standard uncertainty language; the excerpt is also truncated in a potentially important liquidity section."
+}

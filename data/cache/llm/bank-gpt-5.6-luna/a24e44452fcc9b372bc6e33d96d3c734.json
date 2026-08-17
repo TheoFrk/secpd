@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "long-term performance framing",
+    "non-GAAP operating income emphasis",
+    "highly discretionary and arbitrary",
+    "N/M: Not meaningful",
+    "estimated profitability and recoverability"
+  ],
+  "risk_summary": "The excerpt acknowledges sustained net operating losses over three years, concentrated in mortgage guaranty, title insurance, and consumer credit indemnity exposures, along with significant impairment and reserve-estimation risks. Management emphasizes long-term cycles and non-GAAP operating income, which may soften near-term performance interpretation, although the disclosure includes meaningful quantified detail on losses, impairments, DAC, and reinsurance recoverables."
+}

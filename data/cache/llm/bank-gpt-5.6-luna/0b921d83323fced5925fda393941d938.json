@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "materially different from actual results",
+    "other factors might in the future",
+    "not possible to predict all such factors",
+    "undertake no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers that emphasize uncertainty and limit responsibility for forward-looking statements. It identifies meaningful cyclical construction-market risk and ongoing contraction, but provides useful quantitative details on market decline, covenant thresholds, leverage, debt, and compliance. Management maintains a cautiously confident tone, citing cost controls, pricing actions, liquidity, and potential market-share gains."
+}

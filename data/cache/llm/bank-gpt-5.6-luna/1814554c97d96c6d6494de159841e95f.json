@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "safe harbor and forward-looking statements",
+    "cannot predict with certainty",
+    "among others",
+    "ultimately implemented",
+    "dependent on actions"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and project-specific detail, including acreage, water volumes, financing terms, and customer agreements. However, future cash flow depends heavily on regulatory approvals, project implementation, new financing, and execution of water contracts, with repeated forward-looking disclaimers and limited certainty regarding timing. Debt costs and working-capital needs add meaningful liquidity risk."
+}

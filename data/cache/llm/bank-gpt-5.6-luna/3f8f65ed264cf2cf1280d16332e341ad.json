@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant impact",
+    "elevated uncertainty and change",
+    "may negatively impact",
+    "management believes",
+    "non-GAAP operating measures"
+  ],
+  "risk_summary": "The excerpt provides some quantitative context, including $897.0 billion in assets, but relies heavily on broad market, regulatory, and assumption-based risk language. Extensive non-GAAP adjustments and highly technical descriptions of DAC, DSIC, hedging, valuation, and CIE consolidation may reduce comparability with GAAP performance and obscure underlying volatility."
+}

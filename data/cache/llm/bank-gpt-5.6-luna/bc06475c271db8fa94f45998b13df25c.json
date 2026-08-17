@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance",
+    "may differ materially",
+    "highly concentrated customer base",
+    "anticipated adequate liquidity"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative liquidity and cash-flow information, including ratios, cash balances, and debt status. However, it contains substantial boilerplate forward-looking disclaimers and relies on hedged projections while acknowledging customer concentration, volatile demand, pricing pressure, supplier concentration, and potential margin compression. Overall, the tone is cautiously constructive but reflects meaningful operating and concentration risks."
+}

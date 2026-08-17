@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance of future disruptions",
+    "does not know how quickly",
+    "may materially adversely impact",
+    "substantially or partially offset",
+    "anticipated to continue"
+  ],
+  "risk_summary": "The excerpt clearly identifies material COVID-19-related demand, supply-chain, operating, budget, and working-capital risks, supported by useful operational and seasonal metrics. However, the outlook relies on uncertain assumptions about school reopenings, government funding, tax revenues, and supplier continuity, with limited quantification of the resulting financial impact."
+}

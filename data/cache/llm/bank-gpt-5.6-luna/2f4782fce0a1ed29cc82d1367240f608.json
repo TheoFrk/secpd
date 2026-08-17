@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to substantial risks and uncertainties",
+    "expect to begin generating revenues",
+    "following successful completion and positive results",
+    "significant interest from physicians",
+    "currently awaiting FDA clearance"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational and revenue quantification, including sales growth and product-development milestones, but relies heavily on forward-looking expectations for clinical trials, FDA clearance, LDT commercialization, and new partnerships. The tone is cautiously optimistic and promotional, while regulatory dependence, clinical execution risk, and concentration of fiscal 2022 growth in COVID-19 tests remain material concerns."
+}

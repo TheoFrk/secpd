@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.22,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference instead of disclosure",
+    "boilerplate filing language",
+    "forward-looking statements disclaimer",
+    "absence of quantitative detail"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and merely redirects readers to other pages. Its boilerplate cross-reference limits standalone transparency and prevents meaningful assessment of the company’s condition or outlook."
+}

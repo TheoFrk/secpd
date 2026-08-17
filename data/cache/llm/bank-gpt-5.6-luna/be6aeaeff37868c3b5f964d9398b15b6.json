@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor for forward-looking statements",
+    "significant risks and uncertainties",
+    "cannot be predicted with confidence",
+    "including but not limited to",
+    "no obligation to publicly update"
+  ],
+  "risk_summary": "The excerpt uses extensive forward-looking-statement disclaimers and broad, non-exhaustive risk lists, limiting precision about potential outcomes. COVID-19, economic uncertainty, portfolio quality, loss reserves, funding costs, regulation, and other factors indicate a materially cautious risk tone, although management describes mitigation actions and ongoing monitoring."
+}

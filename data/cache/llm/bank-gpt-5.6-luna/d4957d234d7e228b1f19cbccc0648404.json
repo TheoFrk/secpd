@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual amounts could differ from those estimates",
+    "not reasonably available or meaningful",
+    "including, but not limited to",
+    "a variety of factors",
+    "generally result in"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, including quantified capital expenditures, but relies on broad contingencies and management estimates for project profitability, claims recovery, goodwill impairment, and cash flows. Key risks include cost escalation, delays, subcontractor performance, customer administration, funding conditions, and potentially material revisions to long-term contract estimates."
+}

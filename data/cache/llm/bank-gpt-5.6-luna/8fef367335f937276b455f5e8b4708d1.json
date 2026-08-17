@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "selective underwriting and tailored terms",
+    "computer-assisted modeling estimates",
+    "key factors include, but are not limited to",
+    "more likely than not",
+    "non-GAAP measures may not be comparable"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, highlighting a strong historical underwriting record and diversified operations. Material risks include catastrophe exposure, casualty reserve uncertainty, inflation, regulatory and legal developments, contractor credit deterioration, and investment impairment. The tone is confident but relies on management judgment, modeling, and non-GAAP measures that may limit comparability."
+}

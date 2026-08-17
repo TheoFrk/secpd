@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "Certain Items",
+    "underlying business trends",
+    "appears to be modestly improved",
+    "uncertainty in industry growth"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but extensive non-GAAP adjustments and the broad definition of “Certain Items” may obscure recurring operating performance. Risk tone is mixed: management highlights operational improvements and transformation benefits, while acknowledging competitive pricing pressure, margin decline, cautious consumer spending, industry-growth uncertainty, and significant merger termination costs."
+}

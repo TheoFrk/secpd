@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance financing will be available",
+    "sufficient to finance operations for twelve months",
+    "if expected revenues do not materialize",
+    "actual results may differ"
+  ],
+  "risk_summary": "The company reports continuing losses, a working-capital deficit, sharply reduced cash, and negative operating cash flow, creating meaningful liquidity and funding risk. Management expects operations to require additional capital and acknowledges that financing may not be available on acceptable terms, while license obligations could reach $250,000–$400,000 annually. Disclosure is relatively quantified but includes substantial standard forward-looking and uncertainty language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the full impact",
+    "expected to continue to be volatile",
+    "potentially reducing or eliminating",
+    "diversified portfolio of investments",
+    "primarily the result of"
+  ],
+  "risk_summary": "The disclosure is generally precise and strongly quantified, with detailed year-over-year cash flow, revenue, and working-capital data. Risk tone is mixed: operating performance improved materially, but COVID-19, commodity-price volatility, investment losses, and repayment of the Grand Woods note contingent on a property sale create meaningful uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "could have a material impact",
+    "based on relevant characteristics",
+    "general nonspecific portion",
+    "as new information becomes available"
+  ],
+  "risk_summary": "The disclosure identifies meaningful estimation risk in the ALLL, mortgage servicing rights, and OREO valuations, including sensitivity to collateral values, prepayment speeds, discount rates, and economic conditions. Results show some improvement from lower loan-loss provisions, reduced OREO losses, and refinancing-related gains, but negative loan growth and tightening net interest margins indicate ongoing earnings pressure. Quantification of sensitivities and potential downside impacts is limited despite extensive methodological discussion."
+}

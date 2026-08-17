@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks disclaimer",
+    "subject to availability of adequate financing",
+    "limited success to date",
+    "slow-to-develop nutrient credit market",
+    "substantial political and regulatory efforts"
+  ],
+  "risk_summary": "The excerpt relies heavily on broad forward-looking disclaimers and extensive conditional language, while highlighting financing uncertainty, a subsidiary loan default, weak market liquidity, regulatory dependence, and limited commercial success. Although it includes some quantified technical and expense data, the business outlook remains materially speculative and resource-constrained."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.47,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could differ materially",
+    "cannot currently determine",
+    "may not be successful",
+    "reasonably possible estimates may change"
+  ],
+  "risk_summary": "The excerpt is highly quantified and documents a substantial improvement in sales, margins, profitability, cash, and working capital. However, COVID-19 effects, supply-chain disruptions, component price inflation, labor constraints, customer credit, inventory obsolescence, and valuation estimates create meaningful operational and earnings risks. Management expresses liquidity confidence for at least 12 months but provides limited sensitivity analysis regarding the duration and magnitude of these risks."
+}

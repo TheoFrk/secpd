@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant period of time",
+    "most likely ultimate liability",
+    "other expenses",
+    "actively writing business",
+    "excerpt truncated"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, including premium concentration, catastrophe losses, loss-ratio impacts, and expense changes. Risk is concentrated in New York exposure, catastrophe severity, reserve estimation uncertainty, and reinsurance-related accounting, while substantial definitional and boilerplate material reduces analytical efficiency."
+}

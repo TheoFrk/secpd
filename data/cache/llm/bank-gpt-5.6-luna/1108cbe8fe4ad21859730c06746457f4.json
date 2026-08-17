@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could differ materially",
+    "among other factors",
+    "non-GAAP measures",
+    "differentiated strategy and superior long-term value"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and reports strong revenue, cash flow, EBITDA, and balance-sheet performance, producing a notably confident and promotional tone. Risk disclosure relies mainly on standard safe-harbor language and broad references to economic cycles, seasonality, weather, and government spending rather than detailed sensitivity analysis. Extensive use of non-GAAP metrics and strategy-oriented claims may temper comparability and obscure underlying risk drivers."
+}

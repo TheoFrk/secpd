@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "assumptions are reasonable",
+    "may be required to record",
+    "subjective judgments",
+    "do not anticipate any issues",
+    "influences outside our control"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, including segment sales, license dependence, foreign-exchange exposure, intangible-asset balances, and cash flows. Key risks involve reliance on third-party licenses and manufacturers, brand performance, impairment assumptions, seasonality, and currency movements. The tone is cautiously confident, though management uses standard optimistic and uncertainty-limiting language around forecasts and collections."
+}

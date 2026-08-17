@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance",
+    "highly dependent on",
+    "uncertain duration and severity",
+    "to the extent possible",
+    "customary conditions"
+  ],
+  "risk_summary": "The disclosure provides specific acquisition and divestiture amounts and describes COVID-19 effects, liquidity, customer demand, and tax volatility, but relies substantially on contingency language and qualitative assessments. Key risks include pandemic-related demand and supply disruption, uncertain capital-market access, acquisition integration, transaction closing conditions, and unusually volatile effective tax rates."
+}

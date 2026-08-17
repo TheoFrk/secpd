@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "when we believe doing so provides greater clarity",
+    "challenging environment",
+    "incorporated by reference",
+    "comparable-sales methodology exclusions"
+  ],
+  "risk_summary": "The excerpt is largely procedural and definitional, with substantial boilerplate and extensive discussion of non-GAAP measures that could complicate comparability. Quantified disclosures are present, but the current ratio remained only 1.0 and debt to earnings increased to 0.8 due to lower net earnings, indicating some weakening in financial flexibility. Overall tone is cautiously positive, tempered by references to industry challenges and selective exclusions from performance metrics."
+}

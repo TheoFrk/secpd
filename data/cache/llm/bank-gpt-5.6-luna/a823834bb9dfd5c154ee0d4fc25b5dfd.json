@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "believe to be temporary",
+    "difficult to foresee or estimate",
+    "timing differences",
+    "no material trends or uncertainties",
+    "sufficient to mitigate the risk"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but includes material downside signals: declining revenue and margins, sharply reduced cash, increased borrowing, a debt-service covenant breach, and $6.25 million of open purchase commitments. Management relies on qualitative explanations such as temporary demand weakness and timing differences, while stating that no material trends or uncertainties exist despite evident liquidity and operating risks. A lender waiver, interest-only period, and subsequent equity raise provide near-term mitigation but do not eliminate refinancing and execution risk."
+}

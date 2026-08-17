@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.35,
+  "redundancy_score": 0.85,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporate by reference",
+    "no substantive discussion",
+    "cross-reference to annual report"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and relies entirely on information incorporated by reference from the 2018 Annual Report. This limits standalone transparency but is primarily procedural rather than explicitly negative in tone."
+}

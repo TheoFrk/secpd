@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.91,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to certain circumstances",
+    "up to approximately",
+    "future contingent milestones",
+    "valuation models and are complex",
+    "specified period from first commercial sale"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively discloses licensing economics, milestones, royalties, and convertible-note valuation assumptions. However, extensive legal contingencies, conditional rights, and judgment-based valuation language make the obligations and future cash flows difficult to assess, while the truncated ending limits completeness."
+}

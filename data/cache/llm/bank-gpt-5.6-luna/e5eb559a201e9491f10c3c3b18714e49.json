@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cross-reference to financial supplement",
+    "no substantive MD&A disclosure",
+    "results discussed elsewhere"
+  ],
+  "risk_summary": "The excerpt provides no financial or risk analysis and directs readers to a separate financial supplement. Its high vagueness reflects absent information rather than explicit adverse disclosure, limiting assessment of the issuer’s condition."
+}

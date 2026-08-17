@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "cannot predict the pace",
+    "expected to remain variable",
+    "no obligation to update",
+    "comparative discussion omitted"
+  ],
+  "risk_summary": "The excerpt presents improving sales, margins, and market conditions, but emphasizes uncertainty around the energy recovery and variable order levels. It contains substantial standard forward-looking disclaimers and omits the fiscal 2017 comparative discussion, limiting standalone interpretability. The planned divestiture of Energy Steel reflects deterioration in a subsidiary tied to the commercial nuclear utility market."
+}

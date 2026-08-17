@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment",
+    "as deemed appropriate by management",
+    "could be greater or less",
+    "current economic conditions and expectations",
+    "comfortable match can be found"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and asset-scale detail, but relies on management judgment for valuation, legal reserves, goodwill impairment, and cybersecurity exposure. Risk tone is measured and mildly confident, with material uncertainty around Level 3 assets, contingencies, market volatility, and acquisition-driven growth."
+}

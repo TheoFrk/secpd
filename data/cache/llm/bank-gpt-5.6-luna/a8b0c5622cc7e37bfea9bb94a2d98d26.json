@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "we believe we must focus",
+    "we anticipate",
+    "targeted vertical markets"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting revenue changes by product, geography, channel, and currency effects. The tone is favorable, emphasizing growth and strategic initiatives, though recurring qualifying language and limited detail on the stated challenges introduce moderate uncertainty."
+}

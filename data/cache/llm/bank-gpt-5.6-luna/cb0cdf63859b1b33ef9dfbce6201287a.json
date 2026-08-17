@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subject to successful capital raise",
+    "unable to accurately quantify",
+    "past due obligations and judgments",
+    "continued viability in jeopardy"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and viability risks, including inadequate cash, recurring operating deficits, substantial past-due obligations, reliance on related-party funding, and inability to meet liabilities if demanded. Although operating metrics and liabilities are quantified, management relies heavily on uncertain capital raises and conditional plans, with several boilerplate disclaimers and some drafting inconsistencies."
+}

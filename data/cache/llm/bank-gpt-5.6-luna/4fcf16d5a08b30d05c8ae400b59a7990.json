@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "material adverse effect",
+    "subject to interpretation",
+    "reasonable possibility estimates will change",
+    "no assurance"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and revenue concentration detail, but relies heavily on standard forward-looking disclaimers and emphasizes uncertainty in reimbursement estimates, regulatory changes, insurance losses, impairment testing, and taxes. Quantified sensitivity information improves transparency, although several risks are described broadly and the excerpt is truncated."
+}

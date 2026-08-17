@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and substantial risks",
+    "could differ materially",
+    "variety of factors",
+    "organic versus inorganic growth",
+    "continued decline in foreign exchange rate"
+  ],
+  "risk_summary": "The excerpt presents strong reported revenue growth, but relies substantially on acquisition-driven comparisons and includes declines in Marketplace revenue, foreign-exchange pressure, and terminated contracts. Disclosure is moderately detailed and quantified, though boilerplate forward-looking disclaimers, repeated business descriptions, and incomplete or corrupted section text reduce clarity."
+}

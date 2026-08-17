@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "not necessarily comparable",
+    "customary conditions",
+    "expected path",
+    "natural, albeit imperfect, hedge"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, with detailed acquisition, credit-loss, margin, and mortgage figures. Risk is moderate: provision expense increased materially, mortgage activity weakened with higher rates, and ongoing acquisitions and benchmark transitions introduce execution and integration risks. Management maintains a cautiously positive tone, emphasizing earnings and margin growth while qualifying non-GAAP measures and forward-looking outcomes."
+}

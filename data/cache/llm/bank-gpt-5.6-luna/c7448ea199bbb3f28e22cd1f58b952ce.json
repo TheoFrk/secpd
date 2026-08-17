@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "we currently expect",
+    "difficult to assess and estimate",
+    "actual costs may differ significantly",
+    "as further information becomes available"
+  ],
+  "risk_summary": "The excerpt reports a sharp shift from continuing-operations income to a $55.3 million net loss, with material exposure to environmental remediation, litigation, commodity costs, impairments, and equity-method earnings. Management offers a cautiously positive 2014 outlook, but relies on unquantified expectations and acknowledges that environmental and contingency costs could exceed accruals."
+}

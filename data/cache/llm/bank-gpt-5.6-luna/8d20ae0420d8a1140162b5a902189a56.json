@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance financing available",
+    "management believes it will raise capital",
+    "profitable operations not yet attained",
+    "could force us to reduce or cease operations",
+    "terms satisfactory to the Company"
+  ],
+  "risk_summary": "The company reports severe liquidity and solvency weaknesses, including a $1.9 million working capital deficit, $17.0 million accumulated deficit, substantial operating losses, and dependence on additional financing. Management provides optimistic growth and funding expectations but repeatedly qualifies them with no-assurance language, including the possibility of dilution, unfavorable financing terms, or cessation of operations."
+}

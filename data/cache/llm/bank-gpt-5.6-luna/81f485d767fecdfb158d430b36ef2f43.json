@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "considerable judgment",
+    "believed to be reasonable",
+    "other external factors",
+    "more likely than not",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail and describes allowance, securities, tax, and goodwill accounting methodologies, but relies heavily on management judgment and broad environmental factors without sensitivity analysis or quantified downside scenarios. Credit risk is acknowledged through discussion of delinquencies, defaults, non-performing assets, and loss provisions, while the overall tone remains largely procedural and neutral."
+}

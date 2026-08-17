@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "little or no control",
+    "cannot predict",
+    "substantial uncertainties",
+    "may change estimates significantly",
+    "likely due to"
+  ],
+  "risk_summary": "The disclosure is relatively data-rich but highlights substantial exposure to cyclical housing demand, commodity pricing, excess capacity, and input-cost volatility. Legal and environmental contingency estimates rely on numerous uncertain judgments and could change significantly. The tone is cautiously negative on near-term operating conditions, although management presents specific operational improvement plans."
+}

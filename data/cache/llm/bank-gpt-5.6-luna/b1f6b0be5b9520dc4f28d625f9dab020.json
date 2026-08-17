@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "long enumerated risk list",
+    "we believe",
+    "sustainable revenue, profit and cash flow",
+    "non-GAAP measure disclaimers",
+    "potentially significant risks"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and cash-flow information, supporting relatively strong disclosure specificity. Risk exposure is broad, particularly around supply-chain disruption, cybersecurity, execution of the software transition, macroeconomic conditions, and foreign exchange, while the overall tone remains cautiously positive. Extensive strategic and non-GAAP boilerplate moderately dilutes the focus on material risks."
+}

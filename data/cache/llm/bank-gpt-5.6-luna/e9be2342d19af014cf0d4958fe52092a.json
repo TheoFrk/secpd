@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "when practical",
+    "certain, but not all, exposures",
+    "if limitations on transfer of funds remain"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent regarding operating results, pricing, foreign exchange losses, receivables-sale costs, impairment, and Argentina-related exposures. Risk is moderated by strong earnings growth but includes significant currency, interest-rate, financing, transferability, and geopolitical risks, with some reliance on generalized causal explanations and partial-hedging language."
+}

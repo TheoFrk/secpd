@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.13,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance loan extension",
+    "expected to be refinanced and/or extended",
+    "management remains optimistic",
+    "uncertain impact of higher interest rates",
+    "elevated commercial vacancies"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, particularly regarding debt maturities, interest rates, reserves, occupancy, rents, and cash-flow sensitivities. Risk is moderately elevated due to higher refinancing costs, near-term maturity-extension dependence, elevated vacancies at two commercial properties, and sensitivity to interest rates, although management presents liquidity and operating performance as adequate."
+}

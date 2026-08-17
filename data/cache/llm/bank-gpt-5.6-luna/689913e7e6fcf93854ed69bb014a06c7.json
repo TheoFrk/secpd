@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "numerous assumptions, risks and uncertainties",
+    "significant management judgment",
+    "could produce significantly different results",
+    "non-GAAP operating earnings exclusions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance, capital, tax, and investment-loss information, but includes extensive forward-looking disclaimers and judgment-dependent estimates. Key risks include investment impairment valuation, derivatives, policy-liability assumptions, foreign exchange, and the use of adjusted operating earnings that excludes realized investment effects."
+}

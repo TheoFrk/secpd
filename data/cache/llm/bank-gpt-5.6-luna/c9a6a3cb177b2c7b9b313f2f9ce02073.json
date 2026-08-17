@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "limited financial resources",
+    "may be required to issue restricted shares",
+    "if at all",
+    "going concern",
+    "dependent upon continued operations"
+  ],
+  "risk_summary": "The company has no operations or revenue, no material cash resources, substantial liabilities, and depends on management or affiliates for interim funding. Additional financing is necessary to continue as a going concern, with significant uncertainty regarding availability and terms. The disclosure is relatively quantitative but includes extensive boilerplate risk scenarios and reliance on prospective financing actions."
+}

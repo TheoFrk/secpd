@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance expectations will prove correct",
+    "numerous factors beyond control",
+    "undertakes no obligation to update",
+    "sustained profitability remains vulnerable"
+  ],
+  "risk_summary": "The excerpt reports strong revenue, product sales, margin, and market-share growth with extensive quantitative support. However, profitability is only marginal and explicitly described as vulnerable, while future growth depends on elective procedures, economic conditions, regulatory approvals, and successful product adoption."
+}

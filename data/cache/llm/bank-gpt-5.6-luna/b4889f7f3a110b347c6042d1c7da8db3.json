@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "uncertainty related to anticipated impact",
+    "well-positioned to manage",
+    "based upon available information",
+    "not have a material adverse effect",
+    "primarily driven by COVID-19"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, but reflects significant pandemic-related deterioration, including a 20% sales decline, margin compression, segment operating income declines, and manufacturing inefficiencies. Management emphasizes liquidity and cost actions, while legal and environmental disclosures rely on materiality assessments and estimates that could understate uncertain exposures. A presentation error in the SG&A comparison reduces disclosure quality modestly."
+}

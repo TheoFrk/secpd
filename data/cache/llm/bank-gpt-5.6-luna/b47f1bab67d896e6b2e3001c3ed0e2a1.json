@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.78,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial risks and uncertainties",
+    "additional financing is required",
+    "no guarantee of successful funding",
+    "highly complex and subjective variables",
+    "truncated disclosure near cap"
+  ],
+  "risk_summary": "The company reports severe financial stress, including a $3.45 million deficit net worth, $1.38 million negative operating cash flow, substantial recurring losses, and dependence on additional financing. Although results are quantified in detail and losses declined, management states that approximately $1.5 million of additional funding is needed and that successful fundraising is not guaranteed. Reserve estimates, derivative accounting, and stock-based compensation introduce material judgment and volatility."
+}

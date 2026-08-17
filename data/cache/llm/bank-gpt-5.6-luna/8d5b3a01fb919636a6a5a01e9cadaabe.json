@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance actual results",
+    "may differ materially",
+    "highly concentrated customer base",
+    "anticipate liquidity adequate"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative liquidity and cash-flow information, including ratios, cash concentrations, and financing activity. However, it contains substantial safe-h harbor boilerplate and relies on repeated forecasts and qualifiers while identifying material risks from customer concentration, demand volatility, pricing pressure, rising China-based supplier costs, and potential supplier concentration. Overall tone is cautiously negative but indicates management believes near-term liquidity is adequate."
+}

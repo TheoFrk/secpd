@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "foreseeable future",
+    "believe reserve is adequate",
+    "significant judgment",
+    "could adversely impact",
+    "advances at discretion of lender"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitative, with clear discussion of revenue decline, market-specific backlog changes, cash flow, impairments, and borrowing availability. Risk is moderated but present due to weaker industrial demand, capacity underutilization, customer forecasting uncertainty, covenant restrictions, lender discretion, and reliance on future cash flows."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "due primarily to",
+    "partially offset by",
+    "cannot predict when or if",
+    "excluding reserve development",
+    "various layers"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, reporting earnings, catastrophe losses, reserve development, reinsurance arrangements, and segment-level impacts. Risk is elevated by significant catastrophe exposure, Superstorm Sandy losses, reliance on reinsurance, and inherent uncertainty in loss reserves, although favorable reserve development and improved earnings support a moderately positive tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate impacts",
+    "may take additional actions",
+    "dynamic nature of this situation",
+    "adversely affected",
+    "backlog may not necessarily be an accurate measure"
+  ],
+  "risk_summary": "The excerpt presents substantial COVID-19-related operational, demand, supply-chain, recession, and liquidity uncertainty, while noting facility reopenings, cost actions, and a fourth-quarter demand rebound. Risk disclosure is reasonably specific in describing actions and timing, but the inability to estimate future financial impacts and reliance on broad contingency language limit precision."
+}

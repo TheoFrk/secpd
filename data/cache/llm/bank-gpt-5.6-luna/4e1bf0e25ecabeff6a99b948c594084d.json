@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "proprietary and differentiated technology",
+    "strategic plans and long-range planning forecasts",
+    "customary closing conditions",
+    "inherent uncertainties",
+    "best estimates based on current conditions"
+  ],
+  "risk_summary": "The excerpt is generally positive and provides meaningful transaction, financing, and impairment-assumption quantification, but it contains substantial boilerplate and promotional language. Key risks include acquisition integration and financing exposure, challenging CPI industry conditions, and the subjectivity of goodwill valuation forecasts and discount-rate assumptions."
+}

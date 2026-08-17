@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no obligation to revise or update",
+    "should these conditions persist",
+    "anticipated cash flows",
+    "adequate to meet cash needs"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and safe-harbor language, with reliance on broad assumptions and qualitative assurances. Quantified liquidity and cash-flow data indicate pressure, including operating cash use and a net loss, while management maintains that available liquidity should cover at least 12 months. Competitive, macroeconomic, tariff, consumer-demand, and product-development risks are acknowledged but not fully quantified."
+}

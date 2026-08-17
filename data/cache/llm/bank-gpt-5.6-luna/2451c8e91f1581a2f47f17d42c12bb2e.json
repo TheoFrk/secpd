@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expected to",
+    "significant management judgment",
+    "could be required"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth and shareholder-return narrative, supported by substantial quantified sales, cost, acquisition, and capital-allocation data. Risk disclosure is moderately qualified through offsetting-factor language and forward-looking assumptions, particularly concerning impairment sensitivity, foreign exchange, costs, taxes, and acquisitions. The excerpt is dense and partly boilerplate but not strongly evasive."
+}

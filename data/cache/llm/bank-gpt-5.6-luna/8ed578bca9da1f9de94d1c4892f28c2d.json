@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks, uncertainties and assumptions",
+    "actual results may differ materially",
+    "does not intend to review or revise",
+    "truncated allowance-for-loan-loss discussion"
+  ],
+  "risk_summary": "The excerpt is generally quantitatively detailed and presents improving earnings, fee income, deposits, capital, and net interest income. Risk tone is cautiously positive, but margin pressure, uncertain credit conditions, dependence on Federal Reserve policy, and a truncated loan-loss discussion limit assessment of downside risk. Extensive standard forward-looking disclaimers add boilerplate but do not by themselves indicate acute distress."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "continues to monitor",
+    "does not believe impacts will be material",
+    "significant judgment",
+    "if ... significantly deviate",
+    "potentially materially impacting valuation"
+  ],
+  "risk_summary": "The disclosure identifies substantial pandemic, supply-chain, inflation, regulatory, litigation, and investment-valuation risks, including a $6.2 billion impairment charge related to ABI. However, it relies heavily on repetitive monitoring language, conditional scenarios, and management assertions that effects are not material or are transitory, limiting precision regarding future downside exposure."
+}

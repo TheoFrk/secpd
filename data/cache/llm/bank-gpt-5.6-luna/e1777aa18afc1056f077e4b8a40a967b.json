@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "net effects of",
+    "more-likely-than-not",
+    "future events and circumstances",
+    "actual results might differ significantly",
+    "substantial management judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial historical financial data but omits key explanatory bullet points and parts of the tables, limiting assessment of the specific drivers of changes. It highlights material estimation uncertainty around goodwill, deferred tax assets, environmental and litigation accruals, and other contingencies, while forecasting lower 2019 operating income. Overall tone is technically confident but moderately risk-aware and reliant on qualitative judgments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could result in",
+    "over which we have no control",
+    "not expected to have a material effect",
+    "repeated raw-material disclosures",
+    "inconsistent comparative figures"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights cyclical demand exposure, commodity-price volatility, margin compression, and increased revolver borrowings. Repeated boilerplate and apparent inconsistencies in comparative-year figures modestly reduce clarity."
+}

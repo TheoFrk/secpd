@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "excluding acquisitions",
+    "constant currency adjustments",
+    "assumed debt and interest rates unchanged"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and quantitatively detailed, reporting strong revenue and operating-income growth, though much of the growth is acquisition-driven. Key credit risks include elevated acquisition-related debt, foreign-exchange exposure, contingent purchase-price obligations, and a materially underfunded pension position. The contractual-obligation assumptions regarding unchanged debt levels and interest rates may understate future cash-flow sensitivity."
+}

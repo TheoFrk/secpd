@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "amounts reserved are adequate",
+    "based upon facts and information currently available",
+    "variety of claims, suits, investigations",
+    "when additional information becomes available",
+    "* Calculation not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear explanations of revenue, margin, segment, debt, and cash-flow changes. Risk tone is moderately negative due to declining sales and operating income, labor disruption, end-market weakness, tariffs, manufacturing inefficiencies, and legal and environmental contingencies. Legal exposure remains difficult to quantify because the excerpt provides no aggregate reserve or potential-loss range."
+}

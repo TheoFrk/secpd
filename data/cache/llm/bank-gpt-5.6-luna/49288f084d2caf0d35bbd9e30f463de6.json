@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "expects improvement in sales",
+    "primarily dependent upon housing market",
+    "full valuation allowance",
+    "extended trade payables"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, losses, margins, cash flow, working capital, and borrowing, but includes repeated housing-market commentary and standard forward-looking disclaimers. Credit risk remains elevated due to recurring net losses, increased interest expense, reliance on factoring and extended payables, and exposure to housing-market conditions, despite improved sales and reduced losses."
+}

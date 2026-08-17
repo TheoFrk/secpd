@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to funding",
+    "no assurances can be given",
+    "substantial doubt about going concern",
+    "may have to delay or cease operations",
+    "eventual profitable exploitation"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and viability risk: the company had no revenue or production, only $16,938 in cash, negative operating cash flow, and an explicit going-concern qualification. Continued operations depend on obtaining external financing, joint ventures, asset sales, or profitability, with no assurance that funding will be available on acceptable terms. Optimistic statements about survivability and attracting investment are not supported by firm commitments or quantified financing sources."
+}

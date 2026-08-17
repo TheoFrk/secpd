@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.04,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "believed to be reasonable",
+    "could materially affect",
+    "various factors",
+    "likely to reflect significant fluctuations"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with segment sales, distributor counts, expense metrics, and accounting assumptions disclosed. Key risks include distributor dependence, declining NSP Americas sales, foreign-exchange exposure, tax-rate volatility, inventory and self-insurance estimates, and potential impairment or accrual adjustments. The tone is balanced and cautious rather than crisis-like, but includes standard forward-looking and estimation disclaimers."
+}

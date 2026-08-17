@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results can differ significantly",
+    "no assurances",
+    "varies greatly",
+    "not materially impact",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including loan-loss, nonaccrual-loan, revenue, expense, and volume data. Risk factors are acknowledged, particularly interest-rate sensitivity, loan collectability, economic conditions, and reliance on management estimates, but the overall tone remains stable and moderately confident."
+}

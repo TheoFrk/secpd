@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.88,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurances of funding",
+    "limited operations and revenues",
+    "going-concern adjustment disclaimer",
+    "anti-dilution conversion at $0.01",
+    "repeated financing instrument descriptions"
+  ],
+  "risk_summary": "The excerpt presents severe liquidity and going-concern risk, including only $43,000 of cash, a $6.259 million working-capital deficit, substantial accumulated losses, and dependence on additional financing with no assurance of success. Extensive, repetitive descriptions of complex convertible debt, warrants, settlements, and anti-dilution terms increase dilution, repayment, and financial-reporting complexity."
+}

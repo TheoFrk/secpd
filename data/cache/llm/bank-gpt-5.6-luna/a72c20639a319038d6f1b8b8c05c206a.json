@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking safe-harbor boilerplate",
+    "no assurance of additional financing",
+    "substantial doubt about going concern",
+    "inherently uncertain estimates",
+    "inconsistent revenue comparison year"
+  ],
+  "risk_summary": "The company reports no current revenue, a $3.5 million net loss, substantial operating cash usage, and explicitly states that available cash is insufficient to fund operations for the next twelve months. Continued operations depend on uncertain additional debt or equity financing and successful commercialization, with substantial doubt regarding going-concern status. The disclosure is quantitatively detailed but includes extensive legal boilerplate and an apparent inconsistency in the revenue comparison year."
+}

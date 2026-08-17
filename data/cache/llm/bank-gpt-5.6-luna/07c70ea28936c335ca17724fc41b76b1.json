@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "without limitation",
+    "no assurance",
+    "undue reliance",
+    "other factors not currently anticipated"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, margins, acquisitions, loan growth, allowances, and nonperforming loans, supporting relatively transparent disclosure. Risk tone is cautiously positive, reflecting higher earnings and improved allowance coverage, but includes margin pressure, rising funding costs, acquisition-related adjustments, and extensive boilerplate uncertainty language."
+}

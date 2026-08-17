@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "COVID-19 claims estimates",
+    "dependent on many variables",
+    "third-party models",
+    "non-GAAP measures",
+    "low interest rate environment"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, clearly identifying COVID-19 claims, declining underwriting margins, and pressure from low interest rates. Forward-looking COVID-19 claims rely on third-party mortality models and multiple uncertain variables, while repeated non-GAAP explanations may somewhat complicate interpretation. Overall tone is operationally confident but moderately cautious due to pandemic-related claims and earnings pressure."
+}

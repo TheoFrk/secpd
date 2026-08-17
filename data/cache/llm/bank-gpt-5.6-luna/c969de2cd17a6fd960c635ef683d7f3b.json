@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "approximately",
+    "expected to",
+    "forecast",
+    "not material individually",
+    "primarily driven"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including sales, margins, earnings, guidance, debt levels, and capital expenditure ranges. Risk factors include weak manufacturing and Canadian economic conditions, prolonged low oil prices, currency pressure, margin compression, restructuring costs, and a substantial increase in leverage to fund share repurchases. Management maintains a measured but constructive outlook, supported by explicit 2016 guidance and planned operating investments."
+}

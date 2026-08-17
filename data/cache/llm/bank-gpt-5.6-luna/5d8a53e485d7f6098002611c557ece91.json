@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "not able to predict market interest rate fluctuations",
+    "may not prevent ... material adverse effect",
+    "including but not limited to",
+    "actual path ... will depend on incoming data"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including earnings, margin, capital issuance, and rate/volume data. Key risks include sustained net interest margin pressure, higher funding costs, uncertain interest-rate movements, regulatory changes, and goodwill or fair-value adjustments. Overall tone is cautiously constructive rather than crisis-like."
+}

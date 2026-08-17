@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "closely monitors credit quality",
+    "appropriate allowance maintained",
+    "primarily as the result of loan growth",
+    "not all companies may use the same calculation method",
+    "temporary impairment"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides substantial detail on earnings, net interest income, charge-offs, allowance coverage, and securities exposures. Risk tone is mildly negative because net income declined sharply, the portfolio includes Alt-A and trust preferred securities, and impairment and credit-quality judgments remain material. Boilerplate management assurances and an incomplete/truncated excerpt modestly limit transparency."
+}

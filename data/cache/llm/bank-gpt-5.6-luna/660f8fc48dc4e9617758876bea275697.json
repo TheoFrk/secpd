@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "could adversely affect",
+    "from time to time",
+    "we do not have complete details"
+  ],
+  "risk_summary": "The excerpt presents strong growth, record sales, rising operating income, and increased net income, producing a generally confident tone. Key risks include heavy dependence on the Monster Energy brand, competitive pressure, third-party manufacturing, international operating losses, foreign currency exposure, and limited visibility into distributor sell-through. Disclosure is substantially quantified, although the introductory boilerplate and repeated cautionary language add moderate redundancy and some hedging."
+}

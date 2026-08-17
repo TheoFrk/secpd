@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "leading/largest retailer claims",
+    "non-GAAP adjustments",
+    "not significant",
+    "expect to close",
+    "marketing-heavy brand descriptions"
+  ],
+  "risk_summary": "The excerpt is generally quantified and operationally specific, with a confident tone supported by sales, store-count, profit, and margin data. However, extensive promotional descriptions and non-GAAP framing may dilute focus on underlying risks, while CCS store closures, foreign-exchange headwinds, and weaker Lady Foot Locker performance indicate localized pressure."
+}

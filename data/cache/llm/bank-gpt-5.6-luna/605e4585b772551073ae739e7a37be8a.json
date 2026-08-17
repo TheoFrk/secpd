@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "cannot predict",
+    "may have a material impact",
+    "various provisions",
+    "exact amount not yet known"
+  ],
+  "risk_summary": "The excerpt presents a generally favorable growth narrative based on demographic demand and market positioning, but contains substantial forward-looking uncertainty around health reform, reimbursement reductions, and operator and tenant financial condition. Numerous contingent statements and projections limit the precision of the risk assessment, while the dense regulatory discussion increases interpretive complexity."
+}

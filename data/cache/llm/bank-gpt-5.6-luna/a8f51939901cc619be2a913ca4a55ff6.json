@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.76,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "no assurance of completing transaction",
+    "additional funds may be needed",
+    "no viable operating entity identified",
+    "going concern dependence on capital",
+    "repeated forward-looking disclaimers"
+  ],
+  "risk_summary": "The company is a nonoperating shell with no revenue, recurring losses, a substantial working-capital deficit, and reliance on related-party financing. Its ability to continue as a going concern and execute an acquisition depends on obtaining additional capital, with management providing no assurance that funding or a transaction will be secured."
+}

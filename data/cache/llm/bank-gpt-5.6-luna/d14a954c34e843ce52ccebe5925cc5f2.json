@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "inherent uncertainties and risks",
+    "not possible to predict all",
+    "undertakes no obligation to update",
+    "factors that could cause actual results to differ"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and balance-sheet information, including a return to profitability, improved net interest income, and capital repayment. Risk disclosure is extensive but largely standardized, emphasizing broad external factors and limiting commitments regarding future updates. Litigation reserves, securities impairment exposure, regulatory changes, and market volatility remain material risk signals despite the improved results."
+}

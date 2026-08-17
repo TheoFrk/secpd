@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.89,
+  "obfuscation_indicators": [
+    "current and future trends may be different",
+    "inherently uncertain",
+    "believes it can exceed industry growth rates",
+    "positive signs for 2018",
+    "missing financial tables and excerpts"
+  ],
+  "risk_summary": "The disclosure is broadly optimistic, citing strong RV industry demand, favorable macro conditions, product innovation, and growth opportunities. It acknowledges sensitivity to seasonality, dealer inventories, economic conditions, consumer confidence, and uncertain future demand, but provides limited quantified downside analysis. The excerpt is lengthy and partially truncated, with some boilerplate and missing tables that reduce transparency."
+}

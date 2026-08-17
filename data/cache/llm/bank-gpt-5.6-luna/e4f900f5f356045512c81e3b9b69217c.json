@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "we believe",
+    "anticipated",
+    "difficult to forecast timing",
+    "regulatory uncertainty",
+    "not expected to have a material effect"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, including segment revenue, margins, backlog, debt, and earnings trends. Risk tone is mildly negative because consolidated earnings and the Electrical and Industrial Products Segment deteriorated, pricing remains pressured, backlog recovery is uncertain, and leverage increased after the acquisition. Forward-looking expectations rely on hedged language and provide limited sensitivity analysis around market, commodity, regulatory, and acquisition risks."
+}

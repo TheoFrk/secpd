@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.75,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "repeated “we believe” assertions",
+    "fairly consistent cash flows",
+    "opportunistic acquisitions",
+    "may adversely impact",
+    "without quantified scenario analysis"
+  ],
+  "risk_summary": "The excerpt uses frequent belief-based projections and broad strategic language with limited quantitative support, particularly regarding cash-flow resilience and growth. Coronavirus-related closures, delayed film releases, tenant defaults, rent reductions, and development delays present material downside risks, while financing disclosures provide some specificity on facilities and maturities."
+}

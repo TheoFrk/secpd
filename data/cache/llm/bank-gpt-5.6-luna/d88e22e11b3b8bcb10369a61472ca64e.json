@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "among other things",
+    "may become material in the future",
+    "there can be no assurance",
+    "to the extent",
+    "a number of factors"
+  ],
+  "risk_summary": "The excerpt provides some useful quantification, including segment revenue mix and operating cash flow, but relies heavily on broad risk descriptions, conditional language, and cross-references rather than estimating exposure or potential financial impact. It identifies material commodity, currency, counterparty, regulatory, operational, and emerging-market risks while emphasizing diversification and hedging mitigants; the overall tone is cautious but not crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.72,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "principally attributable",
+    "assumptions deemed reasonable",
+    "not material",
+    "estimated future cash flows",
+    "truncated and structurally garbled text"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified growth in sales, margins, and operating income, with a generally confident tone. Key risk areas include acquisition dependence, higher interest rates, contingent consideration, and management judgment in goodwill and intangible-asset impairment testing. The text is highly complex and partially corrupted, which reduces readability and may obscure context."
+}

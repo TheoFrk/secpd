@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "tougher comparisons",
+    "expected to be",
+    "could have a material impact",
+    "best estimate of future events",
+    "positive and negative evidence"
+  ],
+  "risk_summary": "The excerpt is generally transparent and data-rich, with substantial quantified operating performance, margins, leverage, and tax-accounting disclosures. Risk tone is cautiously positive, reflecting strong 2013 results while acknowledging macroeconomic constraints, tougher 2014 comparisons, and judgment-sensitive deferred tax assets. Some outlook statements and accounting language rely on projections and broad qualitative explanations."
+}

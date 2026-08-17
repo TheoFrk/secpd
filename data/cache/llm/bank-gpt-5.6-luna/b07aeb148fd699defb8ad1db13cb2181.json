@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties beyond our control",
+    "no obligation to update or revise",
+    "non-GAAP adjusted results",
+    "timely recovery of investments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on earnings, rate outcomes, capital expenditures, cash flows, debt issuance, and Winter Storm Uri impacts. However, extensive boilerplate forward-looking disclaimers and broad, non-quantified risk lists dilute the assessment of downside exposure, while negative operating cash flow and significant reliance on debt and equity financing indicate elevated liquidity and funding risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "may impact",
+    "unclear whether",
+    "likely to remain volatile",
+    "could have an impact",
+    "primarily driven by"
+  ],
+  "risk_summary": "The excerpt presents substantial and broadly quantified operational and macroeconomic risks, including supply-chain disruptions, inflation, commodity volatility, pricing pressure, currency movements, and higher funding costs. Disclosure is generally specific and transparent, but relies on extensive conditional language and generalized scenario descriptions, with the truncated ending limiting assessment of the full discussion."
+}

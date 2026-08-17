@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "refers to attached annual report",
+    "no quantitative disclosure"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and defers entirely to another document. This limits standalone transparency and requires review of the referenced Annual Report for meaningful assessment."
+}

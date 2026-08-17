@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could be negatively impacted",
+    "subject to uncertainty",
+    "based upon assumptions",
+    "actual results may differ",
+    "believe the current economic environment"
+  ],
+  "risk_summary": "The disclosure identifies meaningful exposure to recessionary consumer spending, promotional pressure, foreign currency movements, inventory obsolescence, credit losses, product returns, and uncertain market acceptance. It provides useful operational detail and some quantified trends, but relies on broad conditional language and management judgments for forward-looking and accounting-risk assessments."
+}

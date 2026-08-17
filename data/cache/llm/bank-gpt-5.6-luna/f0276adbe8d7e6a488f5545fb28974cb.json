@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.15,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could have a material impact",
+    "ability to refinance existing debt",
+    "significant tenant concentration",
+    "high degree of subjectivity",
+    "FFO non-GAAP limitations"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear discussion of revenue drivers, occupancy, debt maturity, tenant concentration, and impairment assumptions. Key risks include dependence on Bloomberg, refinancing exposure on the $500 million mortgage, elevated interest rates, lease terminations and bankruptcies, and subjectivity in real estate valuations. The tone is balanced but moderately cautious rather than crisis-like."
+}

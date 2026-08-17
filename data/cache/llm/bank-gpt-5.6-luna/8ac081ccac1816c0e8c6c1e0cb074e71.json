@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "subject to risks and uncertainties",
+    "without limitation",
+    "ability to successfully manage",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimer language and a broad, largely non-quantified catalog of operational, geopolitical, regulatory, supply-chain, and financial risks. Reported operating metrics are relatively specific and indicate modest margin pressure, higher SG&A, and substantially increased interest expense, producing a cautiously positive but risk-aware tone."
+}

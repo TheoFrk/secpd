@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "other factors",
+    "variety of factors",
+    "could cause actual results to differ",
+    "based on estimates and assumptions",
+    "intercompany transfer pricing"
+  ],
+  "risk_summary": "The excerpt is primarily descriptive and contains several quantified operating, segment, debt-capacity, and acquisition figures, limiting overall evasiveness. Risk disclosures rely on standard broad caveats regarding economic conditions, estimates, collectability, and regulatory factors, while extensive segment and accounting terminology increases readability complexity."
+}

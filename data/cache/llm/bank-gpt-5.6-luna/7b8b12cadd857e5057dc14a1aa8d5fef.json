@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.47,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "varies from policy year to policy year",
+    "typically limits",
+    "historical trends and other analysis",
+    "could have a material impact",
+    "customer provided information"
+  ],
+  "risk_summary": "The company describes self-insured liability and health-care exposure, with reserves based partly on historical trends and estimates for incurred but unreported claims. Although no known claims are expected to exceed accrued reserves materially, claim frequency or severity could adversely affect financial condition and results."
+}

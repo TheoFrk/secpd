@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.32,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "information required by this item",
+    "pages 8 to 35",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and defers the required disclosure to another document. This limits transparency in the presented filing section, although the cross-reference is specific enough to identify the relevant pages."
+}

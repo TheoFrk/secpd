@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expect to continue",
+    "currently unknowable extent and duration",
+    "value creation model",
+    "competitive moats",
+    "adjusted non-GAAP metrics"
+  ],
+  "risk_summary": "The excerpt presents a strongly confident, promotional outlook supported by extensive operating and financial metrics, including sales growth, cash flow, leverage targets, and liquidity. Risk disclosure is present for COVID-19, inflation, labor, and supply-chain conditions, but several forward-looking claims rely on broad expectations and model-based targets. The extensive strategic branding and adjusted metrics may somewhat obscure comparability and downside sensitivity."
+}

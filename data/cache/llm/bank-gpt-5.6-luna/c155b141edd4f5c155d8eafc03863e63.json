@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may be required to obtain more working capital",
+    "cannot be certain that additional funding will be available",
+    "no assurance of sufficient future cash flows",
+    "suspended cancer diagnostics program",
+    "estimated future cash flows"
+  ],
+  "risk_summary": "The disclosure is relatively precise and highly quantified, but indicates material operating and financing risks, including no current revenue, substantial R&D spending, program suspension, ongoing losses, and reliance on future funding. Liquidity is projected to be adequate for twelve months, yet management explicitly acknowledges uncertainty regarding future cash flows and the availability or terms of additional capital."
+}

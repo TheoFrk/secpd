@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "limited visibility into customer ordering habits",
+    "cannot predict with any degree of certainty",
+    "large and unpredictable variations in demand",
+    "forward-looking statements",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative and explains revenue, acquisition, segment, manufacturing, and cost drivers, but acknowledges material uncertainty around customer demand, labor availability, product mix, and restructuring execution. The tone is cautiously optimistic, emphasizing record sales, acquisitions, and profitability growth while qualifying future performance with broad risk language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "unable to identify or quantify",
+    "sufficient liquidity for the next 12 months",
+    "no obligation to update",
+    "going concern conclusion"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantitative detail, but extensive forward-looking disclaimers and broad unquantified risk language reduce transparency. Risk is elevated due to substantial net losses, negative working capital, a $9.8 million impairment, litigation losses, increased interest expense, and potential reliance on additional financing, despite management's conclusion that the company can continue as a going concern for 12 months."
+}

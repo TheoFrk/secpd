@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant risks and uncertainties",
+    "actual results could be materially different",
+    "mostly attributed to",
+    "reasonable and supportable forecasts",
+    "various hypothetical scenarios"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on deposits, capital, assets under management, and the allowance for credit losses, including sensitivity analysis. Risk disclosure is substantially boilerplate and relies on broad forward-looking disclaimers, while credit-loss estimates remain sensitive to economic forecasts, qualitative judgments, and commercial portfolio concentrations. Overall tone is balanced to mildly confident, with no indication of an immediate crisis."
+}

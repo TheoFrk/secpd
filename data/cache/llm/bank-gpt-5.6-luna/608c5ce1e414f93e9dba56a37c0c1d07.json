@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict whether financing will become available",
+    "as may be required",
+    "material adverse effect",
+    "going concern uncertainty",
+    "restricted shares in lieu of cash"
+  ],
+  "risk_summary": "The company has no operations or material cash resources, relies on management and affiliates for interim funding, and reports $227,379 in liabilities. Additional financing is necessary to continue as a going concern, with substantial uncertainty regarding availability and terms. The disclosure is relatively explicit on current liabilities but relies heavily on standardized contingent-risk language for future financing and business-combination outcomes."
+}

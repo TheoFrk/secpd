@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance",
+    "may not be exhaustive",
+    "cannot predict new risk factors",
+    "assumptions may differ materially"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking-statement and liability disclaimers that limit predictive certainty and defer detailed risks to other filing sections. Reserve balances are quantified, but reserve adequacy depends on numerous actuarial assumptions, inflation, claims development, and current-year estimates, creating potential for material future volatility."
+}

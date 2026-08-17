@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to certain contingencies",
+    "expected to close",
+    "customary closing conditions",
+    "primarily as a result of",
+    "discontinued operations"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, detailing acquisitions, dispositions, financing, debt repayments, development spending, and operating metrics. Key uncertainties involve pending transactions, regulatory and third-party approvals, contingent options, lease transitions, and exposure to complex joint-venture and discontinued-operation structures. The overall tone is moderately confident but includes material execution and transaction risks."
+}

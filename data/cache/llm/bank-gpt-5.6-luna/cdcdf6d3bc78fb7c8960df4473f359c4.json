@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to the net effects of",
+    "it is possible",
+    "more-likely-than-not recognition criteria",
+    "future events and circumstances could result",
+    "considerable management judgment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, including losses, tax assets, NOL carryforwards, goodwill testing, and restructuring costs, but several key reconciliations and drivers are omitted or truncated. Risk is elevated by recurring losses, material valuation allowances, subjective impairment assumptions, and potential future tax or goodwill adjustments, although operating trends and the 2017 outlook are presented as improving."
+}

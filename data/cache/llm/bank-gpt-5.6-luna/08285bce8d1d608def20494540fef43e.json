@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements caution",
+    "non-GAAP exclusions",
+    "should not necessarily conclude",
+    "unsigned labor agreements",
+    "truncated or corrupted disclosures"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent about revenue, earnings, capacity, fuel costs, and labor negotiations, with a moderately positive operating tone. Key risks include competition, fuel-cost volatility, unresolved labor agreements, and reliance on adjusted non-GAAP measures. Formatting gaps and truncated passages reduce disclosure clarity."
+}

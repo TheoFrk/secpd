@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP currency-neutral measures",
+    "excluding Venezuela",
+    "may be invested in key strategic areas",
+    "cannot be predicted without unreasonable efforts",
+    "portfolio optimization and industry dynamics"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, including targets, charges, acquisitions, and reconciliation concepts, but relies heavily on non-GAAP, currency-neutral, and Venezuela-excluded measures that can obscure GAAP performance. Management acknowledges an expected approximately 2% decline in comparable net sales and significant restructuring costs, while maintaining an optimistic margin-expansion outlook. Overall tone is cautiously positive but contains material execution and comparability risks."
+}

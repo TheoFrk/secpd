@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "reasonable reflection of future returns",
+    "based on estimates",
+    "positive sales environment",
+    "non-GAAP financial measures",
+    "certain positive audit settlements"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, with strong sales, earnings, cash flow, margin, and comparable-sales performance supporting a confident tone. Key credit-relevant considerations include substantial share repurchases and dividends, new long-term debt issuance, a $247 million impairment loss, and reliance on estimates for returns, vendor allowances, and deferred revenue. Repeated fiscal-week explanations and non-GAAP measures add modest presentation complexity but do not appear materially evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "adjusted financial measures excluding special items",
+    "difficult to predict and highly variable",
+    "no corresponding U.S. GAAP reconciliation",
+    "continuing risks to this forecast",
+    "truncated and incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and financial detail, including quantified litigation charges, debt transactions, tax assumptions, and EPS guidance. However, reliance on adjusted non-GAAP metrics, exclusion of potentially significant items, and the absence of a GAAP reconciliation limit comparability and may understate downside variability. Litigation exposure, transaction uncertainty involving SABMiller, restructuring costs, and forecasting limitations represent notable credit risks despite the generally positive outlook."
+}

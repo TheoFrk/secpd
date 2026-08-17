@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "best judgment estimates",
+    "generally not predictable in advance",
+    "difficult to predict future results",
+    "inherent uncertainty",
+    "beyond our control"
+  ],
+  "risk_summary": "The excerpt provides substantial accounting-policy detail and some quantified warranty and legal accrual data, but relies on management estimates for investment valuations, accrued expenses, revenue recognition, and legal liabilities. Key downside risks include impairment of private investments, contract and implementation uncertainty, warranty-cost deviations, and potentially material legal or operational impacts."
+}

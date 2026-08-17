@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "inherently uncertain estimates",
+    "model overlays",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by broad forward-looking disclaimers and generalized risk factors, limiting specificity about the magnitude and likelihood of risks. Critical credit-loss estimates rely on subjective assumptions, economic forecasts, and model overlays, creating meaningful estimation and earnings volatility risk. The later expense commentary is more precise and neutral, but the excerpt is truncated and provides limited overall performance context."
+}

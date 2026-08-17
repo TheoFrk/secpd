@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no guarantee of success",
+    "could experience significant delays",
+    "reasonably possible estimates may change",
+    "material negative or positive effect"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with revenue and net income improving, but operating results remain near break-even and operating cash flow declined materially. Supply-chain, labor, inventory, receivables, tax, and valuation uncertainties are described largely through standard conditional language, with limited quantified downside sensitivity."
+}

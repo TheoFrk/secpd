@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "notable items",
+    "previously disclosed",
+    "non-GAAP measures",
+    "remainder expected through 2025"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but includes substantial boilerplate cross-references and standard forward-looking disclaimers. Financial performance weakened in 2023, with lower EPS, revenue, returns, margins, and operating leverage, while client attrition and fee-pressure effects are expected to continue through 2025."
+}

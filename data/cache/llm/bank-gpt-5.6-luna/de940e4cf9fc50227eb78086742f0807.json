@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "could differ materially",
+    "no assurance can be given",
+    "other risks detailed elsewhere",
+    "unlimited major-customer concentration"
+  ],
+  "risk_summary": "The excerpt contains extensive repetitive legal and forward-looking-statement disclaimers that reduce disclosure specificity. Quantified risks include an 8% revenue decline, heavy customer concentration with U.S. Foods representing 47% of sales, inflation-driven cost pressure, and a $5.1 million tax-loss carryforward. Overall tone is cautious and moderately negative, although several accounting estimates and exposures are quantified."
+}

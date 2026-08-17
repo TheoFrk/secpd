@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expected to",
+    "appears unlikely",
+    "discontinued operations"
+  ],
+  "risk_summary": "The excerpt presents substantial cyclical and operating risk, including severe housing-market weakness, sharp demand and price declines, depressed capacity utilization, and significant asset impairments. Quantification is generally strong, but repeated attribution language and a truncated presentation limit clarity regarding the full financial impact and forward risks. The outlook is cautiously mixed rather than crisis-like, with modest anticipated improvement offset by continued housing and employment uncertainty."
+}

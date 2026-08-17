@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subject to customary purchase price adjustments",
+    "expected to close",
+    "substantial uncertainty",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively supported, but is dense and includes substantial transaction-related adjustments that complicate assessment of underlying performance. Forward-looking statements, merger impacts, divestiture conditions, and numerous nonrecurring charges introduce execution and comparability risks, while the overall tone remains moderately positive."
+}

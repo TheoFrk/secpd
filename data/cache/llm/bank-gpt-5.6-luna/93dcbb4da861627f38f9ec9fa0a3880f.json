@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "risks and uncertainties",
+    "intended to eventually generate",
+    "significant additions or acquisitions",
+    "substantial business turnaround"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate disclaimers and optimistic, forward-looking claims about a broad multi-division turnaround, with limited operating detail supporting projected revenue growth. Quantified improvements in assets, equity, and net income are offset by historical losses, discontinued operations, restructuring, acquisition dependence, and substantial execution uncertainty."
+}

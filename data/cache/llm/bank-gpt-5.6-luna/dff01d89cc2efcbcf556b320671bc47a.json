@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.86,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "no assurance of continued operations",
+    "dependent on additional capital",
+    "forward-looking statements and uncertainties",
+    "uncertain tax positions",
+    "related-party officer compensation"
+  ],
+  "risk_summary": "The company has no operating revenue, reported a $450,571 loss, and held only $3,055 in cash while relying on equity financing, loans, asset sales, and accrued liabilities. Liquidity and going-concern risk are acute, with no committed credit facilities and unresolved obligations to creditors. Disclosure is highly quantified but includes standard forward-looking caveats and related-party compensation concerns."
+}

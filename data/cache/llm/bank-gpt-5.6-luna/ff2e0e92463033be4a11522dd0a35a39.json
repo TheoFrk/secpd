@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive discussion",
+    "cross-reference to annual report",
+    "table placeholder markers"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and relies entirely on incorporation by reference to another document. This limits transparency and prevents assessment of liquidity, operating performance, or emerging risks from the excerpt alone."
+}

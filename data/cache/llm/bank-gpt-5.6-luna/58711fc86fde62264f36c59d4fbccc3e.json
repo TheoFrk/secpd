@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "business growth strategies include",
+    "mutual benefit",
+    "range of personalization options",
+    "no further appeals are available",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and boilerplate, with useful operating metrics and revenue mix disclosures but limited discussion of forward-looking risks. The unfavorable German tax ruling resulted in a $49 million one-time charge and elevated the effective tax rate to 40.5%, representing the clearest adverse item. Overall tone is neutral to mildly confident, tempered by the disclosed tax loss and platform transition risk."
+}

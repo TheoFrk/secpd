@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking information involves risks and uncertainties",
+    "not possible at this time to predict",
+    "several major customers",
+    "primarily the result of",
+    "non-recurring transactions"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding revenue, margins, segment performance, and major transaction effects. Risk tone is mildly positive due to revenue and operating income growth, but geopolitical uncertainty, customer concentration, non-recurring HPP transactions, margin pressure, and reliance on management estimates create meaningful risks."
+}

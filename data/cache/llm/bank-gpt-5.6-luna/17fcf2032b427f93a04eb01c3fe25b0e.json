@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.64,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor risk-factor boilerplate",
+    "factors may not be exhaustive",
+    "beyond the Company's ability to control or predict",
+    "many of the end markets",
+    "gradual and steady underlying improvement"
+  ],
+  "risk_summary": "The excerpt reports improving revenue and operating income, but the risk tone is mixed due to substantial tax charges, customer credit losses, contract losses, zero-margin revenue, and market volatility. Disclosure is highly detailed in its quantified historical results but includes extensive boilerplate forward-looking disclaimers and broad, non-quantified risk language."
+}

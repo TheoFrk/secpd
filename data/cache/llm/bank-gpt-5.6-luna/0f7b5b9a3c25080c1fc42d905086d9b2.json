@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "may experience future impairment charges",
+    "not necessarily a good indication",
+    "forward-looking statements",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but relies on standard accounting-estimate caveats and extensive forward-looking language. Continuing operations remained loss-making, with land-sale margins declining and exposure to market volatility, development costs, impairment risk, and uncertain liquidity needs. Reported net income was materially supported by discontinued operations and a business-sale gain."
+}

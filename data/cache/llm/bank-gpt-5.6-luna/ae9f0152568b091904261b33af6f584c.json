@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonable under the circumstances",
+    "actual results may differ",
+    "typically recognized",
+    "may be required",
+    "qualitative assessment"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure on inventory methods, revenue recognition, and historical impacts. It highlights estimation uncertainty and potential impairment, inventory write-down, and revenue risks, but the tone is largely routine and balanced rather than crisis-like."
+}

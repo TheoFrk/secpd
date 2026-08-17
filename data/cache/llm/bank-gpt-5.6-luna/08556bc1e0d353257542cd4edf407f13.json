@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "actual results may differ",
+    "unobservable rates",
+    "various risks and uncertainties",
+    "subjective assessments"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified sensitivity examples, but relies heavily on management judgments regarding collectability, property valuations, impairment, and useful lives. Liquidity is presented constructively, supported by operating cash flow and substantial credit capacity, while inflation, rising rates, tenant collectability, and valuation uncertainty remain material risks."
+}

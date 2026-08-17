@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to deliver enhanced financial profile",
+    "primarily driven by",
+    "partially offset by",
+    "ongoing non-GAAP earnings",
+    "not practical to estimate"
+  ],
+  "risk_summary": "The disclosure is highly quantified and identifies material deterioration in sales, margins, earnings, cash flow, and EMEA performance, including a $1.9 billion impact from divestiture and strategic-review charges. Management frames portfolio restructuring and non-GAAP performance constructively, which may temper the severity of the reported GAAP loss and operational pressures. Liquidity appears substantial, but upcoming debt maturity, foreign-held cash, inflation, lower volumes, and restructuring execution remain notable risks."
+}

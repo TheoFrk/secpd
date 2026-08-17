@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "fundamentally outside of our control",
+    "often unpredictable",
+    "could significantly affect",
+    "not able to reasonably estimate",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The excerpt is generally precise and well-quantified, with detailed revenue, unit, margin, concentration, and closure data. Key risks include declining same-restaurant sales, planned restaurant closures, labor and commodity cost volatility, geographic concentration, and uncertainty in self-insurance and accounting estimates. The tone is measured and transparent rather than crisis-like, though several standard uncertainty disclosures temper confidence."
+}

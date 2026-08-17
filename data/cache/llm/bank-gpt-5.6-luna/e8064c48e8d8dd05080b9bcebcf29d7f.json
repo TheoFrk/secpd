@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "significant opportunities",
+    "intended to reduce",
+    "may continue to adversely impact",
+    "long sales cycles"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantified year-over-year sales changes, but includes recurring boilerplate and broad forward-looking claims. COVID-19 materially weakened demand, disrupted customers and suppliers, and is expected to continue adversely affecting fiscal 2021 sales. Joint-venture dividend dependence and variability in equity income add earnings and liquidity risk."
+}

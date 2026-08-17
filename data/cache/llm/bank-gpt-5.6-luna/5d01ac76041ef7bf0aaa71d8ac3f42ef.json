@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to cyclical trends",
+    "we believe",
+    "actual results may differ",
+    "unable to provide a reasonably reliable estimate",
+    "not able to determine the aggregate amount"
+  ],
+  "risk_summary": "The disclosure identifies meaningful cyclicality, market softness, customer uncertainty, and extensive estimation risk, but maintains an optimistic long-term outlook. Several obligations and accounting exposures are difficult to quantify, particularly unrecognized tax benefits and supplier commitments, although some balances and guarantees are provided."
+}

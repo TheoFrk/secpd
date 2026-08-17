@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "a variety of factors",
+    "if different estimates are used",
+    "could vary significantly",
+    "at least through fiscal 2016"
+  ],
+  "risk_summary": "The excerpt reports strong revenue, margin, and net-income improvement with substantial quantitative detail, but includes standard forward-looking caveats and uncertainty around investment valuations, deferred tax assets, contracts, and future obligations. Liquidity is presented as adequate through fiscal 2016, though the disclosure is partly boilerplate and the excerpt is truncated at a potentially material discussion of cash requirements and dividends."
+}

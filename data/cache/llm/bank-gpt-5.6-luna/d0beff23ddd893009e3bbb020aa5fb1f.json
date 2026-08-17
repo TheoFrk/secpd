@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "ample opportunity",
+    "actual results could differ",
+    "no assurances",
+    "may also utilize additional financing"
+  ],
+  "risk_summary": "The disclosure is predominantly confident and performance-oriented, with extensive quantitative reporting on closings, orders, margins, liquidity, and debt. Key risks include elevated interest rates, financing incentives, land costs, market sensitivity, estimation uncertainty, and potential reliance on additional capital, although these are generally described in standard cautionary language."
+}

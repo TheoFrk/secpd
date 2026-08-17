@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "designed to enable",
+    "capability and potential",
+    "may continue to be affected",
+    "significant source of uncertainty",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt reports strong revenue growth and improved operating leverage, but includes substantial boilerplate uncertainty regarding COVID-19, customer spending, government demand, supply interruptions, and deferred tax asset realization. Risk disclosures are broad and largely qualitative, with limited quantification of potential downside exposure."
+}

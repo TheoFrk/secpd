@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.5,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "future events rarely develop exactly as forecast",
+    "we continue to assess all the effects",
+    "expected cash flows from operations will be sufficient",
+    "no material contractual obligations",
+    "minimal impact"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes several quantified cash-flow and investment figures, but relies on standard estimates, assumptions, and forward-looking assurances. Liquidity risk is elevated by the decline in cash from $1.414 million to $558,000 and reduced operating cash flow, while the expected material impact of lease adoption is incompletely disclosed due to truncation."
+}

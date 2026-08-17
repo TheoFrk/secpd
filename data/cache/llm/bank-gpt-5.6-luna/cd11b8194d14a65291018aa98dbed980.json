@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.31,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "boilerplate cross-reference",
+    "no substantive financial discussion",
+    "formatting/OCR artifacts"
+  ],
+  "risk_summary": "The excerpt is primarily a procedural cross-reference and provides no substantive information about financial condition, results, liquidity, or risks. Its boilerplate structure limits transparency, although the passage itself does not convey a clearly negative or crisis-like tone."
+}

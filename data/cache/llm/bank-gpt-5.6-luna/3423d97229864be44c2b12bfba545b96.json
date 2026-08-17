@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "significant impact",
+    "may be impacted",
+    "variety of factors",
+    "acceptable risk parameters",
+    "conservative investment strategy"
+  ],
+  "risk_summary": "The excerpt provides meaningful operating and acquisition data, including premiums, investment income, reserve liabilities, and geographic exposure, but also relies on broad boilerplate descriptions of risks and assumptions. Key vulnerabilities include prolonged low interest rates, credit and interest-rate exposure, regulatory approval dependence, policyholder behavior, and international political and economic instability, particularly in Venezuela."
+}

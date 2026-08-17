@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "subjective determinations",
+    "unable to reliably forecast",
+    "restructuring-related charges",
+    "aspirational targets"
+  ],
+  "risk_summary": "The disclosure presents strong 2018 performance and quantified segment, margin, sales, and cash flow information, but emphasizes adjusted non-GAAP results that exclude recurring or potentially material costs. Future GAAP outcomes remain exposed to restructuring, impairment, acquisition, tax, pension, tariff, inflation, and market risks, while stated targets are aspirational rather than assured."
+}

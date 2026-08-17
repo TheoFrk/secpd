@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance risk factors are complete",
+    "actual results may differ",
+    "inherently uncertain and beyond our control",
+    "non-GAAP measures requiring reconciliation"
+  ],
+  "risk_summary": "The excerpt is information-rich and includes substantial quantified acquisition, capital, credit-loss, tax, and securities-valuation details, but is densely structured and contains extensive standard forward-looking and liability-limiting language. Key risks include potential tax disallowance related to the dissolved captive, acquisition-related credit exposure, interest-rate-driven AOCI volatility, and uncertainty around future loan growth."
+}

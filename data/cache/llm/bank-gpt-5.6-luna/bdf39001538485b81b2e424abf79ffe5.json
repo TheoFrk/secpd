@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor boilerplate",
+    "no assurance of future licensing revenues",
+    "totality of available information",
+    "estimated third-party expense accruals",
+    "truncated and corrupted disclosure text"
+  ],
+  "risk_summary": "The company is preclinical-stage, has no product revenue, and reports material development uncertainty, including failure of the INSPIRE trial to meet its primary endpoint and a $6.0 million IPR&D impairment. The disclosure is generally quantified and transparent on these events, but includes substantial legal boilerplate, estimates, and a truncated section that limits completeness."
+}

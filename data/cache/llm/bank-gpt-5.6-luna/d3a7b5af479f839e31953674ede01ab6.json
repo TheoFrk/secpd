@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "dependent upon continued sales",
+    "may negatively impact",
+    "could have a material impact",
+    "actual amounts may ultimately differ",
+    "successful clinical development and regulatory approval"
+  ],
+  "risk_summary": "The disclosure is relatively specific, providing cash-flow figures, liquidity, pipeline milestones, trial outcomes, and regulatory timelines. Risk exposure remains significant because revenue is concentrated in a few products and depends on clinical success, regulatory approvals, reimbursement, pricing, competition, biosimilars, and estimated rebates; the overall tone is cautiously positive but materially hedged."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to reasonably estimate",
+    "potential liabilities could be substantial",
+    "depends on a number of factors",
+    "may not be sufficient",
+    "ongoing investigations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, wildfire damage, insurance coverage, and potential liabilities, but material exposure remains difficult to estimate because causation, legal standards, damages, and regulatory recovery are unresolved. Wildfire litigation and possible inverse-condemnation liability create significant downside risk, including potential uninsured losses and limits on recovery through customer rates. The disclosure is detailed and generally transparent, though it relies heavily on conditional language and legal uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "we believe",
+    "reasonably likely",
+    "comprehensive solutions",
+    "constant currency"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified performance, backlog, cash-flow, and financing information, but relies heavily on boilerplate descriptions and management-defined non-GAAP measures. Risk tone is mildly negative because revenue, adjusted EBITDA, and non-GAAP EPS declined and the company reported a GAAP net loss, although the loss narrowed materially and backlog increased."
+}

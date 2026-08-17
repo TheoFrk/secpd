@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "risks and uncertainties",
+    "subject to change at discretion",
+    "other risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt presents improving operating performance, strong cash generation, rising cash balances, and no debt outstanding, supporting a generally positive financial tone. However, it contains extensive boilerplate risk disclaimers and identifies material exposure to commodity costs, demand cyclicality, operational disruptions, permitting, environmental liabilities, reserve estimates, and acquisition execution. The disclosure is quantitatively detailed in the performance discussion but highly expansive and non-specific in its forward-looking risk enumeration."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "assume no obligation to update",
+    "management’s judgment",
+    "factors may arise"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and relies materially on management judgment for loan-loss allowances, impairment testing, and economic assumptions. Credit risks include economic weakness, interest-rate volatility, loan collectibility, property values, concentration risk, and potential regulatory-required allowance increases, although reported goodwill testing showed fair value substantially above carrying value and management deemed the allowance adequate."
+}

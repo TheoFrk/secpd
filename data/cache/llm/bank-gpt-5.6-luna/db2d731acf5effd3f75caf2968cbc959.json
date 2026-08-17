@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "too many unknowns",
+    "certain borrowers in certain industries",
+    "relatively riskless",
+    "positive developments",
+    "difficulties are not over"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides useful operating and credit metrics, including loan modifications, PPP exposure, allowance building, and earnings deterioration. Risk tone is cautiously optimistic but includes broad, non-specific language around pandemic uncertainty, borrower stress, and the adequacy of credit protections. The 22.9% earnings decline, lower return on equity, margin pressure, and elevated loan-loss provisions indicate meaningful but not crisis-level credit risk."
+}

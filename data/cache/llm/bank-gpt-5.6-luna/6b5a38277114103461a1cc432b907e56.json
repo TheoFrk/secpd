@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-exhaustive risk factors",
+    "unable to predict outcome",
+    "unable to estimate liability",
+    "broad enforcement discretion",
+    "disclaims obligation to update"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate safe-harbor language and broad, largely unquantified risk disclosures. The OFAC investigation is a material unresolved exposure, with potential fines, sanctions, remedial measures, legal costs, and reputational effects that management cannot currently estimate. Accounting-policy disclosures are detailed but rely substantially on management judgment and changing estimates."
+}

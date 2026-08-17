@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and cautionary language",
+    "actual results may differ",
+    "other similar words that convey uncertainty",
+    "not necessarily all of the important factors",
+    "undertake no obligations to update"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative and accounting disclosures, including revenue-recognition effects and goodwill impairment, but is technically dense and contains extensive standard forward-looking-disclaimer language. Key risks include customer concentration, outsourcing demand, commodity and labor costs, regulatory compliance, operational disruption, and cyber incidents."
+}

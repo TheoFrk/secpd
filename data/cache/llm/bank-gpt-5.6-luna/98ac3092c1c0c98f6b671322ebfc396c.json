@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "inherently subject to significant uncertainties",
+    "many of which are beyond the Company’s control",
+    "does not undertake any obligation to update",
+    "factors could cause actual results to differ materially"
+  ],
+  "risk_summary": "The excerpt presents strong quantified operating performance, loan and deposit growth, improving non-performing assets, and record earnings, producing a generally confident tone. Risk disclosure is largely standard boilerplate, emphasizing broad uncertainties, acquisition integration, credit quality, interest rates, competition, regulatory burden, and the absence of an update obligation. The discussion is relatively complex and includes extensive legal disclaimers, but the operating metrics themselves are reasonably specific."
+}

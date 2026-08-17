@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "to a lesser extent",
+    "not fully offset",
+    "leading provider",
+    "refer to discussion below"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, acquisition contributions, raw-material pressures, production inefficiencies, and restructuring charges. Risk tone is moderately positive due to strong growth and margin initiatives, but exposure to input-cost inflation, acquisition integration, and facility ramp-up problems remains evident."
+}

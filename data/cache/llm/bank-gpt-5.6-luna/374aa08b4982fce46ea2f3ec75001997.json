@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "no assurance",
+    "significant improvement in criticized loans",
+    "restructuring and paydown",
+    "estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt presents a generally positive performance narrative supported by substantial quantitative disclosure on earnings, loan growth, margins, expenses, charge-offs, TDRs, and nonaccrual loans. Credit risk is present but framed as improving, while strategy execution, regulatory changes, borrower performance, and accounting estimates remain important uncertainties. The non-GAAP presentation and reliance on management judgments modestly reduce comparability and transparency."
+}

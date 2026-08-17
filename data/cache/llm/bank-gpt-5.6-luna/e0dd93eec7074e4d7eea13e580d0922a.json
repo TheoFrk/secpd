@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.42,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "remains committed",
+    "expect sales to grow",
+    "may take advantage",
+    "market share to stabilize",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is generally positive and provides substantial quantitative detail on sales, earnings, capital spending, segment performance, and tax assets. Key risks include display-market price declines, foreign-exchange exposure, lower equity earnings, valuation allowances on deferred tax assets, and reliance on forward-looking assumptions. The outlook uses moderate hedging but is not materially evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adequate resources",
+    "minimal impact",
+    "could potentially result",
+    "cannot predict duration and severity",
+    "seek reasonable returns"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent regarding earnings drivers, rate cases, regulatory lag, weather impacts, and COVID-19 exposures. Risk tone is mildly positive, but reliance on regulatory relief, purchased power, favorable funding access, and uncertain pandemic conditions creates continuing operational and liquidity sensitivity."
+}

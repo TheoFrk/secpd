@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and assumptions",
+    "could have a material adverse effect",
+    "variety of reserving methods",
+    "subject to risks and uncertainties",
+    "scaled disclosure reporting obligations"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes useful quantitative exposure measures, but relies substantially on actuarial assumptions, management estimates, and external factors that could materially affect reserves, asset values, and liquidity. Overall tone is cautious but moderately reassuring, supported by stated cash resources and expected subsidiary payments; the excerpt is truncated and omits the contractual-obligations table due to scaled reporting."
+}

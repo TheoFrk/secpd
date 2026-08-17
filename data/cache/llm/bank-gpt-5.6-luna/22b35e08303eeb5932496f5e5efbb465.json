@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unable to quantify exact impact",
+    "we believe",
+    "could unfavorably impact",
+    "more likely than not",
+    "continually evaluate"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail, but relies on forward-looking and qualified language regarding pricing pressure, hurricane impacts, tax benefits, acquisitions, and projected realizability of deferred tax assets. Risk tone is moderately negative because revenue grew only 3% while cost of revenue increased 30% and gross profit declined 18%, with further case-volume requirements to offset margin pressure."
+}

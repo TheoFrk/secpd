@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "non-GAAP measures and adjustments",
+    "significant judgments and estimates",
+    "actual results may differ",
+    "could result in additional impairment charges",
+    "excluding unusual matters"
+  ],
+  "risk_summary": "The excerpt is technically detailed and provides substantial quantitative disclosure, but relies heavily on non-GAAP measures and management-defined exclusions. Continuing revenue declines, repeated impairment charges, and sensitivity to valuation assumptions indicate meaningful operating and asset-value risk, despite a predominantly neutral explanatory tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes reasonable",
+    "subject to change",
+    "may be exposed to material adjustments",
+    "historically not materially different",
+    "forward-looking estimates"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified sensitivity analyses for variable consideration, returns, and doubtful accounts. Risk is moderated by repeated reliance on historical experience and management estimates, with potential material impacts if actual results differ. Overall tone is neutral to mildly confident, while acquisition, tariff, foreign-exchange, and financing effects introduce identifiable pressure."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "not presently aware",
+    "currently consider immaterial",
+    "could suffer if risks are realized",
+    "estimates and assumptions may be revised"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with segment, customer, capacity, revenue, and earnings information. Risk disclosure is partly boilerplate and uses broad catch-all language regarding unknown or immaterial risks and potential adverse outcomes. Overall tone is cautiously positive, supported by higher consolidated earnings, although declining clean-energy results, lower sales, regulatory exposure, and reliance on estimates present meaningful risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "numerous assumptions, risks, and uncertainties",
+    "could cause actual results to differ materially",
+    "no obligation to update",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt presents solid quantified growth and profitability improvements, producing a moderately positive risk tone. However, extensive boilerplate forward-looking disclaimers, broad catch-all risk categories, and reliance on non-GAAP measures reduce disclosure precision and may obscure downside sensitivity."
+}

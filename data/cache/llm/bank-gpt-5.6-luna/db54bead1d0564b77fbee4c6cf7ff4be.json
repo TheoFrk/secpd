@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted cash flow non-GAAP measure",
+    "if prices are lower or higher",
+    "from time to time",
+    "thus far",
+    "as applicable"
+  ],
+  "risk_summary": "The excerpt is comparatively transparent and well quantified, with detailed production, pricing, cash flow, debt reduction, and reserve data. It highlights favorable 2022 performance but acknowledges material sensitivity to commodity prices, inflationary costs, geopolitical disruption, and economic or demand weakness. Reliance on non-GAAP metrics and extensive technical disclosures modestly complicates interpretation but does not appear strongly evasive."
+}

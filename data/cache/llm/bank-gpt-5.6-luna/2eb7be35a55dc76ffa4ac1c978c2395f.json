@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "non-GAAP financial measure",
+    "we expect moderate capacity growth",
+    "adjustments were primarily to exclude"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, describing strong revenue, operating income, cash flow, liquidity, and debt repayment trends. Risk exposure remains material due to $20.1 billion of debt, substantial upcoming maturities, labor-cost increases, and reliance on sustained travel demand. Frequent non-GAAP adjustments and causal qualifiers modestly reduce comparability but do not appear strongly evasive."
+}

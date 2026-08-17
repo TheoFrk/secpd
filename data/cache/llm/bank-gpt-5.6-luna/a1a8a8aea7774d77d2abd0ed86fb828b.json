@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial judgment",
+    "considerable judgment",
+    "no assurance",
+    "may materially impact",
+    "future cash flows"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantification, but relies heavily on estimates, assumptions, and impairment judgments. Operating performance is materially adverse, with a 65% revenue decline, continuing segment losses, and a $1.154 million asset impairment, although the reserve sensitivity disclosed would not have triggered a carrying-value write-down."
+}

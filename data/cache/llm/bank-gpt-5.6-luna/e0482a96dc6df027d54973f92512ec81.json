@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.68,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance additional financing",
+    "assessing potential mergers and acquisitions",
+    "estimates and judgments",
+    "materially adversely affected"
+  ],
+  "risk_summary": "The company has discontinued operations, minimal cash of $15,000, negative working capital of approximately $249,000, and recurring operating losses. Management explicitly states that existing funds are insufficient for the next twelve months and that additional financing may be unavailable or obtainable only on unacceptable terms, indicating acute liquidity and going-concern risk."
+}

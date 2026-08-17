@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "N/M indicates not meaningful",
+    "primarily due to",
+    "likely lead to",
+    "among other things",
+    "forward-looking recovery claims"
+  ],
+  "risk_summary": "The excerpt is relatively transparent, with extensive quantified sales, margins, backlog, liquidity, debt, covenant, and restructuring disclosures. Risk is elevated due to COVID-19-driven revenue and margin declines, cyclical energy exposure, covenant waivers, and reliance on recovery assumptions, although strong net cash and improving backlog provide offsetting support."
+}

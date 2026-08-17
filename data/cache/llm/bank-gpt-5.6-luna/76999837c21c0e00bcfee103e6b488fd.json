@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "actual results may differ materially",
+    "estimates and judgments",
+    "single source or limited suppliers",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but relies on standard forward-looking disclaimers and judgment-heavy accounting estimates. Key risks include supplier concentration without long-term contracts, outsourced manufacturing dependence, margin pressure from new products, and uncertainty in tax and investment valuations."
+}

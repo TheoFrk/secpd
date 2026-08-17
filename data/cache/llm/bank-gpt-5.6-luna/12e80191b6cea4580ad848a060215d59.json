@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.12,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "expect sales to grow, but at a reduced rate",
+    "scientifically validated",
+    "for the foreseeable future",
+    "primarily due to",
+    "we do not expect"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting strong revenue growth but declining operating margin and net income, along with a significant voluntary recall and related inventory write-downs. Forward-looking statements rely on broad expectations regarding distributor growth, international expansion, margins, and future expenses, while the direct-selling model creates customer-concentration and distributor-retention risk."
+}

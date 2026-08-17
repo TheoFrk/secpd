@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "cannot guarantee future results",
+    "not all factors",
+    "not expected to be material",
+    "reasonable under the circumstances"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broad, largely unquantified management objectives. Key risks include cyclical demand, industry disruption, customer credit deterioration, inventory and revenue-recognition estimates, and strategic investment execution. The tone is cautiously optimistic but provides limited numerical support for growth, profitability, or accounting-impact claims."
+}

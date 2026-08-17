@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes allowance is adequate",
+    "future adjustments could be necessary",
+    "if circumstances or economic conditions differ substantially",
+    "qualitative adjustments and forecasts",
+    "regulators could require additions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides detailed rate, balance, provision, charge-off, and allowance metrics, but it contains duplicated discussion and several management-judgment caveats. Credit risk appears contained based on low net charge-offs and a stable allowance ratio, although nonperforming loans, portfolio growth, deposit funding costs, economic sensitivity, and model uncertainty represent emerging risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.16,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "qualified in their entirety by reference",
+    "forward-looking statements",
+    "non-GAAP financial measure",
+    "certain limitations",
+    "not necessarily represent funds available"
+  ],
+  "risk_summary": "The excerpt is largely precise and data-rich, reporting revenue, earnings, cash flow, debt reduction, segment contributions, and year-over-year drivers. Tone is confident and favorable, although standard legal qualifications and limitations around free cash flow modestly reduce transparency regarding liquidity interpretation. The excerpt is lengthy and technically dense but not materially evasive."
+}

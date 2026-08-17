@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.7,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.82,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance financing available",
+    "anticipated revenue from patent enforcement",
+    "known and unknown risks",
+    "old notes payable not expected to be repaid"
+  ],
+  "risk_summary": "The company has no operating revenue, incurred a larger net loss, and relies on uncertain capital raising and patent-enforcement proceeds. Liquidity risk is significant, with cash declining from $1.57 million to $0.47 million and no current financing arrangements. Extensive boilerplate risk disclosures and limited operating detail reduce transparency around its ability to continue or expand operations."
+}

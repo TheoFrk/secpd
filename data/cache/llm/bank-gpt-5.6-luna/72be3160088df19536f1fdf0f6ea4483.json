@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "estimates of future claim payments",
+    "most likely ultimate exposure",
+    "among other factors",
+    "additional information from claimants",
+    "circumstances that caused the increases"
+  ],
+  "risk_summary": "The excerpt is largely descriptive and provides some quantitative information, but relies on actuarial estimates and ongoing claims development that could materially affect profitability. Results are presented in a mildly positive tone, reflecting improved net income, although catastrophe exposure, reserve uncertainty, reinsurance dependence, and investment performance remain important risks."
+}

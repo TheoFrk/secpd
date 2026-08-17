@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate impacts",
+    "subject to risk, uncertainties",
+    "could affect future results",
+    "sufficient cash flows expected",
+    "significant estimates and judgments"
+  ],
+  "risk_summary": "The excerpt discloses material operating and liquidity risks from COVID-19, supply-chain disruptions, termination of the Batiste distribution agreement, declining demand, and impairment charges. It provides some useful quantified information, including Batiste sales, liquidity availability, cash, and inventory impairment, but relies substantially on broad forward-looking caveats and non-quantified assurances regarding future impacts and liquidity sufficiency."
+}

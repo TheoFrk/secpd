@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no significant cash requirements",
+    "there can be no assurance",
+    "not anticipated to have a significant impact",
+    "as the pandemic evolves",
+    "sufficient to cover these payments"
+  ],
+  "risk_summary": "The disclosure is reasonably quantified regarding reimbursement rates, contracts, debt, and purchase commitments, but relies on forward-looking assurances and contains incomplete context from omitted tables and truncated text. Key risks include contract expirations, depressed PBRT volumes, COVID-19 and supply-chain effects, refinancing and interest-rate uncertainty, and substantial unfunded equipment commitments."
+}

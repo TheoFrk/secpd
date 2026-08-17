@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "uncertainty",
+    "primarily due to",
+    "qualitative assessments",
+    "adversely affect"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, including sector sales, customer concentration, margins, restructuring charges, and goodwill balances. Key risks include revenue dependence on major customers, semiconductor capacity constraints, international exposure, supply-chain costs, and potential impairment or estimate changes. Overall tone is cautiously constructive, reflecting improved profitability and easing constraints despite persistent uncertainty."
+}

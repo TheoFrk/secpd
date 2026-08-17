@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expects margin to stabilize",
+    "progressive benefits as costs moderate",
+    "significant management judgment",
+    "no assurance can be given",
+    "non-GAAP measures not comparable"
+  ],
+  "risk_summary": "The disclosure is highly quantified but reflects materially weakening performance, including a 7.1% sales decline, severe gross-margin compression, sharply lower operating income, and a net loss. Management presents recovery expectations for 2023, but these depend on moderating freight and product-cost inflation, improved inventory management, and execution of strategic initiatives. Borrowings, lease-related judgments, uncertain tax outcomes, and extensive forward-looking assumptions remain notable credit risks."
+}

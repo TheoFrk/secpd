@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and broad disclaimers",
+    "no assurance expectations will be achieved",
+    "many risks and uncertainties cannot be predicted",
+    "we believe and expect without quantified support",
+    "truncated or incomplete disclosure passages"
+  ],
+  "risk_summary": "The excerpt presents improving occupancy, leasing activity, liquidity, and defense-related demand, but its outlook relies substantially on management beliefs and assumptions. Extensive forward-looking disclaimers, government funding uncertainty, concentration in Defense/IT tenants, and judgment-dependent impairment analyses create material risk opacity."
+}

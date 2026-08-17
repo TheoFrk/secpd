@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "management believes actions will provide opportunity",
+    "additional financing is necessary",
+    "limited capital",
+    "historical corporate transaction detail"
+  ],
+  "risk_summary": "The disclosure explicitly identifies limited capital, dependence on additional equity financing, and substantial going-concern uncertainty, indicating elevated liquidity and funding risk. Extensive historical transaction detail, forward-looking disclaimers, and qualified management expectations dilute focus on current operating performance and financial capacity."
+}

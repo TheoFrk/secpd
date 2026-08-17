@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "without limitation",
+    "outside of our control",
+    "no assurance",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is generally informative and quantitatively detailed regarding earnings, margins, loan balances, securities, and the Cortland acquisition. Risk disclosure is dominated by standardized forward-looking disclaimers and includes some broad, non-specific language about uncertainties and factors beyond management’s control. Results are positive overall, but declining net interest margin, lower loan yields, and acquisition-related effects introduce moderate operating risk."
+}

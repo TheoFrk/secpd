@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results could differ materially",
+    "no obligation to publicly release revisions",
+    "strategic alternatives and potential transactions",
+    "whenever possible"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, leasing, transaction, and asset information, limiting overall vagueness. Risk is partly obscured by extensive forward-looking disclaimers and strategic-review boilerplate, while the decision to continue the business plan conveys cautiously positive confidence despite prior sale or liquidation considerations."
+}

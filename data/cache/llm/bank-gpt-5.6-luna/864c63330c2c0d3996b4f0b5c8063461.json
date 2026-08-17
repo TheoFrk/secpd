@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "variety of factors beyond our control",
+    "best estimate and subjective judgment",
+    "impact currently uncertain"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and broadly enumerates macroeconomic, credit, regulatory, technology, geopolitical, and operational risks without quantifying their probability or expected financial impact. Credit-loss allowances are explicitly dependent on subjective estimates and external conditions, while proposed interchange-fee changes could reduce related revenues by approximately 30% based on historical periods. The tone is cautious and legally protective rather than indicative of an immediate crisis."
+}

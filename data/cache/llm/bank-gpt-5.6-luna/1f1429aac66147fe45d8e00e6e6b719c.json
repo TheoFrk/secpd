@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures and reconciliations",
+    "could potentially increase demand",
+    "more than offset",
+    "adjusted results",
+    "relative transit time allocation"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, describing revenue, volume, pricing, fuel surcharge, expense, and operating-ratio drivers. Risk factors include commodity weakness, lower fuel prices affecting coal and drilling shipments, customer bankruptcy, contract loss, and workforce-reduction costs, although the overall tone emphasizes operational improvement and productivity gains. Extensive non-GAAP discussion and complex attribution of offsetting factors modestly reduce transparency."
+}

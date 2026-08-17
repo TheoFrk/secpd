@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "baseline scenario",
+    "supplemental disclosure items",
+    "adjusted ratios excluding items",
+    "varying degrees of favorable and unfavorable adjustments"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including interest-rate, loan, deposit, and macroeconomic data. Risk tone is cautiously constructive, but reliance on forecast scenarios, non-GAAP adjustments, and extensive forward-looking caveats introduces uncertainty and may reduce comparability."
+}

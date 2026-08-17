@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.58,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "no assurance",
+    "dynamic product cost increases",
+    "future events could cause",
+    "adjusted measures eliminate certain items"
+  ],
+  "risk_summary": "The disclosure is generally confident and well quantified, highlighting strong revenue growth, customer demand, margins, and operating cash flow. Key risks include inflation, foreign currency, acquisition dependence, vendor incentives, impairment judgments, and pension obligations, with several standard forward-looking caveats. Extensive KPI and non-GAAP definitions add boilerplate and complexity but provide useful context."
+}

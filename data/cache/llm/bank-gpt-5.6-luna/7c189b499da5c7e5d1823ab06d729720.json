@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.04,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties include, but are not limited to",
+    "future results cannot be reliably predicted",
+    "subjective decisions or assessments",
+    "significant differences in actual experience"
+  ],
+  "risk_summary": "The excerpt uses extensive boilerplate forward-looking disclaimers and a broad, non-ranked list of potential risks, limiting specificity about likelihood and magnitude. It provides meaningful quantitative detail on receivable allowances, tax valuation allowances, goodwill testing, and segment margins, but relies on management judgment and future conditions for several material estimates. Overall tone is cautious and balanced, with disclosed operational performance improvements offset by uncertainty around credit losses, taxes, regulation, litigation, technology, and demand."
+}

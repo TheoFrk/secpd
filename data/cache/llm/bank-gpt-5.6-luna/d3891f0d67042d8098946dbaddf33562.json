@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no obligation to update",
+    "certain risks and uncertainties",
+    "leading franchise",
+    "favorable customer experience"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A boilerplate supplemented by specific operating metrics, portfolio balances, and growth rates. Risk disclosure is concentrated in broad forward-looking-statement disclaimers, while promotional language emphasizes market position and diversification. Reported 2015 earnings declined due to higher loan-loss provisions, taxes, and debt-extinguishment costs, indicating modestly adverse performance pressure."
+}

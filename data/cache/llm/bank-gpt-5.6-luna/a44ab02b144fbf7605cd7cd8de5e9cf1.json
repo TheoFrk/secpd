@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "boilerplate forward-looking risk disclaimer",
+    "other similar factors",
+    "management believes",
+    "non-GAAP adjustments",
+    "significant judgments and estimates"
+  ],
+  "risk_summary": "The disclosure is substantially quantitative and provides useful year-over-year detail on earnings, margins, asset quality, liquidity, and capital. Risk tone is moderately cautious because earnings, deposits, shareholders’ equity, and accumulated other comprehensive income declined, while exposure to interest rates, credit quality, technology, and market conditions is described largely through broad boilerplate factors. Reliance on management estimates, non-GAAP measures, and an unquantified potential FHLB impairment introduces some uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "could cause results to differ materially",
+    "not exhaustive",
+    "beyond the Company's ability to control or predict",
+    "undertakes no duty to update"
+  ],
+  "risk_summary": "The disclosure contains extensive standardized forward-looking disclaimer language and a broad, non-exhaustive list of external risk factors, limiting precision regarding downside exposure. Operating performance deteriorated materially, with operating income and diluted EPS declining sharply, although liquidity, restructuring benefits, and selected segment growth provide offsets."
+}

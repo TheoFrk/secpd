@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.08,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "forward-looking statements",
+    "no substantive detail",
+    "legal boilerplate"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk analysis and delegates the entire MD&A discussion to another document. This limits transparency within the filing and requires retrieval of the referenced annual report for assessment."
+}

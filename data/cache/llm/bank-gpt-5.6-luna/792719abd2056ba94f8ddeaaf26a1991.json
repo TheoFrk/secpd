@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.8,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "non-GAAP measures",
+    "may not be comparable",
+    "significant fixed component",
+    "integrated and interdependent segments"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment, revenue mix, seasonality, and operating-metric disclosures. Risk is moderated by reliance on non-GAAP measures, fixed-cost exposure, weather and economic sensitivity, acquisition-related effects, and extensive forward-looking-statement disclaimers. The tone remains confident and operationally focused rather than crisis-like."
+}

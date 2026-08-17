@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "no obligation to update",
+    "not possible to predict all risks",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and broad, non-quantified risk language, limiting its predictive value. It provides some concrete segment, geographic concentration, and inventory-demand assumptions, but the overall risk tone is balanced to mildly cautious amid references to industry volatility, customer concentration, and potential demand weakness."
+}

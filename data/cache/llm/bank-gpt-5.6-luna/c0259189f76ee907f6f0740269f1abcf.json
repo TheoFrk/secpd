@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted EBITDA exclusions",
+    "partially offset",
+    "non-GAAP financial measure",
+    "revised comparable basis",
+    "cautionary forward-looking language"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but emphasizes adjusted EBITDA and excludes multiple recurring or restructuring-related costs, which may present operating performance favorably. Credit risk is elevated by declining consolidated sales and gross margins, a $77.6 million goodwill write-down, higher integration and restructuring charges, and substantial debt maturities in April 2021."
+}

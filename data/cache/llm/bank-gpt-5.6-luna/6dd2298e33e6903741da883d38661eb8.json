@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may continue to affect",
+    "full impact remains uncertain",
+    "material adverse impact",
+    "continue to monitor"
+  ],
+  "risk_summary": "The disclosure is relatively precise, with extensive quantified results and clearly identified operational drivers, but includes standard forward-looking disclaimers and uncertainty around geopolitical and supply-chain effects. Risk tone is moderately negative because of declining sales and gross margins, operational inefficiencies, incomplete cost pass-through, and potential disruptions."
+}

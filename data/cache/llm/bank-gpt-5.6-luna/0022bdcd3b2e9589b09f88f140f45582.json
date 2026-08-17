@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "non-U.S. GAAP measures",
+    "voluntary product recall",
+    "currently believe inventory will be saleable",
+    "foreseeable liquidity needs"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with detailed sales, earnings, liquidity, debt, and covenant disclosures. Key risks include the Vial2Bag recall, product-return provision, Venezuelan deconsolidation, Argentina hyperinflation, and reliance on adjusted non-GAAP measures. Management maintains a positive liquidity and covenant-compliance outlook, but some forward-looking conclusions remain conditional on current expectations."
+}

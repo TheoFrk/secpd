@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "vary greatly",
+    "other factors will also influence",
+    "no assurances",
+    "difficult to predict",
+    "qualitative and quantitative factors"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting revenue, expense, income, allowance, loan, and recovery metrics. Key risks relate to interest-rate sensitivity, economic conditions, loan portfolio quality, and the substantial judgment embedded in expected credit loss estimates. Management presents performance and asset quality positively, but acknowledges that ACL estimates could change significantly and may be increased by regulators."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "risks and uncertainties",
+    "not possible to predict all risks",
+    "no obligation to update",
+    "visibility into future demand is limited"
+  ],
+  "risk_summary": "The excerpt relies heavily on standardized forward-looking disclaimers and broad, non-quantified descriptions of cyclical, seasonal, macroeconomic, and competitive risks. It provides some concrete liquidity and repurchase figures and presents a generally stable-to-confident operating tone, but limited demand visibility and semiconductor cyclicality remain material risks."
+}

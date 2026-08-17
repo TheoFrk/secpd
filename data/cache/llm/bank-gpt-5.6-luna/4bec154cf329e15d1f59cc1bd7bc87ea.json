@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "cannot reasonably estimate the impact",
+    "uncertainty regarding its duration",
+    "may take further actions",
+    "significant judgment and estimates",
+    "complex tax law"
+  ],
+  "risk_summary": "The disclosure is generally precise and strongly quantified, with detailed operating, liquidity, leverage, and performance metrics. Risk tone is moderately positive based on reported growth and cash generation, but the COVID-19 discussion introduces material uncertainty around operations, demand, supply chains, liquidity, and duration. Tax accounting and vendor allowance sections rely on judgment and estimates but provide reasonably standard explanations."
+}

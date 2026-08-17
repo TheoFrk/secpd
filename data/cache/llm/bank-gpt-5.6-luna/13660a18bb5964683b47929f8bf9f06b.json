@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "extent of impact will be determined",
+    "unless otherwise noted",
+    "non-GAAP financial measures",
+    "discontinued operations reclassification"
+  ],
+  "risk_summary": "The excerpt provides several quantified COVID-19 impacts, including estimated revenue and operating-income losses, but relies on conditional language regarding the duration and severity of future effects. Extensive definitional, cross-referential, and accounting-policy disclosures add boilerplate density and complexity, while discontinued-operations reclassifications may reduce comparability across periods."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results will inevitably differ",
+    "significant estimates and assumptions",
+    "when incurred",
+    "do not believe reflect ongoing operations",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt presents quantified revenue, earnings, backlog, reserves, and a $12.1 million goodwill impairment, but relies extensively on standard accounting-estimate caveats and management judgments. Credit risk appears moderate, with customer collectability, inventory obsolescence, impairment sensitivity, and discontinued operations representing key risks; the overall tone is cautiously positive based on improved annual results."
+}

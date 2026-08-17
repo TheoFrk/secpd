@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurances",
+    "beyond the Company’s control",
+    "going concern dependent upon",
+    "may not have a material impact"
+  ],
+  "risk_summary": "The disclosure presents significant financial distress, including recurring net losses, sharply negative working capital, dependence on shareholder support, and substantial financing-cost write-offs. Risk language is heavily boilerplate and includes broad forward-looking disclaimers, while some operating data tables appear incomplete or omitted. The company remains pre-commercial and dependent on improving profitability and external capital."
+}

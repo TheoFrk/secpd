@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could continue to do so",
+    "potential exists",
+    "appears to be moving",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt provides useful quantified detail on geographic exposure, segment mix, market pricing, and revenue sources, but relies on extensive boilerplate and forward-looking caveats. Key risks include weak economic conditions, insurance-premium cyclicality, reduced client coverage, regulatory complexity, and dependence on potentially volatile supplemental and contingent commissions. Overall tone is cautiously optimistic, emphasizing improved results and growth despite acknowledged market headwinds."
+}

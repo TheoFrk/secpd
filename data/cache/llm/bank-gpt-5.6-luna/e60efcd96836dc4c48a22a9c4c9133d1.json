@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict whether or to what extent",
+    "may have a material adverse effect",
+    "no assurance",
+    "currently anticipated cash requirements",
+    "difficult to forecast"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on liquidity, revenue, expenses, cash generation, and deferred revenue, supporting relatively transparent assessment. However, it contains extensive boilerplate forward-looking risk language around forecasting, financing availability, technology execution, key personnel, suppliers, and potential adverse effects, while the absence of credit lines limits liquidity flexibility."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to separate report",
+    "no substantive disclosure",
+    "legal boilerplate"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion, instead directing readers to pages 2–24 of a separate annual report. This limits transparency and prevents assessment of liquidity, operating performance, or emerging risks from the excerpt alone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "well positioned to improve sales",
+    "solid financial performance",
+    "we expect to grow",
+    "no assurance",
+    "future events could cause"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, detailing segment growth, acquisitions, currency effects, debt, working capital, and allowance estimates. Risk tone is cautiously positive, but optimistic forecasts and standard caveats about vendor incentives, customer defaults, and impairment introduce uncertainty. The text is lengthy and somewhat repetitive, with moderate jargon and boilerplate risk language."
+}

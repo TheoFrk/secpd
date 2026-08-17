@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not able to predict with certainty",
+    "may not prevent",
+    "including but not limited to",
+    "favorable asset quality trends",
+    "successful business development efforts"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting loan growth, profitability, capital ratios, credit metrics, and changes in income and expenses. Risk is acknowledged primarily through interest-rate sensitivity, competitive pressures, acquisition-related costs, and reliance on qualitative assumptions in loan-loss provisioning, but the overall tone remains confident and growth-oriented."
+}

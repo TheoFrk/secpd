@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.05,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "combined presentation",
+    "no representation",
+    "not included in this Annual Report",
+    "filed by such Registrant",
+    "year-to-year comparisons"
+  ],
+  "risk_summary": "The excerpt is primarily procedural and boilerplate, providing little substantive information about financial condition, performance, or risks. The combined-reporting disclaimer and cross-reference to prior filings limit transparency regarding entity-specific results in this section."
+}

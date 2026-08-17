@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "internally established allocation methodologies",
+    "subject to certain conditions",
+    "estimated cash payments remaining",
+    "not comparable to similarly titled measures"
+  ],
+  "risk_summary": "The excerpt presents a materially improved operating profile, with revenue growth, a return to GAAP profitability, higher adjusted EBITDA, and quantified backlog. Credit-relevant risks include leverage and debt terms, ongoing restructuring and acquisition-integration cash outflows, reliance on non-GAAP measures, and exposure to foreign-exchange and execution factors. Overall disclosure is relatively quantitative but contains substantial segment-description and non-GAAP boilerplate."
+}

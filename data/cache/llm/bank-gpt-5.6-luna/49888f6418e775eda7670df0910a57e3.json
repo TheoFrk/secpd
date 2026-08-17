@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "no obligation to revise or update",
+    "highly subjective",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-statement disclaimers and broad uncertainty language, limiting its usefulness for assessing specific future risks. Operating disclosures include some quantified segment changes, but the critical-estimate discussion emphasizes subjectivity and potentially material deviations without providing detailed sensitivity analysis."
+}

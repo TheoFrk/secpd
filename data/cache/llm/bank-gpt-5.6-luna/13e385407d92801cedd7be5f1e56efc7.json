@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "unpredictable delays",
+    "may delay or derail",
+    "anticipated to positively impact",
+    "reasonably possible estimates differ",
+    "significant quarter-to-quarter variations"
+  ],
+  "risk_summary": "The company discloses material customer concentration, dependence on public-sector tenders, volatile order timing, and exposure to geopolitical and administrative delays. It provides useful quantitative detail on customer shares, unit shipments, and expected orders, but relies on uncertain forecasts regarding future demand, order timing, and deferred tax assets. Overall tone is cautiously positive, supported by profitability and low leverage but tempered by substantial sales concentration and volatility."
+}

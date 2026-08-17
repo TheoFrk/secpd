@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.31,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not material to our Consolidated Financial Statements",
+    "aim to deliver",
+    "seek to",
+    "non-GAAP financial measure",
+    "uncertainties and risks remain"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, geographic, earnings, and geopolitical information, but includes considerable strategic and promotional boilerplate. Key risks include geopolitical disruptions, supply-chain and commodity-cost pressure, sanctions, cash-repatriation constraints, foreign-exchange volatility, and reliance on non-GAAP performance measures."
+}

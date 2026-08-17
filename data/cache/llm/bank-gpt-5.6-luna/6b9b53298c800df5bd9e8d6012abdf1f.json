@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "cannot guarantee future results",
+    "disclaim any obligation to update",
+    "outcomes not generally determinable",
+    "no assurances can be given"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and litigation disclaimers, limiting assurance about future performance and legal outcomes. Operating disclosure is reasonably quantified, showing modest fiscal 2016 sales growth driven by an acquisition and partly offset by weaker economic and semiconductor conditions, with declining average selling prices."
+}

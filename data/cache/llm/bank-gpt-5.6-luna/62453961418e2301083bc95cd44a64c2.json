@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties not exhaustive",
+    "no responsibility to update",
+    "beyond our control",
+    "related-party transactions not arm’s length"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers that limit reliance on forecasts and emphasize unquantified, potentially material risks. It provides useful portfolio, financing, revenue, and expense figures, but the disclosure is dense and partly truncated, with notable exposure to variable-rate debt, development risk, related-party arrangements, and external management fees."
+}

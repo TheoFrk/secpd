@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "risks include, but are not limited to",
+    "not comparable to other similarly titled measures",
+    "not a substitute for GAAP measures",
+    "truncated discussion and analysis"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but contains substantial standard non-GAAP disclaimers and forward-looking-risk boilerplate. Operating performance is presented with a mildly favorable tone, while seasonality, weather sensitivity, economic conditions, fixed costs, and limited comparability of non-GAAP metrics represent meaningful risk factors."
+}

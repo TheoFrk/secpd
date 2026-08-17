@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.18,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "zero assets",
+    "minor liabilities",
+    "minor administrative expenses",
+    "opportunities for growth",
+    "no merger candidate identified"
+  ],
+  "risk_summary": "The company reports effectively no operating assets, limited liabilities, and only minor expenses, indicating substantial financial and operational weakness. Its strategy depends on finding a merger candidate, but none has been identified, creating significant execution and going-concern risk."
+}

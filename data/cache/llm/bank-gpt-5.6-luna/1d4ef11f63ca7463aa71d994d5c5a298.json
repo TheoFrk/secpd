@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "not possible to predict",
+    "may materially adversely affect",
+    "future impairment difficult to predict"
+  ],
+  "risk_summary": "The disclosure presents significant commodity-price, reserve-estimation, impairment, liquidity, and capital-spending risks, including prior material write-downs and sharply lower reserve value. It includes substantial standard forward-looking disclaimer language and emphasizes uncertainty around future prices, reserves, cash flows, and impairments. Cost reductions and quantified historical data provide some transparency, but the outlook remains materially adverse and dependent on volatile oil and gas markets."
+}

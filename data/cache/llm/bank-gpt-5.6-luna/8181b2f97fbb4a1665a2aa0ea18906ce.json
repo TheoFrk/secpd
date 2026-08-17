@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of continued funding",
+    "entirely dependent on one individual",
+    "may be required to seek additional capital",
+    "if funding ceased, cease operations",
+    "until FDA approval"
+  ],
+  "risk_summary": "The company has no significant operating revenue and is entirely dependent on funding from Dr. Burzynski, creating severe concentration and liquidity risk. Clinical development remains contingent on fund availability and FDA approval, while the company acknowledges it may need additional financing on uncertain terms and could cease operations if funding is interrupted."
+}

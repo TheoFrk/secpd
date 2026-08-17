@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "organic growth",
+    "partially offset by",
+    "expected to",
+    "goal to reach 7%"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and explains year-over-year performance, but it repeatedly emphasizes non-GAAP and organic measures that can present results more favorably than GAAP outcomes. Risk is mixed: 2013 GAAP operating profit and continuing-operations income declined, with currency effects and North American weakness, while management provides specific recovery targets and growth expectations."
+}

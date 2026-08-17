@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "exact size of global market is not available",
+    "estimated to comprise approximately two-thirds",
+    "expected to be at the low end of the range",
+    "some risk in the near term",
+    "volume erosion on existing business"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong reported growth and margin improvement. Key risks include customer concentration, volume erosion, elevated raw-material costs, foreign-exchange pressure, incentive compensation, and uncertainty around market-size estimates and 2015 guidance. The overall tone is confident but acknowledges moderate near-term operating and macroeconomic risks."
+}

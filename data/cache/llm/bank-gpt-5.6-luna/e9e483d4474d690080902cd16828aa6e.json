@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP measures not standardized",
+    "items that may arise during the period",
+    "predicting future revenue and net earnings is difficult",
+    "meaningful supplemental information",
+    "comparable sales methodology differences"
+  ],
+  "risk_summary": "The disclosure is generally detailed and supported by numerous quantitative metrics, but it relies substantially on non-GAAP measures and adjustments that may reduce comparability and emphasize underlying performance selectively. It identifies meaningful retail risks, including seasonality, discretionary demand, macroeconomic sensitivity, competition, foreign exchange, restructuring, impairments, and declining sales and margins, while presenting the Renew Blue turnaround in a moderately positive tone."
+}

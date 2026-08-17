@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strong financial position",
+    "we continue to monitor",
+    "we believe has been temporarily impacted",
+    "expected to increase over the long term",
+    "disproportionately impacted by COVID-19"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and presents strong year-over-year recovery, improved margins, positive net income, cash, and no outstanding debt. Key risks include pandemic-related uncertainty, worker shortages, supply-chain disruptions, and reliance on continued recovery in client demand. Forward-looking claims about technology benefits and market normalization are somewhat generalized but not unusually evasive."
+}

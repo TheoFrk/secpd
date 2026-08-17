@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could adversely affect",
+    "significant disruption",
+    "strong financial performance",
+    "prudently manage",
+    "elevated concentration risk"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and asset-quality data, but uses optimistic descriptors and forward-looking language that moderately softens pandemic, interest-rate, and real-estate concentration risks. Hawaii-specific economic exposure and potential deterioration in real-estate markets represent material credit risks despite currently low nonperforming assets."
+}

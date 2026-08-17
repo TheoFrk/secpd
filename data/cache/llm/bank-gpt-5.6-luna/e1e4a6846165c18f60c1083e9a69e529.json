@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to the terms and conditions",
+    "we expect to recover",
+    "cannot estimate how long",
+    "without limitation",
+    "may affect the ability"
+  ],
+  "risk_summary": "The disclosure is generally specific and financially quantified, but identifies meaningful liquidity pressure from sharply higher commodity prices, margin calls, increased borrowing, and rising interest rates. Recovery of regulatory deferrals is expected but remains subject to regulatory processes, sharing bands, and timing-related regulatory lag. Supply-chain, climate, inflation, and regulatory risks are acknowledged with mitigation measures, while overall operating results remained positive."
+}

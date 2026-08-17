@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various factors including but not limited to",
+    "estimates and judgments",
+    "when we deem it necessary",
+    "repeated ASC 606 boilerplate"
+  ],
+  "risk_summary": "The disclosure is heavily technical and boilerplate-driven, with extensive accounting-policy language and limited operational detail. Quantified results indicate declining revenue and net income, a substantial working-capital deficit, and dependence on limited rental activity, although cash increased and financing outflows declined."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "amount cannot reasonably be estimated",
+    "highly subjective valuations",
+    "variety of factors beyond our control",
+    "significant estimates and assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and procedural detail, including portfolio metrics, accounting frameworks, and year-over-year drivers. Risk disclosure is concentrated in valuation, investment impairment, and loan-loss allowance estimates, where management emphasizes subjectivity and limited predictability. The tone is broadly neutral but mildly cautious rather than crisis-oriented."
+}

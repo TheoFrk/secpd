@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "qualified in its entirety",
+    "we expect this strategy to improve",
+    "generally have a reimbursement agreement",
+    "should be sufficient",
+    "maximum exposure estimates do not take into account"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding operating performance, liquidity, leverage, acquisitions, and guarantee exposures, but includes substantial boilerplate and optimistic forward-looking language. Key risks include housing affordability and interest-rate sensitivity, margin compression, joint-venture guarantees, partner creditworthiness, and potential exposure beyond proportionate shares."
+}

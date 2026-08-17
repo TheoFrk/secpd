@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "no obligation to update",
+    "non-GAAP measures excluding selected items",
+    "reasonable assurance",
+    "items outside management’s control"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains substantial boilerplate safe-harbor and non-GAAP disclosure, which may complicate comparability and obscure underlying performance. It provides meaningful quantitative operating and liquidity data, including modest earnings pressure, higher costs, warranty exposure, and restructuring impacts, but maintains an overall stable and moderately confident tone."
+}

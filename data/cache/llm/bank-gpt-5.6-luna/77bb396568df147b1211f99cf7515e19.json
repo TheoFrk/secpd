@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cannot predict the future trend",
+    "largely dependent on",
+    "among other things",
+    "two-month delayed basis",
+    "non-GAAP discussion and analysis"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively discloses significant charges, including goodwill impairment, arbitration settlements, tax valuation allowances, and a prior business-disposal loss. Risk tone is moderately negative due to lower forecasts, declining segment operating earnings, unpredictable claim volumes, and dependence on weather, economic conditions, and outsourcing decisions. Some uncertainty is framed through broad dependencies and non-GAAP segment measures, but there is limited evidence of deliberate concealment."
+}

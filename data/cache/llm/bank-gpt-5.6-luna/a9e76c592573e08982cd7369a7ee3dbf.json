@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict how long the pandemic will last",
+    "cannot estimate ultimate losses",
+    "if repercussions are prolonged",
+    "more likely than not",
+    "as deemed appropriate"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and cash-flow detail, including quantified headcount, margins, investments, debt repayments, and capital expenditures. However, COVID-19 impacts remain materially uncertain, with management unable to estimate ultimate losses and relying on forward-looking contingencies and management judgments. Overall tone is cautious but not crisis-like, reflecting continued sales strength alongside margin pressure and pandemic-related disruption."
+}

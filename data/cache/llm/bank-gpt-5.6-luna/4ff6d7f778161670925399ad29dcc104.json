@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expected to decline",
+    "relatively flat",
+    "primarily due to",
+    "unfavorable impact of currency translation",
+    "subject to cyclical nature"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and provides detailed regional, operational, and financial drivers, limiting concerns about evasiveness. Risk is moderate because management expects weaker 2014 industry demand from lower commodity prices and highlights exposure to cyclicality, currency movements, weather, financing, and farm income, although the overall historical performance is favorable."
+}

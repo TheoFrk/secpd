@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt regarding going concern",
+    "no assurance additional capital",
+    "best estimate of selling price",
+    "actual results may differ",
+    "numerous factors"
+  ],
+  "risk_summary": "The excerpt presents significant liquidity and viability risk, explicitly identifying substantial doubt about the company’s ability to continue as a going concern and forecasting continued losses. Revenue concentration is extreme, with major dependence on a few customers and historically near-total dependence on Sony, while future capital needs and commercialization outcomes remain uncertain. Accounting estimates, including percentage-of-completion revenue and license-fee allocation, introduce additional earnings variability."
+}

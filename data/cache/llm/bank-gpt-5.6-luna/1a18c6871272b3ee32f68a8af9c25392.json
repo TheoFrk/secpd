@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.29,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "variety of factors",
+    "may be suspended or discontinued",
+    "primarily due to growth",
+    "if financial condition deteriorates"
+  ],
+  "risk_summary": "The disclosure is detailed and includes meaningful operational and financial quantification, but relies on standard estimates, assumptions, and conditional language around collectability, repurchases, and performance drivers. Risk tone is generally stable and mildly confident, with identifiable exposure to customer employment levels, credit deterioration, acquisition execution, and CRM implementation costs."
+}

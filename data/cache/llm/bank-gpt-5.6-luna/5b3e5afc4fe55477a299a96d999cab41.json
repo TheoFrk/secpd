@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "largely due to",
+    "primarily attributable",
+    "favorable product mix",
+    "partially offset",
+    "as discussed further"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, with clear year-over-year explanations of sales, margins, earnings, taxes, debt, and discontinued operations. Risk is mixed: 2015 sales declined, oil and gas demand weakened, foreign currency reduced results, and discontinued operations generated a loss, but profitability, margins, operating leverage, and debt reduction improved."
+}

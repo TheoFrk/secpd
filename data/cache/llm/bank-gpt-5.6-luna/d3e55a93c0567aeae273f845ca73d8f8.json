@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes allowance is adequate",
+    "future additions may be necessary",
+    "subjective environmental factors",
+    "fair value determination is difficult",
+    "could have a material impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, including earnings, loan concentrations, fair-value exposure, and acquisition impacts, but relies heavily on management judgment and conditional language around loan losses and valuations. Concentration in commercial and residential real estate, difficult-to-value impaired assets, and sensitivity to economic and interest-rate changes represent material credit risks. Overall tone is cautiously positive due to improved profitability, while acknowledging meaningful downside uncertainty."
+}

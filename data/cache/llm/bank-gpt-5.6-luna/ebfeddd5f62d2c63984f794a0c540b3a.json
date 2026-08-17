@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "unexpected changes in market conditions",
+    "no assurance that positive trends will continue",
+    "estimated undiscounted future cash flows",
+    "could materially impact future estimates"
+  ],
+  "risk_summary": "The excerpt is detailed and highly quantified, but relies substantially on management assumptions regarding construction costs, absorption, selling prices, impairment valuations, and market conditions. Operating performance appears generally positive, while the housing-cycle exposure and potential for future impairment charges create meaningful downside risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results may differ materially",
+    "significant judgment and estimates",
+    "subject to impairment",
+    "significant assumptions"
+  ],
+  "risk_summary": "The excerpt is detailed and materially quantified, but contains substantial boilerplate forward-looking language and repeated ceiling-test disclosures. Key risks include commodity-price sensitivity, potential asset impairments, reserve and abandonment-cost estimation uncertainty, and significant capital and funding requirements."
+}

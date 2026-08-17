@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor disclaimer",
+    "known and unknown risks and uncertainties",
+    "including, but not limited to",
+    "no obligation to update projections",
+    "anticipated revenues and earnings estimates"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking disclaimer language and broad, non-quantified risk categories, which reduces transparency regarding the probability and magnitude of adverse outcomes. It also provides meaningful transaction, financing, market, and interest-expense details, but the overall tone is cautiously optimistic regarding portfolio diversification and strategic transition."
+}

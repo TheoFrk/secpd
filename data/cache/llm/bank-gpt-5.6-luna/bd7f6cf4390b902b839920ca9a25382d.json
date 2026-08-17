@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe-harbor disclaimers",
+    "risks and uncertainties beyond our control",
+    "no assurance expectations will be realized",
+    "undertake no obligation to update",
+    "non-GAAP adjusted performance measures"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative results and cash-flow data, but extensive boilerplate disclaimers and broad, largely unquantified risk listings reduce specificity. The tone is moderately confident based on improved earnings, rate recovery, and liquidity, although the capital-intensive business remains exposed to regulatory, financing, operational, commodity, cyber, and climate risks."
+}

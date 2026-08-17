@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "inherently subject to significant uncertainties",
+    "many of which are beyond the Company’s control",
+    "does not undertake any obligation to update",
+    "non-GAAP operating income"
+  ],
+  "risk_summary": "The excerpt presents a generally improving risk profile, citing higher earnings, materially lower loan-loss provisions, and reduced non-performing assets. However, profitability remains exposed to compressed net interest margins, weak loan demand, elevated investment-security concentration, credit quality, interest rates, competition, and regulatory burden. Extensive forward-looking disclaimers and reliance on non-GAAP operating results reduce comparability and introduce disclosure caution."
+}

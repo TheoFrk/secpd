@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "highly uncertain",
+    "may not continue",
+    "could have a material adverse effect",
+    "a number of factors",
+    "including but not limited to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but presents meaningful pandemic, oil-and-gas demand, project-delay, customer-credit, and impairment risks. The tone is materially negative and cautious, with extensive scenario-based uncertainty and reliance on broad qualifying language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted with confidence",
+    "could adversely impact",
+    "among others",
+    "subject to comprehensive regulation",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, describing regulated utility operations, customer counts, revenues, margins, and pass-through mechanisms. Key risks include regulatory decisions, weather variability, seasonal demand, pandemic-related disruption, customer usage changes, and reliance on rate recovery, although the company reports continued uninterrupted service. The dense regulatory and accounting terminology increases interpretive complexity but does not indicate strong evasive intent."
+}

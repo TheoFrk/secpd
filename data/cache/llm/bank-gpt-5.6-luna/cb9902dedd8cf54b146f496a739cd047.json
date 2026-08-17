@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ",
+    "requires significant judgment",
+    "reasonably assured",
+    "numerous factors including bankruptcies"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including occupancy, receivables, allowances, bad-debt history, and sensitivity analysis. Risk disclosures rely on standard uncertainty language and involve substantial management judgment around collectability, straight-line rent, and condominium revenue recognition. Operating performance is presented positively, but tenant credit, lease termination, redevelopment, and accounting-estimate risks remain material."
+}

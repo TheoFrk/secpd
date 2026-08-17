@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.55,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "expects to increase",
+    "may not be repeated",
+    "believes sufficient",
+    "normal fluctuations",
+    "no material impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and strongly quantified, with clear explanations of revenue, cash flow, liquidity, debt capacity, and related-party transactions. Risk tone is positive, although performance depends on backlog and customer deposits, margins are pressured by large contracts, and cash declined after a substantial special dividend. Some forward-looking assurances and boilerplate statements limit visibility into downside scenarios."
+}

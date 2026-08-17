@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance expectations prove correct",
+    "numerous factors beyond our control",
+    "continue to evaluate opportunities",
+    "COVID-19 impact remains uncertain"
+  ],
+  "risk_summary": "The excerpt provides useful, quantified operating results and regional sales trends, but is preceded by extensive boilerplate forward-looking language and broad risk disclaimers. COVID-19 disruption, regional declines, product concentration in ICL sales, and lower gross margins represent meaningful risks, although overall performance and liquidity disclosures remain moderately reassuring."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "could differ materially",
+    "no assurance",
+    "factors outside of our control",
+    "may require additional funding"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial and liquidity information, but relies heavily on standard forward-looking disclaimers and conditional language. Key risks include semiconductor demand weakness, revenue declines, restructuring costs, geographic concentration in China, capital-market access, and potential future funding needs. Liquidity appears adequate for at least twelve months, while longer-term performance remains dependent on industry demand and cost management."
+}

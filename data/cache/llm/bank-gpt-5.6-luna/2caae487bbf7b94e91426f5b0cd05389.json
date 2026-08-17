@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "partially offset by",
+    "acquisition-period adjustments",
+    "reasonable margins",
+    "incomplete/truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting segment revenues, operating income drivers, acquisitions, and the United Kingdom construction withdrawal. Risk is moderate: historical UK construction losses, unfavorable market conditions, competitive pressures, project concentration, and declines in several segments are disclosed, although positive operating trends dominate the tone. The truncated and internally inconsistent period references modestly reduce clarity."
+}

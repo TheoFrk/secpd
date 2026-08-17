@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future results may differ",
+    "uncertain future economic conditions",
+    "we cannot predict",
+    "based on anticipated cash flows",
+    "possible future impairment charges"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, including segment results, price and volume impacts, divestiture proceeds, obligations, and impairment considerations. Risk tone is mildly negative due to declining earnings, lower OSB prices, cyclicality, inflation, supply disruptions, and potential impairments, although management presents mitigating factors and maintains support for asset carrying values."
+}

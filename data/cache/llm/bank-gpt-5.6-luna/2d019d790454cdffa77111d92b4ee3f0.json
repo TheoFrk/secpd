@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.9,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "believed to be reasonable",
+    "may use subcontractors",
+    "various criteria specified",
+    "financial covenants and collateral"
+  ],
+  "risk_summary": "The excerpt is highly technical and dense, relying on extensive accounting-standard language and repeated revenue-recognition descriptions that reduce readability. Key risks include judgment-sensitive percentage-of-completion accounting, contract-cost estimates, collectability, gross-versus-net revenue classification, and significant secured debt covenants, although the company states it was in compliance as of December 31, 2011."
+}

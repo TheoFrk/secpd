@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "reasonable likelihood",
+    "among other things",
+    "sufficient liquidity",
+    "conservatively underwritten",
+    "subjective or complex estimates"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive, conservative risk profile supported by quantified liquidity, deposit, loan-to-deposit, capital, and efficiency metrics. However, several conclusions rely on broad management assertions and significant judgment in fair value, impairment, goodwill, tax, and acquisition accounting, with the excerpt truncated before completing some disclosures."
+}

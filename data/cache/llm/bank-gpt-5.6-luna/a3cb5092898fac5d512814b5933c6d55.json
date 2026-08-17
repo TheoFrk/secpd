@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk factors",
+    "actual results may differ materially",
+    "subject to risks and uncertainties",
+    "reasonable possibility of material changes",
+    "complex and subject to interpretation"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A framing and forward-looking-statement disclaimer language, with substantial boilerplate and limited discussion of specific adverse outcomes. It provides useful operating scale and revenue mix metrics, but emphasizes estimation uncertainty in payer revenue, regulatory interpretation, audits, and potential material adjustments."
+}

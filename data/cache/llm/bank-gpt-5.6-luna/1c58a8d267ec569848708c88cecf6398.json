@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "various uncertainties and other factors",
+    "among the highest in the industry",
+    "truncated disclosure",
+    "similar words or phrases"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with clear explanations of sales, margins, expenses, taxes, liquidity, and covenant compliance. Risk is moderate rather than crisis-like: net income declined, margins compressed, claims and legal costs increased, and competition remains intense, although the company had no revolving debt outstanding and was covenant-compliant. The excerpt ends abruptly and includes standard forward-looking disclaimers, limiting assessment of subsequent risks and outlook."
+}

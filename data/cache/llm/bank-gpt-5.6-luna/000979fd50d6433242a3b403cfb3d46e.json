@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not obligated to publicly update",
+    "partially offset by",
+    "continued revenue growth and strong margins"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and explains major revenue, margin, acquisition, and financing changes, but includes standard forward-looking disclaimers and some repetitive offsetting language. Risk tone is mixed: revenue and operating margins declined materially, largely due to lower COVID-19 demand and acquisition-related costs, while management emphasizes strategic strength, pricing, and expected future growth."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking information involves risks and uncertainties",
+    "based on assumptions believed reasonable",
+    "more likely than not",
+    "may be required",
+    "text truncated during impairment discussion"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively informative, but includes substantial standard accounting and forward-looking boilerplate. Key risks include the sustained decline in disposable-product sales, loss of the Tyvek license, margin pressure, international and customer-credit exposure, and potential impairment or tax-asset valuation adjustments."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily caused by",
+    "mostly attributable to",
+    "offset in part by",
+    "expected production",
+    "unfavorable impact"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and transparent about substantial net losses, impairments, declining production, weak commodity prices, and dependence on oil-linked pricing. Risk is mitigated by explicit hedging percentages and detailed variance explanations, though the long, repetitive presentation and qualified causal language somewhat reduce clarity."
+}

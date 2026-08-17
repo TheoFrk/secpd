@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "approximately",
+    "we anticipate",
+    "we expect",
+    "actual results may differ",
+    "opportunistically sells"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively supported, detailing acreage, transaction values, pricing, volumes, and earnings impacts. Risk tone is cautiously positive, although timber pricing pressure, weather-related disruption, market dependence, and significant estimation uncertainty are acknowledged. The dense accounting and operational terminology increases interpretive complexity, but there is limited evidence of deliberate obfuscation."
+}

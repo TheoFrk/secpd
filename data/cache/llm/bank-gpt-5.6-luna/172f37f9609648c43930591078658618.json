@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management’s best estimates",
+    "actual results may differ",
+    "more likely than not",
+    "probability-weighted cash flows",
+    "litigation is highly uncertain"
+  ],
+  "risk_summary": "The excerpt is largely standard critical-accounting-policy boilerplate, with substantial reliance on management estimates and forward-looking assumptions for impairment, inventory, and contingencies. Disclosed risks include potential inventory write-downs, goodwill or long-lived-asset impairment, and significant respirator liability claims, although recent operating performance improved materially versus fiscal 2020. The truncated text limits assessment of the full risk picture."
+}

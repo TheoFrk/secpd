@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.8,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "from time to time",
+    "where we believe we can be successful",
+    "may have an adverse impact",
+    "actual results may differ",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative operating data and identifies material exposures to interest rates, recession, market volatility, geopolitical disruption, inflation, taxation, and cybersecurity. However, the outlook relies heavily on conditional and aspirational language, with limited quantified sensitivity analysis or defined downside scenarios. Overall, the tone is balanced but modestly risk-negative due to significant external uncertainties."
+}

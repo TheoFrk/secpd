@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "assumptions could produce different results",
+    "no obligation to update",
+    "other factors may cause differences"
+  ],
+  "risk_summary": "The excerpt presents improving profitability, asset growth, and low net charge-offs, supporting a generally stable and moderately confident tone. However, extensive forward-looking disclaimers and reliance on management estimates highlight sensitivity to interest rates, credit quality, valuations, and economic conditions. Disclosure is relatively quantified in operating metrics but includes substantial boilerplate risk language and limited scenario analysis."
+}

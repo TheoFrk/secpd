@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking statements",
+    "actual results could differ",
+    "project execution challenges",
+    "competitive pressure on margins",
+    "subject to management estimates"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, but it discloses meaningful deterioration in gross margins, backlog volatility, Powell Canada execution problems, operating losses, and impairment charges. Boilerplate forward-looking and accounting-estimate language limits precision around contingent outcomes and future cash flows. Overall risk tone is moderately negative despite improved orders and backlog."
+}

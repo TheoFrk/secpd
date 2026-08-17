@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks and uncertainties",
+    "estimated reserves",
+    "projected future expenditures",
+    "no significant estimates"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but includes substantial promotional business descriptions and standard forward-looking safe-harbor language. Operating risk is elevated, with a 17% sales decline, widening net loss, severe margin compression, legacy-product obsolescence, customer concentration, and materially higher inventory reserves. Liquidity is presented as adequate, supported by an undrawn credit facility, though the excerpt is incomplete and does not fully detail the underlying contractual obligations."
+}

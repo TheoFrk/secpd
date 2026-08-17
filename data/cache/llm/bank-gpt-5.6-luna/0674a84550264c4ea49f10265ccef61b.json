@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "inherently subject to significant risks and uncertainties",
+    "many known or unknown factors",
+    "duration and future impact remain uncertain",
+    "we believe",
+    "ability to generate sufficient taxable income is uncertain"
+  ],
+  "risk_summary": "The excerpt provides useful revenue, cost, royalty, NOL, and valuation-allowance figures, but relies heavily on standard forward-looking disclaimers and broad strategic claims. Key risks include pandemic-related demand volatility, uncertain commercialization and pipeline outcomes, reliance on licensed products, and a 100% deferred-tax-asset valuation allowance reflecting uncertain future taxable income."
+}

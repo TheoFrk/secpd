@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.35,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "we believe",
+    "focused on strategic initiatives",
+    "low single-digit percentage range",
+    "planned exit of lower margin categories",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment, sales, margin, acquisition, and store metrics. Risk tone is mildly positive, although references to changing retail conditions, weaker brands, restructuring, markdowns, and reliance on acquisitions indicate execution and consumer-demand risks. Repeated passages and the truncated presentation reduce disclosure clarity."
+}

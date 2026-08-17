@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot accurately predict future commodity prices",
+    "not reasonably likely to occur in the near future",
+    "unless commodity prices continue to decline significantly",
+    "we believe we are well-positioned",
+    "could be reduced in the future"
+  ],
+  "risk_summary": "The excerpt presents substantial commodity-price, impairment, liquidity, borrowing-base, covenant, and cash-flow risks, with operating cash flow down $495.7 million and realized prices down materially. Quantified debt and liquidity disclosures improve transparency, but management uses conditional assurances and forward-looking language to mitigate concerns about further price declines and covenant pressure."
+}

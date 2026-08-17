@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally",
+    "we believe",
+    "could significantly impact",
+    "not a true measure of price",
+    "appropriate reserves"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantitatively supported, reporting revenue, volume, yield, operating-ratio, earnings, fuel, labor, and claims metrics. Risk factors include economic demand sensitivity, fuel-price and inflation volatility, insurance and workers’ compensation liabilities, and possible changes in claims severity or regulation, but management presents operating performance and controls in a confident tone."
+}

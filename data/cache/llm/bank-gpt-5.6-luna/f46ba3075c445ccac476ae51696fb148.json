@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.82,
+  "complexity_score": 0.24,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference",
+    "repeated caption",
+    "no substantive disclosure"
+  ],
+  "risk_summary": "The excerpt is a precise cross-reference but provides no substantive financial or risk information. Its repeated section title is largely boilerplate and limits standalone credit-risk assessment."
+}

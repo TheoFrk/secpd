@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "strong financial condition",
+    "well prepared to meet the challenges",
+    "could adversely affect future results",
+    "if necessary additional notes payable funding",
+    "future capital requirements depend on numerous factors"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results and liquidity disclosures, including strong revenue and profit improvement, but margins deteriorated and interest expense increased due to additional borrowing. Risk is moderated by acknowledged competitive pressure, challenging macroeconomic conditions, dependence on expected operating performance for liquidity, and potential reliance on additional financing. The overall tone is promotional and optimistic, with limited detail on debt capacity, covenant headroom, or downside scenarios."
+}

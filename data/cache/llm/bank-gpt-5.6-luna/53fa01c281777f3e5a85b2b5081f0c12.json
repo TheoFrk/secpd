@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results could differ significantly",
+    "substantial judgment",
+    "no assurance",
+    "unable to predict",
+    "could materially impact"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful sensitivity quantification, but relies substantially on estimates, assumptions, and forward-looking uncertainty regarding reserves, asset values, taxes, and contract availability. Risk tone is moderately negative due to declining production, asset write-downs, weak economic conditions, margin pressure, and potential material valuation adjustments."
+}

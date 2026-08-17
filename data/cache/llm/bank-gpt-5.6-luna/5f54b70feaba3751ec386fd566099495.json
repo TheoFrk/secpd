@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "limited comparability",
+    "trend we expect to continue",
+    "primarily due to",
+    "brief explanation",
+    "prospective basis"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally specific, but its technical ASC 606 discussion and repeated comparative framing reduce readability. Operating trends are materially negative, including customer, broadband, video, voice, and revenue declines, although churn and consumer ARPC improved. Management explicitly expects commercial voice and wireless backhaul declines to continue."
+}

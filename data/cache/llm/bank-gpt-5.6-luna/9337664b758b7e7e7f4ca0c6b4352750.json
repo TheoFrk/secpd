@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "actual results may differ materially",
+    "no obligation to update",
+    "other factors beyond control",
+    "management believes"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative performance and asset-quality information, but includes substantial boilerplate disclaimers and reliance on management estimates for loan losses, goodwill, servicing rights, and securities impairment. Declining net income, profitability ratios, and loan balances indicate moderate pressure, although efficiency and reported asset growth provide some mitigating context."
+}

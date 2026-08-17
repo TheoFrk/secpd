@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "liquidity challenges",
+    "capital raising efforts are challenging",
+    "continue as a going concern",
+    "various means of financing",
+    "actual results may differ significantly"
+  ],
+  "risk_summary": "The disclosure is relatively quantified and transparent about losses, cash balances, declining revenue, funding termination, and dependence on future financing. However, it presents material liquidity and going-concern risk, with exploration capacity constrained and future funding plans largely conditional. Repetition and broad financing alternatives somewhat dilute the severity of the funding uncertainty."
+}

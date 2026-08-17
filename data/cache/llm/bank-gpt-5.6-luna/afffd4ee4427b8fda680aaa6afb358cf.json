@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP operating earnings exclusions",
+    "non-core items",
+    "strong growth and stable asset quality framing",
+    "following table/chart references",
+    "incomplete disclosure fragment"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting loan growth, provisioning, charge-offs, nonperforming assets, and acquisition metrics. Risk tone is cautiously positive, but credit risk increased through higher provisions and charge-offs, including a material commercial loan fraud, while margin pressure and regulatory challenges remain. Reliance on non-GAAP operating results and exclusion of supposedly noncore costs may present a more favorable view of performance."
+}

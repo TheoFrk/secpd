@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict when or if",
+    "due primarily to",
+    "partially offset by",
+    "see MD&A cross-references",
+    "inherent risks and material fluctuations"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and explains major year-over-year changes, including earnings, premiums, investment results, catastrophe losses, and reserve development. Risk is present through elevated catastrophe losses, adverse reserve development, investment volatility, and acknowledged unpredictability, but the overall tone is moderately positive due to substantial earnings improvement and operating gains."
+}

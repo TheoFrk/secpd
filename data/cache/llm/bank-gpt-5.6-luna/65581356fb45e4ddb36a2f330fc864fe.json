@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe-h harbor disclaimer",
+    "no assurance of financing",
+    "anticipated needs for minimum of 12 months",
+    "materially differ",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail but relies on standard forward-looking disclaimers and broad assertions regarding estimates and future financing. Risk tone is negative because the company reports worsening operating losses, limited external liquidity, dependence on additional financing, and uncertainty about obtaining capital on acceptable terms."
+}

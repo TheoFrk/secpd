@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor cautionary language",
+    "numerous assumptions, risks and uncertainties",
+    "significant management judgment",
+    "could produce significantly different results",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, earnings, investments, debt, currency effects, and accounting estimates, but includes extensive standard forward-looking disclaimers and judgment-based valuation language. Reported performance weakened, largely due to yen depreciation and lower investment gains, while material sensitivity exists to investment valuations, credit spreads, foreign exchange, and policy-liability assumptions."
+}

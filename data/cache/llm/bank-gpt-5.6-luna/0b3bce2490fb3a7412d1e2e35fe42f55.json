@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "based on recent forward strip pricing",
+    "not expected to be greater than natural decline",
+    "significant judgment",
+    "may be material",
+    "partial price protection"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but indicates meaningful operating deterioration, including lower commodity prices, declining gas production, reduced reserves, higher costs, and increased impairment. Forward pricing assumptions and reserve estimates create sensitivity to further price declines, which could result in additional material impairment."
+}

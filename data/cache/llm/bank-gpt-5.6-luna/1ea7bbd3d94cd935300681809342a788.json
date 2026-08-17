@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "immediately following",
+    "captioned section",
+    "filed as Exhibit 13"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, operating, liquidity, or risk information and instead redirects readers to another filing. This limits standalone assessability and may obscure the relevant disclosures without access to the referenced annual report."
+}

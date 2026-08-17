@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherent uncertainty",
+    "significant judgment required",
+    "may be materially greater or lower",
+    "primarily due to",
+    "not unusual or unexpected"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides useful year-over-year operating detail, but reports substantial declines in net income, revenue, margins, and transaction volumes amid elevated interest rates. The principal risk relates to uncertainty in title-loss reserves, including long-duration IBNR claims, large losses, and potential material deviations from actuarial estimates. Overall tone is factual and moderately negative rather than crisis-like."
+}

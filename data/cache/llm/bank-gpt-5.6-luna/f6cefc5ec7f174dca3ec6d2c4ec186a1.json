@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects weakness to continue",
+    "global economic uncertainty",
+    "actual results may differ",
+    "currently forecasted rates",
+    "adjusted operating income"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong operating performance, cash flow, liquidity, and acquisition-related explanations. Key risks include slowing academic, government, and industrial demand, reliance on acquisitions and productivity improvements, tax-rate assumptions, and uncertainty in accounting estimates. The overall tone is moderately confident but includes conventional forward-looking caveats."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot be accurately forecasted",
+    "could negatively affect",
+    "inherently uncertain and unpredictable",
+    "subject to significant uncertainties",
+    "more likely than not"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and provides specific transaction, debt, tax, and cash-flow figures, but includes extensive standard forward-looking caveats around COVID-19, accounting estimates, and contingencies. Risk tone is moderately negative due to pandemic uncertainty, discretionary demand exposure, refinancing and capital-access risks, and large divestiture-related cash outflows, although management presents the strategic transition in a generally controlled manner."
+}

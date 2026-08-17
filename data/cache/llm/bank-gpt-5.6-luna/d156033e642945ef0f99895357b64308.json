@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could cause actual results to differ materially",
+    "limited visibility",
+    "no assurance",
+    "depending on market conditions"
+  ],
+  "risk_summary": "The excerpt reports strong, quantified 2022 performance and expresses cautious optimism, but emphasizes substantial exposure to macroeconomic, labor-market, competitive, regulatory, litigation, currency, and cybersecurity risks. Extensive boilerplate forward-looking disclaimers and repeated conditional language reduce specificity regarding the magnitude and timing of adverse outcomes. Liquidity appears solid, although revenue and cash-flow visibility is explicitly limited by short-term engagements and macroeconomic dependence."
+}

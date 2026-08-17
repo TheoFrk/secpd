@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.12,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "comparisons omitted",
+    "omitted pursuant to Instruction",
+    "narrative analysis incorporated",
+    "reference to annual report"
+  ],
+  "risk_summary": "The excerpt provides little substantive financial analysis and relies heavily on incorporation by reference, including omission of year-to-year comparisons. This limits transparency in the presented filing section and requires review of external referenced materials to assess performance and risks."
+}

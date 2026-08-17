@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "safe harbor and no duty to update",
+    "cannot guarantee future results",
+    "meaningful cautionary statements",
+    "based on assumptions believed reasonable",
+    "evaluation of impact in process"
+  ],
+  "risk_summary": "The excerpt presents a cautiously optimistic turnaround narrative, supported by quantified restructuring costs and reserve balances, but emphasizes cyclical demand, exchange-rate volatility, cost pressures, and execution challenges. Extensive forward-looking-statement disclaimers and reliance on management estimates limit visibility into future performance. Revenue recognition and collectability judgments create potential earnings and credit-quality sensitivity if customer defaults, returns, or acceptance issues exceed historical assumptions."
+}

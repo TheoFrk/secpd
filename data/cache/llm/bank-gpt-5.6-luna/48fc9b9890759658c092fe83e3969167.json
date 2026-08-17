@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expected improvement",
+    "believe adequate",
+    "as appropriate",
+    "before special items",
+    "recovering, but not fully recovered"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantitatively supported, including cash flow, debt reduction, costs, and segment drivers. Management presents a confident recovery outlook, but relies on forecasts and non-GAAP measures that may soften the presentation of underlying performance. Key risks include input-cost inflation, economic sensitivity, pension obligations, special items, and dependence on joint-venture contributions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.64,
+  "risk_sentiment": -0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurances ... available on acceptable terms",
+    "if possible and available",
+    "substantial doubt regarding ability to continue",
+    "repeated table-introduction boilerplate",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but indicates significant liquidity and going-concern risk, including recurring operating losses, negative operating cash flow, limited cash and credit availability, and a $68.2 million accumulated deficit. Management may need dilutive equity, debt, licensing revenue, or strategic alliances, but explicitly provides no assurance that financing will be available on acceptable terms or at all. Repetitive formatting, grammatical errors, and the truncated excerpt reduce disclosure clarity but do not obscure the central financial distress signals."
+}

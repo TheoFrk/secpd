@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "beyond our control",
+    "may adjust the budget",
+    "could materially and adversely affect",
+    "other factors",
+    "do not maintain complete separate financial statement information"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on asset sales, expenses, reserves, capital spending, and operating trends, limiting concerns about evasiveness. Risk tone is moderately negative because commodity prices are depressed, highly volatile, and outside management’s control, while funding needs may require asset sales, debt, or equity; this is partially balanced by reported operational successes and cost improvements."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.47,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to factors and uncertainties",
+    "other potential sources of cash",
+    "sufficient to meet anticipated needs",
+    "ability to reduce certain expenses",
+    "may need to obtain additional capital"
+  ],
+  "risk_summary": "The disclosure provides meaningful quantified revenue, cash flow, liquidity, and expense data, but relies on forward-looking boilerplate and conditional assertions regarding cash sufficiency. Liquidity appears adequate for at least twelve months under current assumptions, while continuing losses, dependence on future operating cash flow, and potential need for additional capital indicate material financial risk."
+}

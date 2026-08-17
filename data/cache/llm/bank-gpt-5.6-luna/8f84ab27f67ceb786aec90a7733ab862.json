@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "various factors",
+    "no assurance",
+    "future losses",
+    "subject to risks and uncertainties"
+  ],
+  "risk_summary": "The company generated no revenue, has only $7,222 in cash, negative operating cash flow, accumulated losses, and substantial doubt regarding its ability to continue as a going concern. Operations depend on additional debt or equity financing, with no assurance that funding will be available; failure to raise capital could result in suspension or cessation of operations. Disclosure is quantitatively detailed but includes extensive boilerplate and inconsistent or poorly worded accounting descriptions."
+}

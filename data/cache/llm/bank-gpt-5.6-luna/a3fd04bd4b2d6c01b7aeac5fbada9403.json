@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "30 days’ notice",
+    "unable to determine",
+    "expects lower margins",
+    "forward-looking statements disclaimer"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights significant customer concentration and termination risk related to FedEx, as well as deterioration in GGS profitability and reduced Delta contract scope. The tone is cautiously negative because net profits declined despite revenue growth and certain segments face lower margins, though detailed operating data provides meaningful transparency."
+}

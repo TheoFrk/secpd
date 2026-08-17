@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.39,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.14,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain and continuously evolving",
+    "cannot be predicted",
+    "may decline again",
+    "forward-looking statements",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The disclosure is moderately specific, with quantified revenue, expense, and equity-compensation data, but relies heavily on standard COVID-19 uncertainty language and forward-looking caveats. Pandemic-related customer access constraints, reduced sales growth, furloughs, and reliance on hospital activity create meaningful operating and liquidity risks, partially offset by reported revenue growth and stable manufacturing supply."
+}

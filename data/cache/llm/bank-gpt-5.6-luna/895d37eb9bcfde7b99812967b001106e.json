@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.56,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "underlying profitability",
+    "business realignment and impairment charges",
+    "predictable, consistent and achievable performance",
+    "operational difficulties and quality issues"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, with detailed year-over-year drivers and reconciliations, although extensive non-GAAP adjustments may present a more favorable view of operating performance. The overall tone is confident and positive, tempered by commodity, foreign exchange, supply-chain, impairment, and acquisition-integration risks. The Tri-US shutdown and related $7.5 million impairment indicate execution and portfolio-management concerns."
+}

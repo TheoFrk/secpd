@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could differ materially",
+    "no obligation to update",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally detailed and well quantified, but relies on standard forward-looking disclaimers and recurring causal qualifiers. Performance was mixed, with revenue and net income declines, client losses, negative cash flows, market sensitivity, competitive labor costs, and a software write-off, partially offset by operating cash flow, acquisitions, and stable margins."
+}

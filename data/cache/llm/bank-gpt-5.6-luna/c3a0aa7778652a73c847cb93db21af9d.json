@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.45,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to increase approximately",
+    "sufficient to meet requirements",
+    "other financing alternatives",
+    "working capital deficit",
+    "unless otherwise indicated"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, with clear operating metrics, margin changes, commodity exposure, restructuring costs, and liquidity information. Risk tone is moderately positive, but includes vulnerabilities from commodity inflation, declining company-operated sales, restaurant closures, and potential working capital deficits. Liquidity adequacy relies partly on expected operating cash flows and available financing alternatives."
+}

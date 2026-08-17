@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "evolving guidelines",
+    "may record adjustments",
+    "estimated contractual allowances",
+    "table/excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including revenue, visit, acquisition, cost, and relief-fund figures. Key risks include ongoing uncertainty around COVID-19 effects, changing grant-compliance requirements, reimbursement estimates, labor-cost inflation, and acquisition-related cost growth. Overall tone is cautiously neutral, with operational growth offset by margin pressure and regulatory uncertainty."
+}

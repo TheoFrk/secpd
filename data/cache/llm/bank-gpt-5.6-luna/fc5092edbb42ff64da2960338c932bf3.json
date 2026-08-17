@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and inherent uncertainties",
+    "among other things",
+    "including, but not limited to",
+    "undertake no obligation to update",
+    "low levels of order backlogs"
+  ],
+  "risk_summary": "The excerpt combines detailed operating metrics and a quantified 2013 EPS forecast with extensive legal safe-harbor language and broad, non-quantified macroeconomic and execution risks. The overall tone is cautiously positive, citing strong North American conditions and improving or stabilizing international markets, but low order backlogs, acquisitions, currency exposure, and covenant obligations remain material risks."
+}

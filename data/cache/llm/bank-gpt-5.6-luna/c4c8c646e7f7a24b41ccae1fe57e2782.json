@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties not exhaustive",
+    "not possible to predict all risk factors",
+    "expressly disclaim responsibility to update",
+    "related-party transactions may not be favorable"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate cautionary language and broad disclaimers that limit reliance on management projections, while providing relatively specific portfolio, transaction, and financing figures. Risk exposure includes variable-rate construction debt, development and valuation uncertainty, related-party transactions, and potential impairment or recovery issues."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily reflects",
+    "partially offset by",
+    "we expect",
+    "approximately",
+    "unless otherwise indicated"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear year-over-year explanations and forward estimates. Key risks include refranchising-related revenue mix changes, commodity cost inflation, restaurant closures, and reliance on favorable same-store sales and execution of planned openings."
+}

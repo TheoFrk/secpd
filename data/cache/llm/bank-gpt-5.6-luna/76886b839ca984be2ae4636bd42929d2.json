@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.89,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "planned projects",
+    "actively growing",
+    "ability to secure financing"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantitative capacity, production, cash flow, and financing information, but also relies on promotional language and numerous future-oriented project assumptions. Liquidity is identified as the most significant accounting estimate, with explicit dependence on debt covenant projections and securing financing to complete development projects. Overall tone is cautiously positive, though execution, funding, permitting, and commercialization risks remain material."
+}

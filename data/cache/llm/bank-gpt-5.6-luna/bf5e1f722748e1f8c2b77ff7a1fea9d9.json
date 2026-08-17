@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjustment emphasis",
+    "favorable tax-rate adjustment",
+    "projected OIM",
+    "known distributor overstocking",
+    "continued excellent positive cash flow"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, with substantial disclosure of sales, margins, liquidity, debt reduction, and the $976 tax-related benefit. Reported earnings improvement relies materially on a nonrecurring deferred-tax adjustment, while sales declined and certain product categories weakened. Overall tone is confident, supported by improved leverage and liquidity, but includes optimistic projections and repeated emphasis on adjusted performance."
+}

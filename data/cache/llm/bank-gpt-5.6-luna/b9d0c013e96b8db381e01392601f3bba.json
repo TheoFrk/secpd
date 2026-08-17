@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot determine timing ... if at all",
+    "may continue to cause",
+    "could have an adverse effect",
+    "cannot predict which proposals",
+    "material adverse impact"
+  ],
+  "risk_summary": "The excerpt identifies substantial exposure to macroeconomic weakness, constrained customer financing, reimbursement reductions, healthcare reform, and regulatory approval uncertainty. It provides useful quantified revenue declines and acquisition-related comparisons, but relies heavily on conditional language and includes a truncated, structurally incomplete section that limits assessment of certain risks."
+}

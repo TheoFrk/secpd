@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to cyclical industry conditions",
+    "expected to depend largely on",
+    "not necessarily indicative of actual sales",
+    "multiple assumptions and estimates",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, including segment trends, order declines, backlog changes, restructuring charges, and impairment effects. Risk tone is moderately negative because of pronounced semiconductor, display, and solar downturns, excess capacity, declining orders, and restructuring activity. Some standard forward-looking disclaimers and uncertainty language limit precision around recovery timing and restructuring costs."
+}

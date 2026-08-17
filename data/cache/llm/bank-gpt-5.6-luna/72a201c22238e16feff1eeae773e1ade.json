@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "we expect to grow revenues",
+    "limited sources of liquidity",
+    "subject to certain exceptions",
+    "for contracts where total costs cannot be estimated"
+  ],
+  "risk_summary": "The excerpt is highly technical and contains substantial boilerplate, limiting readability despite precise accounting and contractual descriptions. It signals meaningful execution and liquidity risk through limited funding sources, reliance on approvals and future demand, and uncertain cost estimates, while maintaining a generally neutral-to-cautious tone."
+}

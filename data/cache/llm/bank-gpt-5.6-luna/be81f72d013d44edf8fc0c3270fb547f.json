@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "various risks and uncertainties",
+    "inherently subjective",
+    "high degree of judgment",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily compliance-oriented and relies on broad forward-looking disclaimers and extensive enumerations of potential risks rather than providing quantified prospective impacts. Loan-loss and impairment estimates are explicitly subjective and could materially change, indicating meaningful credit and valuation uncertainty, although the tone is not crisis-like."
+}

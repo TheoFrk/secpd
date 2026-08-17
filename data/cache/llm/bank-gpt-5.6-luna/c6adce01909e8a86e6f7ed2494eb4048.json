@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "beyond our ability to control or predict",
+    "disclaim any intent or obligation to update",
+    "non-GAAP measure limitations",
+    "broad enumerated risk factors"
+  ],
+  "risk_summary": "The excerpt combines detailed segment descriptions and selected quantitative variance explanations with extensive boilerplate disclaimers and broad, largely unquantified risk factors. The tone is operationally confident but materially tempered by uncertainty around competition, demand, technology, acquisitions, supply chains, litigation, and non-GAAP performance measures."
+}

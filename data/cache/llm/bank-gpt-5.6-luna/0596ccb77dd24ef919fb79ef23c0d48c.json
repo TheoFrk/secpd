@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonable basis for our expectation",
+    "cannot assure you",
+    "as rapidly as possible",
+    "in certain circumstances as defined",
+    "minimal necessary expenses until 2013"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on expenses, valuation assumptions, and amortization, but relies heavily on optimistic projections regarding licensing, asset sales, profitability, and future financing. The absence of revenue, dependence on capital markets, potential shareholder dilution, clinical-development execution, and explicit inability to assure financing create meaningful liquidity and business-model risk."
+}

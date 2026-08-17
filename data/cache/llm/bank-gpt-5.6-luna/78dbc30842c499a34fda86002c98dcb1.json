@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "results to differ materially",
+    "risks and uncertainty",
+    "additional information contained in SEC filings",
+    "significant customer decline"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, clearly identifying sales, margin, earnings, segment, and customer-related changes. Risk tone is moderately negative because earnings declined despite higher sales, margins compressed, and the filing lists substantial operational, customer, cost, labor, and government-contract risks. The extensive forward-looking disclaimer and broad risk enumeration are somewhat boilerplate but do not materially obscure the reported performance."
+}

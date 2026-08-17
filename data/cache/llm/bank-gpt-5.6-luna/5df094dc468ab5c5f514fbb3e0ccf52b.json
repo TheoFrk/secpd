@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "due mainly to: partially offset by:",
+    "organic growth",
+    "excluding the effect of",
+    "amounts may not add due to rounding",
+    "missing segment and operating-profit detail"
+  ],
+  "risk_summary": "The excerpt is generally quantified and provides useful GAAP/non-GAAP reconciliations, segment trends, restructuring costs, and Venezuela currency effects. However, several apparent extraction gaps and incomplete causal disclosures reduce transparency, while earnings declined materially despite higher operating profit and the business remains exposed to inflation, currency volatility, security losses, and restructuring costs."
+}

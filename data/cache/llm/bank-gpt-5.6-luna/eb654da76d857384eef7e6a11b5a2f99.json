@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly subjective assumptions",
+    "based on all relevant facts and circumstances",
+    "probable and reliably estimated",
+    "qualitative analysis",
+    "may continue to improve"
+  ],
+  "risk_summary": "The disclosure identifies material estimation risk in percentage-of-completion revenue, claims, change orders, incentive fees, VIE consolidation, equity compensation, and pensions, but provides limited sensitivity analysis or quantified exposure. Operating results are mixed, with downstream revenue declines and oil-price-related capital spending pressure partly offset by infrastructure and upstream growth."
+}

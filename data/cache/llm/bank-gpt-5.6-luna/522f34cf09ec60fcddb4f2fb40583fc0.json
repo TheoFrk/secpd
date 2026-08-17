@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "unable to identify or quantify",
+    "sufficient liquidity for the next 12 months",
+    "material adverse effect",
+    "representations and warranties not statements of fact"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating changes, but extensive forward-looking disclaimers and unquantified future risks limit transparency. Risk tone is moderately negative due to discontinued operations, a $9.8 million impairment, no GeoTraq revenue, reliance on potential financing, and mention of going-concern accounting."
+}

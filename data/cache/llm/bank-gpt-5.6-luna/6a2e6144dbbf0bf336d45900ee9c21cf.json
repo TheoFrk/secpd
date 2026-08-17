@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "approximately",
+    "favorably impacted by",
+    "supply chain constraints",
+    "timing cannot be estimated"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with segment-level revenue, operating income, orders, backlog, and obligations. Risk is moderated by recovery in demand and backlog growth, but supply-chain constraints, higher input and transportation costs, variable-rate debt, buyback commitments, and unresolved tax benefits remain notable concerns."
+}

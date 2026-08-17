@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expects ... to be flat",
+    "attractive market sectors",
+    "create customer value"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on sales declines, cost factors, restructuring, pension charges, and 2017 cash-flow expectations. However, extensive strategy and business-model boilerplate, reliance on broad causal phrases, and an outlook for lower earnings indicate moderate disclosure opacity and operating pressure."
+}

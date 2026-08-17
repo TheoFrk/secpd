@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management’s estimate",
+    "could impact",
+    "among other considerations",
+    "more likely than not",
+    "sensitive to a variety of factors"
+  ],
+  "risk_summary": "The excerpt is technically detailed and provides some quantified performance and loan balances, but key credit and impairment estimates depend heavily on management assumptions and changing economic conditions. Risk tone is cautious rather than crisis-like, with material exposure to loan losses, acquired loans, OTTI, and goodwill impairment. The high accounting jargon and cross-references reduce accessibility but do not indicate overt concealment."
+}

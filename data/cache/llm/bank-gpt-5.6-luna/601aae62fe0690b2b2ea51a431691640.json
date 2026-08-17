@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.52,
+  "risk_sentiment": 0.0,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information set forth under the caption",
+    "annual report to be delivered",
+    "no substantive MD&A provided"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion and instead incorporates the MD&A by reference to another filing or exhibit. This limits standalone transparency and requires review of the referenced document to assess liquidity, performance, and risk."
+}

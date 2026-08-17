@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "may not prevent material adverse effect",
+    "prolonged higher interest rate environment",
+    "primarily attributed to",
+    "expected to stabilize",
+    "strong commercial loan growth"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, but highlights meaningful pressure from higher funding costs, declining net interest margin, increased charge-offs, and rising non-performing loans. Credit risk is concentrated in commercial lending, including a $13.6 million relationship placed on nonaccrual status, while increased reliance on short-term, brokered, and reciprocal funding adds liquidity and margin sensitivity."
+}

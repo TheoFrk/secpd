@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we expect",
+    "if applicable regulatory criteria are not satisfied",
+    "could be delayed",
+    "may be required to",
+    "best estimate"
+  ],
+  "risk_summary": "The disclosure provides substantial operational detail, dates, program status, financing contingencies, and impairment information, but relies heavily on forward-looking expectations and conditional outcomes. Key risks include regulatory approval or launch delays, commercialization execution, funding availability, clinical failure, competition, and potential impairment or restructuring charges."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "substantial doubt regarding going concern",
+    "no assurance additional capital",
+    "significant judgment and estimates",
+    "actual results may differ",
+    "numerous factors affecting capital needs"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but indicates severe financial risk through persistent losses, dependence on external financing, and substantial doubt about the company’s ability to continue as a going concern. Revenue is highly concentrated in two customers, while commercialization and future capital requirements remain uncertain. Accounting estimates and contract-based revenue recognition introduce additional execution and reporting sensitivity."
+}

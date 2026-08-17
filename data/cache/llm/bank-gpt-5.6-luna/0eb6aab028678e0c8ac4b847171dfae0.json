@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "beyond our ability to control or predict",
+    "non-GAAP measures",
+    "disclaim any intent or obligation to update"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating and goodwill data, but much of the disclosure consists of broad forward-looking disclaimers and extensive generic risk enumeration. Non-GAAP measures and exclusions may complicate comparability, while COVID-19, demand, supply-chain, competitive, acquisition, and execution risks create a moderately cautious risk profile."
+}

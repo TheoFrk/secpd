@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "include but are not limited to",
+    "full knowledge that risks and uncertainties exist",
+    "various assumptions",
+    "subjective factors",
+    "may vary significantly from actual results"
+  ],
+  "risk_summary": "The excerpt uses substantial forward-looking disclaimers and relies on uncertain assumptions regarding regulatory recovery, nuclear decommissioning costs, taxes, and future cash flows. It identifies material charges, declining net income, and a $1.9 billion nuclear decommissioning obligation, indicating elevated financial and estimation risk. Disclosure is technically detailed but dense, repetitive, and partly evasive through broad qualifiers and omitted supporting analyses."
+}

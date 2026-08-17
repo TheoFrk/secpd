@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "dynamic and uncertain situation",
+    "cannot at this time make a reasonable estimate",
+    "primarily due to the pandemic",
+    "significantly longer lead times",
+    "full valuation allowance"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating results, but repeatedly attributes declining revenue and supply disruptions to the pandemic while emphasizing uncertainty about duration and future effects. Revenue fell 20%, the company remained in an operating loss, and it faced shortages, inflationary pricing pressure, and a full valuation allowance against U.S. deferred tax assets. Reported improvement in other income was materially supported by one-time debt-forgiveness and purchase-price-adjustment gains."
+}

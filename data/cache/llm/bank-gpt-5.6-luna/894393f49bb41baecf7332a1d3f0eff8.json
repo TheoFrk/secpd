@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.55,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "actual results could differ",
+    "we do not anticipate",
+    "based on forecasted sales and expenses",
+    "adverse effect"
+  ],
+  "risk_summary": "The disclosure is relatively precise and heavily quantified, but reports declining annual revenue, a continuing net loss, customer and grant dependence, and reliance on forecasts for liquidity through December 2014. Boilerplate safe-harbor language and conditional impairment, demand, and collectability warnings introduce moderate uncertainty."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "reference is made to risk factors",
+    "we believe",
+    "closely monitoring",
+    "robust biosecurity programs",
+    "reasonable precautions"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative operating and financial data, including flock sizes, HPAI impacts, sales, profitability, and pandemic-related costs. Risk discussion relies moderately on boilerplate and qualified assurances regarding HPAI, COVID-19, supply-chain disruption, inflation, and mitigation efforts, while the overall tone remains cautiously confident."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "due in part to",
+    "principally due to",
+    "for more information",
+    "not necessarily indicative",
+    "significant assumptions"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on revenue, margins, pension settlements, losses, and sensitivities. Risk is elevated by large pension settlement losses, continuing-operations losses, international revenue declines, and reliance on actuarial assumptions, although operating margins and U.S. revenue improved."
+}

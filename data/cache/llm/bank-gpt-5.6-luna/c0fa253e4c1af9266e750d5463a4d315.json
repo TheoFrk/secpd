@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "actual results could differ materially",
+    "do not undertake any obligation to update",
+    "current expectations and projections",
+    "liquidity discussion is truncated"
+  ],
+  "risk_summary": "The excerpt includes substantial quantified operating and liquidity information, including revenue drivers, margins, customer concentration, product concentration, and cash balances. Risk disclosure is heavily boilerplate and emphasizes broad uncertainties, non-reliance, and limited update obligations; the truncated liquidity discussion limits assessment of funding adequacy."
+}

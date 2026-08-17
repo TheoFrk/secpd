@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimates and assumptions",
+    "inherently uncertain and unpredictable",
+    "may materially impact",
+    "reasonable estimate",
+    "various factors and circumstances"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on liquidity, tax effects, deferred revenue, and operating performance, but relies heavily on standard accounting caveats and judgment-based estimates. Key risks include revenue-recognition complexity, goodwill and intangible-asset valuation uncertainty, tax-position volatility, and a decline in consumer security revenue and operating income. Liquidity appears comparatively strong, supported by $2.2 billion in cash and investments and an undrawn $1.0 billion credit facility."
+}

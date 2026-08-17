@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "may have a material impact",
+    "indeterminate volumes",
+    "future discretionary share repurchases",
+    "cash held outside the United States"
+  ],
+  "risk_summary": "The excerpt provides substantial operational and accounting detail, but relies on standard estimates, forecasts, and material-impact disclaimers without quantifying key sensitivities. Liquidity is portrayed as adequate for the next twelve months, while reliance on revolving credit, international cash locations, repurchases, and potential additional debt presents moderate financial risk."
+}

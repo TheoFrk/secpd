@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to possible adjustments",
+    "if sustained for a long period of time",
+    "to a large extent",
+    "in the process of evaluating",
+    "as discussed in other parts"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with operating metrics, capital budgets, contract maturities, production, reserves, and commodity-price assumptions. Key risks include commodity-price weakness, customer liquidity, contract-renewal concentration, rising labor costs, third-party operational dependencies, and reliance on borrowings to fund the budget. The tone is cautiously confident but includes forward-looking assumptions and adjustment language."
+}

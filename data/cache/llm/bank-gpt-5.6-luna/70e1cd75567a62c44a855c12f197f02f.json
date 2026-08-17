@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "favorable markets and net new business",
+    "partially offset by",
+    "mark-to-market activity",
+    "non-GAAP FTE presentation"
+  ],
+  "risk_summary": "The excerpt is generally transparent and strongly quantified, reporting revenue drivers, fee trends, net interest income, margins, and material gains and losses. Risk is moderated by reliance on favorable market conditions, client deposits, securities lending spreads, and a substantial one-time Visa-related gain, while repeated boilerplate and non-GAAP presentation add interpretive complexity."
+}

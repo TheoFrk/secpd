@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no assurance sufficient amounts",
+    "may not be available upon acceptable terms",
+    "continually explore options to raise capital",
+    "could force bankruptcy protection"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue, margin, and expense information, but relies heavily on standard forward-looking disclaimers and aspirational growth language. Liquidity and financing risks are material, including potential dilution, restrictive borrowing terms, lender consent requirements, and possible bankruptcy protection if defaults occur."
+}

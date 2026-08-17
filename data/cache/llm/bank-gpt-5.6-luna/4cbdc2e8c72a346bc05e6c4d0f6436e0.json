@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "risks including but not limited to",
+    "other operational, financial or legal risks",
+    "no obligation to publicly update",
+    "subject to uncertainties and risks"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative and operational detail, including revenue mix, segment composition, agent metrics, and cost drivers. Risk disclosure is broad and largely standard boilerplate, emphasizing numerous dependencies and uncertainties without estimating their likelihood or potential financial impact. Overall tone is operationally confident but appropriately cautious regarding forward-looking results."
+}

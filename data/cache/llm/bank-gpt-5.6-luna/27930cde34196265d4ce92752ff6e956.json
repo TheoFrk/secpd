@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict magnitude or duration",
+    "full magnitude and duration unknown",
+    "may experience material declines",
+    "if conditions worsen",
+    "customary events of default"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail and reports improved operating performance, liquidity, margins, and sales metrics. However, COVID-19 exposure, uncertain housing-market conditions, potential future inventory impairments, and extensive debt restrictions create meaningful downside and refinancing risk. The tone is cautiously positive but materially hedged regarding future performance."
+}

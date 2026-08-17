@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "considerable amount of time, resources and continued support",
+    "may have a negative impact",
+    "proprietary Nrf2 technology",
+    "estimated based on historical experience",
+    "we do not expect they will in the future"
+  ],
+  "risk_summary": "The disclosure provides substantial operational and financial detail, including revenue, profitability, customer metrics, returns, inventory write-downs, and currency exposure. Risk is concentrated in dependence on independent distributors, new-market execution, product introductions, returns, inventory valuation, and foreign exchange, with several forward-looking or estimate-based statements. Overall tone is moderately confident but tempered by material business-model and execution risks."
+}

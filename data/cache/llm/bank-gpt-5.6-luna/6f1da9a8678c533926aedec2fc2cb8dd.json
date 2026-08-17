@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "highly uncertain and cannot be accurately predicted",
+    "may need to raise additional funds",
+    "could require additional equity or debt financing",
+    "superior, unprecedented scalability and cost savings"
+  ],
+  "risk_summary": "The excerpt provides several concrete disclosures, including cash of $98.6 million, a $25.0 million revolving facility, customer and segment exposure, and COVID-19 impacts. However, it relies materially on standard forward-looking disclaimers, uncertain pandemic assumptions, and promotional claims that are not quantified. Liquidity appears adequate for at least 12 months, but additional financing may be required and availability is not assured."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "single supplier dependency",
+    "favorable sales mix",
+    "hedging program mitigated impact",
+    "primarily due to",
+    "vast majority"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed segment, geographic, margin, expense, and operating-income information. Key risks include reliance on a single supplier for mechanical Swiss movements, foreign-exchange exposure, seasonality, competitive pricing pressure, and increased Company Stores SG&A expenses. Overall tone is cautiously positive because operating performance improved in the International segment and hedging reduced currency effects."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "significant estimates and assumptions",
+    "subjective and/or complex judgments",
+    "could have a material impact",
+    "future impairment charges"
+  ],
+  "risk_summary": "The excerpt is largely precise and well quantified, reporting end-market exposure, growth, margins, acquisition contributions, and industry volumes. Risk factors include declining RV and marine retail demand, supply-chain constraints, elevated input costs, acquisition valuation assumptions, and potential future impairment charges. Overall tone is positive and performance-oriented, but it acknowledges meaningful cyclicality and estimation risk."
+}

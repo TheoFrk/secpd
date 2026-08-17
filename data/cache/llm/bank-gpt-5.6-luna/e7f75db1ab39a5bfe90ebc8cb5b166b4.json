@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "could have a significant adverse effect",
+    "may in the future",
+    "unclear whether",
+    "likely to remain volatile",
+    "additional expenses and cash expenditures"
+  ],
+  "risk_summary": "The excerpt presents substantial exposure to tariffs, supply-chain constraints, currency volatility, pricing pressure, EV adoption shortfalls, commodity costs, inflation, and interest rates. It includes useful quantified disclosures, including $1.2 billion of 2024 cancellation expenses and approximately $700 million of expected additional costs, but relies extensively on conditional and forward-looking language for the magnitude and timing of risks."
+}

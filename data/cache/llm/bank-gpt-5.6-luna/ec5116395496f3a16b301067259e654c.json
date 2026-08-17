@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance negotiations successful",
+    "future events cannot be determined with precision",
+    "varying amounts in the long-term",
+    "we believe",
+    "strategic growth claims"
+  ],
+  "risk_summary": "The excerpt combines optimistic growth and operational-efficiency assertions with substantial boilerplate around estimates and future conditions. Material risks include potential loan-covenant default, an underfunded pension plan, uncertain required contributions, and reliance on regulatory-driven demand and acquisitions."
+}

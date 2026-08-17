@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.57,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "not possible to determine",
+    "no obligation to update",
+    "extensive non-ranked risk list"
+  ],
+  "risk_summary": "The excerpt is heavily boilerplate and relies on broad, non-ranked risk categories, limiting insight into the probability or magnitude of adverse outcomes. It does provide some concrete restructuring, acquisition, impairment-testing, and financial figures, but substantial uncertainty remains around COVID-19 impacts, goodwill impairment, demand, execution, leverage, and operational dependencies. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

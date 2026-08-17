@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "full impact ... unknown",
+    "ultimately our viability as a company",
+    "significantly increasing activities",
+    "incomplete sentence and missing amount",
+    "duplicated settlement disclosure"
+  ],
+  "risk_summary": "The excerpt presents substantial financial and execution risk, including historical debt restructuring, extended settlement payments, accrued interest, litigation-related obligations, and an explicit reference to the company’s viability. Disclosure is materially complex and partially repetitive, with truncation and vague operational descriptions that impair clarity despite several quantified obligations."
+}

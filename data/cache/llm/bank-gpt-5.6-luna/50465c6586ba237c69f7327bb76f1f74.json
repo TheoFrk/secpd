@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "significant estimates and assumptions",
+    "may be susceptible to significant change",
+    "more-likely-than-not",
+    "other-than-temporary impairment"
+  ],
+  "risk_summary": "The disclosure is highly technical and fairly quantified, but relies substantially on management judgment for loan-loss allowances, impairment, tax positions, and valuation assumptions. Credit risk is not presented as crisis-like, although declining loan yields and the subjective nature of key estimates warrant monitoring."
+}

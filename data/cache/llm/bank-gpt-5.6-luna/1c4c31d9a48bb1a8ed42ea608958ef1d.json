@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking information involving risks and uncertainties",
+    "could differ materially",
+    "if different estimates are used",
+    "primarily due to",
+    "not significant"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with clear revenue, cash flow, investment, tax, and market-risk figures. Risk tone is mildly positive because revenue and net income increased, although substantial reliance on marketable securities, accounting estimates, and conditional language introduces uncertainty. The excerpt is truncated, limiting assessment of the full liquidity discussion."
+}

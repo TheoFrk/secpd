@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "including but not limited to",
+    "primarily attributable to",
+    "more likely than not",
+    "subject to legal and factual interpretation"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, reporting revenue, gross profit, margin, and expense drivers. Risk tone is moderately positive, though it acknowledges semiconductor pricing erosion, product-mix pressure, restructuring, tax uncertainty, and dependence on continued demand and intellectual-property licensing."
+}

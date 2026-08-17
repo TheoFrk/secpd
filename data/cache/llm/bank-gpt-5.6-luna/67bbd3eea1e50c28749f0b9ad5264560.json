@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "could impact results",
+    "expects revenues to increase",
+    "largely determined by",
+    "could cause ... substantially",
+    "limited geographic diversity"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed year-over-year revenue, expense, customer, and margin data. The tone is cautiously positive, supported by regulated pricing and acquisitions, but risks include limited geographic diversification, weather-driven consumption volatility, rising operating costs, pension funding sensitivity, and reliance on future rate actions."
+}

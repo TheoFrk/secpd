@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.38,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "largely unknown",
+    "cannot be reasonably estimated",
+    "no assurance to raise funds"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking and liability-limiting language, including uncertainty around COVID-19 impacts and future financing. Operating and financing cash flows were negative in Fiscal 2021, with customer concentration and variable orders adding liquidity and revenue volatility risk. Disclosure is partly quantified, but the pandemic and funding impacts remain materially unestimated."
+}

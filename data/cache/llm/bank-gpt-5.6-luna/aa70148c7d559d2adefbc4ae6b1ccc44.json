@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "believe banks will provide necessary capital",
+    "expect continued slow growth",
+    "future military spending reductions",
+    "minimum exposure to Butler National",
+    "truncated financial discussion"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative information on revenue, margins, debt maturities, collateral, and outstanding obligations, but presents weak profitability, declining revenue, substantial secured debt, and reliance on continued bank funding. Management uses moderately optimistic and noncommittal language regarding growth and capital availability, while the excerpt is partially truncated and contains considerable historical and boilerplate material."
+}

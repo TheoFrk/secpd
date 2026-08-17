@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "sufficient cash",
+    "reasonable terms",
+    "bill-and-hold agreements"
+  ],
+  "risk_summary": "The disclosure is largely specific and quantified, including debt balances, covenant compliance, liquidity, sales, margins, and segment performance. Risk is moderated by declining sales, operating losses in two subsidiaries, reliance on financing, and estimates involving inventory, taxes, warranties, and bill-and-hold revenue. Management uses generally positive forward-looking language but provides limited sensitivity analysis or downside scenarios."
+}

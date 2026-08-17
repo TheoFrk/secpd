@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "expected to increase sales",
+    "actively pursuing acquisition strategy",
+    "valuation allowance on deferred tax assets",
+    "net loss applicable to common stockholders"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, but contains standard forward-looking disclaimers and some aspirational acquisition and product-growth language. Credit risk is elevated by recurring losses, declining gross margins, increased inventory write-offs, substantial preferred-stock dividends and deemed dividends, and a significant deferred tax valuation allowance. The outlook is cautiously optimistic, relying on acquisitions, new products, and organizational changes to support future growth."
+}

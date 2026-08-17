@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "generally presented",
+    "believed to be reasonable",
+    "as appropriate",
+    "primarily due to",
+    "additional clarity"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent regarding loan growth, net interest income, acquisitions, and accounting estimates. Risk is moderated but present through reliance on management assumptions, potential differences between actual and estimated results, loan-yield pressure, and non-GAAP performance measures. The tone is neutral to mildly confident rather than crisis-oriented."
+}

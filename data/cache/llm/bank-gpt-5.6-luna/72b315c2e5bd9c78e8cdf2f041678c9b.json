@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective assessments and estimates",
+    "actual results could materially differ",
+    "reasonable range of current market rates",
+    "unspecified future uncertainties",
+    "truncated and incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily reliant on management estimates for impairments, collectability, fair values, useful lives, and tax realizability, creating meaningful judgment risk. It identifies potential exposure to real estate, joint venture, credit, and market risks but provides limited sensitivity analysis or quantified downside scenarios. The tone is neutral and largely boilerplate rather than crisis-like."
+}

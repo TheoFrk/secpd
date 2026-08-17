@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "might operate at breakeven or at a small loss",
+    "cannot assure you that these plans will be successful",
+    "subject to the following discussion",
+    "management’s best information and expectations",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, but describes materially weaker bookings, sales, backlog, gross margin, and net income, alongside exposure to defense spending, raw-material costs, and customer timing. Liquidity appears dependent on cash on hand and operations, with explicit acknowledgment of potential breakeven or losses and uncertainty regarding longer-term financing and strategic plans."
+}

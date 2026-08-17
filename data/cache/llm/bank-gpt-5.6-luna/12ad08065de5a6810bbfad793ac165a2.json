@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.64,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "cannot be reliably estimated",
+    "uncertain and unpredictable",
+    "beyond our control"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by standard forward-looking-statement disclaimers and an extensive, non-quantified list of contingencies. COVID-19 is described as having a material and potentially continuing adverse impact, although some operational responses and net interest income effects are quantified. Overall, the tone is cautious and risk-focused rather than crisis-like."
+}

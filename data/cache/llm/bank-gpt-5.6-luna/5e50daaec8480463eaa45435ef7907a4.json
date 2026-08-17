@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future trends",
+    "cannot predict gas-price impact",
+    "we believe",
+    "challenging macroeconomic environment",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting detailed sales, margins, earnings, borrowing levels, and operating drivers. Management uses optimistic language but acknowledges recession, credit, unemployment, gas-price, and demand uncertainty, with some reliance on belief-based forecasts and non-GAAP metrics."
+}

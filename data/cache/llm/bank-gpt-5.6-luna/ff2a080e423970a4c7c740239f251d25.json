@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "within the range of credit losses that the Company targets annually",
+    "credit results have been acceptable",
+    "overall quality of the portfolio ... was good",
+    "could cause actual results to differ",
+    "proprietary credit scoring system"
+  ],
+  "risk_summary": "The disclosure is largely quantified and provides useful operating, credit-loss, margin, and liquidity metrics, but it presents persistent credit losses of roughly 20–22% of sales as controlled and acceptable. Key risks include economically sensitive collections, reliance on execution and personnel, dealership expansion constraints, and lender-imposed distribution limits. The tone is cautiously positive, with downside risks acknowledged but partly softened by management assertions and target ranges."
+}

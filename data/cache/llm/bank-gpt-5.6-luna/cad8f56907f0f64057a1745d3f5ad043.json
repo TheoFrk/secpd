@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "N/M means not meaningful",
+    "not material",
+    "primarily",
+    "we believe",
+    "wide range of businesses"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, with year-over-year revenue, cash, working capital, and product-category changes disclosed. Risk is moderate: revenue and service revenue declined, mature products are expected to continue declining, and liquidity decreased due primarily to share repurchases, although the company remains cash-generative and presents several operational accomplishments."
+}

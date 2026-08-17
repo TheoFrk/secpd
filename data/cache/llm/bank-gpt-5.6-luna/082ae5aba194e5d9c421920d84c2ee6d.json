@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "we believe and expect",
+    "potential covenant waiver",
+    "sufficient liquidity to continue"
+  ],
+  "risk_summary": "The excerpt contains extensive forward-looking-statement boilerplate and relies on expectations regarding bookings, margins, liquidity, and growth. Material credit risks include declining revenue, a net loss, low cash balances, dependence on credit facilities, potential covenant noncompliance, and uncertainty regarding lender waivers."
+}

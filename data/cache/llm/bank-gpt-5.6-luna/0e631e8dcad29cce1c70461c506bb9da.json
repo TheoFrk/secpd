@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "uncertainty of realization",
+    "subject to achievement of milestones",
+    "we expect to",
+    "reasonably assured"
+  ],
+  "risk_summary": "The disclosure is relatively specific and includes customer counts, milestone payments, revenue recognition conditions, and quantified losses. Key risks include recurring net losses, dependence on licensee product cycles, milestone-based revenue, deferred tax asset uncertainty, and execution risk around the planned AirBar manufacturing launch."
+}

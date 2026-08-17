@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "less inventory write-downs",
+    "forward-looking statements",
+    "truncated financing disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but repeatedly relies on standard causal qualifiers and adjusted non-GAAP-style measures that may soften underlying weakness. Risk tone is moderately negative due to declining instrument sales, recurring operating losses, inventory write-downs, and reliance on equity financing, although the disclosure remains largely factual."
+}

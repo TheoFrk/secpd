@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "among other things",
+    "subject to lenders increasing commitments",
+    "truncated debt disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on sales, earnings, costs, debt capacity, and macroeconomic pressures, but relies heavily on standard forward-looking disclaimers and broad catch-all risk language. Risk tone is moderately balanced to positive because operating performance improved, although supply-chain disruption, inflation, currency effects, divestiture losses, higher borrowing, covenant limitations, and cross-default provisions present meaningful credit risks. The excerpt is truncated, reducing confidence regarding the full liquidity and debt-risk assessment."
+}

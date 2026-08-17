@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP components",
+    "certain other amounts not allocated",
+    "we believe we are well positioned",
+    "if attractive opportunities arise",
+    "no apparent demand catalyst"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides useful operating metrics, but it describes a prolonged railcar oversupply, sharply negative renewal pricing, declining utilization, and weaker segment profit. Management remains cautiously confident regarding fleet optimization, maintenance efficiency, and balance-sheet flexibility, while near-term demand and lease-rate recovery remain uncertain."
+}

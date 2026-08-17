@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.19,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "non-GAAP financial measures",
+    "excluding the MediaAlpha Transaction",
+    "slower modeled future payments"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides extensive operating, investment, capital, and claims-paying metrics, supporting relatively strong disclosure quality. Risk is moderate rather than crisis-like: results benefited materially from market gains and the MediaAlpha transaction, while BAM faces slower modeled surplus-note payments, conservative forecasts, and prior-year investment losses. Frequent non-GAAP measures and transaction-adjusted presentations require careful reconciliation to assess underlying performance."
+}

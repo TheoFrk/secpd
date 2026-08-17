@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "expected to generate",
+    "subject to certain conditions",
+    "could have a material effect",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear explanations of weather impacts, earnings growth, investment costs, and sensitivity to pension assumptions. Risk disclosures rely on standard forward-looking language and include execution, regulatory, weather, and actuarial uncertainties, but the overall tone remains cautiously positive."
+}

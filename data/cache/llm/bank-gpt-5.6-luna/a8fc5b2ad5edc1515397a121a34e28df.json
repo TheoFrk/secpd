@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expect to open about",
+    "approximately $486 million",
+    "cannot be reasonably estimated",
+    "maximum obligation not explicitly stated",
+    "we believe that if"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with a moderately complex presentation and some standard retail and accounting boilerplate. Liquidity and operating performance are presented positively, although planned net store closures, foreign subsidiary losses, tax contingencies, lease guarantees, and potentially unquantifiable indemnification obligations indicate moderate risk. Forward-looking estimates and uncapped indemnification language introduce uncertainty."
+}

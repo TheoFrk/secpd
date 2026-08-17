@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "high degree of uncertainty",
+    "unable to predict",
+    "primarily driven by",
+    "best assessment of estimated future taxes",
+    "ultimate resolution may result in materially different payments"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, highlighting strong liquidity of approximately $1.0 billion and identifiable revenue, expense, debt, and tax drivers. Risk remains moderate due to dependence on product and partner performance, R&D and regulatory uncertainty, asset impairments, and potentially material tax estimate changes. The tone is cautiously positive rather than crisis-like."
+}

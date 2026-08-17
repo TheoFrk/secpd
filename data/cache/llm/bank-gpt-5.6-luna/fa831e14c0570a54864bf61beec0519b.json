@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to increase",
+    "we expect",
+    "offset in part",
+    "reasonably possible loss",
+    "subject to appeal"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear year-over-year revenue, expense, surcharge, leverage, and capital-spending figures. Risk factors include declining revenues, coal and energy-market weakness, commodity exposure, regulatory litigation, and reliance on projected pricing and volume gains. Management maintains a cautiously confident tone, supported by cost reductions, liquidity access, and relatively modest debt maturities."
+}

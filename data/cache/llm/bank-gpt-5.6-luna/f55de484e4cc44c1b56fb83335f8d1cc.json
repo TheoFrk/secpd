@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.88,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to risks and uncertainties",
+    "may adversely impact",
+    "including but not limited to",
+    "different than anticipated",
+    "ability to manage strategic initiatives"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking risk disclosures covering interest rates, credit quality, liquidity, regulation, cybersecurity, operational dependence, mergers, and macroeconomic conditions. Despite these risks, the quantified 2023 results show stronger net income, net interest income, and net interest margin, producing a mildly positive overall tone. Disclosure is materially complex and broad, with limited quantification of the likelihood or financial magnitude of many identified risks."
+}

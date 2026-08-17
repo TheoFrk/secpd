@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.2,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot assure adequate production levels",
+    "variability cannot be fully anticipated",
+    "favorable weather conditions",
+    "limited number of sources",
+    "future availability could be negatively impacted"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent regarding revenue drivers, production economics, environmental dependencies, and COVID-19 exposure. Key risks involve weather-sensitive cultivation, fresh-water and energy availability, supply-chain dependence, limited contractors, and potential production shortfalls, although management uses moderately reassuring language regarding continuity and mitigation efforts."
+}

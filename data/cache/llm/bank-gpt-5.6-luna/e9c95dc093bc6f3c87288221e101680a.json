@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict ultimate duration, scope and severity",
+    "could continue to increase",
+    "may impact our operations",
+    "substantially dependent on exclusive licensee",
+    "many developments including the impact of COVID-19"
+  ],
+  "risk_summary": "The disclosure is generally specific and informative, with quantified unit counts, sales-related changes, costs, debt terms, and supplier concentration. Risk tone is mixed: recovery is described positively, but substantial exposure remains to COVID-19 uncertainty, inflation, labor constraints, supply-chain disruption, beef costs, and dependence on John Morrell & Co."
+}

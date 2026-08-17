@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects continued decline",
+    "certain existing customers",
+    "partially offset",
+    "unprecedented time",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, with segment-level sales, margin, and expense explanations. Risk factors include declining Military sales, labor, inflation, supply-chain pressures, higher SG&A, and reliance on expected savings from transformation initiatives. The extensive non-GAAP discussion and recurring pandemic-related framing modestly soften the negative operating trends."
+}

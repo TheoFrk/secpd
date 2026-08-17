@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "continuing excellent operating performance",
+    "believes any older A/R will be collected",
+    "at least $35 million",
+    "more clearly indicative",
+    "uncertain economic environment"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and transparent about revenue, margins, liquidity, receivables, inventory growth, litigation expense, inflation, labor shortages, and foreign exchange effects. Its overall tone is confident and favorable, but management relies on promotional language, estimates, and non-GAAP presentation to frame results positively, while the excerpt is truncated and omits some referenced tables and details."
+}

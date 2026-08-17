@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties beyond control",
+    "no obligation to update",
+    "believe we will be able to refinance",
+    "not an all-encompassing list"
+  ],
+  "risk_summary": "The excerpt provides several useful operating metrics and specific debt, payment, store-closure, and market data, but is heavily surrounded by standard forward-looking disclaimer language. Risk tone is moderately negative, reflecting deteriorating scrap-gold activity, profitability pressure, volatile inventory values, and a significant mortgage balloon payment requiring refinancing or replacement."
+}

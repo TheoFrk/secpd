@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to significant judgment and estimates",
+    "may materially adversely impact earnings",
+    "based on assumptions believed reasonable",
+    "actual losses may be higher or lower",
+    "limited number of potential loss classifications"
+  ],
+  "risk_summary": "The excerpt uses substantial standard accounting-policy boilerplate and emphasizes uncertainty in loan-loss, valuation, tax, and impairment estimates. Credit risk has worsened materially, with substandard loans rising to $130.5 million, including $80.3 million of taxi medallion loans, and $78.5 million of performing taxi-medallion TDRs modified to interest-only payments. The disclosure is reasonably quantified but leaves meaningful uncertainty around ultimate loss severity and required future provisions."
+}

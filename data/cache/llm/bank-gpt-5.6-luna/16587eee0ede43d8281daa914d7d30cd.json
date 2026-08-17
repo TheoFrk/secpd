@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "uncertainties inherent in making estimates",
+    "reasonable period of time",
+    "if at any time",
+    "evaluated pricing models and assumptions"
+  ],
+  "risk_summary": "The excerpt is technically detailed and provides some quantified performance data, but relies substantially on standard forward-looking disclaimers and management judgment around valuation, impairment, and loan-loss reserves. Key risks include market illiquidity, collateral and borrower deterioration, security impairment, and sensitivity of goodwill and reserve estimates to economic conditions."
+}

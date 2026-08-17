@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "due primarily to",
+    "decoupled rates",
+    "ultimate potential",
+    "proposed offshore wind project"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear explanations of earnings drivers, capital expenditures, acquisition funding, and regulatory mechanisms. Risk disclosure is embedded in dense utility-specific terminology and relies periodically on causal qualifiers such as \"primarily\" and \"partially offset by.\" Overall tone is stable and moderately confident, though the excerpt includes execution and regulatory exposure related to acquisitions, rate recovery, weather, and proposed offshore development."
+}

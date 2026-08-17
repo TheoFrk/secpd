@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected production releases",
+    "no assurances",
+    "reasonable period of time",
+    "other unforeseen circumstances",
+    "adequate liquidity"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue declines, losses, margin compression, financing, backlog, and cash-flow pressure. However, liquidity depends on uncertain government production releases and additional financing, with explicit warnings regarding vendor or lender legal action and the inability to pay obligations. Forward-looking optimism about 2014 growth is not yet supported by realized production releases."
+}

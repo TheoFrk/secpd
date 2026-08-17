@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "subjective and/or complex judgments",
+    "may differ materially",
+    "numerous components",
+    "difficult to quantify"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, including the $102.4 million allowance and sensitivity analysis, but relies heavily on broad caveats, subjective estimates, and standard forward-looking disclaimers. Credit risk is tempered by FDIC loss-sharing arrangements, yet potential loan deterioration, valuation impairments, interest-rate pressure, and a difficult 2015 operating environment are clearly identified."
+}

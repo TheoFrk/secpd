@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "disclaims any intention or obligation to update",
+    "non-GAAP components",
+    "subject to technical review"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, but includes substantial standard forward-looking and safe-harbor language. Risk conditions are mixed to negative, with depressed rail lease rates, renewal rollover pressure, potential ballast-water compliance costs, and unresolved labor disruption, partly offset by improving utilization and market fundamentals."
+}

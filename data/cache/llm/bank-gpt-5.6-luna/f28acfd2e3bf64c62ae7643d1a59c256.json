@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.2,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expectations are for",
+    "similar to slightly higher",
+    "primarily due to",
+    "these decreases were partially offset by",
+    "subject to the outcome"
+  ],
+  "risk_summary": "The excerpt is relatively data-rich, with quantified market, pricing, sales, earnings, acquisition, and cash-flow information. Risk tone is mildly negative because several segments experienced declining sales and earnings amid weak pulp demand, currency pressure, and lower wood and log prices, while outlook statements rely on qualified forecasts and macroeconomic assumptions."
+}

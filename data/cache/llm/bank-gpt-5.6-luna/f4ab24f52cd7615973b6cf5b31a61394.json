@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "no assurance",
+    "expect to",
+    "actively seeking",
+    "and/or refinancing"
+  ],
+  "risk_summary": "The disclosure combines extensive operational plans and optimistic projections with material dependence on volatile commodity and credit markets. Liquidity risk is significant, given approximately $137.4 million of Third Eye Capital obligations, near-term maturities, reliance on lender accommodations, and uncertain refinancing or equity proceeds. Quantitative operating detail is present, but the excerpt is lengthy, highly technical, and partly reliant on conditional language."
+}

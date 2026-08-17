@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.27,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance capital will be available",
+    "if capital requirements vary materially",
+    "continued investments and further losses anticipated",
+    "primarily due to other factors",
+    "forward-looking statements involve risks and uncertainties"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenue, expenses, cash, debt issuance, and equity compensation, but relies on standard forward-looking disclaimers and does not fully quantify certain drivers. Risk tone is moderately negative because operating losses are increasing, cash needs depend partly on financing, and additional capital may be required, although management states liquidity is sufficient for the next twelve months."
+}

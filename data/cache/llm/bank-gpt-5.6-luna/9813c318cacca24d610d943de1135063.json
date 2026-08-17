@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.71,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "clinical hold and response pending",
+    "cannot predict revenue timing",
+    "financing-dependent operations",
+    "future capital requirements uncertain",
+    "derivative fair-value volatility"
+  ],
+  "risk_summary": "The disclosure identifies substantial clinical, regulatory, liquidity, and commercialization risks, including a partial FDA clinical hold, limited operating revenue, ongoing losses, and dependence on external financing. Although many historical expense changes are quantified, future funding needs, trial timing, and revenue generation remain materially uncertain. Repetition of the clinical-hold discussion and extensive accounting boilerplate reduce disclosure efficiency."
+}

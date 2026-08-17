@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective estimates and assumptions",
+    "materially different results",
+    "limited market liquidity",
+    "more likely than not",
+    "estimated collateral values"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail and explains accounting methodologies, but relies on management judgments for securities valuation, loan-loss allowances, collateral values, and deferred tax asset recoverability. It identifies meaningful downside sensitivities, including market illiquidity, credit losses, mortgage-volume declines, and uncertainty around future tax-asset realization, while maintaining a generally controlled and moderately confident tone."
+}

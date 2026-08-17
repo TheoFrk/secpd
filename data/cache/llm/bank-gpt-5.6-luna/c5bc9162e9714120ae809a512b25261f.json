@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "include, but are not limited to",
+    "current level gross margin cannot be assured",
+    "extensive acquisition and expansion narrative"
+  ],
+  "risk_summary": "The excerpt presents a strongly growth-oriented and generally confident tone, emphasizing product launches, acquisitions, geographic expansion, and improving margins. Risk disclosure is largely standard boilerplate, with limited quantified discussion of downside exposure beyond generic margin pressure and cost uncertainties. The lengthy strategy and transaction narrative may dilute attention from material operating and integration risks."
+}

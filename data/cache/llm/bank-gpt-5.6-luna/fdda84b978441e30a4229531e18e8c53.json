@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "management believes allowance is adequate",
+    "actual results could differ",
+    "subjective environmental factors",
+    "fair value determination is difficult",
+    "future additions may be necessary"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on earnings, loan concentrations, fair-value assets, and allowance methodology, but relies heavily on standard judgment-based caveats. Material risks include real-estate concentration, subjective collateral valuations, economic and interest-rate sensitivity, and potential future loan-loss provisions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.14,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "we believe",
+    "could materially adversely affect",
+    "expected to continue",
+    "reasonably certain"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantitative information on capital expenditures, backlog, lease obligations, and operating expenses. It presents a balanced but mildly confident tone while highlighting significant exposure to semiconductor cycles, technological obsolescence, underutilized capacity, margin pressure, and capital intensity. Forward-looking statements rely on recurring belief and expectation language and provide limited quantified downside scenarios."
+}

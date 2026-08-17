@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.73,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks, uncertainties, and other factors",
+    "no obligation to update",
+    "management believes allowance is adequate",
+    "circumstances or economic conditions differ substantially"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with detailed year-over-year drivers for margins, income, expenses, and loan-loss provisions. Risk tone is mildly negative because of declining yields, sluggish economic recovery, potential nonperforming assets, and possible future allowance adjustments, although management presents controls and conclusions as adequate."
+}

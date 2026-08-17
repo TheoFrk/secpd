@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "certain discrete items",
+    "necessary actions",
+    "opportunity to improve",
+    "strategic initiatives"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, comparable-store performance, cash flow, capital allocation, and acquisition impacts. Risk tone is predominantly confident and growth-oriented, although references to margin, inventory management, technology project write-offs, organizational changes, and non-GAAP adjustments indicate execution and comparability risks."
+}

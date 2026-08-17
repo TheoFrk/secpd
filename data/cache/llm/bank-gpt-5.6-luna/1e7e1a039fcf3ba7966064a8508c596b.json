@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "fluid order patterns",
+    "believe",
+    "strong financial condition",
+    "exciting market-based opportunities",
+    "expected benefits and savings"
+  ],
+  "risk_summary": "The disclosure identifies a significant demand slowdown, customer inventory rebalancing, financing pressure, delayed capital spending, and uneven order flow, but provides limited quantified forecasts for their financial impact. Management uses a generally optimistic strategic narrative and expects cost savings and improved performance despite execution complexity and uncertain near-term demand."
+}

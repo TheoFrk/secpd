@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.46,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could impact results",
+    "largely determined by",
+    "expects to increase",
+    "possibly request additional recovery",
+    "partially offset"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear explanations of revenue, expense, debt, interest-rate, and pension drivers. The risk tone is cautiously positive, supported by strong 2023 results, but acknowledges exposure to weather, drought, rising costs, higher borrowing rates, regulatory actions, and pension underperformance. Some forward-looking statements remain broad and rely on regulatory rate recovery or acquisitions to offset cost and financing pressures."
+}

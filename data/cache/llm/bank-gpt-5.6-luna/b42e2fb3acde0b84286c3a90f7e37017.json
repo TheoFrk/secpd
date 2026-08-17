@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "could materially affect",
+    "significant amount of judgment",
+    "strong sales",
+    "other operations"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but presents modest deterioration in earnings, retail performance, foreign-currency exposure, and operating cash flow. Debt increased substantially year over year, while several explanations rely on broad causal phrasing and judgment-based estimates for impairment and contingent consideration."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "intended to assist the reader",
+    "reasonable assumptions",
+    "have not always been achieved",
+    "if indicators are deemed to be present",
+    "when only a range of possible losses"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively informative, reporting segment sales, margins, acquisitions, and impairment methodology. Risk tone is mildly negative due to declining consolidated and Canvys sales, weaker demand, economic pressures, and reliance on assumptions for impairment testing. Boilerplate MD&A framing and conditional accounting language add some opacity, while the excerpt’s truncation limits assessment of the full risk disclosure."
+}

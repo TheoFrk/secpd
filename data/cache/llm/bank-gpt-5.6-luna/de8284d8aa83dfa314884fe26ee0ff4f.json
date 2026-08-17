@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "unable to predict with any degree of certainty",
+    "believes ... temporary impairment",
+    "as necessary",
+    "could be materially different",
+    "not without risk"
+  ],
+  "risk_summary": "The disclosure identifies material estimation uncertainty in revenue recognition, doubtful accounts, and the Mevion investment, including a quantified $1.3 million unrealized impairment and potential write-off. Medicare reimbursement cuts are expected to negatively affect revenue, while the company acknowledges uncertainty regarding the magnitude of the impact. The discussion is detailed and quantified in places but repeatedly relies on management judgment and optimistic assumptions about temporary impairment."
+}

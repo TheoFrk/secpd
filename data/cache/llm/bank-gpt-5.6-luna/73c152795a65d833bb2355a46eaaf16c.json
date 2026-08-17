@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor boilerplate",
+    "known and unknown risks",
+    "if available at all",
+    "sufficient cash resources",
+    "may result in dilution"
+  ],
+  "risk_summary": "The excerpt identifies substantial liquidity, profitability, market acceptance, competition, and financing risks, including possible dilution and the potential inability to continue operations if cash flow or financing is inadequate. Quantified operating metrics are provided, but the liquidity outlook relies heavily on conditional assumptions and unspecified future financing. Repeated forward-looking disclaimers and broad risk lists reduce disclosure specificity."
+}

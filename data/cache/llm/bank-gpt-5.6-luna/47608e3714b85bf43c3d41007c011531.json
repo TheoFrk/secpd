@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no firm assurances",
+    "risks and uncertainties not exhaustive",
+    "limited visibility regarding future order levels",
+    "constant-currency non-GAAP presentation"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity information, but includes extensive boilerplate cautionary language and a broad, non-exhaustive risk list. Results were broadly stable with strong liquidity, although semiconductor-related revenue declined materially and management cites cyclicality and limited visibility into future orders."
+}

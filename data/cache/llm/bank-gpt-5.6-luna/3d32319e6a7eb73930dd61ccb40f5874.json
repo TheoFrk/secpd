@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.16,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "could be an adverse material financial impact",
+    "closely monitor economic trends",
+    "various jurisdictions",
+    "subject to capital cycles",
+    "significant judgment is required"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantified, including substantial AUM and fee declines, but relies on standard conditional risk language and broad macroeconomic caveats. The primary risk is revenue sensitivity to market performance, investor redemptions, and concentration in volatile airline, commodities, and emerging-market exposures."
+}

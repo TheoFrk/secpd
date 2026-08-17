@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "other factors beyond control",
+    "assumptions could differ",
+    "truncated valuation disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified credit and earnings data, but relies on broad forward-looking disclaimers and judgment-based assumptions for ACL, valuations, and other estimates. Risk tone is mildly negative: net income and returns declined, while non-performing and past-due loans increased, although absolute credit metrics remain low."
+}

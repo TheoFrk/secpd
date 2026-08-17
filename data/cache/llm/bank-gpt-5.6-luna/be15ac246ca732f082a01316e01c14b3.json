@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not exhaustive",
+    "factors beyond the Company's control",
+    "reasonable estimates",
+    "expects ... over time",
+    "not necessarily indicative"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative revenue concentration and growth information, but relies heavily on standard safe-h harbor language, broad risk lists, and management estimates. Key exposures include customer and government concentration, fixed-price contract cost overruns, inventory valuation, backlog uncertainty, and dependence on future funding and contract performance."
+}

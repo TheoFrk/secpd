@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "expected to reposition",
+    "scenario planning analyses",
+    "volatility and uncertainty",
+    "effective tax rate will fluctuate"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting operating, financial, liquidity, debt, production, and project metrics. Risk tone is cautiously positive, emphasizing improved results and flexibility while acknowledging COVID-19 disruption, commodity-price volatility, Silvertip operating challenges, tax-rate uncertainty, and reliance on favorable metal prices. The discussion includes some promotional language and non-GAAP measures, but limited evidence of material evasion."
+}

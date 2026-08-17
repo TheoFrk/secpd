@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "\"discussed later\" cross-references",
+    "\"not meaningfully impacted\"",
+    "\"significant investments\"",
+    "\"pathway to profit\" branding",
+    "incomplete quantitative tables"
+  ],
+  "risk_summary": "The disclosure is generally informative and includes operational metrics, sales drivers, currency effects, store cohorts, and vending-machine counts. However, it contains substantial repetition, promotional language, broad qualitative assertions, and missing referenced tables that limit precision. Risk tone is cautiously positive while acknowledging exposure to cyclical industrial and construction markets, commodity-price deflation, and execution risk from expansion initiatives."
+}

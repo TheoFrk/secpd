@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subject to several potential adjustments",
+    "has not yet been finalized",
+    "may involve a higher degree of judgment",
+    "could vary depending on",
+    "appropriate but may not be indicative"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but contains substantial technical accounting language and boilerplate around fair-value estimates, acquisition adjustments, and divestiture accounting. The tone is mildly confident due to reported revenue growth and strategic actions, while acquisition financing, secured debt, and unresolved accounting adjustments introduce meaningful execution and leverage risks."
+}

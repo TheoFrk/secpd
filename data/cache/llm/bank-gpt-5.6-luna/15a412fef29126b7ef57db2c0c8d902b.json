@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "we expect",
+    "no assurance",
+    "provided we generate sufficient future earnings",
+    "no potential limitation has been quantified"
+  ],
+  "risk_summary": "The disclosure is relatively specific and provides substantial quantified operating, tax, cash, and debt information, but it highlights continuing losses, declining cash, expiring NOLs, and reliance on future profitability. Key tax-asset utilization limitations remain unquantified, and the excerpt uses standard forward-looking and non-GAAP cautionary language."
+}

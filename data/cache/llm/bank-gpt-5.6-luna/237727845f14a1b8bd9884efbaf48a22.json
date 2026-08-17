@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance of sufficient liquidity",
+    "cannot be determined",
+    "terms acceptable",
+    "forward-looking statements",
+    "duplicated financing disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, financing, and transaction detail, but liquidity support for OmniMetrix remains uncertain and dependent on costly credit facilities or additional financing. Repeated forward-looking caveats and duplicated text reduce clarity, while related-party lending and preferred-stock obligations add governance and repayment risk."
+}

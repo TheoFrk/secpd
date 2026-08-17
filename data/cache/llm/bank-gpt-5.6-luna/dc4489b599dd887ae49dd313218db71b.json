@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.52,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "primarily due to",
+    "diversification strategy will mitigate",
+    "easier comparison to prior year",
+    "omits comparative discussion"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with revenue, margin, expense, and segment trends disclosed. Risk tone is generally confident and growth-oriented, although it acknowledges exposure to economic conditions, discretionary spending, vendor rebates, acquisitions, and COVID-19 comparisons. Repeated explanations of margin drivers and standard forward-looking language add some boilerplate but do not materially obscure the discussion."
+}

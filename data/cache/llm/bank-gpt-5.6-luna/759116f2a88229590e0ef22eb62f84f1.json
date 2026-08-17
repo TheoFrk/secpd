@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "effect of which is unknown",
+    "sufficient cash flow ... foreseeable future",
+    "more likely than not",
+    "actual results may differ materially",
+    "based on assumptions and estimates"
+  ],
+  "risk_summary": "The disclosure is largely quantitative and provides detailed revenue, expense, receivables, and deferred-tax figures, but relies on management estimates and contains some unresolved uncertainty around grocery-store license attrition and royalty audits. Liquidity is presented confidently, although the projection depends on growth assumptions and is qualified by broad forward-looking risk factors."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "limited sources of liquidity",
+    "ability to continue as a going concern",
+    "anticipated future demand",
+    "believe our solutions are adaptable",
+    "truncated and duplicated disclosure"
+  ],
+  "risk_summary": "The excerpt identifies material liquidity and going-concern concerns, including limited funding sources and recurring expansion expenses. It provides some quantitative detail on revenue concentration, deferred revenue, financing, and planned R&D spending, but is undermined by duplicated boilerplate, promotional language, technical jargon, and an apparent truncation or data-extraction error."
+}

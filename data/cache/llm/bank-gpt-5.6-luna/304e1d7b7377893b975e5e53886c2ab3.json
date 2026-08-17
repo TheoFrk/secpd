@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "we believe",
+    "anticipate a similar commitment",
+    "to the extent applicable",
+    "tables and explanations omitted"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating narrative with quantified sales, margins, segment income, acquisitions, and shareholder returns. Key risks include weather sensitivity, pronounced seasonality, foreign exchange, acquisition-related costs, margin pressure, and the $300 million payment funded through existing credit-facility availability. Several causal explanations are deferred to omitted tables or expressed with broad management judgments, limiting transparency on underlying drivers and liquidity impact."
+}

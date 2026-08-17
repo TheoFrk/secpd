@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could be significantly different",
+    "unable to predict the impact",
+    "historical performance is likely not indicative",
+    "ordinary course of business"
+  ],
+  "risk_summary": "The disclosure reflects severe financial distress, including a Chapter 11 filing, Nasdaq delisting, volatile expected results, substantial restructuring costs, and material uncertainty regarding post-bankruptcy operations and capital structure. Quantified debt and interest terms improve specificity, but extensive forward-looking caveats and the truncated excerpt limit assessment of the full liquidity and recovery outlook."
+}

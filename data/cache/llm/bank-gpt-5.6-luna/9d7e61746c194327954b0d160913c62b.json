@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.42,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "assumptions, estimates and judgments",
+    "could have a material impact",
+    "inherently uncertain",
+    "based on market conditions",
+    "minor valuation allowances"
+  ],
+  "risk_summary": "The disclosure identifies meaningful liquidity, funding-cost, interest-rate, and valuation risks, including loan growth outpacing deposit generation and pressure from repricing mismatches. It provides some quantification, including a $100 million deposit campaign and a 179-basis-point increase in funding cost, but relies heavily on boilerplate descriptions of estimates and third-party valuations without detailed sensitivity ranges."
+}

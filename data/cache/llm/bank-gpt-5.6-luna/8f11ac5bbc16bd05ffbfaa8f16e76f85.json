@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily",
+    "partially offset",
+    "favorable trend",
+    "organic revenue metric",
+    "cannot be determined accurately"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, including revenue, segment income, cash flow, debt, liquidity, restructuring, and backlog metrics. Risk remains moderate due to declining organic revenues and segment income, sharply lower operating cash flow, working-capital investment, pension funding, and continued weakness in mid- to late-cycle businesses. Management presents improving orders and backlog as offsets, but relies on non-GAAP organic revenue measures and qualitative explanations for performance drivers."
+}

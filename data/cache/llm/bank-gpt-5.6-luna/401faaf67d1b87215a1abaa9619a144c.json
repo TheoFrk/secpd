@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.68,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "assumptions and estimates that may not materialize",
+    "highly uncertain and not within Barnwell’s control",
+    "may need to obtain significant new financing",
+    "forced to wind down operations",
+    "unable to estimate potential reduction"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure but highlights significant liquidity, commodity-price, reserve-estimation, and financing risks. Management acknowledges potential asset sales, liquidation, bankruptcy, and inability to continue as a going concern beyond 2020 if projected cash inflows or financing do not materialize. A possible near-term ceiling-test impairment is also disclosed without an estimable range."
+}

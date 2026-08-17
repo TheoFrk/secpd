@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may consider raising additional capital",
+    "general corporate purposes",
+    "transactions between entities under common control",
+    "subject to regulatory approval",
+    "fair value accounting differences"
+  ],
+  "risk_summary": "The excerpt is numerically detailed regarding acquisitions, debt issuance, ownership, and insurance-reserve movements, but contains complex accounting and related-party transaction structures that reduce transparency. The tone is strategically confident, while leverage, acquisition execution, regulatory approval, market-sensitive insurance liabilities, and potential additional financing present meaningful risks."
+}

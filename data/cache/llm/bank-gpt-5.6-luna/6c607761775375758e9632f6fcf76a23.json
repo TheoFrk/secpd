@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "among others",
+    "no assurance",
+    "could change in the near term"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and qualitative valuation judgments, limiting visibility into the recoverability of privately held investments. Risk exposure is elevated due to illiquid holdings, portfolio-company losses, competitive markets, and potentially material impairment estimates, although the company reports specific cash flows and contractual obligations and states that current carrying values are not impaired."
+}

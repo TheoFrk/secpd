@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "numerous assumptions",
+    "variety of risks and uncertainties",
+    "no obligation to update",
+    "adequate reserves"
+  ],
+  "risk_summary": "The excerpt contains extensive legal and boilerplate forward-looking language that broadly enumerates risks without quantifying their likelihood or potential financial impact. It provides meaningful operating and balance-sheet figures, but the discussion is highly complex and partly truncated. Management presents liquidity, capital, and reserves as adequate, although credit-loss estimates remain materially dependent on uncertain assumptions and forecasts."
+}

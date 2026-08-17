@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "reasonable and supportable forecasts",
+    "economic uncertainty",
+    "more likely than not",
+    "worst-case scenario"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, particularly regarding earnings, interest margins, credit-loss provisions, liquidity sources, and maturities. It relies on judgment-heavy estimates for credit losses, securities impairment, and goodwill, with material sensitivity to economic conditions and market values. Overall tone is cautiously stable, though declining net interest income and margin compression indicate moderate operating risk."
+}

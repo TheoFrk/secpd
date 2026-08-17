@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "difficult to forecast",
+    "not clear what demand will be",
+    "primarily due to",
+    "actual results may differ",
+    "various other assumptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but reports substantial deterioration in sales, margins, operating earnings, and demand across key regions and product lines. The outlook is uncertain, particularly because management states that global markets are difficult to forecast and future demand is unclear. Repetition and dense accounting terminology reduce readability but do not appear strongly evasive."
+}

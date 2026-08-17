@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "among others",
+    "inherently uncertain",
+    "various factors",
+    "may change our judgment",
+    "context otherwise requires"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed regarding portfolio composition, ownership, leverage mix, and operating structure. Risk disclosures are largely technical and conditional, emphasizing capital-market dependence, accounting judgments, VIE assessments, and uncertainty in estimates without presenting an acute adverse event."
+}

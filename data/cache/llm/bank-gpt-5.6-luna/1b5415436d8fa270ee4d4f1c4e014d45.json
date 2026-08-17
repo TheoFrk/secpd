@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future events rarely develop exactly as forecast",
+    "we believe sales will improve",
+    "not expected to have a significant effect",
+    "no contractual obligations",
+    "text truncated at bad debt expense"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including sales declines, recall costs, margin pressures, cash flows, and liquidity. Risk remains moderate due to declining sales, commodity and fuel cost inflation, food-safety history, customer credit exposure, and reliance on optimistic forecasts, although cash generation and liquidity are presented positively."
+}

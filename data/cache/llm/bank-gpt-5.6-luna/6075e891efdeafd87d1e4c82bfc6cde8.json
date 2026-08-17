@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no assurance of future financing",
+    "complex related-party transaction",
+    "materially adverse effect",
+    "discontinued operations presentation"
+  ],
+  "risk_summary": "The disclosure is heavily weighted toward boilerplate forward-looking disclaimers and complex transaction descriptions, although it provides substantial quantitative detail. Key risks include no current revenue, recurring operating losses, prior payroll-tax delinquencies, related-party involvement, escrowed sale proceeds, and dependence on future financing. The tone is cautious and materially risk-oriented despite management’s stated transition to the Florida treatment business."
+}

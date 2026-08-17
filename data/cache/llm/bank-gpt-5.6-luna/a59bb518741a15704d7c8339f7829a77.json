@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "not intended to be exhaustive",
+    "we believe",
+    "may be extended",
+    "could negatively affect",
+    "subjective and complex variables"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial data, but uses forward-looking and conditional language around demand, platform cycles, digital growth, and accounting assumptions. Risk tone is moderately negative due to declining revenue, substantial net losses, economic weakness, retailer caution, restructuring, and concentration in successful titles, although losses and operating cash flow improved year over year."
+}

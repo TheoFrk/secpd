@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements based on current expectations and assumptions",
+    "could cause actual results to differ materially",
+    "unable to predict future commodity prices",
+    "reasonably likely to occur in the near future",
+    "subjective judgment of management"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed regarding production, pricing, capital expenditures, dividends, repurchases, and debt repayment, supporting a generally constructive operating and balance-sheet tone. Material risks remain from commodity-price volatility, inflation, geopolitical disruptions, climate regulation, permitting constraints, and tax or contingency estimates. The discussion relies on standard forward-looking disclaimers and management judgments, but does not appear unusually evasive."
+}

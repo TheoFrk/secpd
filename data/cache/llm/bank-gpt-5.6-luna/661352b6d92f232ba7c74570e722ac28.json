@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain and unpredictable",
+    "assumptions believed to be reasonable",
+    "could materially impact",
+    "judgments and assumptions",
+    "not available or inconsistent"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and critical-accounting-policy disclosure, with some useful quantified cash-flow and working-capital data. Risk is concentrated in subjective revenue allocation, goodwill and intangible valuation, tax positions, and stock-compensation estimates, where changes in assumptions could materially affect reported results. Overall tone is neutral to mildly confident, but the passage relies substantially on boilerplate uncertainty language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.35,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "“demand remains strong”",
+    "“uncompromised safety, service, reliability and quality”",
+    "“significant economic disruption and uncertainty”",
+    "“continue to strive to ensure”",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally positive and quantitatively detailed, highlighting strong revenue, backlog, margin, and operating cash-flow improvements. Key risks include customer and defense-funding concentration, sporadic demand, working-capital consumption, reliance on credit-facility draws, cyberattack costs, and pandemic-related uncertainty. Promotional and generalized claims modestly reduce disclosure precision, and the excerpt is truncated before completion."
+}

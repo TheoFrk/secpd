@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "could differ materially",
+    "including, but are not limited to",
+    "substantial potential",
+    "highly successful",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative segment performance data and detailed revenue-recognition criteria, supporting reasonably transparent disclosure. However, promotional claims and broad causal explanations are interspersed with standard forward-looking disclaimers, while the excerpt is truncated before key expense analysis is completed. Segment declines in Mobile Solutions and Advanced Devices indicate operational pressure, partly offset by margin and cost improvements."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor language",
+    "actual results could differ materially",
+    "significant risks and uncertainties",
+    "subject to management judgment",
+    "minimum sales targets and inter-company funding"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and repeated warnings that may limit interpretability of projections. It provides substantial quantitative detail on financing, equity conversion, joint-venture commitments, and potential funding needs, but also highlights execution, liquidity, estimation, and commercial risks. Overall tone is legally cautious with some promotional management language rather than crisis-like."
+}

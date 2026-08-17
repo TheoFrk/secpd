@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "ultimate adequacy not known with certainty",
+    "subjective and complex judgments",
+    "inherent uncertainties",
+    "cannot provide assurance",
+    "unobservable inputs"
+  ],
+  "risk_summary": "The excerpt provides a detailed discussion of insurance reserving and fair-value methodologies but emphasizes substantial uncertainty, reliance on judgment, and potential reserve revisions. Low interest rates, declining pricing momentum, rising loss costs, investment volatility, and reliance on unobservable inputs present meaningful earnings and capital risks. Quantitative sensitivity analysis and explicit reserve ranges are limited in the provided text."
+}

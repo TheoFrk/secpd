@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "expect/anticipate/believe language",
+    "favorable environment",
+    "not possible to predict the full financial impact",
+    "continuing regulatory scrutiny"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating information, but relies heavily on forward-looking assumptions and optimistic projections regarding market growth, integration benefits, and servicing performance. Material risks include regulatory scrutiny, foreclosure delays, elevated advances and financing needs, acquisition integration costs, and a disclosed CFPB and state-agency settlement."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.66,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "backlog is not a meaningful indicator",
+    "cannot be assured",
+    "subject to competitive constraints",
+    "uncertainty of timing",
+    "primarily due to lower demand"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but highlights material risks from declining telecommunications and computing demand, customer concentration, acquisition-related debt, margin pressure, and restructuring costs. Risk language is partly standard boilerplate and uses qualifications around backlog, customer orders, tax obligations, and future estimates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subject to many variables",
+    "believed to be reasonable",
+    "may not be able to obtain",
+    "actual results may differ",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is highly technical and largely boilerplate, with substantial reliance on management estimates for revenue recognition, contract costs, inventory, receivables, investments, and impairment. It identifies meaningful downside risks, including potential revenue overstatement, customer payment deterioration, excess inventory, and revised impairment estimates, but provides limited quantified sensitivity analysis. The excerpt is truncated, reducing visibility into the full risk assessment."
+}

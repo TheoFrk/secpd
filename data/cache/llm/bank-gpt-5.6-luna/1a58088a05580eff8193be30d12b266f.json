@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "inherently subjective and require significant judgment",
+    "other developments or changes in our business",
+    "no obligation to revise or update"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes meaningful quantified disclosures, including the FDIC clawback liability and accounting estimates. However, extensive boilerplate forward-looking disclaimers and reliance on subjective assumptions limit transparency around potential adverse outcomes. Overall tone is neutral to mildly confident rather than crisis-like, with material exposure to credit, valuation, interest-rate, regulatory, and economic risks."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.47,
+  "risk_sentiment": 0.03,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "cross-referenced disclosure",
+    "incomplete excerpt",
+    "HTML formatting artifacts",
+    "future-dated proxy statement"
+  ],
+  "risk_summary": "The excerpt is primarily a procedural cross-reference and provides little substantive information about governance risks or financial condition. Its fragmented, markup-contaminated presentation limits interpretability but does not itself indicate a crisis-level risk tone."
+}

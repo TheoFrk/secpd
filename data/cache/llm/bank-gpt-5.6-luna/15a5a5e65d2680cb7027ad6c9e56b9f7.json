@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "somewhat uncertain",
+    "assuming economic recovery continues",
+    "may be expected to continue",
+    "widely believed to be attributable"
+  ],
+  "risk_summary": "The disclosure is generally specific and provides meaningful revenue, segment, and liquidity figures, but relies on conditional recovery assumptions and forward-looking caveats. COVID-19 effects, labor shortages, client demand volatility, and dependence on continued economic recovery remain material risks. Overall tone is cautiously recovering rather than crisis-like, with liquidity adequacy explicitly conditional on worsening pandemic effects not occurring."
+}

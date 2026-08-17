@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "we believe",
+    "well positioned",
+    "no assurances",
+    "changing economic conditions"
+  ],
+  "risk_summary": "The disclosure is generally precise and strongly supported by year-over-year operating, liquidity, inventory, and backlog metrics, with an overall favorable performance tone. COVID-19 exposure is acknowledged, but the duration, demand effects, mortgage availability, and broader economic consequences remain materially uncertain. Strategy language is partly boilerplate and relies on management assertions regarding liquidity, cash generation, and operational flexibility."
+}

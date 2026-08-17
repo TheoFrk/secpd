@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.06,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "reasonably likely",
+    "high degree of uncertainty",
+    "future market conditions",
+    "unsustainable competitive environment"
+  ],
+  "risk_summary": "The disclosure is technically detailed but relies heavily on standard estimates, assumptions, and forward-looking caveats without quantifying sensitivity or potential financial impact. Key risks include customer credit exposure, reserve and impairment uncertainty, litigation and self-insurance variability, and tariff-driven cost increases, import competition, margin compression, and possible market-share erosion. The outlook is cautiously mixed: management expects end-market growth and operational improvements but acknowledges challenging tariff-related conditions."
+}

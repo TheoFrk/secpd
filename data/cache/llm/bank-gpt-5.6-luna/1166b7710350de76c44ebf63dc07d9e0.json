@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.08,
+  "redundancy_score": 0.12,
+  "complexity_score": 0.18,
+  "risk_sentiment": 0.0,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cross-reference only",
+    "no substantive discussion",
+    "information deferred to other pages"
+  ],
+  "risk_summary": "The excerpt is a precise cross-reference but provides no substantive financial, operational, or risk disclosure. Risk tone and underlying credit implications cannot be assessed from this text alone."
+}

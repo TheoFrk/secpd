@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "not possible to accurately predict",
+    "believe to be appropriate",
+    "non-GAAP measures inherent limitations",
+    "dynamic nature of circumstances"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified balance-sheet, liquidity, capital, loan, deposit, and interest-rate information, supporting relatively transparent disclosure. Risk tone is mixed: COVID-19 disruption and uncertainty are prominent, but management emphasizes proactive mitigation, strong liquidity, capital levels, and operational continuity. Boilerplate forward-looking disclaimers and non-GAAP framing introduce moderate qualification and comparability risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may, or may not occur in future periods",
+    "non-GAAP financial measure",
+    "excluding specified income statement categories",
+    "pending branch acquisition",
+    "historical loss factors as one factor"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, but presents mixed performance: net income and returns declined despite improvements in net interest margin, noninterest income, and expenses. Forward-looking acquisition and mortgage-originations plans, reliance on non-GAAP metrics, and sensitivity to economic conditions introduce moderate risk and uncertainty."
+}

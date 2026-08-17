@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "could differ materially",
+    "no assurances can be given",
+    "estimates and judgments",
+    "other risks detailed elsewhere"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward boilerplate legal disclaimers and generalized uncertainty rather than quantified forward-looking analysis. Material risks include a history of losses, a substantial net operating loss carryforward, significant customer concentration, contingent acquisition liabilities, and reliance on management estimates. The tone is cautious and defensive, with limited evidence of strong operating confidence."
+}

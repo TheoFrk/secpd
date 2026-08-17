@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "many estimates are qualitative in nature",
+    "where possible",
+    "may or may not realize gross margin growth",
+    "outside of our control"
+  ],
+  "risk_summary": "The disclosure quantifies revenue, reserves, capital spending, customer concentration, and tax-loss carryforwards, but relies heavily on management expectations regarding growth, margin expansion, cost offsets, and production efficiency. Key risks include dependence on large customers, capacity constraints, extended payment cycles, inventory obsolescence, substantial future capital needs, and uncertainty over liquidity and tax-loss utilization."
+}

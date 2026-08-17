@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "we believe",
+    "potentially improve activity and safety",
+    "designed to",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes useful clinical, epidemiological, manufacturing, and trial-design metrics, but relies heavily on promotional language, forward-looking claims, and repeated assertions of potential benefits. Clinical efficacy remains uncertain, with substantial dependence on ongoing trials, regulatory outcomes, and unproven technology advantages."
+}

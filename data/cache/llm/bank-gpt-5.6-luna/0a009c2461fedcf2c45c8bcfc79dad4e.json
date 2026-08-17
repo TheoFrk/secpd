@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor language",
+    "no assurance",
+    "material adverse effect",
+    "uncertain economic conditions",
+    "may adversely affect"
+  ],
+  "risk_summary": "The excerpt identifies meaningful exposure to office-market weakness, vacancies, tenant defaults, high interest rates, refinancing constraints, development overruns, and covenant pressure. Some risks and operating metrics are quantified, including occupancy, lease expirations, and rent receivable reserves, but repeated conditional and forward-looking language limits precision regarding downside magnitude and timing."
+}

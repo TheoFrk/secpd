@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "expected to result",
+    "additional information see",
+    "other related costs",
+    "no other material off-balance sheet"
+  ],
+  "risk_summary": "The excerpt is highly quantified and generally transparent, but presents significant transaction-related leverage, restructuring costs, facility closure charges, and a revised quarterly loss. Forward-looking statements and references to other filing sections limit standalone completeness, while the overall tone remains factual rather than crisis-like."
+}

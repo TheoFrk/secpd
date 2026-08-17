@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "approximately/expected ranges",
+    "synergies implemented in phases",
+    "revenue remains under pressure",
+    "reimbursement may be received later",
+    "truncated contractual obligations table"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, particularly regarding acquisitions, revenue, market reach, and capital expenditures. Risk factors include substantial acquisition-related financing, fixed operating costs, advertising cyclicality, internet competition, and potential timing differences in reimbursements. The tone is operationally confident but includes moderate forward-looking uncertainty and a missing contractual-obligations table segment."
+}

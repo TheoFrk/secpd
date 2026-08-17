@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results could differ materially",
+    "inherently an imprecise activity",
+    "management believes",
+    "subjective or complex judgments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial detail, including sales growth, margins, channel performance, and expense trends. Risk disclosure is partly boilerplate and emphasizes uncertainty around projections, estimates, impairment, warranty liabilities, and revenue recognition without fully quantifying potential downside in the excerpt. Overall tone is cautiously positive, supported by improved 2010 results and reduced borrowing, but includes standard material-risk caveats."
+}

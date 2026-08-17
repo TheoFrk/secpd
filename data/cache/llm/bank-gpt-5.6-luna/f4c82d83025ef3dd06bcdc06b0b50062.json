@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unknown whether transactions will have a material impact",
+    "appears promising",
+    "anticipated to be significant",
+    "subject to termination penalty",
+    "may differ materially from actual results"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, covering sales concentration, distribution costs, flood losses, contractual terms, pension assumptions, and benefit risks. Risk tone is moderately positive but acknowledges competitive, integration, actuarial, and execution uncertainties. The long, technical presentation and reliance on forward-looking or assumption-based language create some disclosure complexity and residual uncertainty."
+}

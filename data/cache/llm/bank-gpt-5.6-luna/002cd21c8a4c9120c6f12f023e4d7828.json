@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance of completing a transaction",
+    "additional capital resources",
+    "limited financial resources",
+    "related-party financing",
+    "forward-looking statements and risks"
+  ],
+  "risk_summary": "The Company is a non-operating shell with no revenue, recurring losses, limited cash, a working-capital deficit including related-party debt, and dependence on additional financing. Its acquisition strategy is preliminary, highly uncertain, and exposed to substantial competition and execution risk, with management explicitly unable to assure going-concern funding or transaction completion."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may not result in any transaction",
+    "do not intend to disclose additional details",
+    "plan to meet with the FDA",
+    "may provide important benefits",
+    "currently evaluating the impact"
+  ],
+  "risk_summary": "The excerpt provides useful quantified expense changes and defined clinical endpoints, but the core business remains dependent on an unapproved drug candidate with limited direct evidence in the target population. Strategic alternatives, including a possible transaction, are explicitly uncertain and may provide no outcome, while trial timing depends on FDA feedback. The tone is cautious and development-stage, with substantial execution, regulatory, and financing risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.3,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expected to continue",
+    "should continue to aid",
+    "adequate to cover",
+    "different assumptions may significantly affect",
+    "currently assessing the impact"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating and financing outlook, supported by revenue, net income, refinancing, and construction-loan figures. Key risks include reliance on optimistic economic and leasing assumptions, development execution, debt service coverage excluding balloon payments, and potentially material impairment estimates. Gains from property sales also contributed substantially to earnings, which may reduce the quality and recurrence of reported profitability."
+}

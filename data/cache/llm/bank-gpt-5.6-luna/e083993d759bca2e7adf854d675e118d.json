@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high-level summary",
+    "subject to risks and uncertainties",
+    "actual results may differ materially",
+    "varying degrees of certainty",
+    "not practicable to estimate"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, reporting revenue, margins, bookings composition, cash returns, and tax effects. Risk is moderated by extensive caveats around forward-looking statements, estimated bookings, transactional volumes, customer concentration, and deferred tax liabilities. Overall tone is confident and growth-oriented, though some estimates and future cash-flow visibility remain uncertain."
+}

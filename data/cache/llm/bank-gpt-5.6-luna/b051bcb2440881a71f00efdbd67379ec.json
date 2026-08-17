@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "strong and resilient company",
+    "we expect",
+    "underlying fundamentals and trends",
+    "impracticable to calculate",
+    "non-GAAP financial measures"
+  ],
+  "risk_summary": "The disclosure is strongly optimistic and provides substantial quantified performance data, including sales, earnings, margins, foreign-exchange effects, and restructuring costs. However, it relies on promotional strategy language and emphasizes non-GAAP measures, while some relevant tables and reconciliations are omitted or truncated. Key uncertainties include pandemic-related disruption, elevated freight and raw-material costs, foreign-exchange exposure, and limitations in calculating repatriation tax costs."
+}

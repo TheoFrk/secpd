@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "factors include, but are not limited to",
+    "inherent uncertainties and risks",
+    "management judgment and estimates",
+    "not possible to predict all factors"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking and accounting-estimate disclaimers, with limited quantified sensitivity around loan-loss reserves, fair values, and goodwill impairment. Reported performance is positive, but outcomes remain exposed to economic conditions, interest rates, regulatory changes, credit quality, and subjective valuation assumptions."
+}

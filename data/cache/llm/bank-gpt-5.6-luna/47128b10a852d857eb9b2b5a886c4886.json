@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.72,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "going concern section lacks stated conditions",
+    "management plans to mitigate omitted",
+    "may differ materially",
+    "period-to-period comparison may not be indicative",
+    "truncated critical accounting discussion"
+  ],
+  "risk_summary": "The excerpt presents substantial financial distress, including a $54 million working-capital deficit, $2.3 million of cash, recurring net losses, accumulated deficits, and an explicit going-concern uncertainty. Although operating results and cash flows are quantified, the disclosure appears incomplete because the principal going-concern conditions and management’s mitigation plans are not provided, and the text contains truncation and internal inconsistencies."
+}

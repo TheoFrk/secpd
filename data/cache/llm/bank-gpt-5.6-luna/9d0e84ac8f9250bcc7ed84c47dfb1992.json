@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.53,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "not possible to predict all risks",
+    "no obligation to update",
+    "based on estimates and assumptions",
+    "no assurance cost savings realized"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on cash, debt maturities, liquidity facilities, cost savings, escrow obligations, and capital commitments. However, extensive forward-looking safe-harbor language and reliance on uncertain assumptions limit assurance regarding projected savings and liquidity, while increased leverage, competitive pressure, regulatory commitments, and sizable near-term maturities present material risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "acceptable terms",
+    "may issue additional securities",
+    "estimated future cash flows",
+    "could have a material impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified regarding leverage, liquidity capacity, maturities, issuance programs, and covenant compliance. Risk is moderated by repeated contingencies around capital-market access, refinancing terms, interest-rate exposure, and impairment assumptions. Overall tone is stable and confident, but it relies on boilerplate forward-looking caveats and management estimates."
+}

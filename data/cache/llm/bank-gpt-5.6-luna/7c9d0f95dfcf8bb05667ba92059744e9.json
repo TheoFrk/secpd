@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.88,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "disclaim any obligation to update",
+    "we believe",
+    "potential opportunities",
+    "unable to pay obligations"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and going-concern risk: the company is in arrears with most creditors, requires immediate funding and accommodations, and may cease operations without them. Although it provides quantified losses and accumulated deficits, extensive forward-looking disclaimers and promotional descriptions of the technology dilute the focus on financial distress."
+}

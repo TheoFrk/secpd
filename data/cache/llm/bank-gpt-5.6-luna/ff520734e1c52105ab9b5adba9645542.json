@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties",
+    "subjective estimates and judgments",
+    "materially different",
+    "reversion period ranges"
+  ],
+  "risk_summary": "The excerpt is highly technical and includes meaningful detail on credit-loss modeling, forecast periods, and key assumptions, but relies substantially on standard legal disclaimers and subjective estimation language. Risk tone is cautious, highlighting merger integration, credit, regulatory, liquidity, cybersecurity, and macroeconomic risks without indicating an immediate crisis."
+}

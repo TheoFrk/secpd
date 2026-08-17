@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "precise financial impact cannot be reasonably estimated",
+    "could continue to have a material adverse effect",
+    "no assurance can be given",
+    "subject to risks and uncertainties",
+    "may not be indicative of future revenue"
+  ],
+  "risk_summary": "The excerpt provides several quantified disclosures, including backlog, deposits, loan forgiveness, and customer geography, but relies heavily on standard forward-looking disclaimers and broad uncertainty language. Key risks include supply-chain disruption, inflation, raw-material cost increases, backlog cancellations, macroeconomic conditions, and estimation uncertainty. Overall tone is neutral to mildly confident, tempered by material-risk caveats."
+}

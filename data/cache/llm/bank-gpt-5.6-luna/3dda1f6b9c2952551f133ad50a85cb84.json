@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily because of",
+    "may fluctuate from period to period",
+    "actual results could differ materially",
+    "for additional information",
+    "various other factors"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and moderately confident operating profile, supported by quantified revenue-recognition and debt information and stated covenant compliance. However, much of the discussion relies on generic causal explanations, repeated cross-references, and caveats, while key tables and portions of the analysis are omitted or truncated. Debt exposure is identifiable but appears manageable based on the disclosed $100 million borrowing against a $600 million facility."
+}

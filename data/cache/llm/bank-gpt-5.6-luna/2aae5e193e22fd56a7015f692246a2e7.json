@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may materially and adversely affect",
+    "expect to see continuing industry consolidation",
+    "if an economic downturn were to occur",
+    "significant management judgments and estimates",
+    "unable to establish selling price"
+  ],
+  "risk_summary": "The disclosure is relatively specific and well quantified, particularly regarding customer concentration, international revenue, acquisitions, and expense drivers. It highlights meaningful vulnerabilities from customer loss, industry consolidation, economic downturns, project delays, acquisitions, and accounting estimates, although the overall tone is measured rather than crisis-like."
+}

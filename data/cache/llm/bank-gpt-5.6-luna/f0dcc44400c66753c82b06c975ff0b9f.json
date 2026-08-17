@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking risk disclaimer",
+    "management estimates",
+    "minimal additional capital requirements",
+    "excellent opportunities for continued growth",
+    "truncated liquidity disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantified revenue changes, but relies on management estimates and optimistic growth assertions. Key risks include declining UBAM channels, consultant recruitment and retention dependence, inventory obsolescence, supplier minimum-order requirements, and extended international lead times. The truncated liquidity discussion limits assessment of cash needs and contingency funding."
+}

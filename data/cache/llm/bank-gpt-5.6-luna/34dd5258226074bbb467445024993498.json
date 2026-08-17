@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "expected to",
+    "generally aligned with",
+    "exact size ... not available",
+    "long-term strategic target",
+    "price-driven volume declines"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with clear disclosure of sales, margins, cash flow, customer concentration, restructuring, litigation payments, and raw-material pressures. Forward-looking statements rely on moderate hedging and highlight risks from weak GDP growth, input costs, demand weakness, and pricing lag, but the overall tone remains cautiously confident. A possible presentation or drafting inconsistency appears in the COGS discussion, which references 2010 versus 2009 within a 2011 comparison section."
+}

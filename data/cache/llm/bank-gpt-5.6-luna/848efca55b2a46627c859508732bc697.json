@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and associated risks",
+    "risks, uncertainties, and other factors",
+    "actual results may differ materially",
+    "will continue to be significantly impacted",
+    "incorporated by reference"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on PPP activity, interest rates, loan balances, fees, and geographic operations, but repeats broad forward-looking disclaimers and relies on incorporated risk disclosures. COVID-19, low interest rates, disrupted economic activity, and potential pressure on interest and noninterest income create a moderately negative risk tone, partially mitigated by government guarantees and stimulus programs."
+}

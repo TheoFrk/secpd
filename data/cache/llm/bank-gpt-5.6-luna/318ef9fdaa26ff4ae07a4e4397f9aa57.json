@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted operating revenues",
+    "subject to regulatory approvals",
+    "may continue to impact",
+    "unable to predict commodity movements",
+    "partly offset by"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and identifies key exposures, including commodity-price volatility, derivatives losses, inflation, supply-chain constraints, and acquisition approvals. Risk tone is moderately cautious, although positive operating results and mitigation claims temper the overall negativity. Extensive cross-references, non-GAAP framing, and layered explanations increase interpretive complexity."
+}

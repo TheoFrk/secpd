@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.46,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information required ... is contained",
+    "cross-reference to separate report",
+    "duplicated wording: this this"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A information and redirects readers to a separate annual report, limiting transparency in the presented filing section. The cross-reference is legally conventional but creates information-access friction and prevents direct assessment of financial condition and operating results."
+}

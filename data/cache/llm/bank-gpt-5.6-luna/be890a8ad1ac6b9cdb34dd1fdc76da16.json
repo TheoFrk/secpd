@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "reasonable positions",
+    "can change over time",
+    "relatively short-term forecasting",
+    "could retroactively disagree",
+    "if an event occurs or circumstances change"
+  ],
+  "risk_summary": "The disclosure is detailed and substantially quantified, particularly for receivables, inventory reserves, warranty costs, percentage-of-completion revenue, taxes, and debt terms. Residual risk arises from management estimates, forecasting assumptions, tax uncertainty, impairment testing, and subordinated convertible debt obligations, but the overall tone is controlled rather than crisis-like."
+}

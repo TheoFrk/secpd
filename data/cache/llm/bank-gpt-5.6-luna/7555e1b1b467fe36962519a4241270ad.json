@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "hope this continues",
+    "mostly back to normal",
+    "customary stop loss actions",
+    "successful management of asset quality"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified financial and margin data, but uses promotional language and limited detail on downside scenarios, credit concentrations, and securities-market losses. Risks include inflation, rising funding costs, weaker loan demand, bear-market losses, and declining tangible book value, though management presents capital and asset quality as resilient."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimated fair value",
+    "most losses",
+    "subject to a number of conditions",
+    "expected to be completed",
+    "anticipated credit losses"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, with substantial disclosure of acquisitions, accounting impacts, loan exposures, and historical impairment charges. Risk tone is broadly neutral but highlights elevated charge-offs, weak economic recovery, real-estate deterioration, market illiquidity, and transaction execution or integration risks. Some loss-sharing, fair-value, and acquisition-outcome language depends on estimates or contingencies."
+}

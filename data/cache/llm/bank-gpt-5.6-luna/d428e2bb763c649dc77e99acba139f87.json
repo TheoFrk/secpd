@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "assumptions believed to be reasonable",
+    "actual amounts could differ",
+    "reasonable expectations",
+    "no indicators of impairment",
+    "potential events or circumstances"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified impairment assumptions, discount rates, valuation sensitivities, and restructuring charges. However, reliance on management judgments, forecasts, terminal values, and generalized downside language creates moderate estimation and model risk, while the overall tone remains cautiously positive regarding asset recoverability and operating performance."
+}

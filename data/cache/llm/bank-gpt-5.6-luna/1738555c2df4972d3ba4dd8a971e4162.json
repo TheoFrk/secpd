@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "maximum payout is not limited",
+    "not material to the consolidated financial statements",
+    "expected to drive incremental sales growth",
+    "preliminary projections",
+    "non-GAAP measurements excluding charges"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but highlights significant weakness in oil and natural gas markets that led to $192 million of impairment charges. Management presents continued growth and liquidity initiatives, though acquisition earn-outs, market-recovery assumptions, and extensive adjusted metrics introduce some uncertainty."
+}

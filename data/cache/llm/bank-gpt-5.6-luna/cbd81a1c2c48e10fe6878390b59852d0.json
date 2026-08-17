@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.3,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "cannot provide assurances",
+    "more likely than not",
+    "various other assumptions",
+    "truncated loan agreement disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting revenue, margins, liquidity, backlog, tax assets, and operating results in detail. Risk is moderate because profitability remains thin, a substantial valuation allowance covers deferred tax assets, backlog fulfillment is uncertain, and the disclosure is truncated in the revolving-credit section. Overall tone is cautiously positive, supported by strong cash and working-capital metrics but tempered by limited earnings and reliance on a rights offering."
+}

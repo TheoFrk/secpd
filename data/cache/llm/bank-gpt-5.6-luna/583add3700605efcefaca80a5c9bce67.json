@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.16,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily due to the net effects of",
+    "factors beyond our control",
+    "cannot be predicted",
+    "expects higher operating results",
+    "competitive pressures"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on earnings, volumes, pricing, capacity utilization, costs, restructuring, and acquisition financing. However, several key causal reconciliations are omitted or truncated, and the 2025 outlook depends on uncertain demand, pricing, energy costs, geopolitical conditions, and integration benefits."
+}

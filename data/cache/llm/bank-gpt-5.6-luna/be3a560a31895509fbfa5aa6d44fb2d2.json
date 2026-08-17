@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP fully taxable equivalent measures",
+    "qualitative factors reflecting uncertainty",
+    "more likely than not",
+    "tax planning strategies",
+    "repeated comparative disclosures"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with transparent discussion of earnings drivers, loan composition, credit-loss provisions, tax assets, and unusual expenses. Risk tone is mildly positive due to improved earnings, deposits, and credit metrics, but litigation costs, FHLB repayment penalties, COVID-related uncertainty, declining margins, and deferred tax asset realization risks remain relevant. Repetition and dense banking terminology modestly reduce readability, while the truncated and corrupted ending limits completeness."
+}

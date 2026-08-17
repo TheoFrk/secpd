@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective estimates and significant uncertainties",
+    "actual results may differ",
+    "could materially impact operating results",
+    "future impairments may occur",
+    "adequate to fund future operations"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes quantified sensitivity analyses for sales returns, incentives, inventory reserves, and impairment assumptions. However, it relies heavily on management estimates, forecasts, and conditional language, with material exposure to revenue adjustments, inventory losses, impairment charges, and financing/liquidity assumptions. Overall tone is cautiously confident rather than crisis-like, supported by stated goodwill cushion and expected funding adequacy."
+}

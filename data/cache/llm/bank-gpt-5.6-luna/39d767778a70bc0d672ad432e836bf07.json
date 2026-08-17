@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "uncertain and unpredictable assumptions",
+    "ample sensitivity ranges",
+    "subject to customary conditions",
+    "primarily attributable to",
+    "held-for-sale and discontinued operations"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent on revenue, costs, borrowing rates, restructuring charges, and asset-sale proceeds. Risk signals include elevated borrowings and interest expense, recurring restructuring activity, the pending Aluminum Products divestiture, and reliance on uncertain impairment assumptions. Overall tone is neutral to mildly cautious rather than crisis-like."
+}

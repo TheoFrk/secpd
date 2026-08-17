@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "highly uncertain and cannot be predicted",
+    "no assurance",
+    "assumptions that may prove to be wrong",
+    "could exhaust our capital resources sooner",
+    "no assurance that we will be successful in obtaining additional funding"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides detailed operating and liquidity data, but the company remains loss-making and dependent on continued financing and commercialization success. Management acknowledges that cash runway assumptions may be wrong and that insufficient funding could force delays, scaling back, or elimination of operations."
+}

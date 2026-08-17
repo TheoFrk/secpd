@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "adjusted net income excluding repositioning impact",
+    "management believes ACL is adequate",
+    "actual losses may differ materially",
+    "reasonable and supportable economic forecast",
+    "among other factors"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, with detailed loan, deposit, liquidity, asset-quality, and restructuring figures, but relies on management estimates for credit losses, collateral values, forecasts, and impairment. Risk tone is mixed: operating and liquidity metrics are presented positively, while the quarter included a $25.2 million net loss driven by balance-sheet repositioning and staffing and expansion expenses."
+}

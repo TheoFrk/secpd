@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "potentially make additional investments",
+    "expected to provide above-average returns",
+    "partially mitigated by market forces",
+    "at our discretion and not obligatory",
+    "maximum exposure to loss would be limited"
+  ],
+  "risk_summary": "The disclosure is relatively data-rich, quantifying portfolio composition, tenant exposure, financing, interest rates, and stated loss exposure. Risk tone is cautiously constructive but acknowledges rising capital costs, declining REIT valuations, Medicare/Medicaid reimbursement pressure, development risk, and operational losses at recently acquired properties. Forward-looking claims about growth, returns, and mitigation depend on market conditions and execution."
+}

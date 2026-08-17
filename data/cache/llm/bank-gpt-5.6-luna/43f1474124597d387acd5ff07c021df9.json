@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.54,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial amounts of capital",
+    "expects to begin receiving capital",
+    "various sources of funds",
+    "several billion dollars"
+  ],
+  "risk_summary": "The company exhibits severe liquidity and going-concern risk, with $303 in cash, minimal revenue, operating cash burn, and an $8.2 million net loss. Its plans depend heavily on future financing and highly ambitious, largely unquantified transactions, while costly convertible and short-term debt terms increase dilution and repayment risk. Internal inconsistencies in comparative-year disclosures and cash-flow wording reduce reporting reliability."
+}

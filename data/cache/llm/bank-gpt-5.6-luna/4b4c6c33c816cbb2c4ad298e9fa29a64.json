@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted EBITDA exclusions",
+    "partially offset",
+    "non-allocation of corporate costs",
+    "receivables derecognition",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but presents weakening sales and EBITDA, margin pressure, elevated costs, impairments, and an ongoing legal dispute. Use of adjusted EBITDA, exclusion of corporate costs, and receivables-sale structures may reduce comparability and obscure underlying leverage or cash-flow dependence."
+}

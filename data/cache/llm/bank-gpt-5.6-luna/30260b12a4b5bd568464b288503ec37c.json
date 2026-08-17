@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "not intended to be exhaustive",
+    "we expect",
+    "may not be indicative",
+    "reasonable estimates",
+    "requires estimating and judgments"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with strong revenue and cash generation but declining net income, EPS, and operating cash flow. Key uncertainties relate to reliance on live services, digital adoption, competition, COVID-19 effects, tax estimates, and management assumptions. Boilerplate framing and repeated forward-looking language modestly limit clarity but do not suggest a crisis tone."
+}

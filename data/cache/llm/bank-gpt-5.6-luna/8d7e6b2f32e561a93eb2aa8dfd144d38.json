@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "believes current lines of credit provide capacity",
+    "as market conditions permit",
+    "current economic situation",
+    "may not be comparable",
+    "supplemental measure not indicative of liquidity"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and highly quantified, explicitly reporting lower occupancy, rental rates, same-property PNOI, property values, and financing availability. Credit risks include refinancing constraints, reduced loan-to-value proceeds, lease rollover, declining rents, and partially leased development properties, although management identifies liquidity sources and mitigation measures."
+}

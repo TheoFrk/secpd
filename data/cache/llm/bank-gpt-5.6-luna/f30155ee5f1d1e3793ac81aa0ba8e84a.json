@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "highly promotional self-characterization",
+    "unquantified innovation claims",
+    "quarter-to-quarter comparisons deemed unworthy",
+    "broad forward-looking risk disclaimer",
+    "limited detail on liquidity sufficiency"
+  ],
+  "risk_summary": "The excerpt provides useful quantified operating and liquidity metrics, including sales, volume, margins, costs, and available credit. However, extensive promotional language and broad qualitative claims dilute the analytical focus, while key risks such as input-cost inflation, consumer trends, seasonality, and retailer support are described largely without quantified sensitivity analysis. Overall tone is confident and optimistic, with standard forward-looking disclaimers limiting specificity about potential downside outcomes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.68,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "strong increase",
+    "immaterial impact",
+    "we believe",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative, supported by quantified sales, margin, cash-flow, and expense metrics. Key risks include foreign-exchange pressure, rising payroll and supply-chain costs, inventory derivative volatility, and increased investment spending, but these are framed as manageable and partially offsetting."
+}

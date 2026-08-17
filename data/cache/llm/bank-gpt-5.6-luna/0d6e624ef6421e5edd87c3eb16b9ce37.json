@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "may cause actual results to differ materially",
+    "no obligation to update",
+    "subject to exception and approval",
+    "perceived present and future demand"
+  ],
+  "risk_summary": "The excerpt is substantially quantified regarding dividends, capital issuance, subordinated debt, and repurchases, but relies on standard forward-looking disclaimers and broad qualifications around estimates, loan valuations, and credit risks. Complexity is elevated due to dense banking, accounting, and regulatory terminology, while the overall tone is cautiously neutral to mildly confident."
+}

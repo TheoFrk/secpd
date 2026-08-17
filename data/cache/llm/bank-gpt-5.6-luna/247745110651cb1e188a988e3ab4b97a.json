@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "including but not limited to",
+    "generally correlated",
+    "anticipated future revenue"
+  ],
+  "risk_summary": "The excerpt is generally constructive and quantitatively detailed, highlighting revenue, cash flow, backlog, and demand improvements. Key risks include semiconductor cyclicality, customer concentration and investment variability, acquisition-related costs, increased debt, foreign cash repatriation tax exposure, and reliance on technology-driven demand. The opening cautionary language is standard boilerplate and modestly reduces specificity but does not dominate the disclosure."
+}

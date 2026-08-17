@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "repeated \"we believe\" statements",
+    "opportunistic acquisitions",
+    "fairly consistent cash flows",
+    "resistant to recessionary trends",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt combines quantified segment results with substantial forward-looking, belief-based language and limited concrete support for strategic claims. Key risks include declining theatrical release windows, competition from in-home/mobile entertainment, industry consolidation, office-space demand shifts, and exposure to cash-consuming real estate development."
+}

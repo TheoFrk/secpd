@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor repetition",
+    "actual results could differ materially",
+    "without limitation",
+    "no obligation to update",
+    "broad uncapped risk list"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad range of pandemic, supply-chain, labor, inflation, currency, and demand risks, with limited quantified sensitivity analysis. It provides some concrete debt, acquisition, capital expenditure, and cost-savings figures and states that liquidity is expected to support operations for at least twelve months, but this conclusion is qualified by current conditions and numerous uncertainties."
+}

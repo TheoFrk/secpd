@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.58,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "subject to risk, uncertainties and other factors",
+    "actual results could differ materially",
+    "significant judgments and estimates",
+    "future adverse changes"
+  ],
+  "risk_summary": "The excerpt presents strong growth in sales, gross margin, earnings, and cash, with a generally confident operating tone. Key risks include heavy Asian/export concentration, semiconductor and economic exposure, reliance on assumptions in deferred tax asset realization and intangible asset impairment, and standard forward-looking uncertainty language."
+}

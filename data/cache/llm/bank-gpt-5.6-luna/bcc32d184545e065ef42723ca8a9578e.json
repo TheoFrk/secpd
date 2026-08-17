@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot reliably estimate",
+    "many difficulties and uncertainties",
+    "high rate of failure",
+    "not reproducible nor validated",
+    "limited commercial success"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure on revenue, earnings, product sales, pipeline stages, and clinical developments. Risk tone is moderately cautious due to declining net income, patent-driven revenue pressure, clinical failures, regulatory delays, and safety concerns, although diversification and several product approvals provide balance."
+}

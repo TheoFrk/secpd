@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "subjective judgments",
+    "estimated future credit losses",
+    "could adversely affect earnings",
+    "no assurance can be given",
+    "significant earnings volatility"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on loan balances, reserves, goodwill, and servicing assets, but relies on management estimates and model-based assumptions for impairment and credit-loss assessments. Key risks include adverse economic conditions, inaccurate prepayment forecasts, goodwill impairment, and loan losses exceeding reserves. Overall tone is measured and operationally confident, with standard forward-looking risk caveats."
+}

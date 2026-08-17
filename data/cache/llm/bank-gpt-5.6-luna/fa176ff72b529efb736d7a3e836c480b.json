@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be certain",
+    "known and unknown liabilities",
+    "potential for a negative impact",
+    "from time to time",
+    "projected profitability"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding subsidiaries, customers, service areas, and revenue drivers. It presents a stable, relatively defensive utility profile but includes broad acquisition, integration, regulatory, financing, and profitability risks. Complexity and repeated corporate-structure descriptions somewhat reduce readability, while the excerpt’s truncation limits assessment of the full discussion."
+}

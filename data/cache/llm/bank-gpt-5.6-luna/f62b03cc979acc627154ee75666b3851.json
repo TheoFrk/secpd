@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "macro uncertainty",
+    "management estimates and judgments",
+    "could be material",
+    "adjusting for these items"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, including sales declines, cash flows, buybacks, dividends, impairment, and self-insurance exposures. Risk is framed as manageable despite weaker DIY demand, macroeconomic uncertainty, commodity deflation, and reliance on forecast assumptions. Non-GAAP adjustments and extensive estimates may somewhat soften comparability and obscure downside sensitivity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not expected to be able to make such payments",
+    "considering a number of financing alternatives",
+    "subject to extension by written agreement",
+    "certain actions including the sale of assets",
+    "partially offset by"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but it identifies material refinancing and liquidity risk at TRIP Leasing, including a potential inability to meet required quarterly debt repayments and possible asset sales. Business exposure to cyclical markets, weak demand, floating-rate debt, and prior impairment charges adds downside risk. The excerpt ends mid-sentence, limiting assessment of management’s proposed mitigation and ultimate resolution."
+}

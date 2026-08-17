@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management is hopeful",
+    "when the opportunity arises",
+    "subjective estimates and approximations",
+    "actual results could differ",
+    "anticipated new products"
+  ],
+  "risk_summary": "The excerpt is generally quantified and transparent, with detailed liquidity, operating, investment, and related-party disclosures. Key risks include declining sales, housing-industry exposure, increased inventory, reliance on investment income, and subjective inventory reserve estimates. The tone remains confident and optimistic despite weaker operating results and dependence on marketable securities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "expressly disclaims any obligation",
+    "estimates subject to uncertainties",
+    "smaller reporting company omissions"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized disclaimer and accounting-policy language, including broad qualifications around forecasts and estimates. Despite this, the liquidity and working-capital discussion provides useful quantified year-over-year changes, though COVID-19 exposure, inventory valuation, receivables collectability, and omitted smaller-reporting-company disclosures remain relevant risks."
+}

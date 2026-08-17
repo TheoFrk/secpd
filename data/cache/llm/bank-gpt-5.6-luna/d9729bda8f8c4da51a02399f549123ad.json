@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "management believes",
+    "expected to total",
+    "not comparable to other companies",
+    "truncated and garbled excerpt"
+  ],
+  "risk_summary": "The excerpt is highly technical and detailed, with substantial quantitative disclosure on financial metrics, broadband lending, liquidity goals, and credit-risk indicators. Risk tone is generally stable and confident, but reliance on non-GAAP measures, derivative accounting, projected broadband spending, and industry pressures introduces uncertainty. Formatting corruption and extensive boilerplate reduce clarity and may obscure the most decision-relevant information."
+}

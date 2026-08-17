@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.9,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.28,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "no substantive MD&A",
+    "redirect to annual report"
+  ],
+  "risk_summary": "The excerpt provides no substantive discussion of financial condition or operating results and instead redirects readers to another document. This limits transparency and prevents assessment of company-specific risks from the excerpt alone."
+}

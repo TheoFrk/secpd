@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily",
+    "partially offset",
+    "other unusual charges",
+    "foreseeable future",
+    "table truncated"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, with segment-level explanations of sales, margins, costs, debt, covenants, and liquidity. Risk factors include raw-material inflation, adverse weather, lower volumes, restructuring and investigation-related charges, prior goodwill impairment, and reliance on expected operating cash flow, but the overall tone is improving and moderately confident."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various stages of development",
+    "expected nominal production capacity",
+    "subject to certain conditions",
+    "customary covenants",
+    "adequate financial resources"
+  ],
+  "risk_summary": "The excerpt is highly detailed and frequently quantified, but relies on forward-looking terms such as \"expected,\" \"currently,\" and \"subject to\" for project timing, capacity, financing, and liquidity. The tone is cautiously confident, while the extensive project-development pipeline, substantial debt financing, covenant restrictions, and dependence on operating cash flows present meaningful execution and refinancing risks."
+}

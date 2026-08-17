@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance of continued funding",
+    "entirely dependent upon Dr. Burzynski",
+    "would be required to cease operations",
+    "clinical trial currently on hold",
+    "may not be available on acceptable terms"
+  ],
+  "risk_summary": "The company has no significant revenue, relies entirely on a single related-party funder, and states that operations and clinical trials could cease if that funding stops. Clinical development is delayed or constrained, with one trial on hold and future studies contingent on funding. Although expenses and losses are quantified, the disclosure highlights substantial liquidity, funding concentration, regulatory, and going-concern risks."
+}

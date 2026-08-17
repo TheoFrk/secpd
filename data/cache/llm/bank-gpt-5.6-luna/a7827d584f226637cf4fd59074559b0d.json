@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "future adjustments could be necessary",
+    "qualitative reserves",
+    "subject to judgment",
+    "information available is limited and rapidly changing",
+    "material effect on results and financial condition"
+  ],
+  "risk_summary": "The disclosure is generally substantive and includes quantified financial information, defined methodologies, and explicit discussion of loan-loss and securities-valuation risks. However, reliance on qualitative reserves, uncertain assumptions, fair-value estimates, and regulatory judgment introduces meaningful estimation risk, particularly under adverse economic conditions. Overall tone is balanced and mildly cautious rather than crisis-like."
+}

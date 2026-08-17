@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "based on modeling performed",
+    "typically",
+    "normally provides performance guarantees",
+    "operational inputs are accurate",
+    "ongoing operational improvement initiatives"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified disclosures, but relies on estimates, customer-provided operating inputs, and management judgments in revenue recognition and performance guarantees. Risk signals include loss-making contracts, asset abandonment, restructuring, and suspension of the China APC operation, although the tone remains largely explanatory rather than crisis-like."
+}

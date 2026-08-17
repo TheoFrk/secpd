@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could cause actual results to differ materially",
+    "subjective assumptions",
+    "if implementation is delayed",
+    "uncertainty regarding future realization"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail, including customer deployments, revenue changes, and expense movements, but contains extensive standard forward-looking disclaimers and conditional risk language. Key risks include declining software-license revenue, customer and product concentration, lengthy implementation cycles, competition, and uncertainty around deferred tax asset realization. Overall tone is cautious and moderately negative, though not crisis-like."
+}

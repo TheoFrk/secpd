@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "adjusted to exclude impairment charges",
+    "not readily marketable",
+    "significant management judgment",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is comparatively precise and heavily quantified, but presents material deterioration, including an 18% sales decline, margin compression, impairments, customer credit losses, dividend reduction, and a $300 million debt maturity. Liquidity appears supportive with $1.413 billion of cash and investments, although valuation uncertainty, concentrated customer exposure, market weakness, and refinancing risk remain significant."
+}

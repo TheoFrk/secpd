@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "expected to reduce delivery costs",
+    "competitive with peers",
+    "non-GAAP measures",
+    "strategic investments"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward non-GAAP explanations and promotional strategic language, with limited direct discussion of adverse developments. Quantified disclosures include a 7-basis-point NIM decline and a 19% increase in criticized and classified loans, indicating emerging asset-quality and margin pressure. The overall tone remains confident, but forward-looking claims and extensive boilerplate reduce transparency."
+}

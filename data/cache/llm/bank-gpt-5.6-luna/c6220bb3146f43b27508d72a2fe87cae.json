@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.75,
+  "risk_sentiment": -0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant uncertainty concerning magnitude and duration",
+    "may not be able to accurately predict",
+    "if financing may be available, if at all",
+    "numerous evolving factors",
+    "limitations on ability to pay"
+  ],
+  "risk_summary": "The disclosure presents meaningful pandemic-related risks to sales, customer retention, collections, operating costs, and liquidity, while noting quantified cash, debt, and revolver availability. Risk language is extensive and partly repetitive, with reliance on broad contingencies and limited quantification of projected financial impacts. The company retains access to a $10 million revolver, but substantial debt maturities and potential capital-market access constraints remain notable concerns."
+}

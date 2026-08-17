@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "many factors beyond our control",
+    "etc.",
+    "unaudited results and future adjustments"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking disclaimers and broad, non-quantified risk factors, including capital access, execution, partner performance, regulation, and economic conditions. It also identifies estimation uncertainty in equity-method results and potential future adjustments, although portions of the business strategy and segment results are quantified."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.52,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to numerous assumptions",
+    "actual results may differ materially",
+    "estimates and assumptions",
+    "other economic and environmental factors",
+    "historical loss percentages"
+  ],
+  "risk_summary": "The disclosure is highly quantitative and presents improving profitability, liquidity, capital, and asset-quality metrics, supporting a generally confident risk tone. Main risks relate to interest-rate pressure, loan-loss estimation uncertainty, regulatory and economic conditions, and the FDIC-assisted acquisition, although management characterizes the acquisition as immaterial."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.27,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "including but not limited to",
+    "primarily due to",
+    "non-GAAP measure",
+    "improving economic conditions"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with revenue, profitability, cash flow, utilization, capacity, and segment-driver metrics provided. Risk tone is positive, although performance depends on industrial activity, energy markets, pricing, project volumes, acquisitions, foreign exchange, and potentially nonrecurring emergency-response activity. Non-GAAP measures and promotional market-leadership claims warrant reconciliation and independent verification."
+}

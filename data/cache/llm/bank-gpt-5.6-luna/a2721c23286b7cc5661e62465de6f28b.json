@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "difficult to predict",
+    "beyond the control of the Company",
+    "could differ materially",
+    "other risks described in Item 1A"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified historical results and acquisition details, but reports weaker sales, gross profit, and net income driven by COVID-19 and includes extensive uncertainty language. Risk exposure is elevated due to pandemic effects, customer and aerospace concentration, integration challenges, financing dependence, and compliance with debt obligations; liquidity discussion is truncated."
+}

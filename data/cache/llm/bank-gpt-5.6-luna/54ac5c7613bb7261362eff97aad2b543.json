@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "Underlying results exclude notable items",
+    "do not place undue reliance",
+    "broad range of products and services",
+    "driven by macroeconomic environment and interest rates",
+    "credit exposure has been double counted"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, but emphasizes adjusted Underlying results and includes extensive non-GAAP caveats that may frame weaker GAAP performance more favorably. Credit risk indicators worsened materially, including higher criticized commercial balances and increased commercial real estate exposure linked to interest rates and return-to-office dynamics. Overall tone is factual and moderately cautious rather than crisis-like."
+}

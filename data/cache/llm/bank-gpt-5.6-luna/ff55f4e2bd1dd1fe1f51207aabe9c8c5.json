@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "not exhaustive",
+    "could materially and adversely affect",
+    "significant judgment and estimates",
+    "to the extent we are able"
+  ],
+  "risk_summary": "The disclosure identifies substantial exposure to demand uncertainty, construction delays, commodity inflation, fixed-price contracts, tax estimates, pensions, self-insurance, and the COVID-19 pandemic. It provides limited quantitative sensitivity or scenario analysis, relying heavily on standard forward-looking disclaimers and conditional language. Management remains cautiously optimistic about recovery and long-term operational improvements, but near-term margin pressure is explicitly acknowledged."
+}

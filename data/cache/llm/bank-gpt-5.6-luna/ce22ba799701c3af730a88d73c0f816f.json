@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "materially adversely impact",
+    "significant judgment is required",
+    "various hypothetical revisions",
+    "not currently required or anticipated"
+  ],
+  "risk_summary": "The excerpt presents substantial exposure to actuarial, investment, reinsurance, credit, catastrophe, and regulatory risks, with outcomes dependent on largely judgment-based assumptions. Disclosures are technically detailed but rely heavily on conditional language and generic adverse-impact caveats, while quantitative sensitivity information is referenced but largely absent from the provided text."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.23,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP adjustments",
+    "expected record performance",
+    "general corporate purposes",
+    "various innovation projects",
+    "ordinary course regulatory reviews"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with detailed segment, revenue, profit, debt, and cash-flow disclosures. Risk tone is moderately positive due to projected growth, but notable concerns include declining operating cash flow, a substantial increase in total debt, regulatory exposure, and reliance on adjusted performance measures. Some boilerplate and optimistic forward-looking language reduce transparency modestly."
+}

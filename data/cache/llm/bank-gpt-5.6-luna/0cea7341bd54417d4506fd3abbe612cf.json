@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "does not undertake any obligation to update",
+    "adjusted financial measures not GAAP",
+    "significant estimates and management assumptions",
+    "inventory not valued due to uncertainty over salability"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating information, but relies on extensive forward-looking disclaimers, non-GAAP measures, and management judgments. Risk is moderate: sales grew, but earnings were flat and disclosures identify acquisition-related costs, investment impairments, inventory valuation uncertainty, and material unvalued inventory."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "no assurance can be given",
+    "foreseeable future",
+    "subject to the authority",
+    "range of possible outcomes",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt describes severe and ongoing financial distress, including prior Chapter 11 bankruptcy, restricted liquidity, inability to write new business, rehabilitation proceedings, and active runoff of operations. It explicitly states that dividend payments are highly unlikely and that the value of the securities is speculative. Significant estimation uncertainty around loss reserves, valuations, recoveries, and long-dated student-loan exposures further elevates risk."
+}

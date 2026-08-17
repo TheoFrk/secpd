@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "could experience fluctuation, volatility and declines",
+    "various factors",
+    "same reasons discussed above",
+    "offset by lower operating expenses"
+  ],
+  "risk_summary": "The disclosure is generally precise and well quantified, but reports material deterioration: assets under management fell 16.4%, net outflows reached $6.3 billion, revenue declined 15.2%, and operating income declined 38.5%. Risk is concentrated in investment-market volatility, client outflows, fee-rate pressure, and a sharply higher effective tax rate. Some repeated causal language and broad forward-looking market-risk statements modestly reduce clarity."
+}

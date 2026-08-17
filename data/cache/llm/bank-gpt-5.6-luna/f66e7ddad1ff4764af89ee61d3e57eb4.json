@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "highly uncertain and cannot be predicted",
+    "may materially and adversely affect",
+    "expected to normalize",
+    "require additional funding"
+  ],
+  "risk_summary": "The company reports severe operating deterioration, including a 75.2% revenue decline, continuing net losses, pandemic-related disruption, and potential liquidity pressure requiring additional funding. Management presents an optimistic Smart Mirror and e-commerce growth plan, but relies heavily on uncertain forecasts and unquantified execution assumptions."
+}

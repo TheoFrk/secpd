@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "currently expect",
+    "we believe",
+    "may report",
+    "among other items",
+    "intended to"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with clear explanations of year-over-year drivers, debt changes, impairments, and litigation-related costs. Risk tone is cautiously positive, although forward-looking statements rely on expectations regarding interest expense, asset sales, capital expenditures, operating performance, and growth initiatives. Long, highly nested sentences and standard MD&A phrasing reduce readability but do not appear materially evasive."
+}

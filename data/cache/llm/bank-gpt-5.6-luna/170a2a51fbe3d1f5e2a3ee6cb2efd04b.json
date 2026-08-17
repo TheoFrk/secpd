@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "acceptable alternative methods",
+    "others might reach different conclusions",
+    "relatively short-term forecasting",
+    "if an event occurs or circumstances change",
+    "additional information regarding"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, including debt, receivables, inventory reserves, tax rates, and contractual obligations. Key credit risks include substantial senior unsecured debt, significant unfinished-contract revenue estimates, goodwill impairment sensitivity, and dependence on forecasts and assumptions. The tone is moderately confident, supported by covenant compliance and available revolver capacity, but the excerpt is truncated and contains extensive technical and conditional language."
+}

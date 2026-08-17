@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.24,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "Underlying results exclude certain items",
+    "not indicative of our on-going financial performance",
+    "may not be comparable",
+    "continued impacts of interest rates",
+    "return-to-office dynamics"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear year-over-year performance and credit-quality metrics, but relies on non-GAAP “Underlying” measures that may present a more favorable view than GAAP results. Risk indicators include declining net interest income and profitability, higher retail and commercial net charge-offs, and continued office and multifamily CRE stress, although criticized balances declined and most CRE loans remained current."
+}

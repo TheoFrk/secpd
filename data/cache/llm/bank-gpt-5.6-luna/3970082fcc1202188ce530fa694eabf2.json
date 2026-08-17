@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "intervening events may affect",
+    "we believe",
+    "not more likely than not",
+    "qualitative factors and significant estimates",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure, but it also relies on optimistic corporate language and estimates around revenue recognition, impairment testing, and future cost savings. Revenue declined, recurring contract value had fallen for several quarters, and the company reduced its workforce, indicating operating pressure despite an improved fourth quarter. The excerpt is truncated and includes limited detail on liquidity and credit-facility compliance, reducing transparency on downside risks."
+}

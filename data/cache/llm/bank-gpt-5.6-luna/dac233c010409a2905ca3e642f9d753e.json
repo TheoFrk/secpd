@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and factors",
+    "no obligation to update",
+    "inherently subjective",
+    "certain inherent but undetected losses",
+    "could differ from original estimate"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and legal disclaimer language, with limited quantified sensitivity analysis around key credit and valuation assumptions. Loan-loss and OREO estimates are explicitly subjective and exposed to economic, collateral, and customer-specific volatility, although reported earnings and lower provisions indicate an improving near-term performance trend."
+}

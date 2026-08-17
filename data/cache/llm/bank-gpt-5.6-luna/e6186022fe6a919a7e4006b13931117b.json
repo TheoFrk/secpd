@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "no assurance expectations will be achieved",
+    "risks include but are not limited to",
+    "we believe and fully expect",
+    "non-GAAP NOI limitations"
+  ],
+  "risk_summary": "The disclosure is materially quantified and presents strong leasing, development, capital-raising, and debt-refinancing performance, supporting a moderately positive tone. Key risks include weak Regional Office demand, significant 2023 lease expirations, dependence on defense-related spending, development and financing risks, and extensive forward-looking statement disclaimers. The text is dense and includes substantial boilerplate risk language, but it also provides useful segment-level operating metrics."
+}

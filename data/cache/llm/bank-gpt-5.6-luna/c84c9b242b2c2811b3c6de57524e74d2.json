@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt regarding our ability to continue as a going concern",
+    "if possible and available",
+    "no assurances ... acceptable terms, or at all",
+    "mainly due to",
+    "has not yet assessed that ... material effect"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified for operating performance and liquidity, but repeats substantial portions of the MD&A and uses qualified explanations for several drivers. Recurring historical losses, an accumulated deficit of $68.4 million, dependence on potential financing, and explicit substantial doubt about going-concern status indicate elevated liquidity and refinancing risk despite improved 2023 cash flow and profitability."
+}

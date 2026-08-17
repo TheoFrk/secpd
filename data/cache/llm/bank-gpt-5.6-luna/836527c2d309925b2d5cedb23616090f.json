@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.64,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "duration of impacts cannot be estimated",
+    "could have a material adverse effect",
+    "we believe",
+    "continued uncertainty",
+    "potential impacts"
+  ],
+  "risk_summary": "The disclosure provides useful quantitative market forecasts and operating percentages, but includes substantial boilerplate and forward-looking uncertainty around COVID-19, supply-chain disruptions, labor shortages, inflation, and regulatory developments. The tone is cautiously constructive regarding market demand and backlog, though the 2021 results show weak profitability, with income before taxes and net income at only 0.1% of sales."
+}

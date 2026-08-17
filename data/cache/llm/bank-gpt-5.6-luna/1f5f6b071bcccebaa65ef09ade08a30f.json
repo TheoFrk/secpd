@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "based on a variety of assumptions",
+    "lack of meaningful comparability",
+    "material impact",
+    "constantly changing mix"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified growth in revenue, net income, backlog, and community count, producing a generally positive risk tone. Key risks relate to housing-market variability, slowing order growth, changing geographic and product mix, and significant estimates in real estate costs and impairment accounting. Comparability limitations and reliance on future-cost assumptions reduce transparency somewhat, although the disclosure is detailed overall."
+}

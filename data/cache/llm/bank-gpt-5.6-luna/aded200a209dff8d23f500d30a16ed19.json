@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "adequate to fund current level of operations",
+    "could change significantly",
+    "may be required to seek additional financing",
+    "cannot provide assurance",
+    "going concern"
+  ],
+  "risk_summary": "The company reports severe liquidity pressure, including $424,000 in cash, an $8.386 million working-capital deficit, approximately $289,000 in monthly net cash expenditures, and insufficient capital to achieve long-term goals. Continued operations depend on additional financing, royalties, and licensing receipts, with explicit disclosure that failure to obtain capital could jeopardize the business and that sustained profitability is uncertain. The disclosure is quantitatively detailed but uses material conditional language around funding adequacy and future financing needs."
+}

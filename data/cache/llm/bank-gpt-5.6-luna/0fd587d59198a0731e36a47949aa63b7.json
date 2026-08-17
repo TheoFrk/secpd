@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "moderate level of inflation",
+    "we believe",
+    "on balance, we are optimistic",
+    "adjusted net earnings",
+    "actual results could materially differ"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear segment, sales, margin, restructuring, and cash-flow information. Risk is moderate: sales and comparable-store performance declined, restructuring and impairment charges were significant, and inflation is expected to increase LIFO expense. Management maintains a cautiously positive outlook, but relies on forward-looking assumptions and adjusted earnings measures."
+}

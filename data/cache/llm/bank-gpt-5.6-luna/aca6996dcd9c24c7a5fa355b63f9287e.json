@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "substantial uncertainty and variability",
+    "not available without unreasonable effort",
+    "non-GAAP measures not comparable",
+    "situation remains fluid"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified disclosure on pandemic impacts, liquidity actions, cash flow, debt reduction, and segment performance, but includes extensive standard safe-harbor and non-GAAP caveats. COVID-19, demand declines, restructuring, impairment charges, and unquantified future reconciling items remain material risks, partially offset by reported liquidity and cost-control measures."
+}

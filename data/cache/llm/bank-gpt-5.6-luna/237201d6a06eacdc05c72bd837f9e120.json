@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "among other things",
+    "some or all facts beyond control",
+    "slowly recovering economy",
+    "continued repeated section headers"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but includes standard legal disclaimers and duplicated headers that add boilerplate. Key risks include customer and market concentration, exposure to government and military spending, rising raw-material costs, compressed pricing margins, and reliance on receivables factoring at a potentially high interest rate. Operating performance was profitable with strong reported liquidity, although sales were nearly flat and net income declined."
+}

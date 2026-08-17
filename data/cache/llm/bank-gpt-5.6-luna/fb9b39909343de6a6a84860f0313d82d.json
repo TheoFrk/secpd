@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based on estimates and judgments",
+    "believed to be reasonable",
+    "actual results may differ",
+    "primarily due to",
+    "additional information in Note 2"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively supported, explaining acquisition effects, net interest income changes, expenses, and loss-sharing arrangements. Risk is moderated by reliance on estimates, loan-loss and impairment judgments, asset-quality exposure, and references to adverse economic conditions. Repeated boilerplate and cross-references modestly reduce clarity but do not indicate overt concealment."
+}

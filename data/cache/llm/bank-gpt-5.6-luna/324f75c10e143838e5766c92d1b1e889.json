@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forecasted collection rates",
+    "subjective or complex judgment",
+    "increased levels of uncertainty",
+    "materially different financial results",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The disclosure is highly quantified and identifies material deterioration in forecasted collections, profitability, prepayments, and net income, with increased credit-loss provisions. Risk is concentrated in the subjectivity and volatility of cash-flow forecasts, including methodology changes and uncertainty around timing and recoveries. The tone is analytical rather than evasive, but the underlying credit and earnings trends are materially negative."
+}

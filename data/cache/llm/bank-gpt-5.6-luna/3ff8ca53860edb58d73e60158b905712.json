@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.71,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unable to forecast the impact",
+    "best estimates and assumptions",
+    "inherently uncertain and subject to refinement",
+    "expected future funding increases",
+    "adjusted earnings excluding multiple items"
+  ],
+  "risk_summary": "The disclosure presents strong revenue and adjusted earnings growth, liquidity access, and operational continuity, creating a generally positive tone. However, COVID-19 exposure, uncertain customer-site closures, vaccine effectiveness, supply-chain risks, investment volatility, and judgment-heavy acquisition accounting introduce meaningful uncertainty. Extensive non-GAAP adjustments and forward-looking language may reduce comparability and obscure underlying earnings volatility."
+}

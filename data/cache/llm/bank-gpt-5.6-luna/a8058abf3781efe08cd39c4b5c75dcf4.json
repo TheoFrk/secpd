@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "macro factors over which we have no control",
+    "various factors",
+    "many other factors",
+    "subjective inputs",
+    "more likely than not"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively detailed, including sales, bookings, pricing, raw-material inflation, labor constraints, supply-chain disruptions, and weather impacts. Risk is elevated by cyclical end markets, volatile input costs, production inefficiencies, customer concentration in BasX, and impairment assumptions, although record backlog and strong bookings support a cautiously constructive tone."
+}

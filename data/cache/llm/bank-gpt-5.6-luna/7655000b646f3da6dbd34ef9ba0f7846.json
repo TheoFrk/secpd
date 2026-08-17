@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management estimates and assumptions",
+    "could differ materially",
+    "highly sensitive to changes",
+    "more likely than not",
+    "non-GAAP measures not comparable"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative results and describes major credit, securities, and goodwill estimation processes, but relies heavily on technical accounting language and management judgments. Key risks include sensitivity of loan-loss reserves, OTTI, and goodwill impairment to economic assumptions and potentially limited comparability of non-GAAP measures."
+}

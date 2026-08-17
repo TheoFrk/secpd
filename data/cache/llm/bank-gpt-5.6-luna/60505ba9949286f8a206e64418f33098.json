@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.48,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial risks and uncertainties",
+    "no assurance financing will be available",
+    "cannot estimate in a meaningful way",
+    "novel and unproven technologies",
+    "uncertainty regarding future commercialization"
+  ],
+  "risk_summary": "The company reports substantial clinical, regulatory, manufacturing, financing, intellectual-property, and commercialization risks, with no therapeutic product revenue and continuing operating losses. Disclosure is detailed but heavily qualified by repeated uncertainty language and extensive forward-looking-statement disclaimers. Quantified historical revenue is provided, but future funding needs, timing, costs, and commercialization prospects remain largely indeterminate."
+}

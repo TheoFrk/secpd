@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "differ materially",
+    "does not undertake to update",
+    "difficult to predict",
+    "historical trends not necessarily reflective"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified earnings and capital improvements, with generally positive operating performance. Risk disclosure relies heavily on standard forward-looking language and broad lists of potential factors, while loan-loss provisions and charge-offs increased. Overall, the tone is cautiously positive rather than crisis-like, but the excerpt is truncated and includes substantial boilerplate."
+}

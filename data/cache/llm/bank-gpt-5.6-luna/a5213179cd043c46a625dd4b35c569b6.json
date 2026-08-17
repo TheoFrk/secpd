@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "other risks and uncertainties",
+    "unable to currently identify",
+    "no assurance",
+    "disclaims obligation to update"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standardized forward-looking-statement disclaimers and broad, largely unquantified risk categories, including regulatory, litigation, supply-chain, financing, weather, and separation risks. Extensive accounting and predecessor/successor terminology increases complexity and may hinder comparability, although the later results discussion provides some quantified cost and margin data. The tone is cautious and risk-aware rather than crisis-like."
+}

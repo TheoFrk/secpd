@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently uncertain",
+    "reasonable and supportable forecasts",
+    "may need to be increased",
+    "unable to reasonably estimate",
+    "significant changes in future periods"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and financial results, supporting relatively transparent disclosure. Key risks center on CECL model judgment, loan portfolio quality, economic forecasts, pandemic uncertainty, and potential future volatility in credit-loss reserves and earnings."
+}

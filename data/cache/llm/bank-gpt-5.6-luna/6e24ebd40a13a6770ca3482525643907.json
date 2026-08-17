@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict outcome or timing",
+    "potential effects",
+    "until implementation plans are finalized",
+    "numerous factors",
+    "subject to judicial review"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantified operational, regulatory, and financial information, but repeatedly qualifies outcomes related to litigation, environmental rules, plant viability, and customer demand. Regulatory and legal uncertainty around coal assets, Four Corners, Navajo Plant operations, and Clean Power Plan implementation creates moderate downside risk, partly mitigated by identified earnings sensitivities."
+}

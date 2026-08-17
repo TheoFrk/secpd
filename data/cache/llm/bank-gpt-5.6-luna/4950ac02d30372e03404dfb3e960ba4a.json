@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted results",
+    "not indicative of underlying economics",
+    "period-to-period volatility",
+    "economically hedge",
+    "primarily attributable to"
+  ],
+  "risk_summary": "The disclosure is highly quantified and explains the reported loss and earnings volatility, but emphasizes adjusted results to mitigate the significance of GAAP losses. Credit risk is elevated by the $151 million net loss, TIER of 0.82 versus a 1.10 goal, and debt-to-equity ratio of 19.80 versus an approximately 6.00 target. Derivative fair-value exposure and an inverted yield curve add material market and earnings volatility."
+}

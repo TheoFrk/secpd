@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "difficult to predict",
+    "does not undertake to update",
+    "historical trends not necessarily reflective"
+  ],
+  "risk_summary": "The excerpt is predominantly precise and quantitative, reporting income, margins, loan-loss provisions, balances, rates, and performance trends. Risk disclosure is largely standardized forward-looking language, with broad but unquantified references to economic, regulatory, liquidity, interest-rate, litigation, and competitive risks. Overall tone is moderately positive, supported by continued earnings and revenue growth, though expense increases and lower returns on equity are noted."
+}

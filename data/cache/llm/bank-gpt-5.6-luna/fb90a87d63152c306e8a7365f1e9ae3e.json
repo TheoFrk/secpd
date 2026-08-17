@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement safe-harbor boilerplate",
+    "risks and uncertainties cannot be predicted or quantified",
+    "cannot currently predict how long this trend will continue",
+    "cannot predict how future regulations will impact",
+    "not able to pass through all fuel price increases"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer language and several limitations on predictability, particularly regarding regulation, driver availability, freight demand, fuel prices, and surcharge recovery. Operating performance and liquidity disclosures are comparatively quantified and positive, but driver shortages, wage pressure, fuel-cost exposure, and regulatory constraints represent meaningful risks."
+}

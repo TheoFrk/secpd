@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unusual charges",
+    "expected to continue",
+    "initiatives are progressing well",
+    "remaining ERP implementation issues",
+    "excluding unusual costs"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and explains year-over-year changes, but reports declining gross profit and operating profit, higher debt-related interest expense, currency and commodity-cost pressures, and continuing ERP-related costs. Management uses adjusted results and excludes unusual costs when projecting fiscal 2013 EPS growth, which may understate recurring operational pressures."
+}

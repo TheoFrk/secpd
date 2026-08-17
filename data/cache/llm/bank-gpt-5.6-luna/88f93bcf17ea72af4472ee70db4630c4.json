@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "partially offset",
+    "modest growth outlook",
+    "should provide benefits",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is largely quantitative and provides detailed year-over-year drivers, but management emphasizes adjusted non-GAAP results and multiple offsets that may soften reported weakness. Risk tone is cautiously positive, with acknowledged exposure to slow global growth, weaker Electronics demand, restructuring costs, and the planned PUI exit."
+}

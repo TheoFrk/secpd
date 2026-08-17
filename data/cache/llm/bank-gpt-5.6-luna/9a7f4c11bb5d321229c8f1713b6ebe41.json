@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.61,
+  "risk_sentiment": -0.82,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "no assurance of continued operations",
+    "dependent on obtaining additional capital",
+    "minimal additional working capital",
+    "no formal lending commitments",
+    "forward-looking statements and uncertainties"
+  ],
+  "risk_summary": "The company has no operating revenue, recurring losses, minimal cash, and depends on short-term financing, restricted stock issuance, and related-party funding to continue operations. Management explicitly provides no assurance that it can obtain sufficient capital or continue operating without revenues or cash flows. Quantitative disclosures are comparatively detailed, but the overall financial condition indicates severe liquidity and going-concern risk."
+}

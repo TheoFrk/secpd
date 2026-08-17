@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "largely related to",
+    "partially offsetting",
+    "impact is uncertain",
+    "many uncertainties and challenges"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, highlighting strong earnings, asset growth, and capital ratios. Credit risk is rising, particularly from energy-related provisions, higher NPAs, and increased net charge-offs, while acquisitions and regulatory costs add execution and expense pressure. The tone remains cautiously positive but acknowledges material uncertainty around regulation, rates, and future performance."
+}

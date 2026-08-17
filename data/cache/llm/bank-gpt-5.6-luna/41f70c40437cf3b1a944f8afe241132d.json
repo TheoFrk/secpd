@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "no assurance financing available",
+    "estimated future cash flows",
+    "actual results may differ",
+    "material adverse effect",
+    "expected to fluctuate"
+  ],
+  "risk_summary": "The disclosure is relatively precise, with substantial operating, portfolio, occupancy, lease-term, and credit-facility quantification. Risks include tenant and geographic concentration, impairment estimation uncertainty, reliance on capital markets, and the lack of assurance that future financing will be available on acceptable terms. Overall tone is cautiously positive, supported by high occupancy and available liquidity but moderated by standard forward-looking caveats."
+}

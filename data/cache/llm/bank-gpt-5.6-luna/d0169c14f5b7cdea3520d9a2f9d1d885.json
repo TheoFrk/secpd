@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.67,
+  "redundancy_score": 0.74,
+  "complexity_score": 0.93,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "impossible to predict",
+    "may adversely impact",
+    "including but not limited to",
+    "similar expressions",
+    "risks and uncertainties"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and a broad, highly qualified list of pandemic, credit, liquidity, regulatory, operational, cybersecurity, and market risks. The subsequent MD&A provides useful quantified performance metrics, including net interest income, margins, provisions, and charge-offs, but the excerpt is truncated and offers limited direct quantification of forward-looking exposures."
+}

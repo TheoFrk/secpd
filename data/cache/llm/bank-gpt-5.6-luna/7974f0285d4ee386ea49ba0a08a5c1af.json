@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.67,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.05,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "could cause actual results to differ materially",
+    "among others",
+    "highly uncertain and cannot be predicted",
+    "does not undertake",
+    "other factors discussed"
+  ],
+  "risk_summary": "The excerpt is heavily weighted toward standard forward-looking-risk disclaimers, with broad non-quantified contingencies and extensive COVID-19 uncertainty language. Quantitative operating data are provided, but the disclosure offers limited scenario analysis or quantified sensitivity around credit losses, pandemic effects, and interest-rate risks."
+}

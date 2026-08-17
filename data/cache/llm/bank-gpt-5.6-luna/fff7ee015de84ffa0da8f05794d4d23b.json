@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "primarily due to",
+    "partially offset",
+    "percent change is not meaningful"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but includes standard forward-looking disclaimers and recurring causal qualifiers. 2022 results show moderate risk from market depreciation, negative client cash flows, client losses, lower earnings, and elevated one-time restructuring costs, partially offset by acquisitions, new clients, and performance fees."
+}

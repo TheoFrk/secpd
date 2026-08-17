@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no independent verification",
+    "no assurance estimates achieved",
+    "information received from operators",
+    "actual amounts could differ",
+    "numerous factors beyond control"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantified, but key production, reserve, pricing, and impairment assumptions rely heavily on third-party mine operators and are not independently verified. Exposure to volatile metal prices, operator estimates, reserve uncertainty, and potential asset impairments creates meaningful downside risk, although the tone remains primarily factual rather than crisis-like."
+}

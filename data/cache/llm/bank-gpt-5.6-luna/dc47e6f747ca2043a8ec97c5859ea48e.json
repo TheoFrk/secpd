@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "principally reflected",
+    "partially offset",
+    "small acquisition",
+    "estimated to have declined",
+    "unusual charges"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and explains year-over-year changes, with generally improving sales, margins, operating profit, and debt-related interest expense. Risks include declining casketed-death volumes, pension cost increases, unfavorable product mix, foreign-exchange losses, acquisition integration exposure, and reliance on estimated market data. The tone is moderately positive but includes recurring qualifiers and normalization for unusual charges."
+}

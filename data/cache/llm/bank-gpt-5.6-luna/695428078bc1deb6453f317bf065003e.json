@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "generally 80% or less",
+    "attempts to maintain",
+    "other conditions",
+    "inherent risk of lending",
+    "subject to adverse conditions"
+  ],
+  "risk_summary": "The excerpt provides useful quantified balance-sheet, earnings, funding, lending-limit, and interest-rate information, with reasonably detailed descriptions of credit controls. Risk discussion is largely standard banking disclosure and uses some broad qualifying language around underwriting, economic conditions, and commercial real estate exposure. Overall tone is operationally confident but acknowledges meaningful concentration, repayment, interest-rate, and funding risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "\"interaction of expenses with fixed-cost characteristics\"",
+    "\"primarily due to\" explanations",
+    "subjective claims estimates",
+    "future changes could have a material effect",
+    "truncated and corrupted disclosure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including revenue, rates, expense ratios, operating ratios, and claims sensitivity. Risk factors include fuel and labor costs, higher insurance and accident reserves, self-insured claims exposure, and estimation uncertainty, although the improved operating ratio and revenue growth create a moderately positive tone. The excerpt contains substantial technical jargon and some boilerplate, plus a truncated passage that limits completeness."
+}

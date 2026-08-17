@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.56,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "foreseeable future",
+    "unless otherwise noted",
+    "may discontinue at any time"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, including liquidity, credit availability, capital expenditures, store counts, and discontinued operations. Its tone is confident and growth-oriented, though some strategic and dividend statements rely on forward-looking expectations and broad management assertions. Liquidity risk appears limited at the disclosed date, with no borrowings and substantial excess availability."
+}

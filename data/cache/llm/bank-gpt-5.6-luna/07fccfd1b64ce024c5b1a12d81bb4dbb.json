@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "Actual results could differ",
+    "may be adjusted",
+    "if warranted",
+    "number of factors",
+    "truncated disclosure/table"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and segment data, including revenue growth and margin changes, but relies on standard estimates, assumptions, and broad causal explanations. Growth is positive, though declining gross margins—especially in Services—and sensitivity to discretionary spending, inventory, receivables, and impairment estimates represent notable risks. The excerpt is incomplete and contains boilerplate accounting-policy language, limiting assessment of the full risk picture."
+}

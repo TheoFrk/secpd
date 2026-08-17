@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.14,
+  "redundancy_score": 0.13,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "actual results could be materially different",
+    "non-GAAP financial measures",
+    "excluding MediaAlpha",
+    "adjusted combined ratio"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides extensive operating, capital, investment, and insurance metrics, reducing overall vagueness. Risk exposure remains meaningful through MediaAlpha volatility, catastrophe losses, rising-rate investment losses, and reliance on adjusted or non-GAAP measures, although the overall tone is financially confident due to improved book value, underwriting results, and capital resources."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurances that those steps will continue",
+    "cannot estimate the extent of such impact",
+    "subject to scheduling changes on short notice",
+    "rapidly changing circumstances",
+    "foreseeable future"
+  ],
+  "risk_summary": "The disclosure identifies meaningful operational risks from demand volatility, customer concentration, supply-chain disruption, pandemic effects, and margin variability, while quantifying several capital commitments and liquidity needs. Management maintains a generally confident tone regarding liquidity and continuity of operations, but uses material uncertainty language around the timing and magnitude of potential impacts."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.63,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict impact",
+    "may be unable to fully mitigate",
+    "known or unknown risks and uncertainties",
+    "if successful, could generate additional opportunities",
+    "generally predictable but subject to volatility"
+  ],
+  "risk_summary": "The excerpt provides substantial business and operating detail but relies heavily on standard forward-looking disclaimers and conditional language. Key risks include cyclical demand, weather and project timing, pricing pressure, fixed-price contract overruns, customer capital access, regulatory changes, and oil-price exposure, partly offset by management's discussion of backlog and expected infrastructure demand."
+}

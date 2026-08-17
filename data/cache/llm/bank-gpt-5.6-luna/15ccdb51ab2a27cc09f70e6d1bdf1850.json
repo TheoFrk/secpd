@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cautious due to uncertainty",
+    "organic growth excludes acquisitions and divestitures",
+    "adjusted for restructuring and other charges",
+    "general corporate purposes",
+    "long-term, sustainable growth"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed segment, operating, acquisition, divestiture, debt, and covenant information, limiting material vagueness. Risk tone is cautiously constructive: organic sales declined 1%, margins compressed, and the company cites global uncertainty, but leverage and interest coverage remain well within stated covenant limits."
+}

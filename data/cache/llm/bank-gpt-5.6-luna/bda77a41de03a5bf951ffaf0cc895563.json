@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "substantially the same",
+    "primarily due to",
+    "partially offset",
+    "unless otherwise noted",
+    "decentralized basis"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantitatively specific, but its dense organizational structure and recurring attribution language make risk interpretation difficult. Investment performance was materially adverse, including an 18.0% fund loss and a $760 million loss contribution in 2015, although operational metrics and explanations are presented in a controlled, matter-of-fact tone."
+}

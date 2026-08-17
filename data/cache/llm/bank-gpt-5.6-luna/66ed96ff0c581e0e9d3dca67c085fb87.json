@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "including, but not limited to",
+    "primarily due to",
+    "best estimate of selling price",
+    "actual results may differ"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes useful revenue-mix and tax figures, but contains substantial standard forward-looking disclaimers and accounting-policy boilerplate. Risk is mainly tied to semiconductor capital spending, customer acceptance criteria, estimates, foreign-currency movements, and tax volatility; the overall tone remains mildly confident rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "may have a material adverse effect",
+    "no assurance that additional financing will be available",
+    "estimated future cash flows",
+    "management evaluates its estimates and assumptions",
+    "forward-looking disclaimer language"
+  ],
+  "risk_summary": "The disclosure is generally specific and supported by operating metrics, including 99% occupancy, portfolio size, lease duration, and available credit capacity. Risk is moderated by tenant and geographic concentration, reliance on estimated impairment and accounting assumptions, and uncertainty around future financing availability. Overall tone is cautiously confident, emphasizing stable operations and investment-grade capital management while acknowledging material downside scenarios."
+}

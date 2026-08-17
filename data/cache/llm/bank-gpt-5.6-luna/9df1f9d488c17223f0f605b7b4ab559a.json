@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherently uncertain estimates",
+    "may affect accuracy or validity",
+    "expect trend to continue",
+    "significant portion from few customers",
+    "industry analyst forecasts"
+  ],
+  "risk_summary": "The excerpt is generally specific and transparent, with extensive revenue, cash flow, customer concentration, and year-over-year figures. Key risks include semiconductor cyclicality, customer concentration, acquisition-related accounting estimates, inventory obsolescence, and reliance on forward-looking industry forecasts. The overall tone is moderately confident but acknowledges meaningful estimation and market risks."
+}

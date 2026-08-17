@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "approximately",
+    "expected to",
+    "anticipated",
+    "primarily due to",
+    "low single digit range"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with clear discussion of sales, margins, costs, taxes, cash flow, and pension assumptions. The tone is cautiously positive, but forecasts rely on acquisition execution, productivity gains, material-cost management, and uncertain end-market conditions. Repetition around productivity and cost drivers modestly reduces conciseness."
+}

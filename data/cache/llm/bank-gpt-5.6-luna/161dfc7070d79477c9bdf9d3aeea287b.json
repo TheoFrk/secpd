@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor risk-factor boilerplate",
+    "results may differ materially",
+    "historical trends and other analysis",
+    "best information available",
+    "primarily reflecting"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with year-over-year segment, margin, expense, and earnings data. Risk disclosure is broad and largely boilerplate, while Housewares/Small Appliance weakness, reliance on defense contracts, claims exposure, impairment estimates, and discontinued operations create meaningful risks. Overall tone is cautiously positive because consolidated earnings improved despite lower sales and continuing-operations earnings."
+}

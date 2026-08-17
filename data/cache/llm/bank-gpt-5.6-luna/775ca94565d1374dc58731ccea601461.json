@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "beyond our control",
+    "assumes no obligation to update",
+    "primarily the result of"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and broad, largely unquantified risk factors. Material concerns include a $380.1 million net impairment tied to the Water Transport exit, a subsequent $13.0 million warranty charge, and exposure to acquisitions, restructuring, market volatility, and litigation. Operating commentary is difficult to evaluate because key revenue and margin drivers are omitted or truncated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance on favorable terms",
+    "may be required to refinance or dispose of properties",
+    "generally",
+    "anticipated capital expenditures",
+    "non-GAAP station operating income"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including revenue concentration, cash flows, debt obligations, capital expenditures, and dividend funding. Key risks include dependence on advertising and several major markets, technological disruption, refinancing or asset-sale needs if cash flow is insufficient, and reliance on non-GAAP operating metrics. Overall tone is cautiously stable rather than crisis-like, but includes meaningful liquidity and operating downside contingencies."
+}

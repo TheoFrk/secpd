@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "future results may not be consistent with prior trends",
+    "effectively subordinated",
+    "certain exceptions",
+    "unless the context otherwise requires",
+    "truncated and repeated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, including investment losses, debt issuance, maturities, and collateral-ranking terms. Risk is elevated by a 15.4% investment-fund loss, substantial unsecured debt, market-exposure variability, and structural subordination, although the tone remains largely factual rather than crisis-like."
+}

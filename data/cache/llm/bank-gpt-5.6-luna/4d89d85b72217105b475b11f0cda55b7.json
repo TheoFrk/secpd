@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "broad array of products",
+    "customary closing conditions",
+    "several factors",
+    "significant impact",
+    "estimated redemption value"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitative, reporting substantial declines in net income, sales, assets under management, and net flows. Risk is driven primarily by market performance and client outflows, while diversification and acquisitions are presented as mitigating factors. Extensive product descriptions, accounting definitions, and boilerplate qualification language reduce focus but do not appear materially evasive."
+}

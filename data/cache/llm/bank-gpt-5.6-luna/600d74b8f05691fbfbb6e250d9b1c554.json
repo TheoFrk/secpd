@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "reasonable methodology",
+    "not expected to be significant",
+    "significant capacity expansion",
+    "attempt to mitigate"
+  ],
+  "risk_summary": "The disclosure is generally detailed and operationally specific, but includes standard forward-looking disclaimers and several qualitative assertions without quantified impacts. Key risks include COVID-19 disruption, inflation in raw materials and freight, cost pass-through timing, margin volatility, and execution risk from ERP and capacity expansion projects."
+}

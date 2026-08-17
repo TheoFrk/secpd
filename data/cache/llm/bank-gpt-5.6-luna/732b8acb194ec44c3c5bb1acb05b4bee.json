@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "based on management’s evaluation",
+    "may result in larger than anticipated write-downs",
+    "reasonably assured",
+    "relatively small number of customers",
+    "dependent upon profitable operations"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but relies on management judgment for impairment, returns, doubtful accounts, and inventory valuation. Key risks include customer concentration, potential credit losses, demand-driven inventory write-downs, supplier regulatory disruptions, and dependence on profitable operations for long-term liquidity."
+}

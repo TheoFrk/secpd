@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "safe-harbor forward-looking language",
+    "subject to significant risks and uncertainties",
+    "other factors affecting operations",
+    "no obligation to update",
+    "expected to more than offset"
+  ],
+  "risk_summary": "The excerpt presents quantified liquidity, earnings, capital, and funding information, including substantial FHLB availability, but relies heavily on standard forward-looking disclaimers and broad, non-quantified risk factors. Management adopts a generally confident tone regarding growth, liquidity, and earnings despite acknowledging net interest margin compression, deposit and funding risks, credit quality uncertainty, and regulatory exposure."
+}

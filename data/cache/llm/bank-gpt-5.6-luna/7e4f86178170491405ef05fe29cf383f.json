@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could cause actual results to differ materially",
+    "primarily due to",
+    "we do not believe material",
+    "various factors"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating profile, with quantified revenue, earnings, cash-flow growth, customer scale, and acquisition details. Risk disclosure is largely standard forward-looking boilerplate, while the truncated discussion limits assessment of liquidity, acquisition integration, and other downside exposures."
+}

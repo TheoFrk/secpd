@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "primarily due to",
+    "approximately",
+    "relatively consistent",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with explanations for major expense changes and clinical-development spending. Risk tone is neutral to mildly negative because it references suspended product development, prior trial stoppage, impairment, and ongoing clinical-trial execution risk. Boilerplate forward-looking language and frequent qualifiers modestly limit clarity."
+}

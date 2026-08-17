@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ",
+    "historical experience and assumptions",
+    "long-term projections",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is largely standard MD&A and critical-accounting-estimate boilerplate, with some useful revenue percentages and quantified operating data. It identifies estimation, impairment, collectability, warranty, inventory, and foreign-currency risks but generally relies on historical performance and management judgments rather than detailed sensitivity analysis. The tone is cautiously neutral to mildly confident, although the provided text is truncated and may omit material context."
+}

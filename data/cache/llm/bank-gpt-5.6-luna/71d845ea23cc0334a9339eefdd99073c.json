@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.55,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management believes",
+    "disciplined approach",
+    "satisfactory financial return",
+    "non-GAAP measures",
+    "commercial real estate concentration"
+  ],
+  "risk_summary": "The excerpt presents a generally confident and favorable operating narrative, supported by substantial quantitative metrics on earnings, capital, deposits, and loan growth. Potential risk areas include meaningful commercial real estate and construction exposure, acquisition-related effects, interest-rate sensitivity, and reliance on management-defined non-GAAP measures. The outlook section is incomplete, limiting assessment of forward-looking risks and targets."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties not exclusive",
+    "no obligation to update",
+    "may emerge from time to time",
+    "not place undue reliance"
+  ],
+  "risk_summary": "The disclosure contains substantial standard forward-looking-statement disclaimers and broad, non-exhaustive risk language, which limits accountability for projections. However, the MD&A also provides meaningful quantified operating results and identifies specific demand pressures, including constrained infrastructure funding, project delays, and lower sales. Overall tone is cautiously positive, supported by growth and margin improvement but moderated by macroeconomic and execution risks."
+}

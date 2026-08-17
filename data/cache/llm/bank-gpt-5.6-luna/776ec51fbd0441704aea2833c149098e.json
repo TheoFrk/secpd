@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "depends on customers’ willingness",
+    "difficult to predict",
+    "weak consumer environment",
+    "subject to seasonal influences"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and transparent regarding sales, margins, cash, debt, and shareholder returns, but it highlights declining retail sales, lower gross margins, inflation, rising interest costs, and consumer sensitivity to price increases. Forward-looking impacts, particularly from economic conditions and the transition to the Citi credit-card program, remain difficult to estimate and are described with conditional language."
+}

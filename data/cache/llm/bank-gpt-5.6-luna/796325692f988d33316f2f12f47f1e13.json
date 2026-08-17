@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks and uncertainties",
+    "cannot be relied upon as a guarantee",
+    "no obligation to update",
+    "subject to geopolitical factors"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking language and broad disclaimers that limit reliance on projections. Operating data and impairment impacts are quantified, but the 2025 outlook remains highly conditional on Red Sea normalization, geopolitics, supply-chain conditions, and macroeconomic trends. Overall tone is cautiously neutral, with identifiable external and segment-specific risks rather than crisis-level distress."
+}

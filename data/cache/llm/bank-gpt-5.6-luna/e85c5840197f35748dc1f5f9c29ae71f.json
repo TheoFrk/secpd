@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "not necessarily indicative of future results",
+    "no list of assumptions, risks, or uncertainties could be complete",
+    "unparalleled customer experience",
+    "continue to evaluate and invest"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, balance-sheet, capital, and earnings data, but is surrounded by extensive standardized forward-looking disclaimers and aspirational strategic language. Risk tone is cautiously positive, although the 9.9% decline in net income, lower EPS, unfavorable rate variance, and low-rate environment indicate meaningful profitability pressure."
+}

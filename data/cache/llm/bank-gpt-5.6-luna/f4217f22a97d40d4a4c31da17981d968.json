@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "rapidly changing variables",
+    "cannot reasonably estimate",
+    "for the foreseeable future",
+    "we believe",
+    "actual results could differ materially"
+  ],
+  "risk_summary": "The disclosure is generally quantified and transparent about revenue, earnings, segment performance, COVID-19 impacts, and cost pressures. Risk tone is moderately negative due to declining aerospace revenue, margin deterioration, pandemic uncertainty, and potential inflationary pressure, although management emphasizes liquidity and resilience. Some boilerplate and forward-looking uncertainty language limits precision regarding the duration and magnitude of adverse effects."
+}

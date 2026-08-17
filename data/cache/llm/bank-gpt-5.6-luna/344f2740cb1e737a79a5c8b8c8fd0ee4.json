@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.48,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "impact cannot be determined at this time",
+    "may be implemented in the future",
+    "if any",
+    "could result in",
+    "strategic review and turnaround plan"
+  ],
+  "risk_summary": "The disclosure is relatively quantitative regarding losses, restructuring charges, cost savings, and debt maturities, but significant uncertainties remain around tariffs, consumer demand, cybersecurity, inventory, and execution of the turnaround plan. Persistent operating losses, planned store closures, asset monetization efforts, and upcoming 2026 debt maturities indicate elevated liquidity and execution risk despite reported cost improvements."
+}

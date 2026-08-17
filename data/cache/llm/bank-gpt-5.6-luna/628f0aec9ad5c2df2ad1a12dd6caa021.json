@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.47,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "requires significant judgment",
+    "actual results may differ",
+    "due to uncertainties relating to future cash flows",
+    "remain in default and impaired",
+    "estimated fair value of collateral"
+  ],
+  "risk_summary": "The excerpt is largely conventional MD&A and critical-accounting-policy disclosure, with substantial quantified detail but frequent reliance on estimates, assumptions, and forward-looking caveats. Material risk signals include defaulted and impaired notes receivable, uncertain collateral cash flows, contract-cost estimation risk, and liquidation of the equity portfolio to support working capital."
+}

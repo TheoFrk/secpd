@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes adequate liquidity",
+    "expects to continue",
+    "amounts involved may be material",
+    "non-GAAP reconciliation",
+    "promotional brand descriptions"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, but includes substantial promotional and boilerplate business descriptions. Key risks include declining sales and comparable-store sales, margin pressure, vendor concentration, and dependence on future operating cash flow, partly offset by improved profitability and stated liquidity resources."
+}

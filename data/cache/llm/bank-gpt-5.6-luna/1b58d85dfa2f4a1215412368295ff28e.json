@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.29,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "customary closing conditions",
+    "in-depth regulatory reviews",
+    "subject to estimates and judgment",
+    "could materially affect results"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, but includes substantial standard forward-looking disclaimers and estimate-based risk language. Key risks include materially weaker margins and earnings, aggressive pricing, regulatory scrutiny of the HGST acquisition, acquisition financing and termination-fee exposure, and uncertainty in warranty and sales-return estimates."
+}

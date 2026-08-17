@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "actual results may differ",
+    "inherently uncertain estimates",
+    "long-term projections",
+    "could have a material impact"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on margins, expenses, revenue mix, and accounting reserves, but relies on standard disclaimers and management judgments for key estimates. Principal risks relate to collectability, warranty claims, inventory conditions, acquisition accounting, and potential impairment of goodwill and intangible assets. Overall tone is cautiously confident rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "seeks to deliver",
+    "could impact future operating results",
+    "ongoing impacts",
+    "may vary throughout the year",
+    "as applicable"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail, including Venezuela remeasurement losses, tax charges, exchange rates, and earnings impacts, reducing concerns about evasiveness. It nevertheless contains extensive strategic boilerplate and complex accounting, foreign-exchange, and non-GAAP disclosures that may obscure the underlying risk picture. Risk tone is moderately negative due to Venezuela’s currency controls, inflation, political uncertainty, and potential additional remeasurement losses, partially offset by management’s confident growth and cost-reduction framing."
+}

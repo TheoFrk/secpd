@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.16,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and similar expressions",
+    "may differ materially",
+    "remarkable correlation",
+    "could be possible",
+    "prematurely terminated"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on clinical studies, enrollment, outcomes, and research objectives, but includes promotional assertions and forward-looking language. Key risks include limited resources, reliance on unproven clinical adoption, and a related OptiVol study that was prematurely terminated after higher mortality in treated patients."
+}

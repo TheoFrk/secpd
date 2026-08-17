@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.16,
+  "confidence": 0.89,
+  "obfuscation_indicators": [
+    "truncated disclosure",
+    "based on management’s assessment",
+    "among others",
+    "customer-specific acceptance criteria",
+    "cross-default feature"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, including contract-loss provisions, receivables, credit availability, guarantees, and covenant compliance. Risk is moderated by reported compliance and no domestic borrowings, but percentage-of-completion estimates, performance guarantees, customer input dependencies, foreign facilities, and contingent bank obligations remain material risk areas. The incomplete text limits assessment of the full financing and impairment disclosures."
+}

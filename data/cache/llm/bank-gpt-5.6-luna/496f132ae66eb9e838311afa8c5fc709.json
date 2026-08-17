@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "significantly leveraging the balance sheet",
+    "plans to build a scalable lending business",
+    "minimal revenue and operating losses",
+    "availability of additional capital on desirable terms"
+  ],
+  "risk_summary": "The disclosure is materially quantified but includes substantial forward-looking and aspirational language around the lending strategy and Bloomia integration. Credit risk is elevated by balance-sheet leverage from the acquisition, covenant requirements, limited lending history, constrained capital, customer concentration, and expected operating losses."
+}

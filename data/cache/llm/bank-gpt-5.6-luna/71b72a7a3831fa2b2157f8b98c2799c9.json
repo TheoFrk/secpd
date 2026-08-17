@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.78,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "external exhibit",
+    "no substantive discussion"
+  ],
+  "risk_summary": "The excerpt contains no substantive financial or risk disclosure and delegates the MD&A to another filing section. This limits standalone assessment of liquidity, performance, and emerging risks, although the language is procedurally precise."
+}

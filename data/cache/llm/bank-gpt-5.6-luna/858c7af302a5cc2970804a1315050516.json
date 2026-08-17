@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "could significantly affect",
+    "may also recover",
+    "expected to reflect",
+    "subject to comprehensive regulation",
+    "partially offset"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, detailing customer counts, revenues, margins, earnings changes, weather impacts, and regulatory mechanisms. Risk is framed as manageable but includes exposure to regulatory decisions, seasonal weather, rate cases, and operational cost recovery. The passage is moderately complex due to utility-specific terminology and extensive regulatory descriptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.63,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "expects to be significantly reduced",
+    "should decrease significantly",
+    "unable to collect",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure presents substantial financial stress, including a $1.89 million net loss, negative working capital, negative operating cash flow, increased borrowings, and a current ratio below 1.0. Management provides optimistic expectations for expense reductions and growth but offers limited quantified support, while a $238,000 receivable remains subject to collection risk. The agricultural division shutdown and reliance on financing further indicate elevated liquidity and execution risk."
+}

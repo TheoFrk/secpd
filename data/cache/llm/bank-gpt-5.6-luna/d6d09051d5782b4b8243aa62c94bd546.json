@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "non-GAAP Adjusted EBITDA emphasis",
+    "future operating margin pressures",
+    "doubtful collectability and bad debt reserve",
+    "fair value cushion of only 7%-8%",
+    "subjective legal and actuarial estimates"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantitatively supported, but identifies meaningful pressure from labor inflation, commodity costs, supply-chain disruption, and franchisee credit exposure. The Del Taco reporting unit and trademarks have modest valuation cushions, while self-insurance, legal accruals, and acquisition accounting remain sensitive to estimates."
+}

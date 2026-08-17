@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ significantly",
+    "estimates and assumptions",
+    "more-likely-than-not threshold",
+    "could have a material adverse effect",
+    "no assurance can be given"
+  ],
+  "risk_summary": "The disclosure is detailed and substantially quantified, including claims accruals, insurance reimbursements, tax effects, debt capacity, and operating growth. Key risks involve actuarial claims estimates, supplier trade-in commitments, tax contingencies, impairment assumptions, and reliance on credit facilities, but the overall tone is stable to moderately positive."
+}

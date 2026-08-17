@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could adversely affect profitability",
+    "sufficient cash reserves",
+    "significant estimates and judgments",
+    "[... ] cent market transactions"
+  ],
+  "risk_summary": "The excerpt provides some concrete transaction and cash-flow information, but relies heavily on standard forward-looking disclaimers and qualitative assurances regarding liquidity and growth. Key risks include operating losses, declining sales, inflationary and supply-chain pressures, asset impairments, dependence on divestiture proceeds, and uncertainty surrounding the pending merger."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.46,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to assumptions, risks, and uncertainties",
+    "may differ materially",
+    "does not undertake to update",
+    "believes will yield efficiencies"
+  ],
+  "risk_summary": "The excerpt presents a generally positive operating and capital narrative supported by extensive quantitative disclosures on earnings, loan growth, capital, and net interest income. Risk transparency is reduced somewhat by extensive forward-looking-statement boilerplate and reliance on broad qualifiers, while declining net interest margin and sensitivity to interest-rate conditions represent identifiable risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect growth to be partly offset",
+    "cost prohibitive to allocate",
+    "immaterial",
+    "predetermined budgeted amounts or rates"
+  ],
+  "risk_summary": "The excerpt is generally detailed and includes quantitative installed-base and placement metrics, but relies on management expectations and qualitative explanations for future performance. Key risks include product-mix effects on gross margins, declining legacy-product placements and recurring revenues, customer-program estimates, and allocation of corporate or unusual costs to unallocated amounts."
+}

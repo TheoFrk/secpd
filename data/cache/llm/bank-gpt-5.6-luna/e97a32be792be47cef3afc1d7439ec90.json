@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to customary closing conditions",
+    "various assumptions and estimates",
+    "may be material",
+    "significant amount of judgment",
+    "methodology may not be comparable"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific, but contains substantial transaction-dependent estimates and contingencies related to the Level 3 acquisition and data-center divestiture. Risk tone is mildly negative due to persistent revenue declines, debt obligations, regulatory approvals, fair-value uncertainty, and potentially material unrecognized expenses."
+}

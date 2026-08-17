@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.55,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "well positioned",
+    "strong growth",
+    "largely beyond the Company's control",
+    "could temporarily disrupt operations",
+    "not have a material adverse effect"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating trend, with quantified revenue and margin growth and increased adoption of smart-water and SaaS offerings. Key risks include acquisition integration, supplier concentration, raw-material and foreign-exchange exposure, regulatory changes, and municipal customers' financing constraints, although these are described largely in standard boilerplate terms."
+}

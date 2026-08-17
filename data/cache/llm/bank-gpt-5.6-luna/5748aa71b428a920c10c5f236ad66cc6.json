@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"we believe we delivered solid financial performance\"",
+    "\"may be limited adverse effects\"",
+    "\"expected to increase\"",
+    "non-GAAP measure disclaimers",
+    "truncated/incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, providing detailed performance, asset-quality, deposit, loan, wildfire, tourism, and real-estate metrics. Risk tone is balanced but mildly reassuring, with substantial exposure to Hawaii real estate, tourism, interest rates, deposit migration, and Maui-related credit impacts. Some forward-looking projections, conditional language, and non-GAAP emphasis introduce moderate interpretive uncertainty."
+}

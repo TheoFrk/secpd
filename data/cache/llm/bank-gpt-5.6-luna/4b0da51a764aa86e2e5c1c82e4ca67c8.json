@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.36,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "known and unknown risks",
+    "could cause actual results to differ materially",
+    "estimated net realizable value",
+    "fair value less than carrying value"
+  ],
+  "risk_summary": "The disclosure is predominantly precise and quantitatively supported, showing strong revenue and operating income growth, although acquisitions materially drive reported performance and margins declined in 2012. Standard forward-looking disclaimers and estimates around inventory, goodwill, and intangible impairment introduce uncertainty, particularly regarding valuation assumptions and acquisition integration."
+}

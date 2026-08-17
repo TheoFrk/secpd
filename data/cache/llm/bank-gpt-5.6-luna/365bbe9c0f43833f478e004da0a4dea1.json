@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.72,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "timing and type cannot be ascertained",
+    "inability to raise additional capital",
+    "not able to generate sufficient cash",
+    "inconsistent financial figures"
+  ],
+  "risk_summary": "The company reports sharply declining revenue and servicing income, recurring net losses, declining collections, and insufficient cash generation to fund operations for the foreseeable future. It has stopped purchasing portfolios due to an inability to raise capital and is seeking a merger with uncertain timing and counterparties. The disclosure includes extensive boilerplate forward-looking language and apparent numerical inconsistencies that reduce clarity."
+}

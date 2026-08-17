@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "risks and uncertainties",
+    "management deems unusual or non-recurring",
+    "inherently uncertain judgments",
+    "ongoing deposit competition"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and accounting-disclaimer language, with some reliance on qualitative statements and an incomplete discussion of asset quality. Quantified disclosures identify pressure from higher deposit costs, declining deposits, securities fair-value losses, and lower net income, although management presents its response and future positioning positively."
+}

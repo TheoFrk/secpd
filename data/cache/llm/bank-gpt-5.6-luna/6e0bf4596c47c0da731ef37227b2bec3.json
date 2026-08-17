@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may have sufficient cash",
+    "assumptions that may prove to be wrong",
+    "cannot be certain that additional funding",
+    "substantial doubt about ability to continue",
+    "fair value estimated using Monte Carlo simulation"
+  ],
+  "risk_summary": "The company has no revenues, recurring operating losses, significant accumulated deficit, and explicitly states substantial doubt about its ability to continue as a going concern. Cash may fund only near-term corporate and project activities, while additional financing is required to advance projects, creating meaningful funding and dilution risk. The disclosure is generally quantified and transparent, although future liquidity estimates rely on uncertain assumptions."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "actual results could differ materially",
+    "other risks and uncertainties",
+    "as conditions permit",
+    "currently unknown"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative operating data and identifies numerous macroeconomic, geopolitical, competitive, execution, cybersecurity, and debt-related risks. However, extensive forward-looking disclaimers, repeated safe-harbor language, and broad non-quantified risk categories reduce specificity regarding potential downside magnitude and timing."
+}

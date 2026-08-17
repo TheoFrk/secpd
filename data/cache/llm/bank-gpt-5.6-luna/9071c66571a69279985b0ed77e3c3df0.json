@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.72,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance financing available",
+    "materially adversely affected",
+    "estimates and judgments",
+    "strategic collaborations"
+  ],
+  "risk_summary": "The disclosure presents significant liquidity and going-concern risk, including insufficient funds for the next twelve months, reliance on additional financing, and uncertainty regarding access to capital. Although operating results and cash flows are quantified, the discussion relies substantially on standard forward-looking disclaimers and provides limited detail on concrete funding plans or operating strategy."
+}

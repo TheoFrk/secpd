@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "not exhaustive",
+    "beyond the Company’s control",
+    "significant judgment and estimates",
+    "unidentified losses may become evident"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and subjective accounting language, particularly regarding loan-loss allowances and acquired credit-impaired loans. It identifies meaningful credit and estimation risk but provides limited quantitative loss, reserve, sensitivity, or scenario information in the supplied text. The tone is cautious and legally defensive rather than indicative of an acute crisis."
+}

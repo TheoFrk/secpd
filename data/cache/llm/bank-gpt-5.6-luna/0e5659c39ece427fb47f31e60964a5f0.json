@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.46,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "the Company believes",
+    "as market conditions permit",
+    "may also access",
+    "not indicative of funds available",
+    "subject to revision or withdrawal"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides substantial detail on leasing, development, financing, maturities, and operating metrics, limiting material vagueness. Risk tone is generally confident, supported by strong occupancy, rent growth, liquidity access, and investment-grade ratings, although reliance on market conditions, leverage, refinancing, and development execution remains evident."
+}

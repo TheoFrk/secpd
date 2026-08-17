@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "as more fully described below",
+    "we believe to be reasonable",
+    "actual results may differ significantly",
+    "expected to remain soft"
+  ],
+  "risk_summary": "The excerpt reports a substantial net loss in 2015, driven in part by equity-method losses and significant deferred-tax valuation adjustments at Kronos. It provides meaningful quantitative operating and tax information, but relies on standard estimates, conditional outlook language, and is materially incomplete due to omitted tables and truncated sections."
+}

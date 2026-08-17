@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "absent the sale of assets or refinancing",
+    "no assurance acceptable terms",
+    "customary covenants and events of default",
+    "highly dependent on successfully implementing",
+    "immediately due"
+  ],
+  "risk_summary": "The disclosure is highly quantified and specific regarding debt maturities, collateral, interest rates, covenants, and liquidity. However, it presents material refinancing and going-concern risk because approximately $40.6 million of borrowings mature on August 1, 2016, while available liquidity is limited and repayment depends on asset sales, refinancing, or maturity extensions."
+}

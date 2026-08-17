@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results may differ from estimates",
+    "various other assumptions",
+    "management judgment",
+    "could materially change",
+    "credit-adjusted risk-free interest rate"
+  ],
+  "risk_summary": "The excerpt is largely standard critical-accounting-policy disclosure and identifies meaningful estimation risks involving pensions, self-insurance, environmental remediation, and asset-retirement obligations. It provides useful quantitative pension sensitivities, but several liability exposures remain dependent on assumptions and are not fully quantified in the excerpt. Overall tone is neutral and risk-aware rather than crisis-like."
+}

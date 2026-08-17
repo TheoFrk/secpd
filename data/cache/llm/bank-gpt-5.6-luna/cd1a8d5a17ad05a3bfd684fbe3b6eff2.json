@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "but are not limited to",
+    "Actual results could differ",
+    "potentially liable",
+    "useful to investors",
+    "may not be comparable"
+  ],
+  "risk_summary": "The excerpt is largely precise and well quantified regarding acquisitions, dispositions, financing, maturities, and development costs. However, substantial technical boilerplate and extensive non-GAAP/valuation disclosures increase complexity, while refinancing activity, related-party management, debt maturities, and environmental exposure indicate meaningful underlying risk."
+}

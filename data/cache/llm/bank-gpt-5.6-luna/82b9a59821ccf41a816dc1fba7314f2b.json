@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "could have a material adverse effect",
+    "if our experience were to change",
+    "no assurance",
+    "all known relevant facts and circumstances"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on revenue recognition, customer creditworthiness, contract structures, and accounting estimates, including some quantified order volume. However, it relies heavily on conditional language and management assertions about historical estimation accuracy, while highlighting material sensitivity to customer delays, defaults, contract amendments, and revenue deferral."
+}

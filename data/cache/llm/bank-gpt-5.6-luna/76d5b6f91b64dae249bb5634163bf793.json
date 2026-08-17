@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "offset by",
+    "subject to future reviews",
+    "has appealed",
+    "expected to be approximately"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear segment-level earnings drivers and offsets. Key risks include regulatory refund exposure, disallowed capital costs, higher expenses, commodity and foreign-exchange volatility, project execution, and customer-related losses. Overall tone is neutral to modestly positive because earnings increased across major segments despite identified adverse items."
+}

@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "cross-reference to external pages",
+    "no substantive MD&A detail"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or operating analysis and instead incorporates the MD&A by reference to another document. This limits standalone transparency and prevents assessment of liquidity, performance, and risk drivers from the excerpt alone."
+}

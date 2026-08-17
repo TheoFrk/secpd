@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "could differ materially",
+    "no obligation to update",
+    "no assurances can be given",
+    "estimates may differ"
+  ],
+  "risk_summary": "The excerpt is heavily dominated by boilerplate forward-looking-statement disclaimers and broad risk qualifiers, limiting specificity about future performance. Quantified disclosures identify material concentration risk in the largest customer, historical losses, acquisition-related obligations, and reliance on estimates, although management expresses confidence in estimate accuracy and planned expansion."
+}

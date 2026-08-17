@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "designed to",
+    "significant impact",
+    "underlying business results",
+    "ultimate tax treatment differs"
+  ],
+  "risk_summary": "The excerpt uses substantial promotional and boilerplate language about relationships, leadership, and growth while providing limited direct performance analysis in the supplied section. It identifies meaningful sensitivity to equity, credit, interest-rate, derivative, guaranteed-benefit, consolidation, and tax risks, but partly minimizes CIE exposure by emphasizing unchanged economics and no underlying business impact."
+}

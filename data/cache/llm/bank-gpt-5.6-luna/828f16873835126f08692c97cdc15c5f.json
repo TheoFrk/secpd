@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted operating income",
+    "excluding stock-based compensation",
+    "other non-recurring items",
+    "significant judgment is required",
+    "would not materially impact"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, with clear segment, profitability, liquidity, covenant, and operating data. Risk is mixed: revenue and adjusted operating income improved, but cash flow declined, gross margins compressed, and reported operating income was heavily affected by stock-based compensation. Some reliance on non-GAAP adjustments and judgment-based accounting estimates modestly reduces transparency."
+}

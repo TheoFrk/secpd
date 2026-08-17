@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.56,
+  "risk_sentiment": 0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "including, but not limited to",
+    "primarily driven by",
+    "more likely than not",
+    "historically, we have not experienced material differences"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and provides clear year-over-year explanations for revenue and gross profit changes, but it includes promotional language and standard forward-looking disclaimers. Key risks include customer demand concentration, semiconductor price erosion, restructuring, legal contingencies, and tax-estimate uncertainty, though management presents overall performance positively."
+}

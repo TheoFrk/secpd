@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily as a result of",
+    "aforementioned events",
+    "non-GAAP supplemental financial measures",
+    "definitions may not be comparable",
+    "truncated reconciliation tables"
+  ],
+  "risk_summary": "The excerpt is highly technical and heavily focused on non-GAAP measures, with extensive qualifications and repetitive explanations that make underlying performance harder to assess. It reports decreases in net income, FFO as Adjusted, and FAD for 2019, but the excerpt omits the supporting tables and detailed drivers, limiting transparency on liquidity and credit risk."
+}

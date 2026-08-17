@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and no assurance",
+    "risks and uncertainties we cannot predict",
+    "could be further deferred, reduced or eliminated",
+    "we believe properties will not be significantly affected",
+    "truncated and incomplete disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on tenant concentration, occupancy, dispositions, and capital structure, but is heavily qualified by standard forward-looking disclaimers and conditional language. Key risks include dependence on government and defense tenants, sequestration and budget uncertainty, economic weakness, and exposure to occupancy and rental-rate pressure. The tone is cautiously constructive, emphasizing strategic repositioning and liquidity improvements despite material concentration and policy risks."
+}

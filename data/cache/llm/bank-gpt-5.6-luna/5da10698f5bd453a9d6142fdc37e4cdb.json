@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strong balance sheet",
+    "customary conditions",
+    "where appropriate",
+    "more likely than not",
+    "estimates are subject to uncertainties"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic and liquidity narrative, supported by quantified credit facilities, borrowing, repayment, sales, and transaction expenses. However, extensive separation-related legal, tax, and accounting arrangements, carve-out financial statements, and judgment-based contract and tax estimates create comparability and execution risks. Repetitive boilerplate and dense technical language reduce accessibility, while the excerpt provides limited detail on leverage, covenants, liquidity headroom, and downside sensitivities."
+}

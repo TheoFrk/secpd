@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "may discontinue",
+    "continued weakness",
+    "as described below"
+  ],
+  "risk_summary": "The disclosure is relatively transparent and quantitatively detailed, including segment trends, restructuring charges, liquidity, covenant thresholds, and capital expenditures. Risk is mixed: operating performance and liquidity improved, but Casegoods weakness, facility closures, discontinued operations, restructuring execution, and substantial headquarters spending remain notable risks."
+}

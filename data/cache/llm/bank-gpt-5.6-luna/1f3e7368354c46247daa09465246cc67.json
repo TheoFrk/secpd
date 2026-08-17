@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "may be material",
+    "actual results may differ",
+    "best estimate of the future",
+    "if raw material prices continue",
+    "mixed results"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, identifying market softness, input-cost pressure, restructuring charges, labor-contract timing, and pension-estimate sensitivity. Forward-looking uncertainty is acknowledged through standard qualifications, but the overall tone is operationally cautious rather than crisis-like."
+}

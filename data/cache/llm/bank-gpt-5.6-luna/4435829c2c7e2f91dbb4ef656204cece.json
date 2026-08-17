@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "low to mid-teens percentage range",
+    "low to mid single-digit percentage range",
+    "partially offset by",
+    "other factors described above",
+    "text extraction truncation"
+  ],
+  "risk_summary": "The excerpt is generally quantitatively detailed and transparent, but includes boilerplate strategic language and broad outlook ranges. Risk indicators include declining 2018 operating earnings, lower gross margin from promotional pressure and e-commerce mix, and a $98.0 million Brand Portfolio impairment that resulted in a segment operating loss."
+}

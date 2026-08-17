@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily caused by",
+    "we expect",
+    "we currently estimate",
+    "depending on market conditions and other factors",
+    "could impact our ability"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, with clear operating, investment, fuel-cost, regulatory, and credit-rating information. The risk tone is cautiously positive, but it identifies meaningful exposure to weather, economic conditions, commodity costs, collateral requirements, rating downgrades, and capital-market access."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "could differ materially",
+    "cannot guarantee future results",
+    "disclaim any obligation to update",
+    "outcome of audits unknown"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking-statement disclaimers, including repeated language that limits reliance on projections and disclaims update obligations. It provides meaningful quantitative detail on the Microsemi acquisition but flags execution, financing, regulatory, tax valuation, and audit uncertainties. Overall tone is cautiously confident rather than crisis-like."
+}

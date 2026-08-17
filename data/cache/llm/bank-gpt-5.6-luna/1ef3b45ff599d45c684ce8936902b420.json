@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.43,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "unobservable inputs",
+    "expected payments",
+    "non-GAAP measures",
+    "contingent commissions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, with strong historical growth metrics and explicit explanations of revenue drivers. Key risks include dependence on acquisitions, premium rates, exposure units, catastrophe events, contingent commissions, floating-rate debt, and Level 3 earn-out estimates. The tone is confident but qualified by forward-looking assumptions and valuation uncertainty."
+}

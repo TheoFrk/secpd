@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expects continued growth",
+    "may make up a majority of revenue",
+    "game-changing technology",
+    "better positioned to penetrate",
+    "more predictable sales quarter over quarter"
+  ],
+  "risk_summary": "The excerpt reports a substantial 69% year-over-year revenue decline, primarily attributed to the temporary COVID-19 demand spike and customer operating restrictions. Management maintains an optimistic outlook based on market expansion, recurring healthcare demand, and prospective CES growth, but many forward-looking claims are not supported by quantified forecasts, conversion rates, or backlog data."
+}

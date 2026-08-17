@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "known and unknown risks",
+    "limited visibility into the future",
+    "expect ordering could increase",
+    "not meaningful quantitative analysis"
+  ],
+  "risk_summary": "The disclosure provides useful quantified historical performance, including sales, segment growth, earnings, and identified fourth-quarter deterioration. However, the outlook is qualified by limited visibility, macroeconomic weakness, demand uncertainty, supply-chain inventory management, litigation and asbestos exposure, and reliance on broad forward-looking disclaimers. Management is taking restructuring and cost-reduction actions, including exiting TMS, but future recovery remains uncertain."
+}

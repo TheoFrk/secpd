@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "boilerplate cross-references",
+    "material effect on earnings",
+    "expects demand to increase",
+    "discontinued operations liability",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting revenue growth, expense changes, liquidity metrics, cash usage, and debt elimination. Risk is mixed: the company recorded a net loss, consumed operating cash, increased inventory and current liabilities, and recognized a discontinued-operations contingency liability, although revenue improved and debt was zero."
+}

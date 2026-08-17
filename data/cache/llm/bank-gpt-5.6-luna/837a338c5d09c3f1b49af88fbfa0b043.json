@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results could differ materially",
+    "risks and uncertainties beyond our control",
+    "not necessarily indicative of future results",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt presents strong, quantified revenue, profitability, cash flow, and liquidity performance, supporting a generally confident operating tone. However, extensive standardized forward-looking disclaimers and broad, largely unquantified risk lists limit predictive certainty. Reported SG&A growth exceeding revenue growth and exposure to economic, currency, competitive, tax, and event-timing risks are notable credit considerations."
+}

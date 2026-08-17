@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "subject to risks and uncertainties",
+    "may be required",
+    "smaller reporting company omissions",
+    "sufficient for the foreseeable future"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative data on receivables, inventory write-downs, leases, cash flows, capital expenditures, and share repurchases, but contains extensive boilerplate disclaimers and relies on management estimates. Risk exposure includes COVID-19 uncertainty, potential additional inventory allowances, customer credit losses, and substantial cash use for investing and stock repurchases. Management expresses confidence that cash will cover projected working capital and planned capital expenditures, although the excerpt is truncated and omits some potentially relevant conte…"
+}

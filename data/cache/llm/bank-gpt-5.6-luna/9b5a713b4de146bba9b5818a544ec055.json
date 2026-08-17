@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.62,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "expect growth to continue",
+    "may not be successful",
+    "foreseeable future",
+    "scientifically validated products",
+    "significant and subjective estimates"
+  ],
+  "risk_summary": "The excerpt is highly quantified and reports substantial revenue, operating income, cash flow, and liquidity improvement, producing a confident overall tone. Risk disclosure is present but largely generic, including dependence on distributor growth, raw-material costs, international expansion, and subjective derivative valuations. Promotional product-efficacy language and forward-looking expectations are less rigorously supported than the financial metrics."
+}

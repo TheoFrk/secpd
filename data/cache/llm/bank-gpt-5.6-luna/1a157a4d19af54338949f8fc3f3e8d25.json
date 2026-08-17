@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements and material-difference disclaimer",
+    "subject to many variables",
+    "judgment in estimating contract revenues and costs",
+    "reliably estimated and realization is considered probable",
+    "truncated disclosure and missing context"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified impairments, gains, and tax amounts, but relies heavily on standard accounting-policy language and broad estimation caveats. Key risks include contract-cost and milestone estimation, revenue recognition judgments, impairment exposure, uncertain tax positions, and prior embezzlement-related losses."
+}

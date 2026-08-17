@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "expressly disclaims any obligation",
+    "risks and uncertainties",
+    "smaller reporting company omissions",
+    "if actual market conditions are less favorable"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative detail on receivables, inventory write-downs, leases, share repurchases, capital commitments, and liquidity, supporting a generally stable risk assessment. However, extensive boilerplate disclaimers, permitted smaller-reporting-company omissions, and reliance on management estimates limit transparency regarding downside scenarios. The company expresses confidence that cash and operating cash flow will fund planned needs, but this is subject to execution, supply-chain, market, and credit-loss risks."
+}

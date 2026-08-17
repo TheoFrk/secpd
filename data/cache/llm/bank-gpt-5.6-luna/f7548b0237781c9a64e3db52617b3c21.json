@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.08,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "customary closing conditions",
+    "no assurance results can be achieved",
+    "inherently subject to significant uncertainties",
+    "reasonable possibility of variation"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting revenue, expense, segment, and transaction impacts in detail. Risk is moderate due to Beam shutdown costs, inflation, expansion spending, regulatory approval conditions, franchise renewal dependence, and highly uncertain impairment assumptions, although broadband and tower operations show growth and no franchise impairment was identified."
+}

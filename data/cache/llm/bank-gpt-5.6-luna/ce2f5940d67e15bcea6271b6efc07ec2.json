@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.62,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt exists",
+    "primarily attributable to",
+    "continued demand",
+    "stable commodity price environment",
+    "non-GAAP measure"
+  ],
+  "risk_summary": "The disclosure presents material financial risk, including recurring net losses, negative Adjusted EBITDA, higher interest expense, declining rig counts, impairments, and an explicit conclusion that substantial doubt exists regarding the Company’s ability to continue as a going concern. Operating improvements and pricing actions provide some offset, but the overall risk tone is significantly negative and liquidity-dependent."
+}

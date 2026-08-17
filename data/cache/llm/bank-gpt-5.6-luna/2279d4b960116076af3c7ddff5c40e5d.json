@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "subjective and/or complex judgments",
+    "inherently uncertain",
+    "actual results could differ significantly",
+    "may be subject to change",
+    "materially adversely impact earnings"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified impairment charges and portfolio metrics, but relies heavily on standard accounting-policy boilerplate and broad uncertainty language. Key risks center on loan-loss estimates, securities impairment, fair value judgments, and potential future provisions that could materially reduce earnings."
+}

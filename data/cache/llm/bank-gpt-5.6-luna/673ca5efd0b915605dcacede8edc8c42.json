@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not possible to predict all factors",
+    "no obligation to update",
+    "aspire to lead markets"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking disclaimers and broad strategic assertions, with limited quantified operating detail in the provided section. Credit risk disclosure is comparatively precise regarding covenant headroom and compliance, indicating no reported breach as of February 28, 2015, but the excerpt is truncated and omits potentially relevant liquidity details."
+}

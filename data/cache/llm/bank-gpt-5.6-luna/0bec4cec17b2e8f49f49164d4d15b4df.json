@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties not exhaustive",
+    "beyond our control",
+    "unable to foresee extent and length",
+    "may materially impact cash flows"
+  ],
+  "risk_summary": "The excerpt contains substantial standardized forward-looking-disclaimer language and repeatedly emphasizes unquantified risks, limiting predictive value. It provides useful portfolio, transaction, and debt figures, but the discussion flags refinancing, bank lending, variable-rate construction debt, related-party transactions, and potentially material cash-flow impacts without quantifying exposure. Overall tone is cautious and risk-aware rather than crisis-like."
+}

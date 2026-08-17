@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance",
+    "cannot predict with accuracy",
+    "not obligated to update",
+    "incomplete disclosure fragments"
+  ],
+  "risk_summary": "The excerpt presents strong quantified leasing, development, liquidity, and operating results, producing a generally positive tone. However, extensive forward-looking disclaimers, reliance on estimates, a decline in wholesale data-center leasing to 76.9%, and 85% of related annualized rental revenue subject to 2020 expirations indicate material occupancy and renewal risk. Several truncated or incomplete passages reduce disclosure clarity."
+}

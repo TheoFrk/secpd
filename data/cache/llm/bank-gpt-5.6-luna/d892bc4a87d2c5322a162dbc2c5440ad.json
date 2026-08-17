@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.32,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks and uncertainties",
+    "many factors beyond our ability to control or predict",
+    "continuing weakness in certain foreign markets",
+    "cautious sentiment for capital expenditures",
+    "no obligation to publish revised statements"
+  ],
+  "risk_summary": "The disclosure is generally transparent and well quantified, with detailed segment, margin, cash flow, capital expenditure, and dividend information. Key risks include dependence on automotive demand and major customers, export weakness, production transitions, margin pressure, and rising health insurance costs, although liquidity and profitability appear solid. The outlook is cautiously positive but relies on favorable U.S. auto sales and assumes continued operational improvements."
+}

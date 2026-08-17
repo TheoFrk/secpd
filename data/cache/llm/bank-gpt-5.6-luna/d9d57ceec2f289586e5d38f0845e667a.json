@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.39,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "potential sale of non-core real estate assets",
+    "short-term liquidity demands",
+    "financial security through the COVID-19 pandemic"
+  ],
+  "risk_summary": "The excerpt provides useful operational detail, including reopening percentages, closures, asset sales, and specific pandemic effects, but relies heavily on optimistic beliefs and expectations regarding future cash flows, asset values, and strategic resilience. Key risks include prolonged cinema disruption, liquidity dependence on real estate monetization, tenant weakness, delayed film releases, and uncertain redevelopment and leasing outcomes."
+}

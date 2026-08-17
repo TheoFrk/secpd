@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significantly higher",
+    "subject to considerable fluctuation",
+    "based on our current cash position and operating plan",
+    "actual results could be different",
+    "reasonable terms"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but highlights a 22.7% revenue decline, a net loss, reduced professional-services revenue, and dependence on fluctuating software commissions. Liquidity appears adequate, with positive operating and investing cash flow, no borrowings, and no non-current liabilities, although revenue recognition involves material judgments and federal-contract funding uncertainty."
+}

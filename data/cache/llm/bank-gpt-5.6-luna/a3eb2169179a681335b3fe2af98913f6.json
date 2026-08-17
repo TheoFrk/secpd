@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "cannot guarantee future supply continuity",
+    "believe sufficient for at least twelve months",
+    "future events cannot be determined with precision",
+    "broad growth and tailwind claims",
+    "truncated liquidity discussion"
+  ],
+  "risk_summary": "The excerpt presents a generally confident strategic and operating narrative with substantial industry and product detail, but relies on forward-looking claims and qualitative growth drivers. Key risks include raw-material and labor inflation, supply disruptions, acquisition-driven borrowing, and dependence on cash flows and credit availability; the liquidity conclusion is qualified and the excerpt ends before completion."
+}

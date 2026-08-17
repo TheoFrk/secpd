@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.86,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "substantial doubt as to going concern",
+    "no assurance additional financing",
+    "materially adverse effects",
+    "extensive conditional risk language"
+  ],
+  "risk_summary": "The disclosure presents severe liquidity and viability risk: minimal revenue, continuing operating losses, dependence on new financing, significant convertible-note obligations, and an explicit substantial doubt regarding going-concern status. Reported net income is materially distorted by a non-cash warrant fair-value gain, while the cryptocurrency pivot introduces substantial operational, market, and technology risks. Risk language is extensive and partly boilerplate, but the underlying financial distress is clearly and quantitatively disclosed."
+}

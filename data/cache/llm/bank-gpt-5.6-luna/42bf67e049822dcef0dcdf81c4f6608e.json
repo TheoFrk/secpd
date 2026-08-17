@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due to the net effects of",
+    "we currently expect",
+    "actual results might differ significantly",
+    "more-likely-than-not",
+    "future events and circumstances could result"
+  ],
+  "risk_summary": "The excerpt reports substantial improvement in continuing-operations earnings and favorable Chemicals Segment pricing and volume trends, creating a moderately positive tone. However, forecasted 2018 results rely on expectations, key causal reconciliations are omitted, and extensive accounting-judgment language highlights exposure to impairment, tax, environmental, and market risks."
+}

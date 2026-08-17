@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and safe harbor",
+    "including without limitation",
+    "subject to important factors",
+    "estimates, assumptions and judgments",
+    "potential future credit losses"
+  ],
+  "risk_summary": "The excerpt is technically dense and includes extensive standard forward-looking and regulatory disclaimers, creating moderate uncertainty around future outcomes. It provides meaningful quantified operating data, including CECL and margin impacts, but highlights material exposure to credit losses, economic conditions, interest rates, regulation, cybersecurity, and COVID-19. Overall tone is cautiously neutral, with positive reported deposit and interest-income trends offset by margin compression and heightened risk factors."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "inherently subject to risks and uncertainties",
+    "unable to provide a reasonable estimate",
+    "various factors",
+    "expressly disclaim any obligation to update"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking and liability-limiting language, with numerous broadly defined risk factors and limited quantified scenario analysis. Management presents a generally confident outlook for continued revenue and earnings growth, while acknowledging margin pressure, implementation costs, regulatory exposure, cybersecurity, integration, and revenue-recognition uncertainty."
+}

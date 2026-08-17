@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to significant risks and uncertainties",
+    "beyond our control",
+    "slow economic and housing recovery",
+    "non-GAAP measure limitations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on geographic concentration, real-estate collateral exposure, unemployment, loan performance, margins, and interest-rate pressures. Risk tone is cautiously negative because Florida’s economic weakness, depressed property values, problem assets, and declining net interest margins are expected to persist, although management describes liquidity and interest-rate positioning as resilient. Boilerplate forward-looking and non-GAAP disclaimers moderately reduce transparency but do not appear unusually evasive."
+}

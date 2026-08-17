@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance export licenses",
+    "could materially disrupt",
+    "continuously assessing aggregate impact",
+    "discussion omitted from current filing"
+  ],
+  "risk_summary": "The disclosure combines optimistic semiconductor demand commentary with significant risks from export controls, customer delivery delays, cancellations, inventory charges, and geographic concentration in China. It quantifies some potential exposures but leaves the aggregate financial impact of licensing restrictions and regulatory changes largely unspecified. The omitted prior-year discussion and truncated context reduce completeness."
+}

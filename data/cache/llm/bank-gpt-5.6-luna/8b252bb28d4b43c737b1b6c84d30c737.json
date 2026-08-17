@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "numerous factors and uncertainties",
+    "non-GAAP measures not comparable",
+    "we believe / expect",
+    "omni-channel reporting limitations"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides useful operating, liquidity, inventory, and debt information, but it includes standard legal disclaimers and repeated caveats around non-GAAP measures and comparability. The tone is cautiously optimistic, reflecting improved losses, EBITDA, cash flow, and inventory management, while acknowledging weak retail traffic, reduced brand awareness, macroeconomic uncertainty, and ongoing capital and debt requirements."
+}

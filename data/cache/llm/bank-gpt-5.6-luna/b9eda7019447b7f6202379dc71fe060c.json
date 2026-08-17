@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual outcomes may differ materially",
+    "no obligation to update",
+    "certain risks and uncertainties",
+    "increasing pricing pressures"
+  ],
+  "risk_summary": "The excerpt presents a generally confident, growth-oriented outlook supported by quantified revenue, dividend, repurchase, and restructuring figures. However, it contains substantial standard forward-looking disclaimer language and identifies material risks from patent expirations, biosimilar competition, pricing pressure, reimbursement constraints, and cost containment. Disclosure is reasonably specific on historical results but less specific regarding the probability and financial magnitude of future risks."
+}

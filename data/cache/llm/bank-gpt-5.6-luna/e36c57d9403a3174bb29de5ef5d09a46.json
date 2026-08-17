@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "actual results may differ materially",
+    "no obligation to update",
+    "assumptions believed reasonable",
+    "non-cash accounting treatment"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate forward-looking disclaimers and relies on broad, unquantified risk factors, limiting predictive value. Quantified disclosures indicate significant financial risk, including recurring net losses, negative operating cash flows, an accumulated deficit of $8.1 million, low cash of $453,623, substantial convertible debt, and a material inventory write-off."
+}

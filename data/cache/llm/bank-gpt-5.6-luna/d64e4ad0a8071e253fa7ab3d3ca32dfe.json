@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "significant estimates and assumptions",
+    "including, but not limited to",
+    "more likely than not",
+    "other relevant factors"
+  ],
+  "risk_summary": "The excerpt reports improved earnings and generally favorable operating trends, but relies heavily on boilerplate accounting-policy language and management judgment. Key risks center on loan-loss allowance subjectivity, investment impairment assessments, deferred tax realizability, and non-recurring income contributions."
+}

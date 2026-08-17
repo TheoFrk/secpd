@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.22,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "historical data not indicative of future results",
+    "primarily due to",
+    "partially offset by",
+    "expects continuing declines",
+    "excluding Connecticut operations"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides meaningful operational detail, but is lengthy and repeats acquisition-related adjustments and legacy-versus-acquired comparisons. Risk tone is mildly negative due to continuing voice, access, and customer declines, while broadband growth and pricing actions provide offsets. The Connecticut acquisition materially increased scale, capital spending, and financing needs, creating execution and leverage risk."
+}

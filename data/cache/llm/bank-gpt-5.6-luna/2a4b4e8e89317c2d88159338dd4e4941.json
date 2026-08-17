@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results could differ materially",
+    "other risks that affect our business",
+    "no obligation to publicly update",
+    "subject to post-closing adjustments"
+  ],
+  "risk_summary": "The excerpt contains extensive standard forward-looking-statement disclaimers and a broad, largely non-quantified list of operational, cyber, regulatory, acquisition, economic, and personnel risks. However, the operating discussion includes substantial quantitative detail on revenue growth, SaaS adoption, transaction fees, acquisitions, and client conversions, producing a generally balanced and mildly positive tone."
+}

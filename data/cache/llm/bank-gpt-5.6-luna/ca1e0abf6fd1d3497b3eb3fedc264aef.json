@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.58,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unless and until",
+    "none of which are currently planned",
+    "cannot be assured",
+    "not aware of any other trends",
+    "reasonably likely"
+  ],
+  "risk_summary": "The disclosure is quantitatively specific but presents significant liquidity and operating risks: recurring operating cash outflows, limited liquidity sources, and an expectation that revenue will not exceed expenses at current conditions. Management relies on potential future investments or acquisitions that are not currently planned to improve cash generation, while environmental and RR&D exposures remain qualified."
+}

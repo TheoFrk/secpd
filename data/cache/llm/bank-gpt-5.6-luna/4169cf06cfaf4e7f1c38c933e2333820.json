@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks, uncertainties, and assumptions",
+    "actual results may differ materially",
+    "undertake no obligation to update",
+    "complex and subjective assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, geographic, product-category, margin, and impairment information, supporting relatively strong disclosure quality. Risk tone is cautiously positive, but extensive forward-looking disclaimers, macroeconomic uncertainty, competitive pressure, and subjective impairment assumptions introduce meaningful uncertainty."
+}

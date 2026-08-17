@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP underlying change",
+    "estimated net changes in distributor inventories",
+    "difficult to quantify or predict",
+    "not significant",
+    "insignificant impact"
+  ],
+  "risk_summary": "The excerpt presents a generally confident outlook and reports broad-based sales growth, but relies substantially on non-GAAP measures and adjustments for acquisitions, foreign exchange, inventories, and divestitures. The omission of the referenced outlook tables and detailed quantitative guidance limits assessment of underlying earnings quality and downside risk."
+}

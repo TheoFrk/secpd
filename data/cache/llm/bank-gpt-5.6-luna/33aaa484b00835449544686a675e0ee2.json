@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "may/might and conditional funding language",
+    "immaterial contract balances",
+    "truncated disclosure",
+    "promotional claims such as \"leading global provider\""
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate and forward-looking disclaimers, with limited quantified detail on liquidity, contractual obligations, warranty exposure, and product-development costs. Risk tone is moderately negative due to declining MDM and post-pandemic demand, potential product defects, working-capital needs, and possible reliance on additional debt or equity financing."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "we expect",
+    "may require us to incur debt",
+    "factors over which we have limited control",
+    "do not expect significant liquidity constraints"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but highlights deteriorating truckload operating performance, rising contractor and equipment costs, driver recruiting pressures, and increased debt. Management presents liquidity as adequate and expects financing availability, although future capital access and cash-flow assumptions remain subject to market conditions and other factors outside its control."
+}

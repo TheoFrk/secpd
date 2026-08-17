@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "various other assumptions",
+    "believed to be reasonable",
+    "although there can be no assurances",
+    "not readily apparent from other sources",
+    "excerpt is truncated"
+  ],
+  "risk_summary": "The disclosure is generally specific and includes sensitivity estimates, but relies on standard judgment-based language around accounting assumptions and self-insurance liabilities. Reported revenue declined materially, with mining exposure, asset impairment, pension assumptions, and potential liability estimates representing notable risks. The incomplete excerpt limits assessment of the full risk picture."
+}

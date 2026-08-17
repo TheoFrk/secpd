@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.55,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "reasonably likely actual outcomes will differ",
+    "future market conditions",
+    "numerous factors and assumptions",
+    "should current recessionary conditions persist",
+    "subject to numerous risks"
+  ],
+  "risk_summary": "The excerpt is heavily reliant on standard critical-accounting-policy language and qualitative estimates, with limited sensitivity analysis or quantified exposure beyond selected cash-flow and transaction figures. It identifies meaningful risks involving customer collections, inventory, impairment, self-insurance, litigation, recessionary construction markets, and concentrated cash holdings, but maintains a generally measured and operationally confident tone."
+}

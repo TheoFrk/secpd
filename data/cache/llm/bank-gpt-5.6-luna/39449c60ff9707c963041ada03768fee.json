@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "no assurance business objectives will be achieved",
+    "we believe competitive strengths",
+    "intend to explore additional opportunities",
+    "omitted results and table details"
+  ],
+  "risk_summary": "The excerpt provides several concrete acquisition, revenue, lease, and operating details, but relies substantially on forward-looking, aspirational language and broad growth claims. It includes standard material-uncertainty disclaimers and does not fully present the referenced results tables, limiting assessment of profitability, liquidity, and cash-flow risk."
+}

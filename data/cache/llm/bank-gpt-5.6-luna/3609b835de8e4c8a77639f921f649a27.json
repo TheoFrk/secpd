@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "pending shipwreck cargo recoveries",
+    "could be quickly monetized",
+    "primarily due to",
+    "more likely than not",
+    "approximations to the nearest $100,000"
+  ],
+  "risk_summary": "The disclosure is relatively well quantified but indicates substantial financial risk, including recurring operating losses, negative operating cash flow, large deferred tax asset valuation allowances, and reliance on uncertain shipwreck recoveries for future monetization. Revenue concentration in a few counterparties and derivative-related accounting effects further increase risk. The tone is factual and technical rather than overtly alarmist, but the underlying outlook is materially negative."
+}

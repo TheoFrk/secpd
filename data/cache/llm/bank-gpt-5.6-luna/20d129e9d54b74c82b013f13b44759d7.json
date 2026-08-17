@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.69,
+  "risk_sentiment": 0.42,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results may differ materially",
+    "not undertaking any obligation to update",
+    "highly dependent on",
+    "may not contain all of the information",
+    "non-GAAP adjusted measures"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively supported, highlighting improved earnings, lower losses, favorable housing conditions, and substantial PMIERs capital excess. Risk remains tied to housing affordability, interest rates, competition, mortgage origination volumes, hurricane-related claims, regulatory capital revisions, and tax matters. Extensive forward-looking disclaimers and non-GAAP adjustments modestly temper the otherwise positive tone."
+}

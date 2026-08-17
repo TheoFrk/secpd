@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "actual results may differ materially",
+    "not obligated to publicly update",
+    "continued growth expectations",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed revenue, margin, acquisition, impairment, restructuring, and segment information. Risk tone is cautiously positive, but relies on forward-looking growth expectations and standard liability-limiting disclaimers. Identified pressures include pricing and mix deterioration, weaker research demand, restructuring activity, and residual lease and severance liabilities."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "substantial doubt about going concern",
+    "may not be sufficient",
+    "no assurance",
+    "possible asset sales and/or long-term borrowings",
+    "forward-looking statement disclaimer"
+  ],
+  "risk_summary": "The disclosure explicitly identifies substantial doubt about the Company’s ability to continue as a going concern, citing recurring operating losses, minimal cash, dependence on asset sales or financing, and unresolved litigation. Although key balances and obligations are quantified, repeated cross-references, extensive boilerplate risk language, and reliance on uncertain future funding reduce clarity regarding the recovery and liquidity outlook."
+}

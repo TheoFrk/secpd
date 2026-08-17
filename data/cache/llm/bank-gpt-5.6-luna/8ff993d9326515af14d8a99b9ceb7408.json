@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "generally 80% or less",
+    "subject to adverse conditions",
+    "attempts to maintain its net interest margin",
+    "other conditions that affect ability to repay",
+    "inherent risk of lending"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on assets, deposits, equity, earnings, borrowing costs, loan approval limits, and interest-income drivers. Risk discussion is generally specific but includes broad, standard banking-risk language and limited quantified exposure or sensitivity analysis for credit deterioration, real estate concentration, and liquidity stress. Overall tone is operationally confident but acknowledges meaningful commercial real estate, construction, borrower-credit, and funding risks."
+}

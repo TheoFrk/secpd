@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "various macroeconomic factors",
+    "as we deem appropriate",
+    "non-GAAP financial measures",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, highlighting strong earnings, sales growth, store scale, and capital allocation. It acknowledges meaningful exposure to fuel prices, wage inflation, supply-chain conditions, and uncertain demand trends, but frames these risks as manageable rather than crisis-like. Extensive financial definitions and footnotes increase complexity, while some forward-looking statements rely on broad uncertainty disclaimers."
+}

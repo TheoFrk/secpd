@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "including, but not limited to",
+    "various other factors believed reasonable",
+    "actual results may differ",
+    "strategic acquisitions to address challenges"
+  ],
+  "risk_summary": "The excerpt is generally detailed and technically specific, with quantified revenue mix, expense changes, and explicit revenue-recognition policies. Risk is framed primarily through standard forward-looking disclaimers and semiconductor cyclicality rather than an immediate crisis, while reliance on estimates, customer acceptance, and acquisition activity creates execution and reporting risks."
+}

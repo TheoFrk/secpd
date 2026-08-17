@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP Underlying results",
+    "not indicative of ongoing performance",
+    "do not place undue reliance",
+    "dynamic process",
+    "small number of uncorrelated losses"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with clear year-over-year drivers and disclosures of margin pressure, rising funding costs, and higher credit-loss provisions. Boilerplate descriptions and emphasis on non-GAAP underlying results modestly reduce clarity, while the overall tone remains cautiously positive due to earnings and balance-sheet growth."
+}

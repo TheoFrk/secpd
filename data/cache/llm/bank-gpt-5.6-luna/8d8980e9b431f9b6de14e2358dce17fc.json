@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "not directly comparable on a year-to-year basis",
+    "primarily due to",
+    "successfully integrated",
+    "partially offset by",
+    "factors ... contained within the Segment Analysis section"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with clear year-over-year revenue, margin, earnings, litigation, financing, and contractual obligation data. Risk is moderate: gross margins declined, borrowings increased to fund acquisitions and working capital, and the company has substantial long-term debt and purchase obligations. The tone is cautiously positive, emphasizing revenue growth and accretive acquisitions despite underlying margin and leverage pressures."
+}

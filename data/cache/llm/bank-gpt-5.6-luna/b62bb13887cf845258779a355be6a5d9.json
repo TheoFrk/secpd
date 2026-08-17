@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "expect to realize benefits",
+    "material lease termination charges",
+    "significant portion of assets subject to liens",
+    "if we are not in compliance with these covenants"
+  ],
+  "risk_summary": "The excerpt is relatively precise and heavily quantified, with limited evasive language, though it relies on forward-looking expectations for cost savings, fleet benefits, and refinery performance. The tone is broadly confident due to strong liquidity, cash generation, and restructuring plans, but meaningful risks include fuel-price exposure, refinery losses, pension funding obligations, potential material restructuring charges, and debt covenant or collateral constraints."
+}

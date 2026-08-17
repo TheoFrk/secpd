@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.55,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "no assurance",
+    "subject to approval",
+    "we believe",
+    "expected to",
+    "as needed"
+  ],
+  "risk_summary": "The disclosure is generally specific, with meaningful operating, customer, volume, inventory, and capital expenditure metrics. Key risks include inflation and rate-recovery uncertainty, supply-chain dependence, weather sensitivity, financing availability, and reliance on continued growth and acquisitions. Management maintains a cautiously positive tone while using standard forward-looking caveats around funding, rates, and future performance."
+}

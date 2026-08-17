@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "actual results could differ materially",
+    "cannot reliably estimate or project",
+    "subject to significant judgment",
+    "indefinite-lived assets and impairment testing"
+  ],
+  "risk_summary": "The excerpt is technically detailed but relies substantially on standard GAAP boilerplate, management estimates, and forward-looking disclaimers. Key risks include clinical-stage development uncertainty, volatile investment values, impairment exposure, deferred tax measurement, and significant judgment in valuations and contingencies."
+}

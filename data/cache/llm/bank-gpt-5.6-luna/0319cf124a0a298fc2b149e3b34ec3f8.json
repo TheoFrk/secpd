@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to changing budget priorities",
+    "revenue potential can be significant",
+    "expected to realize over the next several years",
+    "performance based on revisions to estimates at completion",
+    "backlog will likely decrease"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, clearly identifying dependence on U.S. government and defense spending, sequestration exposure, contract timing, and declining Aerospace backlog. Its tone is cautiously positive, supported by operational improvements and demand claims, but includes forward-looking assumptions and potentially adverse trends such as flat revenue and reduced backlog."
+}

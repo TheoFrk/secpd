@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.86,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "limited funds from IP monetization",
+    "repeated business-history description",
+    "subject to shareholder approval",
+    "complex warrant-liability accounting"
+  ],
+  "risk_summary": "The excerpt contains highly repetitive business descriptions and extensive technical accounting language, while providing limited direct discussion of operating performance or liquidity. It identifies reliance on uncertain IP monetization, strategic transitions, financing alternatives, and transactions subject to approval, indicating elevated execution and funding risk despite a generally neutral tone."
+}

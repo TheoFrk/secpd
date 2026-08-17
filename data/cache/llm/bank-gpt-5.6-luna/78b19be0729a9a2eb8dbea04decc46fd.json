@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "difficult to predict",
+    "assumes conditions ... are similar",
+    "no material disruptions",
+    "could adversely affect us",
+    "proactively manage risks"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, including sales, margins, cost actions, volume expectations, and currency assumptions. Risk remains concentrated in COVID-19 effects, supply-chain costs and lead times, China demand and restructuring, and reliance on favorable operating conditions; the outlook is cautiously confident but dependent on assumptions that conditions do not deteriorate."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.55,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.58,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "subject to uncertainties",
+    "range of possible outcomes",
+    "internally developed models",
+    "base, upside and downside scenarios"
+  ],
+  "risk_summary": "The excerpt discloses substantial historical and ongoing financial risks, including bankruptcy emergence, dependence on a rehabilitator, speculative securities value, and uncertainty around new business and asset monetization. While the loss-reserve methodology is detailed, it relies heavily on management assumptions, scenario probabilities, internal models, and estimates that may materially affect reported results."
+}

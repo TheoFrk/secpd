@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "unforeseen uncertainties and risks",
+    "may differ materially",
+    "no obligation to update",
+    "preliminary estimates"
+  ],
+  "risk_summary": "The excerpt is generally confident and well-supported by extensive operating, financing, and market data, including quantified sales, debt, cash-flow, and credit-facility information. However, substantial boilerplate forward-looking disclaimers, reliance on management expectations, preliminary tax estimates, market sensitivity, and acknowledged below-target debt ratings indicate moderate uncertainty and leverage risk."
+}

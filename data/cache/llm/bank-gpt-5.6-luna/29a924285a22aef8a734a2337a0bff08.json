@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "most significant factors",
+    "primarily attributable to",
+    "does not expect any impact",
+    "has not determined the impact",
+    "actual results will inevitably differ"
+  ],
+  "risk_summary": "The excerpt provides useful quantified year-over-year results, including modestly declining sales and improving net income, but segment performance is uneven and exposed to weaker fracking, mining, military, and other end markets. Several explanations are generic or incomplete, including blank factor lists after colons, and the impact of the new revenue-recognition standard remains undetermined. Overall tone is mildly positive but contains moderate uncertainty around estimates and future market demand."
+}

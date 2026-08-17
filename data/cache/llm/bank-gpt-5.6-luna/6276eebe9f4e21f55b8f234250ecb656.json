@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.49,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.36,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks and uncertainties",
+    "other factors beyond our control",
+    "not meant to be an exhaustive discussion",
+    "many factors including competition and product mix"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and liquidity data, but includes extensive boilerplate disclaimers and broad, non-quantified risk lists. Risk indicators include a 20.9% sales decline, a fiscal-year operating cash outflow, a net loss, reduced cash balances, higher cost ratios, and dependence on distributors, regulatory approvals, and uncertain customer demand."
+}

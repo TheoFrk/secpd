@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "principally due to",
+    "solid credit quality",
+    "significant non-routine transactions",
+    "not permitted under GAAP",
+    "not to rely on any single financial measure"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, with detailed period-over-period explanations of revenue, expenses, credit-loss provisions, and capital metrics. Risk tone is cautiously positive, but earnings benefited from litigation-related comparisons and results remain exposed to rising deposit costs, competitive funding pressures, and macroeconomic reserve assumptions. Extensive non-GAAP discussion and repeated caveats could modestly complicate interpretation of underlying performance."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "estimates and assumptions about future events",
+    "may not be able to raise sufficient additional capital",
+    "other risks and uncertainties",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt contains concrete regulatory dates, product details, and accounting disclosures, but relies heavily on standard forward-looking disclaimers and uncertain projections. Key risks include FDA approval uncertainty, dependence on APF530, deferred pipeline development, financing needs, potential dilution, and full valuation allowances on deferred tax assets."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.55,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot make a reasonable estimate",
+    "materially differ",
+    "primarily due to",
+    "more-likely-than-not",
+    "estimated useful lives"
+  ],
+  "risk_summary": "The disclosure reports a material 22% revenue decline, recurring operating losses, pandemic-driven customer budget cuts, and significant uncertainty regarding recovery and duration of impacts. Quantification is generally strong, but repeated forward-looking disclaimers and reliance on estimates and broad causal explanations limit transparency regarding the timing and magnitude of recovery."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "year-to-year comparisons omitted",
+    "primarily reflecting",
+    "partially offset by",
+    "insignificant amounts",
+    "quarter lag basis"
+  ],
+  "risk_summary": "The excerpt is highly quantified and provides substantial operating and balance-sheet detail, supporting relatively strong disclosure quality. Risk factors include elevated catastrophe losses, sizable net unrealized investment losses, reserve-development dependence, and exposure to market and foreign-currency conditions. The overall tone is confident and performance-oriented, although causation is sometimes described with broad offsetting phrases and the 2023-to-2022 comparison is omitted."
+}

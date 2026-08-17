@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "not possible to predict all",
+    "undertakes no obligation to update",
+    "management’s best estimation",
+    "unobservable data and assumptions"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and broad, non-quantified risk-factor language, limiting visibility into the magnitude and timing of potential impacts. Credit and valuation risks are acknowledged, particularly around loan-loss reserves, economic conditions, interest rates, regulatory changes, and Level 3 fair-value inputs, while the overall tone remains neutral to mildly confident."
+}

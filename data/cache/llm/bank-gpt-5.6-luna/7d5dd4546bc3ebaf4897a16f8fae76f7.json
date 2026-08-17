@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.3,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "we believe",
+    "expected to",
+    "not possible to predict",
+    "significant judgment and uncertainties"
+  ],
+  "risk_summary": "The disclosure presents a generally confident growth outlook tied to AI, advanced semiconductor nodes, HBM, and advanced packaging, while acknowledging cyclicality and specific near-term declines in China and Data Storage revenue. Risk quantification is mixed: the Data Storage decline is quantified at approximately $60–$70 million, but impairment, tax, customer adoption, and market forecasts remain subject to substantial uncertainty."
+}

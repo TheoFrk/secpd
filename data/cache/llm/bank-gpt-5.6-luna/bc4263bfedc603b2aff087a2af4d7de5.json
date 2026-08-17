@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly correlated to AUM",
+    "may impact revenues",
+    "mixed conditions",
+    "temporarily slowed Chinese growth",
+    "not gain a profitable level of assets"
+  ],
+  "risk_summary": "The disclosure is generally quantified and identifies material risks, including a 16.5% decline in period-end AUM, shareholder redemptions, market depreciation, fee pressure, and liquidation of an ETF. Risk exposure is concentrated in volatile, cyclical commodity and emerging-market products, while revenue remains sensitive to market levels and investor flows. The tone is predominantly factual but moderately negative due to declining assets and revenues."
+}

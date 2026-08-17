@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "first-in-class or best-in-class",
+    "may be effective",
+    "difficult to estimate duration and impact",
+    "no material delays foreseen"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking and risk-disclaimer language alongside promotional claims about clinical candidates and potential efficacy. It provides some useful trial, response-rate, cash-flow, and investment figures, but clinical outcomes remain preliminary and the company explicitly expects continuing negative operating cash flow with no assurance of future regulatory or commercial revenue."
+}

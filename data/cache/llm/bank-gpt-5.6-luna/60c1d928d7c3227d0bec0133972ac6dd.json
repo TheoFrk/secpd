@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "more likely than not",
+    "attributable to acquisitions",
+    "one-time costs",
+    "valuation allowance reversal",
+    "working capital deficit"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but repeatedly attributes changes to acquisitions without fully detailing underlying operating drivers. Credit risk is elevated by the $5.1 million working capital deficit, $16.7 million accumulated deficit, substantial acquisition-related debt, and reliance on a deferred-tax-asset valuation allowance reversal to report net income."
+}

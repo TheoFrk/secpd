@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and material differences",
+    "various market risks",
+    "could positively or negatively impact",
+    "not identified critical accounting estimates",
+    "reconciliation of net […]"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on segment performance, commodity exposure, inventory valuation, and interest expense, but relies heavily on standard forward-looking disclaimers and broad conditional language. Key risks include precious-metal price volatility, customer and partner concentration, cyclical supply constraints, lack of hedging, and potentially material inventory and earnings impacts. The tone is generally neutral to mildly confident, although the excerpt contains some incomplete or awkwardly presented disclosure."
+}

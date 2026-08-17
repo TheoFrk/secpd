@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "no assurance",
+    "cannot be predicted",
+    "foreseeable future",
+    "expected regulatory changes",
+    "remediation plan"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights material uncertainty around GSE eligibility, evolving capital standards, regulatory changes, and reliance on remediation and reinsurance arrangements. MGIC was below required financial-strength ratings and had previously exceeded the 25-to-1 risk-to-capital threshold, although capital infusions and reinsurance improved reported metrics. The overall tone is cautious and risk-aware rather than crisis-like."
+}

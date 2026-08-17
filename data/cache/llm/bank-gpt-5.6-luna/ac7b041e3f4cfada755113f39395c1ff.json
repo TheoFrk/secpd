@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.9,
+  "complexity_score": 0.42,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A disclosure",
+    "cross-reference to annual report"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk information and defers the MD&A discussion to another document. This limits transparency within the filing section, although incorporation by reference is a standard legal disclosure practice."
+}

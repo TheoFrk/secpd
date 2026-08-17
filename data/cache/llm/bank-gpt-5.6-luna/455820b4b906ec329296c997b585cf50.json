@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be reasonably estimated",
+    "we believe",
+    "expected to receive",
+    "mitigate the impact",
+    "not comparable to similarly defined"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively transparent, reporting segment revenue, margins, operating income, and pandemic effects. Risk is concentrated in Distribution’s sensitivity to economic and discretionary spending, COVID-19 uncertainty, vendor rebate reductions, and reliance on estimates and acquisitions. Management maintains a cautiously positive tone, emphasizing recurring Service revenue and diversification while using some forward-looking and non-GAAP framing."
+}

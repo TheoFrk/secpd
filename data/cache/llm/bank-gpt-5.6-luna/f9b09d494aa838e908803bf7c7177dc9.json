@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "based on information available",
+    "could reflect different estimates",
+    "when available",
+    "not currently taken an aggressive posture",
+    "allocated in proportion"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and provides clear drivers for declining net interest income, margins, and earnings, while also reporting improving credit quality and lower losses. Risk remains moderate due to sustained low rates, shrinking loan volumes, margin compression, and reliance on subjective loan-loss estimates; boilerplate accounting caveats modestly reduce precision."
+}

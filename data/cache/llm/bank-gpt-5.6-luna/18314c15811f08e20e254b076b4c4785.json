@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to significant fluctuations",
+    "could change in the future",
+    "likely to result in",
+    "complex, uncertain and subject to change",
+    "success ... may be influenced"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including AUM, market appreciation, flows, revenues, and fee metrics. It acknowledges material exposure to market volatility, investor flows, regulatory costs, and economic uncertainty, but uses standard forward-looking caveats and broad strategy language. Overall tone is cautiously positive, reflecting improved operating performance rather than distress."
+}

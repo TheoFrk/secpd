@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.64,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "known and unknown risks and uncertainties",
+    "no assurance",
+    "numerous significant risks and uncertainties",
+    "dependent upon factors outside our control"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate risk disclaimers and limited assurance regarding the sale review process and future results. The risk profile is materially negative due to suspended clinical development, reliance on declining PegIntron royalties, upcoming royalty expirations, and the OMONTYS recall. Quantitative historical disclosures provide useful detail, but forward-looking visibility remains limited."
+}

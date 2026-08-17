@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.42,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "Company believes",
+    "intends to issue",
+    "may also access",
+    "supplemental industry measure",
+    "subject to revision or withdrawal"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and provides detailed operating, leasing, development, and financing information, supporting generally transparent disclosure. Risk tone is cautiously positive, but reliance on non-GAAP measures, future financing access, development leasing, tenant recoverability, and market conditions introduces material execution and liquidity sensitivities."
+}

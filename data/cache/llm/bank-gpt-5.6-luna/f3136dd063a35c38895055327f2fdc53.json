@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "subjective and/or complex judgments",
+    "further and prolonged deterioration",
+    "cannot guarantee asset/liability strategies"
+  ],
+  "risk_summary": "The excerpt uses substantial standardized cautionary and accounting-disclosure language, with extensive hedging around forecasts, estimates, and potential credit deterioration. Risk exposure is meaningful, particularly from loan losses, valuation impairments, weak loan growth, low interest rates, and declining fourth-quarter net interest margin, although the discussion includes useful quantified sensitivity data and management actions."
+}

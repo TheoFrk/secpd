@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not known with certainty",
+    "complex and subjective judgments",
+    "subject to unanticipated fluctuation",
+    "cannot provide assurance",
+    "other relevant information"
+  ],
+  "risk_summary": "The excerpt provides a detailed discussion of insurance pricing, reserve estimation, inflation, market conditions, and valuation methodologies, but emphasizes substantial uncertainty without quantifying potential reserve or valuation impacts. Risk is elevated by long-tail claims, changing inflation and legal trends, competitive pricing pressure, and reliance on subjective actuarial and fair-value assumptions. Management maintains a moderately constructive tone, citing market opportunities and decentralized operating flexibility."
+}

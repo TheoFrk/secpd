@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "significant judgment and estimates",
+    "as deemed necessary",
+    "additional details are discussed",
+    "stabilizing economic environment",
+    "cross-references to other sections"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and reports improved earnings, capital ratios, loan growth, and lower credit-related expenses, producing a moderately positive tone. However, recurring cross-references, dense accounting language, and reliance on management judgments regarding reserves, collateral values, and economic conditions limit transparency into underlying credit risk."
+}

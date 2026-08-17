@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "unfavorable performance and other",
+    "largely reflecting",
+    "not restated",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed segment-level explanations, limiting evasiveness. It identifies meaningful risks, including declining revenue and segment profit, dealer sell-through weakness, restructuring, impairments, and workforce reductions, but presents them in a controlled and generally confident tone."
+}

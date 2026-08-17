@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "known and unknown risks",
+    "primarily due to",
+    "we anticipate",
+    "process of evaluating ongoing"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, with detailed revenue, margin, cost, and comparable-sales metrics. Risk is moderate: food-cost inflation pressured restaurant margins, operating expenses are expected to rise, and lease adoption is expected to materially increase reported assets and liabilities. Overall performance is stable to modestly positive, but reliance on expectations and standard disclaimers limits forward-looking certainty."
+}

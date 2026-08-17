@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "principally due to",
+    "solid financial results",
+    "strategic initiatives",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides clear year-over-year drivers, supporting relatively low vagueness. Risk tone is generally positive, although the quarter showed lower net income, a substantial increase in loan-loss provision, higher expenses, market-related hedge ineffectiveness, and reliance on non-GAAP presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "among other things",
+    "may be affected",
+    "subject to business and market conditions",
+    "expected to remain substantially unchanged",
+    "actual usage may differ"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and confident operating outlook, supported by quantified revenue mix, debt, liquidity, and repurchase information. However, performance depends on innovation, product mix, hardware deliveries, customer demand, acquisitions, foreign exchange, and uncertain future accounting and capital-allocation outcomes. The truncated tables and repeated cross-references limit assessment of underlying trends and exposures."
+}

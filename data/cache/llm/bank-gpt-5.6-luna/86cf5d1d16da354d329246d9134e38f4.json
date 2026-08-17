@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "may cause customers to curtail or delay spending",
+    "designed to enable",
+    "possibility of suspensions, delays or order cancellations",
+    "assumptions based on expected usage",
+    "forecasted future demand and market conditions"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including year-over-year revenue, expense, margin, tax, and inventory information. It includes meaningful risk discussion around COVID-19, customer concentration/exposure, government spending, supply disruptions, and inventory obsolescence, although some forward-looking statements rely on broad conditional language. Operating results improved modestly, but reduced cash balances, lower interest income, and demand uncertainty temper the otherwise mildly favorable tone."
+}

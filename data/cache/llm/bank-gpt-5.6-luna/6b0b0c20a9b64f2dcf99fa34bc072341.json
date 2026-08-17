@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.42,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to substantial uncertainty",
+    "unable to predict the ultimate impact",
+    "less than 1 percentage point",
+    "primarily due to",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt is generally confident and results-focused, with substantial quantified revenue, operating profit, pension, acquisition, and shareholder-return data. Risk disclosure is partly qualified through COVID-19 uncertainty and extensive attribution language, while the excerpt’s long, nested sentences and non-GAAP adjustments increase interpretive complexity."
+}

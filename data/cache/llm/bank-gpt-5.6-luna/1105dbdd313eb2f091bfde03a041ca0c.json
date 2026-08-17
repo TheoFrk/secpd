@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "potential impact remains unclear",
+    "significant uncertainty remains",
+    "may adversely affect",
+    "could have an adverse effect",
+    "cannot predict the direction"
+  ],
+  "risk_summary": "The disclosure is generally detailed and includes meaningful quantification, but relies on extensive conditional language regarding competition, reimbursement, Brexit, regulatory outcomes, and product development. The risk tone is balanced to mildly cautious: strong earnings growth and OCREVUS sales are offset by substantial dependence on key products, pricing pressure, biosimilar competition, and uncertain geopolitical and regulatory effects."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.16,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unable to compare industry trends",
+    "we believe",
+    "likely due to",
+    "anticipates continuing to temper production",
+    "tables and data omitted"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, reporting sales, margins, production, inventory, backlog, and product-liability impacts. Risk is moderate: declining sales and shipments, lower orders and backlog, demand uncertainty, distributor inventory constraints, and potential production disruptions are identified, although management describes active mitigation. Several explanatory claims rely on judgment and the excerpt omits referenced tables and part of the operating-income discussion."
+}

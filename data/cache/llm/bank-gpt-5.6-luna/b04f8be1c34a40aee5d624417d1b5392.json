@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.22,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "cannot be reasonably estimated",
+    "expected to continue generating losses",
+    "restatement of 2018 results",
+    "significant judgment required"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue growth and segment detail, but includes substantial boilerplate disclaimers and promotional language. Risk tone is moderately negative due to the COVID-19 disruption, historical and expected future losses, deferred tax valuation allowance, and a prior-period restatement. Key adverse impacts and loss estimates are partly left unquantified because management states they cannot be reasonably estimated."
+}

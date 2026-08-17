@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.7,
+  "risk_sentiment": 0.35,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "subject to change as business conditions warrant",
+    "timing and size may impact cash requirements",
+    "estimated based on current information",
+    "actual amounts paid may be different"
+  ],
+  "risk_summary": "The excerpt is largely specific and quantitatively supported, reporting declining sales and exposure to competition, currency movements, commodity costs, crop characteristics, and variable pension funding. Management maintains a generally confident tone, emphasizing improved profitability, cash, inventory, and debt, while relying on standard forward-looking and estimate-related caveats."
+}

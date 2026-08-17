@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.38,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "subject to risks, uncertainties, and other factors",
+    "primarily due to",
+    "modest organic loan growth",
+    "favorable commercial loan growth outlook",
+    "we expect this benefit to decline over time"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and well quantified, with detailed drivers of earnings, funding, loan growth, acquisitions, and margin performance. Risk tone is cautiously positive, though it acknowledges interest-rate pressure, reliance on acquisition-related accretion, integration costs, and the expected decline of accretion benefits."
+}

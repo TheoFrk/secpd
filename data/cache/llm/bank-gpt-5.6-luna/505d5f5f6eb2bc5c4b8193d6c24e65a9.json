@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.14,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "partially offset by",
+    "underlying underwriting margins",
+    "prior year reserve development",
+    "lower reinvestment yields",
+    "catastrophe losses"
+  ],
+  "risk_summary": "The excerpt is highly quantitative and transparent, reporting strong earnings, capital, liquidity, underwriting results, and cash flow. Key risks include catastrophe exposure, reliance on favorable prior-year reserve development, declining investment income from lower reinvestment yields, and gains from nonrecurring legal and tax matters."
+}

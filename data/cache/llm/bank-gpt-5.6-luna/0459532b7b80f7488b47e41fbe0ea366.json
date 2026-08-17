@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.14,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.56,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP adjusted measures",
+    "effective tax rate fluctuations",
+    "subject to certain conditions",
+    "uncertain tax positions",
+    "excerpt truncation"
+  ],
+  "risk_summary": "The disclosure is relatively precise and quantitative, emphasizing strong production, revenue, cash flow, debt reduction, and expected growth. Key risks include elevated interest expense, significant tax-rate volatility, acquisition integration and execution risk, commodity-price exposure, and reliance on forward-looking production guidance."
+}

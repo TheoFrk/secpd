@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "usual customer discounts, allowances and incentives",
+    "significant management judgments and estimates",
+    "may vary significantly",
+    "as detailed below",
+    "primary sources of funds"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and moderately confident operating profile, supported by quantified sales, cash flow, acquisitions, dividends, and financing activity. Key credit risks include declining sales, seasonal working-capital needs funded by revolver borrowings, warranty and overstock returns, customer concentration, and reliance on management estimates for allowances. The excerpt is lengthy and highly detailed but partly boilerplate, and its truncation limits assessment of leverage, covenant headroom, and liquidity sufficiency."
+}

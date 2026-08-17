@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "well positioned",
+    "significant discretion",
+    "range of reasonable IBNR reserves",
+    "intended to reflect uncertainty"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, with explicit performance targets, year-over-year changes, and identified drivers such as catastrophe losses and investment gains. Risk is moderated by acknowledged market uncertainty, weather-related losses, investment timing discretion, and judgment-heavy reserve estimates, while management maintains a generally confident tone."
+}

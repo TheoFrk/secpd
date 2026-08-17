@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no other revenue generating contracts",
+    "past due rent payments",
+    "automatic conversion and dilution",
+    "qualitative impairment assessment"
+  ],
+  "risk_summary": "The excerpt is highly technical and transaction-heavy, with substantial equity issuance, convertible financing, and dilution alongside evidence of liquidity stress, including approximately $4.0 million of past-due rent. The company remains preclinical and has no other revenue-generating contracts, indicating significant execution and funding risk despite quantified disclosures and cost savings from terminating the sublease."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.63,
+  "risk_sentiment": 0.38,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inability to quantify certain comparative metrics",
+    "Actual results could differ from these estimates",
+    "primarily attributable to",
+    "acquisition related borrowing",
+    "unfavorable foreign currency translation"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting sales, margins, acquisition effects, currency impacts, and segment performance. Key risks include reliance on acquisitions for growth, acquisition-related borrowing, foreign-exchange headwinds, softer industrial indicators, and estimation uncertainty in inventory and other accounting balances. Overall tone is moderately confident despite these exposures."
+}

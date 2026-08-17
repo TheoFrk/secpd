@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.2,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "generally based on",
+    "anticipated settlement",
+    "subject to final approval",
+    "can fluctuate significantly"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but highlights rising labor, fuel, insurance, depreciation, and legal costs. Litigation exposure includes a preliminarily approved $16.5 million settlement, while increased self-insurance creates additional claims risk. Overall tone is neutral to mildly negative rather than crisis-like."
+}

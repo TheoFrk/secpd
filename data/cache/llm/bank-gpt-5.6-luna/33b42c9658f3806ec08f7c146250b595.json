@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.35,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "more than offset",
+    "could cause actual results to differ",
+    "future undiscounted cash flows",
+    "different assumptions"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, with clear year-over-year segment, margin, impairment, tax, and earnings data. Risk factors include declining Diving and Outdoor Equipment sales, product recall exposure, goodwill impairment, currency effects, and sensitivity to assumptions in asset valuations and warranty reserves. Overall tone is moderately positive, although favorable results rely partly on lower legal expense and may obscure underlying segment weakness."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "unpredictable ways",
+    "nearly impossible to predict events",
+    "highly leveraged carriers",
+    "greater threat than any external force",
+    "satisfactory working relationships"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, describing revenue mechanics, geographic concentration, carrier exposure, and operational dependencies. Risk tone is balanced but highlights meaningful vulnerabilities, including highly leveraged transportation providers, regulatory changes, capacity shifts, customer credit risk, and dependence on maintaining corporate culture. Some broad, difficult-to-test assertions and dense narrative reduce transparency around the magnitude and potential financial impact of these risks."
+}

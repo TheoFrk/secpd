@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "non-GAAP measures",
+    "many factors",
+    "primarily as a result",
+    "in the event that",
+    "may not use the same terminology"
+  ],
+  "risk_summary": "The disclosure is generally transparent and strongly quantified, with detailed revenue definitions, historical growth data, segment metrics, and reconciliation information. Risk is moderate but not crisis-like, involving exposure to premium rates, loss ratios, economic conditions, acquisitions, and contingent commissions. The optimistic outlook is qualified by forward-looking assumptions and reliance on non-GAAP organic revenue measures."
+}

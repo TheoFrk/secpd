@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict ultimate duration, scope and severity",
+    "could continue into fiscal 2024",
+    "may adversely impact",
+    "other factors may limit",
+    "ever-changing consumer and business climate"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including customer traffic, debt balances, interest expense, cash flows, and operating metrics. Key risks include inflation, commodity volatility, labor and supply constraints, COVID-19 impacts, dependence on Smithfield Foods, and the 2025 Notes maturity, although management presents mitigation efforts and improved operating trends. Boilerplate pandemic language and broad conditional statements create some uncertainty but do not appear materially evasive."
+}

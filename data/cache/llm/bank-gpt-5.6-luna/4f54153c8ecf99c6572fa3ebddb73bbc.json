@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot predict future impact",
+    "expected to continue",
+    "may be significantly affected",
+    "management believes",
+    "primarily due to"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, but highlights continuing access-line declines, competitive pressure, and regulatory uncertainty affecting voice and access revenues. Growth from broadband, video, service bundling, and the SETC spin-off partially offsets these pressures, while the acquisition increased debt by $3.3 million."
+}

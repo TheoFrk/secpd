@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.34,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "inherently uncertain",
+    "non-GAAP adjusted earnings",
+    "significant unusual and non-recurring items",
+    "management accounting assumptions and allocations"
+  ],
+  "risk_summary": "The excerpt reports a substantial net loss, operating cash burn, lower adjusted earnings, and material impairment and restructuring-related charges. Extensive non-GAAP adjustments and allocated business-unit measures may complicate comparability, although the disclosure provides substantial quantitative detail and identifies key drivers."
+}

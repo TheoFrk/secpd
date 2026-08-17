@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and material uncertainty",
+    "encouraging preliminary signs of efficacy",
+    "unique and novel discoveries",
+    "strategic alternatives without further details",
+    "no material impact anticipated"
+  ],
+  "risk_summary": "The disclosure provides useful clinical-trial design, enrollment, endpoint, and preliminary efficacy metrics, but emphasizes favorable open-label results before unblinding and relies on conditional language around development and commercialization. Key risks include trial execution and COVID-19 disruption, uncertain clinical efficacy, regulatory outcomes, financing/resource constraints, and undisclosed strategic alternatives."
+}

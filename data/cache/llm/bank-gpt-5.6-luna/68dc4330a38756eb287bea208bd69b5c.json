@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.48,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ from estimates",
+    "numerous critical assumptions",
+    "estimates of fair value",
+    "range of potential probable losses",
+    "significantly different from assumptions"
+  ],
+  "risk_summary": "The disclosure is highly detailed and quantified, but highlights material estimation uncertainty in returns, impairments, pensions, taxes, real estate values, and litigation. Operating performance remains weak, with declining revenue, continuing losses, prior goodwill and real estate impairments, and a materially higher unfunded pension liability."
+}

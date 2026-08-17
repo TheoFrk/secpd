@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.38,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily due",
+    "significant management judgment",
+    "estimated uninsured deposits",
+    "factors beyond our control",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, showing improved earnings, stable deposits, strong regulatory capital, and low credit-loss provisioning. Key risks remain sensitivity of CECL estimates to economic forecasts, real estate and industry conditions, a substantial uninsured-deposit base, and reliance on management judgments. The excerpt is truncated, limiting assessment of the full credit-risk profile."
+}

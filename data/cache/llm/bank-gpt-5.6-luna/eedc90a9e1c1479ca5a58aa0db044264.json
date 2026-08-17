@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.08,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "material adverse effect",
+    "reasonable possibility estimates will change",
+    "complexities involved in these estimations"
+  ],
+  "risk_summary": "The excerpt provides useful quantified revenue, asset, facility, payer-mix, and sensitivity data, but contains extensive standard forward-looking disclaimers and broad qualifications. Key risks include reimbursement uncertainty, regulatory and legislative changes, collections, retrospective settlements, and tax audits; operating results were mixed, with revenue growth but a decline in pretax income."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "not able to estimate future costs",
+    "subject to change",
+    "assuming no new competitors enter"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimers and several unquantified contingencies, particularly regarding the molasses incident, competitive conditions, and the Horizon acquisition. Operating outlook language is moderately positive, but earnings remain exposed to freight rates, vessel overcapacity, seasonality, port congestion, litigation costs, and acquisition-related liabilities."
+}

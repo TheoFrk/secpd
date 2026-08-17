@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "due primarily to",
+    "partially offset by",
+    "no assurance as to",
+    "gain contingency",
+    "non-GAAP financial measure"
+  ],
+  "risk_summary": "The excerpt is highly quantified and explains year-over-year drivers, with generally positive earnings and premium growth. Risk factors include catastrophe losses, reserve development, investment volatility, acquisition-related costs, and uncertainty regarding collection of the CSC judgment. Dense accounting terminology and repeated cross-references reduce accessibility but do not appear materially evasive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and assumptions",
+    "risks and uncertainties",
+    "factors beyond our control",
+    "may not be indicative of future periods",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt is generally positive and quantitatively detailed, highlighting revenue and net income growth, reduced interest expense, and diversified segment activity. Risk disclosure relies partly on standard forward-looking disclaimers and broad lists of external factors, while percentage-of-completion estimates and fixed-price contracts create exposure to cost overruns and margin volatility."
+}

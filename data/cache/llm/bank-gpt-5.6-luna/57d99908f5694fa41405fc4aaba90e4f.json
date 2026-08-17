@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "primarily related to",
+    "not indicative of future prospects",
+    "intent and ability to hold",
+    "management regards as more meaningful"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating trend with extensive quantitative detail on premium, earnings, margins, sales, and book value growth. Risk disclosure is partly framed through management-defined non-GAAP measures that exclude realized gains, losses, and unusual items, potentially emphasizing core performance while de-emphasizing volatility. The insurance and investment discussion is technically dense and includes exposure to interest-rate-driven unrealized gains and losses."
+}

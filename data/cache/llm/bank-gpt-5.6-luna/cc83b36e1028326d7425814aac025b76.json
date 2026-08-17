@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP financial measures",
+    "not contemplated in business outlooks",
+    "subject to obtaining commitments",
+    "planned improvements",
+    "we believe we are on the right path"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, with clear sales, earnings, cash flow, restructuring, and borrowing figures. Risk factors include international business exits, Canadian store closures, transformation execution, and reliance on commercial paper and term debt, but management presents these developments in a generally confident and improvement-oriented tone."
+}

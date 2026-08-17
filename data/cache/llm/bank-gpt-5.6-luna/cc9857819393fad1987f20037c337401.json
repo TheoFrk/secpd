@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "highly leveraged company",
+    "significant portion of cash flow",
+    "may significantly affect",
+    "timing can fluctuate",
+    "ongoing negotiations"
+  ],
+  "risk_summary": "The excerpt identifies meaningful credit risks, including high leverage, substantial debt-service requirements, foreign-exchange exposure, competitive pressure, regulatory uncertainty, and customer contract negotiations. While several revenue and expense drivers are quantified, portions rely on broad qualifiers and forward-looking expectations without detailed sensitivity analysis or quantified downside scenarios."
+}

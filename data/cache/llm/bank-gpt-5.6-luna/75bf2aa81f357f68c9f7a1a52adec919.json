@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.31,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "unaudited combined results",
+    "Non-GAAP presentation",
+    "qualitative analysis",
+    "ongoing cost savings initiatives",
+    "Fresh Start Accounting adjustments"
+  ],
+  "risk_summary": "The disclosure is materially risk-negative because the company emerged from Chapter 11 and related Dutch restructuring proceedings in 2023, with elevated interest expense, foreign exchange losses, impairments, and service-margin pressure. Operating performance is described with some useful quantitative metrics, including sales growth and unit-volume changes, but extensive restructuring and fresh-start accounting adjustments reduce comparability between periods. The excerpt also relies on broad management assertions and qualitative impairment assumptions that may limit transparency regarding f…"
+}

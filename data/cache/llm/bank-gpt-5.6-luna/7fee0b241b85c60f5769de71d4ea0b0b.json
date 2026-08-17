@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "risks, uncertainties and assumptions",
+    "actual outcomes may differ materially",
+    "no obligation to update",
+    "various opportunities and challenges"
+  ],
+  "risk_summary": "The excerpt presents a generally confident operating outlook supported by quantified revenue growth, cash returns, and pipeline progress. However, extensive forward-looking disclaimers and broad conditional language highlight material risks from competition, biosimilar exposure, pricing pressure, regulation, product development uncertainty, and reimbursement constraints."
+}

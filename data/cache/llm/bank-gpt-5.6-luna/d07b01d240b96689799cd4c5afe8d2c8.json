@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.3,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "management believes",
+    "future adjustments could be necessary",
+    "if circumstances or economic conditions differ",
+    "best information available",
+    "strong underlying financial positions"
+  ],
+  "risk_summary": "The excerpt is substantially quantified, with detailed year-over-year changes in net interest income, deposits, provisions, charge-offs, and nonperforming loans. Risk disclosures are present but rely on standard management-judgment language regarding loan-loss adequacy and potential economic deterioration. Overall tone is cautiously positive, supported by improving earnings and asset-quality metrics, while acknowledging sensitivity to rates, local economic conditions, and regulatory review."
+}

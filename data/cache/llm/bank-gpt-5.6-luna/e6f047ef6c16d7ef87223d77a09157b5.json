@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.3,
+  "risk_sentiment": 0.0,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "cross-reference to Appendix A",
+    "no substantive MD&A disclosure",
+    "repeated section title"
+  ],
+  "risk_summary": "The excerpt provides no financial, liquidity, operating, or risk analysis and merely redirects readers to another section. This prevents meaningful assessment of the issuer's condition from the provided text."
+}

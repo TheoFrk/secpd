@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.56,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "long-term outlook supports strategy",
+    "expected demand",
+    "near-term volatility",
+    "non-typical order"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and specific regarding sales, margins, market mix, restructuring, and profitability. Risk tone is moderately negative because energy and nuclear markets are contracted, orders are reduced, pricing is competitive, and international sales declined, although management emphasizes diversification and long-term demand. Forward-looking disclaimers and reliance on expected market recovery introduce uncertainty around the outlook."
+}

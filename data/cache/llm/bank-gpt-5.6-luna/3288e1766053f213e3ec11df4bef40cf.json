@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "other factors and trends",
+    "actual results could differ",
+    "if circumstances warrant",
+    "probable losses"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes some quantified impacts, including the $7.476 million termination charge and margin data. However, allowance and valuation estimates rely heavily on management judgment, broad qualitative factors, and inherently uncertain cash-flow assumptions. The tone is largely neutral and compliance-oriented rather than crisis-like, with moderate embedded credit and valuation risk."
+}

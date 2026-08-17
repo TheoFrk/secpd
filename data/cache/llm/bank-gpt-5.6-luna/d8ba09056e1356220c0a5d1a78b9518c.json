@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "considerable uncertainty",
+    "too early to tell with any kind of precision",
+    "actual results could differ materially",
+    "subject to seasonal fluctuations",
+    "non-GAAP performance measure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, acquisitions, EBITDA, and free cash flow, but repeatedly emphasizes uncertainty around COVID-19 impacts and future advertising demand. Results benefited materially from acquisitions and political advertising, creating comparability and cyclicality risks. Liquidity is described positively, although the excerpt ends before providing complete detail on ongoing risks and financial position."
+}

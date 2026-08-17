@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "no assurance",
+    "may need to",
+    "subject to extensive regulations",
+    "uncertainty of generating taxable income"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights material exposure to volatile commodity prices, concentrated assets, production declines, impairment risk, regulatory obligations, and potential funding shortfalls. The tone is cautious rather than crisis-like, with meaningful reliance on conditional language and standard forward-looking disclaimers."
+}

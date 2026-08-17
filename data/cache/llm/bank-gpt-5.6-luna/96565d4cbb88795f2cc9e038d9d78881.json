@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "certain other circumstances",
+    "up to approximately",
+    "subject to future tax, interest, and penalty assessments",
+    "significant judgment is required",
+    "based on the terms of the agreement"
+  ],
+  "risk_summary": "The excerpt is generally factual and commercially confident, with substantial quantified milestone, royalty, and licensing information. Risk disclosure is partially obscured by dense legal and accounting language, broad qualifiers, reliance on estimates, regulatory uncertainty, and an incomplete section ending."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "excluding these items",
+    "pro forma basis",
+    "strong financial position",
+    "sufficient liquidity",
+    "potentially attractive returns"
+  ],
+  "risk_summary": "The excerpt is generally precise and well quantified, with detailed year-over-year and pro forma reconciliations. Risk is moderated by increased debt and interest expense, volatile or adjusted earnings, weather-related weakness, and reliance on discrete tax benefits, despite management's positive liquidity characterization."
+}

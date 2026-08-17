@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "estimated annual installments",
+    "changes in estimates of future installments",
+    "continuing involvement",
+    "generally standard accounting policies",
+    "no material losses"
+  ],
+  "risk_summary": "The disclosure is relatively specific and quantified, including liquidity, regulatory capital, settlement costs, and contingent payment terms. Risk tone is moderately negative due to declining revenues, intense competition, market sensitivity, customer concentration, and uncertainty in the purchase obligation, although liquidity and regulatory capital appear strong."
+}

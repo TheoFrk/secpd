@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.42,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could cause actual results to differ materially",
+    "leading innovator/global leadership claims",
+    "based on current trends",
+    "factors adversely affecting pricing or demand"
+  ],
+  "risk_summary": "The excerpt presents a generally positive growth narrative supported by quantified revenue, cash-flow, customer, and patent metrics, while acknowledging competition, fraud, cyber-attacks, regulatory, and demand risks. Risk disclosure is partly boilerplate and promotional, with limited quantification of downside scenarios and the excerpt ending mid-sentence, reducing completeness."
+}

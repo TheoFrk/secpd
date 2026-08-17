@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "likely and should projections",
+    "unsettled global outlook",
+    "subject to temporary increase",
+    "non-voting revenues and profits interests",
+    "without charge or expense"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on earnings, revenue shares, fees, assets under management, and operating changes, reducing overall disclosure vagueness. Risk is moderated but present due to flat net income, lower operating income, declining AUM, fee waivers, limited governance rights over EAM, and reliance on uncertain economic forecasts."
+}

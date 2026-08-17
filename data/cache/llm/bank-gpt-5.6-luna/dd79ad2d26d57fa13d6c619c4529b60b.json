@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict the future trend",
+    "among other things",
+    "not subject to accurate forecasting",
+    "two-month delayed basis",
+    "non-GAAP discussion and analysis"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with specific financial impacts for the business sale, restructuring, impairments, and segment performance. Risk disclosures are broadly factual but include inherent forecasting limitations related to claim volumes, weather events, and economic conditions. The tone is neutral to mildly negative due to declining segment earnings, prior goodwill impairment, and revenue pressures."
+}

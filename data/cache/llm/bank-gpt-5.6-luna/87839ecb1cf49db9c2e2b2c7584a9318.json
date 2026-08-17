@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.79,
+  "redundancy_score": 0.61,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.24,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot be quantified or predicted with specificity",
+    "potential effects",
+    "uncertainty and changes in circumstances",
+    "could adversely affect",
+    "appropriate actions in efforts to mitigate"
+  ],
+  "risk_summary": "The excerpt presents broad and material exposure to macroeconomic, regulatory, geopolitical, inflationary, supply-chain, permitting, and demand risks, while providing limited quantified impact estimates. Extensive conditional language and repeated risk framing reduce specificity, although management expresses confidence in liquidity and operational strengths. The acquisition and goodwill discussion adds complexity and indicates reliance on qualitative assessments and Level 3 fair-value inputs."
+}

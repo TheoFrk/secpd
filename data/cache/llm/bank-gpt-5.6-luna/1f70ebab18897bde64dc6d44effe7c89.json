@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "not necessarily indicative",
+    "non-GAAP measures",
+    "expected to close",
+    "whenever possible"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, reporting sales, volumes, margins, commodity costs, and relocation impacts. Risk tone is mildly positive due to cited cost reductions and supply-chain efficiencies, but declining sales, major facility relocation, acquisition execution, and reliance on adjusted measures introduce material uncertainty."
+}

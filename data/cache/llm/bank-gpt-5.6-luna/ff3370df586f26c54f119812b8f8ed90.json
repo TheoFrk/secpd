@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.82,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.88,
+  "risk_sentiment": -0.24,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurances",
+    "risks and uncertainties",
+    "among others",
+    "unable to realize benefits"
+  ],
+  "risk_summary": "The excerpt is dominated by boilerplate forward-looking-statement disclaimers and an extensive, largely unquantified catalog of operational, regulatory, litigation, commercialization, and strategic risks. It provides some concrete operating detail, including more than 240,000 stored specimens and specific dates, but the discussion is highly complex and offers limited quantified assessment of risk severity or financial impact."
+}

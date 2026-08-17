@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.35,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "believe and expect language",
+    "material impact uncertainty",
+    "no obligation to update",
+    "boilerplate risk incorporation"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified operating data, including revenue, case volumes, pricing, margins, and seasonality, but relies on management beliefs and projections for future performance. Key risks include industry pricing pressure, reimbursement changes, dependence on increasing retail case volumes, inventory obsolescence, and execution of acquisitions and operational shifts. Overall tone is cautiously constructive but materially qualified by uncertainty and standard forward-looking disclaimers."
+}

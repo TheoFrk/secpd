@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.58,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "all figures are approximations",
+    "no assurance",
+    "material adverse effect",
+    "highly concentrated customers",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The disclosure is quantitatively detailed but highlights substantial deterioration, including a 21.4% revenue decline, lower net income, and extreme dependence on two customers. Wal-Mart’s discontinued product purchases are explicitly expected to have a material adverse effect, with no assurance that replacement sales will offset the impact."
+}

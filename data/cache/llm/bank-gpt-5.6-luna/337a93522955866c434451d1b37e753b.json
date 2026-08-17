@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "known and unknown risks",
+    "management’s judgment",
+    "factors may arise",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt provides some useful quantitative information on loan-loss methodology, goodwill testing, and net interest performance, but relies heavily on extensive boilerplate disclaimers and broad, non-quantified risk factors. Credit risk remains sensitive to economic conditions, property values, delinquencies, loan collectibility, funding costs, and management assumptions, although management states that allowance levels and goodwill valuations were adequate as of 2011."
+}

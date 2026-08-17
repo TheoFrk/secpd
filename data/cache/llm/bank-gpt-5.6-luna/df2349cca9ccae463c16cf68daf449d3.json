@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "among others",
+    "various initiatives",
+    "may never be profitable",
+    "no obligation to update"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking disclaimers and broadly worded risk factors, limiting specificity about future outcomes. Underlying risk tone is moderately negative, reflecting illiquidity, portfolio-company losses, valuation uncertainty, capital deployment constraints, and the termination of SEC reporting and exchange listing. Quantified transaction, dividend, repurchase, and cash-flow data provide some mitigating transparency."
+}

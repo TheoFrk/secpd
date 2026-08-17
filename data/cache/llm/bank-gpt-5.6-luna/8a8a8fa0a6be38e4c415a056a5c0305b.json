@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance",
+    "meaningful opportunities",
+    "believe",
+    "adequate liquidity"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on liquidity, cash flows, customer concentration, supplier costs, and inventory estimates, but relies heavily on standard safe-h harbor language and management assertions. Key risks include volatile demand, pricing pressure, concentrated customers and products, rising China-based sourcing costs, operating losses, and potentially material estimation changes. Management presents liquidity as adequate and reports no debt, tempering the otherwise cautious risk tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "could adversely affect",
+    "more likely than not",
+    "significant management judgment",
+    "if actual results differ"
+  ],
+  "risk_summary": "The disclosure is relatively precise and well quantified, with detailed explanations of acquisitions, customer losses, tax effects, cash flows, and cost drivers. Key risks include heavy concentration in the top three customers, exposure to raw material and logistics costs, inventory valuation judgments, and potential impairment or allowance charges. Overall performance improved, but the tone remains mildly cautious because profitability and asset values depend on customer conditions and management estimates."
+}

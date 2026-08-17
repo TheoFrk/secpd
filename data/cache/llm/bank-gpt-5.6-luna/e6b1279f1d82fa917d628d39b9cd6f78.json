@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management believes",
+    "driven primarily by",
+    "continued to evaluate",
+    "overall expansion strategy",
+    "underlying business trends"
+  ],
+  "risk_summary": "The excerpt presents strong quantified revenue growth and segment performance, producing a generally positive tone. However, decelerating enrollment growth, declining new-student enrollments, regulatory uncertainty around Title IV aid, and capacity or implementation delays indicate meaningful operating and compliance risks. Causal explanations rely in part on management attribution and forward-looking strategy statements."
+}

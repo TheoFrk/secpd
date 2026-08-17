@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "reasonable under the circumstances",
+    "as deemed necessary",
+    "actual results could differ",
+    "among other things",
+    "not material"
+  ],
+  "risk_summary": "The excerpt is technically detailed and provides accounting-policy definitions, but relies on standard boilerplate and management estimates that could obscure sensitivity to construction costs, inventory impairment, incentives, and guarantees. The tone is broadly neutral to mildly confident, with risks acknowledged but limited quantified sensitivity analysis in the provided section."
+}

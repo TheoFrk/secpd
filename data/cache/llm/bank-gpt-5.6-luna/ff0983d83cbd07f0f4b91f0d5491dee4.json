@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "probable and estimable",
+    "significant management judgment",
+    "unresolved contract modifications and claims",
+    "future revisions to estimated losses",
+    "contract execution and funding is probable"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial backlog and forecasted-loss quantification, but relies heavily on management estimates regarding claims, change orders, variable consideration, and contract execution. Risk tone is balanced to mildly cautious, with material exposure to economic conditions, public funding, project losses, and judgment-sensitive revenue recognition."
+}

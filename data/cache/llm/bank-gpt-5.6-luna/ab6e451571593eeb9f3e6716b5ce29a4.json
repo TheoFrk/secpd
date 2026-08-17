@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot be accurately predicted",
+    "may not be available",
+    "risks and uncertainties",
+    "expect to experience losses",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified revenue, margin, loss, and funding information, but highlights continuing losses, uncertain cash flow sufficiency, financing dependence, and possible unfavorable funding terms. Business risks include intense price competition, margin pressure, COVID-19 and supply-chain uncertainty, and reliance on growth in new products and eFPGA services."
+}

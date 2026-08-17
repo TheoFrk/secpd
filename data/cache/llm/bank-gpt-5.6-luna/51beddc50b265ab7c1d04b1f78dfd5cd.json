@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "strategically aligned or “bolt on” acquisitions",
+    "we believe that we have sufficient liquidity",
+    "as available and appropriate",
+    "general macroeconomic trends",
+    "slight to moderate revenue and operating margin declines"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on sales, operating income, liquidity, borrowings, leverage, and COVID-19 impacts, but relies heavily on strategic and operational boilerplate. Risk tone is mixed: management presents confidence in liquidity and recovery prospects while acknowledging pandemic-driven revenue declines, restructuring, inflationary costs, and expected near-term margin pressure."
+}

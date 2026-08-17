@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "undertake no obligation to revise",
+    "preliminary post-closing adjustments",
+    "based on industry knowledge and historical trends"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively detailed, with reported revenue, acquisition, segment, utilization, and margin data. Boilerplate forward-looking disclaimers and reliance on management estimates introduce some uncertainty, particularly around revenue allowances, liabilities, goodwill, and acquisition adjustments. Operating performance is presented in a broadly positive tone, although growth includes acquisition effects, volatile oil-spill work, and exposure to energy-sector activity."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "material adverse effect",
+    "could be terminated at any time",
+    "depends upon available funding",
+    "risks and uncertainties",
+    "no obligation to update"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, but highlights significant customer concentration and termination risk related to FedEx, declining segment profitability, and a sharp backlog reduction. The tone is predominantly factual and neutral, with moderate negative risk signals from unreimbursed operating costs, regulatory penalties, and dependence on customer and government funding decisions."
+}

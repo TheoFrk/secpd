@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risk uncertainties",
+    "significant management judgment",
+    "subject to adjustment",
+    "as discussed below",
+    "deconsolidation of the VIE"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating information, including revenue, margins, expenses, customer concentration, and operating income, limiting overall vagueness. Risk tone is mildly positive due to revenue and operating-income growth, but the disclosure relies on standard forward-looking disclaimers and highlights judgment-intensive tax estimates, VIE deconsolidation, government-contract exposure, and discontinued New Energy operations."
+}

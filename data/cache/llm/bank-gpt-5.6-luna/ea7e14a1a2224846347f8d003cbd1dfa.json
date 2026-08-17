@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.26,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "long-term, returns-focused approach",
+    "may change as environmental exposures change",
+    "general corporate purposes",
+    "critical and potentially emerging risks",
+    "information should be read in conjunction"
+  ],
+  "risk_summary": "The excerpt is relatively transparent and quantitatively detailed, citing reserves, production, project capacity, costs, rate increases, debt maturities, and financing actions. Risk tone is mildly positive due to growth and completed financing, but regulatory exposure, climate-related uncertainty, project spending, and reliance on borrowing remain material. ESG and risk-governance language is partly boilerplate and provides limited quantified downside analysis."
+}

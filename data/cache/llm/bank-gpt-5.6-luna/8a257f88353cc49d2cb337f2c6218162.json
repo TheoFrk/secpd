@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subject to regulation",
+    "monitoring developments",
+    "intended to protect",
+    "primarily due to",
+    "various impairments"
+  ],
+  "risk_summary": "The excerpt is highly detailed and quantified, but uses extensive segment descriptions and regulatory boilerplate that reduce readability. Risk tone is moderately negative due to substantial impairments, lower earnings, legal settlement costs, cancelled-project write-offs, and COVID-19 disruption, although management emphasizes reliable operations and stable fee-based revenues."
+}

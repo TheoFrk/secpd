@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "various risks and uncertainties",
+    "appropriate next steps",
+    "difficult to estimate the severity",
+    "not meaningful"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, with product-level revenue drivers, pipeline stages, and explicit discussion of development failure and regulatory risks. Risk tone is mixed: operational performance appears positive, but pricing pressure, loss of exclusivity, pipeline uncertainty, and the failed olaratumab trial temper confidence."
+}

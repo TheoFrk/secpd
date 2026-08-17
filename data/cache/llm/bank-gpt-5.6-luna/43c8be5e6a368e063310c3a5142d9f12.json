@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "subject to a number of risks and uncertainties",
+    "we assume no obligation to update",
+    "substantial resources and expenditures",
+    "single largest customer concentration"
+  ],
+  "risk_summary": "The excerpt presents business expansion, revenue growth, acquisition economics, and quantified development spending, but relies heavily on standard forward-looking disclaimers and contains material execution, regulatory, clinical, customer-concentration, and integration risks. The tone is cautiously constructive rather than crisis-like, although future costs and outcomes remain substantially dependent on uncertain approvals, trials, and commercialization."
+}

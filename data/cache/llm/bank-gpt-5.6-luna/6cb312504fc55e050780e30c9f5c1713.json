@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.52,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "non-GAAP performance measures",
+    "unobservable inputs (Level 3)",
+    "limited visibility regarding loss information",
+    "estimated earn-out obligations",
+    "catastrophic weather events"
+  ],
+  "risk_summary": "The excerpt presents a strongly positive operating narrative supported by substantial historical growth and current-year revenue and income increases. Key risks include exposure to insurance pricing, catastrophe losses, economic conditions, contingent commissions, and estimation uncertainty in Level 3 earn-out liabilities. Extensive non-GAAP measures and technical accounting explanations add complexity but are accompanied by quantified disclosures and reconciliation references."
+}

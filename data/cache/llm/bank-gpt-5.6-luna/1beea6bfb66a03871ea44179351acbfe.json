@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.68,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "various factors, including, but not limited to",
+    "subject to certain adjustments",
+    "maximum potential amount ... sometimes unlimited",
+    "if we are unsuccessful with future financings",
+    "substantial doubt about ability to continue as a going concern"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified detail on the Mayne transaction, royalty terms, divestiture proceeds, and payment obligations, but relies on broad qualifiers for contingencies and indemnification exposure. The risk tone is materially negative because management states that projected factors and financing uncertainty raise substantial doubt about the company’s ability to continue as a going concern. The transition to a one-employee royalty company and dependence on Mayne Pharma and future financing further heighten liquidity and execution risk."
+}

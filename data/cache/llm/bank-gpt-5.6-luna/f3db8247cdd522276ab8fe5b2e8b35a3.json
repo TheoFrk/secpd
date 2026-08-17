@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management judgment and estimates",
+    "among other things",
+    "generally",
+    "may impact",
+    "qualitative factors"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes quantified performance metrics, but critical estimates rely heavily on subjective assumptions regarding fair value, goodwill, taxes, and loan-loss allowances. Credit and interest-rate risks are acknowledged, while positive operating growth and acquisition effects create a mildly confident overall tone."
+}

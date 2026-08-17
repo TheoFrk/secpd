@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unable to predict with certainty",
+    "could extend uncertainty",
+    "believe ... will be able to",
+    "host of challenges and risks",
+    "forward-looking statements"
+  ],
+  "risk_summary": "The excerpt contains substantial regulatory and litigation uncertainty surrounding MATS, with potential negative effects on demand and revenue consistency. It also relies on promotional assertions about proprietary technology and growth initiatives while providing limited current financial quantification. Extensive legal, accounting, and compliance boilerplate increases complexity and reduces clarity."
+}

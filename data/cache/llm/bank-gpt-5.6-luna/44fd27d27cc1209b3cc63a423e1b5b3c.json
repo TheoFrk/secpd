@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.08,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "highly subjective assumptions",
+    "all relevant facts and circumstances",
+    "may result in additional costs",
+    "normal course of business",
+    "variety of factors"
+  ],
+  "risk_summary": "The disclosure is technically detailed and includes meaningful quantitative sensitivities for pension assumptions, contract costs, claims, and pass-through costs. However, substantial reliance on estimates, subjective assumptions, contract judgments, and broad conditional language creates material uncertainty around margins, liabilities, and revenue recognition. The tone is neutral and explanatory rather than crisis-like, with some acknowledgment of adverse outcomes such as unrecoverable costs, claims, litigation, and insurance gaps."
+}

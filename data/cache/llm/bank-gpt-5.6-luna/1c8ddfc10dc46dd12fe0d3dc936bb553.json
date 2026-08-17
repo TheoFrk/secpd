@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "largely attributable",
+    "primarily due to",
+    "may not be comparable",
+    "slight decrease",
+    "uncertain if or when"
+  ],
+  "risk_summary": "The disclosure is predominantly quantitative and transparent, with detailed year-over-year operating, margin, credit, and tax data. Risk factors include declining same-store sales, lower credit revenue, higher tax rates, and uncertainty regarding settlement of unrecognized tax benefits, but the tone is measured rather than crisis-like."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results will inevitably differ",
+    "more likely than not",
+    "significant estimates and assumptions",
+    "do not believe reflect ongoing operations",
+    "should not be considered in isolation"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed, but relies extensively on standard accounting-estimate caveats and non-GAAP measure explanations. Sales and annual net income declined year over year, while backlog increased; key risks center on customer collectability, inventory obsolescence, impairment assumptions, and pension estimates."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.46,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties beyond our control",
+    "cannot be quantified",
+    "no assurance additional financing",
+    "future commercialization dependent on licensees"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on revenue, expenses, losses, royalties, and cash requirements, but relies on extensive forward-looking disclaimer language and includes truncated discussion. Risk tone is materially negative: the company has recurring net losses, has not generated sufficient license revenue to fund operations, and depends on licensee commercialization and potentially unavailable financing, despite management's expectation that existing resources will suffice for the foreseeable future."
+}

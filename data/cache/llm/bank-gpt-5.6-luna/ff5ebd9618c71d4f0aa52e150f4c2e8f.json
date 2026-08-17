@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "significant degree of judgment",
+    "as deemed necessary by management",
+    "various valuation methodologies",
+    "may contribute to volatility",
+    "not deemed to be PCD"
+  ],
+  "risk_summary": "The excerpt is detailed and materially quantified, particularly regarding the People’s United acquisition, goodwill, integration costs, and credit-loss methodology. Complexity is high due to dense banking, accounting, and acquisition terminology, while some estimation language leaves room for management discretion. Overall tone is cautiously positive, reflecting strong operating results but acknowledging model, valuation, macroeconomic, and integration-related risks."
+}

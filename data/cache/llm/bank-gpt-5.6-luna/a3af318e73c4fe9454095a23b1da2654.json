@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.79,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "risks and uncertainties include but are not limited to",
+    "no assurance",
+    "limited visibility into future revenues",
+    "subjective decisions or assessments"
+  ],
+  "risk_summary": "The excerpt presents strong 2019 operating performance and liquidity, supported by specific revenue, earnings, cash, capital expenditure, and credit-facility figures. However, the disclosure relies heavily on broad, repetitive forward-looking risk language and acknowledges limited revenue visibility, short client-engagement durations, regulatory, litigation, cybersecurity, staffing, and macroeconomic exposures. Overall tone is cautiously confident rather than crisis-like, but the excerpt is lengthy and partially boilerplate."
+}

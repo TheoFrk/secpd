@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "expected to drive profitable growth",
+    "believes supply is generally in balance",
+    "primarily due to",
+    "normalized segment operating income",
+    "partially offset by"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified performance data and explains major changes, including divestitures, lower sales, lower volumes, and higher taxes. Risk tone is cautiously optimistic, relying on expected benefits from distributor contracts, premiumization, and strategic initiatives while acknowledging supply, competitive, and execution risks. Extensive organizational and segment-reporting detail increases complexity and includes some boilerplate framing."
+}

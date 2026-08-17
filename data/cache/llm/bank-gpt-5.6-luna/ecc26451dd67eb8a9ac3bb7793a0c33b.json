@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "actual results may differ",
+    "based on assumptions",
+    "unable to provide a reasonably reliable estimate",
+    "not able to determine the aggregate amount",
+    "we do not believe it is probable"
+  ],
+  "risk_summary": "The disclosure identifies meaningful cyclicality, uncertain semiconductor demand, customer hesitation, and significant management estimates, including substantial deferred tax valuation allowances. Quantification is provided in several areas, but contractual obligations and settlement timing remain uncertain, with reliance on broad assumptions and standard qualifying language."
+}

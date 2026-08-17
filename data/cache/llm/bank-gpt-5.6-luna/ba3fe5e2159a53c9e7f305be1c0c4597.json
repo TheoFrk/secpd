@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "potential for further development",
+    "to the extent possible",
+    "may be sufficient",
+    "extremely difficult to predict",
+    "and others"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, but includes optimistic development projections and conditional funding language. Liquidity and operating risks are elevated, reflected in declining operating cash flow and working capital, a net loss, commodity-price volatility, and reliance on credit availability."
+}

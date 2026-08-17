@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "\"we believe\"",
+    "\"temporary issue\"",
+    "\"we don’t know when\"",
+    "missing table data",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is substantially quantified and identifies weakening sales growth, margin compression, cyclical end-market exposure, energy-sector weakness, and debt-funded share repurchases. Management maintains a generally confident strategic tone, but relies on uncertain assertions regarding the temporary nature and timing of discretionary-spending pressure and future recovery."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.53,
+  "risk_sentiment": -0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance can be given",
+    "unknown factors and future events",
+    "beyond the Company's control",
+    "absent a material capital expenditure"
+  ],
+  "risk_summary": "The disclosure is substantially quantified but includes standard forward-looking disclaimers and limited assurance regarding future Bioprocessing revenues and liquidity. Operating performance deteriorated materially, with a swing to a net loss, lower sales and gross margins, reduced cash, and declining operating cash flow. Management states that available resources and operations should cover the next 12 months, subject to no unanticipated material capital expenditure."
+}

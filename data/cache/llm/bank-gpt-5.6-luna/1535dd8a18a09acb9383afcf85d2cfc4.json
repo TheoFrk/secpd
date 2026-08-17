@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.45,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherently subjective",
+    "susceptible to future market factors",
+    "not limited to these factors",
+    "subjectively adjusted",
+    "other factors cited above"
+  ],
+  "risk_summary": "The disclosure is substantially quantified and describes improving earnings, credit metrics, and reserve coverage. However, allowance adequacy relies heavily on management judgment, subjective adjustments, and broad qualitative factors, creating material estimation and downside risk if economic or borrower conditions deteriorate."
+}

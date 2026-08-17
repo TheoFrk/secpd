@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.4,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "materially different financial condition",
+    "various factors",
+    "among other things",
+    "limited nature of the market",
+    "management deems adequate"
+  ],
+  "risk_summary": "The excerpt is technically detailed and includes substantial quantitative disclosure, but relies heavily on management judgments, estimates, and broad caveats regarding fair value, impairment, and loan-loss adequacy. Risk tone is broadly neutral, with identifiable exposure to valuation uncertainty, credit losses, market liquidity, and regulatory or customer-behavior changes, partially offset by reported revenue growth and diversification."
+}

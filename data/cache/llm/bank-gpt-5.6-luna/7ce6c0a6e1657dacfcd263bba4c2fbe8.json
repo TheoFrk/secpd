@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.76,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "many of which are beyond our control",
+    "actual results could differ materially",
+    "no obligation to update",
+    "other additional risks and factors"
+  ],
+  "risk_summary": "The excerpt is dominated by extensive forward-looking-statement disclaimers and a broad catalog of potential risks, with limited quantified discussion in the provided portion. It reports some favorable trends, including improved margins, lower interest expense, reduced pension deficit, divestitures, and a stated reduced-risk strategy, but ongoing exposure includes leverage, contractual losses, claims, cybersecurity, project cancellations, and macroeconomic volatility."
+}

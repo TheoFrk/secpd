@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "high degree of judgment",
+    "other pertinent factors",
+    "qualitative risk factors",
+    "adversely different conditions or assumptions",
+    "estimated market value declines"
+  ],
+  "risk_summary": "The excerpt provides a detailed methodology but relies heavily on management judgment, qualitative adjustments, and unobservable valuation inputs without quantifying sensitivity or potential allowance impacts. Management reports that the allowance was adequate and that goodwill fair values significantly exceeded carrying values, producing a cautiously stable rather than strongly confident tone."
+}

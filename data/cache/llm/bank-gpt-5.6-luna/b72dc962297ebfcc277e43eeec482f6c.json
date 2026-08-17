@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "safe harbor provisions",
+    "many risks and uncertainties",
+    "does not undertake any obligation",
+    "primarily due to",
+    "may not contain all of the information"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well-quantified, with detailed trends in earnings, loans, deposits, credit quality, capital, and acquisition impacts. Risk is moderated by declining nonperforming loans and strong regulatory capital, but lower net interest margin, real-estate concentration, acquisition integration, and impaired trust-preferred securities remain relevant concerns. The forward-looking disclaimer is largely boilerplate and broadly enumerates potential uncertainties without quantifying their likely effects."
+}

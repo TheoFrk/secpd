@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "cannot predict revenue timing",
+    "may utilize financing vehicles",
+    "dependent on securities offerings",
+    "subject to FDA approval",
+    "significant management judgment"
+  ],
+  "risk_summary": "The company has no approved products, limited operating revenue, continuing substantial losses, and relies primarily on equity, convertible notes, loans, and other financing to fund operations. Revenue generation depends on successful FDA approval of Multikine and other development programs, creating significant regulatory, liquidity, and execution risk. The disclosure is relatively quantified but includes standard uncertainty language around funding, regulatory timing, and accounting estimates."
+}

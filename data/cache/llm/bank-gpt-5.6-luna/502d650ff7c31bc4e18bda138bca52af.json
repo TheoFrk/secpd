@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.43,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "omitted financial tables",
+    "may remain low until conditions improve",
+    "there can be no assurance",
+    "expects to exceed industry growth rates",
+    "dependent on consumer confidence and economic conditions"
+  ],
+  "risk_summary": "The disclosure provides substantial quantified industry, segment, and growth information, but its length, omitted tables, and extensive market-outlook discussion reduce transparency. Key risks include dependence on economic conditions, consumer demand, dealer inventories, customer production, financing availability, and regulatory changes, while management maintains a generally optimistic outlook."
+}

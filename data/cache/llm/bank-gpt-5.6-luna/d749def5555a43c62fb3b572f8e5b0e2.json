@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.44,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "subjective critical estimate",
+    "in the event of deterioration",
+    "forward-looking statements",
+    "including but not limited to"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosures on customer concentration, reserves, R&D spending, seasonality, and earnings, but relies substantially on standard risk-factor and forward-looking language. Key risks include fixed-cost operating leverage, customer and receivables concentration, inventory obsolescence judgments, economic sensitivity, executive dependence, and foreign-exchange exposure. Overall tone is mildly positive due to improved net income, tempered by broad and largely non-quantified downside scenarios."
+}

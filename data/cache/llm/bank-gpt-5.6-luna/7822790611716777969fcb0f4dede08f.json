@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "could differ significantly",
+    "higher degree of judgment",
+    "unobservable inputs",
+    "as appropriate",
+    "primarily due to"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, reporting revenues, cash flow, earnings, transaction commitments, and cost trends. Key risks arise from judgment-heavy Level 3 valuations, tissue-yield and impairment estimates, competitive pricing pressure, and a potential Endospan acquisition obligation of $350–$450 million. Overall tone is mildly confident, though the excerpt is technically complex and partially truncated."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.14,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "partially offset",
+    "primarily due to",
+    "favorable impact",
+    "backlog decreased",
+    "contracts with the U.S. Government"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed attribution of revenue, cost, margin, tax, and segment changes, supporting relatively low vagueness. The overall tone is confident and performance-oriented, although declining consolidated revenue, reduced Systems backlog, foreign-exchange sensitivity, acquisition integration, and government-contract exposure indicate material operating risks."
+}

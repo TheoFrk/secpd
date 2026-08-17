@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.56,
+  "redundancy_score": 0.43,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "substantial doubt about ability to continue as a going concern",
+    "additional cash infusion",
+    "may not be available on terms favorable to us, or at all",
+    "management believes",
+    "future revenue will provide the additional cash needed"
+  ],
+  "risk_summary": "The disclosure identifies severe liquidity and going-concern risk, including auditor-expressed substantial doubt and dependence on additional financing and future revenue. Financing may be unavailable or highly dilutive, and failure to raise capital or generate sufficient revenue could require curtailment of growth or cessation of operations. The MD&A also relies heavily on standard forward-looking disclaimers and management estimates, although it provides a specific goodwill and intangible-asset impairment amount."
+}

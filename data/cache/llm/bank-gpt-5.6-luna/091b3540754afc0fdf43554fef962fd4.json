@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "cannot be assured of market acceptance",
+    "significant effect on future operations",
+    "primarily dependent upon housing market",
+    "[... ] truncation"
+  ],
+  "risk_summary": "The disclosure is substantially quantified, but includes standard forward-looking disclaimers and some conditional language around housing demand, product acceptance, supply disruptions, and continued operations. Risk tone is moderately negative because sales declined, the company reported a net loss, and it has notable supplier, customer, tariff, and factor-financing dependencies, despite management’s expectation of improved profitability."
+}

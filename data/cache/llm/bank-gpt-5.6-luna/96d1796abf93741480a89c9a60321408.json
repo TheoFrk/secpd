@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.25,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "subjective estimates",
+    "acceptable terms",
+    "significant tenant concentration",
+    "non-GAAP measure limitations"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, but highlights material dependence on Bloomberg, refinancing needs, and subjective impairment assumptions. Positive operating results and occupancy are tempered by tenant concentration, redevelopment exposure, floating-rate debt, and extensive accounting-estimate caveats."
+}

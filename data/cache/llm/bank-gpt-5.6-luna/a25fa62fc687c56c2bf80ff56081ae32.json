@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "non-GAAP performance measures",
+    "excluding certain one-time items",
+    "market share data limitations"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer and non-GAAP metric language, which modestly reduces transparency despite definitions and some quantitative disclosure. Risk tone is moderately negative due to the $8.3 billion Shave Care impairment, sharply lower operating income and net earnings, and foreign-exchange pressure, although the company retains a confident market-leadership posture."
+}

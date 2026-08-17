@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expect to continue",
+    "meaningful negative impact",
+    "difficult to predict",
+    "primarily due to",
+    "partially offset"
+  ],
+  "risk_summary": "The disclosure is relatively detailed and quantified, but includes material reliance on forecasts, management judgment, and foreign-exchange assumptions. Negative signals include declining sales, margin pressure, store closures, impairment charges, and acknowledged difficulty predicting future cash flows. The overall tone is cautiously negative but presents operational initiatives intended to improve performance."
+}

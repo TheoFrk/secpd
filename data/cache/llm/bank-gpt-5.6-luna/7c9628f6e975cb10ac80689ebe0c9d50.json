@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.57,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "the Company believes",
+    "future looks promising",
+    "pent up demand",
+    "significant upside potential",
+    "dependent on macroeconomic conditions"
+  ],
+  "risk_summary": "The excerpt is generally optimistic and supported by substantial market-share, segment, and industry growth quantification. Risk discussion relies on broad macroeconomic dependencies and forward-looking beliefs, while the lengthy product and market descriptions add complexity but limited direct obfuscation."
+}

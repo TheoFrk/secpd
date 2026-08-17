@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.05,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not material to our Consolidated Financial Statements",
+    "assumptions, judgments and estimates",
+    "could differ materially",
+    "inherently subjective",
+    "various other factors"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on acquisition costs and revenue-recognition mechanics, but relies heavily on estimates, judgment, and conditional language that could materially affect reported results. Revenue and channel-return risks are acknowledged, including possible excess returns, price protection, and technological obsolescence, while operating commentary remains broadly neutral to mildly positive."
+}

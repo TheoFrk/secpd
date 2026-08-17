@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks and uncertainties",
+    "could differ materially",
+    "cannot be predicted",
+    "may continue",
+    "indefinite period of time"
+  ],
+  "risk_summary": "The excerpt is generally precise and heavily quantified, documenting sales growth and industry recovery. However, margin compression, pricing pressure, operational issues, energy-cost exposure, capacity constraints, and uncertain cost-saving outcomes create a moderately cautious risk profile. The extensive forward-looking disclaimer language is partly standard boilerplate but reinforces uncertainty around future cash flows and profitability."
+}

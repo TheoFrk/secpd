@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.22,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "primarily due to",
+    "to a lesser extent",
+    "anticipated cost increases",
+    "related-party franchisees"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent regarding revenue, margins, segment performance, ownership structure, and fiscal-year comparability. The main identified risks are rising food, labor, and other operating costs, with management anticipating pressure on 2017 profitability. Boilerplate cautionary language and repeated causal phrasing modestly reduce clarity, while related-party franchise arrangements warrant monitoring."
+}

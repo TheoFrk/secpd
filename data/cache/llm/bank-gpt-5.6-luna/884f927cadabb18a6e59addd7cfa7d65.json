@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "expects to issue long-term debt",
+    "plans to increase short-term debt",
+    "could impact future costs",
+    "anticipated demand",
+    "believes has little negative impact"
+  ],
+  "risk_summary": "The excerpt is generally transparent and well quantified, with detailed discussion of earnings drivers, reserves, capital spending, asset sales, and project plans. Key risks include increasing leverage, substantial Marcellus and pipeline capital requirements, regulatory uncertainty around hydraulic fracturing, and reliance on anticipated production and demand. The tone remains cautiously optimistic, supported by reported reserve growth and strategic asset repositioning."
+}

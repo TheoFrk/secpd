@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "subject to risks and uncertainties",
+    "no obligation to update",
+    "significant estimates and assumptions",
+    "undiscounted future cash flows"
+  ],
+  "risk_summary": "The excerpt provides substantial detail on revenue recognition, impairment testing, ownership structures, and quantified year-over-year results, but includes extensive boilerplate forward-looking disclaimers. Key risks center on management estimates, property recoverability, tenant performance, consolidation changes, and potentially volatile acquisition-related gains."
+}

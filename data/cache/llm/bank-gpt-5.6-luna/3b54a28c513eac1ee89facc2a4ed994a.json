@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily driven by",
+    "largely driven by",
+    "partially offset by",
+    "non-GAAP measure",
+    "excluding...adjusted for"
+  ],
+  "risk_summary": "The excerpt is quantitatively detailed and reports meaningful declines in GAAP EPS, revenue, operating margin, and ongoing high interest expense, indicating moderate financial pressure. The positive strategic framing and investment-grade upgrade are balanced by impairments, foreign-exchange effects, asset-sale impacts, debt refinancing costs, and extensive non-GAAP adjustments. Several driver disclosures appear incomplete after colons, which limits transparency in the provided excerpt."
+}

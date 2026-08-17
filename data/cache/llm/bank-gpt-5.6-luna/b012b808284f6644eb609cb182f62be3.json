@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "cannot be predicted with any certainty",
+    "could become material",
+    "excluding certain items",
+    "underlying operating performance"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, but uses substantial boilerplate and complex merger, accounting, and non-GAAP explanations. Key risks include merger-timing uncertainty, Nigerian currency devaluation and inflation, potential future materiality of highly inflationary accounting, and weaker AMEA reported sales."
+}

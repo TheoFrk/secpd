@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.2,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "no assurance",
+    "cautiously optimistic",
+    "estimated time period",
+    "planned cost savings",
+    "management assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating, geographic, goodwill, and segment information, but relies on conventional forward-looking language and management estimates regarding economic conditions, restructuring savings, regulatory compliance, and impairment testing. The tone is mildly confident but acknowledges meaningful macroeconomic, foreign-exchange, regulatory, product-obsolescence, and acquisition-related risks."
+}

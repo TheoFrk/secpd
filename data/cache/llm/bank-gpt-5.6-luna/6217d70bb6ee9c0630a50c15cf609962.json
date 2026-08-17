@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "potential risk factors",
+    "may adversely affect",
+    "cannot reasonably estimate",
+    "absent additional shutdowns",
+    "to some extent"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified operating and segment information, but includes standard forward-looking disclaimers and uncertainty around COVID-19, supply chains, foreign exchange, costs, and demand. Management’s tone is cautiously optimistic, supported by improved sales and profitability, while highlighting material execution and macroeconomic risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "no obligation to update",
+    "probable recovery assumptions",
+    "subjective critical assumptions",
+    "may differ materially"
+  ],
+  "risk_summary": "The excerpt combines substantial quantitative disclosure with extensive standard forward-looking disclaimers and discussion of judgment-dependent estimates. Key risks include regulatory asset recoverability, nuclear decommissioning obligations, tax uncertainty, pension sensitivities, and material potential changes from assumptions. Operating performance weakened in 2018, with net income down 18% amid impairments, regulatory charges, and reduced investment-related benefits."
+}

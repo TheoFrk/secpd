@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.67,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "non-GAAP measure limitations",
+    "subject to market conditions",
+    "no assurance of dividends",
+    "truncated disclosure"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively grounded, providing restaurant counts, capital spending, dividends, and debt balances. Risk tone is mildly cautious rather than crisis-like, with material exposure to commodity costs, labor costs, competition, consumer demand, and substantial leverage. Extensive forward-looking disclaimers and non-GAAP definitions add boilerplate but do not appear highly evasive."
+}

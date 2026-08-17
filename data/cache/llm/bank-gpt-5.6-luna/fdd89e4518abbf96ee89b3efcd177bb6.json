@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance of success",
+    "anticipated continued operating losses",
+    "patented ingredients and highest quality",
+    "truncated royalty disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial product, regulatory, milestone, and expense detail, but uses standard forward-looking disclaimers and promotional claims. The tone is cautiously negative from a credit perspective because the company anticipates continued operating losses and faces commercialization, regulatory, and contingent payment obligations. The excerpt ends mid-disclosure, limiting assessment of royalty terms and broader liquidity risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.68,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "substantial doubt about ability to continue",
+    "additional cash infusion",
+    "may not be available on favorable terms",
+    "could cause actual results to differ materially"
+  ],
+  "risk_summary": "The disclosure identifies substantial doubt about the Company’s ability to continue as a going concern and dependence on additional financing and future revenue. Financing may be unavailable or costly, while equity or convertible securities could materially dilute existing shareholders. Detailed accounting and secured-borrowing language is interspersed with substantial boilerplate and conditional phrasing."
+}

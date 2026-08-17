@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.43,
+  "risk_sentiment": -0.12,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "inherent degree of uncertainty",
+    "actual results may differ",
+    "believed to be reasonable",
+    "future taxable income",
+    "100% valuation allowance"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, with limited boilerplate centered on accounting estimates. Risk is modestly negative due to declining management fees, reduced cash, dependence on a small number of income sources, and a full valuation allowance against deferred tax assets."
+}

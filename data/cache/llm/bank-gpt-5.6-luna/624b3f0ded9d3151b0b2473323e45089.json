@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ significantly",
+    "unable to reasonably estimate timing",
+    "no obligation to update",
+    "among other factors"
+  ],
+  "risk_summary": "The excerpt relies heavily on standardized forward-looking statement disclaimers and broad, non-quantified risk language, particularly regarding COVID-19, demand, and future results. It provides some concrete disclosure on accounting estimates and contractual obligations, including $226.1 million of listed commitments, but excludes certain tax-related payment timing because it cannot be reasonably estimated."
+}

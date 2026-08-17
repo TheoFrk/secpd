@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "safe harbor forward-looking statements",
+    "including but not limited to",
+    "other risks or uncertainties",
+    "no obligation to update",
+    "undue reliance"
+  ],
+  "risk_summary": "The excerpt provides meaningful operational detail and quantitative disclosures, including revenue scale, provider concentration, segment mix, and unfavorable claims development. However, the extensive forward-looking disclaimer and broad, non-exhaustive risk catalog rely on standardized legal language and limit specificity regarding potential impacts. Risk tone is broadly neutral, with notable exposure to claims severity, third-party dependencies, cyber incidents, regulation, and transportation demand."
+}

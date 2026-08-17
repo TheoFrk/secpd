@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.27,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "numerous assumptions, risks and uncertainties",
+    "actual results could differ materially",
+    "inherently subjective",
+    "highly uncertain forecasts",
+    "subject to revision as new information becomes available"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively specific regarding the pending acquisition, credit-loss allowance, deposits, and borrowings. However, it relies substantially on standard forward-looking safe-harbor language and emphasizes subjective estimates, valuation uncertainty, and potentially material changes in credit-loss assumptions and securities fair values."
+}

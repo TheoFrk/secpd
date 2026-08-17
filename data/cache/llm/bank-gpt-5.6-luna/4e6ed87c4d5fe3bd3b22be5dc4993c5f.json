@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.78,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "although we are in compliance",
+    "solely for accounting purposes",
+    "currently under process",
+    "expected to have a full understanding",
+    "text truncated"
+  ],
+  "risk_summary": "The disclosure provides substantial transaction and operating detail, including quantified declines, plant closures, relocation requirements, and impairment losses. However, the regulatory remediation and relocation outcomes remain uncertain, while extensive historical and boilerplate material dilutes focus on the material operational risks."
+}

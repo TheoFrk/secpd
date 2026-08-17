@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.36,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management judgments and estimates",
+    "actual results could differ",
+    "expecting project awards to increase",
+    "non-GAAP performance measures",
+    "customary conditions and covenants"
+  ],
+  "risk_summary": "The disclosure is detailed and quantitatively specific, but includes substantial accounting-policy boilerplate and forward-looking expectations. Risk tone is moderately negative due to project delays, insufficient revenue to absorb costs, cost overruns, operating losses, and borrowing-base and covenant constraints, partially offset by management’s expectations for recovery and improved margins."
+}

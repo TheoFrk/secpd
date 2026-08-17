@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.34,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "could differ materially",
+    "including, but are not limited to",
+    "unable to establish VSOE",
+    "continued challenges in North American markets"
+  ],
+  "risk_summary": "The excerpt presents a generally confident growth narrative supported by quantified segment results, but includes substantial boilerplate disclaimers and promotional descriptions. Key risks include estimation uncertainty in revenue recognition, reliance on judgment where standalone pricing evidence is unavailable, and market softness in oil and gas-related demand."
+}

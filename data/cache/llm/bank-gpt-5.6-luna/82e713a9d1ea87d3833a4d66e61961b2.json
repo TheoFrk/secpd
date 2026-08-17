@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "inherent uncertainties",
+    "significant judgment",
+    "may materially adversely affect",
+    "various other assumptions",
+    "periodic evaluations"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on catastrophe losses and reinsurance limits, but relies heavily on actuarial assumptions, management judgment, and conditional language regarding reserve adequacy and collectibility. Key risks include long-term-care reserve shortfalls, reinsurance and receivable non-collection, investment impairment, catastrophe losses, and potential adverse effects on earnings, equity, and ratings."
+}

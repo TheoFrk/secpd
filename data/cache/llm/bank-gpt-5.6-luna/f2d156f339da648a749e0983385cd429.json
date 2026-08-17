@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.03,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP measures exclude charges",
+    "alternative assumptions could produce materially different results",
+    "may be required to record additional expense",
+    "not fully offset by growth",
+    "estimated amounts expected to be realized"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, but relies on non-GAAP adjustments and judgment-based estimates that may obscure underlying performance. Operational pressures include lower healthcare utilization, customer rationalization, elevated costs, international losses, impairment sensitivity, self-insurance exposure, and dependence on supplier incentives."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "non-GAAP exclusions",
+    "expected to",
+    "we believe",
+    "competitive pricing pressures",
+    "forward estimates"
+  ],
+  "risk_summary": "The disclosure is relatively quantified but relies substantially on adjusted measures that exclude numerous charges, potentially presenting more favorable underlying performance. It identifies meaningful pressures from weak foodservice demand, margin compression, fuel costs, pension obligations, acquisitions, and execution of the Business Transformation Project. Management remains cautiously constructive, but several forward-looking estimates depend on uncertain market, pricing, and fuel assumptions."
+}

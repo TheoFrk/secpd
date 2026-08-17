@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.43,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "timing and size of orders ... unpredictable",
+    "extent of their impact ... uncertain",
+    "we believe ... can be realized",
+    "no assurance ... will be achieved",
+    "forward-looking statement disclaimer"
+  ],
+  "risk_summary": "The disclosure is generally specific and well quantified, showing strong sales, earnings, cash flow, and liquidity improvements. Key risks include substantial dependence on TSA and government customers, declining gross margins, order timing uncertainty, seasonality, and reliance on forward-looking assumptions. The extensive standard disclaimer language is boilerplate but does not materially obscure the otherwise favorable operating results."
+}

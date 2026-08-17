@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.57,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "risks include, but are not limited to",
+    "other risks detailed from time to time",
+    "could differ materially",
+    "cannot accurately determine the precise effects",
+    "significant synergies are achieved"
+  ],
+  "risk_summary": "The excerpt provides meaningful quantitative disclosure on revenue, margins, SG&A, liquidity, debt, and capital expenditures, but includes extensive standard forward-looking disclaimers and broad qualitative risk lists. Risk is moderate, with declining gross and operating margins, tariff and utilization pressures, customer allowances, and supply-chain or financing exposure partially offset by strong liquidity and zero long-term debt."
+}

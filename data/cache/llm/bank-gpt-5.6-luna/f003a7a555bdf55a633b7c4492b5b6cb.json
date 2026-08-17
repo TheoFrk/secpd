@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "macro-economic risk boilerplate",
+    "customary closing conditions",
+    "continuously monitor",
+    "primarily as a result of",
+    "non-GAAP adjustments"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on transactions, financing, development costs, dividends, and operating metrics, but relies on broad macroeconomic risk language and generic monitoring statements. Rising rates, inflation, capital constraints, tenant liquidity issues, and pending merger conditions represent meaningful credit risks, while the overall tone remains balanced and operationally confident."
+}

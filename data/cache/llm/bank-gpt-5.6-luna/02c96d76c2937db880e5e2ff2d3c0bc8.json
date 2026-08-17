@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.74,
+  "redundancy_score": 0.56,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.32,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "broad list of macroeconomic uncertainties",
+    "could adversely impact",
+    "difficult to predict future financial results",
+    "such other factors",
+    "extended payment terms and nonpayment risk"
+  ],
+  "risk_summary": "The excerpt presents extensive exposure to macroeconomic volatility, government appropriations, aerospace demand, supply-chain interruptions, customer payment delays, labor constraints, and fixed-price contracts. While it cites revenue growth, a strong backlog, and an attractive debt/equity ratio, the discussion is predominantly boilerplate and provides limited quantified sensitivity or mitigation detail."
+}

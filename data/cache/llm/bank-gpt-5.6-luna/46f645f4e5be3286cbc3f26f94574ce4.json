@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.72,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "no obligation to update",
+    "may need to raise additional capital",
+    "Adjusted EBITDA exclusions",
+    "ongoing risks and uncertainties"
+  ],
+  "risk_summary": "The company reports declining vapor sales, operating losses, negative operating cash flow, impairment charges, competitive and regulatory pressure, and expects continued losses with potential additional capital needs. Quantitative disclosures are relatively specific, but extensive boilerplate disclaimers and emphasis on non-GAAP measures somewhat dilute the severity of the underlying liquidity and going-concern risks."
+}

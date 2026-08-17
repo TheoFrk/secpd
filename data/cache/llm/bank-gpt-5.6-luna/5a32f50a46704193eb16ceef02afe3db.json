@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "subjective or complex judgments",
+    "may prove to be inaccurate",
+    "could adversely affect",
+    "management believes",
+    "general economic conditions"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively specific, including allowance, nonperforming loan, and charge-off metrics. Risk is concentrated in credit-loss estimates, collateral valuations, Level 3 fair values, and economic assumptions, with meaningful management judgment and potential for future provisions. Overall tone is cautiously confident rather than crisis-like."
+}

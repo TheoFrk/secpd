@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.57,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A",
+    "cross-reference to external exhibit",
+    "legalistic boilerplate"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial or risk discussion, instead redirecting readers to another document. Although the referenced pages and exhibit are identified precisely, this limits transparency within the filing itself."
+}

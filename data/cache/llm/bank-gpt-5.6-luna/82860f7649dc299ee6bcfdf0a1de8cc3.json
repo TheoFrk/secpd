@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.25,
+  "redundancy_score": 0.36,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.18,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "uncertainty of the economy",
+    "unpredictable and uneven",
+    "could result in",
+    "not expected to be recurring",
+    "immaterial to the financial statements"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, including raw-material inflation, warranty changes, staffing inefficiencies, cash reduction, and credit availability. Risk tone is mildly negative because of cyclical demand, volatile input costs, weaker-than-expected orders, and declining cash, although liquidity remains supported by an undrawn revolving facility and covenant compliance. Repeated boilerplate descriptions and materiality assertions modestly reduce transparency."
+}

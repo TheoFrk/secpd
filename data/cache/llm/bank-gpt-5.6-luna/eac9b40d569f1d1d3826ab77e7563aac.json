@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "actual results may differ materially",
+    "no obligation to update",
+    "significant management judgment",
+    "no exact method of predicting losses"
+  ],
+  "risk_summary": "The excerpt uses substantial standard forward-looking disclaimer language and broad, largely unquantified risk categories, limiting specificity about potential adverse outcomes. Credit-loss reserves and fair-value estimates rely heavily on assumptions, judgments, and potentially unobservable inputs, creating material estimation risk. Overall tone is moderately positive due to strong economic and earnings results, but it acknowledges meaningful sensitivity to tourism, interest rates, credit quality, liquidity, and operational disruptions."
+}

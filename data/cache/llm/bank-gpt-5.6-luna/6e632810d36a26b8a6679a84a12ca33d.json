@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "as discussed above",
+    "ability to service its debt",
+    "not subject to its control",
+    "excluding this item"
+  ],
+  "risk_summary": "The excerpt is generally specific and well quantified, with clear segment-level revenue, operating income, impairment, restructuring, and foreign-exchange impacts. Risk factors include declining MEAP sales, prior substantial EURAF goodwill impairment, restructuring activity, foreign-exchange exposure, and meaningful debt-servicing constraints. The tone is balanced but modestly negative because operational improvements are offset by market weakness and liquidity vulnerability."
+}

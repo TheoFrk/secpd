@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.58,
+  "risk_sentiment": -0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "expect to generate revenue",
+    "subject to performance milestones",
+    "no assurance of funding",
+    "sufficient funds through 2016",
+    "dependent upon future contracts"
+  ],
+  "risk_summary": "The disclosure provides substantial quantitative detail on revenue, expenses, cash balances, losses, and cash usage, but relies heavily on projections and contingent commercialization assumptions. Liquidity risk is significant because the company has no credit facilities, lacks committed external capital, continues to incur losses, and acknowledges the need for additional financing with no assurance of success."
+}

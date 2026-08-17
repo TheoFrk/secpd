@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "management estimates and judgments",
+    "actual results may differ",
+    "qualitative approach",
+    "projected cash flows and terminal value assumptions",
+    "probability-weighted expected return method"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on inventory adjustments, goodwill balances, cash flow, earn-out terms, and operating results, but relies on management forecasts and valuation assumptions that introduce estimation risk. The overall tone is cautiously positive, emphasizing improved cash flow, operating income, backlog, and demand while acknowledging exposure to commodity prices, demand changes, and potential impairment triggers."
+}

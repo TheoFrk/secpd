@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.48,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "expects approximately",
+    "certain foreign jurisdictions",
+    "additional discussion"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting sales, earnings, cash flow, capital expenditures, pension contributions, costs, and segment drivers. Risk tone is moderately positive, supported by strong growth and improved profitability, but includes exposure to raw-material and logistics inflation, capacity utilization, pension funding, currency movements, cyclical demand, and restructuring or environmental costs. Some causal explanations rely on broad attribution and standard management boilerplate."
+}

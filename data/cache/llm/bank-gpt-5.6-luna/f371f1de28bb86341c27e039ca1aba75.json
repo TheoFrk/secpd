@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "significant degree of judgment",
+    "could have a material adverse effect",
+    "various methods and assumptions",
+    "foreseeable future",
+    "not providing the table of contractual obligations"
+  ],
+  "risk_summary": "The excerpt provides useful quantitative exposure data, including liabilities, assets, cash flow, and investment valuations, but emphasizes substantial estimation uncertainty in loss reserves, policy benefits, deferred acquisition costs, reinsurance recoverables, and fair values. Key risks include adverse claims development, reinsurer insolvency, market volatility, impairment judgments, and inflation; liquidity is presented as adequate but depends partly on subsidiary payments and potential additional borrowing. Disclosure is technically dense and the omitted contractual-obligations table red…"
+}

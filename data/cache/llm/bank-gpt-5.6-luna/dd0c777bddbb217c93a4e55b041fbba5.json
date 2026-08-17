@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.52,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "known and unknown risks and uncertainties",
+    "cannot reasonably estimate the full extent",
+    "ultimate extent ... highly uncertain",
+    "including, but not limited to",
+    "subject to certain exceptions"
+  ],
+  "risk_summary": "The excerpt contains substantial forward-looking-risk boilerplate and emphasizes uncertainty around the Pandemic’s duration and financial impact. However, it provides meaningful quantitative liquidity and debt terms, including $875 million of borrowing capacity, a $1.3 billion revolving facility, and a 1.59% weighted average borrowing rate. Overall tone is cautiously negative on operating uncertainty but constructive regarding liquidity management and financial flexibility."
+}

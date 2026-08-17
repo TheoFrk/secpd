@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "not possible to predict all risk factors",
+    "undertakes no obligation to update",
+    "future costs cannot be estimated",
+    "assuming no new competitors"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate disclaimers and broad uncertainty language, but also provides meaningful quantified detail on market capacity, litigation costs, debt, and financial covenants. The outlook is cautiously positive, tempered by freight-rate erosion, overcapacity, seasonality, competitive entry, and unquantified liabilities from the molasses incident."
+}

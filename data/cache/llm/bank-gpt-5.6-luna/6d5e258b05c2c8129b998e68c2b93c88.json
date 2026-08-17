@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.18,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "forward-looking statements involve risks and uncertainties",
+    "could differ materially",
+    "limits that we believe are reasonable",
+    "depending on expected future levels",
+    "ability is impacted by existing market conditions"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, particularly regarding acquisitions, financing, fleet size, operating metrics, and cost components. Risk disclosure relies partly on standard forward-looking disclaimers and broad dependency statements tied to oil and gas activity, market conditions, insurance, labor, and cybersecurity. Overall tone is cautiously confident, reflecting substantial expansion and operating scale but meaningful exposure to cyclical industry and financing risks."
+}

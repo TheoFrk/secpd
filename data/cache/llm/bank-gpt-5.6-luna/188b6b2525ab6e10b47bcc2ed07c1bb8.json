@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.44,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.36,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to numerous assumptions, risks and uncertainties",
+    "not able to estimate the impact",
+    "could materially affect",
+    "including, but not limited to",
+    "actual results may differ materially"
+  ],
+  "risk_summary": "The disclosure is generally well quantified, but uses extensive standard forward-looking disclaimers and uncertainty language. Credit risk increased materially in 2020, reflected in the higher provision for credit losses, rising nonaccrual loans and non-performing assets, and exposure to COVID-19 and energy-price volatility. Liquidity and balance-sheet growth benefited from PPP and government stimulus, while low interest rates pressured margins."
+}

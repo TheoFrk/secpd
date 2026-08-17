@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.65,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "we believe",
+    "we expect",
+    "subject to adjustment",
+    "material adverse effect",
+    "revenue timing items"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, with clear discussion of revenue, costs, investments, labor constraints, and operational initiatives. Risk tone is cautiously optimistic, but forward-looking claims rely on expectations and assumptions regarding demand, pricing, labor availability, project benefits, and the ability to pass through inflationary costs."
+}

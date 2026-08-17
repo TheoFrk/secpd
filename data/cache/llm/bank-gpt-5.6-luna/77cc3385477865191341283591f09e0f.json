@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements",
+    "certain conditions",
+    "significant estimates and assumptions",
+    "substantially in excess",
+    "strategic plan and objectives"
+  ],
+  "risk_summary": "The disclosure is generally detailed and well quantified, but includes standard forward-looking disclaimers and some incomplete or generic sections. Operating income fell 93%, net income declined materially, segment losses increased, and deferred commission revenue remains substantial, indicating heightened execution and earnings-quality risk despite positive revenue growth."
+}

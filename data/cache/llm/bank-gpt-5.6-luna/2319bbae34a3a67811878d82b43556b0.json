@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.12,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.15,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "slightly higher",
+    "favorable ... partially offset",
+    "goodwill impairment charge",
+    "launch delays and development costs"
+  ],
+  "risk_summary": "The excerpt is generally precise and quantitatively detailed, with clear segment-level revenue, cost, margin, and transaction disclosures. Risk factors include declining gross margins, launch delays, elevated development costs, foreign-exchange effects, customer-bankruptcy accrual reversals, and a goodwill impairment charge. Overall tone is mildly positive due to revenue growth and improved operating performance, but partially offset by cost pressures and nonrecurring gains."
+}

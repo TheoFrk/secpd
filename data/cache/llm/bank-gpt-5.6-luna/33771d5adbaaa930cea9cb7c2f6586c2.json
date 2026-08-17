@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.32,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "we believe",
+    "expected to",
+    "may affect",
+    "appropriate risk/reward profiles",
+    "strong track record"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively supported, covering assets, loans, deposits, acquisitions, PPP activity, and net interest components. It uses moderately positive management framing around deposit stability, credit processes, and performance, while acknowledging exposure to rates, competition, economic conditions, and credit deterioration. Some forward-looking and self-assessing language limits the precision of downside-risk discussion."
+}

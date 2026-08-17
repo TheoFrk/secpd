@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.3,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.66,
+  "risk_sentiment": 0.16,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "no assurance of successful implementation",
+    "non-GAAP measures and limitations",
+    "estimates, assumptions and judgments",
+    "historical performance does not guarantee future performance",
+    "truncated allowance-for-loan-losses discussion"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, but includes standard forward-looking caveats and relies on management judgments for loan-loss allowances and other estimates. Credit risk appears elevated modestly, evidenced by higher nonperforming loans and a single $1.5 million commercial loan charge-off, although management presents the overall outlook as stable and growth-oriented."
+}

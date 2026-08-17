@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.18,
+  "redundancy_score": 0.16,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.18,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP results",
+    "not indicative of underlying economics",
+    "may or may not be realized",
+    "derivative fair-value volatility",
+    "financial covenant framing"
+  ],
+  "risk_summary": "The disclosure is highly quantified and generally transparent, but it emphasizes favorable adjusted metrics to offset a $52 million GAAP loss, a 0.92 TIER, substantial derivative losses, and a very high 28.69 debt-to-equity ratio. Risk is partly reframed as non-economic volatility, while covenant compliance relies on non-GAAP measures and subordinated debt support."
+}

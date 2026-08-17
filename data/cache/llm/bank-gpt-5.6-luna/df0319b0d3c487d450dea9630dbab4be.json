@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.58,
+  "risk_sentiment": 0.32,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "may be affected",
+    "no significant intervening event",
+    "long-term growth claims",
+    "two-month reporting lag"
+  ],
+  "risk_summary": "The excerpt provides several quantified operating metrics and explains reporting conventions, but relies heavily on aspirational strategy language and management assertions. Key risks include a challenging global economy, comparable-store sales declines, restructuring charges, international execution, and delayed reporting for certain foreign operations."
+}

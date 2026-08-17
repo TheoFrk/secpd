@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.45,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements cannot be relied upon",
+    "not possible to predict all such risk factors",
+    "undertakes no obligation to revise or update",
+    "modestly higher/lower",
+    "incorporated herein by reference"
+  ],
+  "risk_summary": "The excerpt uses extensive standard forward-looking-statement disclaimers and relies on qualitative terms such as \"modest,\" \"expected,\" and \"sizable,\" although it also provides meaningful quantitative forecasts and historical comparisons. Risk tone is cautiously positive, with identified pressures from vessel overcapacity, lower freight rates, competition, volume losses, and substantial planned capital and dry-docking expenditures."
+}

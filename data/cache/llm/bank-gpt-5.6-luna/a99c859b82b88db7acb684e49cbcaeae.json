@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "based upon estimates and assumptions",
+    "may materially differ",
+    "does not believe there is a reasonable likelihood",
+    "could significantly adversely affect",
+    "subject to change"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified sensitivity data and year-over-year operating results, which supports disclosure quality. However, it relies heavily on standardized accounting-policy language, management judgments, and repeated assurances that material changes are unlikely, while acknowledging potentially significant impacts from inaccurate estimates. Overall tone is cautiously neutral, with improved profitability offset by estimation, receivables, inventory, and demand-related risks."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.72,
+  "complexity_score": 0.86,
+  "risk_sentiment": 0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "management considers adequate",
+    "as needed",
+    "other risk factors",
+    "qualitative factors",
+    "deemed to be better aligned"
+  ],
+  "risk_summary": "The excerpt provides detailed policies, review procedures, risk ratings, appraisal requirements, and a quantified rolling 24-quarter loss period, but relies substantially on management judgment and qualitative adjustments in estimating credit losses and collateral values. The tone is controlled and procedurally confident while acknowledging potential future reserve increases from economic or real-estate deterioration. The passage is highly technical and repetitive, with limited borrower- or portfolio-specific loss quantification in the excerpt."
+}

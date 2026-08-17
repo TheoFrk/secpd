@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.78,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "unless and until",
+    "none of which are currently planned",
+    "cannot be assured",
+    "not aware of any other trends",
+    "unanticipated RR&D"
+  ],
+  "risk_summary": "The company reports very limited liquidity, recurring or likely operating losses, and insufficient revenue to cover expenses at current production and market conditions. Its ability to improve cash flow depends on substantial investments that are not currently planned, while the disclosure uses broad qualifications around future risks and liabilities."
+}

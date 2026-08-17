@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.68,
+  "redundancy_score": 0.84,
+  "complexity_score": 0.83,
+  "risk_sentiment": -0.12,
+  "confidence": 0.97,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "could differ materially",
+    "cannot guarantee future results",
+    "without limitation",
+    "reasonable estimates and judgments"
+  ],
+  "risk_summary": "The excerpt is dominated by standard forward-looking-statement disclaimers and an extensive, largely non-quantified catalog of potential risks, including supply constraints, cybersecurity, financing, litigation, tariffs, and demand volatility. Some disclosures are precise, such as inventory days, inventory balances, capacity ranges, and unabsorbed capacity charges, while other outcomes are framed broadly through repeated conditional language and materiality qualifiers. Overall tone is cautious and risk-aware rather than crisis-like, with indications of strong demand and above-normal capacity …"
+}

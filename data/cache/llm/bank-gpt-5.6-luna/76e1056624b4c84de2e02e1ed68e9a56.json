@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict amount or frequency",
+    "could cause results to differ materially",
+    "subject to protest and appeal",
+    "best estimate",
+    "various factors and assumptions"
+  ],
+  "risk_summary": "The excerpt provides substantial operational detail and quantifies a potential California sales-tax assessment of approximately $3.9 million, but includes declining recycling-only revenues and volumes, competitive and market sensitivities, and uncertainty around future centers and carbon-offset sales. Risk disclosure is partly standardized and relies on broad qualifications, while the truncated ending prevents assessment of the full tax and covenant exposure."
+}

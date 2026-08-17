@@ -1,0 +1,13 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.52,
+  "complexity_score": 0.24,
+  "risk_sentiment": 0.02,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "separate section",
+    "procedural cross-reference"
+  ],
+  "risk_summary": "The excerpt is purely procedural and provides no substantive discussion of financial condition, results, liquidity, or risks. It defers relevant analysis to another section, limiting standalone credit-risk assessment."
+}

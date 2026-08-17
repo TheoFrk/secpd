@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.46,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement safe harbor",
+    "does not undertake any obligation to update",
+    "adjusted financial measures",
+    "significant estimates and judgments",
+    "more-likely-than-not impairment assessment"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating detail, including sales, margins, earnings, acquisition effects, and segment performance. Risk is moderated by declining GAAP earnings, margin compression, dependence on acquisitions and commercial investments, weaker NIH-funded demand, and substantial valuation judgments, while extensive forward-looking and adjusted-measure disclaimers reduce transparency around comparability and future outcomes."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.59,
+  "risk_sentiment": -0.82,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance additional financing",
+    "future revenue from patent enforcement",
+    "no obligation to update",
+    "going concern uncertainty"
+  ],
+  "risk_summary": "The company reports a severe deterioration in operating performance, with revenue falling to $199, substantial losses, limited cash, recurring financing dependence, and an explicit going-concern uncertainty. Disclosure is partly quantified but includes extensive boilerplate disclaimers and relies on uncertain future patent licensing and enforcement revenues without current financing commitments."
+}

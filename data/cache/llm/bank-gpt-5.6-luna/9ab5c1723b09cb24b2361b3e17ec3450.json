@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "could differ materially",
+    "including but not limited to",
+    "partially offset negative impacts",
+    "truncated or omitted disclosure"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative operating and financial detail, including revenue, earnings, liquidity, fleet, and expense changes. Risk tone is moderately negative because COVID-19 effects, pilot and mechanic attrition, capacity reductions, and dependence on major airline partners remain material, although improved operations and contract protections are emphasized. The truncated passage and repeated reliance on standard forward-looking disclaimers reduce disclosure completeness and clarity."
+}

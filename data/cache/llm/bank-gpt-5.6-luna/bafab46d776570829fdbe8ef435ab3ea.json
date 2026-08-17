@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.28,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.36,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "subjective elements and estimates",
+    "based on information available",
+    "when third-party information is not available",
+    "other pertinent factors",
+    "continued asset quality improvement"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and transparent, highlighting strong loan, deposit, capital, and net interest revenue growth, with regulatory capital significantly above well-capitalized levels. Risk factors include tax-reform-driven earnings pressure, declining fee revenue, acquisition-related costs, and reliance on subjective estimates for credit-loss allowances and fair-value measurements. The overall tone is moderately confident but tempered by these operational and estimation uncertainties."
+}

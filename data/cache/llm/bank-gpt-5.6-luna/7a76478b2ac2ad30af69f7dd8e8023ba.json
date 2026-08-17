@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.92,
+  "redundancy_score": 0.38,
+  "complexity_score": 0.42,
+  "risk_sentiment": 0.0,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "incorporated by reference",
+    "forward-looking statements",
+    "no substantive disclosure",
+    "page-reference substitution"
+  ],
+  "risk_summary": "The excerpt provides no substantive MD&A analysis, quantitative results, liquidity information, or risk discussion, instead directing readers to another report. This limits standalone transparency and may obscure assessment of current financial condition and operating risks."
+}

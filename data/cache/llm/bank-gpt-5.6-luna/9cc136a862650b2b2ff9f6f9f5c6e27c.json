@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.16,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "among others",
+    "not possible to predict or identify all factors",
+    "could differ materially",
+    "unable to determine which factors actually impact"
+  ],
+  "risk_summary": "The excerpt combines strong reported earnings, positive operating cash flow, and detailed reserve sensitivities with extensive boilerplate disclaimers and broad, difficult-to-quantify risk factors. Material exposures include concentrated California automobile insurance operations, reserve uncertainty, regulatory and rate-approval risk, catastrophe losses, investment volatility, and litigation. Overall tone is moderately positive on current performance but cautious regarding future results."
+}

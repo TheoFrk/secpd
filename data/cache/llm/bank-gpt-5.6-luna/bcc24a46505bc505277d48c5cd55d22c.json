@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.28,
+  "confidence": 0.96,
+  "obfuscation_indicators": [
+    "subject to volatility and downward pressure",
+    "could in the future materially impact",
+    "no assurance can be given",
+    "inherently uncertain",
+    "in a manner inconsistent with management’s expectations"
+  ],
+  "risk_summary": "The excerpt is generally transparent and highly quantified, documenting declines in total sales, Mac, and several geographic and product categories while attributing much of the pressure to foreign exchange and demand mix. Liquidity appears strong, with substantial cash, operating cash flow, and debt-market access, but margins, macroeconomic conditions, tax positions, and legal contingencies remain material sources of uncertainty."
+}

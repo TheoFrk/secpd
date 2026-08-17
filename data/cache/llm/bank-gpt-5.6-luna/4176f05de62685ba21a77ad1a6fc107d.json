@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "we believe",
+    "significantly invested",
+    "various economic periods",
+    "continue to focus",
+    "challenging global economy"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative detail on bookings, costs, operating income, segment exposure, and the effects of the global financial crisis. However, it contains extensive promotional and repetitive language, with several forward-looking or broadly worded claims that limit precision regarding downside risks and future performance."
+}

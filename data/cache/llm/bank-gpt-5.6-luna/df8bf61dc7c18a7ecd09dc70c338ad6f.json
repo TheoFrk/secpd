@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.12,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "approximately",
+    "slightly",
+    "essentially flat",
+    "where noted",
+    "management's estimates"
+  ],
+  "risk_summary": "The disclosure is generally specific and quantitatively detailed, including sales, margins, earnings, debt, liquidity, and share repurchases. Risk tone is mixed: sales trends and liquidity are favorable, but net income and consolidated gross margin declined, while seasonality and future inflation are noted as uncertainties. Some boilerplate definitions and qualitative terms modestly reduce precision."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.74,
+  "risk_sentiment": -0.48,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "cannot predict",
+    "likely due to",
+    "expected to",
+    "among other factors",
+    "substantial uncertainties"
+  ],
+  "risk_summary": "The excerpt presents significant cyclical and market risks, including depressed housing demand, commodity-price volatility, excess capacity, financing constraints, and elevated legal-contingency estimation uncertainty. Disclosure is generally detailed and quantified, but uses standard forward-looking qualifiers and acknowledges that estimates may change significantly."
+}

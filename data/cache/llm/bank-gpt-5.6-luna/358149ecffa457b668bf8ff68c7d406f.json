@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.84,
+  "risk_sentiment": 0.28,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "reasonable expectations",
+    "no material impact",
+    "could have a negative effect",
+    "typically regarded as inconsequential",
+    "fair value assumptions"
+  ],
+  "risk_summary": "The excerpt is highly technical and assumption-dependent, particularly regarding goodwill impairment, discounted cash flow valuations, discount rates, terminal growth, and future cash flows. Disclosure is substantially quantified and identifies prior impairment charges, but relies on management judgments and generally reassuring conclusions that no current impairment indicators exist."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.68,
+  "risk_sentiment": 0.08,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "cannot predict timing with precise accuracy",
+    "could materially adversely affect",
+    "believe we are well positioned",
+    "continually anticipate, respond to, and utilize",
+    "resource, technological, or other constraints"
+  ],
+  "risk_summary": "The disclosure provides meaningful operational detail, including backlog duration, capital expenditures, technology requirements, foreign-exchange losses, and capacity risks. It also relies on recurring forward-looking and conditional language regarding industry cycles, technological disruption, competitiveness, and future investments, while maintaining a cautiously confident tone."
+}

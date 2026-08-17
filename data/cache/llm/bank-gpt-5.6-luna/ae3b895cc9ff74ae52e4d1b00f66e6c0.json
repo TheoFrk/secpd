@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.25,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "if approved",
+    "potential FDA approval",
+    "review is ongoing",
+    "certain terms and conditions",
+    "considerable judgment"
+  ],
+  "risk_summary": "The excerpt presents quantified operating results and substantial regulatory progress, including positive clinical data and FDA priority review, supporting a moderately positive tone. Key risks remain the company’s clinical-stage status, dependence on pz-cel approval and commercialization, financing needs, and FDA manufacturing process-control observations. Forward-looking caveats and judgment-heavy revenue recognition language introduce moderate uncertainty."
+}

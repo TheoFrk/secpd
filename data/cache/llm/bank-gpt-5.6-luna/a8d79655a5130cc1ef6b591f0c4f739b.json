@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.36,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.32,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking safe harbor disclaimers",
+    "no assurance expectations prove correct",
+    "relatively stable pricing and margins",
+    "expected improvement based on assumptions",
+    "text truncation and missing sections"
+  ],
+  "risk_summary": "The excerpt provides substantial quantitative disclosure, but its outlook relies on assumptions about activity, pricing, and segment performance while extensive safe-harbor language limits certainty. Current risk is elevated, reflected in the $212 million net loss, $145 million operating loss, sharply lower operating cash flow, and weaker energy-sector pricing. The expected 2019 improvement is cautiously presented but remains exposed to offshore activity, contract, and execution risks."
+}

@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.08,
+  "complexity_score": 0.48,
+  "risk_sentiment": 0.02,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "incorporation by reference",
+    "truncated disclosure",
+    "HTML formatting artifact",
+    "future-dated proxy reference"
+  ],
+  "risk_summary": "The excerpt primarily redirects readers to the proxy statement rather than providing substantive disclosure, limiting transparency in the reviewed text. Apparent truncation and formatting artifacts reduce clarity, but the passage itself does not convey a materially negative or crisis-like risk tone."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "due primarily to",
+    "could have a material adverse impact",
+    "it is possible that",
+    "substantially all",
+    "non-GAAP measures"
+  ],
+  "risk_summary": "The excerpt is generally quantitative and transparent, reporting sales, margins, expenses, debt, store footprint, and operational drivers. Risk exposure remains meaningful due to narrow industry margins, intense competition, labor and shrink pressures, reliance on Wakefern, and potential cybersecurity losses. The overall tone is cautiously positive because reported performance improved, although some explanations rely on broad causal qualifiers and extensive standard risk language."
+}

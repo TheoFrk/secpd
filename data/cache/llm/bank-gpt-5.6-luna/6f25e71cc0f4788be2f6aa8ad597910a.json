@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.34,
+  "redundancy_score": 0.29,
+  "complexity_score": 0.83,
+  "risk_sentiment": 0.08,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "actual results could differ",
+    "estimated selling price",
+    "judgment is required",
+    "forecasted demand",
+    "certain circumstances"
+  ],
+  "risk_summary": "The excerpt is technically detailed and describes specific revenue-recognition, inventory, warranty, and estimation policies, but relies heavily on standard forward-looking disclaimers and management judgment. Key risks include timing of revenue recognition, inventory obsolescence, warranty costs, customer acceptance, and demand or technology changes. The tone is broadly neutral with modestly positive commentary on gross-margin improvement."
+}

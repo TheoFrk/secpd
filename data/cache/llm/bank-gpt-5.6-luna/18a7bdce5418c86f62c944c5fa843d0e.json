@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.69,
+  "risk_sentiment": -0.24,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements and risks",
+    "no assurance",
+    "actual results may differ materially",
+    "undertake no obligation to update",
+    "additional capital as circumstances require"
+  ],
+  "risk_summary": "The excerpt contains substantial boilerplate forward-looking disclaimer language and repeated qualifications, which limits clarity regarding future performance. Operating results include useful quantified customer and sales trends, but the going-concern section highlights dependence on customer collections, investor funding, additional capital, and favorable litigation outcomes. Failure to secure financing could impair continued operations and may cause dilution."
+}

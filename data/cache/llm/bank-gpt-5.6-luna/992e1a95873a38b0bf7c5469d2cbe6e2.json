@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.46,
+  "complexity_score": 0.68,
+  "risk_sentiment": -0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "may adversely affect",
+    "we are hopeful",
+    "doing everything we can",
+    "adequate to meet operating requirements"
+  ],
+  "risk_summary": "The excerpt identifies meaningful pandemic, component-shortage, tariff, customer-concentration, supply-chain, pricing, and demand risks, while reporting a 2% revenue decline and order cancellations. Liquidity disclosure is relatively concrete and indicates positive operating cash flow, cash of $4.4 million, and working capital of $9.4 million. The outlook remains cautiously optimistic but relies heavily on uncertain recovery assumptions and broad, largely unquantified contingencies."
+}

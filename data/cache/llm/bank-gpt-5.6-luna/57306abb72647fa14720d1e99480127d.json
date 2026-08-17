@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.43,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "adjusted non-GAAP measures",
+    "largely offset",
+    "significant macroeconomic events",
+    "further described below",
+    "notwithstanding higher expenses"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, reporting earnings, derivative losses, acquisition costs, currency effects, and operating changes. The tone is predominantly confident and growth-oriented, although results are exposed to weather, commodity-price volatility, foreign exchange movements, acquisition integration, and higher operating expenses. Reliance on adjusted earnings and expectations that derivative losses will be offset may soften the presentation of GAAP volatility."
+}

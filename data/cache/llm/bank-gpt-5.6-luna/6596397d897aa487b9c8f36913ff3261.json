@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.32,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.62,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "may have sufficient cash",
+    "need to raise additional funds",
+    "substantial doubt about going concern",
+    "development-stage company with no operations",
+    "Monte Carlo simulation model"
+  ],
+  "risk_summary": "The company has no revenue, recurring operating losses, substantial accumulated deficit, and approximately $7.1 million of annual operating cash burn. Management states that current cash may cover only near-term corporate and limited project activities, while additional financing is required to advance projects, creating substantial doubt about going-concern continuity. The disclosure is quantitatively detailed but technically dense and includes qualified liquidity language."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.22,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.62,
+  "risk_sentiment": 0.34,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "cannot assure access to capital markets",
+    "terms acceptable to us",
+    "may issue common stock",
+    "maximize portfolio returns",
+    "not material to financial position"
+  ],
+  "risk_summary": "The excerpt is largely precise and quantitatively detailed, supporting a generally stable and confident risk tone. Key risks include reliance on capital markets and debt financing, potential equity dilution, foreign-exchange exposure, and variability in capital expenditures, although these are presented with limited quantified downside scenarios."
+}

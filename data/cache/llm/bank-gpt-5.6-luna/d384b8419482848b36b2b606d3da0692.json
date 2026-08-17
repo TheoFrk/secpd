@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.93,
+  "redundancy_score": 0.78,
+  "complexity_score": 0.62,
+  "risk_sentiment": -0.08,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "information set forth elsewhere",
+    "no quantitative disclosure",
+    "boilerplate cross-reference"
+  ],
+  "risk_summary": "The excerpt provides no substantive financial, liquidity, or risk information and redirects the reader to another document. This limits transparency in the excerpt and prevents assessment of current financial condition from the text alone."
+}

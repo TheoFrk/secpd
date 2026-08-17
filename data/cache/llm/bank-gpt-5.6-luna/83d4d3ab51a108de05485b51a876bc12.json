@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.31,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.34,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "no obligation to update",
+    "management estimates",
+    "subject to margin guarantees",
+    "changes in estimates"
+  ],
+  "risk_summary": "The excerpt is generally detailed and quantitatively supported, reporting revenue, margins, segment mix, contract types, and year-over-year changes. Risk arises from reliance on estimates for percentage-of-completion accounting, contract profitability, acquisition-related margin adjustments, and fixed-price project execution. Overall tone is moderately positive due to revenue and margin growth, tempered by standard forward-looking disclaimers and estimate-related uncertainty."
+}

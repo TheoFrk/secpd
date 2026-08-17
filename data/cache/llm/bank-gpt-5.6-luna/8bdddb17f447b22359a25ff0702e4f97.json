@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.82,
+  "risk_sentiment": -0.12,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "may be required",
+    "management’s expectations",
+    "smaller reporting company omissions"
+  ],
+  "risk_summary": "The excerpt is largely standard accounting-policy and forward-looking-statement boilerplate, with substantial technical detail but limited quantified exposure or sensitivity analysis. It highlights estimation risk in receivables, inventory, revenue incentives, leases, and stock compensation, while noting that certain MD&A disclosures were omitted due to smaller reporting company status. The tone is cautious and legally defensive rather than indicative of an immediate crisis."
+}

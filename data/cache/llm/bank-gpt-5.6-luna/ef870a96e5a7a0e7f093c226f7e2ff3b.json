@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.34,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.12,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "customary closing conditions",
+    "subject to satisfaction or waiver",
+    "material adverse effect",
+    "required regulatory approval",
+    "regulatory proceedings and appeals"
+  ],
+  "risk_summary": "The disclosure is generally specific and well-quantified, with extensive dates, parties, approvals, and financial amounts. Risk is elevated by the NMPRC rejection, ongoing appeal, delayed merger closing, and dependence on further regulatory approvals, although the tone remains largely factual and measured."
+}

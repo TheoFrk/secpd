@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.62,
+  "redundancy_score": 0.58,
+  "complexity_score": 0.86,
+  "risk_sentiment": -0.22,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "not exhaustive",
+    "risks and uncertainties",
+    "not possible for management to predict",
+    "reasonable estimates",
+    "based upon current available information"
+  ],
+  "risk_summary": "The excerpt relies heavily on standard forward-looking-statement disclaimers and broad, non-quantified risk factors, limiting visibility into potential downside magnitude. Contract revenue recognition, inventory valuation, income taxes, and deferred tax assets depend on significant management estimates, while sanctions-related payment delays and the COVID-19 discussion indicate compliance and operational risks. The OFAC matter appears resolved without monetary penalties, and inflation was reported as immaterial."
+}

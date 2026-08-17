@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.72,
+  "redundancy_score": 0.68,
+  "complexity_score": 0.67,
+  "risk_sentiment": -0.55,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimer",
+    "no assurance can be given",
+    "substantial amounts of capital",
+    "up to $100 million commitment",
+    "past due preferred stock liability"
+  ],
+  "risk_summary": "Despite improved reported losses, the Company had only $2,482 in cash, substantial operating cash outflows, significant accrued interest and past-due liabilities, and depends on additional financing. The acquisition strategy and stated $100 million financing commitment are highly forward-looking and not assured, while extensive disclaimer language limits confidence in execution."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.71,
+  "risk_sentiment": 0.28,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "smaller reporting company omissions",
+    "highly subjective assumptions",
+    "impact not determined"
+  ],
+  "risk_summary": "The excerpt provides substantial quantified sales, segment, cash flow, and repurchase information, but includes extensive boilerplate disclaimers and acknowledges material estimation uncertainty in inventory, receivables, rebates, and stock-based compensation. Liquidity tone is cautiously confident, although the company has not determined the impact of a forthcoming accounting standard and the excerpt omits certain MD&A information due to smaller reporting company status."
+}

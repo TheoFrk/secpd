@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.72,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements safe harbor",
+    "risks beyond our ability to control",
+    "cannot predict all risks and uncertainties",
+    "no obligation to update",
+    "additional loans can be obtained"
+  ],
+  "risk_summary": "The excerpt contains substantial standard forward-looking disclaimer language and relies on broad, non-quantified assurances regarding future growth, liquidity, and refinancing capacity. It provides useful operational and debt figures, but liquidity plans depend on continued access to short-term debt, inventory adjustments, and related-party financing. Overall tone is cautiously positive, with meaningful exposure to commodity prices, working-capital needs, and execution risk."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.42,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.28,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "considerable amount of subjective judgments",
+    "may be misstated",
+    "market/economic conditions",
+    "if indicators exist",
+    "expected future undiscounted cash flows"
+  ],
+  "risk_summary": "The disclosure is detailed and includes substantial quantitative information on property holdings, dispositions, income, and accounting lives. Key risks arise from subjective valuation and impairment estimates, reliance on market conditions and projected cash flows, and a significant ongoing disposition program; the excerpt is also truncated, limiting assessment of later risk discussion."
+}

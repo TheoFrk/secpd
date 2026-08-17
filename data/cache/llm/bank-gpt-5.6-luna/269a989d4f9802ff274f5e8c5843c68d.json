@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.76,
+  "risk_sentiment": -0.18,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "expects growth",
+    "may or may not",
+    "currently unknown capital requirements",
+    "significant customer concentration"
+  ],
+  "risk_summary": "The disclosure provides useful revenue, customer concentration, expense, and tax-loss figures, but relies heavily on projections and conditional language regarding growth, margins, commercialization, and financing needs. Material risks include dependence on a few customers, uncertain revenue conversion from development activities, potential capital shortfalls or dilution, and possible expiration of tax-loss carryforwards."
+}

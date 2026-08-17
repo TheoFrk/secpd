@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.32,
+  "confidence": 0.92,
+  "obfuscation_indicators": [
+    "actual results could differ from our estimates",
+    "primarily due to",
+    "additional allowances may be required",
+    "information available from other sources"
+  ],
+  "risk_summary": "The excerpt is relatively transparent, with substantial quantitative disclosure on segment mix, revenues, expenses, debt repayment, and customer exposure. Key risks include sensitivity to customer employment levels, foreign exchange, collectability of receivables, and estimation uncertainty, but the overall tone is stable to moderately positive."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.18,
+  "complexity_score": 0.7,
+  "risk_sentiment": -0.08,
+  "confidence": 0.94,
+  "obfuscation_indicators": [
+    "potential claims difficult to determine",
+    "extremely difficult to estimate",
+    "management believes reserve is reasonable",
+    "subject to an exception for pervasive or system-wide fraud",
+    "based on available factors"
+  ],
+  "risk_summary": "The excerpt is generally specific and quantitatively supported, including revenue trends, loan volumes, reserves, settlements, and liabilities. Material uncertainty remains around mortgage repurchase and indemnification claims, captive insurance reserves, and future loan losses, with some reliance on management judgment and incomplete contextual detail."
+}

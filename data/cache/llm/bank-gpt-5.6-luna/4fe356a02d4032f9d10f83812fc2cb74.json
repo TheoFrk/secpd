@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.24,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.18,
+  "confidence": 0.9,
+  "obfuscation_indicators": [
+    "subject to change",
+    "we believe",
+    "potential financing capital available",
+    "many factors that can impact",
+    "unless otherwise indicated"
+  ],
+  "risk_summary": "The disclosure is generally detailed and quantitatively grounded, with clear segment, acquisition, capital spending, liquidity, covenant, and cash-flow information. Risk is presented in a measured and moderately confident tone, but some forward-looking liquidity and capital-allocation statements rely on management expectations and conditional language. The excerpt is structurally complex and includes recurring cross-references and standard boilerplate."
+}

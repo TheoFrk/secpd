@@ -1,0 +1,14 @@
+{
+  "vagueness_score": 0.88,
+  "redundancy_score": 0.62,
+  "complexity_score": 0.48,
+  "risk_sentiment": -0.05,
+  "confidence": 0.98,
+  "obfuscation_indicators": [
+    "incorporated herein by reference",
+    "no substantive MD&A provided",
+    "cross-reference to separate filing",
+    "legal boilerplate"
+  ],
+  "risk_summary": "The excerpt provides no substantive discussion of financial condition or operating results, instead directing readers to another filing. This limits transparency within the report and prevents assessment of company-specific risks from the excerpt alone."
+}

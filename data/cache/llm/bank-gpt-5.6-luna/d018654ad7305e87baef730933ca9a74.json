@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.82,
+  "risk_sentiment": 0.62,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "primarily attributable to",
+    "as described in more detail below",
+    "broad range of customers",
+    "various systems",
+    "reclassifications of prior year amounts"
+  ],
+  "risk_summary": "The disclosure is generally quantitative and provides specific segment, acquisition, and project-loss information, with an overall confident tone driven by record 2018 results. Key risks include project execution losses, impairment charges, customer and market concentration across construction and industrial sectors, and reliance on acquisitions for incremental growth. The excerpt is highly complex and repetitive, and its truncation limits assessment of the full risk discussion."
+}

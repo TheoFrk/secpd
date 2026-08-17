@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.74,
+  "risk_sentiment": 0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could cause actual results to differ materially",
+    "we believe provides a unique competitive advantage",
+    "subject to approval and issuance of municipal bonds",
+    "estimated future actions may not be indicative"
+  ],
+  "risk_summary": "The excerpt presents strong fiscal 2020 revenue and net income growth, but this is partly supported by Sky Ranch reimbursements and contrasts with steep declines in water deliveries and oil and gas water-usage revenue. Disclosure is detailed and quantitatively supported, though lengthy boilerplate, forward-looking disclaimers, and reliance on estimates and municipal bond funding introduce uncertainty."
+}

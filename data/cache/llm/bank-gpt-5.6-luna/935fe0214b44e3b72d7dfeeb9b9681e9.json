@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.24,
+  "redundancy_score": 0.22,
+  "complexity_score": 0.78,
+  "risk_sentiment": -0.28,
+  "confidence": 0.95,
+  "obfuscation_indicators": [
+    "primarily due to",
+    "partially offset by",
+    "subject to a high degree of judgment",
+    "actual results may differ",
+    "reasonably foreseeable outcome"
+  ],
+  "risk_summary": "The disclosure is highly quantified and provides detailed explanations for revenue, expense, earnings, debt, divestiture, and tax changes. Risk is elevated by material declines in pretax income and net income, increased interest expense from $1.0 billion of debt, litigation exposure, and uncertainty in tax positions, though the tone is generally factual rather than crisis-like."
+}

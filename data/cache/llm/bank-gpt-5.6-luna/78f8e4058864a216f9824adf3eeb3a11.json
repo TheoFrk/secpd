@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.28,
+  "redundancy_score": 0.3,
+  "complexity_score": 0.78,
+  "risk_sentiment": 0.25,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements subject to risks",
+    "including but not limited to",
+    "primarily attributable to",
+    "more likely than not",
+    "elsewhere in this Annual Report"
+  ],
+  "risk_summary": "The excerpt is generally transparent and quantitatively detailed, with revenue, gross profit, margin, expense, and acquisition impacts disclosed. Risk is moderate rather than crisis-like, reflecting pricing erosion, unfavorable mix, acquisition-related costs, contractual disputes, tax uncertainty, and reliance on continued growth and new products. Boilerplate disclaimers and qualified causal language modestly reduce precision."
+}

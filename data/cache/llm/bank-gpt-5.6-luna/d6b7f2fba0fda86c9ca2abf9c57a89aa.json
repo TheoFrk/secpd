@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.48,
+  "redundancy_score": 0.32,
+  "complexity_score": 0.84,
+  "risk_sentiment": -0.28,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statements and uncertainties",
+    "could differ materially",
+    "impact remains uncertain",
+    "cannot accurately predict",
+    "subjective and requires significant judgment"
+  ],
+  "risk_summary": "The excerpt provides useful quantified information on debt, interest rates, covenant compliance, transformation costs, and macroeconomic exposures. However, it relies heavily on standard forward-looking disclaimers and broad conditional language regarding geopolitical, device-sales, impairment, and partner risks, with limited quantification of potential financial impacts."
+}

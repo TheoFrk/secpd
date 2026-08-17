@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.38,
+  "redundancy_score": 0.42,
+  "complexity_score": 0.76,
+  "risk_sentiment": 0.24,
+  "confidence": 0.93,
+  "obfuscation_indicators": [
+    "forward-looking statement disclaimers",
+    "well within expected ranges",
+    "management’s best estimate",
+    "planned run-off",
+    "based on current market conditions"
+  ],
+  "risk_summary": "The excerpt presents a generally stable and moderately confident risk tone, supported by quantified loan growth, low charge-offs, and low non-performing assets. Key risks include a $39.1 million securities repositioning loss, deposit declines, substantial unrealized securities losses, and reliance on judgmental credit-loss and valuation estimates. Boilerplate forward-looking disclaimers and qualitative assurances somewhat limit transparency around downside scenarios."
+}

@@ -1,0 +1,15 @@
+{
+  "vagueness_score": 0.58,
+  "redundancy_score": 0.48,
+  "complexity_score": 0.72,
+  "risk_sentiment": -0.18,
+  "confidence": 0.91,
+  "obfuscation_indicators": [
+    "forward-looking statements disclaimer",
+    "risks and uncertainties",
+    "many factors beyond our control",
+    "no obligation to update",
+    "sufficient for at least the next 12 months"
+  ],
+  "risk_summary": "The excerpt contains extensive boilerplate disclaimers and broad, largely unquantified risk factors, including substantial capital requirements, limited liquidity, partner-company losses, valuation volatility, and clawback exposure. Management states that liquidity should be sufficient for at least 12 months, but this depends on uncertain monetization events, funding needs, and the performance of partner companies."
+}
