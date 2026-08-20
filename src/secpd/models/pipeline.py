@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 from sklearn.calibration import CalibratedClassifierCV
 from sklearn.compose import ColumnTransformer
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import GroupKFold
@@ -131,3 +131,50 @@ def build_text_pipeline(
         random_state=random_state,
     )
     return Pipeline([("pre", preprocessor), ("clf", clf)])
+
+
+def build_regression_pipeline(
+    numeric_features: list[str],
+    *,
+    n_estimators: int = 300,
+    min_samples_leaf: int = 5,
+    random_state: int = 42,
+) -> Pipeline:
+    """Tabulare Regressions-Pipeline (ordinales Rating, Notch 1–21)."""
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ("num", SimpleImputer(strategy="median"), list(numeric_features)),
+        ],
+        remainder="drop",
+    )
+    reg = RandomForestRegressor(
+        n_estimators=n_estimators,
+        min_samples_leaf=min_samples_leaf,
+        max_features="sqrt",
+        n_jobs=-1,
+        random_state=random_state,
+    )
+    return Pipeline([("pre", preprocessor), ("reg", reg)])
+
+
+def is_regression_pipeline(pipe: Pipeline) -> bool:
+    """True, wenn die letzte Stufe kein ``predict_proba`` hat."""
+    last = pipe.steps[-1][1] if pipe.steps else None
+    return hasattr(last, "predict") and not hasattr(last, "predict_proba")
+
+
+def predict_output(
+    pipe: Pipeline,
+    X: Any,
+    *,
+    task: str | None = None,
+    clip_lo: float = 1.0,
+    clip_hi: float = 21.0,
+) -> np.ndarray:
+    """Klassifikation → P(positiv); Regression → geclippte Notch-Vorhersage."""
+    if task is None:
+        task = "regression" if is_regression_pipeline(pipe) else "classification"
+    if task == "regression":
+        pred = np.asarray(pipe.predict(X), dtype=float)
+        return np.clip(pred, clip_lo, clip_hi)
+    return np.asarray(pipe.predict_proba(X)[:, 1], dtype=float)

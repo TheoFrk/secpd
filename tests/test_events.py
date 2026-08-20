@@ -74,6 +74,45 @@ def test_post_bankruptcy_rows_dropped():
     assert out.iloc[0]["label_default"] == 1
 
 
+def test_post_petition_filing_dropped_even_if_reporting_before_event():
+    """Kodak/PG&E: 10-K erst nach dem Insolvenzantrag, Stichtag davor."""
+    fy = _firm_years([
+        (1, "2011-12-31", "2012-03-15"),   # filing 6 Wochen nach Chapter 11
+        (1, "2011-06-30", "2011-08-15"),   # sauberer Prognosepunkt, Label 1
+    ])
+    ev = _events([(1, "2012-01-19", "1.03"), (9, "2030-01-01", "9.01")])
+    out = attach_default_labels(fy, ev, horizon_months=12)
+    assert len(out) == 1
+    assert pd.Timestamp(out.iloc[0]["reporting_date"]) == pd.Timestamp("2011-06-30")
+    assert int(out.iloc[0]["label_default"]) == 1
+    ann = annotate_default_labels(fy, ev, horizon_months=12)
+    assert len(ann) == 2
+    hit = ann.assign(reporting_date=pd.to_datetime(ann["reporting_date"])).set_index("reporting_date")
+    assert bool(hit.loc[pd.Timestamp("2011-12-31"), "post_petition"])
+    assert not bool(hit.loc[pd.Timestamp("2011-06-30"), "post_petition"])
+
+
+def test_score_block_reason_no_financials_and_post_petition():
+    from secpd.cli.scoring import score_block_reason
+
+    gm = pd.Series({"fyear": 2008, "has_financials": False, "total_assets": pd.NA})
+    reason = score_block_reason(gm)
+    assert reason is not None
+    assert "Finanzdaten" in reason
+    assert "2009" in reason
+
+    kodak = pd.Series({
+        "fyear": 2011,
+        "has_financials": True,
+        "total_assets": 1e9,
+        "post_petition": True,
+    })
+    assert "Chapter-11" in (score_block_reason(kodak) or "")
+
+    ok = pd.Series({"fyear": 2019, "has_financials": True, "total_assets": 1e9})
+    assert score_block_reason(ok) is None
+
+
 # --------------------------------------------------------------------------- #
 # 4) Item-Regime: match_concept kennt beide Regime; Labels default nur neu
 # --------------------------------------------------------------------------- #

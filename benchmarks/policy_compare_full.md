@@ -4,6 +4,8 @@ Universum: `zenodo_full.csv.gz` · tag=`full`
 
 **Gewinner:** `h24_bankruptcy-delisting` (mean fold PR=0.294, Top10%=38.6%)
 
+> Delisting ist kein Default. `bankruptcy-delisting` gewinnt oft nur, weil Item 3.01 rund 13× häufiger ist als Insolvenz-8-Ks (freiwillige Abgänge, Merger, Exchange-Wechsel). Ausgelieferte Bundles sind bewusst **bankruptcy-only**; Delisting bleibt Event-Feature, nicht Label.
+
 | policy | mean PR comb | mean ROC comb | pooled Top10% | pooled pos | group PR comb | mean PR fin |
 |--------|--------------|---------------|---------------|------------|---------------|-------------|
 | h24_bankruptcy-delisting | 0.294 | 0.750 | 38.6% | 2681.0 | 0.333 | 0.291 |

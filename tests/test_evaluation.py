@@ -22,6 +22,30 @@ def test_brier_skill_perfect_and_null():
     assert brier_skill_score(y, p_perfect) > 0.9
 
 
+def test_evaluate_ordinal_perfect():
+    from secpd.evaluation import evaluate_ordinal
+
+    y = np.array([12.0, 13.0, 14.0, 10.0])
+    m = evaluate_ordinal(y, y)
+    assert m["mae"] == 0.0
+    assert m["hit_pm1"] == 1.0
+    assert m["spearman"] == 1.0
+
+
+def test_regression_pipeline_smoke():
+    import pandas as pd
+    from secpd.models.pipeline import build_regression_pipeline, predict_output
+
+    rng = np.random.default_rng(0)
+    X = pd.DataFrame({"a": rng.normal(size=40), "b": rng.normal(size=40)})
+    y = np.clip(np.round(12 + X["a"] - 0.5 * X["b"]), 1, 21)
+    pipe = build_regression_pipeline(["a", "b"], n_estimators=40, random_state=0)
+    pipe.fit(X, y)
+    pred = predict_output(pipe, X, task="regression")
+    assert pred.min() >= 1.0 and pred.max() <= 21.0
+    assert float(np.mean(np.abs(pred - y))) < 3.0
+
+
 def test_evaluate_probs_includes_skill():
     y = np.array([0, 1, 0, 0, 1, 0])
     p = np.array([0.1, 0.8, 0.2, 0.05, 0.7, 0.15])

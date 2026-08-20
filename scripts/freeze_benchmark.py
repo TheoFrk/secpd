@@ -8,12 +8,12 @@ Test-IDs + Vorhersagen + CIK-Bootstrap-Report.
 Beispiel
 --------
 python scripts/freeze_benchmark.py \\
-  --data data/processed/zenodo_labeled.csv.gz \\
-  --financials data/raw/financials_panel.csv \\
-  --events data/raw/edgar_8k_events.csv \\
+  --data data/processed/zenodo_full.csv.gz \\
+  --financials data/raw/financials_panel_full.csv \\
+  --events data/raw/edgar_8k_events_full.csv \\
   --financial-model models/financial_default_h12.joblib \\
   --combined-model models/combined_default_h12.joblib \\
-  --out benchmarks/default_h12_clean
+  --out benchmarks/default_h12_full
 """
 from __future__ import annotations
 
@@ -62,7 +62,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--events", required=True)
     p.add_argument("--financial-model", required=True)
     p.add_argument("--combined-model", required=True)
-    p.add_argument("--out", default="benchmarks/default_h12_clean")
+    p.add_argument("--out", default="benchmarks/default_h12_full")
     p.add_argument("--default-horizon", type=int, default=12)
     p.add_argument("--min-fyear", type=int, default=MIN_FYEAR_WITH_FINANCIALS)
     p.add_argument("--require-financials", action="store_true", default=True)

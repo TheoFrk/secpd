@@ -7,11 +7,11 @@ Fenster. Combined nutzt den LLM-Cache (keine API bei ``--llm-cache-only``).
 Beispiel
 --------
 python scripts/rolling_eval.py \\
-  --data data/processed/zenodo_labeled.csv.gz \\
-  --financials data/raw/financials_panel.csv \\
-  --events data/raw/edgar_8k_events.csv \\
+  --data data/processed/zenodo_full.csv.gz \\
+  --financials data/raw/financials_panel_full.csv \\
+  --events data/raw/edgar_8k_events_full.csv \\
   --llm openai --llm-cache-only \\
-  --out benchmarks/rolling_default_h12
+  --out benchmarks/rolling_full_h12_bankruptcy
 """
 from __future__ import annotations
 
@@ -60,7 +60,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--data", required=True)
     p.add_argument("--financials", required=True)
     p.add_argument("--events", required=True)
-    p.add_argument("--out", default="benchmarks/rolling_default_h12")
+    p.add_argument("--out", default="benchmarks/rolling_full_h12_bankruptcy")
     p.add_argument("--default-horizon", type=int, default=12)
     p.add_argument("--label-concepts", default="bankruptcy")
     p.add_argument("--min-fyear", type=int, default=MIN_FYEAR_WITH_FINANCIALS)
@@ -74,6 +74,12 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--n-estimators", type=int, default=200)
     p.add_argument("--calibrate", action="store_true", default=True)
     p.add_argument("--no-calibrate", action="store_true")
+    p.add_argument(
+        "--calibrate-method",
+        choices=["auto", "sigmoid", "isotonic"],
+        default="auto",
+        help="auto: sigmoid bei <100 Trainings-Positiven, sonst isotonic",
+    )
     p.add_argument("--seed", type=int, default=42)
     p.add_argument("--n-boot", type=int, default=500)
     p.add_argument("--llm", choices=["mock", "bank", "lmstudio", "openai", "chatgpt"], default="openai")
@@ -138,8 +144,15 @@ def _fit_score(
     calibrate: bool,
     n_estimators: int,
     seed: int,
+    calibrate_method: str = "auto",
 ) -> np.ndarray:
-    cal_method = "sigmoid" if int(y_tr.sum()) < 100 else "isotonic"
+    n_pos = int(y_tr.sum())
+    if calibrate_method == "auto":
+        cal_method = "sigmoid" if n_pos < 100 else "isotonic"
+    elif calibrate_method in {"sigmoid", "isotonic"}:
+        cal_method = calibrate_method
+    else:
+        cal_method = "sigmoid"
     cv = make_calibration_cv(df_tr["cik"].to_numpy(), y_tr) if calibrate else 3
     pipe = build_pipeline(
         features,
@@ -195,6 +208,7 @@ def main() -> int:
         p_fin = _fit_score(
             df_tr, df_te, y_tr, numeric,
             calibrate=calibrate, n_estimators=args.n_estimators, seed=args.seed,
+            calibrate_method=str(args.calibrate_method),
         )
         m_fin = _metrics(y_te, p_fin)
         row: dict = {
@@ -210,6 +224,7 @@ def main() -> int:
             p_comb = _fit_score(
                 df_tr, df_te, y_tr, combined_features,
                 calibrate=calibrate, n_estimators=args.n_estimators, seed=args.seed,
+            calibrate_method=str(args.calibrate_method),
             )
             m_comb = _metrics(y_te, p_comb)
             row.update({f"comb_{k}": v for k, v in m_comb.items()})
@@ -237,6 +252,7 @@ def main() -> int:
 
     summary: dict = {
         "created_at_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "data": str(args.data),
         "n_folds": len(folds),
         "text_features": text_cols,
         "policy": {
@@ -246,6 +262,7 @@ def main() -> int:
             "test_window_years": args.test_window_years,
             "step_years": args.step_years,
             "calibrate": calibrate,
+            "calibrate_method": str(args.calibrate_method),
             "llm": args.llm,
             "default_horizon_months": args.default_horizon,
             "label_concepts": list(parse_label_concepts(args.label_concepts)),
@@ -279,12 +296,14 @@ def main() -> int:
         p_fin = _fit_score(
             df_tr, df_te, y_tr, numeric,
             calibrate=calibrate, n_estimators=args.n_estimators, seed=args.seed,
+            calibrate_method=str(args.calibrate_method),
         )
         group_eval = {"split": strat, "financial": _metrics(y_te, p_fin)}
         if text_cols:
             p_comb = _fit_score(
                 df_tr, df_te, y_tr, combined_features,
                 calibrate=calibrate, n_estimators=args.n_estimators, seed=args.seed,
+            calibrate_method=str(args.calibrate_method),
             )
             group_eval["combined"] = _metrics(y_te, p_comb)
         summary["group_split"] = group_eval

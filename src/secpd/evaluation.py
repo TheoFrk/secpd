@@ -44,6 +44,28 @@ def brier_skill_score(
     return 1.0 - brier_model / brier_ref
 
 
+def evaluate_ordinal(y_true: np.ndarray, y_pred: np.ndarray) -> dict[str, float]:
+    """MAE (Notches), Spearman, ±1-Notch-Trefferquote."""
+    y = np.asarray(y_true, dtype=float)
+    p = np.clip(np.asarray(y_pred, dtype=float), 1.0, 21.0)
+    n = len(y)
+    out: dict[str, float] = {
+        "n": float(n),
+        "mae": float(np.mean(np.abs(y - p))) if n else float("nan"),
+        "mean_true": float(np.mean(y)) if n else float("nan"),
+        "mean_pred": float(np.mean(p)) if n else float("nan"),
+    }
+    if n >= 2 and np.nanstd(y) > 0 and np.nanstd(p) > 0:
+        ra = pd.Series(y).rank()
+        rb = pd.Series(p).rank()
+        out["spearman"] = float(ra.corr(rb))
+    else:
+        out["spearman"] = float("nan")
+    rounded = np.clip(np.round(p), 1, 21)
+    out["hit_pm1"] = float(np.mean(np.abs(y - rounded) <= 1.0)) if n else float("nan")
+    return out
+
+
 def evaluate_probs(y_true: np.ndarray, p: np.ndarray) -> dict[str, float]:
     """Kernmetriken; robust gegen Ein-Klassen-Testsets."""
     y = np.asarray(y_true).astype(int)
@@ -287,6 +309,15 @@ def firm_overlap_stats(
 
 
 def format_metrics(name: str, metrics: dict[str, float]) -> str:
+    if "mae" in metrics:
+        sp = metrics.get("spearman", float("nan"))
+        hit = metrics.get("hit_pm1", float("nan"))
+        sp_s = f"{sp:.3f}" if sp == sp else "n/a"
+        hit_s = f"{100 * hit:.1f}%" if hit == hit else "n/a"
+        return (
+            f"{name:<22} MAE={metrics['mae']:.3f}  Spearman={sp_s}  "
+            f"±1-Notch={hit_s}  (n={int(metrics['n'])})"
+        )
     skill = metrics.get("brier_skill", float("nan"))
     skill_s = f"{skill:+.3f}" if skill == skill else "n/a"
     return (
@@ -306,9 +337,11 @@ def print_report(results: dict[str, dict[str, Any]], *, show_deciles_for: str | 
     for name, metrics in results.items():
         print(format_metrics(name, metrics))
     if show_deciles_for and y_true is not None and p is not None:
-        print("-" * 78)
-        print(f"Dezil-Tabelle — {show_deciles_for} (Dezil 1 = höchste Scores):")
-        table = decile_table(y_true, p)
-        with pd.option_context("display.float_format", "{:,.4f}".format):
-            print(table.to_string(index=False))
+        focus_metrics = results.get(show_deciles_for) or {}
+        if "mae" not in focus_metrics:
+            print("-" * 78)
+            print(f"Dezil-Tabelle — {show_deciles_for} (Dezil 1 = höchste Scores):")
+            table = decile_table(y_true, p)
+            with pd.option_context("display.float_format", "{:,.4f}".format):
+                print(table.to_string(index=False))
     print("=" * 78 + "\n")

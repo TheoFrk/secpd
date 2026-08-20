@@ -13,7 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
-from secpd.data.synthetic import make_synthetic_dataset, make_synthetic_events  # noqa: E402
+from secpd.data.synthetic import make_synthetic_dataset, make_synthetic_events, make_synthetic_ratings  # noqa: E402
 
 
 def main() -> int:
@@ -25,6 +25,8 @@ def main() -> int:
     p.add_argument("--events-out", default=None,
                    help="Optional: passende synthetische 8-K-Eventliste (CSV) für "
                         "den Default-Label-Workflow schreiben")
+    p.add_argument("--ratings-out", default=None,
+                   help="Optional: synthetische Rating-Historie für --label-source rating")
     args = p.parse_args()
 
     df = make_synthetic_dataset(n=args.n, seed=args.seed)
@@ -41,6 +43,14 @@ def main() -> int:
         events.to_csv(ev_out, index=False)
         logging.info("Geschrieben: %s — %d 8-Ks für %d CIKs",
                      ev_out, len(events), events["cik"].nunique())
+
+    if args.ratings_out:
+        ratings = make_synthetic_ratings(df, seed=args.seed)
+        rt_out = Path(args.ratings_out)
+        rt_out.parent.mkdir(parents=True, exist_ok=True)
+        ratings.to_csv(rt_out, index=False)
+        logging.info("Geschrieben: %s — %d Ratings für %d CIKs",
+                     rt_out, len(ratings), ratings["cik"].nunique())
     return 0
 
 

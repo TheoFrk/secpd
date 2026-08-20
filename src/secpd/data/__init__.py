@@ -1,1 +1,1 @@
-"""Datenzugriff: Zenodo-Datensatz, EDGAR/XBRL, synthetische Daten."""
+"""Datenzugriff: Zenodo-Datensatz, EDGAR/XBRL, Ratings, synthetische Daten."""

@@ -187,7 +187,7 @@ def attach_fraud_labels(
 # Generischer Loader für den (konvertierten) Modellierungs-Datensatz
 # --------------------------------------------------------------------------- #
 
-LABEL_CANDIDATES = ("label", "misstate", "fraud", "is_fraud", "target", "y", "default")
+LABEL_CANDIDATES = ("label", "label_rating", "misstate", "fraud", "is_fraud", "target", "y", "default")
 ID_CANDIDATES = ("doc_id", "accession", "accession_number")
 TEXT_CANDIDATES = ("mda", "text", "item7", "item_7", "mgmt_discussion", "risk_factors")
 YEAR_CANDIDATES = ("fyear", "fiscal_year", "year")

@@ -37,6 +37,8 @@ class CachedLLMClient(BaseLLMClient):
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.force_refresh = bool(force_refresh)
         self.cache_only = bool(cache_only) and not self.force_refresh
+        self._cache_hits = 0
+        self._cache_misses = 0
         self.name = f"cached({inner.name})"
         if self.force_refresh:
             self.name += "+refresh"
@@ -55,13 +57,15 @@ class CachedLLMClient(BaseLLMClient):
         path = self._path_for(text)
         if path.exists() and not self.force_refresh:
             try:
-                return TextRiskProfile.model_validate_json(path.read_text(encoding="utf-8"))
+                profile = TextRiskProfile.model_validate_json(path.read_text(encoding="utf-8"))
+                self._cache_hits += 1
+                return profile
             except Exception:  # noqa: BLE001 — korrupten Cache-Eintrag neu berechnen
                 logger.warning("Korrupter Cache-Eintrag wird neu berechnet: %s", path.name)
 
         if self.cache_only:
-            n_miss = getattr(self, "_cache_misses", 0) + 1
-            self._cache_misses = n_miss
+            self._cache_misses += 1
+            n_miss = self._cache_misses
             if n_miss <= 3 or n_miss % 10_000 == 0:
                 logger.info("Cache-Miss (cache-only, kein LLM-Call) #%d: %s", n_miss, path.name)
             return TextRiskProfile.fallback(reason="cache miss")

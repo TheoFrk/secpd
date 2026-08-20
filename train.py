@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import argparse
 import logging
+import os
 import sys
 import uuid
 from pathlib import Path
@@ -40,8 +41,9 @@ from secpd.data.events import (  # noqa: E402
     load_events,
     parse_label_concepts,
 )
+from secpd.data.ratings import attach_rating_labels, load_ratings  # noqa: E402
 from secpd.data.zenodo import load_dataset, resolve_columns  # noqa: E402
-from secpd.evaluation import evaluate_probs, firm_overlap_stats, print_report  # noqa: E402
+from secpd.evaluation import evaluate_ordinal, evaluate_probs, firm_overlap_stats, print_report  # noqa: E402
 from secpd.features.financial import add_financial_features  # noqa: E402
 from secpd.features.textual import attach_text_features  # noqa: E402
 from secpd.llm import get_llm_client  # noqa: E402
@@ -53,25 +55,61 @@ from secpd.models.persistence import (  # noqa: E402
     save_ensemble,
     save_single,
 )
-from secpd.models.pipeline import build_pipeline, build_text_pipeline, fit_pipeline, make_calibration_cv  # noqa: E402
+from secpd.models.pipeline import (  # noqa: E402
+    build_pipeline,
+    build_regression_pipeline,
+    build_text_pipeline,
+    fit_pipeline,
+    make_calibration_cv,
+    predict_output,
+)
 from secpd.splitting import smart_split  # noqa: E402
 
 logger = logging.getLogger("train")
+SECRETS_FILE = Path(__file__).resolve().parent / ".secpd.env"
+
+
+def _load_secrets() -> None:
+    """Übernimmt Keys/Modus aus ``.secpd.env``, ohne vorhandene ENV zu überschreiben."""
+    if not SECRETS_FILE.exists():
+        return
+    for raw in SECRETS_FILE.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        key, val = key.strip(), val.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = val
 
 
 def parse_args() -> argparse.Namespace:
+    """CLI: Datenquellen, Label, Split, LLM, Kalibrierung, Persistenz."""
     p = argparse.ArgumentParser(description="SEC-PD Training")
+    # Datenquellen
     p.add_argument("--data", required=True, help="Pfad zum Datensatz (.csv/.csv.gz/.parquet)")
     p.add_argument("--financials", default=None,
                    help="Optionales Finanz-Panel (CSV mit cik,fyear,…) zum Mergen, s. scripts/fetch_edgar_financials.py")
     p.add_argument("--events", default=None,
                    help="Optionale 8-K-Eventliste (CSV), s. scripts/fetch_edgar_events.py — "
                         "ergänzt PIT-saubere evt_*-Features")
-    p.add_argument("--label-source", choices=["fraud", "default"], default="fraud",
-                   help="fraud = AAER-Label des Datensatzes | default = Insolvenz-Label "
-                        "aus 8-K Item 1.03 (erfordert --events)")
+    p.add_argument("--label-source", choices=["fraud", "default", "rating"], default="fraud",
+                   help="fraud = AAER-Label | default = 8-K Item 1.03 | "
+                        "rating = Agency/FMP-Panel (erfordert --ratings)")
     p.add_argument("--default-horizon", type=int, default=12,
-                   help="Prognosehorizont des Default-Labels in Monaten")
+                   help="Prognosehorizont in Monaten (default-Label und rating-downgrade)")
+    p.add_argument(
+        "--ratings",
+        default=None,
+        help="Ratings-Panel (CSV), s. scripts/fetch_ratings.py — für --label-source rating",
+    )
+    p.add_argument(
+        "--rating-target",
+        choices=["ordinal", "speculative", "downgrade"],
+        default="ordinal",
+        help="ordinal = Notch 1–21 (Default) | speculative = HY-ähnlich | "
+             "downgrade = Notch fällt im Horizont",
+    )
     p.add_argument(
         "--label-concepts",
         default="bankruptcy",
@@ -88,7 +126,7 @@ def parse_args() -> argparse.Namespace:
         "--min-fyear",
         type=int,
         default=None,
-        help="Nur Firm-Years ab diesem GJ (Default bei --label-source default: "
+        help="Nur Firm-Years ab diesem GJ (Default bei --label-source default/rating: "
              f"{MIN_FYEAR_WITH_FINANCIALS}, sonst kein Cut)",
     )
     p.add_argument(
@@ -133,6 +171,7 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
+    _load_secrets()
     args = parse_args()
     out_dir = Path(args.out)
 
@@ -166,8 +205,23 @@ def main() -> int:
         if args.label_col is None:
             args.label_col = "label_default"
 
+    if args.label_source == "rating":
+        if not args.ratings:
+            logger.error("--label-source rating erfordert --ratings "
+                         "(s. scripts/fetch_ratings.py).")
+            return 2
+        ratings_df = load_ratings(args.ratings)
+        df = attach_rating_labels(
+            df,
+            ratings_df,
+            target=args.rating_target,
+            horizon_months=args.default_horizon,
+        )
+        if args.label_col is None:
+            args.label_col = "label_rating"
+
     min_fyear = args.min_fyear
-    if min_fyear is None and args.label_source == "default":
+    if min_fyear is None and args.label_source in {"default", "rating"}:
         min_fyear = MIN_FYEAR_WITH_FINANCIALS
     if min_fyear is not None and "fyear" in df.columns:
         before = len(df)
@@ -234,8 +288,15 @@ def main() -> int:
             force_refresh=bool(args.llm_refresh),
             cache_only=bool(args.llm_cache_only),
         )
+        cache_dir = getattr(client, "cache_dir", None)
         if args.llm_refresh:
             logger.info("LLM: Force-Refresh aktiv — Cache wird überschrieben (%s)", client.name)
+        elif args.llm_cache_only:
+            logger.info(
+                "LLM: Cache-only Replay (%s)%s",
+                client.name,
+                f" dir={cache_dir}" if cache_dir else "",
+            )
         else:
             logger.info("LLM: Cache bevorzugt, keine neuen API-Calls bei Hits (%s)", client.name)
         df, llm_features = attach_text_features(
@@ -261,12 +322,23 @@ def main() -> int:
         random_state=args.seed,
     )
     df_train, df_test = df.iloc[train_idx], df.iloc[test_idx]
-    y_train = df_train[cols.label_col].astype(int).to_numpy()
-    y_test = df_test[cols.label_col].astype(int).to_numpy()
-    logger.info(
-        "Split (%s): Train n=%d (%.1f%% pos) | Test n=%d (%.1f%% pos)",
-        used_strategy, len(df_train), 100 * y_train.mean(), len(df_test), 100 * y_test.mean(),
-    )
+    is_ordinal = args.label_source == "rating" and str(args.rating_target).lower() == "ordinal"
+    if is_ordinal:
+        y_train = df_train[cols.label_col].astype(float).to_numpy()
+        y_test = df_test[cols.label_col].astype(float).to_numpy()
+        logger.info(
+            "Split (%s): Train n=%d (mean_notch=%.2f) | Test n=%d (mean_notch=%.2f)",
+            used_strategy, len(df_train), float(y_train.mean()),
+            len(df_test), float(y_test.mean()),
+        )
+    else:
+        y_train = df_train[cols.label_col].astype(int).to_numpy()
+        y_test = df_test[cols.label_col].astype(int).to_numpy()
+        logger.info(
+            "Split (%s): Train n=%d (%.1f%% pos) | Test n=%d (%.1f%% pos)",
+            used_strategy, len(df_train), 100 * y_train.mean(),
+            len(df_test), 100 * y_test.mean(),
+        )
     overlap = {"overlap_rate": float("nan")}
     if group_col is not None:
         overlap = firm_overlap_stats(df_train[group_col], df_test[group_col])
@@ -284,32 +356,46 @@ def main() -> int:
     # ------------------------------------------------------------------ #
     results: dict[str, dict[str, float]] = {}
     train_run_id = uuid.uuid4().hex[:12]
+    rating_horizon = (
+        args.default_horizon
+        if args.label_source == "rating" and args.rating_target == "downgrade"
+        else None
+    )
+    bundle_horizon = args.default_horizon if args.label_source == "default" else rating_horizon
+    if is_ordinal and args.calibrate:
+        logger.info("--calibrate wird beim ordinalen Rating-Regressor ignoriert.")
+    do_calibrate = bool(args.calibrate) and not is_ordinal
+    task = "regression" if is_ordinal else "classification"
     base_meta = {
         "mode": args.mode,
         "split_strategy": used_strategy,
         "label_col": cols.label_col,
         "label_source": args.label_source,
-        "default_horizon_months": args.default_horizon if args.label_source == "default" else None,
+        "task": task,
+        "default_horizon_months": args.default_horizon if args.label_source == "default" else rating_horizon,
         "label_concepts": list(label_concepts) if args.label_source == "default" else None,
+        "rating_target": args.rating_target if args.label_source == "rating" else None,
         "trust_legacy_regime": bool(args.trust_legacy_regime),
         "min_fyear": int(min_fyear) if min_fyear is not None else None,
         "require_financials": bool(args.require_financials),
         "event_features": evt_features,
-        "calibrated": bool(args.calibrate),
+        "calibrated": do_calibrate,
         "firm_overlap": overlap,
         "data": str(args.data),
         "train_run_id": train_run_id,
+        # Fraud-Bundles sind Screening-Experimente (wenige Positive, oft negativer Skill).
+        "status": "experimental" if args.label_source == "fraud" else "production",
     }
 
     # 4a) Financial-Baseline — immer, als Referenzpunkt für den Text-Mehrwert.
-    n_pos_train = int(y_train.sum())
+    n_pos_train = int((y_train > 0).sum()) if not is_ordinal else 0
     if args.calibrate_method == "auto":
         cal_method = "sigmoid" if n_pos_train < 100 else "isotonic"
     else:
         cal_method = args.calibrate_method
     groups_train = df_train[group_col].to_numpy() if group_col else None
-    cal_cv = make_calibration_cv(groups_train, y_train) if args.calibrate else 3
-    if args.calibrate:
+    cal_cv = make_calibration_cv(groups_train, y_train) if do_calibrate else 3
+    if do_calibrate:
         logger.info(
             "Kalibrierung: method=%s cv=%s (train positives=%d)",
             cal_method,
@@ -317,71 +403,86 @@ def main() -> int:
             n_pos_train,
         )
 
-    fin_pipe = build_pipeline(
-        numeric_features,
-        n_estimators=args.n_estimators,
-        calibrate=args.calibrate,
-        calibration_method=cal_method,
-        cv=cal_cv,
-        random_state=args.seed,
-    )
-    fit_pipeline(fin_pipe, df_train, y_train, groups=groups_train)
-    p_fin_test = fin_pipe.predict_proba(df_test)[:, 1]
-    results["financial_baseline"] = evaluate_probs(y_test, p_fin_test)
+    def _eval(y, pred) -> dict[str, float]:
+        return evaluate_ordinal(y, pred) if is_ordinal else evaluate_probs(y, pred)
+
+    def _fit_tabular(features: list[str]):
+        if is_ordinal:
+            pipe = build_regression_pipeline(
+                features,
+                n_estimators=args.n_estimators,
+                random_state=args.seed,
+            )
+        else:
+            pipe = build_pipeline(
+                features,
+                n_estimators=args.n_estimators,
+                calibrate=do_calibrate,
+                calibration_method=cal_method,
+                cv=cal_cv,
+                random_state=args.seed,
+            )
+        fit_pipeline(pipe, df_train, y_train, groups=groups_train)
+        pred = predict_output(pipe, df_test, task=task)
+        return pipe, pred
+
+    fin_pipe, p_fin_test = _fit_tabular(numeric_features)
+    results["financial_baseline"] = _eval(y_test, p_fin_test)
     # New-firm Subset (streng): nur Test-CIKs ohne Trainingsjahre
     if group_col is not None:
         train_ciks = set(df_train[group_col].dropna().astype(int))
         new_mask = ~df_test[group_col].astype("Int64").isin(train_ciks)
         if new_mask.any() and df_test.loc[new_mask, cols.label_col].nunique() >= 2:
-            results["financial_new_firms"] = evaluate_probs(
-                df_test.loc[new_mask, cols.label_col].astype(int).to_numpy(),
-                p_fin_test[new_mask.to_numpy()],
+            y_new = df_test.loc[new_mask, cols.label_col].to_numpy()
+            if not is_ordinal:
+                y_new = y_new.astype(int)
+            results["financial_new_firms"] = _eval(y_new, p_fin_test[new_mask.to_numpy()])
+            extra = (
+                f"MAE={results['financial_new_firms']['mae']:.3f}"
+                if is_ordinal
+                else f"ROC={results['financial_new_firms']['roc_auc']:.3f}"
             )
             logger.info(
-                "New-firm Subset: n=%d pos=%d ROC=%.3f",
+                "New-firm Subset: n=%d %s",
                 int(results["financial_new_firms"]["n"]),
-                int(results["financial_new_firms"]["positives"]),
-                results["financial_new_firms"]["roc_auc"],
+                extra,
             )
     fin_bundle = ModelBundle(
         pipeline=fin_pipe,
         feature_cols=numeric_features,
         metadata=runtime_metadata({**base_meta, "component": "financial",
-                                   "calibration_method": cal_method if args.calibrate else None,
+                                   "calibration_method": cal_method if do_calibrate else None,
                                    "calibration_cv": (
                                        f"GroupSplits({len(cal_cv)})"
                                        if isinstance(cal_cv, list)
                                        else cal_cv
-                                   ) if args.calibrate else None,
+                                   ) if do_calibrate else None,
                                    "metrics": results["financial_baseline"]}),
     )
     fin_name = bundle_filename(
         "financial",
         label_source=args.label_source,
-        horizon_months=args.default_horizon if args.label_source == "default" else None,
+        horizon_months=bundle_horizon,
+        rating_target=args.rating_target if args.label_source == "rating" else None,
     )
     save_single(fin_bundle, out_dir / fin_name)
 
     report_focus = ("financial_baseline", p_fin_test)
+    train_mode = args.mode
+    if is_ordinal and train_mode == "ensemble":
+        logger.info("Ordinales Rating: ensemble → combined (kein Logit-Mix).")
+        train_mode = "combined"
 
-    if args.mode == "combined":
+    if train_mode == "combined":
         # 4b) Option A: Finanz- + LLM-Features im selben Modell.
         combined_features = numeric_features + llm_features
-        comb_pipe = build_pipeline(
-            combined_features,
-            n_estimators=args.n_estimators,
-            calibrate=args.calibrate,
-            calibration_method=cal_method,
-            cv=cal_cv,
-            random_state=args.seed,
-        )
-        fit_pipeline(comb_pipe, df_train, y_train, groups=groups_train)
-        p_comb_test = comb_pipe.predict_proba(df_test)[:, 1]
-        results["combined_model"] = evaluate_probs(y_test, p_comb_test)
+        comb_pipe, p_comb_test = _fit_tabular(combined_features)
+        results["combined_model"] = _eval(y_test, p_comb_test)
         comb_name = bundle_filename(
             "combined",
             label_source=args.label_source,
-            horizon_months=args.default_horizon if args.label_source == "default" else None,
+            horizon_months=bundle_horizon,
+            rating_target=args.rating_target if args.label_source == "rating" else None,
         )
         save_single(
             ModelBundle(
@@ -389,14 +490,14 @@ def main() -> int:
                 feature_cols=combined_features,
                 metadata=runtime_metadata({**base_meta, "component": "combined",
                                            "llm_features": llm_features,
-                                           "calibration_method": cal_method if args.calibrate else None,
+                                           "calibration_method": cal_method if do_calibrate else None,
                                            "metrics": results["combined_model"]}),
             ),
             out_dir / comb_name,
         )
         report_focus = ("combined_model", p_comb_test)
 
-    elif args.mode == "ensemble":
+    elif train_mode == "ensemble":
         # 4b') Option B: separates Text-Modell + Logit-Ensemble.
         text_pipe = build_text_pipeline(llm_features, random_state=args.seed)
         text_pipe.fit(df_train, y_train)
@@ -411,7 +512,8 @@ def main() -> int:
         ens_name = bundle_filename(
             "ensemble",
             label_source=args.label_source,
-            horizon_months=args.default_horizon if args.label_source == "default" else None,
+            horizon_months=bundle_horizon,
+            rating_target=args.rating_target if args.label_source == "rating" else None,
         )
         save_ensemble(
             fin_bundle,

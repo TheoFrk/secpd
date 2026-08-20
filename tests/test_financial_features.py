@@ -61,6 +61,14 @@ def test_trends_and_sic_rank() -> None:
     assert "fin_vol3_roa" in cols
     assert "fin_altman_z" in cols
     assert "fin_leverage_sic_pct" in cols
+    assert "fin_sic_div_7" in cols  # SIC 7372 → Division 7 (Services)
+    assert float(out.loc[0, "fin_sic_div_7"]) == 1.0
+    assert float(out.loc[0, "fin_sic_div_2"]) == 0.0
+    assert "fin_size_bucket" in cols
+    assert "fin_size_small" in cols
+    # Assets 100–220 USD → small
+    assert float(out.loc[0, "fin_size_small"]) == 1.0
+    assert float(out.loc[0, "fin_size_large"]) == 0.0
     # Erstes Jahr: kein Δ
     assert np.isnan(out.loc[0, "fin_d_leverage"])
     # Leverage steigt bei CIK 1: 0.4 → 0.5 → ~0.583
@@ -98,3 +106,76 @@ def test_pit_prefers_earlier_filed() -> None:
     df = annual_financials_from_facts(facts)
     assert len(df) == 1
     assert float(df.loc[0, "total_assets"]) == 100.0
+    assert df.loc[0, "source_form"] == "10-K"
+
+
+def test_empty_facts_keeps_cik_column() -> None:
+    df = annual_financials_from_facts({"cik": "0001181412", "facts": {}})
+    assert df.empty
+    assert "cik" in df.columns
+
+
+def test_interim_10q_when_no_10k() -> None:
+    """Neu-Listing ohne 10-K: 10-Q-Stichtage, GuV = längste Duration (YTD)."""
+    facts = {
+        "cik": "0001181412",
+        "entityName": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+        "facts": {
+            "us-gaap": {
+                "Assets": {
+                    "units": {
+                        "USD": [
+                            {
+                                "form": "10-Q",
+                                "fp": "Q2",
+                                "fy": 2026,
+                                "end": "2025-12-31",
+                                "filed": "2026-08-04",
+                                "val": 92_000.0,
+                            },
+                            {
+                                "form": "10-Q",
+                                "fp": "Q2",
+                                "fy": 2026,
+                                "end": "2026-06-30",
+                                "filed": "2026-08-04",
+                                "val": 192_000.0,
+                            },
+                        ]
+                    }
+                },
+                "NetIncomeLoss": {
+                    "units": {
+                        "USD": [
+                            {
+                                "form": "10-Q",
+                                "fp": "Q2",
+                                "fy": 2026,
+                                "start": "2026-04-01",
+                                "end": "2026-06-30",
+                                "filed": "2026-08-04",
+                                "val": -500.0,
+                            },
+                            {
+                                "form": "10-Q",
+                                "fp": "Q2",
+                                "fy": 2026,
+                                "start": "2026-01-01",
+                                "end": "2026-06-30",
+                                "filed": "2026-08-04",
+                                "val": -4_800.0,
+                            },
+                        ]
+                    }
+                },
+            }
+        },
+    }
+    df = annual_financials_from_facts(facts)
+    assert list(df["source_form"].unique()) == ["10-Q"]
+    assert len(df) == 2
+    q2 = df.loc[pd.to_datetime(df["reporting_date"]) == pd.Timestamp("2026-06-30")].iloc[0]
+    assert float(q2["total_assets"]) == 192_000.0
+    assert float(q2["net_income"]) == -4_800.0
+    none = annual_financials_from_facts(facts, allow_interim=False)
+    assert none.empty

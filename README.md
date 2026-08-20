@@ -45,6 +45,7 @@ python scripts/fetch_zenodo.py --files aaer_mark5.csv firm_years_labels.json
 
 ```
 src/secpd/
+├── cli/                 # interaktive Oberfläche (`python start.py`)
 ├── config.py            # ENV-basierte Settings (SECPD_LLM_MODE, …)
 ├── splitting.py         # temporal / group / random Splits (leakage-bewusst)
 ├── evaluation.py        # ROC-AUC, PR-AUC, Brier, Dezil-/Lift-Tabelle
@@ -125,6 +126,7 @@ committet werden — damit sind die Bank-LLM-Profile zu Hause exakt reproduzierb
 | `SECPD_LLM_JSON_MODE`| `1`/`0` — `response_format=json_object` | openai: `1` |
 | `SECPD_LLM_TIMEOUT`  | Request-Timeout (Sekunden)              | openai: `120` |
 | `SECPD_SEC_UA`       | SEC-Pflicht-User-Agent für EDGAR (Home) | —       |
+| `SECPD_FMP_API_KEY`  | FMP-Key (optional, `--source fmp`)      | —       |
 | `SECPD_LLM_CACHE`    | Cache-Verzeichnis (optional)            | `data/cache/llm` |
 
 ### OpenAI / ChatGPT (empfohlen für Bulk)
@@ -219,10 +221,20 @@ python train.py --data data/processed/zenodo_labeled.csv.gz \
 
 **Label-Definition:** `label_default = 1` ⟺ die Insolvenzmeldung liegt in
 `(reporting_date, reporting_date + Horizont]`. Firm-Years **nach** der
-Insolvenz werden gedroppt; rechtszensierte Firm-Years (Horizont ragt über
-das Beobachtungsende hinaus, Label 0) ebenfalls. Die Insolvenz ist
+Insolvenz werden gedroppt, ebenso 10-Ks mit `filing_date > bankruptcy_date`
+(post-petition: Kodak, PG&E haben den 10-K erst ~6 Wochen nach dem Antrag
+eingereicht — `reporting_date` liegt davor, die MD&A enthält aber schon
+Chapter-11-Prosa). Rechtszensierte Firm-Years (Horizont ragt über das
+Beobachtungsende hinaus, Label 0) ebenfalls. Die Insolvenz ist
 ausschließlich **Zielvariable** — Item 1.03/alt-3 existiert bewusst in
 keinem Feature (Leakage-Regel, per Test abgesichert).
+
+**Delisting ist kein Default.** Die Policy `bankruptcy,delisting` gewinnt
+einen Rolling-Vergleich nur, weil Delisting-8-Ks (Item 3.01) rund 13×
+häufiger sind als Insolvenz-Meldungen. Delisting umfasst freiwillige
+Abgänge, Merger und Exchange-Wechsel — das ist kein Kreditereignis.
+Ausgelieferte Bundles sind bewusst **bankruptcy-only**. `delisting`
+bleibt ein Event-Feature (`evt_n_delisting`), nicht Teil des Labels.
 
 **Event-Features (`evt_*`, mit `--events` in allen Modi):** PIT-saubere
 Zähler über `(filing_date_10K − 365 T, filing_date_10K]` — 8-K-Frequenz,
@@ -236,6 +248,65 @@ Basisrate liegt deutlich unter der Fraud-Basisrate ⇒ **PR-AUC als
 Leitmetrik**; Chapter 11 ist der übliche Default-Proxy, nicht identisch
 mit einem Zahlungsausfall im Kreditvertragssinn.
 
+## Ratings-Label (Agentur-Note, ordinal)
+
+Dichtes Ranking-Target: **Issuer-Ratings** aus [ratingshistory.info](https://ratingshistory.info/)
+(SEC Regulation 17g-7: Moody's, Fitch, Egan-Jones). Das Modell sagt die
+**ordinale Note** (Notch 1–21, AAA … D) als primäre Zielvariable vorher;
+die 12-Monats-PD bleibt sekundär. Die Note ist **nur Label**, nie Feature.
+SIC-Division (1-stellig, One-Hot) und Größen-Buckets aus `fin_log_assets`
+sind Features des ordinalen Modells — Text ändert die MAE kaum (Ratings
+hängen an Fundamentaldaten und Größe).
+
+FMP-Fundamentalnoten bleiben optional (`--source fmp` / `both`, Free-Tier
+~250 Calls/Tag, `--max-requests`). Kaggle/HuggingFace-Samples (2010–2016,
+wenige Firmen) lohnen sich nicht.
+
+```bash
+# 17g-7 Bulk (kein API-Limit, Cache unter data/raw/nrsro_ratings/):
+python scripts/fetch_ratings.py \
+    --dataset data/processed/zenodo_labeled.csv.gz \
+    --out data/raw/ratings_panel.csv
+
+# Optional FMP ergänzen (Key in .secpd.env, nie committen):
+export SECPD_FMP_API_KEY=...
+python scripts/fetch_ratings.py --source both --max-requests 250
+
+# Ordinales Shadow-Rating (Default bei --label-source rating):
+python train.py --data data/processed/zenodo_labeled.csv.gz \
+    --financials data/raw/financials_panel.csv \
+    --events data/raw/edgar_8k_events.csv \
+    --ratings data/raw/ratings_panel.csv \
+    --label-source rating --rating-target ordinal \
+    --require-financials --mode combined --llm-cache-only
+
+# HY-ähnlich / Downgrade bleiben als binäre Varianten:
+python train.py ... --label-source rating --rating-target speculative --calibrate
+```
+
+Artefakte: `models/combined_rating_ordinal.joblib` (+ financial-Pendant
+mit derselben `train_run_id`). Metriken: **MAE (Notches), Spearman,
+±1-Notch-Treffer**. Unrated Firm-Years werden gedroppt. 17g-7-Daten
+kommen mit ~12 Monaten Meldeverzug; der CIK-Join läuft über LEI und
+normalisierte Emittentennamen. Das 8-K-Insolvenzlabel bleibt der
+Produktions-Tail für die PD.
+
+In `start.py` zeigt die Auswertung **Rating (Modell)** und **Rating
+(Agentur)** plus sekundär die 12M-PD, sobald beide Bundles existieren.
+
+## Alle Modelle auf einmal
+
+`train.py --mode combined` schreibt financial + combined **im selben Lauf**
+(gleiche `train_run_id`). Der Sweep trainiert default-h12/h24/h36 + fraud
+(+ rating, falls Panel da) hintereinander oder parallel:
+
+```bash
+python scripts/train_all.py                 # hintereinander, Full-Universum
+python scripts/train_all.py --jobs 2        # zwei Subprozesse parallel
+python scripts/train_all.py --dry-run
+# start.py → Trainieren → Label „alle“
+```
+
 ## Methodische Hinweise (bewusst dokumentiert)
 
 * **Label-Semantik:** Der Zenodo-Datensatz liefert AAER-basierte
@@ -247,11 +318,22 @@ mit einem Zahlungsausfall im Kreditvertragssinn.
 * **Splits:** Default `auto` = temporal (letzte Geschäftsjahre als Test),
   Fallback GroupSplit über `cik` — verhindert Look-ahead und Firm-Leakage.
   Text-Features sind pro Dokument deterministisch (kein Fitting) und dürfen
-  daher vor dem Split berechnet werden.
-* **Kalibrierung:** `--calibrate` (isotonic, CV=3) für sinnvolle
-  Wahrscheinlichkeitsniveaus; Brier-Score wird immer mitreportet.
-* **Finanzdaten-Abdeckung:** XBRL-companyfacts ~ab GJ 2009; ältere Firm-Years
-  laufen über die Median-Imputation (oder vorab filtern).
+  daher vor dem Split berechnet werden. Der temporale Holdout ist **optimistisch**, wenn Krisenjahre (z. B. 2019)
+  im Trainingsset liegen: der Random Forest kann exakte Finanz-Kombinationen
+  memorieren (Hertz: hohe PD bei unauffälligen Text-Features). **Ehrlicher
+  Maßstab ist Rolling-Origin** (`benchmarks/rolling_full_h12_bankruptcy/`):
+  pooled Combined ROC **0,79**, PR-AUC **0,055**, Top-10 % fängt ~**60 %**
+  der Defaults.
+* **Fraud-Bundles** (`combined_fraud` / `financial_fraud`) sind **experimentell**:
+  wenige Positive, oft negativer Brier-Skill. Sie stehen nicht in der
+  Standardauswahl von `start.py`.
+* **Kalibrierung:** `--calibrate --calibrate-method auto` (sigmoid bei
+  <100 Trainings-Positiven, sonst isotonic). Vergleich h24/h36:
+  `benchmarks/calibration_h24_h36.md`.
+* **Finanzdaten-Abdeckung:** XBRL-companyfacts ~ab GJ 2009. Firm-Years ohne
+  `total_assets` (GM 2008, Delta 2004) sind in `start.py` **nicht scorebar** —
+  keine Pseudo-PD aus Median-Imputation. Training filtert sie mit
+  `--require-financials` / `min_fyear=2009`.
 * **joblib-Portabilität:** Bundles stempeln sklearn-/Python-Versionen und
   warnen bei Drift — deshalb `requirements.txt` auf beiden Seiten identisch
   halten. Die Pins brauchen **Python 3.11+**; auf der Bank mit nur 3.14

@@ -1,0 +1,160 @@
+{
+  "created_at_utc": "2026-08-18T11:06:31+00:00",
+  "freeze_hash": "5603bc3b684fc6b5f4a2ceca1ca0353b570a7a97",
+  "policy": {
+    "label_source": "default",
+    "default_horizon_months": 12,
+    "trust_legacy_regime": false,
+    "min_fyear": 2009,
+    "require_financials": true,
+    "split": "temporal",
+    "test_size": 0.2,
+    "seed": 42
+  },
+  "data": "data/processed/zenodo_full.csv.gz",
+  "financials": "data/raw/financials_panel_full.csv",
+  "events": "data/raw/edgar_8k_events_full.csv",
+  "models": {
+    "financial": "models/financial_default_h12.joblib",
+    "combined": "models/combined_default_h12.joblib",
+    "financial_train_run_id": "e5bab1d5920d",
+    "combined_train_run_id": "e5bab1d5920d"
+  },
+  "n_train": 33256,
+  "n_test": 13036,
+  "positives_test": 32,
+  "firm_overlap": {
+    "n_train_firms": 4434.0,
+    "n_test_firms": 4662.0,
+    "n_overlap_firms": 4027.0,
+    "overlap_rate": 0.8637923637923638,
+    "n_new_test_firms": 635.0
+  },
+  "metrics": {
+    "null_base_rate": {
+      "n": 13036.0,
+      "positives": 32.0,
+      "base_rate": 0.00245474071801166,
+      "brier": 0.0024487149660189964,
+      "brier_skill": 0.0,
+      "roc_auc": 0.5,
+      "pr_auc": 0.00245474071801166,
+      "top_10pct_n": 1304.0,
+      "top_10pct_events": NaN,
+      "top_10pct_capture": 0.1,
+      "top_10pct_precision": 0.00245474071801166,
+      "top_10pct_lift": 1.0,
+      "top_30pct_n": 3911.0,
+      "top_30pct_events": NaN,
+      "top_30pct_capture": 0.3,
+      "top_30pct_precision": 0.00245474071801166,
+      "top_30pct_lift": 1.0
+    },
+    "financial": {
+      "n": 13036.0,
+      "positives": 32.0,
+      "base_rate": 0.00245474071801166,
+      "brier": 0.002479889031414884,
+      "brier_skill": -0.012730785668602751,
+      "roc_auc": 0.7927020051522609,
+      "pr_auc": 0.012438782535834834,
+      "top_10pct_n": 1304.0,
+      "top_10pct_events": 17.0,
+      "top_10pct_capture": 0.53125,
+      "top_10pct_precision": 0.01303680981595092,
+      "top_10pct_lift": 5.310870398773006,
+      "top_30pct_n": 3911.0,
+      "top_30pct_events": 22.0,
+      "top_30pct_capture": 0.6875,
+      "top_30pct_precision": 0.005625159805676298,
+      "top_30pct_lift": 2.2915494758373818
+    },
+    "combined": {
+      "n": 13036.0,
+      "positives": 32.0,
+      "base_rate": 0.00245474071801166,
+      "brier": 0.0024183270091309257,
+      "brier_skill": 0.012409756672281835,
+      "roc_auc": 0.8681799830821285,
+      "pr_auc": 0.04253996417540146,
+      "top_10pct_n": 1304.0,
+      "top_10pct_events": 18.0,
+      "top_10pct_capture": 0.5625,
+      "top_10pct_precision": 0.013803680981595092,
+      "top_10pct_lift": 5.6232745398773005,
+      "top_30pct_n": 3911.0,
+      "top_30pct_events": 27.0,
+      "top_30pct_capture": 0.84375,
+      "top_30pct_precision": 0.006903605216057275,
+      "top_30pct_lift": 2.8123561748913324
+    }
+  },
+  "bootstrap": {
+    "financial": {
+      "roc_auc": {
+        "point": 0.7927020051522609,
+        "ci_low": 0.6999345505928352,
+        "ci_high": 0.8700247722700323,
+        "n_boot": 1000.0
+      },
+      "pr_auc": {
+        "point": 0.012438782535834834,
+        "ci_low": 0.006717351383943049,
+        "ci_high": 0.02535628210803526,
+        "n_boot": 1000.0
+      },
+      "brier": {
+        "point": 0.002479889031414884,
+        "ci_low": 0.0017032791274746524,
+        "ci_high": 0.0034137640408377513,
+        "n_boot": 1000.0
+      },
+      "brier_skill": {
+        "point": -0.012730785668602751,
+        "ci_low": -0.03757040221183085,
+        "ci_high": 0.0005427883680855895,
+        "n_boot": 1000.0
+      }
+    },
+    "combined": {
+      "roc_auc": {
+        "point": 0.8681799830821285,
+        "ci_low": 0.8166738849654405,
+        "ci_high": 0.9122016998630395,
+        "n_boot": 1000.0
+      },
+      "pr_auc": {
+        "point": 0.04253996417540146,
+        "ci_low": 0.01117917100091573,
+        "ci_high": 0.13400673454317294,
+        "n_boot": 1000.0
+      },
+      "brier": {
+        "point": 0.0024183270091309257,
+        "ci_low": 0.0016398783178439994,
+        "ci_high": 0.003329499897835458,
+        "n_boot": 1000.0
+      },
+      "brier_skill": {
+        "point": 0.012409756672281835,
+        "ci_low": -0.008842833516125997,
+        "ci_high": 0.03956607477810001,
+        "n_boot": 1000.0
+      }
+    },
+    "delta_combined_minus_financial_roc": {
+      "metric": "roc_auc",
+      "point": 0.07547797792986766,
+      "ci_low": 0.03301641671766469,
+      "ci_high": 0.12680780239795142,
+      "n_boot": 1000.0
+    },
+    "delta_combined_minus_financial_pr": {
+      "metric": "pr_auc",
+      "point": 0.030101181639566623,
+      "ci_low": 0.0021704340265473496,
+      "ci_high": 0.11473945903481009,
+      "n_boot": 1000.0
+    }
+  }
+}

@@ -35,6 +35,7 @@ def bundle_filename(
     *,
     label_source: str = "fraud",
     horizon_months: int | None = None,
+    rating_target: str | None = None,
 ) -> str:
     """Kanonischer Artefakt-Name inkl. Label (und Horizont bei default).
 
@@ -43,6 +44,9 @@ def bundle_filename(
         financial_fraud.joblib
         combined_default_h12.joblib
         ensemble_default_h60.joblib
+        combined_rating_speculative.joblib
+        financial_rating_downgrade_h12.joblib
+        combined_rating_ordinal.joblib
     """
     comp = str(component).strip().lower().replace("-", "_")
     if comp in {"fin", "financial_baseline", "financial_model"}:
@@ -55,6 +59,16 @@ def bundle_filename(
     if src == "default":
         h = int(horizon_months or 12)
         return f"{comp}_default_h{h}.joblib"
+    if src == "rating":
+        tgt = str(rating_target or "ordinal").strip().lower()
+        if tgt in {"hy", "ig_hy"}:
+            tgt = "speculative"
+        if tgt == "downgrade":
+            h = int(horizon_months or 12)
+            return f"{comp}_rating_downgrade_h{h}.joblib"
+        if tgt == "speculative":
+            return f"{comp}_rating_speculative.joblib"
+        return f"{comp}_rating_ordinal.joblib"
     return f"{comp}_{src}.joblib"
 
 
@@ -177,11 +191,50 @@ def discover_model_paths(models_dir: Path | str) -> list[Path]:
 
 _NAME_RE = re.compile(
     r"^(?P<comp>financial|combined|ensemble)"
-    r"_(?P<label>fraud|default)"
+    r"_(?P<label>fraud|default|rating(?:_speculative|_downgrade|_ordinal)?)"
     r"(?:_h(?P<horizon>\d+))?"
     r"\.joblib$",
     re.IGNORECASE,
 )
+
+
+def same_training_run(
+    a: dict[str, Any],
+    b: dict[str, Any],
+    *,
+    slack_s: float = 120.0,
+) -> bool:
+    """True, wenn zwei Catalog-Zeilen zum selben Trainingslauf gehören.
+
+    Reihenfolge: ``train_run_id`` → ISO-``trained_at`` (≤ slack) → Datei-mtime.
+    Fehlen alle Stempel, gilt das Paar *nicht* als derselbe Lauf (lieber
+    warnen) — außer die mtimes liegen eng beieinander.
+    """
+    ra = a.get("train_run_id") or (a.get("metadata") or {}).get("train_run_id")
+    rb = b.get("train_run_id") or (b.get("metadata") or {}).get("train_run_id")
+    if ra and rb:
+        return str(ra) == str(rb)
+
+    ta, tb = a.get("trained_at") or "", b.get("trained_at") or ""
+    if ta and tb:
+        try:
+            from datetime import datetime
+
+            def _parse(s: str) -> datetime:
+                return datetime.fromisoformat(str(s).replace("Z", "+00:00"))
+
+            return abs((_parse(str(ta)) - _parse(str(tb))).total_seconds()) <= slack_s
+        except (TypeError, ValueError):
+            if ta == tb:
+                return True
+
+    ma, mb = a.get("mtime"), b.get("mtime")
+    try:
+        if ma is not None and mb is not None:
+            return abs(float(ma) - float(mb)) <= slack_s
+    except (TypeError, ValueError):
+        return False
+    return False
 
 
 def parse_bundle_name(path: Path | str) -> dict[str, Any]:
@@ -193,13 +246,29 @@ def parse_bundle_name(path: Path | str) -> dict[str, Any]:
         return {
             "component": None,
             "label_source": None,
+            "rating_target": None,
             "horizon_months": None,
             "legacy": legacy,
             "filename": name,
         }
+    raw_label = m.group("label").lower()
+    rating_target = None
+    if raw_label.startswith("rating"):
+        label_source = "rating"
+        if raw_label == "rating_downgrade":
+            rating_target = "downgrade"
+        elif raw_label == "rating_speculative":
+            rating_target = "speculative"
+        elif raw_label == "rating_ordinal":
+            rating_target = "ordinal"
+        else:
+            rating_target = "ordinal"
+    else:
+        label_source = raw_label
     return {
         "component": m.group("comp").lower(),
-        "label_source": m.group("label").lower(),
+        "label_source": label_source,
+        "rating_target": rating_target,
         "horizon_months": int(m.group("horizon")) if m.group("horizon") else None,
         "legacy": False,
         "filename": name,

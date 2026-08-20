@@ -150,6 +150,17 @@ def extract_text_features(
         if i % progress_every == 0 or i == n:
             logger.info("  … %d/%d Dokumente analysiert", i, n)
 
+    hits = getattr(client, "_cache_hits", None)
+    misses = getattr(client, "_cache_misses", None)
+    cache_dir = getattr(client, "cache_dir", None)
+    if hits is not None or misses is not None:
+        logger.info(
+            "LLM-Cache %s: %d Hits, %d Misses",
+            cache_dir if cache_dir is not None else client.name,
+            int(hits or 0),
+            int(misses or 0),
+        )
+
     return pd.DataFrame(rows)
 
 

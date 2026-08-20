@@ -15,6 +15,9 @@ data/raw/*
 !data/raw/financials_panel_full.csv
 !data/raw/edgar_8k_events.csv
 !data/raw/edgar_8k_events_full.csv
+!data/raw/ratings_panel.csv
+!data/raw/company_tickers.csv
+# nrsro_ratings/ und fmp_ratings/ bleiben lokal (Bulk-Caches)
 # firm_years.json (~4.9GB), submissions/ und companyfacts-Cache bleiben lokal
 
 # Regenerierbar via convert_zenodo / Training:
@@ -23,6 +26,10 @@ data/processed/zenodo_full.csv.gz
 !data/processed/.gitkeep
 !data/processed/zenodo_labeled.csv.gz
 !data/processed/zenodo_full_index.csv.gz
+
+# Regenerierbar via pip install -e .
+src/*.egg-info/
+*.egg-info/
 
 # Optional große Offline-Bundles lokal halten:
 vendor/wheels/

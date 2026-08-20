@@ -97,6 +97,11 @@ def main() -> int:
         f"(mean fold PR={winner['mean_pr_comb']:.3f}, "
         f"Top10%={winner['pooled_top10_comb']:.1%})",
         "",
+        "> Delisting ist kein Default. `bankruptcy-delisting` gewinnt oft nur, "
+        "weil Item 3.01 rund 13× häufiger ist als Insolvenz-8-Ks (freiwillige "
+        "Abgänge, Merger, Exchange-Wechsel). Ausgelieferte Bundles sind bewusst "
+        "**bankruptcy-only**; Delisting bleibt Event-Feature, nicht Label.",
+        "",
         "| policy | mean PR comb | mean ROC comb | pooled Top10% | pooled pos | group PR comb | mean PR fin |",
         "|--------|--------------|---------------|---------------|------------|---------------|-------------|",
     ]

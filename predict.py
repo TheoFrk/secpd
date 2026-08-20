@@ -37,6 +37,7 @@ from secpd.models.persistence import (  # noqa: E402
     BUNDLE_KIND_SINGLE,
     load_any,
 )
+from secpd.models.pipeline import predict_output  # noqa: E402
 
 logger = logging.getLogger("predict")
 
@@ -115,7 +116,8 @@ def main() -> int:
             df[c] = float("nan")
 
     if payload["kind"] == BUNDLE_KIND_SINGLE:
-        scores = payload["pipeline"].predict_proba(df)[:, 1]
+        task = (payload.get("metadata") or {}).get("task")
+        scores = predict_output(payload["pipeline"], df, task=task)
     else:
         p_fin = payload["financial"]["pipeline"].predict_proba(df)[:, 1]
         p_txt = payload["text"]["pipeline"].predict_proba(df)[:, 1]
@@ -126,7 +128,13 @@ def main() -> int:
         )
         scores = combine_probabilities(p_fin, p_txt, weights, method="logit")
 
-    out = pd.DataFrame({cols.id_col: df[cols.id_col], "pd_score": scores})
+    out = pd.DataFrame({cols.id_col: df[cols.id_col]})
+    task = (payload.get("metadata") or {}).get("task")
+    if task == "regression" or (payload["kind"] == BUNDLE_KIND_SINGLE and (payload.get("metadata") or {}).get("rating_target") == "ordinal"):
+        out["rating_notch"] = scores
+        out["pd_score"] = float("nan")
+    else:
+        out["pd_score"] = scores
     out.to_csv(args.out, index=False)
     logger.info("Scores geschrieben: %s (%d Zeilen)", args.out, len(out))
     print(out.head(10).to_string(index=False))

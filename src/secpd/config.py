@@ -22,6 +22,7 @@ class Settings:
     llm_api_key: str = ""                        # SECPD_LLM_API_KEY
     llm_model: str = "internal-default"          # SECPD_LLM_MODEL (lmstudio: auto)
     sec_user_agent: str = ""                     # SECPD_SEC_UA: "Firma name@mail" (EDGAR-Pflicht)
+    fmp_api_key: str = ""                        # SECPD_FMP_API_KEY (Ratings-Fetch)
     llm_cache_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "data" / "cache" / "llm")
     data_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "data")
     models_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "models")
@@ -35,5 +36,6 @@ def load_settings() -> Settings:
         llm_api_key=os.getenv("SECPD_LLM_API_KEY", ""),
         llm_model=os.getenv("SECPD_LLM_MODEL", "internal-default"),
         sec_user_agent=os.getenv("SECPD_SEC_UA", ""),
+        fmp_api_key=os.getenv("SECPD_FMP_API_KEY", ""),
         llm_cache_dir=Path(os.getenv("SECPD_LLM_CACHE", PROJECT_ROOT / "data" / "cache" / "llm")),
     )

@@ -207,6 +207,41 @@ def _add_sic_ranks(df: pd.DataFrame, feats: dict[str, pd.Series]) -> dict[str, p
     return feats
 
 
+def _add_sic_division(df: pd.DataFrame, feats: dict[str, pd.Series]) -> dict[str, pd.Series]:
+    """SIC-Division (1. Ziffer) als One-Hot — Branchen-Dummy für Rating/PD."""
+    if "sic" not in df.columns:
+        return feats
+    sic = pd.to_numeric(df["sic"], errors="coerce")
+    div = np.where(
+        sic >= 1000,
+        np.floor(sic / 1000),
+        np.where(sic >= 100, np.floor(sic / 100), np.floor(sic / 10)),
+    )
+    div = pd.Series(div, index=df.index)
+    for d in range(10):
+        feats[f"fin_sic_div_{d}"] = (div == d).astype(float)
+    return feats
+
+
+def _add_size_buckets(feats: dict[str, pd.Series]) -> dict[str, pd.Series]:
+    """Größenklassen aus ``fin_log_assets`` (Schwellen 1 Mrd / 10 Mrd USD)."""
+    if "fin_log_assets" not in feats:
+        return feats
+    la = feats["fin_log_assets"]
+    t_small = float(np.log1p(1e9))
+    t_large = float(np.log1p(1e10))
+    known = la.notna()
+    feats["fin_size_small"] = ((la < t_small) & known).astype(float)
+    feats["fin_size_mid"] = ((la >= t_small) & (la < t_large) & known).astype(float)
+    feats["fin_size_large"] = ((la >= t_large) & known).astype(float)
+    bucket = pd.Series(np.nan, index=la.index, dtype=float)
+    bucket.loc[known & (la < t_small)] = 1.0
+    bucket.loc[known & (la >= t_small) & (la < t_large)] = 2.0
+    bucket.loc[known & (la >= t_large)] = 3.0
+    feats["fin_size_bucket"] = bucket
+    return feats
+
+
 def add_financial_features(
     df: pd.DataFrame,
     *,
@@ -231,6 +266,9 @@ def add_financial_features(
         feats = _add_sic_ranks(df, feats)
     if include_missing:
         feats = _add_missing_indicators(feats)
+    if include_industry:
+        feats = _add_sic_division(df, feats)
+        feats = _add_size_buckets(feats)
 
     for name, series in feats.items():
         df[name] = pd.to_numeric(series, errors="coerce").astype(float)

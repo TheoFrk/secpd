@@ -349,12 +349,21 @@ def annotate_default_labels(
     """Hängt ``label_default`` + ``bankruptcy_date`` an — ohne Zeilen zu droppen.
 
     Für UI/Scoring-Verläufe: jedes Firm-Year behält seine Zeile; Label 0/1
-    bzw. fehlendes Event bleibt sichtbar.
+    bzw. fehlendes Event bleibt sichtbar. ``post_petition`` markiert 10-Ks,
+    die nach dem Insolvenzantrag eingereicht wurden (kein gültiger
+    Prognosepunkt — MD&A kennt Chapter 11).
     """
     out = df.copy()
     rep = pd.to_datetime(out.get("reporting_date"), errors="coerce")
     bk = bankruptcy_dates(events, trust_legacy_regime=trust_legacy_regime)
     out["bankruptcy_date"] = out["cik"].map(bk)
+    fil = pd.to_datetime(out.get("filing_date"), errors="coerce")
+    post_petition = (
+        out["bankruptcy_date"].notna()
+        & fil.notna()
+        & (fil > out["bankruptcy_date"])
+    )
+    out["post_petition"] = post_petition.fillna(False)
     horizon_end = rep + pd.DateOffset(months=horizon_months)
     label = (
         rep.notna()
@@ -383,6 +392,11 @@ def attach_default_labels(
     horizon_months``. Das Credit-Event ist ZIEL, nicht Wissen des Modells —
     Label-Konzepte (Default: nur Bankruptcy 1.03) existieren bewusst nicht
     als Features.
+
+    Post-Event-Zeilen: nicht nur ``reporting_date >= event_date``, sondern
+    auch ``filing_date > event_date``. Sonst bleiben 10-Ks im Sample, deren
+    MD&A schon Chapter-11-Prosa enthält (Kodak, PG&E: Filing ~6 Wochen nach
+    dem Insolvenzantrag, ``reporting_date`` aber noch davor).
 
     ``label_concepts`` kann z. B. ``("bankruptcy", "delisting")`` sein
     (früherer Distress-Korb). Delisting fließt dann nicht mehr in ``evt_*``.
@@ -416,7 +430,16 @@ def attach_default_labels(
 
     n_post = 0
     if drop_post_bankruptcy:
-        post = (rep >= out["_bk_date"]).fillna(False)
+        fil = pd.to_datetime(out.get("filing_date"), errors="coerce")
+        post_rep = (rep >= out["_bk_date"]).fillna(False)
+        # 10-K nach dem Antrag: MD&A kennt Chapter 11, auch wenn der
+        # Bilanzstichtag noch vor dem Event liegt (Kodak, PG&E).
+        post_fil = (
+            fil.notna()
+            & out["_bk_date"].notna()
+            & (fil > out["_bk_date"])
+        )
+        post = post_rep | post_fil.fillna(False)
         n_post = int(post.sum())
         out, rep, horizon_end = out.loc[~post], rep.loc[~post], horizon_end.loc[~post]
 
@@ -430,12 +453,18 @@ def attach_default_labels(
     out = out.drop(columns=["_bk_date"]).reset_index(drop=True)
     logger.info(
         "Default-Label (Horizont %d M, Konzepte=%s): %d Events bekannt | "
-        "%d/%d positiv (Basisrate %.2f%%) | gedroppt: %d post-event, %d rechtszensiert",
+        "%d/%d positiv (Basisrate %.2f%%) | gedroppt: %d post-event "
+        "(inkl. post-petition-Filings), %d rechtszensiert",
         horizon_months, ",".join(concepts), len(ev_dates),
         int(out[label_col].sum()), len(out),
         100 * out[label_col].mean() if len(out) else 0.0, n_post, n_cens,
     )
     return out
+
+
+# --------------------------------------------------------------------------- #
+# Event-Features (Frühindikatoren — nie das Default-Label selbst)
+# --------------------------------------------------------------------------- #
 
 
 def event_feature_names(

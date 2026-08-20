@@ -1,14 +1,24 @@
-.PHONY: synth train train-combined train-ensemble train-default score test bundle install-offline benchmark rolling ping-llm precompute-llm
+.PHONY: synth train train-combined train-ensemble train-default train-rating train-all score test bundle install-offline benchmark rolling ping-llm precompute-llm
 
 synth:
 	python scripts/make_synthetic_data.py --n 1200 --out data/processed/synthetic.csv \
-		--events-out data/processed/synthetic_events.csv
+		--events-out data/processed/synthetic_events.csv \
+		--ratings-out data/processed/synthetic_ratings.csv
 
 train-default: synth
 	python train.py --data data/processed/synthetic.csv \
 		--events data/processed/synthetic_events.csv \
 		--label-source default --default-horizon 12 --split group --calibrate \
 		--min-fyear 2009
+
+train-rating: synth
+	python train.py --data data/processed/synthetic.csv \
+		--ratings data/processed/synthetic_ratings.csv \
+		--label-source rating --rating-target ordinal --split group \
+		--min-fyear 2009
+
+train-all:
+	python scripts/train_all.py --jobs 1
 
 train: synth
 	python train.py --data data/processed/synthetic.csv --mode financial
@@ -25,21 +35,21 @@ score:
 
 benchmark:
 	python scripts/freeze_benchmark.py \
-		--data data/processed/zenodo_labeled.csv.gz \
-		--financials data/raw/financials_panel.csv \
-		--events data/raw/edgar_8k_events.csv \
+		--data data/processed/zenodo_full.csv.gz \
+		--financials data/raw/financials_panel_full.csv \
+		--events data/raw/edgar_8k_events_full.csv \
 		--financial-model models/financial_default_h12.joblib \
 		--combined-model models/combined_default_h12.joblib \
-		--out benchmarks/default_h12_clean
+		--out benchmarks/default_h12_full
 
 rolling:
 	python scripts/rolling_eval.py \
-		--data data/processed/zenodo_labeled.csv.gz \
-		--financials data/raw/financials_panel.csv \
-		--events data/raw/edgar_8k_events.csv \
-		--default-horizon 36 --label-concepts bankruptcy \
+		--data data/processed/zenodo_full.csv.gz \
+		--financials data/raw/financials_panel_full.csv \
+		--events data/raw/edgar_8k_events_full.csv \
+		--default-horizon 12 --label-concepts bankruptcy \
 		--llm openai --llm-cache-only --group-split \
-		--out benchmarks/rolling_h36_bankruptcy
+		--out benchmarks/rolling_full_h12_bankruptcy
 
 ping-llm:
 	python scripts/ping_llm.py --endpoint $${SECPD_LLM_ENDPOINT:-http://172.16.3.164:1234}

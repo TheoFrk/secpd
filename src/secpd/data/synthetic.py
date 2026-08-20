@@ -168,3 +168,41 @@ def make_synthetic_events(
     events = pd.DataFrame(rows, columns=["cik", "filing_date_8k", "items"])
     events["accession"] = ""
     return events
+
+
+def make_synthetic_ratings(df: pd.DataFrame, *, seed: int = 13) -> pd.DataFrame:
+    """Synthetische Rating-Historie passend zu Firm-Years (FMP-ähnliche Buchstaben).
+
+    Hoher Leverage → schwächerer Notch; je CIK eine vierteljährliche Serie,
+    die den Bilanzstichtag PIT-mäßig abdeckt.
+    """
+    rng = np.random.default_rng(seed)
+    frame = df.copy()
+    frame["reporting_date"] = pd.to_datetime(frame["reporting_date"])
+    lev = (
+        pd.to_numeric(frame["total_liabilities"], errors="coerce")
+        / pd.to_numeric(frame["total_assets"], errors="coerce")
+    ).clip(0, 1.5).fillna(0.5)
+    frame["_lev"] = lev
+    letters = ["A+", "A", "A-", "B+", "B", "B-", "C+", "C", "C-"]
+    rows: list[dict] = []
+    for cik, g in frame.groupby("cik"):
+        firm_lev = float(g["_lev"].mean())
+        base = int(np.clip(round(2 + 6 * firm_lev + rng.normal(0, 0.8)), 0, len(letters) - 1))
+        start = g["reporting_date"].min() - pd.DateOffset(months=9)
+        end = g["reporting_date"].max() + pd.DateOffset(months=18)
+        dates = pd.date_range(start, end, freq="QS")
+        notch_i = base
+        for dt in dates:
+            notch_i = int(np.clip(notch_i + rng.integers(-1, 2), 0, len(letters) - 1))
+            rows.append(
+                {
+                    "cik": int(cik),
+                    "ticker": f"T{int(cik)}",
+                    "rating_date": dt,
+                    "rating": letters[notch_i],
+                    "agency": "fmp",
+                    "source": "synthetic",
+                }
+            )
+    return pd.DataFrame(rows)
