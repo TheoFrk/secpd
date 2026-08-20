@@ -227,9 +227,11 @@ def test_end_to_end_default_label_training():
     feat, fin_cols = add_financial_features(feat)
     numeric = fin_cols + evt_cols
 
-    tr, te, _ = smart_split(feat, label_col="label_default", group_col="cik",
+    tr, te, strat = smart_split(feat, label_col="label_default", group_col="cik",
                             year_col="fyear", test_size=0.25, strategy="group",
                             random_state=0)
+    assert strat == "group"
+    assert set(feat.iloc[tr]["cik"]).isdisjoint(set(feat.iloc[te]["cik"]))
     pipe = build_pipeline(numeric, n_estimators=50, random_state=0)
     pipe.fit(feat.iloc[tr], feat.iloc[tr]["label_default"].astype(int))
     probs = pipe.predict_proba(feat.iloc[te])[:, 1]

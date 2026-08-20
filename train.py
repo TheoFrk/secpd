@@ -43,7 +43,13 @@ from secpd.data.events import (  # noqa: E402
 )
 from secpd.data.ratings import attach_rating_labels, load_ratings  # noqa: E402
 from secpd.data.zenodo import load_dataset, resolve_columns  # noqa: E402
-from secpd.evaluation import evaluate_ordinal, evaluate_probs, firm_overlap_stats, print_report  # noqa: E402
+from secpd.evaluation import (  # noqa: E402
+    evaluate_by_firm_novelty,
+    evaluate_ordinal,
+    evaluate_probs,
+    firm_overlap_stats,
+    print_report,
+)
 from secpd.features.financial import add_financial_features  # noqa: E402
 from secpd.features.textual import attach_text_features  # noqa: E402
 from secpd.llm import get_llm_client  # noqa: E402
@@ -406,7 +412,7 @@ def main() -> int:
     def _eval(y, pred) -> dict[str, float]:
         return evaluate_ordinal(y, pred) if is_ordinal else evaluate_probs(y, pred)
 
-    def _fit_tabular(features: list[str]):
+    def _fit_on(features: list[str], df_tr, y_tr, df_te, groups_tr):
         if is_ordinal:
             pipe = build_regression_pipeline(
                 features,
@@ -419,34 +425,92 @@ def main() -> int:
                 n_estimators=args.n_estimators,
                 calibrate=do_calibrate,
                 calibration_method=cal_method,
-                cv=cal_cv,
+                cv=make_calibration_cv(groups_tr, y_tr) if do_calibrate else 3,
                 random_state=args.seed,
             )
-        fit_pipeline(pipe, df_train, y_train, groups=groups_train)
-        pred = predict_output(pipe, df_test, task=task)
+        fit_pipeline(pipe, df_tr, y_tr, groups=groups_tr)
+        pred = predict_output(pipe, df_te, task=task)
         return pipe, pred
+
+    def _fit_tabular(features: list[str]):
+        return _fit_on(features, df_train, y_train, df_test, groups_train)
+
+    def _unseen_cik_metrics(features: list[str]) -> dict[str, float] | None:
+        """Group-Holdout: ganze CIKs außerhalb des Trainingsuniversums."""
+        if group_col is None:
+            return None
+        year_col = cols.year_col if cols.year_col in df.columns else None
+        g_tr, g_te, g_strat = smart_split(
+            df,
+            label_col=cols.label_col,
+            group_col=group_col,
+            year_col=year_col,
+            test_size=args.test_size,
+            strategy="group",
+            random_state=args.seed,
+        )
+        if g_strat != "group":
+            logger.warning("Group-Holdout (fremde CIKs) nicht möglich — Fallback %s.", g_strat)
+            return None
+        df_gtr, df_gte = df.iloc[g_tr], df.iloc[g_te]
+        ov = firm_overlap_stats(df_gtr[group_col], df_gte[group_col])
+        if is_ordinal:
+            y_gtr = df_gtr[cols.label_col].astype(float).to_numpy()
+            y_gte = df_gte[cols.label_col].astype(float).to_numpy()
+        else:
+            y_gtr = df_gtr[cols.label_col].astype(int).to_numpy()
+            y_gte = df_gte[cols.label_col].astype(int).to_numpy()
+        _, pred = _fit_on(features, df_gtr, y_gtr, df_gte, df_gtr[group_col].to_numpy())
+        metrics = _eval(y_gte, pred)
+        extra = (
+            f"MAE={metrics['mae']:.3f}"
+            if is_ordinal
+            else f"ROC={metrics['roc_auc']:.3f}"
+        )
+        logger.info(
+            "Unseen-CIK Group-Holdout: n=%d Firmen=%d overlap=%.1f%% %s",
+            int(metrics["n"]),
+            int(ov["n_test_firms"]),
+            100 * ov["overlap_rate"],
+            extra,
+        )
+        metrics = {
+            **metrics,
+            "n_test_firms": ov["n_test_firms"],
+            "overlap_rate": ov["overlap_rate"],
+        }
+        return metrics
 
     fin_pipe, p_fin_test = _fit_tabular(numeric_features)
     results["financial_baseline"] = _eval(y_test, p_fin_test)
-    # New-firm Subset (streng): nur Test-CIKs ohne Trainingsjahre
     if group_col is not None:
-        train_ciks = set(df_train[group_col].dropna().astype(int))
-        new_mask = ~df_test[group_col].astype("Int64").isin(train_ciks)
-        if new_mask.any() and df_test.loc[new_mask, cols.label_col].nunique() >= 2:
-            y_new = df_test.loc[new_mask, cols.label_col].to_numpy()
-            if not is_ordinal:
-                y_new = y_new.astype(int)
-            results["financial_new_firms"] = _eval(y_new, p_fin_test[new_mask.to_numpy()])
+        novelty_fin = evaluate_by_firm_novelty(
+            y_test,
+            p_fin_test,
+            train_groups=df_train[group_col],
+            test_groups=df_test[group_col],
+            ordinal=is_ordinal,
+        )
+        if float(novelty_fin["unseen_cik"].get("n") or 0) > 0:
+            results["financial_new_firms"] = novelty_fin["unseen_cik"]
             extra = (
                 f"MAE={results['financial_new_firms']['mae']:.3f}"
                 if is_ordinal
                 else f"ROC={results['financial_new_firms']['roc_auc']:.3f}"
             )
             logger.info(
-                "New-firm Subset: n=%d %s",
+                "New-firm Subset im Testsplit: n=%d %s",
                 int(results["financial_new_firms"]["n"]),
                 extra,
             )
+    unseen_fin = (
+        {**results["financial_baseline"], "overlap_rate": overlap.get("overlap_rate", 0.0),
+         "n_test_firms": overlap.get("n_test_firms", float("nan"))}
+        if used_strategy == "group"
+        else _unseen_cik_metrics(numeric_features)
+    )
+    if unseen_fin is not None:
+        results["financial_unseen_cik"] = unseen_fin
     fin_bundle = ModelBundle(
         pipeline=fin_pipe,
         feature_cols=numeric_features,
@@ -457,7 +521,8 @@ def main() -> int:
                                        if isinstance(cal_cv, list)
                                        else cal_cv
                                    ) if do_calibrate else None,
-                                   "metrics": results["financial_baseline"]}),
+                                   "metrics": results["financial_baseline"],
+                                   "metrics_unseen_cik": unseen_fin}),
     )
     fin_name = bundle_filename(
         "financial",
@@ -478,6 +543,24 @@ def main() -> int:
         combined_features = numeric_features + llm_features
         comb_pipe, p_comb_test = _fit_tabular(combined_features)
         results["combined_model"] = _eval(y_test, p_comb_test)
+        if group_col is not None:
+            novelty_c = evaluate_by_firm_novelty(
+                y_test,
+                p_comb_test,
+                train_groups=df_train[group_col],
+                test_groups=df_test[group_col],
+                ordinal=is_ordinal,
+            )
+            if float(novelty_c["unseen_cik"].get("n") or 0) > 0:
+                results["combined_new_firms"] = novelty_c["unseen_cik"]
+        unseen_comb = (
+            {**results["combined_model"], "overlap_rate": overlap.get("overlap_rate", 0.0),
+             "n_test_firms": overlap.get("n_test_firms", float("nan"))}
+            if used_strategy == "group"
+            else _unseen_cik_metrics(combined_features)
+        )
+        if unseen_comb is not None:
+            results["combined_unseen_cik"] = unseen_comb
         comb_name = bundle_filename(
             "combined",
             label_source=args.label_source,
@@ -491,7 +574,8 @@ def main() -> int:
                 metadata=runtime_metadata({**base_meta, "component": "combined",
                                            "llm_features": llm_features,
                                            "calibration_method": cal_method if do_calibrate else None,
-                                           "metrics": results["combined_model"]}),
+                                           "metrics": results["combined_model"],
+                                           "metrics_unseen_cik": unseen_comb}),
             ),
             out_dir / comb_name,
         )

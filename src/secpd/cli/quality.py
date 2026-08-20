@@ -8,6 +8,49 @@ from secpd.cli.paths import FREEZE_REPORT, ROLLING_REPORT, ROOT
 from secpd.cli.ui import C, banner, clear, fmt_pct, hr, pause
 
 
+def _fmt_metric(val: object, spec: str = ".3f") -> str:
+    try:
+        x = float(val)  # type: ignore[arg-type]
+    except (TypeError, ValueError):
+        return "n/a"
+    if x != x:
+        return "n/a"
+    return format(x, spec)
+
+
+def _print_overlap_and_unseen(md: dict, *, ordinal: bool) -> None:
+    ov = md.get("firm_overlap") or {}
+    if ov.get("n_test_firms"):
+        rate = ov.get("overlap_rate", float("nan"))
+        rate_s = f"{100 * float(rate):5.1f} %" if rate == rate else "n/a"
+        print(
+            f"    Overlap   {rate_s} Testfirmen auch im Training "
+            f"(neu={int(ov.get('n_new_test_firms') or 0)})"
+        )
+    unseen = md.get("metrics_unseen_cik") or {}
+    if not unseen.get("n"):
+        return
+    n_u = int(unseen["n"])
+    firms = unseen.get("n_test_firms")
+    firms_s = f", Firmen={int(firms)}" if firms is not None and firms == firms else ""
+    if ordinal or "mae" in unseen:
+        print(
+            f"    Unseen-CIK MAE={_fmt_metric(unseen.get('mae'))}  "
+            f"Spearman={_fmt_metric(unseen.get('spearman'))}  "
+            f"±1={_fmt_metric(100 * float(unseen.get('hit_pm1') or 0), '.1f')} %  "
+            f"n={n_u}{firms_s}"
+        )
+    else:
+        print(
+            f"    Unseen-CIK ROC={_fmt_metric(unseen.get('roc_auc'))}  "
+            f"PR={_fmt_metric(unseen.get('pr_auc'))}  "
+            f"n={n_u}{firms_s}"
+        )
+    print(
+        f"    {C.DIM}Group-Holdout: ganze CIKs außerhalb des Trainingsuniversums.{C.RESET}"
+    )
+
+
 def _experimental_note(row: dict) -> str:
     """Kurzer Warnhinweis aus Bundle-Metriken (Fraud: wenige Positive, Skill)."""
     md = row.get("metadata") or {}
@@ -83,6 +126,7 @@ def show_model_quality() -> None:
             print(f"    Spearman  {sp:6.3f}  {C.DIM}Rangkorrelation{C.RESET}")
             print(f"    ±1-Notch  {100 * hit:5.1f} %  {C.DIM}Treffer auf eine Note genau{C.RESET}")
             print(f"    Testset   n={n}")
+            _print_overlap_and_unseen(md, ordinal=True)
             continue
 
         roc = metrics.get("roc_auc", float("nan"))
@@ -112,6 +156,7 @@ def show_model_quality() -> None:
                 f"vs. konstanter Basisrate (>0 = besser){C.RESET}"
             )
         print(f"    Testset   n={n}, Positive={pos}, Basisrate={fmt_pct(base)}")
+        _print_overlap_and_unseen(md, ordinal=False)
         if md.get("min_fyear") is not None:
             print(
                 f"    policy    min_fyear={md.get('min_fyear')}  ·  "
@@ -150,6 +195,10 @@ def show_model_quality() -> None:
 
     print()
     print(f"  {C.DIM}Faustregel: ROC-AUC ~0.5 = Zufall, >0.6 brauchbar, >0.7 stark.{C.RESET}")
+    print(
+        f"  {C.DIM}Unseen-CIK ist der ehrliche Firm-Holdout; temporaler Test "
+        f"enthält oft dieselben Emittenten in späteren Jahren.{C.RESET}"
+    )
     print(
         f"  {C.DIM}Vor GJ 2009 ohne XBRL zeigt die UI „nicht scorebar“, "
         f"keine Pseudo-PD aus Median-Imputation.{C.RESET}"

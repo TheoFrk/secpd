@@ -66,36 +66,52 @@ def make_synthetic_dataset(
     seed: int = 42,
     base_rate_logit: float = -2.9,
     year_range: tuple[int, int] = (2015, 2023),
+    n_firms: int | None = None,
 ) -> pd.DataFrame:
-    """Erzeugt ``n`` Firm-Years mit kanonischen Finanzspalten, ``mda`` und ``label``."""
+    """Erzeugt ``n`` Firm-Years mit kanonischen Finanzspalten, ``mda`` und ``label``.
+
+    Jede CIK hat ein festes latentes Risiko und mehrere Geschäftsjahre — wie
+    im echten Panel. So unterscheiden sich temporaler Holdout (gleiche Firmen,
+    spätere Jahre) und Group-Holdout (fremde CIKs).
+    """
     rng = np.random.default_rng(seed)
+    years = np.arange(int(year_range[0]), int(year_range[1]) + 1)
+    n_years = int(len(years))
+    if n_years < 1:
+        raise ValueError("year_range muss mindestens ein Jahr enthalten")
+    if n_firms is None:
+        n_firms = max(8, int(np.round(n / n_years)))
+    n_firms = int(n_firms)
+    n_rows = n_firms * n_years
 
-    u = rng.beta(2.0, 5.0, size=n)  # latentes Risiko in [0,1], rechtsschief
-    cik = rng.integers(100_000, 999_999, size=n)
-    fyear = rng.integers(year_range[0], year_range[1] + 1, size=n)
+    u_firm = rng.beta(2.0, 5.0, size=n_firms)
+    firm_ids = 100_000 + np.arange(n_firms, dtype=np.int64)
+    cik = np.repeat(firm_ids, n_years)
+    fyear = np.tile(years, n_firms)
+    u = np.clip(np.repeat(u_firm, n_years) + rng.normal(0, 0.05, size=n_rows), 0.0, 1.0)
 
-    total_assets = np.exp(rng.normal(19.0, 1.6, size=n))  # ~ e8 .. e10 USD
+    total_assets = np.exp(rng.normal(19.0, 1.6, size=n_rows))  # ~ e8 .. e10 USD
     leverage = np.clip(rng.normal(0.45 + 0.35 * u, 0.10), 0.05, 0.98)
     total_liabilities = leverage * total_assets
     equity = total_assets - total_liabilities
 
-    current_assets = total_assets * np.clip(rng.normal(0.42, 0.08, size=n), 0.1, 0.8)
+    current_assets = total_assets * np.clip(rng.normal(0.42, 0.08, size=n_rows), 0.1, 0.8)
     current_liabilities = current_assets / np.clip(
         rng.normal(1.9 - 1.0 * u, 0.30), 0.5, 4.0
     )
     cash = current_assets * np.clip(rng.normal(0.30 - 0.12 * u, 0.08), 0.02, 0.7)
-    inventory = current_assets * np.clip(rng.normal(0.25, 0.08, size=n), 0.0, 0.6)
-    receivables = current_assets * np.clip(rng.normal(0.30, 0.08, size=n), 0.0, 0.6)
+    inventory = current_assets * np.clip(rng.normal(0.25, 0.08, size=n_rows), 0.0, 0.6)
+    receivables = current_assets * np.clip(rng.normal(0.30, 0.08, size=n_rows), 0.0, 0.6)
 
-    revenue = total_assets * np.clip(rng.normal(0.9, 0.25, size=n), 0.2, 2.5)
+    revenue = total_assets * np.clip(rng.normal(0.9, 0.25, size=n_rows), 0.2, 2.5)
     net_margin = rng.normal(0.06 - 0.10 * u, 0.05)
     net_income = revenue * net_margin
-    ebit = revenue * (net_margin + np.clip(rng.normal(0.04, 0.02, size=n), 0.0, 0.15))
-    interest_expense = total_liabilities * np.clip(rng.normal(0.045, 0.012, size=n), 0.01, 0.12)
-    long_term_debt = total_liabilities * np.clip(rng.normal(0.55, 0.12, size=n), 0.1, 0.95)
+    ebit = revenue * (net_margin + np.clip(rng.normal(0.04, 0.02, size=n_rows), 0.0, 0.15))
+    interest_expense = total_liabilities * np.clip(rng.normal(0.045, 0.012, size=n_rows), 0.01, 0.12)
+    long_term_debt = total_liabilities * np.clip(rng.normal(0.55, 0.12, size=n_rows), 0.1, 0.95)
     retained_earnings = equity * np.clip(rng.normal(0.5 - 0.6 * u, 0.25), -1.5, 1.2)
 
-    logits = base_rate_logit + 3.4 * u + 1.2 * (leverage - 0.5) + rng.normal(0, 0.5, size=n)
+    logits = base_rate_logit + 3.4 * u + 1.2 * (leverage - 0.5) + rng.normal(0, 0.5, size=n_rows)
     label = rng.binomial(1, 1.0 / (1.0 + np.exp(-logits)))
 
     texts = [_compose_text(rng, float(ui)) for ui in u]
@@ -122,7 +138,7 @@ def make_synthetic_dataset(
             "label": label,
         }
     )
-    df["doc_id"] = df["cik"].astype(str) + "_" + df["fyear"].astype(str) + "_" + df.index.astype(str)
+    df["doc_id"] = df["cik"].astype(str) + "_" + df["fyear"].astype(str)
     # Plausible Stichtage, damit Event-/Default-Workflows auch auf Synthetik laufen:
     # Bilanzstichtag 31.12., 10-K-Filing ~90 Tage später.
     df["reporting_date"] = pd.to_datetime(df["fyear"].astype(str) + "-12-31")

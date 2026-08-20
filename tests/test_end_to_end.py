@@ -7,7 +7,7 @@ import numpy as np
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 from secpd.data.synthetic import make_synthetic_dataset
-from secpd.evaluation import decile_table, evaluate_probs
+from secpd.evaluation import decile_table, evaluate_probs, firm_overlap_stats
 from secpd.features.financial import add_financial_features
 from secpd.features.textual import extract_text_features, text_feature_names
 from secpd.llm.mock import MockLLMClient
@@ -43,6 +43,25 @@ def test_full_pipeline(tmp_path: Path) -> None:
     metrics = evaluate_probs(y_te, p)
     assert 0.0 <= p.min() and p.max() <= 1.0
     assert metrics["roc_auc"] > 0.60  # Signal fließt end-to-end
+
+    # Fremde CIKs: Group-Holdout, keine Firma aus dem Training.
+    tr_g, te_g, strat_g = smart_split(
+        df,
+        label_col="label",
+        group_col="cik",
+        year_col="fyear",
+        test_size=0.3,
+        strategy="group",
+        random_state=0,
+    )
+    assert strat_g == "group"
+    ov = firm_overlap_stats(df.iloc[tr_g]["cik"], df.iloc[te_g]["cik"])
+    assert ov["overlap_rate"] == 0.0
+    pipe_g = build_pipeline(fin_cols + llm_cols, n_estimators=120)
+    pipe_g.fit(df.iloc[tr_g], df.iloc[tr_g]["label"].to_numpy())
+    p_g = pipe_g.predict_proba(df.iloc[te_g])[:, 1]
+    unseen = evaluate_probs(df.iloc[te_g]["label"].to_numpy(), p_g)
+    assert unseen["roc_auc"] > 0.60
 
     # Persistenz-Roundtrip
     path = tmp_path / "model.joblib"

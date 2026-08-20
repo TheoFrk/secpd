@@ -5,6 +5,7 @@ import os
 import subprocess
 
 from secpd.cli import state
+from secpd.cli.debug import configure_logging, format_debug_status
 from secpd.cli.catalog import active_model_meta, invalidate_model_cache, list_model_catalog, warn_model_coherence
 from secpd.cli.paths import (
     AAER,
@@ -180,6 +181,9 @@ def show_settings_status() -> None:
     print(f"    LLM-API-Key   {key_set}")
     print(f"    FMP-API-Key   {fmp_set}")
     print(f"    SEC-UA        {ua}")
+    print()
+    print(f"  {C.BOLD}Debug{C.RESET}")
+    print(f"    {format_debug_status()}")
     pause()
 
 
@@ -208,6 +212,15 @@ def settings_llm() -> None:
     print()
     choice = ask("Auswahl", "0")
     if choice == "1":
+        from secpd.config import load_settings
+
+        if not load_settings().llm_allow_mock:
+            print(
+                f"  {C.RED}Mock ist in Debug-Einstellungen verboten "
+                f"(SECPD_LLM_ALLOW_MOCK=0).{C.RESET}"
+            )
+            pause()
+            return
         os.environ["SECPD_LLM_MODE"] = "mock"
         save_secrets_env({"SECPD_LLM_MODE": "mock"})
         print(f"  {C.GREEN}LLM-Modus = mock{C.RESET}")
@@ -602,6 +615,12 @@ def settings_train() -> None:
         print(f"  {C.CYAN}4{C.RESET}  bank")
         pick = ask("Auswahl", "2" if llm in {"openai", "chatgpt"} else "1")
         llm = {"1": "mock", "2": "openai", "3": "lmstudio", "4": "bank"}.get(pick, "openai")
+        from secpd.config import load_settings as _ls
+
+        if llm == "mock" and not _ls().llm_allow_mock:
+            print(f"  {C.RED}Mock ist in Debug-Einstellungen verboten.{C.RESET}")
+            pause()
+            return
         if llm == "openai" and not (
             os.environ.get("SECPD_LLM_API_KEY") or os.environ.get("OPENAI_API_KEY")
         ):
@@ -794,6 +813,113 @@ def settings_risk_bands() -> None:
     pause()
 
 
+def _persist_flag(key: str, value: str) -> None:
+    os.environ[key] = value
+    save_secrets_env({key: value})
+    configure_logging()
+
+
+def settings_debug() -> None:
+    """Logs, Mock-Sperre, Cache-only, Bildschirm behalten."""
+    from secpd.config import load_settings
+
+    while True:
+        s = load_settings()
+        clear()
+        banner()
+        print(f"  {C.BOLD}Debug{C.RESET}")
+        hr()
+        print(f"  {C.DIM}{format_debug_status()}{C.RESET}")
+        print(f"  {C.DIM}Logs laufen auf stderr. Bildschirm nicht löschen, sonst verschwinden sie.{C.RESET}")
+        print()
+        print(
+            f"  {C.CYAN}1{C.RESET}  Logs im Terminal     "
+            f"{C.GREEN if s.log_level != 'OFF' else C.DIM}{s.log_level}{C.RESET}"
+        )
+        print(
+            f"  {C.CYAN}2{C.RESET}  Bildschirm behalten  "
+            f"{C.GREEN if s.debug_keep_screen else C.DIM}"
+            f"{'an' if s.debug_keep_screen else 'aus'}{C.RESET}"
+            f"  {C.DIM}(Logs bleiben sichtbar){C.RESET}"
+        )
+        print(
+            f"  {C.CYAN}3{C.RESET}  Mock-LLM             "
+            f"{C.GREEN if not s.llm_allow_mock else C.YELLOW}"
+            f"{'verboten' if not s.llm_allow_mock else 'erlaubt'}{C.RESET}"
+        )
+        print(
+            f"  {C.CYAN}4{C.RESET}  Scoring Cache-only   "
+            f"{C.GREEN if s.llm_cache_only else C.YELLOW}"
+            f"{'an' if s.llm_cache_only else 'aus (API bei Miss)'}{C.RESET}"
+        )
+        print(
+            f"  {C.CYAN}5{C.RESET}  Cache-Miss           "
+            f"{C.GREEN if s.llm_fail_on_miss else C.DIM}"
+            f"{'Abbruch' if s.llm_fail_on_miss else 'Fallback'}{C.RESET}"
+        )
+        print(f"  {C.CYAN}0{C.RESET}  Zurück")
+        print()
+        choice = ask("Auswahl", "0")
+        if choice == "1":
+            print()
+            print(f"  {C.CYAN}0{C.RESET}  aus (still)")
+            print(f"  {C.CYAN}1{C.RESET}  INFO  (Cache-Hits/Misses, Textanalyse)")
+            print(f"  {C.CYAN}2{C.RESET}  DEBUG (ausführlich)")
+            lvl = ask("Log-Level", "1" if s.log_level == "OFF" else {"INFO": "1", "DEBUG": "2"}.get(s.log_level, "0"))
+            mapping = {"0": "OFF", "1": "INFO", "2": "DEBUG"}
+            level = mapping.get(lvl, "INFO")
+            os.environ["SECPD_LOG_LEVEL"] = level
+            os.environ["SECPD_DEBUG"] = "1" if level != "OFF" else "0"
+            payload = {"SECPD_LOG_LEVEL": level, "SECPD_DEBUG": os.environ["SECPD_DEBUG"]}
+            if level != "OFF" and os.environ.get("SECPD_DEBUG_KEEP_SCREEN", "").strip() == "":
+                os.environ["SECPD_DEBUG_KEEP_SCREEN"] = "1"
+                payload["SECPD_DEBUG_KEEP_SCREEN"] = "1"
+            save_secrets_env(payload)
+            configure_logging()
+            print(f"  {C.GREEN}Log-Level = {level}{C.RESET}")
+            if level != "OFF":
+                print(f"  {C.DIM}Beim nächsten Scoring erscheinen INFO-Zeilen im Terminal.{C.RESET}")
+            pause()
+        elif choice == "2":
+            new = "0" if s.debug_keep_screen else "1"
+            _persist_flag("SECPD_DEBUG_KEEP_SCREEN", new)
+            print(f"  {C.GREEN}Bildschirm behalten = {'an' if new == '1' else 'aus'}{C.RESET}")
+            pause()
+        elif choice == "3":
+            new = "0" if s.llm_allow_mock else "1"
+            _persist_flag("SECPD_LLM_ALLOW_MOCK", new)
+            if new == "0":
+                mode = os.environ.get("SECPD_LLM_MODE", "mock")
+                if mode == "mock":
+                    print(
+                        f"  {C.YELLOW}Aktueller LLM-Modus ist mock — "
+                        f"bitte unter LLM auf openai stellen.{C.RESET}"
+                    )
+            print(f"  {C.GREEN}Mock-LLM = {'erlaubt' if new == '1' else 'verboten'}{C.RESET}")
+            pause()
+        elif choice == "4":
+            new = "0" if s.llm_cache_only else "1"
+            _persist_flag("SECPD_LLM_CACHE_ONLY", new)
+            print(
+                f"  {C.GREEN}Cache-only = {'an' if new == '1' else 'aus'}{C.RESET}"
+            )
+            if new == "0":
+                print(f"  {C.DIM}Cache-Miss ruft GPT auf (Kosten/Key in .secpd.env).{C.RESET}")
+            pause()
+        elif choice == "5":
+            new = "0" if s.llm_fail_on_miss else "1"
+            _persist_flag("SECPD_LLM_FAIL_ON_MISS", new)
+            print(
+                f"  {C.GREEN}Cache-Miss = {'Abbruch' if new == '1' else 'Fallback'}{C.RESET}"
+            )
+            pause()
+        elif choice in {"0", "q", "b", "back"}:
+            return
+        else:
+            print(f"  {C.YELLOW}Bitte 0–5 wählen.{C.RESET}")
+            pause()
+
+
 def settings_menu() -> None:
     while True:
         clear()
@@ -816,6 +942,10 @@ def settings_menu() -> None:
         print(f"  {C.CYAN}9{C.RESET}  Fetch EDGAR 8-K Events")
         print(f"  {C.CYAN}10{C.RESET} Fetch Ratings (NRSRO)")
         print(f"  {C.CYAN}11{C.RESET} Modell trainieren")
+        print(
+            f"  {C.CYAN}12{C.RESET} Debug  "
+            f"{C.DIM}({format_debug_status()}){C.RESET}"
+        )
         print(f"  {C.CYAN}0{C.RESET}  Zurück")
         print()
         choice = ask("Auswahl", "0")
@@ -842,8 +972,10 @@ def settings_menu() -> None:
             settings_fetch_ratings()
         elif choice == "11":
             settings_train()
+        elif choice == "12":
+            settings_debug()
         elif choice in {"0", "q", "b", "back"}:
             return
         else:
-            print(f"  {C.YELLOW}Bitte 0–11 wählen.{C.RESET}")
+            print(f"  {C.YELLOW}Bitte 0–12 wählen.{C.RESET}")
             pause()

@@ -308,6 +308,42 @@ def firm_overlap_stats(
     }
 
 
+def unseen_cik_mask(train_groups: Iterable[Any], test_groups: Iterable[Any]) -> np.ndarray:
+    """True für Testzeilen, deren CIK nicht im Training vorkommt."""
+    train_set = {int(c) for c in train_groups if pd.notna(c)}
+    test_g = pd.to_numeric(pd.Series(list(test_groups)), errors="coerce")
+    return (~test_g.isin(train_set) & test_g.notna()).to_numpy()
+
+
+def evaluate_by_firm_novelty(
+    y_true: np.ndarray,
+    pred: np.ndarray,
+    *,
+    train_groups: Iterable[Any],
+    test_groups: Iterable[Any],
+    ordinal: bool = False,
+) -> dict[str, Any]:
+    """Trennt In-Universum-Firmen von fremden CIKs im selben Testset.
+
+    Temporaler Holdout mischt oft beides: bekannte Emittenten in späteren
+    Jahren plus wenige neue CIKs. Für die Modellgüte müssen die fremden
+    CIKs extra ausgewiesen werden.
+    """
+    y = np.asarray(y_true)
+    p = np.asarray(pred)
+    test_list = list(test_groups)
+    if len(y) != len(p) or len(y) != len(test_list):
+        raise ValueError("y_true, pred und test_groups müssen gleiche Länge haben.")
+    unseen = unseen_cik_mask(train_groups, test_list)
+    seen = ~unseen
+    ev = evaluate_ordinal if ordinal else evaluate_probs
+    return {
+        "overlap": firm_overlap_stats(train_groups, test_list),
+        "in_universe": ev(y[seen], p[seen]) if seen.any() else ev(y[:0], p[:0]),
+        "unseen_cik": ev(y[unseen], p[unseen]) if unseen.any() else ev(y[:0], p[:0]),
+    }
+
+
 def format_metrics(name: str, metrics: dict[str, float]) -> str:
     if "mae" in metrics:
         sp = metrics.get("spearman", float("nan"))

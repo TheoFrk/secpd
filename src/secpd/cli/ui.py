@@ -24,6 +24,11 @@ class C:
 
 
 def clear() -> None:
+    from secpd.cli.debug import keep_screen
+
+    if keep_screen():
+        print()
+        return
     if sys.stdout.isatty():
         print("\033[2J\033[H", end="")
 

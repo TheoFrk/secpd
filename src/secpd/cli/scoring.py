@@ -17,6 +17,7 @@ from secpd.cli.catalog import (
     select_model_path,
     warn_model_coherence,
 )
+from secpd.cli.debug import llm_client_label, print_llm_cache_report, raise_if_cache_miss_forbidden
 from secpd.cli.paths import (
     EVENTS,
     FIRM_YEARS,
@@ -41,6 +42,7 @@ from secpd.cli.ui import (
     risk_band,
     scale_pd,
 )
+from secpd.config import load_settings
 from secpd.data.edgar import build_financials_panel
 from secpd.data.events import (
     MIN_FYEAR_WITH_FINANCIALS,
@@ -232,9 +234,12 @@ def score_frame(
         if needs_llm_columns(feature_cols):
             if work[cols.text_col].fillna("").astype(str).str.len().max() < 50:
                 raise RuntimeError("MD&A-Text fehlt oder ist zu kurz für das Combined-Modell.")
-            llm_mode = os.environ.get("SECPD_LLM_MODE", "mock")
-            client = get_llm_client(llm_mode, cache_only=True)
-            print(f"  {C.DIM}Textanalyse ({len(work)} Dokumente, LLM={llm_mode}) …{C.RESET}")
+            settings = load_settings()
+            client = get_llm_client(None, cache_only=settings.llm_cache_only)
+            print(
+                f"  {C.DIM}Textanalyse ({len(work)} Dokumente, "
+                f"LLM={llm_client_label(client)}) …{C.RESET}"
+            )
             work, _ = attach_text_features(
                 work,
                 client=client,
@@ -242,6 +247,8 @@ def score_frame(
                 id_col=cols.id_col,
                 progress_every=10_000,
             )
+            print_llm_cache_report(client)
+            raise_if_cache_miss_forbidden(client)
         else:
             kw = extract_keyword_features(
                 work, text_col=cols.text_col, id_col=cols.id_col

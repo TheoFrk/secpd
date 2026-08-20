@@ -15,8 +15,10 @@ from secpd.cli.catalog import (
 from secpd.cli.paths import LABELED, PANEL, ROOT
 from secpd.cli.quality import show_model_quality
 from secpd.cli.scoring import flow_score_company, load_company_index
+from secpd.cli.debug import configure_logging, format_debug_status
 from secpd.cli.settings import load_secrets_env, settings_menu
 from secpd.cli.ui import C, ask, banner, clear, horizon_label, hr, pause
+from secpd.config import load_settings
 
 
 def require_files() -> list[str]:
@@ -56,6 +58,7 @@ def show_help() -> None:
   4) Einstellungen
      · Vorausschauhorizont, LLM, SEC-UA, Zenodo, EDGAR, Ratings (NRSRO), Training
      · Training mit eigenem --default-horizon (echte Labels)
+     · Debug: Terminal-Logs, Mock verbieten, Cache-only, Cache-Miss-Abbruch
 
   Hinweise
      · Primär: Shadow-Rating (ordinal, Agency-Skala)
@@ -91,6 +94,9 @@ def main_menu() -> None:
             f"  {C.DIM}Label-Set: {n_co} Unternehmen · aktiv: {active_s} · "
             f"target={label} · LLM={os.environ.get('SECPD_LLM_MODE', 'mock')}{C.RESET}"
         )
+        dbg = load_settings()
+        if dbg.log_level != "OFF" or not dbg.llm_allow_mock:
+            print(f"  {C.DIM}Debug: {format_debug_status()}{C.RESET}")
         warn_model_coherence()
         print()
         if label == "default":
@@ -133,4 +139,5 @@ def main_menu() -> None:
 
 def main() -> None:
     load_secrets_env()
+    configure_logging()
     main_menu()

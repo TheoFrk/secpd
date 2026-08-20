@@ -63,13 +63,15 @@ class CachedLLMClient(BaseLLMClient):
             except Exception:  # noqa: BLE001 — korrupten Cache-Eintrag neu berechnen
                 logger.warning("Korrupter Cache-Eintrag wird neu berechnet: %s", path.name)
 
+        self._cache_misses += 1
+        n_miss = self._cache_misses
         if self.cache_only:
-            self._cache_misses += 1
-            n_miss = self._cache_misses
             if n_miss <= 3 or n_miss % 10_000 == 0:
                 logger.info("Cache-Miss (cache-only, kein LLM-Call) #%d: %s", n_miss, path.name)
             return TextRiskProfile.fallback(reason="cache miss")
 
+        if n_miss <= 3 or n_miss % 10_000 == 0:
+            logger.info("Cache-Miss #%d → LLM %s: %s", n_miss, self.inner.name, path.name)
         profile = self.inner.analyze(text, doc_id=doc_id)
         tmp = path.with_suffix(".tmp")
         tmp.write_text(profile.model_dump_json(indent=2), encoding="utf-8")

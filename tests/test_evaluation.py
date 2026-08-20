@@ -10,6 +10,7 @@ from secpd.evaluation import (
     evaluate_probs,
     firm_overlap_stats,
     top_k_capture,
+    unseen_cik_mask,
 )
 
 
@@ -87,3 +88,5 @@ def test_cluster_bootstrap_delta_and_overlap():
     ov = firm_overlap_stats([1, 2, 3], [2, 3, 9])
     assert ov["n_overlap_firms"] == 2
     assert abs(ov["overlap_rate"] - 2 / 3) < 1e-9
+    mask = unseen_cik_mask([1, 2, 3], [2, 9, 3, 9])
+    assert list(mask) == [False, True, False, True]

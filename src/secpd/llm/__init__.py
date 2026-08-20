@@ -67,6 +67,11 @@ def get_llm_client(
     """
     settings = load_settings()
     resolved = (mode or settings.llm_mode).strip().lower()
+    if resolved == "mock" and not settings.llm_allow_mock:
+        raise ValueError(
+            "Mock-LLM ist deaktiviert (SECPD_LLM_ALLOW_MOCK=0). "
+            "SECPD_LLM_MODE=openai setzen oder Einstellungen → Debug."
+        )
 
     client: BaseLLMClient
     if resolved == "mock":

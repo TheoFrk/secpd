@@ -8,6 +8,7 @@ Die Logik ist nach Thema aufgeteilt, damit die Menüs manuell wartbar bleiben:
 * ``catalog`` — Modell-Bundles entdecken, wählen, Kohärenz prüfen
 * ``scoring`` — 10-K laden, Features, Score, Ausgabe
 * ``quality`` — Modellgüte-Anzeige inkl. Frozen/Rolling-Reports
-* ``settings`` — LLM, Fetch, Training
+* ``settings`` — LLM, Fetch, Training, Debug
+* ``debug`` — Terminal-Logs, Mock-Sperre, Cache-Verhalten
 * ``app`` — Hauptmenü
 """
